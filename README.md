@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-06 17:12:05**_
+_Last updated: **2025-08-06 17:40:36**_
 
+- [From OpenAI to Nvidia, researchers agree: AI agents have a long way to go](https://biztoc.com/x/8584625129a13767) (Published: 2025-08-05)
+- [Foxconn to sell former car factory in Ohio for $375m](https://www.just-auto.com/news/foxconn-ohio-factory/) (Published: 2025-08-05)
+- [From OpenAI to Nvidia, researchers agree: AI agents have a long way to go](https://fortune.com/2025/08/05/from-openai-to-nvidia-researchers-agree-ai-agents-have-a-long-way-to-go/) (Published: 2025-08-05)
+- [AMD under pressure to show AI gains with stock beating Nvidia](https://biztoc.com/x/19c335c18d32442a) (Published: 2025-08-05)
+- [What’s New and Important in CUDA Toolkit 13.0](https://developer.nvidia.com/blog/whats-new-and-important-in-cuda-toolkit-13-0/) (Published: 2025-08-05)
+- [Nvidia, Broadcom, Chip Stocks Fall On Looming Trump Tariffs](https://biztoc.com/x/f79b9913066b181c) (Published: 2025-08-05)
+- [Belatedly, OpenAI releases two new open weight models](https://www.techtarget.com/searchenterpriseai/news/366628493/Belatedly-OpenAI-releases-two-new-open-weight-models) (Published: 2025-08-05)
+- [Delivering 1.5 M TPS Inference on NVIDIA GB200 NVL72, NVIDIA Accelerates OpenAI gpt-oss Models from Cloud to Edge](https://developer.nvidia.com/blog/delivering-1-5-m-tps-inference-on-nvidia-gb200-nvl72-nvidia-accelerates-openai-gpt-oss-models-from-cloud-to-edge/) (Published: 2025-08-05)
 - [I tested Dell's XPS successor, and it made my $3,000 Windows laptop look bad](https://www.zdnet.com/article/i-tested-dells-xps-successor-and-it-made-my-3000-windows-laptop-look-bad/) (Published: 2025-08-05)
 - [OpenAI releases a free GPT model that can run right on your laptop](https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release) (Published: 2025-08-05)
-- [OpenAI launches two 'open' AI reasoning models | TechCrunch](https://techcrunch.com/2025/08/05/openai-launches-two-open-ai-reasoning-models/) (Published: 2025-08-05)
-- [OpenAI’s New Open Models Accelerated Locally on NVIDIA GeForce RTX and RTX PRO GPUs](https://blogs.nvidia.com/blog/rtx-ai-garage-openai-oss/) (Published: 2025-08-05)
-- [OpenAI and NVIDIA Propel AI Innovation With New Open Models Optimized for the World’s Largest AI Inference Infrastructure](https://blogs.nvidia.com/blog/openai-gpt-oss/) (Published: 2025-08-05)
-- [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/) (Published: 2025-08-05)
-- [OpenAI releases lower-cost models to rival Meta, Mistral and DeepSeek](https://www.cnbc.com/2025/08/05/openai-open-weight-meta-mistral-deepseek-ai.html) (Published: 2025-08-05)
-- [OpenAI launches its first open model in years so it can stop being on the ‘wrong side of history’—while still keeping its most valuable IP under wraps](https://fortune.com/2025/08/05/openai-launches-open-source-llm-ai-model-gpt-oss-120b-deepseek/) (Published: 2025-08-05)
-- [OpenAI returns to open source roots with new models gpt-oss-120b and gpt-oss-20b](https://venturebeat.com/ai/openai-returns-to-open-source-roots-with-new-models-gpt-oss-120b-and-gpt-oss-20b/) (Published: 2025-08-05)
