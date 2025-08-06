@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-06 14:46:25**_
+_Last updated: **2025-08-06 15:01:00**_
 
+- [(2025.08.06) (various)](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2025/08.html#20250806_various) (Published: 2025-08-05)
+- [≪若/≪、吟鐚rend Micro Apex Oneх∈茯膊∞潟純絲障ウ、潟クсッ激潟⒢若潟茵識эCVE-2025-54948, CVE-2025-54987鐚 (祿磧 2025.08.06)](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2025/08.html#20250806_apex) (Published: 2025-08-05)
+- [Contra China’s ‘Time Bomb’ U.S. Spying Concerns, Trade Is Peaceful](https://www.forbes.com/sites/johntamny/2025/08/05/contra-chinas-time-bomb-us-spying-concerns-trade-is-peaceful/) (Published: 2025-08-05)
+- [How Nvidia’s billionaire CEO went from Denny’s dishwasher to leading a company with a $4.3 trillion market cap](https://fortune.com/article/nvidia-ceo-jensen-huang-dennys-dishwasher-most-powerful-person-business/) (Published: 2025-08-05)
+- [Why Advanced Micro Devices Rallied Over 24% in July](https://biztoc.com/x/9cc00a609b2320b4) (Published: 2025-08-05)
+- [Nvidia Stock Is Falling. Cathie Wood Bought More Stock](https://biztoc.com/x/dd7cbab43b702a14) (Published: 2025-08-05)
 - [Critical Vulnerabilities Found in NVIDIA's Triton Inference Server](https://www.infosecurity-magazine.com/news/vulnerabilities-nvidias-triton/) (Published: 2025-08-05)
 - [GPU as a Service Market Company Evaluation Report 2025 | AWS, Microsoft, and Google Lead with High-Performance NVIDIA Integrations, Scalable AI Infrastructure, and Global Cloud Capabilities](https://www.globenewswire.com/news-release/2025/08/05/3127618/28124/en/GPU-as-a-Service-Market-Company-Evaluation-Report-2025-AWS-Microsoft-and-Google-Lead-with-High-Performance-NVIDIA-Integrations-Scalable-AI-Infrastructure-and-Global-Cloud-Capabilit.html) (Published: 2025-08-05)
 - [AI for Sales and Marketing Company Evaluation Report 2025 | Salesforce, Google, and Adobe Lead with Advanced Personalization, Predictive Analytics, and Marketing Automation](https://www.globenewswire.com/news-release/2025/08/05/3127616/28124/en/AI-for-Sales-and-Marketing-Company-Evaluation-Report-2025-Salesforce-Google-and-Adobe-Lead-with-Advanced-Personalization-Predictive-Analytics-and-Marketing-Automation.html) (Published: 2025-08-05)
 - [Chained bugs in Nvidia's Triton Inference Server lead to full system compromise](https://www.theregister.com/2025/08/05/nvidia_triton_bug_chain/) (Published: 2025-08-05)
-- [Artificial Intelligence Market Company Evaluation Report 2025 | NVIDIA, Microsoft, and Google Lead with Cutting-Edge Innovation, Strategic Partnerships, and Expansive Cloud-AI Ecosystems](https://www.globenewswire.com/news-release/2025/08/05/3127610/28124/en/Artificial-Intelligence-Market-Company-Evaluation-Report-2025-NVIDIA-Microsoft-and-Google-Lead-with-Cutting-Edge-Innovation-Strategic-Partnerships-and-Expansive-Cloud-AI-Ecosystems.html) (Published: 2025-08-05)
-- [This open-source LLM could redefine AI research, and it’s 100% public](https://cointelegraph.com/explained/this-open-source-llm-could-redefine-ai-research-and-its-100-public) (Published: 2025-08-05)
-- [French AI Startup Mistral Seeks $10-Billion Valuation in New Fundraising Round](https://variety.com/2025/digital/global/french-ai-startup-mistral-valuation-fundraising-round-1236478508/) (Published: 2025-08-05)
-- [(PR) Silicon Motion Showcases MonTitan SM8366 in Core to Edge AI Server Applications at FMS 2025](https://www.techpowerup.com/339628/silicon-motion-showcases-montitan-sm8366-in-core-to-edge-ai-server-applications-at-fms-2025) (Published: 2025-08-05)
-- [Here’s Why Baron Global Advantage Fund’s Has Strong Conviction in NVIDIA (NVDA)](https://biztoc.com/x/667155f7281116be) (Published: 2025-08-05)
-- [These 10 jobs are the least AI-safe, according to new Microsoft report: 5 are in customer service](https://www.cnbc.com/2025/08/05/these-10-jobs-are-the-least-ai-safe-according-to-new-microsoft-report.html) (Published: 2025-08-05)
