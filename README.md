@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-06 11:38:37**_
+_Last updated: **2025-08-06 02:42:47**_
 
 - [Broadcom launches Jericho chip to advance AI data center networks](https://economictimes.indiatimes.com/tech/technology/broadcom-launches-jericho-chip-to-advance-ai-data-center-networks/articleshow/123107864.cms) (Published: 2025-08-05)
 - [Nvidia partner Hon Hai to expand AI server assembly in the US](https://www.digitimes.com/news/a20250805VL203/nvidia-ai-server-plant-manufacturing-production.html) (Published: 2025-08-05)
