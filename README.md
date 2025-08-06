@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-06 20:54:10**_
+_Last updated: **2025-08-06 21:15:42**_
 
 - [AMD Gives Solid Forecast, Showing Strength of Demand for AI](https://www.livemint.com/companies/news/amd-gives-solid-forecast-showing-strength-of-demand-for-ai-11754427075972.html) (Published: 2025-08-05)
 - [AMD Gutted By China GPU Ban – Posts Q2 Operating Loss](https://wccftech.com/amd-gutted-by-china-gpu-ban-posts-q2-operating-loss/) (Published: 2025-08-05)
