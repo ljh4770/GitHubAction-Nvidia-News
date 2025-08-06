@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-06 11:36:26**_
+_Last updated: **2025-08-06 11:49:42**_
 
+- [AMD, please, no more 8GB GPUs – the Radeon RX 9060 GPU has officially been confirmed, with a feeble amount of VRAM](https://www.techradar.com/computing/gpu/amd-please-no-more-8gb-gpus-the-radeon-rx-9060-gpu-has-officially-been-confirmed-with-a-feeble-amount-of-vram) (Published: 2025-08-05)
 - [TSMC cracks down on potential trade secret breach, initiates legal action](https://economictimes.indiatimes.com/tech/technology/tsmc-cracks-down-on-potential-trade-secret-breach-initiates-legal-action/articleshow/123118625.cms) (Published: 2025-08-05)
 - [Exclusive: $2.1B business travel startup Engine appoints a CFO](https://fortune.com/2025/08/05/exclusive-2-billion-business-travel-startup-engine-appoints-cfo/) (Published: 2025-08-05)
 - [Perplexity verkar ta data utan tillstånd igen](https://feber.se/internet/perplexity-verkar-ta-data-utan-tillstand-igen/482128/) (Published: 2025-08-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-06 11:36:26**_
 - [Graphics card prices are totally ridiculous and it's creating a barrier to entry that makes me fear for the future of PC gaming](https://www.pcgamer.com/hardware/graphics-cards/graphics-card-prices-are-totally-ridiculous-and-its-creating-a-barrier-to-entry-that-makes-me-fear-for-the-future-of-pc-gaming/) (Published: 2025-08-05)
 - [Taiwan Arrests Six in Probe of TSMC Chip Technology Leak](https://www.livemint.com/companies/news/taiwan-arrests-six-in-probe-of-tsmc-chip-technology-leak-11754390785662.html) (Published: 2025-08-05)
 - [AMD Limits Overclocking Headroom of Radeon RX 9060](https://www.techpowerup.com/339613/amd-limits-overclocking-headroom-of-radeon-rx-9060) (Published: 2025-08-05)
-- [‘Oasis’ WMR Driver Expected to Later This Month, Bringing New Life to Microsoft’s PC VR Headsets](https://www.roadtovr.com/oasis-wmr-driver-release-date-microsoft-pc-vr/) (Published: 2025-08-05)
