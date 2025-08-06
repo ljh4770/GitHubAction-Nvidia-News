@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-06 19:39:28**_
+_Last updated: **2025-08-06 19:50:20**_
 
+- [Two Chinese nationals in California accused of illegally shipping Nvidia AI chips to China](https://biztoc.com/x/8c997fd15cbfdd6d) (Published: 2025-08-05)
 - [Two Chinese nationals in California accused of illegally shipping Nvidia AI chips to China](https://finance.yahoo.com/news/two-chinese-nationals-california-accused-193312577.html) (Published: 2025-08-05)
 - [OpenAI Unveils Two New AI Models: gpt-oss-120b and gpt-oss-20b — and run locally on Snapdragon PCs and NVIDIA RTX GPUs](https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-launches-two-gpt-models-theyre-not-gpt-5-but-they-run-locally-on-snapdragon-pcs-and-nvidia-rtx-gpus) (Published: 2025-08-05)
 - [The Imitation Game: Defending against AI's Dark Side!](https://www.blogger.com/comment/fullpage/post/8152901575140311047/272409841281103316) (Published: 2025-08-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-06 19:39:28**_
 - [OpenAI Drops Two Open Source AI Models That Run Locally and Match Premium Offerings](https://decrypt.co/333617/openai-two-open-source-ai-models-run-locally-match-premium) (Published: 2025-08-05)
 - [US Charges Chinese Nationals With Nvidia Chips Export Breach](https://biztoc.com/x/1147902e6972d14c) (Published: 2025-08-05)
 - [Any of these 8 tech stocks could become a $5 trillion company before Nvidia does](https://biztoc.com/x/8d6242d2776981be) (Published: 2025-08-05)
-- [nvidia-dali-nightly-cuda120 1.52.0.dev20250805](https://pypi.org/project/nvidia-dali-nightly-cuda120/1.52.0.dev20250805/) (Published: 2025-08-05)
