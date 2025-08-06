@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-06 16:47:37**_
+_Last updated: **2025-08-06 17:12:05**_
 
-- [The Business World's Most Powerful People](https://www.newser.com/story/372995/the-business-worlds-most-powerful-people.html) (Published: 2025-08-05)
-- [Trump Teases Tariffs on Foreign Chips in the 'Next Week or So'](https://me.pcmag.com/en/processors/31531/trump-teases-tariffs-on-foreign-chips-in-the-next-week-or-so) (Published: 2025-08-05)
-- [Trump Teases Tariffs on Foreign Chips in the 'Next Week or So'](https://uk.pcmag.com/processors/159423/trump-teases-tariffs-on-foreign-chips-in-the-next-week-or-so) (Published: 2025-08-05)
-- [Nvida Server 550 points now to 570](https://askubuntu.com/questions/1554082/nvida-server-550-points-now-to-570) (Published: 2025-08-05)
-- [The tide is turning - over 40% of Steam users now have AMD CPUs, according to the latest Hardware Survey](https://www.gamesradar.com/hardware/desktop-pc/the-tide-is-turning-over-40-percent-of-steam-users-now-have-amd-cpus-according-to-the-latest-hardware-survey/) (Published: 2025-08-05)
-- [Nvidia: GPUs should not have kill switches](https://biztoc.com/x/e2cdce2c66f0746d) (Published: 2025-08-05)
-- [NVIDIA Rejects the US Lawmakers’ Plans to Integrate ‘Kill Switches’ Into AI Chips For Export to China; Says Its Deliberately Weakens Critical Infrastructure & Will Never Happen](https://wccftech.com/nvidia-rejects-the-us-administration-plans-to-integrate-kill-switches-into-ai-chips-for-export-to-china/) (Published: 2025-08-05)
-- [Ex-Google executive predicts a dystopian job apocalypse by 2027: 'AI will be better than humans at everything... even CEOs'](https://economictimes.indiatimes.com/magazines/panache/ex-google-executive-mo-gawdat-predicts-a-dystopian-job-apocalypse-by-2027-ai-will-be-better-than-humans-at-everything-even-ceos/articleshow/123123024.cms) (Published: 2025-08-05)
-- [Don’t Panic on Nasdaq Dips: Leverage Seasonal Trends for Smarter Trades](https://www.barchart.com/story/news/33893340/dont-panic-on-nasdaq-dips-leverage-seasonal-trends-for-smarter-trades) (Published: 2025-08-05)
-- [How To Tap The AI Nuclear Bonanza For 10%+ Dividends](https://www.forbes.com/sites/michaelfoster/2025/08/05/how-to-tap-the-ai-nuclear-bonanza-for-10-dividends/) (Published: 2025-08-05)
+- [I tested Dell's XPS successor, and it made my $3,000 Windows laptop look bad](https://www.zdnet.com/article/i-tested-dells-xps-successor-and-it-made-my-3000-windows-laptop-look-bad/) (Published: 2025-08-05)
+- [OpenAI releases a free GPT model that can run right on your laptop](https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release) (Published: 2025-08-05)
+- [OpenAI launches two 'open' AI reasoning models | TechCrunch](https://techcrunch.com/2025/08/05/openai-launches-two-open-ai-reasoning-models/) (Published: 2025-08-05)
+- [OpenAI’s New Open Models Accelerated Locally on NVIDIA GeForce RTX and RTX PRO GPUs](https://blogs.nvidia.com/blog/rtx-ai-garage-openai-oss/) (Published: 2025-08-05)
+- [OpenAI and NVIDIA Propel AI Innovation With New Open Models Optimized for the World’s Largest AI Inference Infrastructure](https://blogs.nvidia.com/blog/openai-gpt-oss/) (Published: 2025-08-05)
+- [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/) (Published: 2025-08-05)
+- [OpenAI releases lower-cost models to rival Meta, Mistral and DeepSeek](https://www.cnbc.com/2025/08/05/openai-open-weight-meta-mistral-deepseek-ai.html) (Published: 2025-08-05)
+- [OpenAI launches its first open model in years so it can stop being on the ‘wrong side of history’—while still keeping its most valuable IP under wraps](https://fortune.com/2025/08/05/openai-launches-open-source-llm-ai-model-gpt-oss-120b-deepseek/) (Published: 2025-08-05)
+- [OpenAI returns to open source roots with new models gpt-oss-120b and gpt-oss-20b](https://venturebeat.com/ai/openai-returns-to-open-source-roots-with-new-models-gpt-oss-120b-and-gpt-oss-20b/) (Published: 2025-08-05)
