@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-06 23:45:59**_
+_Last updated: **2025-08-06 23:56:35**_
 
+- [AMD’s crushing $8.7 billion AI forecast saves the day](https://rollingout.com/2025/08/05/amds-crushing-8-7-billion-ai-forecast/) (Published: 2025-08-05)
 - [AMD’s earnings fall short due to China chip ban, despite good traction in AI](https://siliconangle.com/2025/08/05/amds-earnings-fall-short-due-china-chip-ban-despite-good-traction-ai/) (Published: 2025-08-05)
 - [Stock market today: Dow, S&P 500, Nasdaq futures rise as earnings take center stage](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-earnings-take-center-stage-233644524.html) (Published: 2025-08-05)
 - [U.S. stocks close lower on weak economic data, tariff concerns](https://www.thestar.com.my/news/world/2025/08/06/us-stocks-close-lower-on-weak-economic-data-tariff-concerns) (Published: 2025-08-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-06 23:45:59**_
 - [nvidia-nvtiff-tegra-cu11 0.5.1.75](https://pypi.org/project/nvidia-nvtiff-tegra-cu11/0.5.1.75/) (Published: 2025-08-05)
 - [nvidia-nvtiff-tegra-cu12 0.5.1.75](https://pypi.org/project/nvidia-nvtiff-tegra-cu12/0.5.1.75/) (Published: 2025-08-05)
 - [nvidia-nvtiff-cu11 0.5.1.75](https://pypi.org/project/nvidia-nvtiff-cu11/0.5.1.75/) (Published: 2025-08-05)
-- [nvidia-nvtiff-cu12 0.5.1.75](https://pypi.org/project/nvidia-nvtiff-cu12/0.5.1.75/) (Published: 2025-08-05)
