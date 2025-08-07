@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-07 07:54:14**_
+_Last updated: **2025-08-07 08:26:17**_
 
+- [17,595 Shares in GraniteShares 2x Long NVDA Daily ETF (NASDAQ:NVDL) Bought by XTX Topco Ltd](https://www.etfdailynews.com/2025/08/06/17595-shares-in-graniteshares-2x-long-nvda-daily-etf-nasdaqnvdl-bought-by-xtx-topco-ltd/) (Published: 2025-08-06)
+- [NVIDIA Reassures Customers: No Backdoors, No Kill Switches, No Spyware in its GPUs](https://www.techpowerup.com/339661/nvidia-reassures-customers-no-backdoors-no-kill-switches-no-spyware-in-its-gpus) (Published: 2025-08-06)
+- [Don't miss this Switch OLED deal as Nintendo officially jacks price up to $400](https://www.neowin.net/deals/dont-miss-this-switch-oled-deal-as-nintendo-officially-jacks-price-up-to-400/) (Published: 2025-08-06)
+- [Two Chinese nationals charged with exporting Nvidia AI chips to China](https://biztoc.com/x/942b2f268ab56100) (Published: 2025-08-06)
+- [Top Infrastructure Stocks To Consider – August 4th](https://www.etfdailynews.com/2025/08/06/top-infrastructure-stocks-to-consider-august-4th/) (Published: 2025-08-06)
+- [Robotics Stocks To Consider – August 4th](https://www.etfdailynews.com/2025/08/06/robotics-stocks-to-consider-august-4th/) (Published: 2025-08-06)
+- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Trump Tariff Fears; Palantir, Pfizer, Tesla, Nvidia, More Movers](https://biztoc.com/x/1d7994faf4dc1b72) (Published: 2025-08-06)
+- [Gaming GPU Industry Report 2025 | Push for High Frame Rates and 4K/8K Resolution Propels Demand for Advanced Graphics Processing Units](https://www.globenewswire.com/news-release/2025/08/06/3128067/28124/en/Gaming-GPU-Industry-Report-2025-Push-for-High-Frame-Rates-and-4K-8K-Resolution-Propels-Demand-for-Advanced-Graphics-Processing-Units.html) (Published: 2025-08-06)
+- [The Asus Zenbook S 16 is built from a mysterious new material - but does this space-age laptop live up to the hype?](https://www.techradar.com/computing/windows-laptops/asus-zenbook-s-16-review) (Published: 2025-08-06)
 - [Nvidia AI Chips Worth $28 Million Illegally Shipped To China, Two Chinese Citizens Charged In California Smuggling Case](https://biztoc.com/x/0e57a8a9c062d19f) (Published: 2025-08-06)
-- [OpenAI launches its first open-weight models since GPT-2](https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-its-first-open-weight-models-since-gpt-2/articleshow/123136876.cms) (Published: 2025-08-06)
-- [Israel Discount Bank of New York Has $213,000 Stock Position in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/06/israel-discount-bank-of-new-york-has-213000-stock-position-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-06)
-- [NVIDIA Corporation (NASDAQ:NVDA) is Lattice Capital Management LLC’s Largest Position](https://www.etfdailynews.com/2025/08/06/nvidia-corporation-nasdaqnvda-is-lattice-capital-management-llcs-largest-position/) (Published: 2025-08-06)
-- [Bosman Wealth Management LLC Sells 7,870 Shares of NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/06/bosman-wealth-management-llc-sells-7870-shares-of-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-06)
-- [NVIDIA Corporation (NASDAQ:NVDA) Shares Bought by Burford Brothers Inc.](https://www.etfdailynews.com/2025/08/06/nvidia-corporation-nasdaqnvda-shares-bought-by-burford-brothers-inc/) (Published: 2025-08-06)
-- [Ramsay Stattman Vela & Price Inc. Sells 14,094 Shares of NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/06/ramsay-stattman-vela-price-inc-sells-14094-shares-of-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-06)
-- [NVIDIA Corporation (NASDAQ:NVDA) Shares Bought by Cerity Partners LLC](https://www.etfdailynews.com/2025/08/06/nvidia-corporation-nasdaqnvda-shares-bought-by-cerity-partners-llc/) (Published: 2025-08-06)
-- [NVIDIA Corporation (NASDAQ:NVDA) Position Boosted by Seamount Financial Group Inc.](https://www.etfdailynews.com/2025/08/06/nvidia-corporation-nasdaqnvda-position-boosted-by-seamount-financial-group-inc/) (Published: 2025-08-06)
-- [Joseph Group Capital Management Has $492,000 Stake in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/06/joseph-group-capital-management-has-492000-stake-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-06)
