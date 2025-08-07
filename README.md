@@ -1,15 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-07 19:53:58**_
+_Last updated: **2025-08-07 20:19:32**_
 
-- [NVIDIA CEO Jensen Huang Meets President Trump Amidst Talks Of ‘Kill Switches’ For China AI GPUs](https://wccftech.com/nvidia-ceo-jensen-huang-meets-president-trump-amidst-talks-of-kill-switches-for-china-ai-gpus/) (Published: 2025-08-06)
-- [Pemex Comeback Plan Lacks Operations Overhaul Sought by Analysts](https://biztoc.com/x/8e0ea63c14588563) (Published: 2025-08-06)
-- [Ryan Speedo Green triumphs in first outing as Wagner’s god in 'Die Walküre'](https://biztoc.com/x/4dcc48e487660a04) (Published: 2025-08-06)
-- [Analysts Love This Hidden-Gem Generative AI Stock](https://biztoc.com/x/1a0ccfc3fb357649) (Published: 2025-08-06)
-- [Crude Prices Retreat on Claims of Progress in Ending Russian-Ukraine War](https://biztoc.com/x/0b880c018e1b9f98) (Published: 2025-08-06)
-- [Video
-This strategy worked for the iPhone. Can Apple do it again with AI?
-3:41](https://biztoc.com/x/1dfaa361c0837bcf) (Published: 2025-08-06)
-- [Intel XeSS 2 Now Enabled In 44 Games, More Titles Coming Soon With Enhanced AI Upscaling Support](https://wccftech.com/intel-xess-2-now-enabled-in-44-games-more-titles-coming-soon-enhanced-ai-upscaling/) (Published: 2025-08-06)
-- [Nvidia tops list of veteran analyst's best stocks for rest of 2025](https://biztoc.com/x/2ad873090564be69) (Published: 2025-08-06)
-- [Sandisk And SK Hynix Agreement Enables Fast NAND Flash To DRAM In HBM Packages](https://www.forbes.com/sites/tomcoughlin/2025/08/06/sandisk-and-sk-hynix-agreement-enables-fast-nand-flash-to-dram-in-hbm-packages/) (Published: 2025-08-06)
-- [Nvidia RTX Pro 5000 Blackwell laptop GPU beats previous gen by 14% in OpenCL benchmark — professional mobile chip performs like a laptop RTX 5090](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-pro-5000-blackwell-laptop-gpu-beats-previous-gen-by-14-percent-in-opencl-benchmark-professional-mobile-chip-performs-like-a-laptop-rtx-5090) (Published: 2025-08-06)
+- [Podcasting's 'Serial' Era Ends as Video Takes Over](https://biztoc.com/x/16fed118c62b6307) (Published: 2025-08-06)
+- [Airbnb forecasts quarterly revenue above estimates; plans $6 billion share buyback](https://biztoc.com/x/d3c66f872c6361cf) (Published: 2025-08-06)
+- [China’s Baby Benefits Are Tiny. That Isn’t the Point](https://biztoc.com/x/a7664bfe9b3cee50) (Published: 2025-08-06)
+- [Trump Meets With Nvidia’s Huang as Semiconductor Tariffs Near](https://biztoc.com/x/c18ab0a25c2e9a11) (Published: 2025-08-06)
+- [Brazil’s President Rules Out Reciprocal Tariffs on US in Reuters Interview](https://biztoc.com/x/bccd79ba7d7e0839) (Published: 2025-08-06)
+- [S&P 500 and Nasdaq close on strong gains, while Apple leads Dow higher](https://biztoc.com/x/cd9a31d9ea0c0834) (Published: 2025-08-06)
+- [Alternative Investments in 401(k)s: Why Advisors Have Mixed Feelings](https://biztoc.com/x/eba86532f6c627bd) (Published: 2025-08-06)
+- [Duolingo raises 2025 revenue forecast as AI tools boost user engagement](https://biztoc.com/x/3d291263fbed2fef) (Published: 2025-08-06)
+- [Nasdaq Closes in on Record as Apple Recharges Tech Rally](https://biztoc.com/x/1cef28206666a15e) (Published: 2025-08-06)
+- [Save Nearly $600 Off Lenovo's Newest Legion 5 Gaming Laptop with OLED Display and RTX 5070 GPU](https://www.ign.com/articles/lenovo-legion-5-intel-core-ultra-7-rtx-5070-gaming-laptop-deal-back-to-school-sale) (Published: 2025-08-06)
