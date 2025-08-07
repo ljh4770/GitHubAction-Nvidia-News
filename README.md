@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-07 23:22:56**_
+_Last updated: **2025-08-07 23:41:11**_
 
+- [Trump says he plans to put 100% tariff on computer chips, likely increasing electronics costs](https://www.pbs.org/newshour/politics/trump-says-he-plans-to-put-100-tariff-on-computer-chips-likely-increasing-electronics-costs) (Published: 2025-08-06)
 - [Why Nvidia and other chip stocks are shrugging off Trump’s latest tariff threat](https://biztoc.com/x/b5eb0281adf44ed4) (Published: 2025-08-06)
 - [Trump announces 100% chip tariff as Apple ups U.S. investment](https://finance.yahoo.com/news/trump-announces-100-chip-tariff-230713649.html) (Published: 2025-08-06)
 - [CoreCivic (NYSE:CXW) Reports Strong Q2](https://finance.yahoo.com/news/corecivic-nyse-cxw-reports-strong-230638202.html) (Published: 2025-08-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-07 23:22:56**_
 - [I'm tired of stupid people treating me like I'm an idiot](https://whatwelost.substack.com/p/im-tired-of-stupid-people-treating) (Published: 2025-08-06)
 - [Samsung denies HBM3E price-cut rumors amid Nvidia approval delay](https://www.digitimes.com/news/a20250806PD239/samsung-hbm3e-nvidia-hbm-tesla.html) (Published: 2025-08-06)
 - [Fark NotNewsletter: What's your entry for "Nature's Ongoing Uprising Against Humanity" [FarkBlog]](https://www.fark.com/comments/blog1590/Fark-NotNewsletter-Whats-your-entry-for-Natures-Ongoing-Uprising-Against-Humanity) (Published: 2025-08-06)
-- [nvidia-nvtiff-tegra-cu13 0.5.1.75](https://pypi.org/project/nvidia-nvtiff-tegra-cu13/0.5.1.75/) (Published: 2025-08-06)
