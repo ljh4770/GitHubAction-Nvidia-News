@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-07 07:41:04**_
+_Last updated: **2025-08-07 07:54:14**_
 
 - [Nvidia AI Chips Worth $28 Million Illegally Shipped To China, Two Chinese Citizens Charged In California Smuggling Case](https://biztoc.com/x/0e57a8a9c062d19f) (Published: 2025-08-06)
 - [OpenAI launches its first open-weight models since GPT-2](https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-its-first-open-weight-models-since-gpt-2/articleshow/123136876.cms) (Published: 2025-08-06)
