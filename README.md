@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-07 14:44:34**_
+_Last updated: **2025-08-07 14:59:34**_
 
+- [Super Micro stock sinks 20% after earnings, outlook disappoint](https://www.cnbc.com/2025/08/06/super-micro-smci-stock-earnings.html) (Published: 2025-08-06)
 - [Next-Gen Xbox Will Reportedly Be More Powerful Than the PS6](http://comicbook.com/gaming/news/new-xbox-next-gen-ps6-power-report/) (Published: 2025-08-06)
 - [Nvidia says its chips don’t have backdoors, wants to keep it that way](https://www.pcworld.com/article/2869973/nvidia-says-its-chips-dont-have-backdoors-wants-to-keep-it-that-way.html) (Published: 2025-08-06)
 - [Asus releases ROG NUC (2025) gaming mini-PCs globally with Nvidia GeForce RTX 5070 Ti and RTX 5080 GPUs](https://www.notebookcheck.net/Asus-releases-ROG-NUC-2025-gaming-mini-PCs-globally-with-Nvidia-GeForce-RTX-5070-Ti-and-RTX-5080-GPUs.1081278.0.html) (Published: 2025-08-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-07 14:44:34**_
 - [Nvidia Rejects US Demand For Backdoors in AI Chips](https://news.slashdot.org/story/25/08/06/145218/nvidia-rejects-us-demand-for-backdoors-in-ai-chips) (Published: 2025-08-06)
 - [Supermicro’s Earnings Selloff Explained: Should You Buy SMCI Stock Now?](https://www.barchart.com/story/news/33925674/supermicros-earnings-selloff-explained-should-you-buy-smci-stock-now) (Published: 2025-08-06)
 - [Tokenized stocks rise 220% in July, reminiscent of ‘early DeFi boom’](https://cointelegraph.com/news/tokenized-stocks-rise-220-of-early-defi-boom) (Published: 2025-08-06)
-- [Small Caps Rally, Disney Expands Streaming, Tech Stocks Face Pressure](https://www.forbes.com/sites/jjkinahan/2025/08/06/small-caps-rally-disney-expands-streaming-tech-stocks-face-pressure/) (Published: 2025-08-06)
