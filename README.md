@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-07 15:50:11**_
+_Last updated: **2025-08-07 16:00:15**_
 
 - [Pliops XDP LightningAI with FusIOnX Stack Wins “Best of Show” Award in the AI Accelerator Category at FMS 2025](https://www.globenewswire.com/news-release/2025/08/06/3128502/0/en/Pliops-XDP-LightningAI-with-FusIOnX-Stack-Wins-Best-of-Show-Award-in-the-AI-Accelerator-Category-at-FMS-2025.html) (Published: 2025-08-06)
 - [Paradigm Shifts and the Winner’s Curse](https://stratechery.com/2025/paradigm-shifts-and-the-winners-curse/) (Published: 2025-08-06)
