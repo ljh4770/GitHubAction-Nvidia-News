@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 20:39:24**_
+_Last updated: **2025-08-08 20:53:13**_
 
+- [Physical AI is Moving Things](https://www.forbes.com/sites/sabbirrangwala/2025/08/07/physical-ai-is-moving-things/) (Published: 2025-08-07)
 - [NVIDIA Store has 5070 FE ($549) and 5080 FE ($999) (6 replies)](https://slickdeals.net/f/18513958-nvidia-store-has-5070-fe-549-and-5080-fe-999) (Published: 2025-08-07)
 - [Apple’s First Mac Pro Still Has A Year Remaining Before It Completes Its 20-Year Anniversary, But The Tower Form Factor Is Still Adopted To This Day, Even If It No Longer Offers The Same Upgrade Options](https://wccftech.com/first-mac-pro-is-now-19-years-old/) (Published: 2025-08-07)
 - [Finally, a Windows laptop that I wouldn't mind putting away my MacBook Pro for](https://www.zdnet.com/article/finally-a-windows-laptop-that-i-wouldnt-mind-putting-away-my-macbook-pro-for/) (Published: 2025-08-07)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-08 20:39:24**_
 - [Wall Street Rallies Despite Tariff Shock As Tech Stocks Power Ahead](https://www.ibtimes.com/wall-street-rallies-despite-tariff-shock-tech-stocks-power-ahead-3780459) (Published: 2025-08-07)
 - [The top 50 venture investors in Germany](https://www.cbinsights.com/research/top-investors-germany/) (Published: 2025-08-07)
 - [GPT-5 is finally here—can it put OpenAI back on top?](https://fortune.com/2025/08/07/gpt-5-is-finally-here-can-it-put-openai-back-on-top/) (Published: 2025-08-07)
-- [Claimable Expands Advisory Board with ERISA Litigation Pioneer D. Brian Hufford and Renowned Healthcare Advocate Dr. Elisabeth Potter](https://www.globenewswire.com/news-release/2025/08/07/3129569/0/en/Claimable-Expands-Advisory-Board-with-ERISA-Litigation-Pioneer-D-Brian-Hufford-and-Renowned-Healthcare-Advocate-Dr-Elisabeth-Potter.html) (Published: 2025-08-07)
