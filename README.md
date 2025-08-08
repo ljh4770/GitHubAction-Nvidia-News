@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 09:36:21**_
+_Last updated: **2025-08-08 09:54:16**_
 
+- [Trump slaps 100% tariffs on chips to get tech onshore](https://www.computerweekly.com/news/366628713/Trump-slaps-100-tariffs-on-chips-to-get-tech-onshore) (Published: 2025-08-07)
 - [Apple just got a big win in Trump’s tariff war. It may have bigger concerns | CNN Business](https://www.cnn.com/2025/08/07/tech/trump-india-tariffs-apple-iphone-ai) (Published: 2025-08-07)
 - [Trump plans 100% tariff on computer chips, unless companies build in US](https://www.wishtv.com/news/business/trump-plans-100-tariff-on-computer-chips-unless-companies-build-in-us/) (Published: 2025-08-07)
 - [Quest 10 Wealth Builders Inc. Has $807,000 Holdings in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/07/quest-10-wealth-builders-inc-has-807000-holdings-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-07)
