@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 20:15:45**_
+_Last updated: **2025-08-08 20:39:24**_
 
 - [NVIDIA Store has 5070 FE ($549) and 5080 FE ($999) (6 replies)](https://slickdeals.net/f/18513958-nvidia-store-has-5070-fe-549-and-5080-fe-999) (Published: 2025-08-07)
 - [Apple’s First Mac Pro Still Has A Year Remaining Before It Completes Its 20-Year Anniversary, But The Tower Form Factor Is Still Adopted To This Day, Even If It No Longer Offers The Same Upgrade Options](https://wccftech.com/first-mac-pro-is-now-19-years-old/) (Published: 2025-08-07)
