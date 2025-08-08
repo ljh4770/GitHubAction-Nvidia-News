@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 22:42:25**_
+_Last updated: **2025-08-08 22:53:58**_
 
 - [Tesla’s Dojo supercomputer looks dead as more execs leave for competing startup](http://electrek.co/2025/08/07/tesla-dojo-supercomputer-looks-dead-as-more-execs-leave-competing-startup/) (Published: 2025-08-07)
 - [The New 2025 Lenovo Legion RTX 5060 Gaming PC Drops Below $1,000 for the First Time](https://www.ign.com/articles/the-new-2025-lenovo-legion-rtx-5060-gaming-pc-drops-below-1000-for-the-first-time) (Published: 2025-08-07)
