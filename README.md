@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 14:45:54**_
+_Last updated: **2025-08-08 14:58:51**_
 
 - [Trump demands resignation of Intel’s new CEO](https://www.pcworld.com/article/2871288/trump-demands-resignation-of-intels-new-ceo.html) (Published: 2025-08-07)
 - [Nvidia, AI Bets Lift SoftBank To Profit After Brutal Year-Ago Loss](https://biztoc.com/x/635f2c4be4f1afdd) (Published: 2025-08-07)
