@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 17:48:28**_
+_Last updated: **2025-08-08 17:58:54**_
 
 - [AI Cloud Stock Nebius Group Surges On Q2 Results, Raised Guidance](https://biztoc.com/x/4717b53cad88e991) (Published: 2025-08-07)
 - [What’s Next for the Once-‘Glorified,’ Now Desperate Intel? Trump’s Opposition, Sluggish Business, and TSMC Acquisition Rumors Make a Comeback Much Harder, But Not Impossible](https://wccftech.com/whats-next-for-the-once-glorified-now-desperate-intel/) (Published: 2025-08-07)
