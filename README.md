@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 23:47:10**_
+_Last updated: **2025-08-08 23:57:45**_
 
 - [JFrog posts strong revenue growth and lifts its full-year forecast, and its stock jumps](https://siliconangle.com/2025/08/07/jfrog-posts-strong-revenue-growth-lifts-full-year-forecast-stock-jumps/) (Published: 2025-08-07)
 - [Trump Targets Intel CEO: What It Means For The Stock](https://www.forbes.com/sites/jimosman/2025/08/07/trump-targets-intel-ceo-what-it-means-for-the-stock/) (Published: 2025-08-07)
