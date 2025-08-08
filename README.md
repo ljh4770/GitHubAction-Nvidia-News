@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 21:46:08**_
+_Last updated: **2025-08-08 21:56:31**_
 
+- [Tesla Has Reportedly Abandoned Its ‘Ambitious’ Dojo Supercomputer Plans as Project Head Peter Bannon Spins Out His Own AI Startup, Taking the Core Team With Him](https://wccftech.com/tesla-has-reportedly-abandoned-its-ambitious-dojo-supercomputer-project/) (Published: 2025-08-07)
 - [Best Chromebooks for Students in 2025](https://www.ign.com/articles/best-chromebooks-for-students) (Published: 2025-08-07)
 - [Is America Quietly Entering a New Gold Rush? Presentation From Ex-CIA Insider Reveals What No One is Talking About](https://www.globenewswire.com/news-release/2025/08/07/3129844/0/en/Is-America-Quietly-Entering-a-New-Gold-Rush-Presentation-From-Ex-CIA-Insider-Reveals-What-No-One-is-Talking-About.html) (Published: 2025-08-07)
 - [US to roll out 100% chip tariff with exemptions for TSMC, Samsung](https://siliconangle.com/2025/08/07/us-roll-100-chip-tariff-exemptions-tsmc-samsung/) (Published: 2025-08-07)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-08 21:46:08**_
 - [Physical AI is Moving Things](https://www.forbes.com/sites/sabbirrangwala/2025/08/07/physical-ai-is-moving-things/) (Published: 2025-08-07)
 - [NVIDIA Store has 5070 FE ($549) and 5080 FE ($999) (6 replies)](https://slickdeals.net/f/18513958-nvidia-store-has-5070-fe-549-and-5080-fe-999) (Published: 2025-08-07)
 - [Apple’s First Mac Pro Still Has A Year Remaining Before It Completes Its 20-Year Anniversary, But The Tower Form Factor Is Still Adopted To This Day, Even If It No Longer Offers The Same Upgrade Options](https://wccftech.com/first-mac-pro-is-now-19-years-old/) (Published: 2025-08-07)
-- [Finally, a Windows laptop that I wouldn't mind putting away my MacBook Pro for](https://www.zdnet.com/article/finally-a-windows-laptop-that-i-wouldnt-mind-putting-away-my-macbook-pro-for/) (Published: 2025-08-07)
