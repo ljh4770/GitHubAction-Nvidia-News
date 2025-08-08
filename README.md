@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 19:19:23**_
+_Last updated: **2025-08-08 19:30:44**_
 
+- [GPT-5 is finally here—can it put OpenAI back on top?](https://fortune.com/2025/08/07/gpt-5-is-finally-here-can-it-put-openai-back-on-top/) (Published: 2025-08-07)
+- [Claimable Expands Advisory Board with ERISA Litigation Pioneer D. Brian Hufford and Renowned Healthcare Advocate Dr. Elisabeth Potter](https://www.globenewswire.com/news-release/2025/08/07/3129569/0/en/Claimable-Expands-Advisory-Board-with-ERISA-Litigation-Pioneer-D-Brian-Hufford-and-Renowned-Healthcare-Advocate-Dr-Elisabeth-Potter.html) (Published: 2025-08-07)
 - [IPOs in US Stock Market: Figma, stablecoin giant Circle raise the bar as newly public stocks fare against S&P 500](https://economictimes.indiatimes.com/news/international/us/ipos-in-us-stock-market-figma-stablecoin-giant-circle-raise-the-bar-as-newly-public-stocks-fare-against-sp-500/articleshow/123174159.cms) (Published: 2025-08-07)
 - [Problem with nvidia drivers](https://askubuntu.com/questions/1554202/problem-with-nvidia-drivers) (Published: 2025-08-07)
 - [President Trump says U.S. to levy 100% tariff on imported chips; firms with U.S. manufacturing, commitments exempt](https://macdailynews.com/2025/08/07/president-trump-says-u-s-to-levy-100-tariff-on-imported-chips-firms-with-u-s-manufacturing-commitments-exempt/) (Published: 2025-08-07)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-08 19:19:23**_
 - [Project Stargate hits Europe - OpenAI launches giant data center powered by 100,000 Nvidia GPUs, but probably not in the country you'd expect](https://www.techradar.com/pro/project-stargate-hits-europe-openai-launches-giant-data-center-powered-by-100-000-nvidia-gpus-but-probably-not-in-the-country-youd-expect) (Published: 2025-08-07)
 - [Train with Terabyte-Scale Datasets on a Single NVIDIA Grace Hopper Superchip Using XGBoost 3.0](https://developer.nvidia.com/blog/train-with-terabyte-scale-datasets-on-a-single-nvidia-grace-hopper-superchip-using-xgboost-3-0/) (Published: 2025-08-07)
 - [XAI Grok 4 Still Ahead on Arc-AGI2 Benchmark Versus GPT5](https://www.nextbigfuture.com/2025/08/xai-grok-4-still-ahead-on-arc-agi2-benchmark-versus-gpt5.html) (Published: 2025-08-07)
-- [Stock market today: Dow, S&P 500, Nasdaq slide as tariffs kick in, Trump signals chip carveout](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-tariffs-kick-in-trump-signals-chip-carveout-181033758.html) (Published: 2025-08-07)
-- [AI Cloud Stock Nebius Group Surges On Q2 Results, Raised Guidance](https://biztoc.com/x/4717b53cad88e991) (Published: 2025-08-07)
