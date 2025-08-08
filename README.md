@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 14:58:51**_
+_Last updated: **2025-08-08 15:31:40**_
 
-- [Trump demands resignation of Intel’s new CEO](https://www.pcworld.com/article/2871288/trump-demands-resignation-of-intels-new-ceo.html) (Published: 2025-08-07)
-- [Nvidia, AI Bets Lift SoftBank To Profit After Brutal Year-Ago Loss](https://biztoc.com/x/635f2c4be4f1afdd) (Published: 2025-08-07)
-- [Wall Street Indices Edge Higher As Trump's Chip Tariffs Include Broad Exemptions](https://www.ndtvprofit.com/markets/us-stock-market-today-wall-street-indices-edge-higher-as-trumps-chip-tariffs-include-broad-exemptions) (Published: 2025-08-07)
-- [Who is Intel CEO Lip-Bu Tan — and why is Donald Trump demanding his resignation?](https://economictimes.indiatimes.com/news/international/us/who-is-intel-ceo-lip-bu-tan-and-why-is-donald-trump-demanding-his-resignation-intel-ceo-latest-news/articleshow/123168518.cms) (Published: 2025-08-07)
-- [Nvidia, AI Bets Lift SoftBank To Profit After Brutal Year-Ago Loss](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1a0c144b-e88a-4d11-82d1-397fe57d7d79) (Published: 2025-08-07)
-- [Intel will retire rarely-used 16x MSAA support on Xe3 GPUs — AI upscalers like XeSS, FSR, and DLSS provide better, more efficient results](https://www.tomshardware.com/pc-components/gpus/intel-will-retire-rarely-used-16x-msaa-support-on-xe3-gpus-ai-upscalers-like-xess-fsr-and-dlss-provide-better-more-efficient-results) (Published: 2025-08-07)
-- [Trump accuses Intel CEO of being ‘highly conflicted,’ demands resignation as Tom Cotton highlights reporting into China ties](https://fortune.com/2025/08/07/trump-intel-ceo-resign-highly-conflicted-china-chips/) (Published: 2025-08-07)
-- [Think Nvidia Stock Is Expensive? These 2 Charts Might Change Your Mind](https://biztoc.com/x/dedb244028df2488) (Published: 2025-08-07)
-- [How infrared tech could redefine race control, gaming and fan engagement](https://www.autosport.com/general/news/how-infrared-tech-could-redefine-race-control-gaming-and-fan-engagement/10749194/) (Published: 2025-08-07)
+- [Stocks Turn Mixed After an Early Rally](https://www.barchart.com/story/news/33966426/stocks-turn-mixed-after-an-early-rally) (Published: 2025-08-07)
+- [Today in Apple history: Original Mac Pro packs serious Intel power](https://www.cultofmac.com/apple-history/first-mac-pro-launch-2006) (Published: 2025-08-07)
+- [Trump says Intel’s CEO must resign, sending its stock tumbling](https://www.pbs.org/newshour/economy/trump-says-intels-ceo-must-resign-sending-its-stock-tumbling) (Published: 2025-08-07)
+- [Mafia: The Old Country, Titan Quest II, and more get Nvidia GeForce NOW support](https://www.neowin.net/news/mafia-the-old-country-titan-quest-ii-and-more-get-nvidia-geforce-now-support/) (Published: 2025-08-07)
+- [Microsoft is cautiously onboarding Grok 4 following Hitler concerns](https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad) (Published: 2025-08-07)
+- [How to be a Good Client](https://awealthofcommonsense.com/2025/08/how-to-be-a-good-client-2/) (Published: 2025-08-07)
+- [China just fired a warning shot at Nvidia — is the global AI chip war about to explode?](https://economictimes.indiatimes.com/news/international/us/china-just-fired-a-warning-shot-at-nvidia-is-the-global-ai-chip-war-about-to-explode/articleshow/123169149.cms) (Published: 2025-08-07)
+- [Trump threatens 100% tariff on US semiconductor imports](https://www.pcworld.com/article/2871431/trump-threatens-100-tariff-on-us-semiconductor-imports.html) (Published: 2025-08-07)
+- [I bought a "future-proof" 1000W+ PSU but you don't need to](https://www.xda-developers.com/future-proof-1000w-psu-total-waste-for-most-people/) (Published: 2025-08-07)
+- [Framework Desktop](https://me.pcmag.com/en/old-desktop-pcs/31577/framework-desktop) (Published: 2025-08-07)
