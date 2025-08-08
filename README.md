@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 18:39:01**_
+_Last updated: **2025-08-08 18:57:14**_
 
 - [The hidden recession: Job cuts, housing freeze, and fear grip US economy behind the AI boom and surging Wall Street](https://economictimes.indiatimes.com/news/international/us/us-economy-recession-under-trump-the-hidden-recession-job-cuts-housing-freeze-and-fear-grip-us-economy-behind-the-ai-boom-and-surging-wall-street/articleshow/123171896.cms) (Published: 2025-08-07)
 - [Intel's stock tumbles after Trump says its CEO must resign](https://www.boston.com/news/business/2025/08/07/intels-stock-tumbles-after-trump-says-its-ceo-must-resign/) (Published: 2025-08-07)
