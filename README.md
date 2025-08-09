@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 13:42:28**_
+_Last updated: **2025-08-09 13:53:11**_
 
 - [TCS layoffs signal AI disruption; OpenAI’s GPT-5 is here](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/tcs-layoffs-signal-ai-disruption-openais-gpt-5-is-here/articleshow/123189857.cms) (Published: 2025-08-08)
 - [Tesla shuts down the team behind its Dojo supercomputer](https://www.theverge.com/news/756706/tesla-dojo-team-shut-down-supercomputer) (Published: 2025-08-08)
