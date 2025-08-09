@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 20:47:58**_
+_Last updated: **2025-08-09 20:58:05**_
 
+- [Stocks Close Out Winning Week](https://www.newser.com/story/373257/stocks-close-out-winning-week.html) (Published: 2025-08-08)
 - [Game over: Chrome OS pulls the plug on Steam gaming](https://www.androidauthority.com/steam-chromebook-3585553/) (Published: 2025-08-08)
 - [AI servers' 800V power upgrade presents transformation opportunity for power supply chain](https://www.digitimes.com/news/a20250806PD216/power-supply-nvidia-ai-server-aidc-electricity.html) (Published: 2025-08-08)
 - [Nvidia under fire as US eyes chip tracking to close export loopholes](https://www.digitimes.com/news/a20250807PD240/nvidia-us-china-trade-war-government-chips-security.html) (Published: 2025-08-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-09 20:47:58**_
 - [Qwen3 Coder, An Open-Weight Agentic Coding Model](https://www.digitalocean.com/community/tutorials/qwen3-coder-agentic-coding-model) (Published: 2025-08-08)
 - [Amazon.com, Inc. (AMZN) Needs To Open Its Wallet To NVIDIA, Says Jim Cramer](https://finance.yahoo.com/news/amazon-com-inc-amzn-needs-194906846.html) (Published: 2025-08-08)
 - [End of Nvidia's global dominance? Chipmaker summoned by Chinese government over security fears in H20 chips](https://www.techradar.com/pro/end-of-nvidias-global-dominance-chipmaker-summoned-by-chinese-government-over-security-fears-in-h20-chips) (Published: 2025-08-08)
-- [nvidia-tao-ds 6.25.7](https://pypi.org/project/nvidia-tao-ds/6.25.7/) (Published: 2025-08-08)
