@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 23:48:30**_
+_Last updated: **2025-08-09 23:59:06**_
 
 - [Noctua announces collaborative GeForce RTX 5080 graphics card with ASUS, featuring excellent cooling fan acoustics](https://www.idownloadblog.com/2025/08/08/noctua-x-asus-geforce-rtx-5080-graphics-card/) (Published: 2025-08-08)
 - [SoftBank buys Foxconn plant in Ohio for $375M to make AI servers](https://siliconangle.com/2025/08/08/softbank-buys-foxconn-plant-ohio-375m-make-ai-servers/) (Published: 2025-08-08)
