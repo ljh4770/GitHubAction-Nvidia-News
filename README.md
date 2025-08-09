@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 09:49:23**_
+_Last updated: **2025-08-09 09:59:47**_
 
 - [Grant GrossMendelsohn LLC Decreases Position in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/08/grant-grossmendelsohn-llc-decreases-position-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-08)
 - [FDx Advisors Inc. Reduces Holdings in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/08/fdx-advisors-inc-reduces-holdings-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-08)
