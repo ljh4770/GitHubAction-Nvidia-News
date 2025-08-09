@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-08 23:57:45**_
+_Last updated: **2025-08-09 02:06:11**_
 
+- [$500 billion Stargate AI infrastructure project struggles to get off the drawing board](https://www.theregister.com/2025/08/08/stargate_launch_delays/) (Published: 2025-08-08)
+- [Imported chips to face 100% tariff under Trump plan; Apple, Nvidia to be exempt](https://www.digitimes.com/news/a20250808PD205/donald-trump-tariffs-chipmakers-manufacturing-apple-nvidia.html) (Published: 2025-08-08)
+- [TSMC Shares Soar 4.9% To Record After Trump Announces Tariff Exemption](https://www.forbes.com/sites/forbeschina/2025/08/07/tsmc-shares-soar-49-to-record-after-trump-announces-tariff-exemption/) (Published: 2025-08-08)
+- [Two Chinese Nationals Charged With Illegally Exporting AI Microchips to China](https://legalinsurrection.com/2025/08/two-chinese-nationals-charged-with-illegally-exporting-ai-microchips-to-china/) (Published: 2025-08-08)
+- [NVIDIA GeForce RTX Founder's Edition GPU: 5080 16GB $999, 5070 12GB $549 + Free Shipping](https://slickdeals.net/f/18513958-nvidia-geforce-rtx-founder-s-edition-gpu-5080-16gb-999-5070-12gb-549-free-shipping) (Published: 2025-08-08)
+- [NVIDIA GeForce RTX 5070 12GB Founder's Edition GPU $549 + Free Shipping](https://slickdeals.net/f/18513958-nvidia-geforce-rtx-5070-12gb-founder-s-edition-gpu-549-free-shipping) (Published: 2025-08-08)
+- [Nvidia Says AI Chips Don't Have Kill Switch, Calls Them Open Invitation To Disaster](https://www.gamespot.com/articles/nvidia-says-ai-chips-dont-have-kill-switch-calls-them-open-invitation-to-disaster/1100-6533787/) (Published: 2025-08-08)
+- [Bitcoin Advances After Trump Taps Bitcoin-Friendly Economist For Fed Role](https://decrypt.co/334143/trumps-fed-appointee-bitcoin-fan-market) (Published: 2025-08-08)
+- [Trump Turns the Screws on the Fortune 500](https://www.politico.com/news/magazine/2025/08/07/trump-turns-the-screws-on-the-fortune-500-00498762) (Published: 2025-08-08)
 - [JFrog posts strong revenue growth and lifts its full-year forecast, and its stock jumps](https://siliconangle.com/2025/08/07/jfrog-posts-strong-revenue-growth-lifts-full-year-forecast-stock-jumps/) (Published: 2025-08-07)
-- [Trump Targets Intel CEO: What It Means For The Stock](https://www.forbes.com/sites/jimosman/2025/08/07/trump-targets-intel-ceo-what-it-means-for-the-stock/) (Published: 2025-08-07)
-- [Grab the 55-inch Samsung Odyssey Ark on sale and get a free smart monitor - here's how](https://www.zdnet.com/home-and-office/home-entertainment/grab-the-55-inch-samsung-odyssey-ark-on-sale-and-get-a-free-smart-monitor-heres-how/) (Published: 2025-08-07)
-- [SoftBank reports Q1 net profit of $2.87B, vs. ~$850M est., boosted by its Nvidia investment, and says Vision Funds had a “late-stage portfolio valued at $45B”](https://biztoc.com/x/fc632f53d4ca13cd) (Published: 2025-08-07)
-- [Tesla’s Dojo supercomputer looks dead as more execs leave for competing startup](http://electrek.co/2025/08/07/tesla-dojo-supercomputer-looks-dead-as-more-execs-leave-competing-startup/) (Published: 2025-08-07)
-- [The New 2025 Lenovo Legion RTX 5060 Gaming PC Drops Below $1,000 for the First Time](https://www.ign.com/articles/the-new-2025-lenovo-legion-rtx-5060-gaming-pc-drops-below-1000-for-the-first-time) (Published: 2025-08-07)
-- [Mp Materials rallies after strong Q2 results, magnetic segment gains traction](https://finance.yahoo.com/news/mp-materials-rallies-strong-q2-222628429.html) (Published: 2025-08-07)
-- [Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving | TechCrunch](https://techcrunch.com/2025/08/07/tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving/) (Published: 2025-08-07)
-- [Under $10 Steam sale: New Steam Deck Verified co-op roguelike gets 1.0 launch with launch discount, immediately doubles player count and keeps positive review rating](https://www.notebookcheck.net/Under-10-Steam-sale-New-Steam-Deck-Verified-co-op-roguelike-gets-1-0-launch-with-launch-discount-immediately-doubles-player-count-and-keeps-positive-review-rating.1082045.0.html) (Published: 2025-08-07)
-- [The PNY Geforce RTX 5080 Graphics Card Is Available at MSRP from Best Buy, But You Better Hurry](https://www.ign.com/articles/pny-geforce-rtx-5080-graphics-card-is-available-at-msrp-from-best-buy) (Published: 2025-08-07)
