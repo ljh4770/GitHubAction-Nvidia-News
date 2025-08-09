@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 04:04:15**_
+_Last updated: **2025-08-09 04:38:59**_
 
 - [LACT 0.8.1 Linux GPU Control Panel Improves Voltage/Clock Controls For Older AMD GPUs](https://www.phoronix.com/news/LACT-0.8.1) (Published: 2025-08-08)
 - [Tencent, JD.com, Hon Hai navigate US tariff risks, AI expansion](https://www.bloomberg.com/news/articles/2025-08-08/tencent-jd-com-hon-hai-navigate-us-tariff-risks-ai-expansion) (Published: 2025-08-08)
