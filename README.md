@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 11:20:42**_
+_Last updated: **2025-08-09 11:33:10**_
 
+- [Aorus Elite 16 review: Is a premium RTX 5070 gaming laptop worth it?](https://www.notebookcheck.net/Aorus-Elite-16-review-Is-a-premium-RTX-5070-gaming-laptop-worth-it.1082309.0.html) (Published: 2025-08-08)
+- [Op-ed: Silicon Valley is dictating U.S. AI policy. It's a mistake that will benefit China](https://www.cnbc.com/2025/08/08/silicon-valley-dominant-us-ai-policy-will-benefit-china.html) (Published: 2025-08-08)
+- [Record-setting market: Using ETFs to help avoid hefty tax bills](https://www.cnbc.com/2025/08/08/record-setting-market-using-etfs-to-help-avoid-hefty-tax-bills-.html) (Published: 2025-08-08)
+- [Best Laptops to Replace Your Windows 10 PC — Top-Rated Windows 11 Picks for Premium, Gaming, AI, and Business Users](https://www.windowscentral.com/hardware/laptops/best-windows-11-laptops-replace-windows-10-pc) (Published: 2025-08-08)
+- [(PR) FMS 2025: SK hynix Presents Future of AI and Storage Through Innovative Tech Showcase](https://www.techpowerup.com/339750/fms-2025-sk-hynix-presents-future-of-ai-and-storage-through-innovative-tech-showcase) (Published: 2025-08-08)
+- [Analysis:Trump call to oust Intel CEO Tan could sidetrack chipmaker's turnaround](https://www.channelnewsasia.com/business/analysistrump-call-oust-intel-ceo-tan-could-sidetrack-chipmakers-turnaround-5285111) (Published: 2025-08-08)
+- [Taiwan Is Now Investigating Over A Dozen China-Based Companies For Illicitly Poaching Local Talent](https://wccftech.com/taiwan-is-now-investigating-over-a-dozen-china-based-companies-for-illicitly-poaching-local-talent/) (Published: 2025-08-08)
 - [Tesla scraps custom Dojo wafer-level processor initiative, dismantles team — Musk to lean on Nvidia and AMD more](https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-scraps-custom-dojo-wafer-level-processor-initiative-dismantles-team-musk-to-lean-on-nvidia-and-amd-more) (Published: 2025-08-08)
 - [Nvidia Stock Set for New Highs. Thank OpenAI and Tesla](https://biztoc.com/x/259a896dc44e0aba) (Published: 2025-08-08)
 - [The US explores tracking chips to prevent them from getting to China](https://www.notebookcheck.net/The-US-explores-tracking-chips-to-prevent-them-from-getting-to-China.1082933.0.html) (Published: 2025-08-08)
-- [Edge AI Hardware Market Research Report 2025-2030 | Opportunities Expand with Generative AI Optimization, On-Device Visual Processors, and 5G-Enabled Ultra-Low Latency Applications](https://www.globenewswire.com/news-release/2025/08/08/3130062/28124/en/Edge-AI-Hardware-Market-Research-Report-2025-2030-Opportunities-Expand-with-Generative-AI-Optimization-On-Device-Visual-Processors-and-5G-Enabled-Ultra-Low-Latency-Applications.html) (Published: 2025-08-08)
-- [Asus's new ROG Strix 32-inch dual-mode WOLED monitor adapts to fit your gaming needs – 240Hz at 4K or 480Hz at 1080p](https://www.tomshardware.com/monitors/gaming-monitors/asuss-new-rog-strix-32-inch-dual-mode-woled-monitor-adapts-to-fit-your-gaming-needs-240hz-at-4k-or-480hz-at-1080p) (Published: 2025-08-08)
-- [Nvidia: Just Announced 100% Semiconductor Tariffs Likely Won't Hurt It](https://biztoc.com/x/e4e217e2159c901f) (Published: 2025-08-08)
-- [Games, Apps and Social Media Industry Almanac 2026: Industry Market Research, Statistics, Trends and Leading Companies](https://www.globenewswire.com/news-release/2025/08/08/3130043/28124/en/Games-Apps-and-Social-Media-Industry-Almanac-2026-Industry-Market-Research-Statistics-Trends-and-Leading-Companies.html) (Published: 2025-08-08)
-- [World shares are mixed as Tokyo's Nikkei jumps nearly 2% on tariff news](https://abcnews.go.com/Business/wireStory/world-shares-mixed-tokyos-nikkei-jumps-2-tariff-124472814) (Published: 2025-08-08)
-- [Chuwi ventures into gaming - powerful notebook with AMD Ryzen 9 and Nvidia GeForce RTX 5070 Ti laptop GPU reviewed](https://www.notebookcheck.net/Chuwi-ventures-into-gaming-powerful-notebook-with-AMD-Ryzen-9-and-Nvidia-GeForce-RTX-5070-Ti-laptop-GPU-reviewed.1082920.0.html) (Published: 2025-08-08)
-- [Grant GrossMendelsohn LLC Decreases Position in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/08/grant-grossmendelsohn-llc-decreases-position-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-08)
