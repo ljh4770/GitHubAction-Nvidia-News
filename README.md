@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 21:49:40**_
+_Last updated: **2025-08-09 21:59:52**_
 
 - [Are Tariffs the American Brexit?](http://foreignpolicy.com/2025/08/08/trump-united-states-trade-tariff-brexit-britain/) (Published: 2025-08-08)
 - [Wall Street clocks another winning week](https://www.pressdemocrat.com/article/news/wall-street/) (Published: 2025-08-08)
