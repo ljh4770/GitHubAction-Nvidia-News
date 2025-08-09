@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 20:33:36**_
+_Last updated: **2025-08-09 20:47:58**_
 
 - [Game over: Chrome OS pulls the plug on Steam gaming](https://www.androidauthority.com/steam-chromebook-3585553/) (Published: 2025-08-08)
 - [AI servers' 800V power upgrade presents transformation opportunity for power supply chain](https://www.digitimes.com/news/a20250806PD216/power-supply-nvidia-ai-server-aidc-electricity.html) (Published: 2025-08-08)
