@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 17:38:20**_
+_Last updated: **2025-08-09 17:49:10**_
 
 - [Brian Kelly Calls Bitcoin The Most Important Financial Innovation In The Last 600 Years, Sees 7x Potential In Digital Gold Narrative](https://finance.yahoo.com/news/brian-kelly-calls-bitcoin-most-173103483.html) (Published: 2025-08-08)
 - [Kraken exec says tokenized stocks will let you ‘buy coffee with Tesla’](https://www.thestreet.com/crypto/markets/kraken-exec-says-tokenized-stocks-will-let-you-buy-coffee-with-tesla) (Published: 2025-08-08)
