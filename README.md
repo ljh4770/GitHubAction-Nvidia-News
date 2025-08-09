@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 10:47:04**_
+_Last updated: **2025-08-09 10:57:27**_
 
 - [Nvidia: Just Announced 100% Semiconductor Tariffs Likely Won't Hurt It](https://biztoc.com/x/e4e217e2159c901f) (Published: 2025-08-08)
 - [Games, Apps and Social Media Industry Almanac 2026: Industry Market Research, Statistics, Trends and Leading Companies](https://www.globenewswire.com/news-release/2025/08/08/3130043/28124/en/Games-Apps-and-Social-Media-Industry-Almanac-2026-Industry-Market-Research-Statistics-Trends-and-Leading-Companies.html) (Published: 2025-08-08)
