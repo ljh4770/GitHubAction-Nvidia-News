@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 19:14:54**_
+_Last updated: **2025-08-09 19:28:37**_
 
+- [Intel's new CEO had 3 major problems to tackle. This week Trump added a new one.](https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-trump-added-a-new-one-191813935.html) (Published: 2025-08-08)
+- [Intel's new CEO had 3 major problems to tackle. This week he got a new one.](https://finance.yahoo.com/news/intels-new-ceo-had-3-major-problems-to-tackle-this-week-he-got-a-new-one-191813899.html) (Published: 2025-08-08)
 - [Intel CPU Temperature Monitoring Driver For Linux Now Unmaintained After Layoffs](https://www.phoronix.com/news/Linux-coretemp-Orphaned) (Published: 2025-08-08)
 - [Qualcomm Execs Discuss Plans For Growth In Automotive, IoT And Beyond](https://www.forbes.com/sites/patrickmoorhead/2025/08/08/qualcomm-execs-discuss-plans-for-growth-in-automotive-iot-and-beyond/) (Published: 2025-08-08)
 - [Intel's chairman reportedly tried to broker a deal to sell fabs to TSMC, CEO Lip-Bu Tan opposed](https://www.tomshardware.com/tech-industry/semiconductors/intels-chairman-reportedly-tried-to-broker-a-deal-to-sell-fabs-to-tsmc-ceo-lip-bu-tan-opposed) (Published: 2025-08-08)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-09 19:14:54**_
 - [HP Z2 Mini G1a Review: Running GPT-OSS 120B Without a Discrete GPU](https://www.storagereview.com/review/hp-z2-mini-g1a-review-running-gpt-oss-120b-without-a-discrete-gpu) (Published: 2025-08-08)
 - [Gets Overweight Rating as AI Capex Stays Strong Into 2026](https://biztoc.com/x/cd853fba3031c657) (Published: 2025-08-08)
 - [Brian Kelly Calls Bitcoin The Most Important Financial Innovation In The Last 600 Years, Sees 7x Potential In Digital Gold Narrative](https://finance.yahoo.com/news/brian-kelly-calls-bitcoin-most-173103483.html) (Published: 2025-08-08)
-- [Kraken exec says tokenized stocks will let you ‘buy coffee with Tesla’](https://www.thestreet.com/crypto/markets/kraken-exec-says-tokenized-stocks-will-let-you-buy-coffee-with-tesla) (Published: 2025-08-08)
-- [Can SoundHound AI Test $ $18?](https://biztoc.com/x/01444c25e499ef5b) (Published: 2025-08-08)
