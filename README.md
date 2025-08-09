@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-09 05:41:58**_
+_Last updated: **2025-08-09 05:52:54**_
 
 - [「Global Connect ⚡（SPARK）Day feat. NVIDIA」を８/21(木)に開催！](https://prtimes.jp/main/html/rd/p/000000033.000066714.html) (Published: 2025-08-08)
 - [Sources: Intel's board has stalled recent efforts by CEO Lip-Bu Tan to raise new capital and acquire an AI company meant to help it compete against Nvidia](https://biztoc.com/x/8d3b4843f8eaf8ab) (Published: 2025-08-08)
