@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 17:47:40**_
+_Last updated: **2025-08-10 17:57:58**_
 
 - [FinVolution Group (FINV) Sees 12% Price Increase Over Last Week](https://finance.yahoo.com/news/finvolution-group-finv-sees-12-172906886.html) (Published: 2025-08-09)
 - [Tesla Unwinds Dojo Supercomputer Team Following Exec Exodus](https://me.pcmag.com/en/ai/31618/tesla-unwinds-dojo-supercomputer-team-following-exec-exodus) (Published: 2025-08-09)
