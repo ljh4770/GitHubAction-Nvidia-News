@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 16:57:03**_
+_Last updated: **2025-08-10 17:20:02**_
 
 - [Ex-Intel board members seek leadership shake-up after Trump’s call for Lip-Bu Tan’s resignation. But there is a catch](https://www.livemint.com/companies/news/exintel-board-members-seek-leadership-shake-up-after-trump-s-call-for-lip-bu-tan-s-resignation-but-there-is-a-catch-11754755112408.html) (Published: 2025-08-09)
 - [Virtual Box freeze issues](https://askubuntu.com/questions/1554284/virtual-box-freeze-issues) (Published: 2025-08-09)
