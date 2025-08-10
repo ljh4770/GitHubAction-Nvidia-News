@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 13:53:04**_
+_Last updated: **2025-08-10 14:13:21**_
 
+- [The Gaming Desktop I've Relied on More Than Any Other Is More Powerful and Sleeker Than Ever — But Damn, It's Expensive](https://www.windowscentral.com/hardware/lenovo/lenovo-legion-tower-7i-gen-10-review) (Published: 2025-08-09)
 - [Microsoft, Apple, Amazon, and Meta Just Gave Nvidia Investors Great News](https://biztoc.com/x/fd6d3396293858b7) (Published: 2025-08-09)
 - [Today in Apple history: Apple becomes world’s most valuable company](https://www.cultofmac.com/apple-history/apple-most-valuable) (Published: 2025-08-09)
 - [S4 Capital's Strategic Merger Prospects and Valuation Catalysts: A Deep Dive into AI-Driven Marketing Consolidation](https://www.ainvest.com/news/s4-capital-strategic-merger-prospects-valuation-catalysts-deep-dive-ai-driven-marketing-consolidation-2508/) (Published: 2025-08-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-10 13:53:04**_
 - [Traders Are Fleeing Stocks Feared to Be Under Threat From AI](https://finance.yahoo.com/news/traders-fleeing-stocks-feared-under-130001182.html) (Published: 2025-08-09)
 - [Nvidia CEO Jensen Huang's invaluable lesson: 'I don’t want you to just be smart, I want you to be...'](https://economictimes.indiatimes.com/news/new-updates/nvidia-ceo-jensen-huangs-invaluable-lesson-i-dont-want-you-to-just-be-smart-i-want-you-to-be-/articleshow/123204742.cms) (Published: 2025-08-09)
 - [Tesla Shutting Down Its AI Supercomputer As Staff Leaves in Droves to Join Competitor](https://futurism.com/tesla-shutting-down-ai-supercomputer) (Published: 2025-08-09)
-- [Door G: building a wall to knock down (creative) walls](https://www.provideocoalition.com/door-g-building-a-wall-to-knock-down-creative-walls/) (Published: 2025-08-09)
