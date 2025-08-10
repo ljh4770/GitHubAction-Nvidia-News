@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 19:39:06**_
+_Last updated: **2025-08-10 19:49:32**_
 
 - [HP OMEN 45L Gaming Desktop: Ultra 9 285K, RTX 5090, 64GB DDR5, 2TB SSD, Win 11 Pro $3799.99 (8 replies)](https://slickdeals.net/f/18518209-hp-omen-45l-gaming-desktop-ultra-9-285k-rtx-5090-64gb-ddr5-2tb-ssd-win-11-pro-3799-99) (Published: 2025-08-09)
 - [ASUS TUF Gaming T500 (2025): i5-13420H, RTX 5060Ti, 16GB DDR5, 1TB SSD $899.99 (5 replies)](https://slickdeals.net/f/18518200-asus-tuf-gaming-t500-2025-i5-13420h-rtx-5060ti-16gb-ddr5-1tb-ssd-899-99) (Published: 2025-08-09)
