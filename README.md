@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 18:35:56**_
+_Last updated: **2025-08-10 18:53:33**_
 
 - [The ultimate bootable USB solution for tech troubleshooting](https://www.xda-developers.com/how-a-single-usb-stick-solved-boot-problems-for-good/) (Published: 2025-08-09)
 - [Only two things are stopping me from moving to SteamOS on my desktop PC permanently – the moment they're addressed, I'll be saying 'adiós', Windows 11](https://www.techradar.com/computing/windows/only-two-things-are-stopping-me-from-moving-to-steamos-on-my-desktop-pc-permanently-the-moment-theyre-addressed-ill-be-saying-adios-windows-11) (Published: 2025-08-09)
