@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 06:46:03**_
+_Last updated: **2025-08-10 06:59:07**_
 
 - [Trade Desk tumbles after CEO warns of tariff impact on large brand advertisers](https://biztoc.com/x/794ff9bda21a1f30) (Published: 2025-08-09)
 - [US, Gulf Pressure to Fully Disarm Hezbollah Puts Lebanon on Edge](https://biztoc.com/x/613fd23e9ed913bf) (Published: 2025-08-09)
