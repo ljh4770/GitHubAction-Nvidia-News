@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 09:33:16**_
+_Last updated: **2025-08-10 09:46:37**_
 
+- [US licences Nvidia to export chips to China, official says](https://www.thehindubusinessline.com/info-tech/us-licences-nvidia-to-export-chips-to-china-official-says/article69913081.ece) (Published: 2025-08-09)
 - [I tried Lenovo's new rollable ThinkBook and can't go back to regular-sized screens](https://www.zdnet.com/article/i-tried-lenovos-new-rollable-thinkbook-and-cant-go-back-to-regular-sized-screens/) (Published: 2025-08-09)
 - [Forget Back to School Deals — Lenovo's Clearance Sale is Where You'll Find Amazing Discounts on Laptops, Mini PCs, and More, While Supplies Last](https://www.windowscentral.com/hardware/lenovo/lenovo-clearance-sale-deals-for-students) (Published: 2025-08-09)
 - [Harvard pours $117m into Bitcoin ETF, topping its stakes in Google and Nvidia](https://www.dlnews.com/articles/markets/harvard-117m-bitcoin-etf-topping-stake-in-google-and-nvidia/) (Published: 2025-08-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-10 09:33:16**_
 - [Blackmagic Design DaVinci Resolve Studio 20.1](https://post.rlsbb.cc/blackmagic-design-davinci-resolve-studio-20-1/) (Published: 2025-08-09)
 - [Adobe Substance 3D Painter 11.0.3](https://post.rlsbb.cc/adobe-substance-3d-painter-11-0-3/) (Published: 2025-08-09)
 - [Adobe Substance 3D Sampler 5.1.0](https://post.rlsbb.cc/adobe-substance-3d-sampler-5-1-0/) (Published: 2025-08-09)
-- [I answered the million-dollar question about buying laptops - here's the ultimate guide](https://www.zdnet.com/article/i-answered-the-million-dollar-question-about-buying-laptops-heres-the-ultimate-guide/) (Published: 2025-08-09)
