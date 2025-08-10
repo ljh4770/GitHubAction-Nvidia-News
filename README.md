@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 22:41:38**_
+_Last updated: **2025-08-10 22:52:57**_
 
 - [Astera Labs, Inc. (ALAB) Is Up Due To The NVIDIA Deal, Days Jim Cramer](https://finance.yahoo.com/news/astera-labs-inc-alab-due-223904191.html) (Published: 2025-08-09)
 - [Alphabet Inc. (GOOGL): “The Waymo Deal’s Good,’ Says Jim Cramer](https://finance.yahoo.com/news/alphabet-inc-googl-waymo-deal-214758066.html) (Published: 2025-08-09)
