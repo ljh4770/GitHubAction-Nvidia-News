@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 04:36:49**_
+_Last updated: **2025-08-10 05:01:38**_
 
 - [Wall Street clocks another winning week](https://www.newsday.com/business/asia-japan-trump-tariffs-wall-street-n36426) (Published: 2025-08-09)
 - [What the windsurf sale means for the AI coding ecosystem](https://ethanding.substack.com/p/windsurf-gets-margin-called) (Published: 2025-08-09)
