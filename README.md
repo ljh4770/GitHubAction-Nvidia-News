@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 11:53:37**_
+_Last updated: **2025-08-10 12:32:02**_
 
 - [Nvidia CEO Jensen Huang's invaluable lesson: 'I don’t want you to just be smart, I want you to be...'](https://economictimes.indiatimes.com/news/new-updates/nvidia-ceo-jensen-huangs-invaluable-lesson-i-dont-want-you-to-just-be-smart-i-want-you-to-be-/articleshow/123204742.cms) (Published: 2025-08-09)
 - [Tesla Shutting Down Its AI Supercomputer As Staff Leaves in Droves to Join Competitor](https://futurism.com/tesla-shutting-down-ai-supercomputer) (Published: 2025-08-09)
