@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 11:43:10**_
+_Last updated: **2025-08-10 11:53:37**_
 
+- [Nvidia CEO Jensen Huang's invaluable lesson: 'I don’t want you to just be smart, I want you to be...'](https://economictimes.indiatimes.com/news/new-updates/nvidia-ceo-jensen-huangs-invaluable-lesson-i-dont-want-you-to-just-be-smart-i-want-you-to-be-/articleshow/123204742.cms) (Published: 2025-08-09)
 - [Tesla Shutting Down Its AI Supercomputer As Staff Leaves in Droves to Join Competitor](https://futurism.com/tesla-shutting-down-ai-supercomputer) (Published: 2025-08-09)
 - [Door G: building a wall to knock down (creative) walls](https://www.provideocoalition.com/door-g-building-a-wall-to-knock-down-creative-walls/) (Published: 2025-08-09)
 - [Why Coinbase wants to be the ’Everything Exchange’?](https://finance.yahoo.com/news/why-coinbase-wants-everything-exchange-110502389.html) (Published: 2025-08-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-10 11:43:10**_
 - [Jan – Ollama alternative with local UI](https://github.com/menloresearch/jan) (Published: 2025-08-09)
 - [US licences Nvidia to export chips to China, official says](https://www.thehindubusinessline.com/info-tech/us-licences-nvidia-to-export-chips-to-china-official-says/article69913081.ece) (Published: 2025-08-09)
 - [I tried Lenovo's new rollable ThinkBook and can't go back to regular-sized screens](https://www.zdnet.com/article/i-tried-lenovos-new-rollable-thinkbook-and-cant-go-back-to-regular-sized-screens/) (Published: 2025-08-09)
-- [Forget Back to School Deals — Lenovo's Clearance Sale is Where You'll Find Amazing Discounts on Laptops, Mini PCs, and More, While Supplies Last](https://www.windowscentral.com/hardware/lenovo/lenovo-clearance-sale-deals-for-students) (Published: 2025-08-09)
