@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-10 09:57:10**_
+_Last updated: **2025-08-10 10:25:30**_
 
+- [3 ways to turn your Android TV or tablet into a digital photo frame for free, without using Google Photos](https://www.notebookcheck.net/3-free-ways-to-turn-your-Android-TV-or-tablet-screensaver-into-a-digital-photo-frame-without-using-Google-Photos.1083592.0.html) (Published: 2025-08-09)
+- [These three catalysts will help Bitcoin break $122K](https://cointelegraph.com/news/three-catalysts-that-will-help-bitcoin-break-122k-in) (Published: 2025-08-09)
 - [Jan – Ollama alternative with local UI](https://github.com/menloresearch/jan) (Published: 2025-08-09)
 - [US licences Nvidia to export chips to China, official says](https://www.thehindubusinessline.com/info-tech/us-licences-nvidia-to-export-chips-to-china-official-says/article69913081.ece) (Published: 2025-08-09)
 - [I tried Lenovo's new rollable ThinkBook and can't go back to regular-sized screens](https://www.zdnet.com/article/i-tried-lenovos-new-rollable-thinkbook-and-cant-go-back-to-regular-sized-screens/) (Published: 2025-08-09)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-10 09:57:10**_
 - [Marks Group Wealth Management Inc Cuts Stock Position in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/09/marks-group-wealth-management-inc-cuts-stock-position-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-09)
 - [Streaming Stocks To Consider – August 7th](https://www.etfdailynews.com/2025/08/09/streaming-stocks-to-consider-august-7th/) (Published: 2025-08-09)
 - [Infrastructure Stocks To Watch Today – August 7th](https://www.etfdailynews.com/2025/08/09/infrastructure-stocks-to-watch-today-august-7th/) (Published: 2025-08-09)
-- [Blackmagic Design DaVinci Resolve Studio 20.1](https://post.rlsbb.cc/blackmagic-design-davinci-resolve-studio-20-1/) (Published: 2025-08-09)
-- [Adobe Substance 3D Painter 11.0.3](https://post.rlsbb.cc/adobe-substance-3d-painter-11-0-3/) (Published: 2025-08-09)
