@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-11 11:38:27**_
+_Last updated: **2025-08-11 11:49:54**_
 
+- [Inflation in focus as Fed rate cut debate heats up: What to watch this week](https://finance.yahoo.com/news/inflation-in-focus-as-fed-rate-cut-debate-heats-up-what-to-watch-this-week-114004763.html) (Published: 2025-08-10)
 - [Second Quarter Earnings Season: Waiting For NVIDIA](https://www.forbes.com/sites/bill_stone/2025/08/10/second-quarter-earnings-season-waiting-for-nvidia/) (Published: 2025-08-10)
 - [Trump Launches Attack on Nancy Pelosi: 'Disgusting Degenerate'](https://www.newsweek.com/trump-launches-attack-nancy-pelosi-disgusting-degenerate-2111343) (Published: 2025-08-10)
 - [How OpenAI used a new data type to cut inference costs by 75%](https://www.theregister.com/2025/08/10/openai_mxfp4/) (Published: 2025-08-10)
@@ -9,4 +10,3 @@ _Last updated: **2025-08-11 11:38:27**_
 - [When Akshay Kumar put Nvidia's Jensen Huang on the spot with the biggest AI question on the future of work and global safety](https://economictimes.indiatimes.com/magazines/panache/when-akshay-kumar-put-nvidias-jensen-huang-on-the-spot-with-the-biggest-ai-question-on-the-future-of-work-and-global-safety/articleshow/123215717.cms) (Published: 2025-08-10)
 - [Best Robotics Stocks To Follow Today – August 8th](https://www.etfdailynews.com/2025/08/10/best-robotics-stocks-to-follow-today-august-8th/) (Published: 2025-08-10)
 - [Nvidia Secures Licenses to Export H20 Chips to China. Will this Drive NVDA Stock Higher?](https://biztoc.com/x/b0be0093716fe9c6) (Published: 2025-08-10)
-- [Rep. Cleo Fields Purchases Shares of BitMine Immersion Technologies, Inc. (NASDAQ:BMNR)](https://www.etfdailynews.com/2025/08/10/rep-cleo-fields-purchases-shares-of-bitmine-immersion-technologies-inc-nasdaqbmnr/) (Published: 2025-08-10)
