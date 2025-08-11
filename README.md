@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-11 19:54:41**_
+_Last updated: **2025-08-11 20:19:31**_
 
+- [Looking Under the Hood of Grab, GoTo and Pony AI](https://biztoc.com/x/f5bb9b4a3f559e37) (Published: 2025-08-10)
+- [CeeDee Lamb takes big hit from sprinting official while WR is in street clothes on the sideline](https://biztoc.com/x/b336c78b91f08250) (Published: 2025-08-10)
+- [Opinion: Why workers don't need private equity in their 401(k) plans](https://biztoc.com/x/a80a16a37692e6bc) (Published: 2025-08-10)
+- [UCSF doctor reinstated at FDA less than 2 weeks after resigning amid MAGA backlash](https://biztoc.com/x/bed8cd2c4d397926) (Published: 2025-08-10)
+- [Tesla Is Benefiting From End of Tax Credit Sales Rush](https://biztoc.com/x/03c3ce33660a922a) (Published: 2025-08-10)
+- [Market's rebound to be tested by inflation reports as stagflation threat emerges](https://biztoc.com/x/26ef0d059d162dda) (Published: 2025-08-10)
+- [Nvidia claps back against Chinese accusations its H20 chips pose a security risk](https://biztoc.com/x/ca5e147b6ef684a3) (Published: 2025-08-10)
+- [Nvidia claps back against Chinese accusations its H20 chips pose a security risk](https://biztoc.com/x/ca5e147b6ef684a3) (Published: 2025-08-10)
+- [Trade Deal Negotiations Could Wrap Up By October, Bessent Tells Nikkei](https://biztoc.com/x/62d3b8db3f65b797) (Published: 2025-08-10)
 - [Bo Hines, the head of the White House Presidential Council of Advisers for Digital Assets, says he is stepping down and returning to the private sector](https://biztoc.com/x/93e1a66432c8bfbb) (Published: 2025-08-10)
-- [CS grads struggle to land jobs as tech companies lay off workers and embrace AI; CS majors face a 6.1% unemployment rate in the US among grads aged 22 to 27](https://biztoc.com/x/8945d25676ff3589) (Published: 2025-08-10)
-- [Iran Rejects Nuclear Inspections Ahead of New Talks With IAEA](https://biztoc.com/x/52ebd67d9654b937) (Published: 2025-08-10)
-- [Doomer predictions of a rapid, monopolistic AGI were wrong, as recent AI model releases resemble a Goldilocks scenario with competitive, specialized models](https://biztoc.com/x/753a2a3f3c8ded94) (Published: 2025-08-10)
-- [Nvidia claps back against Chinese accusations its H20 chips pose a security risk](https://www.cnbc.com/2025/08/10/nvidia-china-h20-chips.html) (Published: 2025-08-10)
-- [Bessent Sees US Trade Talks Largely Done by October, Nikkei Says](https://biztoc.com/x/a995ff784ae6aada) (Published: 2025-08-10)
-- [Chinese state media says Nvidia H20 chips not safe for China](https://nypost.com/2025/08/10/business/chinese-state-media-says-nvidia-h20-chips-not-safe-for-china/) (Published: 2025-08-10)
-- [Tesla just got its biggest break yet in the robotaxi wars with a key permit](https://biztoc.com/x/685b004668aca291) (Published: 2025-08-10)
-- [Australia Set to Cut Rates, Governor Stay Coy on Policy Outlook](https://biztoc.com/x/9ccc0fc479689be4) (Published: 2025-08-10)
-- [Stock-market rebound to be tested by inflation reports as stagflation threat emerges](https://biztoc.com/x/9918bfddcbf1a2fa) (Published: 2025-08-10)
