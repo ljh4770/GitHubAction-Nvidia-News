@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-11 10:44:07**_
+_Last updated: **2025-08-11 10:57:07**_
 
 - [Second Quarter Earnings Season: Waiting For NVIDIA](https://www.forbes.com/sites/bill_stone/2025/08/10/second-quarter-earnings-season-waiting-for-nvidia/) (Published: 2025-08-10)
 - [Trump Launches Attack on Nancy Pelosi: 'Disgusting Degenerate'](https://www.newsweek.com/trump-launches-attack-nancy-pelosi-disgusting-degenerate-2111343) (Published: 2025-08-10)
