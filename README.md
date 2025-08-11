@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-11 09:34:55**_
+_Last updated: **2025-08-11 09:52:38**_
 
 - [How OpenAI used a new data type to cut inference costs by 75%](https://www.theregister.com/2025/08/10/openai_mxfp4/) (Published: 2025-08-10)
 - [Nikhil Kamath and Perplexity's Aravind Srinivas spark a tweet thread that could shake up India’s stock market updates](https://economictimes.indiatimes.com/news/new-updates/nikhil-kamath-and-perplexitys-aravind-srinivas-spark-a-tweet-thread-that-could-shake-up-indias-stock-market-updates/articleshow/123215853.cms) (Published: 2025-08-10)
