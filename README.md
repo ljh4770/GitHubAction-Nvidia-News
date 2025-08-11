@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-11 20:38:19**_
+_Last updated: **2025-08-11 20:50:50**_
 
+- [Trying to Install Ubuntu 24.04 LTS on an Older PC. Ubuntu Live Session/Install Flash Drive Keeps Hanging Up](https://askubuntu.com/questions/1554322/trying-to-install-ubuntu-24-04-lts-on-an-older-pc-ubuntu-live-session-install-f) (Published: 2025-08-10)
 - [Billions Flow to New Hedge Funds Focused on AI-Related Bets](https://biztoc.com/x/045c13b70585d272) (Published: 2025-08-10)
 - [Looking Under the Hood of Grab, GoTo and Pony AI](https://biztoc.com/x/f5bb9b4a3f559e37) (Published: 2025-08-10)
 - [CeeDee Lamb takes big hit from sprinting official while WR is in street clothes on the sideline](https://biztoc.com/x/b336c78b91f08250) (Published: 2025-08-10)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-11 20:38:19**_
 - [Market's rebound to be tested by inflation reports as stagflation threat emerges](https://biztoc.com/x/26ef0d059d162dda) (Published: 2025-08-10)
 - [Nvidia claps back against Chinese accusations its H20 chips pose a security risk](https://biztoc.com/x/ca5e147b6ef684a3) (Published: 2025-08-10)
 - [Nvidia claps back against Chinese accusations its H20 chips pose a security risk](https://biztoc.com/x/ca5e147b6ef684a3) (Published: 2025-08-10)
-- [Trade Deal Negotiations Could Wrap Up By October, Bessent Tells Nikkei](https://biztoc.com/x/62d3b8db3f65b797) (Published: 2025-08-10)
