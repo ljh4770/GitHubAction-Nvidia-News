@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-11 17:53:02**_
+_Last updated: **2025-08-11 18:22:30**_
 
+- [Stanford sticks with legacy admissions | TechCrunch](https://techcrunch.com/2025/08/10/stanford-sticks-with-legacy-admissions/) (Published: 2025-08-10)
+- [Thrifty Ice Cream makes a comeback with plans for expansion, new flavors](https://biztoc.com/x/8cc07a9426f06263) (Published: 2025-08-10)
+- [Thrifty Ice Cream makes a comeback with plans for expansion, new flavors](https://biztoc.com/x/8cc07a9426f06263) (Published: 2025-08-10)
+- [Germany's halt to arms exports to Israel is response to Gaza expansion plans, chancellor says](https://biztoc.com/x/d81de40d2ae79465) (Published: 2025-08-10)
+- [Trump has said abortion is a state issue. His judicial picks could shape it nationally for decades](https://biztoc.com/x/168cf99acc4239cb) (Published: 2025-08-10)
+- [Oklo, CoreWeave, On Holding, Cisco, Deere, and More Stocks to Watch This Week](https://biztoc.com/x/cac41d17f3f30b6d) (Published: 2025-08-10)
+- [AOL to discontinue its dial-up internet service after 34 years](https://biztoc.com/x/696921d6e1812002) (Published: 2025-08-10)
+- [Largest U.S. retailer to pay $5.6 million for overcharging customers](https://biztoc.com/x/051be711a9638915) (Published: 2025-08-10)
+- [Fire breaks out on Edinburgh landmark Arthur's Seat](https://biztoc.com/x/8f3059cc1baf0684) (Published: 2025-08-10)
 - [A voice breaking from the Fed ranks just heightened her push for cutting interest rates fast](https://biztoc.com/x/68756b01a9fd9d30) (Published: 2025-08-10)
-- [Nvidia Just Dodged an $8 Billion Bullet, Thanks to Donald Trump](https://biztoc.com/x/6f5f0f993eb838ff) (Published: 2025-08-10)
-- [Nvidia Stands To Grow Taller In The Tech World](https://www.forbes.com/sites/johnwerner/2025/08/10/nvidia-stands-to-grow-taller-in-the-tech-world/) (Published: 2025-08-10)
-- [European Leaders Want to Speak to Trump Before He Meets Putin](https://biztoc.com/x/fee6514081bc97bd) (Published: 2025-08-10)
-- [Earthquake of magnitude 6.1 strikes western Turkey, disaster authority says](https://biztoc.com/x/82cfe54698fbddc1) (Published: 2025-08-10)
-- [Warner Bros. Scores Its 7th Top Film of 2025 With ‘Weapons’](https://biztoc.com/x/805c88f0e2bdb60c) (Published: 2025-08-10)
-- [Inflation, Fed Leadership and Other Key Things to Watch this Week](https://biztoc.com/x/c50bd5c690814cb7) (Published: 2025-08-10)
-- [Earthquake of magnitude 6.19 strikes Turkey, GFZ says](https://biztoc.com/x/912e8cf080991599) (Published: 2025-08-10)
-- [Compulab EdgeAI-ORN Jetson Orin NX/Nano computer supports up to 4x GSML2, FPD Link IV, or MIPI CSI camera inputs](https://www.cnx-software.com/2025/08/11/compulab-edgeai-orn-jetson-orin-nx-nano-computer-supports-up-to-4x-gsml2-fpd-link-iv-or-mipi-csi-camera-inputs/) (Published: 2025-08-10)
-- [Chinese state media says Nvidia H20 chips pose security concerns, Reuters says](https://thefly.com/permalinks/entry.php/id4180286/NVDA-Chinese-state-media-says-Nvidia-H-chips-pose-security-concerns-Reuters-says) (Published: 2025-08-10)
