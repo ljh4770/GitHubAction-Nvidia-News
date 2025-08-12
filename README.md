@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-12 17:01:09**_
+_Last updated: **2025-08-12 17:28:41**_
 
-- [Trump Open to Nvidia Selling Scaled-Back Blackwell Chip to China](https://www.livemint.com/companies/news/trump-open-to-nvidia-selling-scaled-back-blackwell-chip-to-china-11754931582783.html) (Published: 2025-08-11)
-- [(PR) NVIDIA RTX PRO Servers with Blackwell Coming to World's Most Popular Enterprise Systems](https://www.techpowerup.com/339818/nvidia-rtx-pro-servers-with-blackwell-coming-to-worlds-most-popular-enterprise-systems) (Published: 2025-08-11)
-- [Chip Stocks Are Rising Today. There Are a Few Reasons Why](https://biztoc.com/x/fb9e6f49122a110b) (Published: 2025-08-11)
-- [ESPN, Fox to bundle upcoming streaming services for $39.99 a month](https://biztoc.com/x/6940c0d16bed992f) (Published: 2025-08-11)
-- [Brazil’s Haddad Says Meeting With Scott Bessent Was Canceled](https://biztoc.com/x/1b284d355cad4bd5) (Published: 2025-08-11)
-- [Trump Open to Nvidia Selling Scaled-Back Blackwell Chip to China](https://biztoc.com/x/e1fb2fbd5277158d) (Published: 2025-08-11)
-- [ESPN, Fox to bundle upcoming streaming services in new sports-heavy deal](https://biztoc.com/x/4235e7542eef55f9) (Published: 2025-08-11)
-- [South Africa’s DA Sees Ruling Coalition Weathering Latest Rift](https://biztoc.com/x/a68e7caf687b78d9) (Published: 2025-08-11)
-- [Adobe Stock Gets a Downgrade. ‘AI Is Eating Software,’ Analyst Says](https://biztoc.com/x/0ce4d6613eb33421) (Published: 2025-08-11)
+- [How the world’s most valuable company got caught in the middle of Trump’s spat with China](https://biztoc.com/x/5077b3090bfb1296) (Published: 2025-08-11)
+- [GitHub CEO Thomas Dohmke to step down, plans new startup](https://biztoc.com/x/281514022cac63db) (Published: 2025-08-11)
+- [Nvidia Nears 52-Week High As AI Frenzy, China Chip Export Deal Drive Momentum](https://biztoc.com/x/fcd54f58f18d0b96) (Published: 2025-08-11)
+- [ESPN, Fox Offer Streaming Sports Bundle With New Services](https://biztoc.com/x/323115aed42ebbbc) (Published: 2025-08-11)
+- [Trump says “it's possible I'd make a deal” to let Nvidia sell Blackwell chips “enhanced in a negative way” in China and confirms a 15% fee on H20 chip sales](https://biztoc.com/x/3dd9fa0fe518243e) (Published: 2025-08-11)
+- [Apple and Cook Are Back in Trump’s Good Books: How Should You Play AAPL Stock Here?](https://biztoc.com/x/9ab8b43ec45828ff) (Published: 2025-08-11)
+- [Tesla Is Axing Its Dojo Supercomputer Plans. What Does That Mean for TSLA Stock Here?](https://www.barchart.com/story/news/34053479/tesla-is-axing-its-dojo-supercomputer-plans-what-does-that-mean-for-tsla-stock-here) (Published: 2025-08-11)
+- [A CS degree from a top US college and solid coding skills, yet the only interview call is from a fast-food chain after a 4-month wait](https://economictimes.indiatimes.com/magazines/panache/a-cs-degree-from-a-top-us-college-and-solid-coding-skills-yet-the-only-interview-call-is-from-a-fast-food-chain-after-a-4-month-wait/articleshow/123241253.cms) (Published: 2025-08-11)
+- [(AAFES-mil/vets only) NVIDIA RTX 5090 FE available](https://slickdeals.net/f/18521902-aafes-mil-vets-only-nvidia-rtx-5090-fe-available) (Published: 2025-08-11)
+- [pinet-hcnn added to PyPI](https://pypi.org/project/pinet-hcnn/) (Published: 2025-08-11)
