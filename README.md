@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-12 19:53:49**_
+_Last updated: **2025-08-12 20:18:48**_
 
-- [10 million Americans will go uninsured due to Trump tax and spend law, CBO estimates](https://biztoc.com/x/729d199ba2867b94) (Published: 2025-08-11)
-- [Trump defends taking 15% cut of Nvidia, AMD chip sales to China](https://nypost.com/2025/08/11/business/trump-defends-taking-15-cut-of-nvidia-amd-chip-sales-to-china/) (Published: 2025-08-11)
-- [Commentary: Trump is reviving crony capitalism](https://finance.yahoo.com/news/commentary-trump-is-reviving-crony-capitalism-194752762.html) (Published: 2025-08-11)
-- [NVIDIA’s RTX PRO 6000 Blackwell ‘Server’ Edition GPU Expected to Launch in New 2U Configuration Later This Year, Offered by Major Server Providers](https://wccftech.com/nvidia-rtx-pro-6000-blackwell-server-edition-gpu-expected-to-launch-in-new-2u-configuration-later-this-year/) (Published: 2025-08-11)
-- [Atlanta Proposes $1 Billion Bond to Rehab World’s Busiest Airport](https://biztoc.com/x/85b6a0de9dd356e3) (Published: 2025-08-11)
-- [Soap recalled as it can cause ‘serious and life-threatening infections,’ including sepsis](https://biztoc.com/x/a0d5551e6a9b4feb) (Published: 2025-08-11)
-- [Dollar Moves Higher Ahead of US CPI Report](https://biztoc.com/x/e05daabe00793f8b) (Published: 2025-08-11)
-- [Trump to seek tighter crime laws, targets no-cash bail policies](https://biztoc.com/x/88e7dc6d85a94eec) (Published: 2025-08-11)
-- [U.S. Licenses May Require 15% Chip Cut](https://finance.yahoo.com/news/u-licenses-may-require-15-194134509.html) (Published: 2025-08-11)
-- [Trump extends trade truce with China another 90 days. What it means for tariffs](https://biztoc.com/x/aecce5bf63443d45) (Published: 2025-08-11)
+- [Nvidia’s Six-Word Response to China](https://gizmodo.com/nvidias-six-word-response-to-china-2000641571) (Published: 2025-08-11)
+- [U.S. Markets Declined Monday; monday.com Took Biggest Hit](https://biztoc.com/x/2359085a4a84d383) (Published: 2025-08-11)
+- [Marcos says the Philippines will be pulled into any war over Taiwan, despite China's protest](https://biztoc.com/x/551de2450faf2d0c) (Published: 2025-08-11)
+- [U.S. stocks end lower ahead of CPI despite Trump extending China trade truce](https://biztoc.com/x/a43fb88950622b58) (Published: 2025-08-11)
+- [CoreWeave, Circle’s Post-IPO Rise Sets High Bar for Earnings](https://biztoc.com/x/7493d0036e79f065) (Published: 2025-08-11)
+- [Trump opens door to sales of version of Nvidia’s next-gen AI chips in China](https://biztoc.com/x/3733deb9e80c683b) (Published: 2025-08-11)
+- [Investors Overwhelmingly Believe U.S. Stocks Are Overpriced, Survey Finds](https://biztoc.com/x/a638478f8d8c912b) (Published: 2025-08-11)
+- [Hong Kong’s Economy Has Two Gravity-Defying Puzzles](https://biztoc.com/x/4d3b94c9aeb7bcbf) (Published: 2025-08-11)
+- [Do Kwon May Plead Guilty in US Case Over $40 Billion Terraform Collapse](https://biztoc.com/x/a847add00adb85d3) (Published: 2025-08-11)
