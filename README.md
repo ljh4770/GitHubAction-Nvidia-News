@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-12 20:18:48**_
+_Last updated: **2025-08-12 20:39:33**_
 
-- [Nvidia’s Six-Word Response to China](https://gizmodo.com/nvidias-six-word-response-to-china-2000641571) (Published: 2025-08-11)
-- [U.S. Markets Declined Monday; monday.com Took Biggest Hit](https://biztoc.com/x/2359085a4a84d383) (Published: 2025-08-11)
-- [Marcos says the Philippines will be pulled into any war over Taiwan, despite China's protest](https://biztoc.com/x/551de2450faf2d0c) (Published: 2025-08-11)
-- [U.S. stocks end lower ahead of CPI despite Trump extending China trade truce](https://biztoc.com/x/a43fb88950622b58) (Published: 2025-08-11)
-- [CoreWeave, Circle’s Post-IPO Rise Sets High Bar for Earnings](https://biztoc.com/x/7493d0036e79f065) (Published: 2025-08-11)
-- [Trump opens door to sales of version of Nvidia’s next-gen AI chips in China](https://biztoc.com/x/3733deb9e80c683b) (Published: 2025-08-11)
-- [Investors Overwhelmingly Believe U.S. Stocks Are Overpriced, Survey Finds](https://biztoc.com/x/a638478f8d8c912b) (Published: 2025-08-11)
-- [Hong Kong’s Economy Has Two Gravity-Defying Puzzles](https://biztoc.com/x/4d3b94c9aeb7bcbf) (Published: 2025-08-11)
-- [Do Kwon May Plead Guilty in US Case Over $40 Billion Terraform Collapse](https://biztoc.com/x/a847add00adb85d3) (Published: 2025-08-11)
+- [Sources: AMD agreed to pay the US government 15% of MI308 chip revenue from China sales, as a condition of export licenses granted last week](https://biztoc.com/x/67b8be5c5e641e5d) (Published: 2025-08-11)
+- [Revel plans to wind down rideshare operations in its home city of New York after four years, pivoting to an EV-charging business that counts Uber as a partner](https://biztoc.com/x/166c49e11b27c451) (Published: 2025-08-11)
+- [World’s Largest Meat Supplier Seeks Green Credentials for Brazil at COP30](https://biztoc.com/x/6c141945216d37f5) (Published: 2025-08-11)
+- [Bitcoin-Miner MARA Said to Near $168 Million Deal for EDF Unit](https://biztoc.com/x/11360c46bbc16e81) (Published: 2025-08-11)
+- [Artist drowns sculpture in plastic waste in front of the UN during plastic pollution treaty talks](https://biztoc.com/x/fdb98442bcfdade5) (Published: 2025-08-11)
+- [Trump’s Deal for Chip Revenue May Usher In Trade Policy Shift](https://biztoc.com/x/86e0c7184c03b503) (Published: 2025-08-11)
+- [US corporate defaults on private debt rose in Q2, Fitch says](https://biztoc.com/x/80a64eea6e05854c) (Published: 2025-08-11)
+- [Dear CoreWeave Stock Fans, Mark Your Calendars for August 14](https://biztoc.com/x/429300802df98113) (Published: 2025-08-11)
+- [3D Systems (NYSE:DDD) Misses Q2 Sales Expectations](https://finance.yahoo.com/news/3d-systems-nyse-ddd-misses-203636443.html) (Published: 2025-08-11)
+- [Data Shows A Weakening Economy But Markets And Fed Unresponsive](https://www.forbes.com/sites/greatspeculations/2025/08/11/data-shows-a-weakening-economy-but-markets-and-fed-unresponsive/) (Published: 2025-08-11)
