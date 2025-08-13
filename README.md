@@ -1,15 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-13 15:27:28**_
+_Last updated: **2025-08-13 15:40:31**_
 
+- [AI startup Perplexity makes bold $34.5 billion bid for Google's Chrome browser](https://finance.yahoo.com/news/perplexity-ai-offers-34-5-153658141.html) (Published: 2025-08-12)
+- [BofA: The e-commerce surge continued in July, early data constructive for Amazon](https://finance.yahoo.com/news/bofa-e-commerce-surge-continued-153653174.html) (Published: 2025-08-12)
+- [Stocks Rally on Increased Odds for Fed Rate Cut after CPI Report](https://www.barchart.com/story/news/34081646/stocks-rally-on-increased-odds-for-fed-rate-cut-after-cpi-report) (Published: 2025-08-12)
+- [Storage at GPU Speed: Benchmarking Graid SupremeRAID AE for AI](https://www.storagereview.com/review/storage-at-gpu-speed-benchmarking-graid-supremeraid-ae-for-ai) (Published: 2025-08-12)
+- [I just spent a week with the Samsung Galaxy Book5 Pro 360, and now I don't want to give it back](https://www.techradar.com/computing/laptops/samsung-galaxy-book5-pro-360) (Published: 2025-08-12)
+- [installing "nvidia k1100m" driver automaticly](https://askubuntu.com/questions/1554397/installing-nvidia-k1100m-driver-automaticly) (Published: 2025-08-12)
+- [For Homeless Cyclists, Bikes Bring an Escape From the Streets](https://biztoc.com/x/468cec8fcbfc6a8c) (Published: 2025-08-12)
+- [FACT FOCUS: Trump exaggerates, misstates facts on Washington crime](https://biztoc.com/x/36225ce038bc1087) (Published: 2025-08-12)
+- [Monday.com Stock Dip Is Reason to Buy—Analyst](https://biztoc.com/x/844741648108a84c) (Published: 2025-08-12)
 - [Why There Aren’t Many Ports of Games on Switch 2… Yet](https://gizmodo.com/why-there-arent-many-ports-of-games-on-switch-2-yet-2000641881) (Published: 2025-08-12)
-- [NJ single mom left on the hook for $50K on 2 auto loans after refinancing — and now the dealership is being investigated](https://biztoc.com/x/f48ab839c425064b) (Published: 2025-08-12)
-- [Kenya Cuts Key Rate for Seventh Time in Row to Bolster Economy](https://biztoc.com/x/45fd4cf9ea7d75dd) (Published: 2025-08-12)
-- [Video
-See the tool that can bring down dangerous drones
-2:57](https://biztoc.com/x/b82a8913d6ff393a) (Published: 2025-08-12)
-- [Uber’s Rally Takes a Breather. Could the Next Move Higher Be Even Bigger?](https://biztoc.com/x/ee1fd34eb210e11c) (Published: 2025-08-12)
-- [CDPQ Pension Gains 4.6% in First Half As Equities Face Turmoil](https://biztoc.com/x/b395ddd721125168) (Published: 2025-08-12)
-- [WestJet resumes flights after system outage triggered brief ground stop](https://biztoc.com/x/2c65cc148a1a72fc) (Published: 2025-08-12)
-- [Singapore's Sea hunts growth and profit, with losses in rearview mirror](https://biztoc.com/x/4e124406b3890b68) (Published: 2025-08-12)
-- [Gigabyte NVIDIA GeForce RTX 5070 Ti WINDFORCE SFF 16GB GDDR7 Graphics Card $750 In-Store Pickup Only](https://slickdeals.net/f/18523042-gigabyte-nvidia-geforce-rtx-5070-ti-windforce-sff-16gb-gddr7-graphics-card-750-in-store-pickup-only) (Published: 2025-08-12)
-- [Crypto Firm Circle Posts Loss in First Earnings Report After IPO](https://biztoc.com/x/70d7e07e49e69682) (Published: 2025-08-12)
