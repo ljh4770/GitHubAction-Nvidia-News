@@ -1,13 +1,15 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-13 14:59:48**_
+_Last updated: **2025-08-13 15:27:28**_
 
-- [Do Kwon Will Plead Guilty to Charges Tied to Terra Collapse](https://biztoc.com/x/e93e8d1203e5dda3) (Published: 2025-08-12)
-- [NVIDIA (NASDAQ: NVDA) Price Prediction and Forecast 2025-2030 for August 12](https://biztoc.com/x/84a741dfb97d604a) (Published: 2025-08-12)
-- [India Sends Rare Diesel Cargo to China as Nayara Faces Sanctions](https://biztoc.com/x/e942624ad437d4a0) (Published: 2025-08-12)
-- [State-run Oil India's profit drops as fuel prices tank](https://biztoc.com/x/c0cb46423399b0a8) (Published: 2025-08-12)
-- [Alberta Bolsters Canada-Mexico Energy Ties as Trump Upends Trade](https://biztoc.com/x/5ae2f17ca1add6e3) (Published: 2025-08-12)
-- [Fertility Startup Gameto Raises $44 Million to Test Egg-Freezing Therapy in US](https://biztoc.com/x/078bfe24c9a001c1) (Published: 2025-08-12)
-- [French Nuclear Outages Caused by Jellyfish Are Being Extended](https://biztoc.com/x/979393fa83ba3d30) (Published: 2025-08-12)
-- [Journalist killing in Gaza sends a chilling message](https://biztoc.com/x/759f1f0375b76348) (Published: 2025-08-12)
-- [S&P 500, Nasdaq Back on Record Track](https://biztoc.com/x/8401d90e0cf2c70d) (Published: 2025-08-12)
-- [Beneath the AI Bubble, the Economy Looks Bleak](https://futurism.com/ai-bubble-economy-bleak) (Published: 2025-08-12)
+- [Why There Aren’t Many Ports of Games on Switch 2… Yet](https://gizmodo.com/why-there-arent-many-ports-of-games-on-switch-2-yet-2000641881) (Published: 2025-08-12)
+- [NJ single mom left on the hook for $50K on 2 auto loans after refinancing — and now the dealership is being investigated](https://biztoc.com/x/f48ab839c425064b) (Published: 2025-08-12)
+- [Kenya Cuts Key Rate for Seventh Time in Row to Bolster Economy](https://biztoc.com/x/45fd4cf9ea7d75dd) (Published: 2025-08-12)
+- [Video
+See the tool that can bring down dangerous drones
+2:57](https://biztoc.com/x/b82a8913d6ff393a) (Published: 2025-08-12)
+- [Uber’s Rally Takes a Breather. Could the Next Move Higher Be Even Bigger?](https://biztoc.com/x/ee1fd34eb210e11c) (Published: 2025-08-12)
+- [CDPQ Pension Gains 4.6% in First Half As Equities Face Turmoil](https://biztoc.com/x/b395ddd721125168) (Published: 2025-08-12)
+- [WestJet resumes flights after system outage triggered brief ground stop](https://biztoc.com/x/2c65cc148a1a72fc) (Published: 2025-08-12)
+- [Singapore's Sea hunts growth and profit, with losses in rearview mirror](https://biztoc.com/x/4e124406b3890b68) (Published: 2025-08-12)
+- [Gigabyte NVIDIA GeForce RTX 5070 Ti WINDFORCE SFF 16GB GDDR7 Graphics Card $750 In-Store Pickup Only](https://slickdeals.net/f/18523042-gigabyte-nvidia-geforce-rtx-5070-ti-windforce-sff-16gb-gddr7-graphics-card-750-in-store-pickup-only) (Published: 2025-08-12)
+- [Crypto Firm Circle Posts Loss in First Earnings Report After IPO](https://biztoc.com/x/70d7e07e49e69682) (Published: 2025-08-12)
