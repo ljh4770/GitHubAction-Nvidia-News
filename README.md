@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-13 22:20:52**_
+_Last updated: **2025-08-13 22:38:47**_
 
 - [Hackers leak Allianz Life data stolen in Salesforce attacks](https://www.bleepingcomputer.com/news/security/hackers-leak-allianz-life-data-stolen-in-salesforce-attacks/) (Published: 2025-08-12)
 - [China raises concerns over Nvidia’s H20 chips with local firms: Report](https://www.aljazeera.com/economy/2025/8/12/china-raises-concerns-over-nvidias-h20-chips-with-local-firms-report) (Published: 2025-08-12)
