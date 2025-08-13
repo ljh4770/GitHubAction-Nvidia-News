@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-13 18:47:22**_
+_Last updated: **2025-08-13 19:00:06**_
 
+- [Streamlining Quantum Error Correction and Application Development with CUDA-QX 0.4](https://developer.nvidia.com/blog/streamlining-quantum-error-correction-and-application-development-with-cuda-qx-0-4/) (Published: 2025-08-12)
+- [Beijing doesn't want Nvidia's H20s anywhere near sensitive government workloads](https://biztoc.com/x/c914a2af4523125d) (Published: 2025-08-12)
 - [Beijing doesn't want Nvidia's H20s anywhere near sensitive government workloads](https://www.theregister.com/2025/08/12/china_nvidia_h20/) (Published: 2025-08-12)
 - [Intel CEO Lip-Bu Tan Caught in Bizarre Crossfire of Trump’s China Standoff](https://observer.com/2025/08/intel-ceo-trump-china-standoff/) (Published: 2025-08-12)
 - [White House says it's working out legality of Nvidia and AMD China chip deals](https://biztoc.com/x/c12882250654cd4b) (Published: 2025-08-12)
@@ -9,4 +11,3 @@ _Last updated: **2025-08-13 18:47:22**_
 - [nvidia-modelopt 0.33.1](https://pypi.org/project/nvidia-modelopt/0.33.1/) (Published: 2025-08-12)
 - [White House says it's working out legality of Nvidia and AMD China chip deals](https://www.cnbc.com/2025/08/12/white-house-working-out-legality-nvidia-amd-china-chip-deals.html) (Published: 2025-08-12)
 - [Perplexity AI makes unsolicited $34.5bn bid to buy Google Chrome](https://www.aljazeera.com/economy/2025/8/12/perplexity-ai-makes-unsolicited-34-5bn-bid-to-buy-google-chrome) (Published: 2025-08-12)
-- [caioh-nvml-gpu-control 2.1.3.1](https://pypi.org/project/caioh-nvml-gpu-control/2.1.3.1/) (Published: 2025-08-12)
