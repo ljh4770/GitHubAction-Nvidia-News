@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-13 19:36:25**_
+_Last updated: **2025-08-13 19:46:40**_
 
+- [Show HN: Mistral-7B training using pyspark,DeepSpeed](https://github.com/genji970/sllm-mistralai-7B_training_using_pyspark-DeepSpeed) (Published: 2025-08-12)
+- [Nvidia Faces Suspicion As It Reenters China AI Chip Market](https://biztoc.com/x/7a4c44f7bad4284b) (Published: 2025-08-12)
 - [NVIDIA 580.76.05 released for Linux as the new recommended stable driver](https://www.gamingonlinux.com/2025/08/nvidia-580-76-05-released-for-linux-as-the-new-recommended-stable-driver/.) (Published: 2025-08-12)
 - [Ex-Intel boss pushes shocking $40 billion rescue plan involving Apple, Nvidia - calls for sacking Lip-Bu Tan](https://economictimes.indiatimes.com/news/international/us/intel-40-billion-rescue-plan-ex-intel-boss-pushes-shocking-40-billion-rescue-plan-involving-apple-nvidia-calls-for-sacking-lip-bu-tan/articleshow/123261685.cms) (Published: 2025-08-12)
 - [Because AMD and Nvidia caved so easily. President Stinky Felon plans to blackmail every company in America with the same deal [News]](https://www.fark.com/comments/13774956/Because-AMD-Nvidia-caved-so-easily-President-Stinky-Felon-plans-to-blackmail-every-company-in-America-with-same-deal) (Published: 2025-08-12)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-13 19:36:25**_
 - [Beijing doesn't want Nvidia's H20s anywhere near sensitive government workloads](https://www.theregister.com/2025/08/12/china_nvidia_h20/) (Published: 2025-08-12)
 - [Intel CEO Lip-Bu Tan Caught in Bizarre Crossfire of Trump’s China Standoff](https://observer.com/2025/08/intel-ceo-trump-china-standoff/) (Published: 2025-08-12)
 - [White House says it's working out legality of Nvidia and AMD China chip deals](https://biztoc.com/x/c12882250654cd4b) (Published: 2025-08-12)
-- [The Alienware 16X Aurora RTX 5070 Gaming Laptop Drops to the Lowest Price Ever](https://www.ign.com/articles/alienware-16x-aurora-gaming-laptop-deal-dell-back-to-school-sale-new-lowest-price) (Published: 2025-08-12)
-- [nvidia-modelopt-core 0.33.1](https://pypi.org/project/nvidia-modelopt-core/0.33.1/) (Published: 2025-08-12)
