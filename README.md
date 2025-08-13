@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-13 04:36:51**_
+_Last updated: **2025-08-13 04:56:02**_
 
+- [Lithium Miners Retrace Share Gains With Chinese Output in Focus](https://biztoc.com/x/84983aa1a436dcc1) (Published: 2025-08-12)
+- [RBA Delivers Third Cut Bringing Rates to Lowest Since April 2023](https://biztoc.com/x/6e6b48a2802d426c) (Published: 2025-08-12)
+- [RBA cuts interest rates by 25 bps, sees more easing on softer inflation](https://biztoc.com/x/b6d6e645a9eaaec8) (Published: 2025-08-12)
+- [Hong Kong Builder Parkview Seeks Loan Extension as Talks Drag On](https://biztoc.com/x/490f766ebc1bc461) (Published: 2025-08-12)
+- [Will Oasis Worsen UK Inflation Woes? Definitely Maybe](https://biztoc.com/x/c1b25c2758c46f97) (Published: 2025-08-12)
+- [Australia's central bank downgrades economic outlook, productivity speed limit](https://biztoc.com/x/05a96a7ad740fdf5) (Published: 2025-08-12)
+- [H20 chip export resumes with 15% revenue remittance condition; industry fears ban is imminent](https://www.digitimes.com/news/a20250812PD219/us-china-trade-war-nvidia-chips-exports-ban.html) (Published: 2025-08-12)
 - [Tariff-Hit South Africa Targets Asian Buyers for Farm Produce](https://biztoc.com/x/ed218482b2859ec9) (Published: 2025-08-12)
 - [Elon Musk threatens to sue Apple over app store ranking of his AI app](https://biztoc.com/x/093a9324f931b732) (Published: 2025-08-12)
 - [Prabowo’s Food Estate Chief Quits, Citing Zero Budget](https://biztoc.com/x/6ae30c2ad9b99e03) (Published: 2025-08-12)
-- [Soybean Futures Fall After Trump Extends Trade Truce With China](https://biztoc.com/x/5d47b111b75e2231) (Published: 2025-08-12)
-- [Trump opens door to sales of version of Nvidia's next-gen AI chips in China](https://biztoc.com/x/6705a9974540e39b) (Published: 2025-08-12)
-- [Dodgers star Shohei Ohtani and agent accused of sabotaging $240M Hawaii real estate project](https://biztoc.com/x/d5f1529607261df2) (Published: 2025-08-12)
-- [Trump opens door to sales of version of Nvidia's next-gen AI chips in China - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=178649964) (Published: 2025-08-12)
-- [How Nvidia is tangled in Trump’s dispute with China; 5 things to know](https://www.livemint.com/companies/news/how-nvidia-is-tangled-in-trump-s-dispute-with-china-5-things-to-know-11754970731518.html) (Published: 2025-08-12)
-- [Nvidia to pay 15pc of China chip sale revenue to US government](https://www.independent.ie/business/world/nvidia-to-pay-15pc-of-china-chip-sale-revenue-to-us-government/a797765440.html) (Published: 2025-08-12)
-- [US consumer prices likely increased marginally in July; data quality concerns rising](https://biztoc.com/x/2a0b991592eef21a) (Published: 2025-08-12)
