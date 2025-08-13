@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-13 07:50:24**_
+_Last updated: **2025-08-13 08:12:58**_
 
-- [Nvidia's China Opportunity Disappears](https://biztoc.com/x/a10a67e118eb62d7) (Published: 2025-08-12)
-- [Nvidia’s Six-Word Response to China](https://biztoc.com/x/b05409d1ad4b1163) (Published: 2025-08-12)
-- [5 Revealing Analyst Questions From MSA Safety’s Q2 Earnings Call](https://finance.yahoo.com/news/5-revealing-analyst-questions-msa-072651441.html) (Published: 2025-08-12)
-- [APP Q2 Deep Dive: Platform Expansion and Self-Service Strategy Drive Future Growth](https://finance.yahoo.com/news/app-q2-deep-dive-platform-072127530.html) (Published: 2025-08-12)
-- [(PR) Giga Computing Joins SIGGRAPH 2025 with NVIDIA-based Systems Scaling from Mini PCs to Workstations to Enterprise-grade Servers](https://www.techpowerup.com/339839/giga-computing-joins-siggraph-2025-with-nvidia-based-systems-scaling-from-mini-pcs-to-workstations-to-enterprise-grade-servers) (Published: 2025-08-12)
-- [Pinkerton Retirement Specialists LLC Sells 6,862 Shares of NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/12/pinkerton-retirement-specialists-llc-sells-6862-shares-of-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-12)
-- [Sage Mountain Advisors LLC Increases Holdings in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/12/sage-mountain-advisors-llc-increases-holdings-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-12)
-- [NVIDIA Corporation (NASDAQ:NVDA) Shares Acquired by Grange Capital LLC](https://www.etfdailynews.com/2025/08/12/nvidia-corporation-nasdaqnvda-shares-acquired-by-grange-capital-llc/) (Published: 2025-08-12)
-- [Future You Wealth LLC Has $546,000 Stake in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/12/future-you-wealth-llc-has-546000-stake-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-12)
-- [ESG Planning DBA Harper Investing Sells 7,014 Shares of NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/12/esg-planning-dba-harper-investing-sells-7014-shares-of-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-12)
+- [China imposes preliminary anti-dumping duty on Canadian canola imports](https://biztoc.com/x/260479cb3d301e95) (Published: 2025-08-12)
+- [Asia stocks mostly higher as tariff truce supports sentiment](https://biztoc.com/x/75e3a4d5eb8bc95a) (Published: 2025-08-12)
+- [Indian drugmaker Zydus Life's first-quarter profit beats estimates on new US drug launches](https://biztoc.com/x/7e16e9a9a949cb95) (Published: 2025-08-12)
+- [Meloni Seeks to Shrink Chinese Holdings at Key Italian Companies](https://biztoc.com/x/69343158667e117e) (Published: 2025-08-12)
+- [Nvidia Reverses Higher On China AI Chip Deal Surprise; Is Nvidia A Buy Or Sell Now?](https://biztoc.com/x/04230206a99b1113) (Published: 2025-08-12)
+- [Ether Funds Draw Record $1 Billion as Corporate Hoards Expand](https://biztoc.com/x/f34a1047272874b6) (Published: 2025-08-12)
+- [Are Wall Street Analysts Predicting UDR Stock Will Climb or Sink?](https://biztoc.com/x/f667c4a6a95e6bbb) (Published: 2025-08-12)
+- [How Cerebras approaches competing against Nvidia](https://www.techtarget.com/searchenterpriseai/podcast/How-Cerebras-approaches-competing-against-Nvidia) (Published: 2025-08-12)
+- [U.S. inflation data ahead; Trump nominates new BLS head - what's moving markets](https://biztoc.com/x/7854b81581755887) (Published: 2025-08-12)
