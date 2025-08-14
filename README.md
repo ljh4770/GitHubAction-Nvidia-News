@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-14 05:43:15**_
+_Last updated: **2025-08-14 05:54:01**_
 
+- [Zhen Ding bullish on CoWoP despite long road to mass production](https://www.digitimes.com/news/a20250813PD206/nvidia-pcb-supply-chain-packaging-zhen-ding.html) (Published: 2025-08-13)
+- [Can China's AI Boom Sustain Without Nvidia? | Insight with Haslinda Amin 8/13/2025](https://biztoc.com/x/b7c768c206f6af32) (Published: 2025-08-13)
 - [INSIDER | Takeaways from our first ShanghA.I. Expedition](http://technode.com/2025/08/13/insider-takeaways-from-our-first-shangha-i-expedition/) (Published: 2025-08-13)
 - [The secrets of the world’s richest company – podcast](https://biztoc.com/x/f074389ea055325e) (Published: 2025-08-13)
 - [Perplexity Google Chrome bid: All you need to know about the $34.5 billion offer](https://economictimes.indiatimes.com/tech/technology/perplexity-google-chrome-bid-all-you-need-to-know-about-the-34-5-billion-offer/articleshow/123272152.cms) (Published: 2025-08-13)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-14 05:43:15**_
 - [JVNDB-2025-011346:NVIDIA の triton inference server における二重解放に関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-011346_AD_1.html) (Published: 2025-08-13)
 - [JVNDB-2025-011345:NVIDIA の triton inference server における整数オーバーフローの脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-011345_AD_1.html) (Published: 2025-08-13)
 - [JVNDB-2025-011344:NVIDIA の triton inference server における再帰制御に関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-011344_AD_1.html) (Published: 2025-08-13)
-- [CMCSA Q2 Deep Dive: Product Simplification, Parks Expansion, and Streaming Strategy Reshape the Story](https://finance.yahoo.com/news/cmcsa-q2-deep-dive-product-041359563.html) (Published: 2025-08-13)
-- [YMMV PNY NVIDIA GeForce RTX 5080 Overclocked Triple Fan 16GB GDDR7 PCIe 5.0 Graphics Card $999.99 at Micro Center (6 replies)](https://slickdeals.net/f/18525679-ymmv-pny-nvidia-geforce-rtx-5080-overclocked-triple-fan-16gb-gddr7-pcie-5-0-graphics-card-999-99-at-micro-center) (Published: 2025-08-13)
