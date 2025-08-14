@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-14 01:27:55**_
+_Last updated: **2025-08-14 03:10:48**_
 
+- [TSMC GaN exit prompts Navitas to shift orders to PSMC for Nvidia AI servers](https://www.digitimes.com/news/a20250813PD218/tsmc-gan-wafer-nvidia-psmc.html) (Published: 2025-08-13)
+- [Humanoid robots gain momentum, but hardware costs hold back mass adoption, says DIGITIMES](https://www.digitimes.com/news/a20250812VL212/nvidia-hardware-digitimes-adoption-development.html) (Published: 2025-08-13)
+- [Deere (DE) Q2 Earnings: What To Expect](https://finance.yahoo.com/news/deere-q2-earnings-expect-030125798.html) (Published: 2025-08-13)
+- [Earnings To Watch: Advance Auto Parts (AAP) Reports Q2 Results Tomorrow](https://finance.yahoo.com/news/earnings-watch-advance-auto-parts-030051571.html) (Published: 2025-08-13)
+- [US export levy targeting Nvidia and AMD may expand to other semiconductor firms](https://www.digitimes.com/news/a20250813VL202/nvidia-amd-policy-security-ai-chip.html) (Published: 2025-08-13)
+- [Smart Monitor M9 Earns Praise as a Do-It-All Display for Work and Play](https://news.samsung.com/global/smart-monitor-m9-earns-praise-as-a-do-it-all-display-for-work-and-play) (Published: 2025-08-13)
+- [Pony AI Nears Full-Year Robotaxi Target Despite Scaling Hurdles](https://biztoc.com/x/861c55a0ee44e525) (Published: 2025-08-13)
+- [Buyer Fatigue in Australian Bonds Masked by Foreign Purchases](https://biztoc.com/x/7a3bc3b7e198ff66) (Published: 2025-08-13)
+- [Exxon Aims to Build on Guyana Oil Success in Trinidad and Tobago](https://biztoc.com/x/86d6e2b894cd90ff) (Published: 2025-08-13)
 - [Plane crashes into parked aircraft while landing at Montana airport, sparking fire](https://biztoc.com/x/7d6544310fc3fd60) (Published: 2025-08-13)
-- [Dollar slips as investors eye September Fed cut](https://biztoc.com/x/c3c1cdc44b3526eb) (Published: 2025-08-13)
-- [Oil prices little changed as industry report points to slowing US demand](https://biztoc.com/x/31a81be4c2a712f0) (Published: 2025-08-13)
-- [JVNDB-2025-011252:NVIDIA の triton inference server における整数オーバーフローの脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-011252_AD_1.html) (Published: 2025-08-13)
-- [JVNDB-2025-011251:NVIDIA の triton inference server における整数アンダーフローの脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-011251_AD_1.html) (Published: 2025-08-13)
-- [Opinion: Retirees are now at risk from politicized inflation data](https://biztoc.com/x/a27b8f64bf434279) (Published: 2025-08-13)
-- [China’s Property Crisis Hits New Low With Evergrande Delisting](https://biztoc.com/x/1a6fea5fc46f83eb) (Published: 2025-08-13)
-- [Massive rescue effort led to pulling workers from debris of Pennsylvania steel plant explosion](https://biztoc.com/x/104e858a1e80b32a) (Published: 2025-08-13)
-- [Please Don't Promote Wayland](https://stoppromotingwayland.netlify.app/) (Published: 2025-08-13)
-- [Suzuki’s India Unit Doubles Down on SUVs as Small Cars Slide](https://biztoc.com/x/d7cd33ca08daa23b) (Published: 2025-08-13)
