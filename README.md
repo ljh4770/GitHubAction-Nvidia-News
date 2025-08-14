@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-14 04:37:36**_
+_Last updated: **2025-08-14 04:56:10**_
 
+- [Long-time Nvidia Bull Shrugs Off China H20 Chip Concerns](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0de21ba5-e963-4e26-a35c-b87421f9bc6a) (Published: 2025-08-13)
 - [JVNDB-2025-011346:NVIDIA の triton inference server における二重解放に関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-011346_AD_1.html) (Published: 2025-08-13)
 - [JVNDB-2025-011345:NVIDIA の triton inference server における整数オーバーフローの脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-011345_AD_1.html) (Published: 2025-08-13)
 - [JVNDB-2025-011344:NVIDIA の triton inference server における再帰制御に関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-011344_AD_1.html) (Published: 2025-08-13)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-14 04:37:36**_
 - [CoreWeave beats quarterly revenue estimates on sturdy AI demand](https://economictimes.indiatimes.com/tech/technology/coreweave-beats-quarterly-revenue-estimates-on-sturdy-ai-demand/articleshow/123270890.cms) (Published: 2025-08-13)
 - [NVIDIA Releases GeForce 580.97 WHQL Drivers](https://www.madshrimps.be/news/nvidia-releases-geforce-580-97-whql-drivers/) (Published: 2025-08-13)
 - [Dynamo 0.4 Delivers 4x Faster Performance, SLO-Based Autoscaling, and Real-Time Observability](https://developer.nvidia.com/blog/dynamo-0-4-delivers-4x-faster-performance-slo-based-autoscaling-and-real-time-observability/) (Published: 2025-08-13)
-- [TSMC GaN exit prompts Navitas to shift orders to PSMC for Nvidia AI servers](https://www.digitimes.com/news/a20250813PD218/tsmc-gan-wafer-nvidia-psmc.html) (Published: 2025-08-13)
