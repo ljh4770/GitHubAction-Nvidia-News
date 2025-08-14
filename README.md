@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-14 16:34:17**_
+_Last updated: **2025-08-14 16:52:47**_
 
+- [Trump Delivers Democrats' Dream Corporate Tax](https://www.newsweek.com/trump-delivers-democrats-dream-corporate-tax-2112590) (Published: 2025-08-13)
 - [As degrees get branded worthless, LinkedIn’s just revealed the universities that give Gen Z the best shot at corner office jobs](https://fortune.com/2025/08/13/gen-z-useless-degrees-best-colleges-long-term-career-success-linkedin-list-princeton-duke-upenn-struggling-job-market/) (Published: 2025-08-13)
 - [Scott Bessent floats rolling out export tax to more industries (Myles McCormick/Financial Times)](https://www.memeorandum.com/250813/p47) (Published: 2025-08-13)
 - [Applebee’s and IHOP’s CIO places AI bets that can boost traffic and improve the dining experience](https://fortune.com/2025/08/13/applebees-and-ihops-cio-places-ai-bets-that-can-boost-traffic-and-improve-the-dining-experience/) (Published: 2025-08-13)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-14 16:34:17**_
 - [Stocks See Support As Bessent Calls for Big Rate Cut](https://www.barchart.com/story/news/34120396/stocks-see-support-as-bessent-calls-for-big-rate-cut) (Published: 2025-08-13)
 - [Bessent Sees Nvidia, AMD China Agreements as a Model for Others](https://www.livemint.com/companies/news/bessent-sees-nvidia-amd-china-agreements-as-a-model-for-others-11755099170389.html) (Published: 2025-08-13)
 - [Nvidia v. AMD: Who's Winning In Trump China AI Chips Move?](https://biztoc.com/x/16c3f17bf1778fb1) (Published: 2025-08-13)
-- [Bitdeer July self-mining hashrate climbs 35% to 22.3 EH/s, mined 282 Bitcoin](https://blockspace.media/insight/bitdeer-july-self-mining-hashrate-climbs-35-to-22-3-eh-s-mined-282-bitcoin/) (Published: 2025-08-13)
