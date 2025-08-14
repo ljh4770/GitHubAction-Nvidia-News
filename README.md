@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-14 23:10:31**_
+_Last updated: **2025-08-14 23:30:27**_
 
 - [Apple assembler Foxconn’s Q2 net profit expected to rise 14% YoY](https://macdailynews.com/2025/08/13/apple-assembler-foxconns-q2-net-profit-expected-to-rise-14-yoy/) (Published: 2025-08-13)
 - [Trump’s AI chip deal sparks legal questions and national security concerns](https://biztoc.com/x/86a8597d04bdee54) (Published: 2025-08-13)
