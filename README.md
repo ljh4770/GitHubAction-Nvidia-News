@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-13 23:54:39**_
+_Last updated: **2025-08-14 01:27:55**_
 
-- [CoreWeave’s stock crumbles on wider-than-expected loss](https://siliconangle.com/2025/08/12/coreweaves-stock-crumbles-wider-expected-loss/) (Published: 2025-08-12)
-- [Gears of War: Reloaded PC System Requirements — Is Your Setup Ready for the Return of Delta Squad?](https://www.windowscentral.com/gaming/pc-gaming/gears-of-war-reloaded-pc-requirements) (Published: 2025-08-12)
-- [Macquarie Data Centres to offer Dell-Nvidia AI tech stack](https://www.computerweekly.com/news/366629279/Macquarie-Data-Centres-to-offer-Dell-Nvidia-AI-tech-stack) (Published: 2025-08-12)
-- [Trump's unusual deal with Nvidia and AMD sparks concerns, legal questions](https://biztoc.com/x/3e3b0df7af44cc21) (Published: 2025-08-12)
-- [Two Chinese robot firms join Nvidia to drive ‘physical AI’ boom](https://www.digitimes.com/news/a20250812PD222/china-nvidia-robot-robotics-training-manufacturing.html) (Published: 2025-08-12)
-- [Stock Market Today: Dow Rallies, S&P 500 And Nasdaq Make History; Nvidia, Palantir Both Do This](https://biztoc.com/x/2694a91ef14e1666) (Published: 2025-08-12)
-- [Jim Cramer tells investors to 'stay the course' even when it feels tough. Here's why](https://www.cnbc.com/2025/08/12/cramer-stock-market-trump.html) (Published: 2025-08-12)
-- [Is MAGA going Marxist and Maoist? Trump’s assault on free-market capitalism](https://fortune.com/2025/08/12/maga-marxist-maoist-trump-assault-free-market-capitalism-socialism/) (Published: 2025-08-12)
-- [Hackers leak Allianz Life data stolen in Salesforce attacks](https://www.bleepingcomputer.com/news/security/hackers-leak-allianz-life-data-stolen-in-salesforce-attacks/) (Published: 2025-08-12)
+- [Plane crashes into parked aircraft while landing at Montana airport, sparking fire](https://biztoc.com/x/7d6544310fc3fd60) (Published: 2025-08-13)
+- [Dollar slips as investors eye September Fed cut](https://biztoc.com/x/c3c1cdc44b3526eb) (Published: 2025-08-13)
+- [Oil prices little changed as industry report points to slowing US demand](https://biztoc.com/x/31a81be4c2a712f0) (Published: 2025-08-13)
+- [JVNDB-2025-011252:NVIDIA の triton inference server における整数オーバーフローの脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-011252_AD_1.html) (Published: 2025-08-13)
+- [JVNDB-2025-011251:NVIDIA の triton inference server における整数アンダーフローの脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-011251_AD_1.html) (Published: 2025-08-13)
+- [Opinion: Retirees are now at risk from politicized inflation data](https://biztoc.com/x/a27b8f64bf434279) (Published: 2025-08-13)
+- [China’s Property Crisis Hits New Low With Evergrande Delisting](https://biztoc.com/x/1a6fea5fc46f83eb) (Published: 2025-08-13)
+- [Massive rescue effort led to pulling workers from debris of Pennsylvania steel plant explosion](https://biztoc.com/x/104e858a1e80b32a) (Published: 2025-08-13)
+- [Please Don't Promote Wayland](https://stoppromotingwayland.netlify.app/) (Published: 2025-08-13)
+- [Suzuki’s India Unit Doubles Down on SUVs as Small Cars Slide](https://biztoc.com/x/d7cd33ca08daa23b) (Published: 2025-08-13)
