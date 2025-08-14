@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-14 23:44:16**_
+_Last updated: **2025-08-14 23:54:20**_
 
 - [Report: U.S. government placing trackers in AI server shipments to enforce chip export controls](https://siliconangle.com/2025/08/13/report-u-s-government-placing-trackers-ai-server-shipments-enforce-chip-export-controls/) (Published: 2025-08-13)
 - [Apple assembler Foxconn’s Q2 net profit expected to rise 14% YoY](https://macdailynews.com/2025/08/13/apple-assembler-foxconns-q2-net-profit-expected-to-rise-14-yoy/) (Published: 2025-08-13)
