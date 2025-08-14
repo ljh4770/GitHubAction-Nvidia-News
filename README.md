@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-14 07:38:02**_
+_Last updated: **2025-08-14 07:49:53**_
 
+- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Coreweave, Intel, Nvidia, Palantir, More Movers, Fed Rate Cuts Expected](https://biztoc.com/x/d345706ec35202c2) (Published: 2025-08-13)
 - [CoreWeave Rally Sputters as AI Buildout Costs Widen Losses](https://www.livemint.com/companies/company-results/coreweave-rally-sputters-as-ai-buildout-costs-widen-losses-11755070426442.html) (Published: 2025-08-13)
 - [Samsung, SK Hynix eye HBM boost as Nvidia gets China AI chip approval, 15% tariff threatens margins](https://www.digitimes.com/news/a20250813PD219/samsung-sk-hynix-nvidia-hbm-revenue.html) (Published: 2025-08-13)
 - [I installed Linux on this mini PC - here's how it transformed my workflow (for the better)](https://www.zdnet.com/article/i-installed-linux-on-this-mini-pc-heres-how-it-transformed-my-workflow-for-the-better/) (Published: 2025-08-13)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-14 07:38:02**_
 - [Welch & Forbes LLC Sells 388,804 Shares of NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/13/welch-forbes-llc-sells-388804-shares-of-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-13)
 - [NVIDIA Corporation (NASDAQ:NVDA) Shares Sold by Stevens Capital Partners](https://www.etfdailynews.com/2025/08/13/nvidia-corporation-nasdaqnvda-shares-sold-by-stevens-capital-partners/) (Published: 2025-08-13)
 - [BIP Alliance LLC Sells 1,023 Shares of NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/13/bip-alliance-llc-sells-1023-shares-of-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-13)
-- [Bridgewater Advisors Inc. Buys 18,541 Shares of NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/13/bridgewater-advisors-inc-buys-18541-shares-of-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-13)
