@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-14 23:54:20**_
+_Last updated: **2025-08-15 01:26:04**_
 
+- [Hungry hyperscalers boosted Cisco's AI sales by a cool billion bucks](https://www.theregister.com/2025/08/14/cisco_q4_2025/) (Published: 2025-08-14)
+- [CNBC Daily Open: Despite cooler-than-expected CPI, economists agree higher prices are coming](https://www.cnbc.com/2025/08/14/cnbc-daily-open-despite-cpi-economists-agree-higher-prices-are-coming.html) (Published: 2025-08-14)
+- [How Trump’s China Chips Gambit Could Backfire](https://dailycaller.com/2025/08/13/how-trumps-china-chips-gambit-could-backfire/) (Published: 2025-08-14)
+- [After switching to an AMD GPU, my display became blurry](https://askubuntu.com/questions/1554461/after-switching-to-an-amd-gpu-my-display-became-blurry) (Published: 2025-08-14)
+- [AI infrastructure deals fuel strong earnings for Cisco](https://siliconangle.com/2025/08/13/ai-infrastructure-deals-fuel-strong-earnings-cisco/) (Published: 2025-08-14)
+- [Arm Neural Technology Delivers Smarter, Sharper, More Efficient Mobile Graphics for Developers - Arm Newsroom](https://slashdot.org/firehose.pl?op=view&amp;id=178669360) (Published: 2025-08-14)
+- [Developing a standard AI OS: Unlocking production-grade AI at enterprise scale](https://www.redhat.com/en/blog/developing-standard-ai-os) (Published: 2025-08-14)
+- [Thailand’s Delta Sees AI Boom Boosting Sales for Coming Years](https://www.livemint.com/companies/company-results/thailands-delta-sees-ai-boom-boosting-sales-for-coming-years-11755129278974.html) (Published: 2025-08-13)
 - [Report: U.S. government placing trackers in AI server shipments to enforce chip export controls](https://siliconangle.com/2025/08/13/report-u-s-government-placing-trackers-ai-server-shipments-enforce-chip-export-controls/) (Published: 2025-08-13)
 - [Apple assembler Foxconn’s Q2 net profit expected to rise 14% YoY](https://macdailynews.com/2025/08/13/apple-assembler-foxconns-q2-net-profit-expected-to-rise-14-yoy/) (Published: 2025-08-13)
-- [Trump’s AI chip deal sparks legal questions and national security concerns](https://biztoc.com/x/86a8597d04bdee54) (Published: 2025-08-13)
-- [Nvidia (NASDAQ: NVDA) Stock Price Prediction for 2025: Where Will It Be in 1 Year (Aug 13)](https://biztoc.com/x/5230edf7222fbdad) (Published: 2025-08-13)
-- [White House coming to realization export deal with AMD, NVidia isn't legal [Followup]](https://www.fark.com/comments/13776194/White-House-coming-to-realization-export-deal-with-AMD-NVidia-isnt-legal) (Published: 2025-08-13)
-- [Trump’s AI chip deal sparks legal questions and national security concerns](https://www.pbs.org/newshour/show/trumps-ai-chip-deal-sparks-legal-questions-and-national-security-concerns) (Published: 2025-08-13)
-- [Stock market today: Live updates](https://www.cnbc.com/2025/08/13/stock-market-today-live-updates.html) (Published: 2025-08-13)
-- [Trump’s Deal With Nvidia Offers Path Forward in Global Trade War](https://biztoc.com/x/8e7c3811300e061b) (Published: 2025-08-13)
-- [Sotera Health Company, Incyte, Exact Sciences, Bausch + Lomb, and Addus HomeCare Shares Skyrocket, What You Need To Know](https://finance.yahoo.com/news/sotera-health-company-incyte-exact-215109130.html) (Published: 2025-08-13)
-- [How Nvidia CEO Jensen Huang has become Trump’s silent partner in trade with China](https://biztoc.com/x/f5872df4580f9f99) (Published: 2025-08-13)
