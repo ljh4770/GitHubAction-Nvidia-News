@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-15 18:34:25**_
+_Last updated: **2025-08-15 18:55:16**_
 
+- [HP Cranks Up the Game with Smarter Systems, Cooler Builds, and Gear That Hits Different](https://www.globenewswire.com/news-release/2025/08/14/3133783/0/en/HP-Cranks-Up-the-Game-with-Smarter-Systems-Cooler-Builds-and-Gear-That-Hits-Different.html) (Published: 2025-08-14)
+- [Startup Cohere Raises $500 Million for Its AI Model for Enterprises](http://www.pymnts.com/news/investment-tracker/2025/ai-startup-cohere-raises-500-million-hires-former-meta-and-uber-executives/) (Published: 2025-08-14)
+- [The Chip That Crossed the Line? NVIDIA, China, and the Great Power Tech Race](https://warontherocks.com/2025/08/the-chip-that-crossed-the-line-nvidia-china-and-the-great-power-tech-race/) (Published: 2025-08-14)
 - [Taiwan Semiconductor Stocks: Analyzing TSM Vs. TSMY For Your Investment Strategy](https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-stocks-tsm-vs-tsmy/) (Published: 2025-08-14)
 - [(PR) HP Unveils the Next Evolution of Its OMEN and HyperX Gaming Ecosystem](https://www.techpowerup.com/339932/hp-unveils-the-next-evolution-of-its-omen-and-hyperx-gaming-ecosystem) (Published: 2025-08-14)
 - [Spy twist? US allegedly bugged AI chips of Nvidia and AMD bound for China with hidden trackers](https://economictimes.indiatimes.com/news/international/us/us-government-ai-chip-tracking-to-china-spy-twist-us-allegedly-bugged-ai-chips-of-nvidia-and-amd-bound-for-china-with-hidden-trackers/articleshow/123308517.cms) (Published: 2025-08-14)
@@ -8,6 +11,3 @@ _Last updated: **2025-08-15 18:34:25**_
 - [Tiger Global boosts stakes in Meta, Amazon, Microsoft, Nvidia, Reddit](https://thefly.com/permalinks/entry.php/id4183812/BULL;ETOR;TFIN;PDD;TTAN;META;AMZN;MSFT;NVDA;RDDT;WDAY;NOW;CRWD;ZKH;RERE;SE;GOOGL-Tiger-Global-boosts-stakes-in-Meta-Amazon-Microsoft-Nvidia-Reddit) (Published: 2025-08-14)
 - [Elecrow’s Mini PC case brings a gamer aesthetic to the Raspberry Pi 5 or NVIDIA Jetson Orin Nano](https://liliputing.com/elecrows-mini-pc-case-brings-a-gamer-aesthetic-to-the-raspberry-pi-5-or-nvidia-jetson-orin-nano/) (Published: 2025-08-14)
 - [Wedbush: Nvidia, AMD China AI Deal a 'Bullish Catalyst' for Big Tech](https://finance.yahoo.com/news/wedbush-nvidia-amd-china-ai-175410596.html) (Published: 2025-08-14)
-- [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down](https://biztoc.com/x/eefd90bc158296a1) (Published: 2025-08-14)
-- [Evolving Tech C-Suite Titles Highlight Priorities And Purpose](https://www.forbes.com/sites/cio/2025/08/14/evolving-tech-c-suite-titles-highlight-priorities-and-purpose/) (Published: 2025-08-14)
-- [Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down | TechCrunch](https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/) (Published: 2025-08-14)
