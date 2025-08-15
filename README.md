@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-15 18:55:16**_
+_Last updated: **2025-08-15 19:15:22**_
 
+- [Inside the Biden Administration's Gamble to Freeze China’s AI Future](https://www.wired.com/story/chips-china-artificial-intelligence-controls/) (Published: 2025-08-14)
+- [Trump Administration Plans To Tax More American Companies on Overseas Sales](https://biztoc.com/x/81728357e96d96de) (Published: 2025-08-14)
+- [Trump's 15% China cut may not worry Nvidia much](https://economictimes.indiatimes.com/news/international/business/trumps-15-china-cut-may-not-worry-nvidia-much/articleshow/123312307.cms) (Published: 2025-08-14)
+- [Ken Fisher's Strategic Moves: Oracle Corp Sees Significant Reduction](https://finance.yahoo.com/news/ken-fishers-strategic-moves-oracle-190218225.html) (Published: 2025-08-14)
+- [Commander in Chief of the Chip Industry](https://biztoc.com/x/3756d40fb0e1a57d) (Published: 2025-08-14)
+- [Trump Administration Plans To Tax More American Companies on Overseas Sales](https://reason.com/2025/08/14/trump-administration-plans-to-tax-more-american-companies-on-overseas-sales/) (Published: 2025-08-14)
 - [HP Cranks Up the Game with Smarter Systems, Cooler Builds, and Gear That Hits Different](https://www.globenewswire.com/news-release/2025/08/14/3133783/0/en/HP-Cranks-Up-the-Game-with-Smarter-Systems-Cooler-Builds-and-Gear-That-Hits-Different.html) (Published: 2025-08-14)
 - [Startup Cohere Raises $500 Million for Its AI Model for Enterprises](http://www.pymnts.com/news/investment-tracker/2025/ai-startup-cohere-raises-500-million-hires-former-meta-and-uber-executives/) (Published: 2025-08-14)
 - [The Chip That Crossed the Line? NVIDIA, China, and the Great Power Tech Race](https://warontherocks.com/2025/08/the-chip-that-crossed-the-line-nvidia-china-and-the-great-power-tech-race/) (Published: 2025-08-14)
 - [Taiwan Semiconductor Stocks: Analyzing TSM Vs. TSMY For Your Investment Strategy](https://www.forbes.com/sites/investor-hub/article/taiwan-semiconductor-stocks-tsm-vs-tsmy/) (Published: 2025-08-14)
-- [(PR) HP Unveils the Next Evolution of Its OMEN and HyperX Gaming Ecosystem](https://www.techpowerup.com/339932/hp-unveils-the-next-evolution-of-its-omen-and-hyperx-gaming-ecosystem) (Published: 2025-08-14)
-- [Spy twist? US allegedly bugged AI chips of Nvidia and AMD bound for China with hidden trackers](https://economictimes.indiatimes.com/news/international/us/us-government-ai-chip-tracking-to-china-spy-twist-us-allegedly-bugged-ai-chips-of-nvidia-and-amd-bound-for-china-with-hidden-trackers/articleshow/123308517.cms) (Published: 2025-08-14)
-- [HP upgrades Omen 35L and Omen Max 45L gaming desktops with AMD Ryzen 9 9950X3D and Nvidia RTX 5090 options, Omen 35L Stealth Edition available for RGB haters](https://www.notebookcheck.net/HP-upgrades-Omen-35L-and-Omen-Max-45L-gaming-desktops-with-AMD-Ryzen-9-9950X3D-and-Nvidia-RTX-5090-options-Omen-35L-Stealth-Edition-available-for-RGB-haters.1087255.0.html) (Published: 2025-08-14)
-- [Tiger Global boosts stakes in Meta, Amazon, Microsoft, Nvidia, Reddit](https://thefly.com/permalinks/entry.php/id4183812/BULL;ETOR;TFIN;PDD;TTAN;META;AMZN;MSFT;NVDA;RDDT;WDAY;NOW;CRWD;ZKH;RERE;SE;GOOGL-Tiger-Global-boosts-stakes-in-Meta-Amazon-Microsoft-Nvidia-Reddit) (Published: 2025-08-14)
-- [Elecrow’s Mini PC case brings a gamer aesthetic to the Raspberry Pi 5 or NVIDIA Jetson Orin Nano](https://liliputing.com/elecrows-mini-pc-case-brings-a-gamer-aesthetic-to-the-raspberry-pi-5-or-nvidia-jetson-orin-nano/) (Published: 2025-08-14)
-- [Wedbush: Nvidia, AMD China AI Deal a 'Bullish Catalyst' for Big Tech](https://finance.yahoo.com/news/wedbush-nvidia-amd-china-ai-175410596.html) (Published: 2025-08-14)
