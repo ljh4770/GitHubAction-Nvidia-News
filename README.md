@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-15 19:41:33**_
+_Last updated: **2025-08-15 19:52:12**_
 
 - [Пишу со старого компа!](https://www.linux.org.ru/forum/talks/18050756) (Published: 2025-08-14)
 - [Nvidia, big-name backers flock to Emerald AI, a D.C. startup led by an ex-Biden official](https://biztoc.com/x/a4776488688e6b3e) (Published: 2025-08-14)
