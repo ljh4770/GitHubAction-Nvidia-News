@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-15 09:58:01**_
+_Last updated: **2025-08-15 10:28:39**_
 
+- [Bessent says unusual Nvidia, AMD revenue-sharing deal could be a ‘model’ for other industries](https://biztoc.com/x/358b01fa78d34622) (Published: 2025-08-14)
+- [Scott Bessent Says Nvidia-AMD China Revenue Deal Could Serve As 'Model' For Other Industries](https://biztoc.com/x/c000102e254952e7) (Published: 2025-08-14)
+- [Palit GeForce RTX 5070 Ti GamingPro-S 16GB Graphics Card $1273 & More + Delivery ($0 NSW C&C) @ UMKLOGIX (Excl NT)](https://www.ozbargain.com.au/node/919667) (Published: 2025-08-14)
+- [Nvidia GeForce RTX 50 SUPER series pricing leaks with more memory for the same money](https://www.notebookcheck.net/Nvidia-GeForce-RTX-50-SUPER-series-pricing-leaks-with-more-memory-for-the-same-money.1086857.0.html) (Published: 2025-08-14)
+- [Trump Sees Nvidia as Key to Thwarting China](https://biztoc.com/x/3582775e38582625) (Published: 2025-08-14)
+- [Trump meets and praises Intel CEO Lip-Bu Tan, just five days after demanding his resignation](http://technode.com/2025/08/14/trump-meets-and-praises-intel-ceo-lip-bu-tan-just-five-days-after-demanding-his-resignation/) (Published: 2025-08-14)
+- [GMKtec EVO-T1 review: Mini PC with Intel Core Ultra 9 for AI models, LLMs and gaming via OCuLink](https://www.notebookcheck.net/GMKtec-EVO-T1-review-Mini-PC-with-Intel-Core-Ultra-9-for-AI-models-LLMs-and-gaming-via-OCuLink.1086080.0.html) (Published: 2025-08-14)
+- [Dreaming of an Nvidia Steam Deck? This modder converted an RTX 4090 laptop GPU into 4K 'portable' handheld gaming PC](https://www.pcgamer.com/hardware/handheld-gaming-pcs/dreaming-of-an-nvidia-steam-deck-this-modder-converted-an-rtx-4090-laptop-gpu-into-4k-portable-handheld-gaming-pc/) (Published: 2025-08-14)
 - [Prediction: Nvidia Stock Will Be Worth This Much by the End of 2025](https://biztoc.com/x/92869e2badc5264f) (Published: 2025-08-14)
 - [AI demand boosts Foxconn’s second-quarter profit by 27% with eye-popping growth forecasted due to its strong AI Server Business](https://www.patentlyapple.com/2025/08/ai-demand-boosts-foxconns-second-quarter-profit-by-27-with-eye-popping-growth-forecasted-due-to-its-strong-ai-server-busi.html) (Published: 2025-08-14)
-- [Windows on Arm gamers will be able to download Xbox app games locally but cloud gaming might still be a better option](https://www.pcgamer.com/hardware/processors/windows-on-arm-gamers-will-be-able-to-download-xbox-app-games-locally-but-cloud-gaming-might-still-be-a-better-option/) (Published: 2025-08-14)
-- [UVPackmaster 3.4 for Blender adds one-click UV repacking](https://www.cgchannel.com/2025/08/uvpackmaster-3-4-for-blender-adds-one-click-uv-repacking/) (Published: 2025-08-14)
-- [GeForce RTX 5060 Ti 8GB vs RTX 5060 Ti 16GB GPU face-off: how much difference does twice the memory make for the same chip?](https://www.tomshardware.com/pc-components/gpus/geforce-rtx-5060-ti-8gb-vs-rtx-5060-ti-16gb-gpu-face-off) (Published: 2025-08-14)
-- [Foxconn sees robust AI demand continuing after Q2 profit tops forecast](https://www.channelnewsasia.com/business/foxconn-sees-robust-ai-demand-continuing-after-q2-profit-tops-forecast-5293456) (Published: 2025-08-14)
-- [There’s a small problem with Trump’s export deal with Nvidia and AMD: The Constitution says it’s illegal](https://biztoc.com/x/252fa6c3a074fbf7) (Published: 2025-08-14)
-- [The CEO in chief: How Trump is getting what he wants from big business](https://biztoc.com/x/f9b976e90fd2c369) (Published: 2025-08-14)
-- [nvfuser-cu126 0.2.30.dev20250814](https://pypi.org/project/nvfuser-cu126/0.2.30.dev20250814/) (Published: 2025-08-14)
-- [nvfuser-cu129 0.2.30.dev20250814](https://pypi.org/project/nvfuser-cu129/0.2.30.dev20250814/) (Published: 2025-08-14)
