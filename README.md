@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-15 23:46:39**_
+_Last updated: **2025-08-15 23:56:59**_
 
 - [Hedge funds shift bets to double down on Big Tech amid AI boom](https://www.channelnewsasia.com/business/hedge-funds-shift-bets-double-down-big-tech-amid-ai-boom-5295661) (Published: 2025-08-14)
 - [Soros, Appaloosa boost their Nvidia stake. They also bought this beaten-down stock, and it’s rallying](https://biztoc.com/x/b819f828d6038ccf) (Published: 2025-08-14)
