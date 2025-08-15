@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-15 21:48:07**_
+_Last updated: **2025-08-15 21:58:29**_
 
+- [US government in talks to take stake in Intel: Report](https://www.aljazeera.com/economy/2025/8/14/us-government-in-talks-to-take-stake-in-intel-report) (Published: 2025-08-14)
 - [Move over Nvidia, UBS says this chip stock will be the fastest-growing over the next few years](https://biztoc.com/x/986d3c5b82edcdaf) (Published: 2025-08-14)
 - [Trump Is Letting Nvidia Sell Chips to China. Under One Condition](https://biztoc.com/x/12364cfeb94f3b13) (Published: 2025-08-14)
 - [The U.S. government may take a stake in Intel](https://www.pcworld.com/article/2879012/the-u-s-government-may-take-a-stake-in-intel.html) (Published: 2025-08-14)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-15 21:48:07**_
 - [nvidia-nat-langchain 1.3a0](https://pypi.org/project/nvidia-nat-langchain/1.3a0/) (Published: 2025-08-14)
 - [nvidia-nat-ragaai 1.3a0](https://pypi.org/project/nvidia-nat-ragaai/1.3a0/) (Published: 2025-08-14)
 - [nvidia-nat-phoenix 1.3a0](https://pypi.org/project/nvidia-nat-phoenix/1.3a0/) (Published: 2025-08-14)
-- [Big Tech is turning into Big Energy](https://sherwood.news/tech/big-tech-is-turning-into-big-energy/) (Published: 2025-08-14)
