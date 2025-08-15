@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-15 21:37:35**_
+_Last updated: **2025-08-15 21:48:07**_
 
 - [Move over Nvidia, UBS says this chip stock will be the fastest-growing over the next few years](https://biztoc.com/x/986d3c5b82edcdaf) (Published: 2025-08-14)
 - [Trump Is Letting Nvidia Sell Chips to China. Under One Condition](https://biztoc.com/x/12364cfeb94f3b13) (Published: 2025-08-14)
