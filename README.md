@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 19:46:36**_
+_Last updated: **2025-08-16 19:57:01**_
 
 - [Ethernet switch vendors like Cisco are riding high on AI network economics](https://biztoc.com/x/55dad0acf0aa9911) (Published: 2025-08-15)
 - [AI chip startup Rivos reportedly seeking up to $500M in funding](https://siliconangle.com/2025/08/15/ai-chip-startup-rivos-reportedly-seeking-500m-funding/) (Published: 2025-08-15)
