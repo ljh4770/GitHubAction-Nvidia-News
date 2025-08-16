@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 08:41:48**_
+_Last updated: **2025-08-16 08:55:06**_
 
 - [Monitor changed, new monitor not recognized, resolution limited to 800x600](https://askubuntu.com/questions/1554542/monitor-changed-new-monitor-not-recognized-resolution-limited-to-800x600) (Published: 2025-08-15)
 - [nvfuser-cu126 0.2.30.dev20250815](https://pypi.org/project/nvfuser-cu126/0.2.30.dev20250815/) (Published: 2025-08-15)
