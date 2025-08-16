@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 13:46:45**_
+_Last updated: **2025-08-16 13:57:10**_
 
+- [GTA 5 Gets DLSS 4 Support On PC And More In New Update](https://www.gamespot.com/articles/gta-5-gets-dlss-4-support-on-pc-and-more-in-new-update/1100-6533985/) (Published: 2025-08-15)
+- [Someone Stuck An RTX 4090 Into A Gaming Handheld](https://www.gamespot.com/articles/someone-stuck-an-rtx-4090-into-a-gaming-handheld/1100-6533986/) (Published: 2025-08-15)
 - [Dow scales record high on hopes of Fed rate cuts, trade deals](https://finance.yahoo.com/news/dow-scales-record-high-hopes-134625792.html) (Published: 2025-08-15)
 - [Intel's new graphics driver lets you dedicate up to 87% of laptop memory capacity to the iGPU for VRAM — Core Ultra CPUs get "Shared GPU Memory Override" feature](https://www.tomshardware.com/pc-components/gpu-drivers/intels-new-graphics-driver-lets-you-dedicate-up-to-87-percent-of-laptop-memory-capacity-to-the-igpu-for-vram-core-ultra-cpus-get-shared-gpu-memory-override-feature) (Published: 2025-08-15)
 - [AI experts warn that China is miles ahead of the US in electricity generation — lack of supply and infrastructure threatens the US’s long-term AI plans](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-experts-warn-that-china-is-miles-ahead-of-the-us-in-electricity-generation-lack-of-supply-and-infrastructure-threatens-the-uss-long-term-ai-plans) (Published: 2025-08-15)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-16 13:46:45**_
 - [Battlefield 6 Open Beta: How to Play This Weekend and What's New](https://me.pcmag.com/en/games/31719/battlefield-6-open-beta-how-to-play-this-weekend-and-whats-new) (Published: 2025-08-15)
 - [Stock market today: Dow eyes record on UnitedHealth surge, S&P 500, Nasdaq fall as rate-cut bets cool](https://finance.yahoo.com/news/live/stock-market-today-dow-eyes-record-on-unitedhealth-surge-sp-500-nasdaq-fall-as-rate-cut-bets-cool-133544751.html) (Published: 2025-08-15)
 - [GPD Win 5 Officially Launches As The “Most Powerful” Gaming Handheld In The World Powered By Ryzen AI Max+ 395](https://wccftech.com/gpd-win-5-officially-launches-as-the-most-powerful-gaming-handheld-in-the-world-powered-by-ryzen-ai-max-395/) (Published: 2025-08-15)
-- [The Nvidia chip deal that has Trump officials threatening to quit](https://biztoc.com/x/df67a5177c27268a) (Published: 2025-08-15)
-- [Trump shifts U.S. competition policy](https://www.techtarget.com/searchcio/news/366629301/Trump-shifts-US-competition-policy) (Published: 2025-08-15)
