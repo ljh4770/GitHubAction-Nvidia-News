@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 14:58:45**_
+_Last updated: **2025-08-16 15:25:18**_
 
+- [Chinese state media calls U.S. a 'surveillance empire' over trackers in chip shipments](https://ca.finance.yahoo.com/news/chinese-state-media-calls-u-151909945.html) (Published: 2025-08-15)
+- [This Week in AI: Peloton Taps AI and Cohere Nets Funds to Take on OpenAI](http://www.pymnts.com/artificial-intelligence-2/2025/this-week-in-ai-peloton-taps-ai-and-cohere-nets-funds-to-take-on-openai/) (Published: 2025-08-15)
+- [AMD's elusive Radeon AI Pro R9700 makes its first retail appearance for the DIY market — Customer on Reddit buys the Gigabyte "AI Top" variant for $1,324](https://www.tomshardware.com/pc-components/gpus/amds-elusive-radeon-ai-pro-r9700-makes-its-first-retail-appearance-for-the-diy-market-customer-on-reddit-buys-the-gigabyte-ai-top-variant-for-usd1-324) (Published: 2025-08-15)
+- [Intel stock is spiking after a report says the US government could buy a stake](https://www.businessinsider.com/intel-stock-price-trump-dealwhite-house-chips-ai-intc-nvda-2025-8) (Published: 2025-08-15)
+- [Teenage Engineering Has a New PC Case. As Usual, You Won’t Believe the Price](https://gizmodo.com/teenage-engineering-has-a-new-pc-case-as-usual-you-wont-believe-the-price-2000643602) (Published: 2025-08-15)
+- [My New Bulwark Article on Trump's Unconstitutional Export Tax](https://biztoc.com/x/339d0ae824232aa4) (Published: 2025-08-15)
+- [My New Bulwark Article on Trump's Unconstitutional Export Tax](https://reason.com/volokh/2025/08/15/my-new-bulwark-article-on-trumps-unconstitutional-export-tax/) (Published: 2025-08-15)
+- [Steve Jobs’ first Silicon Valley boss turned down an offer to buy a third of Apple for $50,000—today, his share would be worth nearly $1 trillion](https://finance.yahoo.com/news/steve-jobs-first-silicon-valley-145855989.html) (Published: 2025-08-15)
+- [Steve Jobs’ first Silicon Valley boss turned down an offer to buy a third of Apple for $50,000—today, his share would be worth nearly $1 trillion](https://fortune.com/2025/08/15/nolan-bushnell-atari-boss-apple-steve-jobs-offer-trillion-dollars-personal-finance-youtube-cofounders/) (Published: 2025-08-15)
 - [Tesla abruptly ends Dojo supercomputer as Musk shifts focus to next-gen AI chips - what went wrong with the project?](https://economictimes.indiatimes.com/news/international/us/tesla-abruptly-ends-dojo-supercomputer-as-musk-shifts-focus-to-next-gen-ai-chips-what-went-wrong-with-the-project/articleshow/123323520.cms) (Published: 2025-08-15)
-- [Why This Entrepreneur Says "Taste" Can't Be Taught](https://www.forbes.com/video/2caa5cb9-c2f5-464f-84ae-8f7da44d8ed5/why-this-entrepreneur-says-taste-cant-be-taught/) (Published: 2025-08-15)
-- [HP’s New Gaming Headset Promises to Stay Powered From Now Until Judgement Day](https://gizmodo.com/hps-new-gaming-headset-promises-to-stay-powered-from-now-until-judgement-day-2000643627) (Published: 2025-08-15)
-- [Automotive AI Chipset Market Report 2025-2029: Innovations in Digital Cockpit Technology Boosting Market Growth](https://www.globenewswire.com/news-release/2025/08/15/3134346/28124/en/Automotive-AI-Chipset-Market-Report-2025-2029-Innovations-in-Digital-Cockpit-Technology-Boosting-Market-Growth.html) (Published: 2025-08-15)
-- [Why Trump might push for a US gov't. stake in Intel](https://finance.yahoo.com/video/why-trump-might-push-us-143644011.html) (Published: 2025-08-15)
-- [Billionaire George Soros supercharges Nvidia stake, loads up on AI plays](https://biztoc.com/x/a5b1996c19ee9c43) (Published: 2025-08-15)
-- [AI Supercomputer Market Outlook Report 2025-2029: Revenues Forecast to Grow by Over USD 10 Billion](https://www.globenewswire.com/news-release/2025/08/15/3134344/28124/en/AI-Supercomputer-Market-Outlook-Report-2025-2029-Revenues-Forecast-to-Grow-by-Over-USD-10-Billion.html) (Published: 2025-08-15)
-- [Nvidia-backed Lambda eyes funding at over $4 billion valuation](https://biztoc.com/x/e2a3747cfd7c3fe2) (Published: 2025-08-15)
-- ["If I were 22 right now and graduating college, I would feel like the luckiest kid in all of history" — OpenAI CEO Sam Altman claims he's more worried about Gen X than Gen Z when it comes to AI job loss](https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-sam-altman-gen-x-ai-job-loss-gen-z) (Published: 2025-08-15)
-- [Asmi Linux 13 Debian Edition debuts: Xfce desktop never looked so good](https://www.theregister.com/2025/08/15/asmi_13_debian_edition/) (Published: 2025-08-15)
