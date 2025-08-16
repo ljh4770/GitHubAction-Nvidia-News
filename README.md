@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 07:16:07**_
+_Last updated: **2025-08-16 07:31:15**_
 
 - [Autocratic UAE gets democratic artificial intelligence](https://www.computerweekly.com/news/366629103/Autocratic-UAE-gets-democratic-artificial-intelligence) (Published: 2025-08-15)
 - [Creekmur Asset Management LLC Has $15.19 Million Position in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/15/creekmur-asset-management-llc-has-15-19-million-position-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-15)
@@ -10,4 +10,4 @@ _Last updated: **2025-08-16 07:16:07**_
 - [Independent Wealth Network Inc. Raises Stock Holdings in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/15/independent-wealth-network-inc-raises-stock-holdings-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-15)
 - [Alexander Labrunerie & CO. Inc. Acquires 3,454 Shares of NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/15/alexander-labrunerie-co-inc-acquires-3454-shares-of-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-15)
 - [Outfitter Financial LLC Takes $500,000 Position in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/15/outfitter-financial-llc-takes-500000-position-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-15)
-- [Evergreen Wealth Management LLC Increases Position in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/15/evergreen-wealth-management-llc-increases-position-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-15)
+- [NVIDIA Corporation (NASDAQ:NVDA) Shares Sold by Vienna Powszechne Towarzystwo Emerytalne S.A. Vienna Insurance Group](https://www.etfdailynews.com/2025/08/15/nvidia-corporation-nasdaqnvda-shares-sold-by-vienna-powszechne-towarzystwo-emerytalne-s-a-vienna-insurance-group/) (Published: 2025-08-15)
