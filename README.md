@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 10:39:40**_
+_Last updated: **2025-08-16 10:50:09**_
 
 - [China’s Revolutionary DeepSeek Turns to American Hardware for Upgrade](https://www.thedailyupside.com/technology/artificial-intelligence/deepseek-stunned-us-markets-but-its-new-model-needs-american-hardware/) (Published: 2025-08-15)
 - [AMD made major gains on Intel in the desktop CPU market over the last year, but still lags significantly behind in mobile, according to a Mercury Research report](https://www.pcgamer.com/hardware/processors/amd-made-major-gains-on-intel-in-the-desktop-cpu-market-over-the-last-year-but-still-lags-significantly-behind-in-mobile-according-to-a-mercury-research-report/) (Published: 2025-08-15)
