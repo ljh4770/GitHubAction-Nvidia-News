@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 09:45:51**_
+_Last updated: **2025-08-16 09:56:15**_
 
 - [Trump Dips into NVIDIA’s Chips](https://slate.com/podcasts/what-next-tbd/2025/08/nvidia-opens-china-by-paying-trump) (Published: 2025-08-15)
 - [Nvidia Stock Wavers. Big Funds Are Piling Into the AI Chip Maker](https://biztoc.com/x/39665bc19ef43b26) (Published: 2025-08-15)
