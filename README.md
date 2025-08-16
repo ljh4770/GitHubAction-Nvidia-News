@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 03:54:18**_
+_Last updated: **2025-08-16 04:22:35**_
 
+- [VideoProc AI Video-Image-Audio Quality Enhancer: lifetime license for $29.95 + 4 free gifts + digital download](https://www.dealnews.com/Video-Proc-AI-Video-Image-Audio-Quality-Enhancer-lifetime-license-for-29-95-4-free-gifts-digital-download/21760272.html) (Published: 2025-08-15)
+- [China pushes back against Nvidia H20 chip exports amid US trade tensions](https://www.digitimes.com/news/a20250814PD207/nvidia-chips-exports-shipments-ai-chip.html) (Published: 2025-08-15)
 - [Hedge funds shift bets to double down on Big Tech amid AI boom](https://economictimes.indiatimes.com/tech/technology/hedge-funds-shift-bets-to-double-down-on-big-tech-amid-ai-boom/articleshow/123316525.cms) (Published: 2025-08-15)
 - [How AI Could Empower Artists, Not Replace Them](https://www.forbes.com/video/e4682579-2300-4849-8db4-29a850ac9b5e/how-ai-could-empower-artists-not-replace-them/) (Published: 2025-08-15)
 - [DeepSeek R2 model release reportedly held back by faulty Huawei chips](https://siliconangle.com/2025/08/14/deepseek-r2-model-release-reportedly-held-back-faulty-huawei-chips/) (Published: 2025-08-15)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-16 03:54:18**_
 - ['Big Short' investor Michael Burry reveals fresh bets on Meta, Alibaba, and UnitedHealth](https://www.businessinsider.com/big-short-michael-burry-stock-portfolio-alibaba-meta-unitedhealth-buffett-2025-8) (Published: 2025-08-15)
 - [Asia Morning Briefing: ETH's Bullrun Meets Early Signs of Selling Pressure](https://www.coindesk.com/markets/2025/08/15/asia-morning-briefing-eth-s-bullrun-meets-early-signs-of-selling-pressure) (Published: 2025-08-15)
 - [SK Telecom to build sovereign AI infrastructure](https://www.computerweekly.com/news/366629128/SK-Telecom-to-build-sovereign-AI-infrastructure) (Published: 2025-08-15)
-- [nvidia-nat-redis 1.2.0rc8](https://pypi.org/project/nvidia-nat-redis/1.2.0rc8/) (Published: 2025-08-15)
-- [nvidia-nat-zep-cloud 1.2.0rc8](https://pypi.org/project/nvidia-nat-zep-cloud/1.2.0rc8/) (Published: 2025-08-15)
