@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 19:07:32**_
+_Last updated: **2025-08-16 19:24:25**_
 
 - [NVIDIA CEO Jensen Huang Claims “Silicon Photonics” Packaging Is Still Years Away, Says the World Should Stay on Copper for as Long as Possible](https://wccftech.com/nvidia-ceo-jensen-huang-claims-silicon-photonics-packaging-is-still-years-away/) (Published: 2025-08-15)
 - [World leaders rightly anxious about what Donald Trump and Vladimir Putin might do](https://www.abc.net.au/news/2025-08-16/donald-trump-vladimir-putin-alaska-ukraine/105637696) (Published: 2025-08-15)
