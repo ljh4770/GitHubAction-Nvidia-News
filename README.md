@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 07:42:38**_
+_Last updated: **2025-08-16 07:53:00**_
 
+- [Stock Market News: Dow, S&P 500, Nasdaq Set to Open Up; UnitedHealth, AMD, Nvidia, More Movers; Trump to Meet Putin;](https://biztoc.com/x/25ae169c29c3c978) (Published: 2025-08-15)
 - [Hedge fund giant Bridgewater pares China bets, offloading stakes in Alibaba and Baidu](https://www.cnbc.com/2025/08/15/bridgewater-associates-sells-stake-in-big-chinese-companies.html) (Published: 2025-08-15)
 - [Nvidia presents open dataset for multilingual speech AI](https://biztoc.com/x/9cd20fc9454cf180) (Published: 2025-08-15)
 - [Intel shares rise as report of likely government stake stokes hopes of US aid](https://www.channelnewsasia.com/business/intel-shares-rise-report-likely-government-stake-stokes-hopes-us-aid-5296271) (Published: 2025-08-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-16 07:42:38**_
 - [NVIDIA Corporation (NASDAQ:NVDA) is RWQ Financial Management Services Inc.’s 2nd Largest Position](https://www.etfdailynews.com/2025/08/15/nvidia-corporation-nasdaqnvda-is-rwq-financial-management-services-inc-s-2nd-largest-position/) (Published: 2025-08-15)
 - [Mandatum Life Insurance Co Ltd Increases Stake in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/15/mandatum-life-insurance-co-ltd-increases-stake-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-15)
 - [JDH Wealth Management LLC Grows Position in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/15/jdh-wealth-management-llc-grows-position-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-15)
-- [Independent Wealth Network Inc. Raises Stock Holdings in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/15/independent-wealth-network-inc-raises-stock-holdings-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-15)
