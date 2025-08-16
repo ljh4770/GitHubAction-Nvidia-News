@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-16 20:40:04**_
+_Last updated: **2025-08-16 20:50:29**_
 
 - [Linux 6.17 Features: Great Intel Graphics Improvements, AMD HFI, Attack Vector Controls + Lenovo Gaming Drivers](https://www.phoronix.com/review/linux-617-features) (Published: 2025-08-15)
 - [Foresight Reports Second Quarter 2025 and First Half 2025 Financial Results](https://www.globenewswire.com/news-release/2025/08/15/3134465/0/en/Foresight-Reports-Second-Quarter-2025-and-First-Half-2025-Financial-Results.html) (Published: 2025-08-15)
