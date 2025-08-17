@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 23:17:23**_
+_Last updated: **2025-08-17 23:33:45**_
 
+- [Thieves grab $2 million in jewelry in Seattle heist that took less than 2 minutes](https://biztoc.com/x/28ea07ef346c0abb) (Published: 2025-08-16)
 - [Fast-Casual Chains Struggle as Diners Ditch Pricey Bowls for Cheaper Eats](https://biztoc.com/x/2078946a09c3ad7e) (Published: 2025-08-16)
 - [Southwest announces West Coast expansion at California airport](https://biztoc.com/x/6dc8a4d81d40a116) (Published: 2025-08-16)
 - [3 Best ChatGPTs for Investors](https://finance.yahoo.com/news/3-best-chatgpts-investors-230120034.html) (Published: 2025-08-16)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-17 23:17:23**_
 - [RushTok backlash: Why sororities aren't letting prospects post](https://biztoc.com/x/366670fb6599d287) (Published: 2025-08-16)
 - [Cathie Wood buys $12 million of tumbling AI stock](https://www.thestreet.com/investing/cathie-wood-buys-12-million-of-tumbling-ai-stock) (Published: 2025-08-16)
 - [Ivorian Opposition Rallies Against President’s Fourth-Term Bid](https://biztoc.com/x/1eb4f2d46395e397) (Published: 2025-08-16)
-- [Duke Energy seeks to merge Carolina utilities, projecting more than $1B in customer savings](https://biztoc.com/x/e72b259eb1acfa64) (Published: 2025-08-16)
