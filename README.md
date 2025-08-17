@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 17:29:52**_
+_Last updated: **2025-08-17 17:44:06**_
 
+- [Billionaire Fund Manager Doubles Down on Nvidia and Key AI Stack Play](https://biztoc.com/x/bbf627aa04d53b96) (Published: 2025-08-16)
 - [Trump warned by top Senate Democrats to rethink advanced AI chip sales to China](https://biztoc.com/x/b3e44c1c0d122f0d) (Published: 2025-08-16)
 - [Trump warned by top Senate Democrats to rethink advanced AI chip sales to China](https://www.cnbc.com/2025/08/16/senate-democrats-letter-trump-advanced-ai-chip-sales-china.html) (Published: 2025-08-16)
 - [Various desktop Linux tips for newbies](https://akselmo.dev/posts/how-to-linux-2025/) (Published: 2025-08-16)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-17 17:29:52**_
 - [President Trump Is Now Eyeing a Whopping 300% Chip Tariff, Which Could Drop by the End of the Month; Invest in the US to Avoid Massive Taxes!](https://wccftech.com/president-trump-is-now-eyeing-a-whopping-300-chip-tariff/) (Published: 2025-08-16)
 - [Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs—combined - Fortune](https://slashdot.org/firehose.pl?op=view&amp;id=178704582) (Published: 2025-08-16)
 - [The 7 Booming Industries You've Probably Never Thought About — But They're Making People Rich](https://biztoc.com/x/5ff705d2d3edfedf) (Published: 2025-08-16)
-- [Nvidia GEFORCE RTX5070 not working on 24.04.3 LTS Kernel 6.14](https://askubuntu.com/questions/1554598/nvidia-geforce-rtx5070-not-working-on-24-04-3-lts-kernel-6-14) (Published: 2025-08-16)
