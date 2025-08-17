@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 17:44:06**_
+_Last updated: **2025-08-17 17:54:32**_
 
 - [Billionaire Fund Manager Doubles Down on Nvidia and Key AI Stack Play](https://biztoc.com/x/bbf627aa04d53b96) (Published: 2025-08-16)
 - [Trump warned by top Senate Democrats to rethink advanced AI chip sales to China](https://biztoc.com/x/b3e44c1c0d122f0d) (Published: 2025-08-16)
