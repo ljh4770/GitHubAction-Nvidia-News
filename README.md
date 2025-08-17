@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 06:52:54**_
+_Last updated: **2025-08-17 07:13:04**_
 
+- [Trump Speaks to Zelenskiy, NATO Leaders After Meeting Putin](https://biztoc.com/x/f33c2a53224a492a) (Published: 2025-08-16)
+- [Italians as Well Off as Brits Expose UK’s Era of Stagnation](https://biztoc.com/x/c7b24fd4ace70825) (Published: 2025-08-16)
 - [Uncertainty Isn’t Keeping Americans at Home. Travel Stocks Are Benefiting](https://biztoc.com/x/715ea6052b95a2ab) (Published: 2025-08-16)
 - [Uncertainty Isn’t Keeping Americans at Home. Travel Stocks Are Benefiting](https://biztoc.com/x/715ea6052b95a2ab) (Published: 2025-08-16)
 - [Applied Materials Q3: revenue up 8% YoY to $7.3B, vs. $7.22B est., profit up 4% YoY to $1.78B, and projects Q4 revenue and profit below est. on China challenges](https://biztoc.com/x/0e838f8184542e13) (Published: 2025-08-16)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-17 06:52:54**_
 - [CoreWeave investors sold more than $1B in shares as the IPO lockup ended; the stock held steady on Friday after dropping about 35% over the previous two days](https://biztoc.com/x/f772a7cf6cbcbbdf) (Published: 2025-08-16)
 - [Lyft co-founders Logan Green and John Zimmer step down as board chair and vice chair, convert their Class B stock to Class A, completing the succession plan](https://biztoc.com/x/2225eacf170ac475) (Published: 2025-08-16)
 - [Filing: Shein reports 2024 UK sales up 32.3% YoY to £2.05B, making the UK its third largest market after the US and Germany, as it works toward a Hong Kong IPO](https://biztoc.com/x/43c14022ff028d5d) (Published: 2025-08-16)
-- [Meta's standalone Meta AI app, launched in April 2025, offers an uneven experience, hallucinating and not personalizing replies despite access to Meta accounts](https://biztoc.com/x/0233c1c8d648c4ee) (Published: 2025-08-16)
-- [Roblox shares closed down 6.34% on Friday after the company was accused in two lawsuits of failing to sufficiently protect youngsters on its platform](https://biztoc.com/x/40199240daa8fdea) (Published: 2025-08-16)
