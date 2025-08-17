@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 11:38:31**_
+_Last updated: **2025-08-17 11:48:59**_
 
 - [AI Hype Is the Product and Everyone’s Buying It](https://truthout.org/articles/ai-hype-is-the-product-and-everyones-buying-it/) (Published: 2025-08-16)
 - [Opinion: Talking Point This Week: GST Overhaul Plan, Trump-Putin Summit Spark Optimism](https://www.ndtvprofit.com/opinion/talking-point-this-week-gst-overhaul-plan-trump-putin-summit-spark-optimism) (Published: 2025-08-16)
