@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 19:21:16**_
+_Last updated: **2025-08-17 19:32:28**_
 
 - [France Says Citizen Detained in Mali Coup Plot Is Embassy Worker](https://biztoc.com/x/e8eebcd66aa540d3) (Published: 2025-08-16)
 - [Target and Ulta mutually agree not to renew partnership launched in 2021](https://biztoc.com/x/68e963afb7203d60) (Published: 2025-08-16)
