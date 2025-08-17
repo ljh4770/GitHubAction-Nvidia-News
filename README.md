@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 04:42:52**_
+_Last updated: **2025-08-17 04:58:52**_
 
 - [SK hynix Surpasses Samsung as Leading DRAM Manufacturer](https://www.madshrimps.be/news/sk-hynix-surpasses-samsung-as-leading-dram-manufacturer/) (Published: 2025-08-16)
 - [Nvidia reportedly confirms Rubin AI chip launch timeline as AMD reveals 2026 server challenge](https://www.digitimes.com/news/a20250814VL206/nvidia-rubin-ai-chip-amd-launch.html) (Published: 2025-08-16)
