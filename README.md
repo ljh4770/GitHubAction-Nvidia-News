@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 05:45:16**_
+_Last updated: **2025-08-17 05:55:42**_
 
 - [CoreWeave (NASDAQ:CRWV) Shares Down 9.9% Following Analyst Downgrade](https://www.etfdailynews.com/2025/08/16/coreweave-nasdaqcrwv-shares-down-9-9-following-analyst-downgrade/) (Published: 2025-08-16)
 - [Key Chinese Diplomat Reappears After Reportedly Being Questioned](https://biztoc.com/x/d0128671a2b6deec) (Published: 2025-08-16)
