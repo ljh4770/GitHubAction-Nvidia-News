@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 15:39:47**_
+_Last updated: **2025-08-17 15:49:53**_
 
 - [Trump's unprecedented, potentially unconstitutional deal with Nvidia and AMD, explained: Alexander Hamilton would approve](https://biztoc.com/x/cb1bc35b5d1eb557) (Published: 2025-08-16)
 - [Nvidia says H20 export controls didn’t stop China’s AI progress — claims 'they only stifled U.S. economic and technology leadership'](https://www.tomshardware.com/pc-components/gpus/nvidia-says-h20-export-controls-didnt-stop-chinas-ai-progress-claims-they-only-stifled-u-s-economic-and-technology-leadership) (Published: 2025-08-16)
