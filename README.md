@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 08:54:52**_
+_Last updated: **2025-08-17 09:18:23**_
 
 - [Why congressional stock-trade ban efforts are about to heat up](https://www.businessinsider.com/congressional-stock-trade-ban-efforts-heating-up-2025-8) (Published: 2025-08-16)
 - [Did Nvidia Make a Mistake by Selling SoundHound AI Stock? The Answer Might Surprise You.](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fab3d6e2-0383-42fa-8a15-e4c74ec3df7d) (Published: 2025-08-16)
