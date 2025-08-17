@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 14:47:22**_
+_Last updated: **2025-08-17 14:57:49**_
 
 - [Native gaming via Xbox app arrives on Windows on Arm with latest update](https://www.notebookcheck.net/Native-gaming-via-Xbox-app-arrives-on-Windows-on-Arm-with-latest-update.1088569.0.html) (Published: 2025-08-16)
 - [10 Best Games To Spend Your Steam Gift Card On](https://www.bgr.com/1939920/best-games-for-steam-gift-card/) (Published: 2025-08-16)
