@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 14:35:38**_
+_Last updated: **2025-08-17 14:47:22**_
 
+- [Native gaming via Xbox app arrives on Windows on Arm with latest update](https://www.notebookcheck.net/Native-gaming-via-Xbox-app-arrives-on-Windows-on-Arm-with-latest-update.1088569.0.html) (Published: 2025-08-16)
 - [10 Best Games To Spend Your Steam Gift Card On](https://www.bgr.com/1939920/best-games-for-steam-gift-card/) (Published: 2025-08-16)
 - [Intel Stock's Biggest Ally: Washington?](https://www.forbes.com/sites/greatspeculations/2025/08/16/intel-stocks-biggest-ally-washington/) (Published: 2025-08-16)
 - [Is This AI Stock Growing 10x the Most Undervalued AI Stock (No, It’s Not Nvidia)?](https://biztoc.com/x/0d27cd3bc65936a5) (Published: 2025-08-16)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-17 14:35:38**_
 - [Wuthering Waves version 2.6 update ‘By Sun’s Scourge, By Moon’s Revelation’ launches August 28](https://www.gematsu.com/2025/08/wuthering-waves-version-2-6-update-by-suns-scourge-by-moons-revelation-launches-august-28) (Published: 2025-08-16)
 - [AI Hype Is the Product and Everyone’s Buying It](https://truthout.org/articles/ai-hype-is-the-product-and-everyones-buying-it/) (Published: 2025-08-16)
 - [Opinion: Talking Point This Week: GST Overhaul Plan, Trump-Putin Summit Spark Optimism](https://www.ndtvprofit.com/opinion/talking-point-this-week-gst-overhaul-plan-trump-putin-summit-spark-optimism) (Published: 2025-08-16)
-- [Top Automotive Stocks Worth Watching – August 13th](https://www.etfdailynews.com/2025/08/16/top-automotive-stocks-worth-watching-august-13th/) (Published: 2025-08-16)
