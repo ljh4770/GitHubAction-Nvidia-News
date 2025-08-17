@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 10:21:30**_
+_Last updated: **2025-08-17 10:40:34**_
 
 - [Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs—combined](https://biztoc.com/x/00763334ad9f18d1) (Published: 2025-08-16)
 - [Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs—combined](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f1331a66-a31e-4142-9112-1021dc136c7c) (Published: 2025-08-16)
