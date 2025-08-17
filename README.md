@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 18:48:51**_
+_Last updated: **2025-08-17 18:59:16**_
 
 - [C.E.O.s Want Their Companies to Adopt A.I. But Do They Get It Themselves?](https://biztoc.com/x/f7e4fc7f160ee934) (Published: 2025-08-16)
 - [Powell’s Jackson Hole Speech: The Huge Stakes This Year](https://biztoc.com/x/ce94145e9a8671f9) (Published: 2025-08-16)
