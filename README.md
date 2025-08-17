@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-17 20:48:37**_
+_Last updated: **2025-08-17 20:58:44**_
 
 - [Topaz Video AI Pro 7.1.2](https://post.rlsbb.ru/topaz-video-ai-pro-7-1-2/) (Published: 2025-08-16)
 - [OpenAI rival gets free publicity by offering to buy Google Chrome for just under $35 billion - so does that mean it will kill Comet?](https://www.techradar.com/pro/openai-rival-gets-free-publicity-by-offering-to-buy-google-chrome-for-just-under-usd35-billion-so-does-that-mean-it-will-kill-comet) (Published: 2025-08-16)
