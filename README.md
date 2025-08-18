@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 06:45:36**_
+_Last updated: **2025-08-18 07:02:12**_
 
 - [NVIDIA (NASDAQ:NVDA) Price Target Raised to $205.00](https://www.etfdailynews.com/2025/08/17/nvidia-nasdaqnvda-price-target-raised-to-205-00/) (Published: 2025-08-17)
 - [Erin downgraded to Category 3 hurricane, NHC says](https://biztoc.com/x/9ab1ec7d2cd4b25a) (Published: 2025-08-17)
