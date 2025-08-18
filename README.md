@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 20:56:50**_
+_Last updated: **2025-08-18 21:20:39**_
 
+- [NVIDIA Corporation (NVDA): I Spend A Lot Of Time Shooting Down Rumors, Says Jim Cramer](https://finance.yahoo.com/news/nvidia-corporation-nvda-spend-lot-211354053.html) (Published: 2025-08-17)
+- [Have to blacklist NVIDIA to boot Ubuntu 24.04.3](https://askubuntu.com/questions/1554641/have-to-blacklist-nvidia-to-boot-ubuntu-24-04-3) (Published: 2025-08-17)
+- [Advanced Micro Devices, Inc. (AMD) Is Good But The Stock Shouldn’t Have Risen Recently, Says Jim Cramer](https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-211335136.html) (Published: 2025-08-17)
+- [Inside the Race to Secure GenAI](https://creators.yahoo.com/lifestyle/story/inside-the-race-to-secure-genai-211012652.html) (Published: 2025-08-17)
+- [Nvidia quietly buys more stock in AI infrastructure favorite](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_75abe59a-9cb6-41ee-9942-ca464896aa8c) (Published: 2025-08-17)
 - [Agisoft Metashape Professional 2.2.2 Build 20976](https://post.rlsbb.cc/agisoft-metashape-professional-2-2-2-build-20976/) (Published: 2025-08-17)
 - [Nvidia and AMD Stocks Face Fresh Risk as Democrats Oppose Trump’s China Chip Deal - TipRanks](https://slashdot.org/firehose.pl?op=view&amp;id=178714854) (Published: 2025-08-17)
 - [Agisoft Metashape Professional 2.2.2 Build 20976](https://post.rlsbb.ru/agisoft-metashape-professional-2-2-2-build-20976/) (Published: 2025-08-17)
 - [Bill Ackman pours billions into 2 tech stocks amid AI boom](https://www.thestreet.com/technology/bill-ackman-pours-billions-into-2-tech-stocks-amid-ai-boom) (Published: 2025-08-17)
 - [Tiger Global buys more Nvidia, Amazon, exits surging tech stocks](https://biztoc.com/x/075efbacc9bea22d) (Published: 2025-08-17)
-- [Nvidia quietly boosts its bet on an AI infrastructure favorite](https://biztoc.com/x/6991ebdc668f1b1c) (Published: 2025-08-17)
-- [I tested the Chuwi GameBook 9955HX and I'm impressed with the results for gaming and content creation](https://www.techradar.com/computing/chuwi-gamebook-9955hx-creator-laptop-review) (Published: 2025-08-17)
-- [Tiger Global buys more Nvidia, Amazon, exits surging tech stocks](https://www.thestreet.com/investing/tiger-global-buys-more-nvidia-amazon-exits-surging-tech-stocks) (Published: 2025-08-17)
-- [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/) (Published: 2025-08-17)
-- [Silicon Valley Startup Tensor Unveils $200K Luxury Robocar With 37 Cameras And Zero-Cloud Privacy For 2026 Launch](https://finance.yahoo.com/news/silicon-valley-startup-tensor-unveils-170144859.html) (Published: 2025-08-17)
