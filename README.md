@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 09:48:39**_
+_Last updated: **2025-08-18 09:59:07**_
 
 - [No sound in Ubuntu 24.04.3](https://askubuntu.com/questions/1554620/no-sound-in-ubuntu-24-04-3) (Published: 2025-08-17)
 - [No sound in Ubuntu 24.04.3 (help for a newbie)](https://askubuntu.com/questions/1554620/no-sound-in-ubuntu-24-04-3-help-for-a-newbie) (Published: 2025-08-17)
