@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 20:46:22**_
+_Last updated: **2025-08-18 20:56:50**_
 
 - [Agisoft Metashape Professional 2.2.2 Build 20976](https://post.rlsbb.cc/agisoft-metashape-professional-2-2-2-build-20976/) (Published: 2025-08-17)
 - [Nvidia and AMD Stocks Face Fresh Risk as Democrats Oppose Trump’s China Chip Deal - TipRanks](https://slashdot.org/firehose.pl?op=view&amp;id=178714854) (Published: 2025-08-17)
