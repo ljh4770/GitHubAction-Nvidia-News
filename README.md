@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 18:48:31**_
+_Last updated: **2025-08-18 19:07:56**_
 
 - [Tiger Global buys more Nvidia, Amazon, exits surging tech stocks](https://biztoc.com/x/075efbacc9bea22d) (Published: 2025-08-17)
 - [Nvidia quietly boosts its bet on an AI infrastructure favorite](https://biztoc.com/x/6991ebdc668f1b1c) (Published: 2025-08-17)
