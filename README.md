@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 14:15:49**_
+_Last updated: **2025-08-18 14:42:10**_
 
+- [Lyft Generates Huge FCF Margins - LYFT Stock Is Too Cheap](https://biztoc.com/x/82b84de2e1749667) (Published: 2025-08-17)
+- [Tiger Global buys more Nvidia, Amazon, exits surging tech stocks](https://biztoc.com/x/0a98e6e1a37ec5c1) (Published: 2025-08-17)
+- [Flash floods devastate Buner, Pakistan after rare cloudburst kills hundreds](https://biztoc.com/x/f5c8d55330599bf1) (Published: 2025-08-17)
+- [Spain’s Sanchez Calls for National Climate Pact as Fires Rage](https://biztoc.com/x/0e1bb95b60b57b16) (Published: 2025-08-17)
+- [Ukraine's Zelensky Heads to D.C. With a European Entourage](https://biztoc.com/x/8bc34a427b813ad1) (Published: 2025-08-17)
+- [A look at the “Palantir Mafia”, a group of Palantir alumni who have started or are leading 350+ tech companies, including at least a dozen valued at $1B+](https://biztoc.com/x/7ccd6806d0dc97d2) (Published: 2025-08-17)
+- [Singapore Prioritizes Jobs Amid Fragmenting World, Rise of AI](https://biztoc.com/x/b27a7c641b702f90) (Published: 2025-08-17)
+- [Air Canada union says flight attendants will continue strike, defy government](https://biztoc.com/x/30c3ff8f4c99c04f) (Published: 2025-08-17)
+- [Trump to Let Nvidia Sell Chips to China Under One Condition](https://biztoc.com/x/e1b917abcc719483) (Published: 2025-08-17)
 - [Midterm Fight Over Trump Bill, Tariffs Starts Early at Iowa Fair](https://biztoc.com/x/be4c7da82eafa597) (Published: 2025-08-17)
-- [Bond Market’s Rate-Cut Bets Enter Decisive Stretch With Powell](https://biztoc.com/x/2ee1ccc0d9523cb3) (Published: 2025-08-17)
-- [Hurricane Erin Weakens While Drenching Puerto Rico, Islands](https://biztoc.com/x/5291ff663e66ec34) (Published: 2025-08-17)
-- ['The risk that's on our doorstep': July inflation data has economists on edge](https://biztoc.com/x/6403337384cb913f) (Published: 2025-08-17)
-- [Inside BYD's plan to rule the waves](https://biztoc.com/x/9fffaa7211884a87) (Published: 2025-08-17)
-- [Unitree R1 Humanoid Robot From Just $5,900](https://www.geeky-gadgets.com/unitree-r1-humanoid-robot-overview/) (Published: 2025-08-17)
-- [One Way Gen Z Finds Stress Relief? Overspending on Treats](https://biztoc.com/x/20c4d5305cd880ab) (Published: 2025-08-17)
-- [CUDA error 35: CUDA driver version is insufficient for CUDA runtime version](https://askubuntu.com/questions/1554626/cuda-error-35-cuda-driver-version-is-insufficient-for-cuda-runtime-version) (Published: 2025-08-17)
-- [cuda does not work on Ubuntu 25.04](https://askubuntu.com/questions/1554626/cuda-does-not-work-on-ubuntu-25-04) (Published: 2025-08-17)
-- [Walmart's view on tariff impacts will move this week's markets](https://www.thestreet.com/investing/stocks/walmarts-view-on-tariff-effects-will-move-markets) (Published: 2025-08-17)
