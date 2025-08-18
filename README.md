@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 20:33:23**_
+_Last updated: **2025-08-18 20:46:22**_
 
+- [Agisoft Metashape Professional 2.2.2 Build 20976](https://post.rlsbb.cc/agisoft-metashape-professional-2-2-2-build-20976/) (Published: 2025-08-17)
 - [Nvidia and AMD Stocks Face Fresh Risk as Democrats Oppose Trump’s China Chip Deal - TipRanks](https://slashdot.org/firehose.pl?op=view&amp;id=178714854) (Published: 2025-08-17)
 - [Agisoft Metashape Professional 2.2.2 Build 20976](https://post.rlsbb.ru/agisoft-metashape-professional-2-2-2-build-20976/) (Published: 2025-08-17)
 - [Bill Ackman pours billions into 2 tech stocks amid AI boom](https://www.thestreet.com/technology/bill-ackman-pours-billions-into-2-tech-stocks-amid-ai-boom) (Published: 2025-08-17)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-18 20:33:23**_
 - [Tiger Global buys more Nvidia, Amazon, exits surging tech stocks](https://www.thestreet.com/investing/tiger-global-buys-more-nvidia-amazon-exits-surging-tech-stocks) (Published: 2025-08-17)
 - [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/) (Published: 2025-08-17)
 - [Silicon Valley Startup Tensor Unveils $200K Luxury Robocar With 37 Cameras And Zero-Cloud Privacy For 2026 Launch](https://finance.yahoo.com/news/silicon-valley-startup-tensor-unveils-170144859.html) (Published: 2025-08-17)
-- [Nvidia and AMD Stocks Face Fresh Risk as Democrats Oppose Trump’s China Chip Deal](https://biztoc.com/x/68fa49f09d9127e2) (Published: 2025-08-17)
