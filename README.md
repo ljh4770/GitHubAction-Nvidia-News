@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 11:10:51**_
+_Last updated: **2025-08-18 11:29:32**_
 
+- [2 Artificial Intelligence (AI) Stocks the U.S. Government Is Actively Backing in 2025](https://biztoc.com/x/650f7c5e452d8487) (Published: 2025-08-17)
+- [Politics beats the market in Trump’s pay-for-play chip scheme](https://www.livemint.com/opinion/politics-beats-the-market-in-trump-s-pay-for-play-chip-scheme-11755429105150.html) (Published: 2025-08-17)
 - [Nabiha Syed remakes Mozilla Foundation in the era of Trump and AI](https://www.theregister.com/2025/08/17/nabiha_syed_remakes_mozilla_foundation/) (Published: 2025-08-17)
 - [Links 8/17/2025](https://www.nakedcapitalism.com/2025/08/links-8-17-2025.html) (Published: 2025-08-17)
 - [Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs-combined. And he's such a personable, charming guy, wonder who would want to hurt him [Fail]](https://www.fark.com/comments/13780080/Meta-spends-more-guarding-Mark-Zuckerberg-than-Apple-Nvidia-Microsoft-Amazon-Alphabet-do-for-their-own-CEOs-combined-And-hes-such-a-personable-charming-guy-wonder-who-would-want-to-hurt-him) (Published: 2025-08-17)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-18 11:10:51**_
 - [No sound in Ubuntu 24.04.3 (help for a newbie)](https://askubuntu.com/questions/1554620/no-sound-in-ubuntu-24-04-3-help-for-a-newbie) (Published: 2025-08-17)
 - [No sound in Ubuntu 24.04.3](https://askubuntu.com/questions/1554620/no-sound-in-ubuntu-24-04-3) (Published: 2025-08-17)
 - [Best Streaming Stocks To Follow Today – August 15th](https://www.etfdailynews.com/2025/08/17/best-streaming-stocks-to-follow-today-august-15th/) (Published: 2025-08-17)
-- [Infrastructure Stocks To Keep An Eye On – August 15th](https://www.etfdailynews.com/2025/08/17/infrastructure-stocks-to-keep-an-eye-on-august-15th/) (Published: 2025-08-17)
-- [Aspen Capital Management LLC Makes New $3.09 Million Investment in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/17/aspen-capital-management-llc-makes-new-3-09-million-investment-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-17)
