@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 17:51:42**_
+_Last updated: **2025-08-18 18:17:27**_
 
+- [Tiger Global buys more Nvidia, Amazon, exits surging tech stocks](https://biztoc.com/x/075efbacc9bea22d) (Published: 2025-08-17)
+- [Nvidia quietly boosts its bet on an AI infrastructure favorite](https://biztoc.com/x/6991ebdc668f1b1c) (Published: 2025-08-17)
+- [I tested the Chuwi GameBook 9955HX and I'm impressed with the results for gaming and content creation](https://www.techradar.com/computing/chuwi-gamebook-9955hx-creator-laptop-review) (Published: 2025-08-17)
 - [Tiger Global buys more Nvidia, Amazon, exits surging tech stocks](https://www.thestreet.com/investing/tiger-global-buys-more-nvidia-amazon-exits-surging-tech-stocks) (Published: 2025-08-17)
 - [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/) (Published: 2025-08-17)
 - [Silicon Valley Startup Tensor Unveils $200K Luxury Robocar With 37 Cameras And Zero-Cloud Privacy For 2026 Launch](https://finance.yahoo.com/news/silicon-valley-startup-tensor-unveils-170144859.html) (Published: 2025-08-17)
@@ -8,6 +11,3 @@ _Last updated: **2025-08-18 17:51:42**_
 - [Zuckerberg Tops Field in Spending on CEO Security](https://www.newser.com/story/373655/zuckerberg-tops-field-in-spending-on-ceo-security.html) (Published: 2025-08-17)
 - [Coca-Cola, Amazon, Google, And Nvidia Have Used This Startup's AI Avatars — Inside Jeff Lu's $40M Rise To America's Fastest-Growing Company](https://biztoc.com/x/85489eccef0c0ffa) (Published: 2025-08-17)
 - [Nvidia amplifies op-ed claiming H20 export ban failed to slow China’s AI push](https://www.notebookcheck.net/Nvidia-amplifies-op-ed-claiming-H20-export-ban-failed-to-slow-China-s-AI-push.1088752.0.html) (Published: 2025-08-17)
-- [Coca-Cola, Amazon, Google, And Nvidia Have Used This Startup's AI Avatars — Inside Jeff Lu's $40M Rise To America's Fastest-Growing Company](https://finance.yahoo.com/news/coca-cola-amazon-google-nvidia-163146746.html) (Published: 2025-08-17)
-- [Sources: Apple slow-walks immersive content it shot around the launch of Vision Pro; Meta may launch “Hypernova” smart glasses with display for ~$800 next month](https://biztoc.com/x/b87cc41949bf2ec6) (Published: 2025-08-17)
-- [Former VP Pence Says Russia Sanctions Should Still Be on the Table](https://biztoc.com/x/97f47f6270ea63db) (Published: 2025-08-17)
