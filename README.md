@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 17:39:40**_
+_Last updated: **2025-08-18 17:51:42**_
 
 - [Tiger Global buys more Nvidia, Amazon, exits surging tech stocks](https://www.thestreet.com/investing/tiger-global-buys-more-nvidia-amazon-exits-surging-tech-stocks) (Published: 2025-08-17)
 - [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/) (Published: 2025-08-17)
