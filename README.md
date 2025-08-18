@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 21:34:17**_
+_Last updated: **2025-08-18 21:44:42**_
 
+- [Piper Sandler Raises NVIDIA (NVDA) Price Target to $225 Ahead of Earnings](https://biztoc.com/x/02a87095e107d961) (Published: 2025-08-17)
 - [I Spend A Lot Of Time Shooting Down Rumors, Says Jim Cramer](https://biztoc.com/x/95db7f0e42c601ff) (Published: 2025-08-17)
 - [Nvidia quietly buys more stock in AI infrastructure favorite](https://biztoc.com/x/846f49f882a61d5f) (Published: 2025-08-17)
 - [Piper Sandler Raises NVIDIA (NVDA) Price Target to $225 Ahead of Earnings](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6d25c676-2c33-4243-9b4d-50e9b3627a97) (Published: 2025-08-17)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-18 21:34:17**_
 - [Inside the Race to Secure GenAI](https://creators.yahoo.com/lifestyle/story/inside-the-race-to-secure-genai-211012652.html) (Published: 2025-08-17)
 - [Nvidia quietly buys more stock in AI infrastructure favorite](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_75abe59a-9cb6-41ee-9942-ca464896aa8c) (Published: 2025-08-17)
 - [Agisoft Metashape Professional 2.2.2 Build 20976](https://post.rlsbb.cc/agisoft-metashape-professional-2-2-2-build-20976/) (Published: 2025-08-17)
-- [Nvidia and AMD Stocks Face Fresh Risk as Democrats Oppose Trump’s China Chip Deal - TipRanks](https://slashdot.org/firehose.pl?op=view&amp;id=178714854) (Published: 2025-08-17)
