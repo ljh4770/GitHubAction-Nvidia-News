@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 09:28:37**_
+_Last updated: **2025-08-18 09:48:39**_
 
+- [No sound in Ubuntu 24.04.3](https://askubuntu.com/questions/1554620/no-sound-in-ubuntu-24-04-3) (Published: 2025-08-17)
+- [No sound in Ubuntu 24.04.3 (help for a newbie)](https://askubuntu.com/questions/1554620/no-sound-in-ubuntu-24-04-3-help-for-a-newbie) (Published: 2025-08-17)
 - [Best Streaming Stocks To Follow Today – August 15th](https://www.etfdailynews.com/2025/08/17/best-streaming-stocks-to-follow-today-august-15th/) (Published: 2025-08-17)
 - [Infrastructure Stocks To Keep An Eye On – August 15th](https://www.etfdailynews.com/2025/08/17/infrastructure-stocks-to-keep-an-eye-on-august-15th/) (Published: 2025-08-17)
 - [Aspen Capital Management LLC Makes New $3.09 Million Investment in NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/17/aspen-capital-management-llc-makes-new-3-09-million-investment-in-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-17)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-18 09:28:37**_
 - [EDGX secures multi million euro seed funding to advance satellite AI computing](https://www.spacedaily.com/reports/EDGX_secures_multi_million_euro_seed_funding_to_advance_satellite_AI_computing_999.html) (Published: 2025-08-17)
 - [NVIDIA Corporation (NASDAQ:NVDA) Holdings Boosted by Dahring Cusmano LLC](https://www.etfdailynews.com/2025/08/17/nvidia-corporation-nasdaqnvda-holdings-boosted-by-dahring-cusmano-llc/) (Published: 2025-08-17)
 - [Atlantic Union Bankshares Corp Sells 3,247 Shares of NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/17/atlantic-union-bankshares-corp-sells-3247-shares-of-nvidia-corporation-nasdaqnvda/) (Published: 2025-08-17)
-- [Meta: Even Without Superintelligence, Company Is Already Winning The AI Race](https://biztoc.com/x/620399f1ec5a0e0d) (Published: 2025-08-17)
-- [Best Automotive Stocks To Add to Your Watchlist – August 14th](https://www.etfdailynews.com/2025/08/17/best-automotive-stocks-to-add-to-your-watchlist-august-14th/) (Published: 2025-08-17)
