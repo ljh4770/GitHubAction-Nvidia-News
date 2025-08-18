@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-18 15:56:26**_
+_Last updated: **2025-08-18 16:30:18**_
 
 - [Sources: Apple slow-walks immersive content it shot around the launch of Vision Pro; Meta may launch “Hypernova” smart glasses with display for ~$800 next month](https://biztoc.com/x/b87cc41949bf2ec6) (Published: 2025-08-17)
 - [Former VP Pence Says Russia Sanctions Should Still Be on the Table](https://biztoc.com/x/97f47f6270ea63db) (Published: 2025-08-17)
