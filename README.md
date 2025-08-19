@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 06:49:17**_
+_Last updated: **2025-08-19 06:59:51**_
 
 - [AMD CEO calls export controls noise, reveals counter-strategy](https://www.digitimes.com/news/a20250818PD216/amd-lisa-su-manufacturing-exports-usa.html) (Published: 2025-08-18)
 - [Trump relaxed restrictions on a key AI chip for China. Beijing isn’t saying thank you](https://biztoc.com/x/1242bd454fd9f9f7) (Published: 2025-08-18)
