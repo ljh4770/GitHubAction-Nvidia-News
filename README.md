@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 07:40:36**_
+_Last updated: **2025-08-19 07:51:09**_
 
 - [China’s Nvidia challenger Cambricon to raise US$560 million for AI chip work](https://biztoc.com/x/55f5fba5fb70957f) (Published: 2025-08-18)
 - [AMD CEO calls export controls noise, reveals counter-strategy](https://www.digitimes.com/news/a20250818PD216/amd-lisa-su-manufacturing-exports-usa.html) (Published: 2025-08-18)
