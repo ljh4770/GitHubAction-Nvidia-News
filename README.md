@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 05:42:43**_
+_Last updated: **2025-08-19 05:53:07**_
 
 - [Trump relaxed restrictions on a key AI chip for China. Beijing isn’t saying thank you](https://biztoc.com/x/1242bd454fd9f9f7) (Published: 2025-08-18)
 - [Apple iPhone faces major threat from Samsung](https://www.thestreet.com/technology/apple-iphone-faces-major-threat-from-samsung) (Published: 2025-08-18)
