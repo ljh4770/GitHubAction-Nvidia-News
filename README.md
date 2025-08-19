@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 20:56:15**_
+_Last updated: **2025-08-19 21:23:32**_
 
+- [AI Is a Mass-Delusion Event](https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/) (Published: 2025-08-18)
+- [Nvidia CEO sells $27.12M in common stock](https://thefly.com/permalinks/entry.php/id4185295/NVDA-Nvidia-CEO-sells-M-in-common-stock) (Published: 2025-08-18)
 - [Nvidia Will Let You Add Your Own Steam Games to Stream Via GeForce Now](https://slashdot.org/firehose.pl?op=view&amp;id=178746706) (Published: 2025-08-18)
 - [VanEck announce new growth ASX ETF](https://www.fool.com.au/2025/08/19/vaneck-announce-new-growth-asx-etf/) (Published: 2025-08-18)
 - [Save up to $400 on Razer's newest gaming laptop - this back-to-school deal deal won't last long](https://www.zdnet.com/article/save-up-to-400-on-razers-newest-gaming-laptop-this-back-to-school-deal-deal-wont-last-long/) (Published: 2025-08-18)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-19 20:56:15**_
 - [Exclusive-Arm hires Amazon AI exec to boost plans to build its own chips](https://www.channelnewsasia.com/business/exclusive-arm-hires-amazon-ai-exec-boost-plans-build-its-own-chips-5301181) (Published: 2025-08-18)
 - [Want to Stay Healthy? Move to a Walkable City.](https://www.outsideonline.com/outdoor-adventure/environment/city-walkability/#article) (Published: 2025-08-18)
 - [Bank of America suggests the era of the biggest stocks dominating markets 'may be done'](https://finance.yahoo.com/news/bank-of-america-suggests-the-era-of-the-biggest-stocks-dominating-markets-may-be-done-201336264.html) (Published: 2025-08-18)
-- [Iconic Interactive Announces Debut Game, The Oversight Bureau, Coming to PC in 2025 and Enhanced by NVIDIA’s ACE AI Tech](https://wccftech.com/iconic-interactive-debut-game-the-oversight-bureau-nvidia-ace-ai/) (Published: 2025-08-18)
-- [Intel To Bundle Battlefield 6 With Its Core Ultra & Core CPUs As Part of “Gamer Days 2025” Deals](https://wccftech.com/intel-bundle-battlefield-6-core-ultra-core-cpus-as-part-of-gamer-days-2025-deals/) (Published: 2025-08-18)
