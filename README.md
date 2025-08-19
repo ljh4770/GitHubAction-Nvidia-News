@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 03:47:17**_
+_Last updated: **2025-08-19 04:00:36**_
 
 - [Harvard’s Endowment Goes Big on Bitcoin and Gold in Second Quarter of 2025](https://freerepublic.com/focus/f-chat/4335173/posts) (Published: 2025-08-18)
 - [Tolls replace tariffs: Industry scrambles to adapt to Trump's evolving chip policy](https://www.digitimes.com/news/a20250818PD212/government-policy-revenue-nvidia-amd.html) (Published: 2025-08-18)
