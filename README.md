@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 23:22:33**_
+_Last updated: **2025-08-19 23:36:32**_
 
 - [Stock market today: S&P 500, Nasdaq slide as Home Depot leads out retail earnings](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-as-home-depot-leads-out-retail-earnings-231504644.html) (Published: 2025-08-18)
 - [gamescom 2025 preview: ELDEN RING, SILENT HILL, and the gadgets worth watching](https://thegadgetflow.com/blog/gamescom-2025-preview/) (Published: 2025-08-18)
