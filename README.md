@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 11:41:13**_
+_Last updated: **2025-08-19 11:51:48**_
 
+- [3 High-Income Skills To Learn For Free In 2025](https://www.forbes.com/sites/rachelwells/2025/08/18/3-high-income-skills-to-learn-for-free-in-2025/) (Published: 2025-08-18)
 - [Cohere raises $500m at $6.8bn valuation](https://www.verdict.co.uk/cohere-raises-500m-at-6-8bn-valuation/) (Published: 2025-08-18)
 - [Fragmented ecosystems and limited supply: Why China cannot break free from Nvidia hardware for AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/fragmented-ecosystems-and-limited-supply-why-china-cannot-break-free-from-nvidia-hardware-for-ai) (Published: 2025-08-18)
 - [China mandates domestic firms source 50% of chips from Chinese producers — Beijing continues to squeeze companies over reliance on foreign semiconductors](https://www.tomshardware.com/tech-industry/semiconductors/china-mandates-domestic-firms-source-50-percent-of-chips-from-chinese-producers-beijing-continues-to-squeeze-companies-over-reliance-on-foreign-semiconductors) (Published: 2025-08-18)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-19 11:41:13**_
 - [Nvidia price target raised by $6 at Morgan Stanley, here's why](https://thefly.com/permalinks/entry.php/id4184804/NVDA-Nvidia-price-target-raised-by--at-Morgan-Stanley-heres-why) (Published: 2025-08-18)
 - [LLMs and Coding Agents = Security Nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare) (Published: 2025-08-18)
 - [Kdenlive 25.08.0 released](https://kdenlive.org/news/releases/25.08.0/) (Published: 2025-08-18)
-- [Intel’s Crossroads: Lessons For Lip-Bu Tan From Andy Grove & Coca-Cola](https://www.forbes.com/sites/georgebradt/2025/08/18/intels-crossroads-lessons-for-lip-bu-tan-from-andy-grove--coca-cola/) (Published: 2025-08-18)
