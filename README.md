@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 21:33:38**_
+_Last updated: **2025-08-19 21:44:13**_
 
 - [Nvidia GeForce Now Blackwell update adds DLSS 4, ‘thousands’ of games on the way](http://9to5google.com/2025/08/18/nvidia-geforce-now-blackwell-update-adds-dlss-4/) (Published: 2025-08-18)
 - [Nvidia releases a new small, open model Nemotron-Nano-9B-v2 with toggle on/off reasoning](https://venturebeat.com/ai/nvidia-releases-a-new-small-open-model-nemotron-nano-9b-v2-with-toggle-on-off-reasoning/) (Published: 2025-08-18)
