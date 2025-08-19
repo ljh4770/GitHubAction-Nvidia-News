@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 11:28:04**_
+_Last updated: **2025-08-19 11:41:13**_
 
+- [Cohere raises $500m at $6.8bn valuation](https://www.verdict.co.uk/cohere-raises-500m-at-6-8bn-valuation/) (Published: 2025-08-18)
 - [Fragmented ecosystems and limited supply: Why China cannot break free from Nvidia hardware for AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/fragmented-ecosystems-and-limited-supply-why-china-cannot-break-free-from-nvidia-hardware-for-ai) (Published: 2025-08-18)
 - [China mandates domestic firms source 50% of chips from Chinese producers — Beijing continues to squeeze companies over reliance on foreign semiconductors](https://www.tomshardware.com/tech-industry/semiconductors/china-mandates-domestic-firms-source-50-percent-of-chips-from-chinese-producers-beijing-continues-to-squeeze-companies-over-reliance-on-foreign-semiconductors) (Published: 2025-08-18)
 - [Serve Robotics Acquires Vayu Robotics to Pioneer AI Foundation Model-Based Autonomy for Last-Mile Delivery](https://www.globenewswire.com/news-release/2025/08/18/3134913/0/en/Serve-Robotics-Acquires-Vayu-Robotics-to-Pioneer-AI-Foundation-Model-Based-Autonomy-for-Last-Mile-Delivery.html) (Published: 2025-08-18)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-19 11:28:04**_
 - [LLMs and Coding Agents = Security Nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare) (Published: 2025-08-18)
 - [Kdenlive 25.08.0 released](https://kdenlive.org/news/releases/25.08.0/) (Published: 2025-08-18)
 - [Intel’s Crossroads: Lessons For Lip-Bu Tan From Andy Grove & Coca-Cola](https://www.forbes.com/sites/georgebradt/2025/08/18/intels-crossroads-lessons-for-lip-bu-tan-from-andy-grove--coca-cola/) (Published: 2025-08-18)
-- [Analysis: Arm Holdings PLC announces Q1 FY2026 financial results](https://www.architecting.it/blog/arm-q1-fy2026-financials/) (Published: 2025-08-18)
