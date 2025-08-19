@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 23:46:42**_
+_Last updated: **2025-08-19 23:57:19**_
 
 - [Show HN: WhatIfInvest – explore "what if I invested" scenarios](https://www.whatifinvest.com) (Published: 2025-08-18)
 - [Stock market today: S&P 500, Nasdaq slide as Home Depot leads out retail earnings](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-as-home-depot-leads-out-retail-earnings-231504644.html) (Published: 2025-08-18)
