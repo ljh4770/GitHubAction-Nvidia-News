@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 19:42:20**_
+_Last updated: **2025-08-19 19:52:56**_
 
 - [‘Play Instantly on Discord’: Fortnite will be Nvidia and Discord’s first instant game demo](https://www.theverge.com/news/760894/play-instantly-on-discord-fortnite-will-be-nvidia-try-before-you-buy-geforce-now) (Published: 2025-08-18)
 - [Nvidia says Blackwell architecture coming to GeForce NOW](https://thefly.com/permalinks/entry.php/id4185216/NVDA-Nvidia-says-Blackwell-architecture-coming-to-GeForce-NOW) (Published: 2025-08-18)
