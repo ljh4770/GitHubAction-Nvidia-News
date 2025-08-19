@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 04:48:28**_
+_Last updated: **2025-08-19 04:58:57**_
 
 - [Apple iPhone faces major threat from Samsung](https://www.thestreet.com/technology/apple-iphone-faces-major-threat-from-samsung) (Published: 2025-08-18)
 - [Trump 300% chip tariff shakes tech industry, Intel may find relief](https://phandroid.com/2025/08/18/trump-300-chip-tariff-shakes-tech-industry-intel-may-find-relief/) (Published: 2025-08-18)
