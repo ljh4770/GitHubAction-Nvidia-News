@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 04:00:36**_
+_Last updated: **2025-08-19 04:32:22**_
 
+- [Trump 300% chip tariff shakes tech industry, Intel may find relief](https://phandroid.com/2025/08/18/trump-300-chip-tariff-shakes-tech-industry-intel-may-find-relief/) (Published: 2025-08-18)
 - [Harvard’s Endowment Goes Big on Bitcoin and Gold in Second Quarter of 2025](https://freerepublic.com/focus/f-chat/4335173/posts) (Published: 2025-08-18)
 - [Tolls replace tariffs: Industry scrambles to adapt to Trump's evolving chip policy](https://www.digitimes.com/news/a20250818PD212/government-policy-revenue-nvidia-amd.html) (Published: 2025-08-18)
 - [xrp not working properly with Nvidia Tesla P40 installed](https://askubuntu.com/questions/1554646/xrp-not-working-properly-with-nvidia-tesla-p40-installed) (Published: 2025-08-18)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-19 04:00:36**_
 - [Monash Uni selects technology suppliers for supercomputer](https://www.itnews.com.au/news/monash-uni-selects-technology-suppliers-for-supercomputer-619650) (Published: 2025-08-18)
 - [Shares nudge higher in Asia, oil slips on truce talks](https://economictimes.indiatimes.com/markets/stocks/news/shares-nudge-higher-in-asia-oil-slips-on-truce-talks/articleshow/123352869.cms) (Published: 2025-08-18)
 - [Shares nudge higher in Asia, oil slips on truce talks](https://www.channelnewsasia.com/business/shares-nudge-higher-in-asia-oil-slips-truce-talks-5299466) (Published: 2025-08-18)
-- [Third tender set to add 3,800 GPUs to IndiaAI GPU cluster](https://economictimes.indiatimes.com/tech/artificial-intelligence/third-tender-set-to-add-3800-gpus-to-indiaai-gpu-cluster/articleshow/123348859.cms) (Published: 2025-08-18)
