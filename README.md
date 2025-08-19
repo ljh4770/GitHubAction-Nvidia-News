@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 15:47:19**_
+_Last updated: **2025-08-19 15:57:45**_
 
+- [Vulnerability Summary for the Week of August 11, 2025](https://www.cisa.gov/news-events/bulletins/sb25-230) (Published: 2025-08-18)
 - [Perplexity AI Makes $34.5 Billion Cash Bid For Google Chrome, Backed By Funds As Analyst Says Offer 'Vastly Undervalues' Asset](https://finance.yahoo.com/news/perplexity-ai-makes-34-5-154614440.html) (Published: 2025-08-18)
 - [Why DoCast is the ultimate iPhone and iPad screen mirroring app](https://www.cultofmac.com/news/mirror-iphone-to-tv) (Published: 2025-08-18)
 - [ASUS GeForce RTX 5090 Finally Comes Down To MSRP On A Major NA Retailer](https://wccftech.com/asus-geforce-rtx-5090-finally-comes-down-to-msrp/) (Published: 2025-08-18)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-19 15:47:19**_
 - [Pc no longer detects working external HDD/SSD drives but still detects usb keys.](https://www.bleepingcomputer.com/forums/t/810194/pc-no-longer-detects-working-external-hddssd-drives-but-still-detects-usb-keys/) (Published: 2025-08-18)
 - [Dow at record highs, S&P 500 and Nasdaq slip — Wall Street rally faces Fed test and global tensions](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-indices-split-dow-hits-record-highs-while-sp-500-and-nasdaq-lose-steam-as-big-tech-slides-can-wall-streets-rally-survive-fed-risks-and-global-politics/articleshow/123367702.cms) (Published: 2025-08-18)
 - [Nvidia Stock Slips. What’s Moving the AI Chip Maker](https://biztoc.com/x/4b99cc2ace973e2e) (Published: 2025-08-18)
-- [AMD to disclose roadmaps in mid-November — The future of Zen 6, RDNA, CDNA, and UDNA expected](https://www.tomshardware.com/pc-components/cpus/amd-to-disclose-roadmaps-in-mid-november-the-future-of-zen-6-rdna-cdna-and-udna-expected) (Published: 2025-08-18)
