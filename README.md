@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 18:25:57**_
+_Last updated: **2025-08-19 18:49:02**_
 
+- [Announcing the Latest NVIDIA Gaming AI and Neural Rendering Technologies](https://developer.nvidia.com/blog/announcing-the-latest-nvidia-gaming-ai-and-neural-rendering-technologies/) (Published: 2025-08-18)
+- [Nvidia earnings face high bar on data-center demand, China deal](https://biztoc.com/x/99cc62f93f90e4b4) (Published: 2025-08-18)
+- [PALIT Unveils NVIDIA GeForce RTX 5060 Infinity 2 OC Graphics Card](https://www.madshrimps.be/news/palit-unveils-nvidia-geforce-rtx-5060-infinity-2-oc-graphics-card/) (Published: 2025-08-18)
+- [NVIDIA Could Target 2027 for 3nm HBM Base Die Production](https://www.madshrimps.be/news/nvidia-could-target-2027-for-3nm-hbm-base-die-production/) (Published: 2025-08-18)
+- [NVIDIA Updates GeForce NOW with RTX 5080, Cinematic Streaming, New Low-Latency Tech, and More](https://www.techpowerup.com/340035/nvidia-updates-geforce-now-with-rtx-5080-cinematic-streaming-new-low-latency-tech-and-more) (Published: 2025-08-18)
+- [Nvidia’s GeForce Now is upgrading to RTX 5080 GPUs and opening a floodgate of new games](https://www.theverge.com/news/760219/nvidia-geforce-now-rtx-5080-cloud-gaming) (Published: 2025-08-18)
+- [Tech Giants Spend Over $45mn Protecting CEOs Amid Rising Threats](https://biztoc.com/x/598374cd09572e4a) (Published: 2025-08-18)
 - [Microsoft hints at ‘more affordable’ Xbox Cloud Gaming plan](https://www.theverge.com/news/760813/microsoft-xbox-cloud-gaming-new-price-plan-hint) (Published: 2025-08-18)
 - [OpenAI's Altman warns the U.S. is underestimating China's next-gen AI threat](https://www.cnbc.com/2025/08/18/openai-altman-china-ai.html) (Published: 2025-08-18)
 - [Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Duolingo, Netflix, Target, CVS, Sunrun, Live Nation & more](https://biztoc.com/x/a1149577bc0a247f) (Published: 2025-08-18)
-- [The bull case for Nvidia just got stronger, according to these analysts](https://biztoc.com/x/634abb9e2ce00c15) (Published: 2025-08-18)
-- [TSMC Latest Chips To Get Super Expensive With $30k/Wafer Tag – US Arizona Plant Becomes Profitable For Second Consecutive Quarter](https://wccftech.com/tsmc-latest-chips-to-get-super-expensive-with-30k-wafer-tag-us-arizona-plant-becomes-profitable-for-second-consecutive-quarter/) (Published: 2025-08-18)
-- [(no subject)](https://seclists.org/risks/2025/q3/5) (Published: 2025-08-18)
-- [On theCUBE Pod: Mainstreaming crypto, government bets on semiconductors and AI’s next decade](https://siliconangle.com/2025/08/18/crypto-innovation-government-bets-semiconductors-ai-next-decade-thecubepod/) (Published: 2025-08-18)
-- [AI Token Factory is the New Unit of Computing](https://www.techpowerup.com/340014/ai-token-factory-is-the-new-unit-of-computing) (Published: 2025-08-18)
-- [GPU Smuggling Documentary Highlights How Easily China Can Grab Latest GPU Designs](https://www.extremetech.com/computing/gpu-smuggling-documentary-highlights-how-easily-china-can-grab-latest-gpu) (Published: 2025-08-18)
-- [Reiterated Overweight as Rubin Chip Stays on Track](https://biztoc.com/x/a2e62eb1ef1b1710) (Published: 2025-08-18)
