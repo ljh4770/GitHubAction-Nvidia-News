@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-20 15:33:03**_
+_Last updated: **2025-08-20 15:46:29**_
 
 - [Aiarty Video Enhancer Review – Enhance & Restore Videos in 4K with AI (Free License Giveaway)](https://www.slrlounge.com/aiarty-video-enhancer-review-enhance-restore-videos-in-4k-with-ai-free-license-giveaway/) (Published: 2025-08-19)
 - [Ex-Google GenAI founder says "AI is going to be gone by the time you finish a PhD" — higher education degrees can't keep up](https://www.windowscentral.com/artificial-intelligence/ex-google-genai-founder-ai-gone-by-the-time-you-finish-phd) (Published: 2025-08-19)
