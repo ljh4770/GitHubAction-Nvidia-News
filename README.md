@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-19 23:57:19**_
+_Last updated: **2025-08-20 01:56:07**_
 
+- [SoftBank to take $2B stake in beleaguered chipmaker Intel](https://siliconangle.com/2025/08/18/softbank-take-2b-stake-beleaguered-chipmaker-intel/) (Published: 2025-08-19)
+- [‘Buy Nvidia Stock Now,’ Says Five-Star Analyst](https://biztoc.com/x/531e2ed6d2568551) (Published: 2025-08-19)
+- [Meta Andromeda: What It Means for Your Ad Strategy](https://www.jonloomer.com/meta-andromeda/) (Published: 2025-08-19)
+- [Intel shares jump as Softbank to buy $2bn stake in chip giant](https://www.bbc.co.uk/news/articles/cly4vn1nxg7o) (Published: 2025-08-19)
+- [Intel shares jump as Softbank to buy $2bn stake in chip giant](https://www.bbc.com/news/articles/cly4vn1nxg7o) (Published: 2025-08-19)
+- [SoftBank makes $2B investment in Intel | TechCrunch](https://techcrunch.com/2025/08/18/softbank-makes-2b-investment-in-intel/) (Published: 2025-08-19)
+- [AI Landscape with Nvidia Dominance](https://www.nextbigfuture.com/2025/08/ai-landscape-with-nvidia-dominance.html) (Published: 2025-08-19)
+- [NVIDIA Brings Blackwell Architecture to GeForce NOW](https://www.c-sharpcorner.com/news/nvidia-brings-blackwell-architecture-to-geforce-now) (Published: 2025-08-19)
 - [Show HN: WhatIfInvest – explore "what if I invested" scenarios](https://www.whatifinvest.com) (Published: 2025-08-18)
 - [Stock market today: S&P 500, Nasdaq slide as Home Depot leads out retail earnings](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slide-as-home-depot-leads-out-retail-earnings-231504644.html) (Published: 2025-08-18)
-- [gamescom 2025 preview: ELDEN RING, SILENT HILL, and the gadgets worth watching](https://thegadgetflow.com/blog/gamescom-2025-preview/) (Published: 2025-08-18)
-- [Purpose Investments Inc. Announces August 2025 Distributions](https://financialpost.com/globe-newswire/purpose-investments-inc-announces-august-2025-distributions) (Published: 2025-08-18)
-- [Purpose Investments Inc. Announces August 2025 Distributions](https://www.globenewswire.com/news-release/2025/08/18/3135370/0/en/Purpose-Investments-Inc-Announces-August-2025-Distributions.html) (Published: 2025-08-18)
-- [Nvidia and ASIC servers drive liquid cooling expansion in ASEAN](https://www.digitimes.com/news/a20250818PD200/liquid-cooling-nvidia-asic-expansion-production.html) (Published: 2025-08-18)
-- [China's demand for AI chips and HBM equipment persists despite uncertainty over Nvidia H20 sales](https://www.digitimes.com/news/a20250818PD203/chips-equipment-nvidia-hbm-demand.html) (Published: 2025-08-18)
-- [Nvidia's GeForce On Community Update Highlights New Cloud Gaming Features video](https://www.cnet.com/videos/nvidias-geforce-on-community-update-highlights-new-cloud-gaming-features/) (Published: 2025-08-18)
-- [Asus introduces cheaper ROG NUC (2025) mini gaming PC with Ryzen 7 255HX and RTX 5060 (China-only for now)](https://liliputing.com/asus-introduces-cheaper-rog-nuc-2025-mini-gaming-pc-with-ryzen-7-255hx-and-rtx-5060-china-only-for-now/) (Published: 2025-08-18)
-- [U.S. stocks close mixed amid lack of catalyst](https://www.thestar.com.my/news/world/2025/08/19/us-stocks-close-mixed-amid-lack-of-catalyst) (Published: 2025-08-18)
