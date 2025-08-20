@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-20 05:26:42**_
+_Last updated: **2025-08-20 05:42:59**_
 
+- [Trump administration weighs 10% stake in Intel via Chip Act grants, making government top shareholder](https://www.cnbc.com/2025/08/19/trump-administration-weighs-10percent-stake-in-intel-via-chip-act-grants.html) (Published: 2025-08-19)
 - [Japan’s SoftBank to take $2 billion stake in computer chip maker Intel](https://financialpost.com/pmn/japans-softbank-to-take-2-billion-stake-in-computer-chip-maker-intel) (Published: 2025-08-19)
 - [Promising Automotive Stocks To Keep An Eye On – August 17th](https://www.etfdailynews.com/2025/08/19/promising-automotive-stocks-to-keep-an-eye-on-august-17th/) (Published: 2025-08-19)
 - [Technology Stocks To Keep An Eye On – August 17th](https://www.etfdailynews.com/2025/08/19/technology-stocks-to-keep-an-eye-on-august-17th/) (Published: 2025-08-19)
