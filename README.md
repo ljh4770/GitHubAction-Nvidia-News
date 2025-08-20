@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-20 20:48:02**_
+_Last updated: **2025-08-20 20:58:15**_
 
+- [New Nemotron Nano 2 Open Reasoning Model Tops Leaderboard and Delivers 6x Higher Throughput](https://huggingface.co/blog/nvidia/supercharge-ai-reasoning-with-nemotron-nano-2) (Published: 2025-08-19)
 - [aiqtoolkit 1.2.0rc10](https://pypi.org/project/aiqtoolkit/1.2.0rc10/) (Published: 2025-08-19)
 - [aiqtoolkit-agno 1.2.0rc10](https://pypi.org/project/aiqtoolkit-agno/1.2.0rc10/) (Published: 2025-08-19)
 - [aiqtoolkit-mem0ai 1.2.0rc10](https://pypi.org/project/aiqtoolkit-mem0ai/1.2.0rc10/) (Published: 2025-08-19)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-20 20:48:02**_
 - [aiqtoolkit-test 1.2.0rc10](https://pypi.org/project/aiqtoolkit-test/1.2.0rc10/) (Published: 2025-08-19)
 - [aiqtoolkit-weave 1.2.0rc10](https://pypi.org/project/aiqtoolkit-weave/1.2.0rc10/) (Published: 2025-08-19)
 - [aiqtoolkit-crewai 1.2.0rc10](https://pypi.org/project/aiqtoolkit-crewai/1.2.0rc10/) (Published: 2025-08-19)
-- [Irix HDR Pro / Classic Pro 2.3.49](https://post.rlsbb.ru/irix-hdr-pro-classic-pro-2-3-49/) (Published: 2025-08-19)
