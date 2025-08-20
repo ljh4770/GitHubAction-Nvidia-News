@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-20 04:48:23**_
+_Last updated: **2025-08-20 04:58:28**_
 
 - [Samsung to challenge SK Hynix, Micron in Nvidia HBM supply after delays](https://www.digitimes.com/news/a20250818PD231/samsung-hbm-nvidia-sk-hynix-micron.html) (Published: 2025-08-19)
 - [Trump administration in talks to take 10% stake in Intel: Reports](https://indianexpress.com/article/technology/trump-administration-in-talks-to-take-10-stake-in-intel-reports-10197779/) (Published: 2025-08-19)
