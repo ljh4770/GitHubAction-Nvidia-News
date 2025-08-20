@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-20 19:19:40**_
+_Last updated: **2025-08-20 19:30:15**_
 
+- [Softbank Builds on AI Investments With $2 Billion Intel Partnership](http://www.pymnts.com/news/investment-tracker/2025/softbank-builds-on-ai-investments-with-2-billion-intel-partnership/) (Published: 2025-08-19)
 - [To heck with export controls! Nvidia reportedly plotting cut-down B300 for Chinese market](https://biztoc.com/x/4ed916bf36b4cdcf) (Published: 2025-08-19)
 - [Neverness to Everness – Gamescom 2025 ‘Hethereau Exclusive Feature’ trailer](https://www.gematsu.com/2025/08/neverness-to-everness-gamescom-2025-hethereau-exclusive-feature-trailer) (Published: 2025-08-19)
 - [To heck with export controls! Nvidia reportedly plotting cut-down B300 for Chinese market](https://www.theregister.com/2025/08/19/nvidia_cut_down_b300_for_china/) (Published: 2025-08-19)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-20 19:19:40**_
 - [Citadel Securities strategist predicts retail investor pause in September](https://finance.yahoo.com/news/citadel-securities-strategist-predicts-retail-184209967.html) (Published: 2025-08-19)
 - [Palantir Stock Slumps Over 9% As AI Stocks Like NVIDIA And Meta Cool Off](https://www.forbes.com/sites/antoniopequenoiv/2025/08/19/palantir-stock-slumps-over-9-as-ai-stocks-like-nvidia-and-meta-cool-off/) (Published: 2025-08-19)
 - [Wall Street falls, European shares rise as investors digest Ukraine peace efforts](https://www.irishtimes.com/business/2025/08/19/wall-street-falls-european-shares-rise-as-investors-digest-ukraine-peace-efforts/) (Published: 2025-08-19)
-- [The Lossless Scaling plugin is the best thing that could happen for SteamOS handhelds, and performance results prove it](https://www.techradar.com/computing/gaming-pcs/the-lossless-scaling-plugin-is-the-best-thing-that-could-happen-for-steamos-handhelds-and-performance-results-prove-it) (Published: 2025-08-19)
