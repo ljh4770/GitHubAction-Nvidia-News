@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-20 22:40:07**_
+_Last updated: **2025-08-20 22:50:22**_
 
 - [Dow Jones Today: S&P 500, Nasdaq Fall as Tech Stocks Tumble; Dow Closes Little Changed After Touching All-Time High - Investopedia](https://slashdot.org/firehose.pl?op=view&amp;id=178772636) (Published: 2025-08-19)
 - [Softbank reportedly considered buying Intel's foundry division outright before investing $2 billion into the company as equity](https://www.tomshardware.com/tech-industry/softbank-reportedly-considered-buying-intels-foundry-division-outright-before-investing-usd2-billion-into-the-company-as-equity) (Published: 2025-08-19)
