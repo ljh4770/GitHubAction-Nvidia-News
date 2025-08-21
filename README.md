@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-21 07:12:10**_
+_Last updated: **2025-08-21 07:32:53**_
 
+- [Palantir, AMD, Oracle And Nvidia Decline After-Hours: Here's What You Should Know](https://biztoc.com/x/46adf332efac5973) (Published: 2025-08-20)
 - [Asian shares retreat, tracking tech losses on Wall Street](https://japantoday.com/category/business/asian-shares-retreat-tracking-tech-losses-on-wall-street) (Published: 2025-08-20)
 - [Former Nokia CEO joining Finnish quantum company's board](https://www.channelnewsasia.com/business/former-nokia-ceo-joining-finnish-quantum-companys-board-5304221) (Published: 2025-08-20)
 - [Best Large Cap Stocks To Follow Today – August 18th](https://www.etfdailynews.com/2025/08/20/best-large-cap-stocks-to-follow-today-august-18th/) (Published: 2025-08-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-21 07:12:10**_
 - [Nvidia's Indiana Jones and the Great Circle upgrade could be the end of terrible video game hair](https://www.creativebloq.com/3d/video-game-design/nvidias-indiana-jones-and-the-great-circle-upgrade-could-be-the-end-of-terrible-video-game-hair) (Published: 2025-08-20)
 - [CNBC Daily Open: Trump's expanded tariffs mean putting out home fires could be more expensive](https://www.cnbc.com/2025/08/20/cnbc-daily-open-expanded-tariffs-mean-extinguishing-fires-could-be-costlier.html) (Published: 2025-08-20)
 - [Open the pod bay door, GPT-4o](https://www.theregister.com/2025/08/20/gpt4o_pod_bay_door/) (Published: 2025-08-20)
-- [This Is the New AI Chip that Nvidia (NVDA) Is Developing for the Chinese Market](https://biztoc.com/x/ce58efc9161066ce) (Published: 2025-08-20)
