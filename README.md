@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-21 23:48:12**_
+_Last updated: **2025-08-21 23:58:31**_
 
 - [nvidia-nat-llama-index 1.3.0.dev2](https://pypi.org/project/nvidia-nat-llama-index/1.3.0.dev2/) (Published: 2025-08-20)
 - [nvidia-nat-ingestion 1.3.0.dev2](https://pypi.org/project/nvidia-nat-ingestion/1.3.0.dev2/) (Published: 2025-08-20)
