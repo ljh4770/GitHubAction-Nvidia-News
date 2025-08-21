@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-21 07:32:53**_
+_Last updated: **2025-08-21 07:44:37**_
 
+- [(PR) ASUS Next-gen Handhelds ROG Xbox Ally and Xbox Ally X to Debut at Gamescom 2025](https://www.techpowerup.com/340118/asus-next-gen-handhelds-rog-xbox-ally-and-xbox-ally-x-to-debut-at-gamescom-2025) (Published: 2025-08-20)
 - [Palantir, AMD, Oracle And Nvidia Decline After-Hours: Here's What You Should Know](https://biztoc.com/x/46adf332efac5973) (Published: 2025-08-20)
 - [Asian shares retreat, tracking tech losses on Wall Street](https://japantoday.com/category/business/asian-shares-retreat-tracking-tech-losses-on-wall-street) (Published: 2025-08-20)
 - [Former Nokia CEO joining Finnish quantum company's board](https://www.channelnewsasia.com/business/former-nokia-ceo-joining-finnish-quantum-companys-board-5304221) (Published: 2025-08-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-21 07:32:53**_
 - [Nvidia's native support for Logitech racing wheels for GeForce Now has me excited for sim racing on a budget](https://www.eurogamer.net/nvidias-native-support-for-logitech-racing-wheels-for-geforce-now-has-me-excited-for-sim-racing-on-a-budget) (Published: 2025-08-20)
 - [Nvidia's Indiana Jones and the Great Circle upgrade could be the end of terrible video game hair](https://www.creativebloq.com/3d/video-game-design/nvidias-indiana-jones-and-the-great-circle-upgrade-could-be-the-end-of-terrible-video-game-hair) (Published: 2025-08-20)
 - [CNBC Daily Open: Trump's expanded tariffs mean putting out home fires could be more expensive](https://www.cnbc.com/2025/08/20/cnbc-daily-open-expanded-tariffs-mean-extinguishing-fires-could-be-costlier.html) (Published: 2025-08-20)
-- [Open the pod bay door, GPT-4o](https://www.theregister.com/2025/08/20/gpt4o_pod_bay_door/) (Published: 2025-08-20)
