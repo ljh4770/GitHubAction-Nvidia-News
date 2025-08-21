@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-21 07:44:37**_
+_Last updated: **2025-08-21 07:55:04**_
 
 - [(PR) ASUS Next-gen Handhelds ROG Xbox Ally and Xbox Ally X to Debut at Gamescom 2025](https://www.techpowerup.com/340118/asus-next-gen-handhelds-rog-xbox-ally-and-xbox-ally-x-to-debut-at-gamescom-2025) (Published: 2025-08-20)
 - [Palantir, AMD, Oracle And Nvidia Decline After-Hours: Here's What You Should Know](https://biztoc.com/x/46adf332efac5973) (Published: 2025-08-20)
