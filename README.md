@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-21 21:44:40**_
+_Last updated: **2025-08-21 21:54:42**_
 
+- [aiqtoolkit-test 1.2.1rc1](https://pypi.org/project/aiqtoolkit-test/1.2.1rc1/) (Published: 2025-08-20)
 - [Fed’s Cook Says She Won’t Be Bullied Into Stepping Down](https://biztoc.com/x/16b78461ecdea2d5) (Published: 2025-08-20)
 - [Gabbard Unveils Plan to Slash Top Spy Agency by 40% This Year](https://biztoc.com/x/ade220925d0992d0) (Published: 2025-08-20)
 - [Nasdaq, S&P 500 end lower as investors sell tech, buy less pricey sectors](https://biztoc.com/x/ff4e77e4da851e81) (Published: 2025-08-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-21 21:44:40**_
 - [BofA names Faiz Ahmad, Mike Joo as co-heads of investment banking, memo says](https://biztoc.com/x/3830490fd43bb986) (Published: 2025-08-20)
 - [BofA Names Ahmad and Joo Investment-Banking Co-Heads in Shakeup](https://biztoc.com/x/5c43545d90897ca6) (Published: 2025-08-20)
 - [Tech Stocks Dip Again as Traders Debate Blip or ‘Bubble’](https://biztoc.com/x/a3d1ce9ce5ed0221) (Published: 2025-08-20)
-- [Nvidia Stock Falls Despite Bullish Calls From KeyBanc and Susquehanna](https://finance.yahoo.com/news/nvidia-stock-falls-despite-bullish-214249914.html) (Published: 2025-08-20)
