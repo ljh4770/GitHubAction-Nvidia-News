@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-21 05:48:11**_
+_Last updated: **2025-08-21 05:58:41**_
 
+- [Why Samsung needs its in-house Exynos 2600 chip to succeed](https://www.sammobile.com/2025/08/20/samsung-needs-exynos-2600-chip-succeed/) (Published: 2025-08-20)
 - [US examines equity stake in chip makers for CHIPS Act cash grants](https://economictimes.indiatimes.com/tech/technology/us-examines-equity-stake-in-chip-makers-for-chips-act-cash-grants-sources-say/articleshow/123401613.cms) (Published: 2025-08-20)
 - [Ranking the Chinese Open Model Builders](https://www.interconnects.ai/p/chinas-top-19-open-model-labs) (Published: 2025-08-20)
 - [Automotive Stocks To Consider – August 18th](https://www.etfdailynews.com/2025/08/20/automotive-stocks-to-consider-august-18th/) (Published: 2025-08-20)
@@ -9,4 +10,3 @@ _Last updated: **2025-08-21 05:48:11**_
 - [Thai Data Center Capacity May Triple on Surging Demand for AI](https://finance.yahoo.com/news/thai-data-center-capacity-may-041147405.html) (Published: 2025-08-20)
 - [Nvidia-Led Tech Selloff Hits Asian Stocks | Bloomberg: The Asia Trade, 8/20/25](https://biztoc.com/x/133f3ce07ccca152) (Published: 2025-08-20)
 - [Trump’s chip deal with Nvidia and AMD addresses a long-standing China problem](https://www.americanthinker.com/blog/2025/08/trump_s_chip_deal_with_nvidia_and_amd_addresses_a_long_standing_china_problem.html) (Published: 2025-08-20)
-- [US examines equity stake in chip makers for CHIPS Act cash grants](https://indianexpress.com/article/technology/artificial-intelligence/us-examines-equity-stake-in-chip-makers-for-chips-act-cash-grants-10199899/) (Published: 2025-08-20)
