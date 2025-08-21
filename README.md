@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-21 04:52:48**_
+_Last updated: **2025-08-21 05:14:17**_
 
+- [Automotive Stocks To Consider – August 18th](https://www.etfdailynews.com/2025/08/20/automotive-stocks-to-consider-august-18th/) (Published: 2025-08-20)
+- [HP Victus 15.6" 144hz FHD Intel i5-13420h 16GB RAM 512GB SSD RTX 3050 $799.20 Delivered @ HP Official Store eBay](https://www.ozbargain.com.au/node/920567) (Published: 2025-08-20)
 - [SoftBank Shares Plunge Over 7% In Tokyo After $2 Billion Intel Bet As Asian Tech Stocks Tumble Following Nvidia-Led US Sell-Off](https://biztoc.com/x/38123dd3979488f8) (Published: 2025-08-20)
 - [Thai Data Center Capacity May Triple on Surging Demand for AI](https://finance.yahoo.com/news/thai-data-center-capacity-may-041147405.html) (Published: 2025-08-20)
 - [Nvidia-Led Tech Selloff Hits Asian Stocks | Bloomberg: The Asia Trade, 8/20/25](https://biztoc.com/x/133f3ce07ccca152) (Published: 2025-08-20)
@@ -8,5 +10,3 @@ _Last updated: **2025-08-21 04:52:48**_
 - [US examines equity stake in chip makers for CHIPS Act cash grants](https://indianexpress.com/article/technology/artificial-intelligence/us-examines-equity-stake-in-chip-makers-for-chips-act-cash-grants-10199899/) (Published: 2025-08-20)
 - [Asian markets dip after US tech slide](https://www.channelnewsasia.com/asia/asian-markets-stocks-dip-us-tech-slide-5303891) (Published: 2025-08-20)
 - [China Doesn't Need Nvidia? Futurum CEO Calls That 'Next-Level Nonsense' — Dan Ives Reacts With A Fiery Response](https://biztoc.com/x/83a7131058933d3c) (Published: 2025-08-20)
-- [The Nasdaq fell 1.4%, with Nvidia down 3.5%, Palantir down 9.4% and Arm down 5%, with AI enthusiasm cooling after a critical MIT report and warning from Altman (Financial Times)](https://www.techmeme.com/250819/p35) (Published: 2025-08-20)
-- [Palantir, AMD, Oracle, Viking And Nvidia: Why These 5 Stocks Are On Investors' Radars Today](https://biztoc.com/x/4392d929b68d2261) (Published: 2025-08-20)
