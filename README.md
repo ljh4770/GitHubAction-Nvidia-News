@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-21 23:24:15**_
+_Last updated: **2025-08-21 23:37:41**_
 
 - [Nvidia’s China deal controversy puts US officials on their back feet](https://biztoc.com/x/e25e30e511f93b10) (Published: 2025-08-20)
 - [nvidia-matmul-heuristics added to PyPI](https://pypi.org/project/nvidia-matmul-heuristics/) (Published: 2025-08-20)
