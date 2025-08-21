@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-21 18:56:26**_
+_Last updated: **2025-08-21 19:17:37**_
 
+- [Should You Buy the Post-Earnings Dip in Target Stock?](https://biztoc.com/x/48b811cc52a9d20e) (Published: 2025-08-20)
+- [Robotics software startup FieldAI raises $405M in funding](https://siliconangle.com/2025/08/20/robotics-software-startup-fieldai-raises-405m-funding/) (Published: 2025-08-20)
+- [Chamath Palihapitiya Knows True American Exceptionalism](https://biztoc.com/x/43e7c2224872b877) (Published: 2025-08-20)
+- [Target’s Incoming CEO Urges Staff to Prove Critics Wrong](https://biztoc.com/x/44a423e78275ed28) (Published: 2025-08-20)
+- [Fed Found Over 22,000 Mortgages Like Those Pulte Is Now Flagging](https://biztoc.com/x/ae43a7b554ab238f) (Published: 2025-08-20)
+- [Billionaire Paul Singer Is Betting Big on This Super Micro Computer Rival. Should You?](https://biztoc.com/x/3191807c7358a9af) (Published: 2025-08-20)
+- [Analysis: How Tokyo became the cradle of the Chinese revolution in 1905](https://biztoc.com/x/adbaee2163426150) (Published: 2025-08-20)
+- [US Senator Bernie Sanders backs Trump plan for government stake in Intel](https://www.aljazeera.com/economy/2025/8/20/us-senator-bernie-sanders-backs-trump-plan-for-government-stake-in-intel) (Published: 2025-08-20)
+- [PC hardware trends that deserve way more criticism](https://www.xda-developers.com/pc-hardware-trends-that-deserve-more-criticism/) (Published: 2025-08-20)
 - [How to Play Nvidia Stock as the Plot Over Its China Business Thickens](https://biztoc.com/x/c1d894d4baac4f66) (Published: 2025-08-20)
-- [Fed officials see inflation on the horizon, think consumers will bear the burden](https://biztoc.com/x/8500e95b9fcff24a) (Published: 2025-08-20)
-- [Elon Musk pushes back on report he’s dropped plans for America Party](https://biztoc.com/x/d087d3c2ce9ebfe8) (Published: 2025-08-20)
-- [Some Retirees Are Too Frugal. Tips to Help Them Loosen Their Purse Strings and Enjoy Life](https://biztoc.com/x/d78c84fdaabdb530) (Published: 2025-08-20)
-- [Sugar Prices Rally as Global Sugar Demand Strengthens](https://biztoc.com/x/bf15cf63964ad839) (Published: 2025-08-20)
-- [Fed members lean into wait and see approach amid upside risk to inflation](https://biztoc.com/x/e73b1d7e0eccc071) (Published: 2025-08-20)
-- [Citi Defends Wealth Boss Andy Sieg Following Report the Bank Was Investigating Him](https://biztoc.com/x/f49f245fbe2bb0c2) (Published: 2025-08-20)
-- [Nubank Names New CEO for Mexico Business Ahead of Banking Push](https://biztoc.com/x/154b48bc4cc4840e) (Published: 2025-08-20)
-- [Canadian dollar steadies near a three-month low as investors take stock of recent moves](https://biztoc.com/x/f5743f3b972d0284) (Published: 2025-08-20)
-- [How We Mapped Nightmare Commutes on NJ Transit](https://biztoc.com/x/fb42324b06e8a9e5) (Published: 2025-08-20)
