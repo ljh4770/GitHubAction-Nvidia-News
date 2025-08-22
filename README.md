@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-22 21:41:08**_
+_Last updated: **2025-08-22 21:51:28**_
 
 - [Nvidia, Uber join $97M investment in autonomous driving startup Nuro](https://siliconangle.com/2025/08/21/nvidia-uber-join-97m-investment-autonomous-driving-startup-nuro/) (Published: 2025-08-21)
 - [Fine-tune OpenAI GPT-OSS models using Amazon SageMaker HyperPod recipes](https://aws.amazon.com/blogs/machine-learning/fine-tune-openai-gpt-oss-models-using-amazon-sagemaker-hyperpod-recipes/) (Published: 2025-08-21)
