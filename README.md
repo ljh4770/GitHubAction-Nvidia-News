@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-22 22:09:58**_
+_Last updated: **2025-08-22 22:31:41**_
 
+- [Futures Slide For Fifth Day As Jackson Hole Jitters Rise](https://www.shtfplan.com/economics/futures-slide-for-fifth-day-as-jackson-hole-jitters-rise) (Published: 2025-08-21)
 - [U.S. stocks close lower ahead of Powell speech](https://www.thestar.com.my/news/world/2025/08/22/us-stocks-close-lower-ahead-of-powell-speech) (Published: 2025-08-21)
 - [Mike Pence Urges Trump to Rethink Nvidia Deal, Equity Stake in Intel](https://biztoc.com/x/0c24bdd72f0acbc1) (Published: 2025-08-21)
 - [Nvidia Stock Sinks On Fears Of AI Bubble, AI Winter](https://biztoc.com/x/41596fdd91afe2e8) (Published: 2025-08-21)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-22 22:09:58**_
 - [China signals soft resistance to US-approved Nvidia H20 shipments](https://www.digitimes.com/news/a20250819PD210/nvidia-chips-president-donald-trump-ceo.html) (Published: 2025-08-21)
 - [Global automation enters next phase: AI reshapes factories, services, and jobs](https://www.digitimes.com/news/a20250819PD237/nvidia-automation-microsoft-ceo-expo.html) (Published: 2025-08-21)
 - [The “AI” bubble is showing cracks, and Microsoft ruins Excel](https://www.osnews.com/story/143148/the-ai-bubble-is-showing-cracks-and-microsoft-ruins-excel/) (Published: 2025-08-21)
-- [Zoom FY lifts guidance as enterprise unit shines, churn stabilizes](https://finance.yahoo.com/news/zoom-fy-lifts-guidance-enterprise-210933057.html) (Published: 2025-08-21)
