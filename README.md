@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-22 22:54:44**_
+_Last updated: **2025-08-22 23:16:20**_
 
+- [The AI Bubble Paradox: Why OpenAI's $500 Billion Valuation Proves The Opposite](https://www.forbes.com/sites/danielnewman/2025/08/21/the-ai-bubble-paradox-why-openais-500-billion-valuation-proves-the-opposite/) (Published: 2025-08-21)
+- [Household robots are about to get a big price cut — if China’s top 'robovac' player has its way](https://www.cnbc.com/2025/08/22/chinas-robot-vacuum-roborock-plans-mass-market-cleaners-with-ai-arms.html) (Published: 2025-08-21)
 - [Why did MIT find 95% of AI project fail? Hint: it wasn't about the tech itself](https://biztoc.com/x/b0362fde0d7320f7) (Published: 2025-08-21)
 - [Futures Slide For Fifth Day As Jackson Hole Jitters Rise](https://www.shtfplan.com/economics/futures-slide-for-fifth-day-as-jackson-hole-jitters-rise) (Published: 2025-08-21)
 - [U.S. stocks close lower ahead of Powell speech](https://www.thestar.com.my/news/world/2025/08/22/us-stocks-close-lower-ahead-of-powell-speech) (Published: 2025-08-21)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-22 22:54:44**_
 - [Nvidia, Uber join $97M investment in autonomous driving startup Nuro](https://siliconangle.com/2025/08/21/nvidia-uber-join-97m-investment-autonomous-driving-startup-nuro/) (Published: 2025-08-21)
 - [Fine-tune OpenAI GPT-OSS models using Amazon SageMaker HyperPod recipes](https://aws.amazon.com/blogs/machine-learning/fine-tune-openai-gpt-oss-models-using-amazon-sagemaker-hyperpod-recipes/) (Published: 2025-08-21)
 - [Nvidia's HBM supply chain to undergo major reshuffle in 2026](https://www.digitimes.com/news/a20250820PD240/hbm-nvidia-2026-samsung-sk-hynix.html) (Published: 2025-08-21)
-- [China signals soft resistance to US-approved Nvidia H20 shipments](https://www.digitimes.com/news/a20250819PD210/nvidia-chips-president-donald-trump-ceo.html) (Published: 2025-08-21)
-- [Global automation enters next phase: AI reshapes factories, services, and jobs](https://www.digitimes.com/news/a20250819PD237/nvidia-automation-microsoft-ceo-expo.html) (Published: 2025-08-21)
