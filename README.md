@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-22 20:41:41**_
+_Last updated: **2025-08-22 20:52:09**_
 
 - [Stock Slide Deepens Before Powell as Yields Rise: Markets Wrap](https://financialpost.com/pmn/business-pmn/stock-slide-deepens-before-powell-as-yields-rise-markets-wrap) (Published: 2025-08-21)
 - [Is The AI Bubble Bursting? Lessons From The Dot-Com Era](https://www.forbes.com/sites/paulocarvao/2025/08/21/is-the-ai-bubble-bursting-lessons-from-the-dot-com-era/) (Published: 2025-08-21)
