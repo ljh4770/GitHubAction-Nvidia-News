@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-22 11:26:52**_
+_Last updated: **2025-08-22 11:39:14**_
 
+- [Nvidia price target raised by $30 at UBS, here's why](https://thefly.com/permalinks/entry.php/id4186815/NVDA-Nvidia-price-target-raised-by--at-UBS-heres-why) (Published: 2025-08-21)
+- [Nvidia price target raised by $35 at Wedbush, here's why](https://thefly.com/permalinks/entry.php/id4186814/NVDA-Nvidia-price-target-raised-by--at-Wedbush-heres-why) (Published: 2025-08-21)
 - [Two of the best 14-inch gaming laptops have a massive price difference — is there a good reason?](https://www.windowscentral.com/hardware/laptops/asus-rog-zephyrus-g14-2025-vs-razer-blade-14-2025) (Published: 2025-08-21)
 - [I Tested MSI's $999 Gaming Laptop and Liked Its 1080p Performance but Little Else](https://slashdot.org/firehose.pl?op=view&amp;id=178805952) (Published: 2025-08-21)
 - [NVIDIA (NASDAQ:NVDA) Given New $215.00 Price Target at KeyCorp](https://www.etfdailynews.com/2025/08/21/nvidia-nasdaqnvda-given-new-215-00-price-target-at-keycorp/) (Published: 2025-08-21)
@@ -9,4 +11,3 @@ _Last updated: **2025-08-22 11:26:52**_
 - [Dell 14 Premium review: Power first, portability second](https://www.pcworld.com/article/2880659/dell-14-premium-review.html) (Published: 2025-08-21)
 - [China moves to restrict sales of Nvidia H20 after Lutnick's remarks, FT says](https://thefly.com/permalinks/entry.php/id4186734/NVDA-China-moves-to-restrict-sales-of-Nvidia-H-after-Lutnicks-remarks-FT-says) (Published: 2025-08-21)
 - [The tech trade hits pause ahead of Nvidia earnings](https://finance.yahoo.com/news/the-tech-trade-hits-pause-ahead-of-nvidia-earnings-100053109.html) (Published: 2025-08-21)
-- [I Tested MSI's $999 Gaming Laptop and Liked Its 1080p Performance but Little Else](https://www.cnet.com/tech/computing/i-tested-msis-999-gaming-laptop-and-liked-its-1080p-performance-but-little-else/) (Published: 2025-08-21)
