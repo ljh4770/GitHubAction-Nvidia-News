@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-22 18:51:27**_
+_Last updated: **2025-08-22 19:08:28**_
 
+- [AI Data Center Startup Crusoe in Talks for $10 Billion Valuation](https://financialpost.com/pmn/business-pmn/ai-data-center-startup-crusoe-in-talks-for-10-billion-valuation) (Published: 2025-08-21)
+- [China’s DeepSeek quietly releases an open-source rival to GPT-5 — optimized for Chinese chips and priced to undercut OpenAI](https://biztoc.com/x/b332f542b03493d3) (Published: 2025-08-21)
+- [The 'Great NVIDIA Price Gouge of 2025' could be nearing an end as Amazon starts selling 50-series GPUs for close to MSRP](https://www.rockpapershotgun.com/the-great-nvidia-price-gouge-of-2025-could-be-nearing-an-end-as-amazon-starts-selling-50-series-gpus-for-close-to-msrp) (Published: 2025-08-21)
+- [NVIDIA Hardware Innovations and Open Source Contributions Are Shaping AI](https://developer.nvidia.com/blog/nvidia-hardware-innovations-and-open-source-contributions-are-shaping-ai/) (Published: 2025-08-21)
+- [China’s DeepSeek quietly releases an open-source rival to GPT-5 — optimized for Chinese chips and priced to undercut OpenAI](https://fortune.com/2025/08/21/china-deepseek-releases-open-source-v3-1-model-to-rival-openai-gpt-5/) (Published: 2025-08-21)
+- [China’s DeepSeek quietly releases an open-source rival to GPT-5—optimized for Chinese chips and priced to undercut OpenAI](https://tech.yahoo.com/ai/articles/china-deepseek-quietly-releases-open-185550851.html) (Published: 2025-08-21)
+- [Finally, a Windows laptop that I wouldn't mind putting away my MacBook for](https://www.zdnet.com/article/finally-a-windows-laptop-that-i-wouldnt-mind-putting-away-my-macbook-for/) (Published: 2025-08-21)
 - [Bernie Sanders and Donald Trump form an unlikely alliance over billions in chipmaker subsidies](https://fortune.com/2025/08/21/bernie-sanders-donald-trump-intel-chips/) (Published: 2025-08-21)
 - [Inside NVIDIA Blackwell Ultra: The Chip Powering the AI Factory Era](https://developer.nvidia.com/blog/inside-nvidia-blackwell-ultra-the-chip-powering-the-ai-factory-era/) (Published: 2025-08-21)
 - [Hedge Funds Are Doubling Down on Nvidia Stock. Should You?](https://biztoc.com/x/5194d68b7d3bf29a) (Published: 2025-08-21)
-- [Why Nvidia Matters More To Markets Than The Fed](https://www.forbes.com/sites/petercohan/2025/08/21/why-nvidia-matters-more-to-markets-than-the-fed/) (Published: 2025-08-21)
-- [Wall Street Races to Lift Nvidia Price Targets Ahead of Earnings](https://biztoc.com/x/4861803d4814f0cb) (Published: 2025-08-21)
-- [Tech Is Getting Beat Up. But This Isn’t 2000 All Over Again](https://biztoc.com/x/adb4d87e15a54379) (Published: 2025-08-21)
-- [Autonomous driving tech startup Nuro closed its $203M Series E at a $6B valuation, adding $97M from Uber, Nvidia, and others to the $106M tranche from April](https://biztoc.com/x/321e86dae15b7b66) (Published: 2025-08-21)
-- [Walmart weighs down S&P 500 after earnings fall short of analysts’ expectations](https://fortune.com/2025/08/21/walmart-weighs-down-sp-500-after-earnings-fall-short-of-analysts-expectations/) (Published: 2025-08-21)
-- [Veteran analyst makes staggering AI spending prediction](https://www.thestreet.com/technology/veteran-analyst-makes-staggering-ai-spending-prediction) (Published: 2025-08-21)
-- [Robotaxis: Self-driving start-up Nuro, founded by Kiwi Dave Ferguson, raises US$203m at a US$6b valuation in funding round backed by Uber, Nvidia](https://www.nzherald.co.nz/business/robotaxis-self-driving-start-up-nuro-founded-by-kiwi-dave-ferguson-raises-us203m-at-a-us6b-valuation-in-funding-round-backed-by-uber-nvidia/FDLS4XENRFANLCOPW3GQ2YJKTQ/) (Published: 2025-08-21)
