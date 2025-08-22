@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-22 17:18:37**_
+_Last updated: **2025-08-22 17:36:09**_
 
+- [Walmart weighs down S&P 500 after earnings fall short of analysts’ expectations](https://fortune.com/2025/08/21/walmart-weighs-down-sp-500-after-earnings-fall-short-of-analysts-expectations/) (Published: 2025-08-21)
 - [Veteran analyst makes staggering AI spending prediction](https://www.thestreet.com/technology/veteran-analyst-makes-staggering-ai-spending-prediction) (Published: 2025-08-21)
 - [Robotaxis: Self-driving start-up Nuro, founded by Kiwi Dave Ferguson, raises US$203m at a US$6b valuation in funding round backed by Uber, Nvidia](https://www.nzherald.co.nz/business/robotaxis-self-driving-start-up-nuro-founded-by-kiwi-dave-ferguson-raises-us203m-at-a-us6b-valuation-in-funding-round-backed-by-uber-nvidia/FDLS4XENRFANLCOPW3GQ2YJKTQ/) (Published: 2025-08-21)
 - [An MIT report that 95% of AI pilots fail spooked investors. But the reason why those pilots failed is what should make the C-suite anxious](https://biztoc.com/x/f02a3303c31ec3c1) (Published: 2025-08-21)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-22 17:18:37**_
 - [China Tells Tech Giants to Halt Nvidia H20 Orders After U.S. Official’s ‘Addiction’ Remark — Chinese leaders call Lutnick's comments 'insulting'](https://www.tomshardware.com/tech-industry/china-tells-tech-giants-to-halt-nvidia-h20-orders-after-u-s-officials-addiction-remark-chinese-leaders-call-lutnicks-comments-insulting) (Published: 2025-08-21)
 - [Self-Driving Vehicle Startup Nuro Now Valued at $6 Billion](https://biztoc.com/x/b6d5c73da517bd95) (Published: 2025-08-21)
 - [OpenAI's rocky GPT-5 launch is the beginning of an uphill battle for AI, as Meta announces another restructuring](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-rocky-gpt-5-launch-is-the-beginning-of-an-uphill-battle-for-ai-as-meta-announces-another-restructuring) (Published: 2025-08-21)
-- [Google Unveils AI Voice Assistant for the Home](http://www.pymnts.com/news/artificial-intelligence/2025/google-unveils-ai-voice-assistant-home/) (Published: 2025-08-21)
