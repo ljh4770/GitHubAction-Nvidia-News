@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-22 10:52:24**_
+_Last updated: **2025-08-22 11:10:44**_
 
 - [NVIDIA (NASDAQ:NVDA) Given New $215.00 Price Target at KeyCorp](https://www.etfdailynews.com/2025/08/21/nvidia-nasdaqnvda-given-new-215-00-price-target-at-keycorp/) (Published: 2025-08-21)
 - [Insider Selling: NVIDIA (NASDAQ:NVDA) CEO Sells $13,482,000.00 in Stock](https://www.etfdailynews.com/2025/08/21/insider-selling-nvidia-nasdaqnvda-ceo-sells-13482000-00-in-stock/) (Published: 2025-08-21)
