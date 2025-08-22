@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-22 11:39:14**_
+_Last updated: **2025-08-22 11:49:45**_
 
+- [China’s Policymakers Are Reportedly Pushing to Completely Ban NVIDIA’s AI Chips in the Country, But Weak Domestic Alternatives Are Holding Them Back](https://wccftech.com/china-policymakers-are-pushing-to-completely-ban-nvidia-ai-chips-in-the-country/) (Published: 2025-08-21)
 - [Nvidia price target raised by $30 at UBS, here's why](https://thefly.com/permalinks/entry.php/id4186815/NVDA-Nvidia-price-target-raised-by--at-UBS-heres-why) (Published: 2025-08-21)
 - [Nvidia price target raised by $35 at Wedbush, here's why](https://thefly.com/permalinks/entry.php/id4186814/NVDA-Nvidia-price-target-raised-by--at-Wedbush-heres-why) (Published: 2025-08-21)
 - [Two of the best 14-inch gaming laptops have a massive price difference — is there a good reason?](https://www.windowscentral.com/hardware/laptops/asus-rog-zephyrus-g14-2025-vs-razer-blade-14-2025) (Published: 2025-08-21)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-22 11:39:14**_
 - [China acts to curb Nvidia chip sales after US Commerce Secretary's ‘insulting’ remark: ‘We don't sell them our best…'](https://www.livemint.com/companies/china-hits-back-at-nvidia-chip-sales-after-us-commerce-secretarys-insulting-remark-we-dont-sell-them-our-best-11755766912933.html) (Published: 2025-08-21)
 - [Dell 14 Premium review: Power first, portability second](https://www.pcworld.com/article/2880659/dell-14-premium-review.html) (Published: 2025-08-21)
 - [China moves to restrict sales of Nvidia H20 after Lutnick's remarks, FT says](https://thefly.com/permalinks/entry.php/id4186734/NVDA-China-moves-to-restrict-sales-of-Nvidia-H-after-Lutnicks-remarks-FT-says) (Published: 2025-08-21)
-- [The tech trade hits pause ahead of Nvidia earnings](https://finance.yahoo.com/news/the-tech-trade-hits-pause-ahead-of-nvidia-earnings-100053109.html) (Published: 2025-08-21)
