@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-22 04:31:10**_
+_Last updated: **2025-08-22 04:47:00**_
 
 - [States of Resistance](https://crookedtimber.org/2025/08/21/states-of-resistance/) (Published: 2025-08-21)
 - [Beijing steers companies away from Nvidia](https://biztoc.com/x/977e4fc875031e42) (Published: 2025-08-21)
