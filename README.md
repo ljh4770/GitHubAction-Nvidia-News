@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 23:15:38**_
+_Last updated: **2025-08-23 23:30:54**_
 
 - [Trump says Intel has agreed to give US government a 10% stake](https://www.irishtimes.com/world/us/2025/08/22/trump-says-intel-has-agreed-to-give-us-government-a-10-stake/) (Published: 2025-08-22)
 - [US to take 10% equity stake in Intel - Trump](https://www.rte.ie/news/business/2025/0822/1529779-us-intel-stake/) (Published: 2025-08-22)
