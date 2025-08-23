@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 04:45:56**_
+_Last updated: **2025-08-23 04:56:12**_
 
 - [NVIDIA GeForce RTX 50 MSRPs See Significant Price Cuts In UK & Europe As Regional Currency Fights Back US Dollar, RTX 5090 Down 7%](https://wccftech.com/nvidia-geforce-rtx-50-msrps-significant-price-cuts-uk-europe/) (Published: 2025-08-22)
 - [Jefferies looks to reward top investment bankers for collaboration on deals](https://biztoc.com/x/811608b74d4623a6) (Published: 2025-08-22)
