@@ -1,13 +1,15 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 10:55:21**_
+_Last updated: **2025-08-23 11:14:51**_
 
-- [Weather Traders Are Hedging Against the Next German Wind Drought](https://biztoc.com/x/310484e1e4d63cc0) (Published: 2025-08-22)
-- [Bavarian Nordic CEO Says Buyout Needed to Fund Growth Strategy](https://biztoc.com/x/dd6d88cc3b2f48da) (Published: 2025-08-22)
-- [JPMorgan to Pay $330 Million to Malaysia to Settle 1MDB Case](https://biztoc.com/x/8c87a764f356ec36) (Published: 2025-08-22)
-- [Turkey’s Robinhood-Style Trading Platform Nears $1 Billion Value](https://biztoc.com/x/1f10c6383e7ab32a) (Published: 2025-08-22)
-- [Kazakhstan Presses on With $4 Billion Sulfur Fine on Oil Majors](https://biztoc.com/x/2026c47e8ccd7e7f) (Published: 2025-08-22)
-- [German Economy Minister calls for reforms after GDP slump](https://biztoc.com/x/f6d3814ec356846a) (Published: 2025-08-22)
-- [Private Equity Keeps Inventing New Ways to Give Cash to Investors](https://biztoc.com/x/7f2d84819024b2cb) (Published: 2025-08-22)
-- [Cenovus Tops Strathcona Bid With C$7.9 Billion Deal to Buy MEG](https://biztoc.com/x/f34b630df21abcb6) (Published: 2025-08-22)
-- [Indonesia Eyes Building $53 Million Modern Farm on Army Land](https://biztoc.com/x/c128f6636f00c855) (Published: 2025-08-22)
-- [Uganda Mulls New City to Decongest Capital as Akon Offer Holds](https://biztoc.com/x/a37e5ea5354593aa) (Published: 2025-08-22)
+- [Bumper Crops In a Trade War Mean More Misery for American Farmers](https://biztoc.com/x/640ccda10d5f2214) (Published: 2025-08-22)
+- [Bollywood Icon Rejects Global Streaming Sites for $1 YouTube Hits](https://biztoc.com/x/5d8b1c2edb3ad3f5) (Published: 2025-08-22)
+- [Online death of abused French streamer was not result of trauma, prosecutor says](https://biztoc.com/x/d94d967428a7b814) (Published: 2025-08-22)
+- [Private Equity Invents New Ways to Gin Up Cash in Deal Drought](https://biztoc.com/x/9cfbffd9778835b3) (Published: 2025-08-22)
+- [Powell’s Last Jackson Hole Stand Offers Unique Rate-Cut Set-Up](https://biztoc.com/x/80d195b47102265b) (Published: 2025-08-22)
+- [Mistaken Ghost Order Caused Worst India Trading Blunder in Years](https://biztoc.com/x/379ee33183748575) (Published: 2025-08-22)
+- [NIO Stock Soars. How the Tesla Rival Has Escalated the EV War](https://biztoc.com/x/601c9935b6565fe4) (Published: 2025-08-22)
+- [Video
+Backlash over Cracker Barrel’s logo change
+1:15](https://biztoc.com/x/d1f5cb7a4aa53e72) (Published: 2025-08-22)
+- [Walmart Sent a Warning to Stock Markets and the Fed. Why Powell Faces an Inflation Crisis](https://biztoc.com/x/87e2e5944299b70c) (Published: 2025-08-22)
+- [JALI and IEL show non-linear animation workflows at Unreal Fest Seoul](https://www.provideocoalition.com/jali-and-iel-show-non-linear-animation-workflows-at-unreal-fest-seoul/) (Published: 2025-08-22)
