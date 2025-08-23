@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 13:16:09**_
+_Last updated: **2025-08-23 13:36:36**_
 
-- [Buzz weaves its way into Bell AI Fabric](https://www.telecomtv.com/content/telcos-and-ai-channel/buzz-weaves-its-way-into-bell-ai-fabric-53679/) (Published: 2025-08-22)
-- [Nvidia Reportedly Halts H20 Production After Beijing Directive To Stop Buying AI Chip - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=178823374) (Published: 2025-08-22)
-- [Ubuntu on 22.04 - Asus ProArt P16](https://askubuntu.com/questions/1554865/ubuntu-on-22-04-asus-proart-p16) (Published: 2025-08-22)
-- [Trump administration is not eyeing equity stakes in TSMC, Micron – White House official](https://macdailynews.com/2025/08/22/trump-administration-is-not-eyeing-equity-stakes-in-tsmc-micron-white-house-official/) (Published: 2025-08-22)
-- [European farmers facing higher costs after EU tariffs on Russian fertiliser imports](https://biztoc.com/x/d328bbb60c338a0e) (Published: 2025-08-22)
-- [Long-promised Burundi-Tanzania rail corridor kicks off](https://biztoc.com/x/1f0a0e92f6ad20eb) (Published: 2025-08-22)
-- [Who Lost Europe? Hint: It’s Not Trump’s Fault](https://biztoc.com/x/c9739c60219d9b92) (Published: 2025-08-22)
-- [Rate Expectations Turn Hawkishly Neutral](https://biztoc.com/x/571f338ca79206ec) (Published: 2025-08-22)
-- [Japan commits $5.5B in loans to Africa at major summit](https://biztoc.com/x/a036d94ae33bef9c) (Published: 2025-08-22)
-- [China Vanke reports record $1.7bn half-year loss as woes deepen](https://biztoc.com/x/4725d52c8ba701e6) (Published: 2025-08-22)
+- [Bright Mountain Media’s Ad Tech and AI Strategy Fuel Strong Financials - TIDEWATER](https://www.tidewaternews.com/business/bright-mountain-medias-ad-tech-and-ai-strategy-fuel-strong-financials/) (Published: 2025-08-22)
+- [Nvidia Chief in Talks With China to Allay Security Fears Over A.I. Chips - The New York Times](https://slashdot.org/firehose.pl?op=view&amp;id=178823584) (Published: 2025-08-22)
+- [Musk sought Zuckerberg help for OpenAI bid, court filing shows](https://biztoc.com/x/40431fea59c3ae7c) (Published: 2025-08-22)
+- [Art of the Deal: How Trump is capturing the private sector](https://biztoc.com/x/f01b80a6064508be) (Published: 2025-08-22)
+- [CyberPowerPC 9th-Gen. Ryzen 7 Gaming Desktop PC w/ 16GB RAM, 2TB SSD & Nvidia RTX 5060 Ti for $1,290 + free shipping](https://www.dealnews.com/products/Cyber-Power/Cyber-Power-PC-9-th-Gen-Ryzen-7-Gaming-Desktop-PC-w-16-GB-RAM-2-TB-SSD-Nvidia-RTX-5060-Ti/493053.html) (Published: 2025-08-22)
+- [How to watch ‘‘Naomi Osaka: The Second Set’ online on Tubi for free](https://www.tomsguide.com/entertainment/sports/watch-naomi-osaka-the-second-set-on-tubi-free) (Published: 2025-08-22)
+- [XRP price plunges to $2.80 after 25% slide — bearish chart screams $2.40, but could HashedMining flip the script?](https://economictimes.indiatimes.com/news/international/us/xrp-price-plunges-to-2-80-after-25-slide-bearish-chart-screams-2-40-but-could-hashedmining-flip-the-script/articleshow/123455444.cms) (Published: 2025-08-22)
+- [Is Wall Street Bullish or Bearish on Illinois Tool Works Stock?](https://biztoc.com/x/d7a80ba49d34bc16) (Published: 2025-08-22)
+- [Goldman’s $500 Million Texas Investment Takes Shape in Dallas](https://biztoc.com/x/7099d1e4410db0ef) (Published: 2025-08-22)
