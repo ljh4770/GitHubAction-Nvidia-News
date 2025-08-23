@@ -1,15 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 10:45:05**_
+_Last updated: **2025-08-23 10:55:21**_
 
-- [ASUS Announces Limited-Time Back to School Sales Event: August 22 – September 4](https://financialpost.com/globe-newswire/asus-announces-limited-time-back-to-school-sales-event-august-22-september-4) (Published: 2025-08-22)
-- [Stocks, Bonds and Currencies All Hang on Words From Wyoming](https://biztoc.com/x/1a5f78ae83f889a7) (Published: 2025-08-22)
-- [Pop Mart, JD Logistics, China Telecom to Join Hong Kong's HSI](https://biztoc.com/x/b5460046dc468bdf) (Published: 2025-08-22)
-- [China’s Solar Industry Urges More Efforts to Tackle Overcapacity](https://biztoc.com/x/7fd6b73aab015092) (Published: 2025-08-22)
-- [Dairy Giant Presses Ahead With Global Expansion](https://biztoc.com/x/98e1a3b7865e92b8) (Published: 2025-08-22)
-- [Saudi Arabia, Olympic Council Weigh Moving Asian Winter Games](https://biztoc.com/x/e0ed85f007d9c24f) (Published: 2025-08-22)
-- [Morning Bid: Treasuries tighten as Fed hawks re-emerge](https://biztoc.com/x/d49e653136704d88) (Published: 2025-08-22)
-- [State Child Tax Credits Held Down Kids Poverty Rates, Study Shows](https://biztoc.com/x/2663613a6d7063d1) (Published: 2025-08-22)
-- [Indian Energy Giants Rally Behind Nuclear in Clean Power Push](https://biztoc.com/x/a21a57a12fcb1c6e) (Published: 2025-08-22)
-- [Video
-Trump frustrated by Powell’s refusal to cut interest rates
-4:01](https://biztoc.com/x/956d79ad9f53f2aa) (Published: 2025-08-22)
+- [Weather Traders Are Hedging Against the Next German Wind Drought](https://biztoc.com/x/310484e1e4d63cc0) (Published: 2025-08-22)
+- [Bavarian Nordic CEO Says Buyout Needed to Fund Growth Strategy](https://biztoc.com/x/dd6d88cc3b2f48da) (Published: 2025-08-22)
+- [JPMorgan to Pay $330 Million to Malaysia to Settle 1MDB Case](https://biztoc.com/x/8c87a764f356ec36) (Published: 2025-08-22)
+- [Turkey’s Robinhood-Style Trading Platform Nears $1 Billion Value](https://biztoc.com/x/1f10c6383e7ab32a) (Published: 2025-08-22)
+- [Kazakhstan Presses on With $4 Billion Sulfur Fine on Oil Majors](https://biztoc.com/x/2026c47e8ccd7e7f) (Published: 2025-08-22)
+- [German Economy Minister calls for reforms after GDP slump](https://biztoc.com/x/f6d3814ec356846a) (Published: 2025-08-22)
+- [Private Equity Keeps Inventing New Ways to Give Cash to Investors](https://biztoc.com/x/7f2d84819024b2cb) (Published: 2025-08-22)
+- [Cenovus Tops Strathcona Bid With C$7.9 Billion Deal to Buy MEG](https://biztoc.com/x/f34b630df21abcb6) (Published: 2025-08-22)
+- [Indonesia Eyes Building $53 Million Modern Farm on Army Land](https://biztoc.com/x/c128f6636f00c855) (Published: 2025-08-22)
+- [Uganda Mulls New City to Decongest Capital as Akon Offer Holds](https://biztoc.com/x/a37e5ea5354593aa) (Published: 2025-08-22)
