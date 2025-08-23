@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 04:30:14**_
+_Last updated: **2025-08-23 04:45:56**_
 
+- [NVIDIA GeForce RTX 50 MSRPs See Significant Price Cuts In UK & Europe As Regional Currency Fights Back US Dollar, RTX 5090 Down 7%](https://wccftech.com/nvidia-geforce-rtx-50-msrps-significant-price-cuts-uk-europe/) (Published: 2025-08-22)
+- [Jefferies looks to reward top investment bankers for collaboration on deals](https://biztoc.com/x/811608b74d4623a6) (Published: 2025-08-22)
+- [Ukrainian man arrested in Italy over Nord Stream pipeline attacks](https://biztoc.com/x/f96a241fae3adb1f) (Published: 2025-08-22)
+- [Japan’s Low-Coupon Super Long Bonds Face Risk of September Slump](https://biztoc.com/x/1acfe397ec2f0deb) (Published: 2025-08-22)
+- [Nvidia orders suppliers to halt work on China-focussed H20 AI chip, The Information says](https://biztoc.com/x/8f006b98a49112d8) (Published: 2025-08-22)
+- [Another US military mini shuttle launches on a secret mission](https://biztoc.com/x/cd9d723d24601c23) (Published: 2025-08-22)
+- [Bulgaria’s Water Rationing Is a Cautionary Tale for Europe](https://biztoc.com/x/05949f7e2a884300) (Published: 2025-08-22)
+- [This CEO Follows the Buffett Playbook. He’s Winning](https://biztoc.com/x/a80e659e50f2897f) (Published: 2025-08-22)
+- [Nvidia’s Huang says TSMC among all-time greats: Buying its stock is ‘very smart’](https://www.cnbc.com/2025/08/22/nvidia-jensen-huang-tsmc-chips-.html) (Published: 2025-08-22)
 - [Surging China Stocks Are Giving Market Veterans the Jitters](https://biztoc.com/x/9de188a2eb5ec36d) (Published: 2025-08-22)
-- [Alligator Alcatraz Must Wind Down Operations, US Judge Rules](https://biztoc.com/x/5cf1d76d38989b1b) (Published: 2025-08-22)
-- [Nvidia Reportedly Halts H20 Production After Beijing Directive To Stop Buying AI Chip](https://biztoc.com/x/f404ee9292780a9e) (Published: 2025-08-22)
-- [Wall Street finished in the red as Walmart weighed on markets and eyes turn to Jackson Hole](https://biztoc.com/x/5ee7b322e03ebf46) (Published: 2025-08-22)
-- [Nvidia Suspends China-Focused H20 Chip As Beijing Pushes For Domestic Alternatives, Analysts Warn Of Weaker Q3 Outlook: Report](https://biztoc.com/x/d88c56912d242d83) (Published: 2025-08-22)
-- [New Zealand's central bank may cut interest rates twice more this year to 2.50%: Reuters poll](https://biztoc.com/x/56b543715c2b3fdd) (Published: 2025-08-22)
-- [2025 Xpeng G6 facelift launched in Thailand – from RM175k; new Performance AWD; up to 525 km WLTP](https://paultan.org/2025/08/22/2025-xpeng-g6-facelift-launched-in-thailand/) (Published: 2025-08-22)
-- [This fan-made Windows 12.2 concept is the operating system we deserve, but will never get](https://www.xda-developers.com/fan-made-windows-12-concept/) (Published: 2025-08-22)
-- [The 100-Ton Rotating Mass That Can Stop Blackouts](https://biztoc.com/x/6b33a8dabeada4b1) (Published: 2025-08-22)
-- [Russia’s Push to Recruit South African Women Triggers Probe](https://biztoc.com/x/11ed49db73de5b16) (Published: 2025-08-22)
