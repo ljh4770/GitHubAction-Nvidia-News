@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 11:39:14**_
+_Last updated: **2025-08-23 11:49:17**_
 
+- [Nvidia's CEO responds to hints of fresh trouble over China-geared H20 chip](https://biztoc.com/x/9d990941f7bb6c91) (Published: 2025-08-22)
 - [Passengers sue United and Delta for selling 'window' seats next to blank walls](https://biztoc.com/x/8696a514d661dcfb) (Published: 2025-08-22)
 - [Corporate America’s Bitcoin Reserve Strategy is a Hyper-Systemic Risk in the Making](https://biztoc.com/x/06815f921bff36d8) (Published: 2025-08-22)
 - [Stocks Halt Run of Losses Ahead of Powell Address: Markets Wrap](https://financialpost.com/pmn/business-pmn/stocks-halt-run-of-losses-ahead-of-powell-address-markets-wrap) (Published: 2025-08-22)
@@ -9,4 +10,3 @@ _Last updated: **2025-08-23 11:39:14**_
 - [Breakdown in UK Drug Pricing Talks Threatens Pharma Investment](https://biztoc.com/x/21021cc3040a0aa0) (Published: 2025-08-22)
 - [Updates From the Fed Jackson Hole Symposium](https://biztoc.com/x/1eedf31a2ff86625) (Published: 2025-08-22)
 - [Powell Takes Center Stage at Jackson Hole](https://biztoc.com/x/f41c7eb37f7412c7) (Published: 2025-08-22)
-- [DeepSeek's New AI Model Sparks Rally In Chinese Tech And EV Stocks As Nvidia Retreats](https://biztoc.com/x/6945809efecbd0ab) (Published: 2025-08-22)
