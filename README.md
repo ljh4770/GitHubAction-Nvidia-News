@@ -1,13 +1,15 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 10:33:07**_
+_Last updated: **2025-08-23 10:45:05**_
 
-- [Powell Plans U-Turn on an Economic Strategy That Soured](https://biztoc.com/x/39e91df2305b3948) (Published: 2025-08-22)
-- [NVIDIA "Rubin" Platform Enters Trial Production at TSMC, CEO Jensen Huang Confirms](https://www.techpowerup.com/340207/nvidia-rubin-platform-enters-trial-production-at-tsmc-ceo-jensen-huang-confirms) (Published: 2025-08-22)
-- [German finance minister urges cuts to plug 30-billion-euro gap in 2027 budget](https://biztoc.com/x/f50540ecad9a77a5) (Published: 2025-08-22)
-- [TSX futures steady with all eyes on Powell's Jackson Hole speech](https://biztoc.com/x/a767b79858c1da19) (Published: 2025-08-22)
-- [Wall St Week Ahead Investors zero in on Nvidia results as US tech stocks waver](https://biztoc.com/x/4938a9b502262dac) (Published: 2025-08-22)
-- [U.S. sectors in spotlight ahead of Fed's Jackson Hole gathering](https://biztoc.com/x/d4b9d2f9b4d5fb8c) (Published: 2025-08-22)
-- [The AI Boom Isn’t the Dot-Com Bubble. Nvidia Explains Why](https://biztoc.com/x/eedfdc28c6fee973) (Published: 2025-08-22)
-- [Sri Lanka Ex-President Arrested on Alleged Fund Misuse, AFP Says](https://biztoc.com/x/ae1fd15150b4fb5b) (Published: 2025-08-22)
-- [Cenovus Energy to acquire MEG Energy for C$6.93 billion](https://biztoc.com/x/c429260d3254b994) (Published: 2025-08-22)
-- [With the White House watching, Fed's Powell to hint yes or no on rate cuts](https://biztoc.com/x/1bd00b3fa81fadc7) (Published: 2025-08-22)
+- [ASUS Announces Limited-Time Back to School Sales Event: August 22 – September 4](https://financialpost.com/globe-newswire/asus-announces-limited-time-back-to-school-sales-event-august-22-september-4) (Published: 2025-08-22)
+- [Stocks, Bonds and Currencies All Hang on Words From Wyoming](https://biztoc.com/x/1a5f78ae83f889a7) (Published: 2025-08-22)
+- [Pop Mart, JD Logistics, China Telecom to Join Hong Kong's HSI](https://biztoc.com/x/b5460046dc468bdf) (Published: 2025-08-22)
+- [China’s Solar Industry Urges More Efforts to Tackle Overcapacity](https://biztoc.com/x/7fd6b73aab015092) (Published: 2025-08-22)
+- [Dairy Giant Presses Ahead With Global Expansion](https://biztoc.com/x/98e1a3b7865e92b8) (Published: 2025-08-22)
+- [Saudi Arabia, Olympic Council Weigh Moving Asian Winter Games](https://biztoc.com/x/e0ed85f007d9c24f) (Published: 2025-08-22)
+- [Morning Bid: Treasuries tighten as Fed hawks re-emerge](https://biztoc.com/x/d49e653136704d88) (Published: 2025-08-22)
+- [State Child Tax Credits Held Down Kids Poverty Rates, Study Shows](https://biztoc.com/x/2663613a6d7063d1) (Published: 2025-08-22)
+- [Indian Energy Giants Rally Behind Nuclear in Clean Power Push](https://biztoc.com/x/a21a57a12fcb1c6e) (Published: 2025-08-22)
+- [Video
+Trump frustrated by Powell’s refusal to cut interest rates
+4:01](https://biztoc.com/x/956d79ad9f53f2aa) (Published: 2025-08-22)
