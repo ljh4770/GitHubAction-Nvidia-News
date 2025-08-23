@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 03:49:21**_
+_Last updated: **2025-08-23 03:59:46**_
 
+- [Nvidia orders suppliers to halt work on China-focussed H20 AI chip: Report](https://economictimes.indiatimes.com/tech/technology/nvidia-orders-suppliers-to-halt-work-on-china-focussed-h20-ai-chip-report/articleshow/123445095.cms) (Published: 2025-08-22)
+- [Melting 12VHPWR Connector Claims its First AMD RX 9070 XT Victim](https://www.madshrimps.be/news/melting-12vhpwr-connector-claims-its-first-amd-rx-9070-xt-victim/) (Published: 2025-08-22)
+- [The “AI” bubble is showing cracks, and Microsoft ruins Excel](https://www.madshrimps.be/news/the-ai-bubble-is-showing-cracks-and-microsoft-ruins-excel/) (Published: 2025-08-22)
+- [RBNZ Urged to Make Changes to Bolster Banking Competition](https://biztoc.com/x/fa15308b4bd559c9) (Published: 2025-08-22)
+- [CapitaLand Investment Weighs Rescue Capital for Hong Kong Firms](https://biztoc.com/x/fa9641fa44d13812) (Published: 2025-08-22)
+- [Chinese Surgical Robot Maker Edge Medical Is Said to File for Hong Kong IPO](https://biztoc.com/x/a3bdd80dd18c60ea) (Published: 2025-08-22)
+- [Magnitude 7.5 earthquake hits off South American tip, no tsunami risk](https://biztoc.com/x/8697d11082a15d2f) (Published: 2025-08-22)
+- [Chinese Lithium Trading Spikes Amid Volatility, Supply Concerns](https://biztoc.com/x/989f254e18ab960c) (Published: 2025-08-22)
 - [Nvidia Urges Taiwan to Embrace Nuclear Power Ahead of Referendum](https://financialpost.com/pmn/business-pmn/nvidia-urges-taiwan-to-embrace-nuclear-power-ahead-of-referendum) (Published: 2025-08-22)
 - [Nvidia Chief Says H20 Chip Shipments To China Not A Security Concern](https://www.ibtimes.com/nvidia-chief-says-h20-chip-shipments-china-not-security-concern-3781418) (Published: 2025-08-22)
-- [Investors worry about an AI bubble, but the money keeps flowing](https://siliconangle.com/2025/08/21/investors-worry-ai-bubble-money-keeps-flowing/) (Published: 2025-08-22)
-- [Nvidia Urges Taiwan to Embrace Nuclear Power Ahead of Referendum](https://biztoc.com/x/1147a5f3c7875128) (Published: 2025-08-22)
-- [Nvidia chief says H20 chip shipments to China not a security concern](https://www.digitaljournal.com/world/nvidia-chief-says-h20-chip-shipments-to-china-not-a-security-concern/article) (Published: 2025-08-22)
-- [Nvidia CEO in Taipei to visit TSMC, says in talks with US over new China chip](https://www.channelnewsasia.com/east-asia/nvidia-ceo-taipei-visit-tsmc-says-talks-us-over-new-china-chip-5308321) (Published: 2025-08-22)
-- [Nvidia chief says H20 chip shipments to China not a security concern](https://finance.yahoo.com/news/nvidia-chief-says-h20-chip-033538435.html) (Published: 2025-08-22)
-- [India's 'Nvidia' Could Be A Zomato Kind Of A Company: Motilal Oswal Chairman Raamdeo Agrawal](https://www.ndtvprofit.com/business/indias-nvidia-could-be-a-zomato-kind-of-a-company-motilal-oswal-chairman-raamdeo-agrawal) (Published: 2025-08-22)
-- [Nvidia reportedly orders halts H20 chip production amid China market backlash](https://www.digitimes.com/news/a20250822VL203/nvidia-market-production-ai-chip-sales.html) (Published: 2025-08-22)
-- [aot-semantic-kernel added to PyPI](https://pypi.org/project/aot-semantic-kernel/) (Published: 2025-08-22)
