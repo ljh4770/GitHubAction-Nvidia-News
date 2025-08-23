@@ -1,15 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 11:14:51**_
+_Last updated: **2025-08-23 11:27:08**_
 
+- [Health Rounds: GLP-1 drugs linked to lower cancer risks](https://biztoc.com/x/663f6c743d41f1a9) (Published: 2025-08-22)
+- [Investors Brace for Defining Moment as Powell Heads to Jackson Hole](https://biztoc.com/x/9dce8358c813b3b2) (Published: 2025-08-22)
+- [Cenovus to acquire MEG Energy in C$7.9 billion deal in oil sands expansion](https://biztoc.com/x/c6f4977709f648a9) (Published: 2025-08-22)
+- [The Slow-Burn Dollar Slide](https://biztoc.com/x/3c3e634503810773) (Published: 2025-08-22)
+- [Italian court frees real estate magnate arrested in Milan property probe](https://biztoc.com/x/be0e8f9abdaeea9c) (Published: 2025-08-22)
+- [Nvidia Halts China-Specific H20 AI Chip Production, Information Says](https://biztoc.com/x/b6de4ac476cd8626) (Published: 2025-08-22)
+- [French-German Power Spread Heads for Biggest Gain Since March](https://biztoc.com/x/1cdf49532194c786) (Published: 2025-08-22)
+- [All Eyes on Powell as Bitcoin Holds Below $113K: Crypto Daybook Americas](https://www.coindesk.com/daybook-us/2025/08/22/all-eyes-on-powell-as-bitcoin-holds-below-usd113k-crypto-daybook-americas) (Published: 2025-08-22)
 - [Bumper Crops In a Trade War Mean More Misery for American Farmers](https://biztoc.com/x/640ccda10d5f2214) (Published: 2025-08-22)
 - [Bollywood Icon Rejects Global Streaming Sites for $1 YouTube Hits](https://biztoc.com/x/5d8b1c2edb3ad3f5) (Published: 2025-08-22)
-- [Online death of abused French streamer was not result of trauma, prosecutor says](https://biztoc.com/x/d94d967428a7b814) (Published: 2025-08-22)
-- [Private Equity Invents New Ways to Gin Up Cash in Deal Drought](https://biztoc.com/x/9cfbffd9778835b3) (Published: 2025-08-22)
-- [Powell’s Last Jackson Hole Stand Offers Unique Rate-Cut Set-Up](https://biztoc.com/x/80d195b47102265b) (Published: 2025-08-22)
-- [Mistaken Ghost Order Caused Worst India Trading Blunder in Years](https://biztoc.com/x/379ee33183748575) (Published: 2025-08-22)
-- [NIO Stock Soars. How the Tesla Rival Has Escalated the EV War](https://biztoc.com/x/601c9935b6565fe4) (Published: 2025-08-22)
-- [Video
-Backlash over Cracker Barrel’s logo change
-1:15](https://biztoc.com/x/d1f5cb7a4aa53e72) (Published: 2025-08-22)
-- [Walmart Sent a Warning to Stock Markets and the Fed. Why Powell Faces an Inflation Crisis](https://biztoc.com/x/87e2e5944299b70c) (Published: 2025-08-22)
-- [JALI and IEL show non-linear animation workflows at Unreal Fest Seoul](https://www.provideocoalition.com/jali-and-iel-show-non-linear-animation-workflows-at-unreal-fest-seoul/) (Published: 2025-08-22)
