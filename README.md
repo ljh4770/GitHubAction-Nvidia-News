@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-24 17:28:53**_
+_Last updated: **2025-08-24 17:41:38**_
 
 - [Nvidia GPUs and Fujitsu Arm CPUs will power Japan's next $750M zetta-scale supercomputer — FugakuNEXT aims to revolutionize AI-driven science and global research](https://www.tomshardware.com/tech-industry/supercomputers/nvidia-gpus-and-fujitsu-arm-cpus-will-power-japans-next-usd750m-zetta-scale-supercomputer-fugakunext-aims-to-revolutionize-ai-driven-science-and-global-research) (Published: 2025-08-23)
 - [Analysts Have High Hopes for Nvidia Ahead of August 27. Should You Buy NVDA Stock Here?](https://biztoc.com/x/0f6414dd4982622b) (Published: 2025-08-23)
