@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-24 19:47:52**_
+_Last updated: **2025-08-24 19:58:15**_
 
+- [Nvidia CEO Jensen Huang: ‘Anybody Who Wants to Buy’ Taiwan Semiconductor Stock ‘is a Very Smart Person’](https://biztoc.com/x/8b64b219de5b2b20) (Published: 2025-08-23)
 - [Private Equity Is Headed for Your 401(k). The Industry Is Celebrating. Should You?](https://biztoc.com/x/49ecf0ec08c39101) (Published: 2025-08-23)
 - [lhammai-cli added to PyPI](https://pypi.org/project/lhammai-cli/) (Published: 2025-08-23)
 - [Carney Pushes Energy, Defense Deals in Europe in Pivot From US](https://biztoc.com/x/f5092c9688600e0c) (Published: 2025-08-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-24 19:47:52**_
 - [‘It’s Not Going to Slow Down’: The Tech Stock Everyone Is Watching This Week](https://gizmodo.com/nvidia-earnings-tech-drop-2000647269) (Published: 2025-08-23)
 - [Gerry Spence, renowned for courtroom victories and unique style, dead at 96](https://biztoc.com/x/391d6974bcc8f9ab) (Published: 2025-08-23)
 - [BOE’s Bailey Says UK Faces Challenge To Raise Potential Growth](https://biztoc.com/x/dbaa71ba7423c367) (Published: 2025-08-23)
-- [House CCP Committee Chair: Gov't Taking Cut of NVIDIA China Chip Sales Creates Incentive to Relax Controls to Hostile Nations](https://www.breitbart.com/clips/2025/08/23/house-ccp-committee-chair-govt-taking-cut-of-nvidia-china-chip-sales-creates-incentive-to-relax-controls-to-hostile-nations/) (Published: 2025-08-23)
