@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-24 02:56:45**_
+_Last updated: **2025-08-24 03:48:58**_
 
+- [polaris-cli added to PyPI](https://pypi.org/project/polaris-cli/) (Published: 2025-08-23)
 - [Wall Street gets the rally signals from Powell it was hoping for](https://www.moneycontrol.com/news/business/markets/wall-street-gets-the-rally-signals-from-powell-it-was-hoping-for-13481227.html) (Published: 2025-08-23)
 - [South Korea’s Lee Looks to Reassure Japan Ahead of Trump Summit](https://biztoc.com/x/2fe896361d11bbab) (Published: 2025-08-23)
 - [Judge blocks Trump from withholding funds from Los Angeles, other sanctuary cities](https://biztoc.com/x/6287251d04025644) (Published: 2025-08-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-24 02:56:45**_
 - [NVIDIA L40S for Omniverse: From OpenUSD Scenes to Physics-Aware World Models](https://www.storagereview.com/review/nvidia-l40s-for-omniverse-from-openusd-scenes-to-physics-aware-world-models) (Published: 2025-08-23)
 - [Wall St Week Ahead Investors zero in on Nvidia results as US tech stocks waver - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=178833180) (Published: 2025-08-23)
 - [Kudlow on Trump Intel agreement: ‘I am very, very uncomfortable ‘](https://thehill.com/policy/technology/5466937-kudlow-moore-criticize-trump-intel/) (Published: 2025-08-23)
-- [Opportunities from uncertainty: how traders should navigate periods of market volatility](https://www.retailbankerinternational.com/comment/how-traders-should-navigate-periods-of-market-volatility/) (Published: 2025-08-23)
