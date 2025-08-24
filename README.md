@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-23 23:52:34**_
+_Last updated: **2025-08-24 01:10:17**_
 
-- [Trump says Intel has agreed to give US government a 10% stake](https://www.irishtimes.com/world/us/2025/08/22/trump-says-intel-has-agreed-to-give-us-government-a-10-stake/) (Published: 2025-08-22)
-- [US to take 10% equity stake in Intel - Trump](https://www.rte.ie/news/business/2025/0822/1529779-us-intel-stake/) (Published: 2025-08-22)
-- [Samsung reportedly clears Nvidia's HBM4 checks as meeting between Jensen Huang and Lee Jae-Yong gains attention](https://www.digitimes.com/news/a20250821PD240/samsung-nvidia-hbm4-hbm-2025.html) (Published: 2025-08-22)
-- [Rebellions takes on Nvidia with Saudi expansion, Aramco partnership](https://www.digitimes.com/news/a20250821VL204/middle-east-nvidia-startup-ai-chip-saudi-arabia.html) (Published: 2025-08-22)
-- [Trump trumpets deal giving US a 10% stake in downtrodden Intel](https://www.livemint.com/companies/news/trump-trumpets-deal-giving-us-a-10-stake-in-downtrodden-intel-11755901766091.html) (Published: 2025-08-22)
-- [Apple trained a large language model to efficiently understand long-form video](https://9to5mac.com/2025/08/22/apple-trained-a-large-language-model-to-efficiently-understand-long-form-video/) (Published: 2025-08-22)
-- [Nvidia Halts H20 Chip Production Amid China Crackdown](https://finance.yahoo.com/news/nvidia-halts-h20-chip-production-221017863.html) (Published: 2025-08-22)
-- [Nvidia Confirms TSMC Will Build Six New Chips for Its Next-Gen AI Push](https://finance.yahoo.com/news/nvidia-confirms-tsmc-build-six-220232821.html) (Published: 2025-08-22)
-- [Trump Says US Will Snag $10 Billion Ownership Stake In Intel](https://dailycaller.com/2025/08/22/donald-trump-us-10-billion-ownership-stake-intel/) (Published: 2025-08-22)
+- [Why Analysts Say NVIDIA Remains the Best AI Play](https://finance.yahoo.com/news/why-analysts-nvidia-remains-best-010101372.html) (Published: 2025-08-23)
+- [jetson-cli 0.6.0](https://pypi.org/project/jetson-cli/0.6.0/) (Published: 2025-08-23)
+- [jetson-cli 0.5.0](https://pypi.org/project/jetson-cli/0.5.0/) (Published: 2025-08-23)
+- [Op-Ed: Trump administration, Intel, and Big Tech – OCD, or ongoing ‘nepotech’?](https://www.digitaljournal.com/tech-science/op-ed-trump-administration-intel-and-big-tech-ocd-or-ongoing-nepotech/article) (Published: 2025-08-23)
+- [Trump turns $11.1 bn in US govt funds into 10% stake in struggling Intel](https://www.thehindubusinessline.com/info-tech/trump-turns-111-bn-in-us-govt-funds-into-10-stake-in-struggling-intel/article69967332.ece) (Published: 2025-08-23)
+- [US to take 10% equity stake in Intel, in Trumps latest corporate move](https://www.livemint.com/companies/news/us-to-take-10-equity-stake-in-intel-in-trumps-latest-corporate-move-11755908060493.html) (Published: 2025-08-23)
+- [Noctua Blames GPU Supply Issues for Lack of Beige and Brown RTX 5090 "At the Moment"](https://www.techpowerup.com/340233/noctua-blames-gpu-supply-issues-for-lack-of-beige-and-brown-rtx-5090-at-the-moment) (Published: 2025-08-23)
+- [Some GNOME Files icons looks funny after Ubuntu 24.04.3 awakes from Suspend](https://askubuntu.com/questions/1554902/some-gnome-files-icons-looks-funny-after-ubuntu-24-04-3-awakes-from-suspend) (Published: 2025-08-23)
+- [Nvidia has a China problem — nobody knows how big it really is](https://biztoc.com/x/835e3f34d31e0c9a) (Published: 2025-08-23)
