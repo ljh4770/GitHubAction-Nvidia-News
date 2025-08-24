@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-24 20:41:29**_
+_Last updated: **2025-08-24 20:52:11**_
 
 - [Nvidia Release Massive AI-Ready Open European Language Dataset and Tools](https://hardware.slashdot.org/story/25/08/23/1731237/nvidia-release-massive-ai-ready-open-european-language-dataset-and-tools) (Published: 2025-08-23)
 - [Nvidia quietly unveiled its fastest mini PC ever, capable of topping 2070 TFLOPS - and if you squint enough, you might even think it looks like an RTX 5090](https://www.techradar.com/pro/nvidia-quietly-unveiled-its-fastest-mini-pc-ever-capable-of-topping-2070-tflops-and-if-you-squint-enough-you-might-even-think-it-looks-like-an-rtx-5090) (Published: 2025-08-23)
