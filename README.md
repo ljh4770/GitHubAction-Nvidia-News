@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-24 01:10:17**_
+_Last updated: **2025-08-24 02:56:45**_
 
-- [Why Analysts Say NVIDIA Remains the Best AI Play](https://finance.yahoo.com/news/why-analysts-nvidia-remains-best-010101372.html) (Published: 2025-08-23)
-- [jetson-cli 0.6.0](https://pypi.org/project/jetson-cli/0.6.0/) (Published: 2025-08-23)
-- [jetson-cli 0.5.0](https://pypi.org/project/jetson-cli/0.5.0/) (Published: 2025-08-23)
-- [Op-Ed: Trump administration, Intel, and Big Tech – OCD, or ongoing ‘nepotech’?](https://www.digitaljournal.com/tech-science/op-ed-trump-administration-intel-and-big-tech-ocd-or-ongoing-nepotech/article) (Published: 2025-08-23)
-- [Trump turns $11.1 bn in US govt funds into 10% stake in struggling Intel](https://www.thehindubusinessline.com/info-tech/trump-turns-111-bn-in-us-govt-funds-into-10-stake-in-struggling-intel/article69967332.ece) (Published: 2025-08-23)
-- [US to take 10% equity stake in Intel, in Trumps latest corporate move](https://www.livemint.com/companies/news/us-to-take-10-equity-stake-in-intel-in-trumps-latest-corporate-move-11755908060493.html) (Published: 2025-08-23)
-- [Noctua Blames GPU Supply Issues for Lack of Beige and Brown RTX 5090 "At the Moment"](https://www.techpowerup.com/340233/noctua-blames-gpu-supply-issues-for-lack-of-beige-and-brown-rtx-5090-at-the-moment) (Published: 2025-08-23)
-- [Some GNOME Files icons looks funny after Ubuntu 24.04.3 awakes from Suspend](https://askubuntu.com/questions/1554902/some-gnome-files-icons-looks-funny-after-ubuntu-24-04-3-awakes-from-suspend) (Published: 2025-08-23)
-- [Nvidia has a China problem — nobody knows how big it really is](https://biztoc.com/x/835e3f34d31e0c9a) (Published: 2025-08-23)
+- [Wall Street gets the rally signals from Powell it was hoping for](https://www.moneycontrol.com/news/business/markets/wall-street-gets-the-rally-signals-from-powell-it-was-hoping-for-13481227.html) (Published: 2025-08-23)
+- [South Korea’s Lee Looks to Reassure Japan Ahead of Trump Summit](https://biztoc.com/x/2fe896361d11bbab) (Published: 2025-08-23)
+- [Judge blocks Trump from withholding funds from Los Angeles, other sanctuary cities](https://biztoc.com/x/6287251d04025644) (Published: 2025-08-23)
+- [Calif. teens are ditching office jobs, and making $100K before they turn 21](https://biztoc.com/x/e45bdc48027eadb6) (Published: 2025-08-23)
+- [Deutsche Bank Reiterates Hold on NVIDIA With $155 Price Target](https://finance.yahoo.com/news/deutsche-bank-reiterates-hold-nvidia-015310839.html) (Published: 2025-08-23)
+- [US to take 10% equity stake in Intel, in Trump’s latest corporate move](https://indianexpress.com/article/business/companies/us-equity-stake-intel-donald-trump-10206032/) (Published: 2025-08-23)
+- [NVIDIA L40S for Omniverse: From OpenUSD Scenes to Physics-Aware World Models](https://www.storagereview.com/review/nvidia-l40s-for-omniverse-from-openusd-scenes-to-physics-aware-world-models) (Published: 2025-08-23)
+- [Wall St Week Ahead Investors zero in on Nvidia results as US tech stocks waver - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=178833180) (Published: 2025-08-23)
+- [Kudlow on Trump Intel agreement: ‘I am very, very uncomfortable ‘](https://thehill.com/policy/technology/5466937-kudlow-moore-criticize-trump-intel/) (Published: 2025-08-23)
+- [Opportunities from uncertainty: how traders should navigate periods of market volatility](https://www.retailbankerinternational.com/comment/how-traders-should-navigate-periods-of-market-volatility/) (Published: 2025-08-23)
