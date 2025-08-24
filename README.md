@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-24 05:45:44**_
+_Last updated: **2025-08-24 05:56:21**_
 
 - [Nvidia readies new China chip as Washington debates AI exports](https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-readies-new-china-chip-as-washington-debates-ai-exports/articleshow/123466478.cms) (Published: 2025-08-23)
 - [Sweden's Wallenberg companies to launch joint AI company](https://economictimes.indiatimes.com/tech/technology/swedens-wallenberg-companies-to-launch-joint-ai-company/articleshow/123466442.cms) (Published: 2025-08-23)
