@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-24 19:11:34**_
+_Last updated: **2025-08-24 19:25:14**_
 
 - [Carney Pushes Energy, Defense Deals in Europe in Pivot From US](https://biztoc.com/x/f5092c9688600e0c) (Published: 2025-08-23)
 - [Key Takeaways From the Fed’s Annual Jackson Hole Conference](https://biztoc.com/x/7faa34054e75c7f3) (Published: 2025-08-23)
