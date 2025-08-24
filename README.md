@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-24 19:25:14**_
+_Last updated: **2025-08-24 19:37:23**_
 
+- [lhammai-cli added to PyPI](https://pypi.org/project/lhammai-cli/) (Published: 2025-08-23)
 - [Carney Pushes Energy, Defense Deals in Europe in Pivot From US](https://biztoc.com/x/f5092c9688600e0c) (Published: 2025-08-23)
 - [Key Takeaways From the Fed’s Annual Jackson Hole Conference](https://biztoc.com/x/7faa34054e75c7f3) (Published: 2025-08-23)
 - [BOJ's Ueda expects tightening job market to push up wages](https://biztoc.com/x/8a35a9ea33c904ae) (Published: 2025-08-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-24 19:25:14**_
 - [BOE’s Bailey Says UK Faces Challenge To Raise Potential Growth](https://biztoc.com/x/dbaa71ba7423c367) (Published: 2025-08-23)
 - [House CCP Committee Chair: Gov't Taking Cut of NVIDIA China Chip Sales Creates Incentive to Relax Controls to Hostile Nations](https://www.breitbart.com/clips/2025/08/23/house-ccp-committee-chair-govt-taking-cut-of-nvidia-china-chip-sales-creates-incentive-to-relax-controls-to-hostile-nations/) (Published: 2025-08-23)
 - [Russian air defences down drone flying towards Moscow, regional airports closed](https://biztoc.com/x/00800ef7357147de) (Published: 2025-08-23)
-- [BOJ's Ueda projects tight labor market barring major shock](https://biztoc.com/x/cffbb31331a3ade9) (Published: 2025-08-23)
