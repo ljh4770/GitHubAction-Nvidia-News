@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-24 14:53:50**_
+_Last updated: **2025-08-24 15:14:27**_
 
+- [It’s official: The U.S. owns 9.9 percent of Intel](https://www.pcworld.com/article/2887093/its-official-the-u-s-owns-9-9-percent-of-intel.html) (Published: 2025-08-23)
 - [6 Things To Know About The Meta/Google Cloud AI Deal](https://www.forbes.com/sites/johnwerner/2025/08/23/6-things-to-know-about-the-metagoogle-cloud-ai-deal/) (Published: 2025-08-23)
 - [NVIDIA’s Stock Will Crater If Revenue Is Up 70%](https://biztoc.com/x/c8ce4a9915ff2204) (Published: 2025-08-23)
 - [Testing and Operations of Autonomous Semi Trucks](https://www.nextbigfuture.com/2025/08/testing-and-operations-of-autonomous-semi-trucks.html) (Published: 2025-08-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-24 14:53:50**_
 - [Elon Musk’s AI “Mothership” Could Launch the Next Wave of Superintelligence](https://www.globenewswire.com/news-release/2025/08/23/3138109/0/en/Elon-Musk-s-AI-Mothership-Could-Launch-the-Next-Wave-of-Superintelligence.html) (Published: 2025-08-23)
 - [The tale of two venture capital markets: Tech surges while traditional sectors lag](https://techpinions.com/the-tale-of-two-venture-capital-markets-tech-surges-while-traditional-sectors-lag/) (Published: 2025-08-23)
 - [Nvidia Stock: 5 Reasons I Bought More Ahead Of Earnings And So Should You](https://biztoc.com/x/9d5eea091d436f3b) (Published: 2025-08-23)
-- [NVIDIA expands its AI gaming tool to more GPUs — should you trust it in-game?](https://www.windowscentral.com/hardware/nvidia/nvidia-expands-its-ai-gaming-tool-to-more-gpus-should-you-trust-it-in-game) (Published: 2025-08-23)
