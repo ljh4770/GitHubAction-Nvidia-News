@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-25 11:56:12**_
+_Last updated: **2025-08-25 12:45:24**_
 
+- [Show HN: yolo-cls – C++ batch image classification CLI with ONNX Runtime](https://github.com/SavaLione/yolo-cls) (Published: 2025-08-24)
 - [Nvidia earnings set to test AI trade with stocks near record highs: What to watch this week](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_80900b94-aff1-439e-9140-084c5ba01a21) (Published: 2025-08-24)
 - [Failed Nuclear Power Vote Adds to Taiwan’s Energy Conundrum](https://financialpost.com/pmn/business-pmn/failed-nuclear-power-vote-adds-to-taiwans-energy-conundrum) (Published: 2025-08-24)
 - [‘Still, you’re paying for dinner’ Nvidia CEO shoots back, after TSMC CEO jokes about his billionaire status](https://www.tomshardware.com/tech-industry/semiconductors/still-youre-paying-for-dinner-nvidia-ceo-shoots-back-after-tsmc-ceo-jokes-about-his-billionaire-status) (Published: 2025-08-24)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-25 11:56:12**_
 - [Nvidia Q2 Preview: AI Bubble Is Popping](https://biztoc.com/x/e598031a7eb01b3f) (Published: 2025-08-24)
 - [The AI vibe shift is upon us](https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap) (Published: 2025-08-24)
 - [Wedbush Issues Positive Forecast for NVIDIA (NASDAQ:NVDA) Stock Price](https://www.etfdailynews.com/2025/08/24/wedbush-issues-positive-forecast-for-nvidia-nasdaqnvda-stock-price/) (Published: 2025-08-24)
-- [NVIDIA (NASDAQ:NVDA) Price Target Raised to $205.00](https://www.etfdailynews.com/2025/08/24/nvidia-nasdaqnvda-price-target-raised-to-205-00-2/) (Published: 2025-08-24)
