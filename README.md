@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-25 05:53:03**_
+_Last updated: **2025-08-25 06:23:40**_
 
+- [NHC says 40% chance of cyclone in the next 48 hours for system east of Windward Islands](https://biztoc.com/x/5ca32f430096d54f) (Published: 2025-08-24)
 - [What I learned about productivity this year](https://www.platformer.news/productivity-tools-ai-2025/) (Published: 2025-08-24)
 - [Lenovo LOQ: 15.6" FHD 144Hz, Ryzen 5 7235HS, RTX 4050, 12GB DDR5, 512GB SSD $599.99](https://slickdeals.net/f/18551905-lenovo-loq-15-6-fhd-144hz-ryzen-5-7235hs-rtx-4050-12gb-ddr5-512gb-ssd-599-99) (Published: 2025-08-24)
 - [Underowned Nvidia faces test with upcoming earnings](https://www.irishtimes.com/your-money/2025/08/24/under-owned-nvidia-faces-test-with-upcoming-earnings/) (Published: 2025-08-24)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-25 05:53:03**_
 - [No sound from monitor speakers when using dual monitors over DisplayPort (NVIDIA GPU 5080 )](https://askubuntu.com/questions/1554949/no-sound-from-monitor-speakers-when-using-dual-monitors-over-displayport-nvidia) (Published: 2025-08-24)
 - [The long, painful downfall of Intel](https://indianexpress.com/article/technology/tech-news-technology/the-long-painful-downfall-of-intel-10207917/) (Published: 2025-08-24)
 - [How Nvidia's chips became central to the U.S.-China trade war](https://economictimes.indiatimes.com/news/international/business/how-nvidias-chips-became-central-to-the-u-s-china-trade-war/articleshow/123480170.cms) (Published: 2025-08-24)
-- [The long, painful downfall of Intel](https://economictimes.indiatimes.com/news/international/business/the-long-painful-downfall-of-intel/articleshow/123480130.cms) (Published: 2025-08-24)
