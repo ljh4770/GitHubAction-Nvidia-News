@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-25 07:44:31**_
+_Last updated: **2025-08-25 07:54:56**_
 
+- [Las Vegas-bound Air Canada flight diverted to Chicago overnight due to ‘disruptive passenger’](https://biztoc.com/x/4029af66d0b66e4a) (Published: 2025-08-24)
 - [NVIDIA Corporation $NVDA Shares Sold by Pacer Advisors Inc.](https://www.etfdailynews.com/2025/08/24/nvidia-corporation-nvda-shares-sold-by-pacer-advisors-inc/) (Published: 2025-08-24)
 - [Private Management Group Inc. Trims Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/08/24/private-management-group-inc-trims-position-in-nvidia-corporation-nvda/) (Published: 2025-08-24)
 - [ANB Bank Has $1.82 Million Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/08/24/anb-bank-has-1-82-million-position-in-nvidia-corporation-nvda/) (Published: 2025-08-24)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-25 07:44:31**_
 - [Hedeker Wealth LLC Sells 7,849 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/08/24/hedeker-wealth-llc-sells-7849-shares-of-nvidia-corporation-nvda/) (Published: 2025-08-24)
 - [NVIDIA Corporation $NVDA is Baillie Gifford & Co.’s 6th Largest Position](https://www.etfdailynews.com/2025/08/24/nvidia-corporation-nvda-is-baillie-gifford-co-s-6th-largest-position/) (Published: 2025-08-24)
 - [NVIDIA Corporation $NVDA Shares Sold by Prudent Investors Network Inc.](https://www.etfdailynews.com/2025/08/24/nvidia-corporation-nvda-shares-sold-by-prudent-investors-network-inc/) (Published: 2025-08-24)
-- [Elefante Mark B Increases Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/08/24/elefante-mark-b-increases-stake-in-nvidia-corporation-nvda/) (Published: 2025-08-24)
