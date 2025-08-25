@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-25 05:23:42**_
+_Last updated: **2025-08-25 05:42:35**_
 
+- [Underowned Nvidia faces test with upcoming earnings](https://www.irishtimes.com/your-money/2025/08/24/under-owned-nvidia-faces-test-with-upcoming-earnings/) (Published: 2025-08-24)
 - [NVIDIA (NASDAQ:NVDA) Trading Up 1.7% After Analyst Upgrade](https://www.etfdailynews.com/2025/08/24/nvidia-nasdaqnvda-trading-up-1-7-after-analyst-upgrade/) (Published: 2025-08-24)
 - [J.W. Cole Advisors Boosts NVIDIA Corporation (NVDA) Stake by 73%](https://finance.yahoo.com/news/j-w-cole-advisors-boosts-051820846.html) (Published: 2025-08-24)
 - [PowerSpec G239 Gaming PC: i5-14400F, RTX 5060, 16GB DDR5-6000 RAM, 1TB SSD $869.99 (0 replies)](https://slickdeals.net/f/18551845-powerspec-g239-gaming-pc-i5-14400f-rtx-5060-16gb-ddr5-6000-ram-1tb-ssd-869-99) (Published: 2025-08-24)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-25 05:23:42**_
 - [The long, painful downfall of Intel](https://economictimes.indiatimes.com/news/international/business/the-long-painful-downfall-of-intel/articleshow/123480130.cms) (Published: 2025-08-24)
 - [hud-mcp-use-python-sdk added to PyPI](https://pypi.org/project/hud-mcp-use-python-sdk/) (Published: 2025-08-24)
 - [hud-mcp-use added to PyPI](https://pypi.org/project/hud-mcp-use/) (Published: 2025-08-24)
-- [Taiwanese laptop maker Asus’ subsidiary builds Nvidia-powered supercomputer](https://biztoc.com/x/49ea6e441f658cfe) (Published: 2025-08-24)
