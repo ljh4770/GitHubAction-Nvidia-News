@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-25 15:49:39**_
+_Last updated: **2025-08-25 15:59:49**_
 
 - [4 Palestinians shot dead by Israeli forces while seeking aid near Gaza City, witnesses say](https://biztoc.com/x/3ac537d843d44fa3) (Published: 2025-08-24)
 - [4 Palestinians shot dead by Israeli forces while seeking aid near Gaza City, witnesses say](https://biztoc.com/x/3ac537d843d44fa3) (Published: 2025-08-24)
