@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-25 10:47:31**_
+_Last updated: **2025-08-25 10:57:58**_
 
 - [Nvidia Q2 Preview: AI Bubble Is Popping](https://biztoc.com/x/e598031a7eb01b3f) (Published: 2025-08-24)
 - [The AI vibe shift is upon us](https://www.cnn.com/2025/08/22/business/ai-vibe-shift-nightcap) (Published: 2025-08-24)
