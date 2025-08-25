@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-25 14:22:42**_
+_Last updated: **2025-08-25 14:42:17**_
 
 - [What To Expect in Markets This Week: Nvidia Earnings, a Key Measure of Inflation, and More - Investopedia](https://slashdot.org/firehose.pl?op=view&amp;id=178847942) (Published: 2025-08-24)
 - [Intel Deal Splits Experts, Beijing Pressures Alibaba And ByteDance On Nvidia, Zuckerberg Reshuffles AI Again —Tech This Week](https://biztoc.com/x/4256ed8007d479ac) (Published: 2025-08-24)
