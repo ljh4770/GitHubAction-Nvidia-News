@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-25 18:23:37**_
+_Last updated: **2025-08-25 18:48:38**_
 
 - [Nvidia Rubin architecture taped out with six chips at TSMC, marks major platform overhaul](https://www.notebookcheck.net/Nvidia-Rubin-architecture-taped-out-with-six-chips-at-TSMC-marks-major-platform-overhaul.1094897.0.html) (Published: 2025-08-24)
 - [TechCrunch Mobility: Waymo’s Big Apple score and Nvidia backs Nuro](https://biztoc.com/x/d0da24587b034627) (Published: 2025-08-24)
