@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-26 06:19:07**_
+_Last updated: **2025-08-26 06:48:14**_
 
 - [NVIDIA Dives Into Technical Details of Its Blackwell GB200 & GB300 NVL Racks, Trays & MGX’s Open Compute Commitments](https://wccftech.com/nvidia-technical-details-blackwell-gb200-gb300-nvl-racks-trays-mgxs-open-compute/) (Published: 2025-08-25)
 - [Meta’s Catalina Pod AI System Couples NVIDIA’s Blackwell GB200 NVL72 With Open Rack v3, And Liquid Cooling](https://wccftech.com/meta-catalina-pod-couples-nvidia-blackwell-gb200-nvl72-open-rack-v3-liquid-cooling/) (Published: 2025-08-25)
