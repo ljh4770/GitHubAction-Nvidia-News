@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-26 13:54:48**_
+_Last updated: **2025-08-26 14:17:31**_
 
-- [Trump’s Intel Deal: Knowing the Price of Everything, and the Value of Nothing](https://www.nakedcapitalism.com/2025/08/trumps-intel-deal-the-price-of-everything-the-value-of-nothing.html) (Published: 2025-08-25)
-- [The Network Is the Accelerator: Inside the Technologies Powering AI Factories](https://www.storagereview.com/news/the-network-is-the-accelerator-inside-the-technologies-powering-ai-factories) (Published: 2025-08-25)
-- [Nvidia Thrown Out of China](https://biztoc.com/x/3e056cb5680cc4e5) (Published: 2025-08-25)
-- [Stock Market Live August 25: Investors Hold Breath Awaiting Nvidia Earnings, S&P 500 (VOO) Edges Lower](https://biztoc.com/x/430765b25a895fe0) (Published: 2025-08-25)
-- [Stock market today: Dow, S&P 500, Nasdaq slip after record-setting surge as Nvidia earnings loom](https://biztoc.com/x/6b47f9de7f0391a8) (Published: 2025-08-25)
-- [The Zacks Analyst Blog Highlights NVIDIA, Alphabet, Meta Platforms, Amazon.com and Microsoft](https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-133600625.html) (Published: 2025-08-25)
-- [Burke Wealth Management’s Views on Nvidia Corporation (NVDA)](https://biztoc.com/x/85a0a41a374fe7ff) (Published: 2025-08-25)
-- [U.S. could take stakes in more companies, Trump adviser says](https://www.nbcnews.com/business/business-news/us-stakes-companies-trump-sovereign-wealth-fund-rcna226946) (Published: 2025-08-25)
-- [Supermicro, Lambda build gigawatt-scale AI factories](https://biztoc.com/x/85c2e7f45724fb71) (Published: 2025-08-25)
+- [NVIDIA to Develop Japan’s Most Powerful AI Supercomputer, ‘Fugaku NEXT,’ Bringing Up to 100x Generational Increase In Application Performance](https://wccftech.com/nvidia-to-develop-japan-most-powerful-ai-supercomputer-the-fugaku-next/) (Published: 2025-08-25)
+- [PDD Stock Swings After the Temu Parent’s Earnings Smashed Expectations. Here’s Why](https://biztoc.com/x/c01a3d010c577ed6) (Published: 2025-08-25)
+- [Keurig Dr Pepper Stock Drops. It Is Buying JDE Peet’s for $18B to Create a New Public Coffee Titan](https://biztoc.com/x/5b71f37f1967ebce) (Published: 2025-08-25)
+- [How the U.S. Fiscal Year-End on September 30 Will Shape Stock & Futures Markets](https://biztoc.com/x/363c3b62e64c750c) (Published: 2025-08-25)
+- [What Burning Man can teach you about yourself and the world, even if you never go](https://biztoc.com/x/2b0dae01ed222b9f) (Published: 2025-08-25)
+- [Strategy Buys 3,000 More Bitcoins. Why the Stock Is Falling](https://biztoc.com/x/79b0b126cb7e9715) (Published: 2025-08-25)
+- [Don't Fight the Fed: Which Stock Market Sectors Will Lead a September Rate Cut Rally?](https://biztoc.com/x/966652686fe7e5df) (Published: 2025-08-25)
+- [Currency spikes and Trump tariffs take bite out of European results](https://biztoc.com/x/b4b38e467a69d02d) (Published: 2025-08-25)
+- [Sole survivor of Australian mushroom poisoning grieves loss of wife and friends](https://biztoc.com/x/01879b833e615d2d) (Published: 2025-08-25)
+- [Pinault family explores sale of Puma, Bloomberg News reports](https://biztoc.com/x/bea2e7e83c74617f) (Published: 2025-08-25)
