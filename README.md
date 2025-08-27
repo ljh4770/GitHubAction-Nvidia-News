@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-27 16:20:07**_
+_Last updated: **2025-08-27 16:42:50**_
 
+- [AMD just revealed that its current RDNA 4 GPUs have a clever 'modular' architecture—here's hoping it signals a broader range of next-gen graphics cards](https://www.pcgamer.com/hardware/graphics-cards/amd-just-revealed-that-its-current-rdna-4-gpus-have-a-clever-modular-architecture-heres-hoping-it-signals-a-broader-range-of-next-gen-graphics-cards/) (Published: 2025-08-26)
+- [Framework Laptop 16 gets new RTX 5070, Ryzen 370 options](https://www.pcworld.com/article/2889637/framework-laptop-16-gets-new-rtx-5070-ryzen-370-options.html) (Published: 2025-08-26)
+- [Framework's modular gaming laptop finally gets an Nvidia GPU upgrade kit, and the whole thing is starting to make sense](https://www.gamesradar.com/hardware/laptops/frameworks-modular-gaming-laptop-finally-gets-an-nvidia-gpu-upgrade-kit-and-the-whole-thing-is-starting-to-make-sense/) (Published: 2025-08-26)
+- ['It sickens me': Vanity Fair staffers threaten walk-out over possible Melania Trump cover](https://www.rawstory.com/melania-vanity-fair/) (Published: 2025-08-26)
+- [Gears of War: Reloaded becomes first GoW game released on Steam ahead of E-Day](https://www.notebookcheck.net/Gears-of-War-Reloaded-becomes-first-GoW-game-released-on-Steam-ahead-of-E-Day.1097342.0.html) (Published: 2025-08-26)
+- [Broadcom Drives Next-Gen Private Cloud Innovation With Nvidia](https://biztoc.com/x/7f6f05922d0fd051) (Published: 2025-08-26)
+- [Metal Gear Solid Delta: Snake Eater](https://uk.pcmag.com/sony-playstation-games/159743/metal-gear-solid-delta-snake-eater) (Published: 2025-08-26)
+- [Metal Gear Solid Delta: Snake Eater](https://me.pcmag.com/en/sony-playstation-games/31879/metal-gear-solid-delta-snake-eater) (Published: 2025-08-26)
+- [IREN (IREN) Surges on Transition to AI Service](https://finance.yahoo.com/news/iren-iren-surges-transition-ai-162140841.html) (Published: 2025-08-26)
 - [Now that Trump acquired 10% of Intel, who's next?](https://www.businessinsider.com/intel-donald-trump-buy-stake-us-other-companies-2025-8) (Published: 2025-08-26)
-- [Stock Market Today: Dow Wavers As Trump Cans Fed Governor; This Wireless Provider Soars, Nvidia Rises (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=178881332) (Published: 2025-08-26)
-- [Framework is now selling the first gaming laptop that lets you easily upgrade its GPU — with Nvidia’s blessing - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=178881316) (Published: 2025-08-26)
-- [Broadcom Drives Next-Gen Private Cloud Innovation With NVIDIA Blackwell GPUs](https://biztoc.com/x/034d4edc906f2424) (Published: 2025-08-26)
-- [Intel Worked With Chinese Firms Sanctioned For Enabling Human Rights Abuses](https://www.forbes.com/sites/emilybaker-white/2025/08/26/intel-worked-with-chinese-firms-sanctioned-for-enabling-human-rights-abuses/) (Published: 2025-08-26)
-- [iBUYPOWER Slate Gaming PC Desktop - Intel Core i5 14400F, NVIDIA GeForce RTX 5070 12GB, 16GB DDR5 RGB RAM, 1TB NVMe SSD - SBI5N5701 $1099 (1 replies)](https://slickdeals.net/f/18557542-ibuypower-slate-gaming-pc-desktop-intel-core-i5-14400f-nvidia-geforce-rtx-5070-12gb-16gb-ddr5-rgb-ram-1tb-nvme-ssd-sbi5n5701-1099) (Published: 2025-08-26)
-- [Nvidia’s new ‘robot brain’ is now on sale](https://biztoc.com/x/ed821baf973b7ab5) (Published: 2025-08-26)
-- [Generative AI in Energy Market Report 2025 | A $2.8 Billion Industry by 2029 | Rising Solar Adoption Boosts Gen AI Opportunities in the Energy Industry](https://www.globenewswire.com/news-release/2025/08/26/3139493/28124/en/Generative-AI-in-Energy-Market-Report-2025-A-2-8-Billion-Industry-by-2029-Rising-Solar-Adoption-Boosts-Gen-AI-Opportunities-in-the-Energy-Industry.html) (Published: 2025-08-26)
-- [Wedbush Says Nvidia Is Only in the Second Inning. What Does the Data Say About Buying NVDA Stock Here?](https://biztoc.com/x/6d933b7f8bda2448) (Published: 2025-08-26)
