@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-27 15:53:59**_
+_Last updated: **2025-08-27 16:20:07**_
 
-- [Stock Market Today: Dow Wavers As Trump Cans Fed Governor; This Wireless Provider Soars, Nvidia Rises (Live Coverage)](https://biztoc.com/x/484cedbafa5a03ec) (Published: 2025-08-26)
-- [Nvidia Jetson AGX Thor Dev Kit Raises The Robotics Bar With Blackwell](https://www.forbes.com/sites/davealtavilla/2025/08/26/nvidia-jetson-agx-thor-dev-kit-raises-the-robotics-bar-with-blackwell/) (Published: 2025-08-26)
-- [The Quantum Shift Is Here: A Survival Guide for the New Era of Software](https://devops.com/the-quantum-shift-is-here-a-survival-guide-for-the-new-era-of-software/) (Published: 2025-08-26)
-- [Nvidia set for $260 billion price swing after earnings, options indicate](https://economictimes.indiatimes.com/markets/stocks/news/nvidia-set-for-260-billion-price-swing-after-earnings-options-indicate/articleshow/123529273.cms) (Published: 2025-08-26)
-- [Framework Laptop 16 Upgrade Announced With Ryzen AI 300 Series, GeForce RTX 5070](https://www.phoronix.com/news/Framework-16-2025) (Published: 2025-08-26)
-- [Nvidia Could Raise Its Full-Year Outlook on August 27. Should You Buy NVDA Stock First?](https://biztoc.com/x/a3c497639b0a535b) (Published: 2025-08-26)
-- [Billionaire Mark Cuban says that ‘companies don’t understand’ how to implement AI right now—and that’s an opportunity for Gen Z coming out of school](https://fortune.com/2025/08/26/billionaire-mark-cuban-gen-z-job-opportunity-teach-ai-implementation-companies-struggles-to-understand-future-of-work-former-shark-tank-star/) (Published: 2025-08-26)
-- [Amazon Deals of the Day: Enjoy This Asus Gaming Laptop at a Record-Low Price Ahead of Labor Day](https://www.cnet.com/deals/amazon-deals-of-the-day-august-26-2025/) (Published: 2025-08-26)
-- [CRYPTO FALLS, HYPE LEADS L1S, NVIDIA RESULTS TODAY](https://decrypt.co/videos/interviews/vuaTtNr4/crypto-falls-hype-leads-l1s-nvidia-results-today) (Published: 2025-08-26)
-- [Black screen while resuming the Victus laptop running 24.04.3 LTS](https://askubuntu.com/questions/1555069/black-screen-while-resuming-the-victus-laptop-running-24-04-3-lts) (Published: 2025-08-26)
+- [Now that Trump acquired 10% of Intel, who's next?](https://www.businessinsider.com/intel-donald-trump-buy-stake-us-other-companies-2025-8) (Published: 2025-08-26)
+- [Stock Market Today: Dow Wavers As Trump Cans Fed Governor; This Wireless Provider Soars, Nvidia Rises (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=178881332) (Published: 2025-08-26)
+- [Framework is now selling the first gaming laptop that lets you easily upgrade its GPU — with Nvidia’s blessing - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=178881316) (Published: 2025-08-26)
+- [Broadcom Drives Next-Gen Private Cloud Innovation With NVIDIA Blackwell GPUs](https://biztoc.com/x/034d4edc906f2424) (Published: 2025-08-26)
+- [Intel Worked With Chinese Firms Sanctioned For Enabling Human Rights Abuses](https://www.forbes.com/sites/emilybaker-white/2025/08/26/intel-worked-with-chinese-firms-sanctioned-for-enabling-human-rights-abuses/) (Published: 2025-08-26)
+- [iBUYPOWER Slate Gaming PC Desktop - Intel Core i5 14400F, NVIDIA GeForce RTX 5070 12GB, 16GB DDR5 RGB RAM, 1TB NVMe SSD - SBI5N5701 $1099 (1 replies)](https://slickdeals.net/f/18557542-ibuypower-slate-gaming-pc-desktop-intel-core-i5-14400f-nvidia-geforce-rtx-5070-12gb-16gb-ddr5-rgb-ram-1tb-nvme-ssd-sbi5n5701-1099) (Published: 2025-08-26)
+- [Nvidia’s new ‘robot brain’ is now on sale](https://biztoc.com/x/ed821baf973b7ab5) (Published: 2025-08-26)
+- [Generative AI in Energy Market Report 2025 | A $2.8 Billion Industry by 2029 | Rising Solar Adoption Boosts Gen AI Opportunities in the Energy Industry](https://www.globenewswire.com/news-release/2025/08/26/3139493/28124/en/Generative-AI-in-Energy-Market-Report-2025-A-2-8-Billion-Industry-by-2029-Rising-Solar-Adoption-Boosts-Gen-AI-Opportunities-in-the-Energy-Industry.html) (Published: 2025-08-26)
+- [Wedbush Says Nvidia Is Only in the Second Inning. What Does the Data Say About Buying NVDA Stock Here?](https://biztoc.com/x/6d933b7f8bda2448) (Published: 2025-08-26)
