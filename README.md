@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-27 15:00:53**_
+_Last updated: **2025-08-27 15:28:25**_
 
-- [How research universities benefit Nvidia and vice versa](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7b836ee3-46e8-4b5e-a7a2-448e54567361) (Published: 2025-08-26)
-- [VMware customers say bye-bye Broadcom and vote for Nutanix](https://www.theregister.com/2025/08/26/vmware_customers_say_byebye/) (Published: 2025-08-26)
-- [Redefining Enterprise AI: Closing the Infrastructure Gap](https://blogs.cisco.com/datacenter/redefining-enterprise-ai-closing-the-infrastructure-gap) (Published: 2025-08-26)
-- [(@IT, 8/27) 篁菴遵サ㏍⒢ｃ惹純2腮㍼ょウ/sec ...](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2025/08.html#20250827__claude) (Published: 2025-08-26)
-- [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (Published: 2025-08-26)
-- [Billionaire Stanley Druckenmiller Just Increased Duquesne's Stake in This Monster Artificial Intelligence (AI) Semiconductor Stock (Hint: It's Not Nvidia)](https://biztoc.com/x/53edaab4b17b3833) (Published: 2025-08-26)
-- ['AI-driven demand will remain robust': Wall Street is bullish on chip spending ahead of Nvidia earnings](https://www.businessinsider.com/nvidia-stock-price-nvda-earnings-q2-preview-hyperscaler-chip-spending-2025-8) (Published: 2025-08-26)
-- [Watch out, Nvidia: AMD's FSR 4 tech offers a big leap for PC games – but there's a catch](https://www.techradar.com/computing/gpu/watch-out-nvidia-amds-fsr-4-tech-offers-a-big-leap-for-pc-games-but-theres-a-catch) (Published: 2025-08-26)
-- [NVIDIA at Hot Chips 2025 Pushes Blackwell to Power Neural Rendering](https://www.techpowerup.com/340338/nvidia-at-hot-chips-2025-pushes-blackwell-to-power-neural-rendering) (Published: 2025-08-26)
-- [US could seek piece of defense companies, Commerce chief says](https://economictimes.indiatimes.com/news/defence/us-could-seek-piece-of-defense-companies-commerce-chief-says/articleshow/123528410.cms) (Published: 2025-08-26)
+- [Amazon Deals of the Day: Enjoy This Asus Gaming Laptop at a Record-Low Price Ahead of Labor Day](https://www.cnet.com/deals/amazon-deals-of-the-day-august-26-2025/) (Published: 2025-08-26)
+- [CRYPTO FALLS, HYPE LEADS L1S, NVIDIA RESULTS TODAY](https://decrypt.co/videos/interviews/vuaTtNr4/crypto-falls-hype-leads-l1s-nvidia-results-today) (Published: 2025-08-26)
+- [Black screen while resuming the Victus laptop running 24.04.3 LTS](https://askubuntu.com/questions/1555069/black-screen-while-resuming-the-victus-laptop-running-24-04-3-lts) (Published: 2025-08-26)
+- [Nvidia's Epic Stock Run Hits A Wall—And $150 Is Suddenly In Focus](https://biztoc.com/x/98704ea36ed16064) (Published: 2025-08-26)
+- [U.S. stock market today: Dow, S&P 500, Nasdaq show caution — is a crisis brewing? Top stock to watch now](https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-today-dow-sp-500-nasdaq-show-caution-is-a-crisis-brewing-top-stock-to-watch-now/articleshow/123528521.cms) (Published: 2025-08-26)
+- [Framework’s Most-Repairable Gaming Laptop May Be the Only One You’ll Ever Need](https://gizmodo.com/frameworks-most-repairable-gaming-laptop-may-be-the-only-one-youll-ever-need-2000647616) (Published: 2025-08-26)
+- [NVIDIA Dissects Its GB10 Superchip For DGX AI PCs: 3nm With 20 ARM v9.2 CPU Cores, 1000 TOPS NVFP4 Blackwell GPU, LPDDR5x-9400 Memory Support, 140W TDP](https://wccftech.com/nvidia-gb10-superchip-soc-3nm-20-arm-v9-2-cpu-cores-nvfp4-blackwell-gpu-lpddr5x-9400-memory-140w-tdp/) (Published: 2025-08-26)
+- [Bye-bye barrel jack: Framework brings 240W USB-C charging to laptops](https://www.theverge.com/news/765542/framework-240w-usb-c-pd-charger-first-framework-16) (Published: 2025-08-26)
+- [Framework's promise of an upgradeable gaming laptop has finally been made real as Nvidia steps into the void left by AMD](https://www.pcgamer.com/hardware/gaming-laptops/frameworks-promise-of-an-upgradeable-gaming-laptop-has-finally-been-made-real-as-nvidia-steps-into-the-void-left-by-amd/) (Published: 2025-08-26)
