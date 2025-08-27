@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-27 07:29:39**_
+_Last updated: **2025-08-27 07:41:30**_
 
+- [Technology Stocks Worth Watching – August 23rd](https://www.etfdailynews.com/2025/08/26/technology-stocks-worth-watching-august-23rd/) (Published: 2025-08-26)
+- [Metaverse Stocks To Research – August 23rd](https://www.etfdailynews.com/2025/08/26/metaverse-stocks-to-research-august-23rd/) (Published: 2025-08-26)
+- [Top Infrastructure Stocks To Keep An Eye On – August 23rd](https://www.etfdailynews.com/2025/08/26/top-infrastructure-stocks-to-keep-an-eye-on-august-23rd/) (Published: 2025-08-26)
 - [Nvidia launches Jetson AGX Thor to accelerate robotics and physical AI adoption](https://www.digitimes.com/news/a20250826VL209/nvidia-robotics-production-logistics-software.html) (Published: 2025-08-26)
 - [Automotive Stocks To Research – August 23rd](https://www.etfdailynews.com/2025/08/26/automotive-stocks-to-research-august-23rd/) (Published: 2025-08-26)
 - [Wedbush Comments on NVIDIA’s Q2 Earnings (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/08/26/wedbush-comments-on-nvidias-q2-earnings-nasdaqnvda/) (Published: 2025-08-26)
@@ -8,6 +11,3 @@ _Last updated: **2025-08-27 07:29:39**_
 - [Helldivers II](https://www.giantbomb.com/helldivers-ii/3030-89235/) (Published: 2025-08-26)
 - [Gears of War](https://www.giantbomb.com/gears-of-war/3030-12231/) (Published: 2025-08-26)
 - [Technology Stocks To Research – August 24th](https://www.etfdailynews.com/2025/08/26/technology-stocks-to-research-august-24th/) (Published: 2025-08-26)
-- [CNBC Daily Open: The White House might need a rebranding exercise in the corporate world](https://www.cnbc.com/2025/08/26/cnbc-daily-open-a-rebranding-exercise-is-needed-for-the-white-house.html) (Published: 2025-08-26)
-- [Nvidia unveils photonics switches to scale AI networks with millions of GPUs](https://www.notebookcheck.net/Nvidia-unveils-photonics-switches-to-scale-AI-networks-with-millions-of-GPUs.1096181.0.html) (Published: 2025-08-26)
-- [China reportedly enforces blanket halt on Nvidia H20, leaving AI revenue in doubt](https://www.digitimes.com/news/a20250826PD228/nvidia-ai-chip-revenue-beijing-ban.html) (Published: 2025-08-26)
