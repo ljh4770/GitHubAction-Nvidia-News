@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-27 01:23:40**_
+_Last updated: **2025-08-27 02:46:28**_
 
-- [CNBC Daily Open: U.S. wants equity in private businesses — staking its reputation](https://www.cnbc.com/2025/08/26/cnbc-daily-open-us-wants-equity-in-businesses-staking-its-reputation.html) (Published: 2025-08-26)
-- [Trump wants more deals like Intel's, worrying business community](https://economictimes.indiatimes.com/news/international/business/trump-wants-more-deals-like-intels-worrying-business-community/articleshow/123513784.cms) (Published: 2025-08-26)
-- [Asian Stocks To Slip As Inflation Clouds Fed Cuts: Markets Wrap](https://www.ndtvprofit.com/markets/asian-stocks-to-slip-as-inflation-clouds-fed-cuts-markets-wrap) (Published: 2025-08-26)
-- [Asian stocks to slip as inflation clouds Fed cuts](https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-to-slip-as-inflation-clouds-fed-cuts/articleshow/123513626.cms) (Published: 2025-08-26)
-- [TPG beats Advent to emerge frontrunner for Tessolve stake; to invest $140–150 million](https://economictimes.indiatimes.com/industry/cons-products/electronics/tpg-in-advanced-talks-to-invest-140150-million-in-hero-electronix-backed-tessolve/articleshow/123513559.cms) (Published: 2025-08-26)
-- [TPG beats Advent to emerge frontrunner for Tessolve stake; to invest $140–150 million](https://economictimes.indiatimes.com/industry/cons-products/electronics/tpg-in-advanced-talks-to-invest-140150-million-in-hero-electronix-backed-tessolve/articleshow/123510954.cms) (Published: 2025-08-26)
-- [Nvidia Unveils High-Tech ‘Brain’ for Humanoid Robots and Self-Driving Cars](https://gizmodo.com/nvidia-unveils-high-tech-brain-for-humanoid-robots-and-self-driving-cars-2000647946) (Published: 2025-08-26)
-- [NVIDIA(GPU-0): Failed to acquire modesetting permission](https://www.linux.org.ru/forum/desktop/18059871) (Published: 2025-08-25)
-- [Forza Horizon 6 Rumor Tips Imminent Reveal at Tokyo Game Show](https://www.techpowerup.com/340310/forza-horizon-6-rumor-tips-imminent-reveal-at-tokyo-game-show) (Published: 2025-08-25)
-- [Asus ROG Strix Scar 16 (G635LW)](https://me.pcmag.com/en/laptops/31865/asus-rog-strix-scar-16-g635lw) (Published: 2025-08-25)
+- [Jensen Huang Wants To Know If CC Wei Is 'Still Paying For Dinner' As Nvidia And TSMC CEO's Discuss High-Stakes China-Specific AI Chips](https://biztoc.com/x/070e4e7433e98b19) (Published: 2025-08-26)
+- [Asian shares decline following Wall Street's dip](https://finance.yahoo.com/news/asian-shares-decline-following-wall-024154262.html) (Published: 2025-08-26)
+- [Japan’s niche chip gear makers left out of Nvidia boom, Marumae CEO says](https://biztoc.com/x/db8a775094c941af) (Published: 2025-08-26)
+- [Japan’s niche chip gear makers left out of Nvidia boom, one CEO says](https://biztoc.com/x/c9ad83a6022687e1) (Published: 2025-08-26)
+- [Japan’s niche chip gear makers left out of Nvidia boom, one CEO says](https://www.japantimes.co.jp/business/2025/08/26/companies/japan-chip-gear-maker-ceo-interview/) (Published: 2025-08-26)
+- [New CachyOS Release Adds Quality-Of-Life Features and Enables FSR 4 for RDNA 3 GPUs](https://www.techpowerup.com/340309/new-cachyos-release-adds-quality-of-life-features-and-enables-fsr-4-for-rdna-3-gpus) (Published: 2025-08-26)
+- [New CachyOS Release Adds Quality-Of-Life Features and Enables FSR4 for RDNA 3 GPUs](https://www.techpowerup.com/340309/new-cachyos-release-adds-quality-of-life-features-and-enables-fsr4-for-rdna-3-gpus) (Published: 2025-08-26)
+- [Wall Street ends down as traders focus on Nvidia, Fed after last week's rally](https://economictimes.indiatimes.com/markets/stocks/news/wall-street-ends-down-as-traders-focus-on-nvidia-fed-after-last-weeks-rally/articleshow/123514304.cms) (Published: 2025-08-26)
+- [Nvidia, Tilray, Offerpad, Interactive Brokers And Keurig Dr Pepper: Why These 5 Stocks Are On Investors' Radars Today](https://biztoc.com/x/ac5fa10acce29d07) (Published: 2025-08-26)
