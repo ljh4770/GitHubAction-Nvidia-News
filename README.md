@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-27 18:26:05**_
+_Last updated: **2025-08-27 18:46:55**_
 
+- [Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops](https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub) (Published: 2025-08-26)
+- [Latest Versions Of DLSS And Streamline SDK Released: Some Bug Fixes And Stability Improvements Introduced](https://wccftech.com/latest-versions-of-dlss-and-streamline-sdk-released-some-bug-fixes-and-stability-improvements-introduced/) (Published: 2025-08-26)
+- [VCF And Private AI Take Center Stage At VMware Explore 2025](https://www.forbes.com/sites/patrickmoorhead/2025/08/26/vcf-and-private-ai-take-center-stage-at-vmware-explore-2025/) (Published: 2025-08-26)
+- [How to Scale Your LangGraph Agents in Production From A Single User to 1,000 Coworkers](https://developer.nvidia.com/blog/how-to-scale-your-langgraph-agents-in-production-from-a-single-user-to-1000-coworkers/) (Published: 2025-08-26)
+- [Our favorite LG OLED TV is almost 50% off on Amazon](https://www.zdnet.com/home-and-office/home-entertainment/our-favorite-lg-oled-tv-is-almost-50-off-on-amazon/) (Published: 2025-08-26)
+- [Wall Street Reacts as Federal Reserve Holds Rates to Continue Cautious Outlook (Dmytro Spilka)](https://www.finextra.com/blogposting/29219/wall-street-reacts-as-federal-reserve-holds-rates-to-continue-cautious-outlook) (Published: 2025-08-26)
 - [What a chipped intel can tell us](https://economictimes.indiatimes.com/opinion/et-commentary/what-a-chipped-intel-can-tell-us/articleshow/123532374.cms) (Published: 2025-08-26)
 - [How Overworked CFOs Can Focus On What’s Most Important](https://www.forbes.com/sites/cfo/2025/08/26/how-overworked-cfos-can-focus-on-whats-most-important/) (Published: 2025-08-26)
 - [Nvidia DRIVE AGX Thor kit advances autonomous vehicle development](https://www.just-auto.com/news/nvidia-drive-agx-thor-kit-advances-autonomous-vehicle-development/) (Published: 2025-08-26)
 - [NVIDIA’s Spectrum-X Ethernet Photonics Debuts as the World’s First 200G Co-Packaged Optics, Supercharging the Future of AI](https://wccftech.com/nvidia-spectrum-x-ethernet-photonics-debuts-as-the-world-first-200g-co-packaged-optics/) (Published: 2025-08-26)
-- [Framework 16: Modular laptop gets even more customizable with new CPU and GPU options](https://www.notebookcheck.net/Framework-16-Modular-laptop-gets-even-more-customizable-with-new-CPU-and-GPU-options.1097343.0.html) (Published: 2025-08-26)
-- [S&P 500 index investors have been rewarded so far in 2025. Why experts say it may be time to diversify](https://www.cnbc.com/2025/08/26/sp-500-index-diversify.html) (Published: 2025-08-26)
-- [Wall Street is more focused on Nvidia than on threat posed to Fed independence](https://biztoc.com/x/4a41710c14e0847d) (Published: 2025-08-26)
-- [After Months of Calm, Nvidia Earnings Could Spark a Big Stock Market Move](https://www.investopedia.com/after-months-of-calm-nvidia-earnings-could-spark-a-big-stock-market-move-11797843) (Published: 2025-08-26)
-- [Framework adds Ryzen AI 300 and NVIDIA RTX 5070 options to its 16 inch modular laptop](https://liliputing.com/framework-adds-ryzen-ai-300-and-nvidia-rtx-5070-options-to-its-16-inch-modular-laptop/) (Published: 2025-08-26)
-- [LG just released a 49-inch 5K monitor but fails to include any Thunderbolt ports - and I just can't understand why](https://www.techradar.com/pro/lg-just-released-a-49-inch-5k-monitor-but-fails-to-include-any-thunderbolt-ports-and-i-just-cant-understand-why) (Published: 2025-08-26)
