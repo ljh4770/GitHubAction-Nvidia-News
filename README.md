@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-27 05:20:59**_
+_Last updated: **2025-08-27 05:37:55**_
 
 - [New CachyOS Release Adds Quality-Of-Life Features and Enables FSR 4 for RDNA 3 GPUs](https://www.madshrimps.be/news/new-cachyos-release-adds-quality-of-life-features-and-enables-fsr-4-for-rdna-3-gpus/) (Published: 2025-08-26)
 - [NVIDIA releases the next generation of its cutting-edge ‘robot brain’](https://www.madshrimps.be/news/nvidia-releases-the-next-generation-of-its-cutting-edge-robot-brain/) (Published: 2025-08-26)
