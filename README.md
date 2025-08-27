@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-27 23:40:24**_
+_Last updated: **2025-08-27 23:50:53**_
 
+- [Asia-Pacific markets set to open higher following Wall Street gains overnight](https://www.cnbc.com/2025/08/27/asia-pacific-markets-live-india-tariffs-nifty-50-nikkei-225.html) (Published: 2025-08-26)
+- [The Rogue Prince of Persia review](https://www.pcgamer.com/games/roguelike/the-rogue-prince-of-persia-review/) (Published: 2025-08-26)
 - [Stock market today: Dow, S&P 500, Nasdaq futures in holding pattern with Nvidia earnings on deck](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-in-holding-pattern-with-nvidia-earnings-on-deck-233419974.html) (Published: 2025-08-26)
 - [Stock market today: Dow, S&P 500, Nasdaq futures hold steady with Nvidia earnings on deck](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-hold-steady-with-nvidia-earnings-on-deck-233419515.html) (Published: 2025-08-26)
 - [nvidia-dali-nightly-cuda130 1.52.0.dev20250826](https://pypi.org/project/nvidia-dali-nightly-cuda130/1.52.0.dev20250826/) (Published: 2025-08-26)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-27 23:40:24**_
 - [Asian Stocks Set to Rebound Ahead of Nvidia Result: Markets Wrap](https://biztoc.com/x/0706c9b8ed5140d5) (Published: 2025-08-26)
 - [Trump's Intel deal gives US stake in business - and breaks with American tradition](https://www.bbc.com/news/articles/cn85n2vg04go) (Published: 2025-08-26)
 - [Taiwan pumps new life into AI cooling](https://www.digitimes.com/news/a20250825PD212/taiwan-ai-server-liquid-cooling-supply-chain-finetek.html) (Published: 2025-08-26)
-- [Samsung, SK Hynix face pivotal test as Nvidia targets 1Q26 for HBM4](https://www.digitimes.com/news/a20250826PD242/nvidia-hbm4-samsung-sk-hynix-production.html) (Published: 2025-08-26)
-- [Morgan Stanley: NVIDIA GB200 NVL72 Racks Deliver A Profit Margin Of 77.6% Vs. -64% For AMD MI355X, While Entailing Nearly The Same TCO](https://wccftech.com/morgan-stanley-nvidia-gb200-nvl72-racks-deliver-a-profit-margin-of-77-6-vs-64-for-amd-mi355x-while-entailing-nearly-the-same-tco/) (Published: 2025-08-26)
