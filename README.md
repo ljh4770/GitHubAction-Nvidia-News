@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-27 19:29:59**_
+_Last updated: **2025-08-27 19:40:38**_
 
+- [CoreWeave Demonstrates 6X GPU Througput With NVIDIA GB300 NVL72 Vs H100 In DeepSeek R1](https://wccftech.com/coreweave-demonstrates-6x-gpu-througput-with-nvidia-gb300-nvl72-vs-h100-in-deepseek-r1/) (Published: 2025-08-26)
+- [VCI Global Secures US$22 Million Sovereign AI Infrastructure Contract Featuring NVIDIA-Powered Encrypted Compute Stack](https://www.globenewswire.com/news-release/2025/08/26/3139575/0/en/VCI-Global-Secures-US-22-Million-Sovereign-AI-Infrastructure-Contract-Featuring-NVIDIA-Powered-Encrypted-Compute-Stack.html) (Published: 2025-08-26)
 - [Gears of War: Reloaded Day-One Update Fixes a Variety of Issues](https://wccftech.com/gears-of-war-reloaded-day-one-update-fixes-issues/) (Published: 2025-08-26)
 - [Billionaires Are Buying Up This Chip Stock (Hint: It’s Not Nvidia)](https://biztoc.com/x/a7c98f6706a745b8) (Published: 2025-08-26)
 - [Melania Trump Wears Michael Kors and Gap to Announce AI Challenge](http://wwd.com/fashion-news/fashion-scoops/melania-trump-michael-kors-gap-ai-challenge-1238082614/) (Published: 2025-08-26)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-27 19:29:59**_
 - [Open Box Good: Lenovo - Yoga Pro 9i 16" 3.2K Touchscreen Laptop - Intel Core Ultra 9 185H with 32GB Memory - NVIDIA GeForce RTX 4050 - 1TB SSD - Luna Grey $979.99 (4 replies)](https://slickdeals.net/f/18557980-open-box-good-lenovo-yoga-pro-9i-16-3-2k-touchscreen-laptop-intel-core-ultra-9-185h-with-32gb-memory-nvidia-geforce-rtx-4050-1tb-ssd-luna-grey-979-99) (Published: 2025-08-26)
 - [Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops](https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub) (Published: 2025-08-26)
 - [Latest Versions Of DLSS And Streamline SDK Released: Some Bug Fixes And Stability Improvements Introduced](https://wccftech.com/latest-versions-of-dlss-and-streamline-sdk-released-some-bug-fixes-and-stability-improvements-introduced/) (Published: 2025-08-26)
-- [VCF And Private AI Take Center Stage At VMware Explore 2025](https://www.forbes.com/sites/patrickmoorhead/2025/08/26/vcf-and-private-ai-take-center-stage-at-vmware-explore-2025/) (Published: 2025-08-26)
-- [How to Scale Your LangGraph Agents in Production From A Single User to 1,000 Coworkers](https://developer.nvidia.com/blog/how-to-scale-your-langgraph-agents-in-production-from-a-single-user-to-1000-coworkers/) (Published: 2025-08-26)
