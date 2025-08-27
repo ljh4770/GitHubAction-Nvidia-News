@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-27 19:19:32**_
+_Last updated: **2025-08-27 19:29:59**_
 
+- [Gears of War: Reloaded Day-One Update Fixes a Variety of Issues](https://wccftech.com/gears-of-war-reloaded-day-one-update-fixes-issues/) (Published: 2025-08-26)
 - [Billionaires Are Buying Up This Chip Stock (Hint: It’s Not Nvidia)](https://biztoc.com/x/a7c98f6706a745b8) (Published: 2025-08-26)
 - [Melania Trump Wears Michael Kors and Gap to Announce AI Challenge](http://wwd.com/fashion-news/fashion-scoops/melania-trump-michael-kors-gap-ai-challenge-1238082614/) (Published: 2025-08-26)
 - [Why Rocket Lab (RKLB) Stock Is Trading Up Today](https://finance.yahoo.com/news/why-rocket-lab-rklb-stock-185618926.html) (Published: 2025-08-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-27 19:19:32**_
 - [Latest Versions Of DLSS And Streamline SDK Released: Some Bug Fixes And Stability Improvements Introduced](https://wccftech.com/latest-versions-of-dlss-and-streamline-sdk-released-some-bug-fixes-and-stability-improvements-introduced/) (Published: 2025-08-26)
 - [VCF And Private AI Take Center Stage At VMware Explore 2025](https://www.forbes.com/sites/patrickmoorhead/2025/08/26/vcf-and-private-ai-take-center-stage-at-vmware-explore-2025/) (Published: 2025-08-26)
 - [How to Scale Your LangGraph Agents in Production From A Single User to 1,000 Coworkers](https://developer.nvidia.com/blog/how-to-scale-your-langgraph-agents-in-production-from-a-single-user-to-1000-coworkers/) (Published: 2025-08-26)
-- [Our favorite LG OLED TV is almost 50% off on Amazon](https://www.zdnet.com/home-and-office/home-entertainment/our-favorite-lg-oled-tv-is-almost-50-off-on-amazon/) (Published: 2025-08-26)
