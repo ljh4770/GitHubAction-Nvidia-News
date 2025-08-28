@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-28 15:57:44**_
+_Last updated: **2025-08-28 16:31:10**_
 
-- [Brace For NVIDIA Stock To Move By 2.6x Intel’s Market Cap](https://wccftech.com/brace-for-nvidia-stock-to-move-by-2-6x-intels-market-cap/) (Published: 2025-08-27)
-- [Bracing for Nvidia, when size matters](https://biztoc.com/x/71a7d3c847ffec1d) (Published: 2025-08-27)
-- [Nvidia investors grapple with China risks ahead of earnings](https://biztoc.com/x/57b1f06c2f9a09ce) (Published: 2025-08-27)
-- [Saudi Arabia wants to be world's third-largest AI provider after the U.S. and China, Humain CEO says](https://biztoc.com/x/db2cfa12ecf7c99b) (Published: 2025-08-27)
-- [Saudi Arabia wants to be world's third-largest AI provider after the U.S. and China, Humain CEO says](https://www.cnbc.com/2025/08/27/saudi-arabia-wants-to-be-worlds-third-largest-ai-provider-humain.html) (Published: 2025-08-27)
-- [Mercury foundation models from Inception Labs are now available in Amazon Bedrock Marketplace and Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/mercury-foundation-models-from-inception-labs-are-now-available-in-amazon-bedrock-marketplace-and-amazon-sagemaker-jumpstart/) (Published: 2025-08-27)
-- [Wall Street edges higher as the market awaits Nvidia’s quarterly report](https://biztoc.com/x/084a903e9cf75851) (Published: 2025-08-27)
-- [Wall Street mixed in countdown to Nvidia results; tech valuations in focus - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=178894792) (Published: 2025-08-27)
-- [Wall Street edges higher as the market awaits Nvidia’s quarterly report](https://www.bostonherald.com/2025/08/27/wall-street-nvidia-market-impact/) (Published: 2025-08-27)
-- [The Framework Laptop 16’s Big Feature Will Be the Most Important PC Innovation in Years](https://gizmodo.com/the-framework-laptop-16s-big-feature-will-be-the-most-important-pc-innovation-in-years-2000648960) (Published: 2025-08-27)
+- [U.S. stocks drop as Dow falls 300 points; Nvidia earnings in focus](https://techpinions.com/u-s-stocks-drop-as-dow-falls-300-points-nvidia-earnings-in-focus/) (Published: 2025-08-27)
+- [Stocks inch higher as investors await Nvidia](https://www.irishtimes.com/business/2025/08/27/stocks-inch-higher-as-investors-await-nvidia/) (Published: 2025-08-27)
+- [Nvidia reports second-quarter earnings after the bell](https://biztoc.com/x/87b954380179d121) (Published: 2025-08-27)
+- [NVIDIA (NVDA) Targets Unified AI Data Centers With Spectrum-XGS](https://finance.yahoo.com/news/nvidia-nvda-targets-unified-ai-162110520.html) (Published: 2025-08-27)
+- [TD Cowen Maintains Buy on Nvidia (NVDA), Expects Strong Q2 Despite Uncertainty](https://finance.yahoo.com/news/td-cowen-maintains-buy-nvidia-161414780.html) (Published: 2025-08-27)
+- [China’s AI boom runs on refurbished Nvidia GPUs as export limits bite](https://www.notebookcheck.net/China-s-AI-boom-runs-on-refurbished-Nvidia-GPUs-as-export-limits-bite.1097978.0.html) (Published: 2025-08-27)
+- [Nvidia Investors Grapple With China Risks Ahead Of Earnings](https://www.ndtvprofit.com/business/nvidia-investors-grapple-with-china-risks-ahead-of-earnings) (Published: 2025-08-27)
+- [Why Nvidia's Report Is Such a Big Event for the Stock Market](https://biztoc.com/x/c04dfb1f17bf58b2) (Published: 2025-08-27)
+- [These 5 funds could explode after Nvidia’s big reveal](https://rollingout.com/2025/08/27/these-5-funds-could-explode-after-nvidia/) (Published: 2025-08-27)
