@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-28 07:13:51**_
+_Last updated: **2025-08-28 07:30:42**_
 
+- [Framework Launches its 2nd Generation Laptop 16 with Upgradable NVIDIA GeForce RTX 5070](https://www.madshrimps.be/news/framework-launches-its-2nd-generation-laptop-16-with-upgradable-nvidia-geforce-rtx-5070/) (Published: 2025-08-27)
+- [Eddy Cue Wants Apple To Acquire AI Companies For Success, But Craig Federighi Stands Firm On Relying Only On Apple’s Own Talent](https://wccftech.com/apple-ai-strategy-cue-federighi-disagreement/) (Published: 2025-08-27)
 - [Futures Rise, Five Stocks Near Buy Points; Nvidia Looms](https://biztoc.com/x/ab247926ab988ae5) (Published: 2025-08-27)
 - [ASUS ROG at Gamescom 2025: RTX 5090 MATRIX Graphics Card and ROG Raikiri II Controller Hands-On](https://www.madshrimps.be/news/asus-rog-at-gamescom-2025-rtx-5090-matrix-graphics-card-and-rog-raikiri-ii-controller-hands-on/) (Published: 2025-08-27)
 - [Robert W. Baird Increases NVIDIA (NASDAQ:NVDA) Price Target to $225.00](https://www.etfdailynews.com/2025/08/27/robert-w-baird-increases-nvidia-nasdaqnvda-price-target-to-225-00/) (Published: 2025-08-27)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-28 07:13:51**_
 - [Asian shares post modest gains after Wall Street nears more records](https://abcnews.go.com/Business/wireStory/asian-shares-post-modest-gains-after-wall-street-125011925) (Published: 2025-08-27)
 - [Nvidia's Earnings Are Almost Here. 4 Big Things to Focus On](https://biztoc.com/x/20f352a5af102355) (Published: 2025-08-27)
 - [Nvidia's Huang meets Samsung, SK leaders at US summit as HBM battle escalates](https://www.digitimes.com/news/a20250827PD215/samsung-sk-hynix-nvidia-hbm-packaging-investment.html) (Published: 2025-08-27)
-- [CNBC Daily Open: Big M&A activity returns to the U.S. — but the deal-maker is the White House](https://biztoc.com/x/9064cc4fe7416779) (Published: 2025-08-27)
-- [Pegatron launches high-performance servers with Nvidia RTX PRO 6000 GPUs for AI and enterprise applications](https://www.digitimes.com/news/a20250827PD240/pegatron-servers-digital-twin-nvidia-blackwell.html) (Published: 2025-08-27)
