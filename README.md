@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-28 08:19:40**_
+_Last updated: **2025-08-28 08:42:29**_
 
+- [US futures steady as Nvidia earnings loom](https://biztoc.com/x/6f44a8123c12ea2d) (Published: 2025-08-27)
+- [Advantest leads Japan's Nikkei higher ahead of Nvidia report](https://economictimes.indiatimes.com/markets/stocks/news/advantest-leads-japans-nikkei-higher-ahead-of-nvidia-report/articleshow/123542169.cms) (Published: 2025-08-27)
+- [Rebellions unveils chiplet AI accelerator to challenge Nvidia in hyperscale market](https://www.digitimes.com/news/a20250827VL207/accelerator-nvidia-performance-startup-2025.html) (Published: 2025-08-27)
+- [Stock Market Today: Dow Futures Waver and Dollar Weakens; Nvidia Earnings in Focus](https://biztoc.com/x/e938af5743476ba9) (Published: 2025-08-27)
+- [Meridian Management Co. Sells 3,932 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/08/27/meridian-management-co-sells-3932-shares-of-nvidia-corporation-nvda/) (Published: 2025-08-27)
+- [NVIDIA Corporation $NVDA Position Trimmed by Abbot Financial Management Inc.](https://www.etfdailynews.com/2025/08/27/nvidia-corporation-nvda-position-trimmed-by-abbot-financial-management-inc/) (Published: 2025-08-27)
+- [NVIDIA Corporation $NVDA Shares Purchased by Eagle Bluffs Wealth Management LLC](https://www.etfdailynews.com/2025/08/27/nvidia-corporation-nvda-shares-purchased-by-eagle-bluffs-wealth-management-llc/) (Published: 2025-08-27)
+- [Shoker Investment Counsel Inc. Has $3.18 Million Stock Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/08/27/shoker-investment-counsel-inc-has-3-18-million-stock-holdings-in-nvidia-corporation-nvda/) (Published: 2025-08-27)
+- [(PR) MSI Expands NVIDIA RTX PRO Server Lineup, Accelerated by RTX PRO 6000 Blackwell Server Edition GPU](https://www.techpowerup.com/340369/msi-expands-nvidia-rtx-pro-server-lineup-accelerated-by-rtx-pro-6000-blackwell-server-edition-gpu) (Published: 2025-08-27)
 - [Stock futures little changed ahead of Nvidia earnings: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=178891800) (Published: 2025-08-27)
-- [Q4, AI, and the Most Wonderful Time of the Year](https://www.exchangewire.com/blog/2025/08/27/q4-ai-and-the-most-wonderful-time-of-the-year/) (Published: 2025-08-27)
-- [Monitor continuous blanking issue on Ubuntu 20.04](https://askubuntu.com/questions/1555095/monitor-continuous-blanking-issue-on-ubuntu-20-04) (Published: 2025-08-27)
-- [Stock Futures Slip Ahead of Key Nvidia Earnings as Trump's Fed Attacks Keep Markets on Edge](https://biztoc.com/x/88ba872d3844b6df) (Published: 2025-08-27)
-- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Down; Nvidia, Echostar, MongoDB, Okta, More Movers; Trump Fed Concerns](https://biztoc.com/x/a094340a38c1393f) (Published: 2025-08-27)
-- [European shares rise after selloff as focus shifts to Nvidia results](https://economictimes.indiatimes.com/markets/stocks/news/european-shares-rise-after-selloff-as-focus-shifts-to-nvidia-results/articleshow/123541661.cms) (Published: 2025-08-27)
-- [NLP in Healthcare & Life Sciences Company Evaluation Report 2025 | Google, IQVIA, and Microsoft Dominate with AI, Real-World Data, and Cloud-Driven Innovations](https://www.globenewswire.com/news-release/2025/08/27/3139755/28124/en/NLP-in-Healthcare-Life-Sciences-Company-Evaluation-Report-2025-Google-IQVIA-and-Microsoft-Dominate-with-AI-Real-World-Data-and-Cloud-Driven-Innovations.html) (Published: 2025-08-27)
-- [The U.S. government has taken stakes in Intel and Nvidia. The defence industry could be next](https://www.cbc.ca/news/business/us-lutnick-defence-industry-intel-1.7617783) (Published: 2025-08-27)
-- [Ridgewood Investments LLC Increases Stock Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/08/27/ridgewood-investments-llc-increases-stock-position-in-nvidia-corporation-nvda/) (Published: 2025-08-27)
-- [Nemes Rush Group LLC Trims Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/08/27/nemes-rush-group-llc-trims-stake-in-nvidia-corporation-nvda/) (Published: 2025-08-27)
