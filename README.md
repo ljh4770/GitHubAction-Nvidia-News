@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 15:58:49**_
+_Last updated: **2025-08-29 16:31:43**_
 
-- [Why Nvidia's bull market rages on: Opening Bid top takeaway](https://biztoc.com/x/298e16b8cea75c64) (Published: 2025-08-28)
-- [Nvidia is positioning itself to cash in on the data center boom—even if mega-AI campuses don’t get built](https://biztoc.com/x/0c2239681cda9c2d) (Published: 2025-08-28)
-- [China Uncertainty Weighs On Nvidia Stock. What's Next For The AI-Chip Maker?](https://biztoc.com/x/82f703999dc83bde) (Published: 2025-08-28)
-- [EA Resumes Battlefield Labs Playtesting to Test New Battlefield 6 Maps, Game Modes, and Tweaks from the Open Beta](https://wccftech.com/battlefield-6-battlefield-labs-playtesting-resumes/) (Published: 2025-08-28)
-- [China Uncertainty Weighs On Nvidia Stock. What's Next For The AI-Chip Maker? - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=178916984) (Published: 2025-08-28)
-- [Alienware 16 Area-51 review](https://www.pcgamer.com/hardware/gaming-laptops/alienware-16-area-51-review/) (Published: 2025-08-28)
-- [Why Nvidia's bull market rages on: Opening Bid top takeaway](https://finance.yahoo.com/news/why-nvidias-bull-market-rages-on-opening-bid-top-takeaway-155031062.html) (Published: 2025-08-28)
-- [8/28: CBS Morning News](https://www.cbsnews.com/video/082825-cbs-morning-news/) (Published: 2025-08-28)
-- [WATCH: Witness speaks out about helping Minneapolis shooting victims](https://abcnews.go.com/US/video/witness-speaks-helping-minneapolis-shooting-victims-125065091) (Published: 2025-08-28)
-- [Nvidia’s Strong Chip Sales Still Come Up Short — Heard on the Street](https://biztoc.com/x/77cb0200031fdce7) (Published: 2025-08-28)
+- [Nvidia’s decline is a headwind as the Dow pushes into positive territory](https://biztoc.com/x/061108fd0e1ec461) (Published: 2025-08-28)
+- [Bitcoin, Solana Rise as Investors Weigh Nvidia Earnings, Strong GDP Data](https://decrypt.co/337216/bitcoin-solana-rise-investors-weigh-nvidia-gdp-data) (Published: 2025-08-28)
+- [NVIDIA GeForce RTX 5080 16GB Graphics Card for $1,000 + pickup where available](https://www.dealnews.com/NVIDIA-Ge-Force-RTX-5080-16-GB-Graphics-Card-for-1-000-pickup-where-available/21764014.html) (Published: 2025-08-28)
+- [We're still waiting for the first 2nm chips but TSMC is accelerating its plans for 1.4nm silicon manufacturing, starting in 2027](https://www.pcgamer.com/hardware/were-still-waiting-for-the-first-2nm-chips-but-tsmc-is-accelerating-its-plans-for-1-4nm-silicon-manufacturing-starting-in-2027/) (Published: 2025-08-28)
+- [Nvidia Stock Falls After Earnings Report: Critical Price Levels to Keep an Eye On](https://www.investopedia.com/nvidia-stock-falls-after-earnings-report-critical-price-levels-to-keep-an-eye-on-11799331) (Published: 2025-08-28)
+- [Most of the Other Mag 7 Stocks Are Rising After Nvidia Earnings](https://biztoc.com/x/2adf2c1e66c5f179) (Published: 2025-08-28)
+- [CoreWeave Stock Surges As Nvidia's AI Revenue Fires Up](https://biztoc.com/x/3d27fcb122e9360f) (Published: 2025-08-28)
+- [Nvidia forecasts decelerating growth after two-year AI boom](https://biztoc.com/x/cd7731387ced0937) (Published: 2025-08-28)
+- [Nvidia reports Q2 beat, Snowflake posts 'beat and raise': Morning Buzz](https://thefly.com/permalinks/entry.php/id4190150/INTC;FIVE;WYNN;IP;COO;BILL;BYDDF;TSLA;SSNLF;TSM;JD;AAPL;F;PSTG;TVTX;LI;TCOM;HRL;URBN;NTNX;BBWI;GCO;DG;VSCO;NVDA;HPQ;SNOW;CRWD;BBY-Nvidia-reports-Q-beat-Snowflake-posts-beat-and-raise-Morning-Buzz) (Published: 2025-08-28)
