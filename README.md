@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 17:57:35**_
+_Last updated: **2025-08-29 18:31:16**_
 
+- ["The ultimate supercomputer to drive the age of physical AI and general robotics" - Nvidia reveals next generation "robot brain" chip, and it can be yours for less than a used car](https://www.techradar.com/pro/the-ultimate-supercomputer-to-drive-the-age-of-physical-ai-and-general-robotics-nvidia-reveals-next-generation-robot-brain-chip-and-it-can-be-yours-for-less-than-a-used-car) (Published: 2025-08-28)
+- [Taco Bell Reconsiders Voice AI After Seeing Mixed Results](http://www.pymnts.com/artificial-intelligence-2/2025/taco-bell-reconsiders-voice-ai-after-seeing-mixed-results/) (Published: 2025-08-28)
+- [AI Daily: Nvidia reports earnings, sees $3T-$4T in AI infrastructure spend](https://thefly.com/permalinks/entry.php/id4190212/NVDA;GOOGL;GOOG-AI-Daily-Nvidia-reports-earnings-sees-TT-in-AI-infrastructure-spend) (Published: 2025-08-28)
+- [Battlefield 6 PC Specs Revealed, Supports 2019 Graphics Cards](https://www.cnet.com/tech/gaming/battlefield-6-pc-specs-revealed-supports-2019-graphics-cards/) (Published: 2025-08-28)
+- [US stock indexes mostly edge higher but Nvidia shares slip; dollar weakens - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=178918576) (Published: 2025-08-28)
+- [Commonwealth, which wants to build a fusion power plant, raised $863M from Nvidia's NVentures, Khosla Ventures, and Google, bringing its total raised to ~$3B](https://biztoc.com/x/1d105fe9ccb8021d) (Published: 2025-08-28)
+- [Taco Bell Says ‘No Más’ to AI Drive-Thru Experiment](https://gizmodo.com/taco-bell-says-no-mas-to-ai-drive-thru-experiment-2000649786) (Published: 2025-08-28)
+- [Charting the future of hyperscale AI storage: Supermicro and partners set the pace](https://siliconangle.com/2025/08/28/supermicro-software-defined-storage-partnerships-openstoragesummit/) (Published: 2025-08-28)
 - [Samsung Micro RGB TV (2025): Everything you need to know](https://www.sammobile.com/news/samsung-micro-rgb-tv-everything-to-know/) (Published: 2025-08-28)
 - [Nvidia Tops Wall Street Estimates, But China Tensions Cloud Its A.I. Chip Business](https://biztoc.com/x/a12f4d5814827991) (Published: 2025-08-28)
-- [CoreWeave Stock Is Trending Thursday: What's Going On?](https://biztoc.com/x/c9c818f5c8544a47) (Published: 2025-08-28)
-- [Nvidia Tops Wall Street Estimates, But China Tensions Cloud Its A.I. Chip Business](https://observer.com/2025/08/nvidia-earnings-china-tension-ai-chip/) (Published: 2025-08-28)
-- [European Stocks Edge Lower; Autos Outperform After Car Sales](https://financialpost.com/pmn/business-pmn/european-stocks-edge-lower-autos-outperform-after-car-sales) (Published: 2025-08-28)
-- [FY Energy Announces Launch of Encrypted Green Cloud Computing Services](https://www.globenewswire.com/news-release/2025/08/28/3141042/0/en/FY-Energy-Announces-Launch-of-Encrypted-Green-Cloud-Computing-Services.html) (Published: 2025-08-28)
-- [Nvidia CEO says AI boom far from over after tepid sales forecast - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=178917914) (Published: 2025-08-28)
-- [NVIDIA’s Singapore Revenue Hits Record High, Now Second to the U.S., Though the Nation Remains a ‘Transshipment Hub’ & Not a True Consumer Market](https://wccftech.com/nvidia-singapore-revenue-hits-record-high-now-second-to-the-us/) (Published: 2025-08-28)
-- [Most of the Other Mag 7 Stocks Are Rising After Nvidia Earnings](https://biztoc.com/x/4c9377a2d2f7259f) (Published: 2025-08-28)
-- [Bad AI Integration Has Consequences. How To Avoid Common Pitfalls](https://www.forbes.com/sites/cio/2025/08/28/bad-ai-integration-has-consequences-how-to-avoid-common-pitfalls/) (Published: 2025-08-28)
