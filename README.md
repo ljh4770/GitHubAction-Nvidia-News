@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 10:38:17**_
+_Last updated: **2025-08-29 10:48:56**_
 
+- [Nvidia price target raised by $15 at KeyBanc, here's why](https://thefly.com/permalinks/entry.php/id4189739/NVDA-Nvidia-price-target-raised-by--at-KeyBanc-heres-why) (Published: 2025-08-28)
+- [Did Nvidia Just Pop an AI Bubble? Here’s What the Market Says](https://gizmodo.com/did-nvidia-just-pop-an-ai-bubble-heres-what-the-market-says-2000649432) (Published: 2025-08-28)
+- [Gratitude as a Leadership Superpower, with Donagh Herlihy](https://eblingroup.com/blog/gratitude-as-a-leadership-superpower-with-donagh-herlihy/) (Published: 2025-08-28)
+- [Morning Bid: China sales doubt blurs Nvidia beat](https://finance.yahoo.com/news/morning-bid-china-sales-doubt-104336927.html) (Published: 2025-08-28)
+- [Nvidia makes almost ten times more from AI than gaming but 'margins are already eroding as rivals push into the space'](https://www.pcgamer.com/software/ai/nvidia-makes-almost-ten-times-more-from-ai-than-gaming-but-margins-are-already-eroding-as-rivals-push-into-the-space/) (Published: 2025-08-28)
+- [Nvidia price target raised by $25 at Oppenheimer, here's why](https://thefly.com/permalinks/entry.php/id4189730/NVDA-Nvidia-price-target-raised-by--at-Oppenheimer-heres-why) (Published: 2025-08-28)
+- [Xi's Secret Letter to India, Nvidia Forecasts Decelerating Growth | The Opening Trade 8/28/2025](https://biztoc.com/x/932a73d586a94bd3) (Published: 2025-08-28)
+- [Macrohard: il nuovo progetto di Musk per simulare Microsoft](https://www.hdblog.it/tecnologia/articoli/n629567/musk-macrohard-ai-microsoft/) (Published: 2025-08-28)
 - [Do China and Nvidia Still Need Each Other?](https://biztoc.com/x/3d7e726976da770a) (Published: 2025-08-28)
 - [Nvidia Points to a China Crisis. That’s a Big Problem for Stock Markets, the Economy](https://biztoc.com/x/de7145ee69aaad75) (Published: 2025-08-28)
-- [Nasdaq futures flat as Nvidia slips on China market uncertainty](https://biztoc.com/x/2c8c5c2b31c7c424) (Published: 2025-08-28)
-- [Stock futures are little changed as Nvidia declines following earnings: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=178912848) (Published: 2025-08-28)
-- [Nvidia's Rubin GPU and Vera CPU data center AI platforms begin tape out — both chips 'in fab' and on track for 2026](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-rubin-gpu-and-vera-cpu-data-center-ai-platforms-begin-tape-out-both-chips-in-fab-and-on-track-for-2026) (Published: 2025-08-28)
-- [Nvidia price target raised by $15 at BofA, here's why](https://thefly.com/permalinks/entry.php/id4189695/NVDA-Nvidia-price-target-raised-by--at-BofA-heres-why) (Published: 2025-08-28)
-- [Hyperliquid price forecast as HYPE sees pullback after hitting all-time high](https://coinjournal.net/news/hyperliquid-price-forecast-as-hype-sees-pullback-after-hitting-all-time-high/) (Published: 2025-08-28)
-- [Nvidia Stock Falls Over 2% In Thursday Pre-Market, Dan Ives Says Any Decline Is A Clear 'Buying Opportunity'](https://biztoc.com/x/87e4dea2237ab487) (Published: 2025-08-28)
-- [Broadcom, AMD, Micron Other Chip Stocks Fell After Nvidia Earnings. What They’re Doing Now](https://biztoc.com/x/c561a2d07f466e0b) (Published: 2025-08-28)
-- [Nvidia Waiting for White House to Codify 15% Commission Plan - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=178912646) (Published: 2025-08-28)
