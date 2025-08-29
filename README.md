@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 11:52:44**_
+_Last updated: **2025-08-29 12:26:32**_
 
-- [Reactions to Nvidia's mixed outlook, China uncertainty](https://finance.yahoo.com/news/reactions-nvidias-mixed-outlook-china-114850792.html) (Published: 2025-08-28)
-- [LaserWeeder packs two dozen Nvidia GPUs and lasers to zap your weed problem, vaporizes ‘600,000 weeds per hour' with sub-millimeter precision — instant laser death for pesky weeds](https://www.tomshardware.com/tech-industry/artificial-intelligence/laserweeder-packs-two-dozen-nvidia-gpus-and-lasers-to-zap-your-weed-problem-vaporizes-600-000-weeds-per-hour-with-sub-millimeter-precision-instant-laser-death-for-pesky-weeds) (Published: 2025-08-28)
-- [Nvidia price target raised by $60 at DA Davidson, here's why](https://thefly.com/permalinks/entry.php/id4189825/NVDA-Nvidia-price-target-raised-by--at-DA-Davidson-heres-why) (Published: 2025-08-28)
-- [Can Intel Stock Stage a Comeback Against AMD and Nvidia?](https://biztoc.com/x/bc9ab2b806d950f0) (Published: 2025-08-28)
-- [Can the market bull run - driven by hype and hope - survive Donald Trump?](https://www.irishtimes.com/your-money/2025/08/28/can-the-market-bull-run-driven-by-hype-and-hope-survive-donald-trump/) (Published: 2025-08-28)
-- [Build the Robots of Tomorrow with NVIDIA Jetson Thor](https://www.seeedstudio.com/blog/2025/08/28/build-the-robots-of-tomorrow-with-nvidia-jetson-thor/) (Published: 2025-08-28)
-- [Nvidia is caught in Trump's China trade war, and it could impact the stock market - Axios](https://slashdot.org/firehose.pl?op=view&amp;id=178913782) (Published: 2025-08-28)
-- [Acer Launches AI-Powered Back-to-School Laptop Range in UAE](https://me.pcmag.com/en/laptops/31919/acer-launches-ai-powered-back-to-school-laptop-range-in-uae) (Published: 2025-08-28)
-- [Nvidia is caught in Trump's China trade war, and it could impact the stock market](https://biztoc.com/x/db406ba7da1a778f) (Published: 2025-08-28)
+- [As Trump And Intel Make News, This Nvidia, AMD Partner Chips Away At A Breakout](https://biztoc.com/x/6e6cca25335ecfef) (Published: 2025-08-28)
+- [Stock Market Today: Dow Rises Ahead Of GDP, Jobless Claims; Nvidia Slides On Earnings (Live Coverage)](https://biztoc.com/x/2f5434fc60dc730a) (Published: 2025-08-28)
+- [Cooper Companies Posts Downbeat Sales, Joins NetApp, Urban Outfitters, Nvidia And Other Big Stocks Moving Lower In Thursday Pre-Market Session](https://biztoc.com/x/cebf4a93efee4dfd) (Published: 2025-08-28)
+- [Kohl’s makes progress on turnaround as CFO provides C-suite stability](https://fortune.com/2025/08/28/kohls-makes-progress-turnaround-cfo-provides-c-suite-stability/) (Published: 2025-08-28)
+- [US stock futures fall as Nvidia earnings jolt shakes Nasdaq while Dow stays resilient](https://economictimes.indiatimes.com/news/international/us/us-stock-futures-fall-as-nvidia-earnings-jolt-shakes-nasdaq-while-dow-stays-resilient/articleshow/123564194.cms) (Published: 2025-08-28)
+- [Phantom Blade Zero Gamescom Hands-On Preview – Setting Up For Greatness](https://wccftech.com/phantom-blade-zero-gamescom-hands-on-preview-setting-up-for-greatness/) (Published: 2025-08-28)
+- [Reactions to Nvidia's mixed outlook, China uncertainty](https://biztoc.com/x/01144049204dece7) (Published: 2025-08-28)
+- [Dow Jones Futures Rise; Nvidia Falls On Earnings, Leads Big Movers](https://biztoc.com/x/769d2b2027f798ae) (Published: 2025-08-28)
+- [Projects $54 Billion Q3 Revenue Despite H2O Chip Export Restrictions to China](https://biztoc.com/x/ef8e37cf3b7eb20d) (Published: 2025-08-28)
+- [Ollie’s Bargain Outlet shares jump as earnings beat, guidance raised](https://finance.yahoo.com/news/ollie-bargain-outlet-shares-jump-121440023.html) (Published: 2025-08-28)
