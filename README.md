@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 23:45:43**_
+_Last updated: **2025-08-29 23:56:00**_
 
 - [Soft outlook weighs on Dell’s stock despite soaring AI server sales](https://siliconangle.com/2025/08/28/soft-outlook-weighs-dells-stock-despite-soaring-ai-server-sales/) (Published: 2025-08-28)
 - [Scott Bessent Says Acquiring Stake In Nvidia 'Not On The Table,' Hints Shipbuilding Sector Could Be Next](https://finance.yahoo.com/news/scott-bessent-says-acquiring-stake-233157635.html) (Published: 2025-08-28)
