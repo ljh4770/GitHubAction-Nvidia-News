@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 22:25:27**_
+_Last updated: **2025-08-29 22:39:38**_
 
+- [Fujitsu is teaming with Nvidia to build probably the world's fastest AI supercomputer ever at 600,000 FP8 Petaflops - so Feyman GPU could well feature](https://www.techradar.com/pro/fujitsu-is-teaming-with-nvidia-to-build-probably-the-worlds-fastest-ai-supercomputer-ever-at-600-000-fp8-petaflops-so-feyman-gpu-could-well-feature) (Published: 2025-08-28)
 - [Nvidia confirms Battlefield 6 as GeForce Now game, with RTX 5080 upgrade promising lower latency](https://www.notebookcheck.net/Nvidia-confirms-Battlefield-6-as-GeForce-Now-game-with-RTX-5080-upgrade-promising-lower-latency.1099327.0.html) (Published: 2025-08-28)
 - [U.S. stocks close higher after Nvidia earnings](https://www.thestar.com.my/news/world/2025/08/29/us-stocks-close-higher-after-nvidia-earnings) (Published: 2025-08-28)
 - [Commentary: China gets closer to finding its own Nvidia](https://www.channelnewsasia.com/commentary/china-nvidia-ai-chip-cambricon-deepseek-5319716) (Published: 2025-08-28)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-29 22:25:27**_
 - [OpenAI and Microsoft debut new voice models](https://siliconangle.com/2025/08/28/openai-microsoft-debut-new-voice-models/) (Published: 2025-08-28)
 - [Nvidia CEO Warns That 'Some Jobs' Will Disappear As the AI Chipmaker's Earnings Beat Estimates](https://biztoc.com/x/23d1084ae2c020be) (Published: 2025-08-28)
 - [Samsung May Invest in Intel Packaging and Glass Substrates to Compete With TSMC](https://www.androidheadlines.com/2025/08/samsung-may-invest-in-intel-packaging-and-glass-substrates-to-compete-with-tsmc.html) (Published: 2025-08-28)
-- [Topaz Video AI Pro 7.1.4](https://post.rlsbb.cc/topaz-video-ai-pro-7-1-4/) (Published: 2025-08-28)
