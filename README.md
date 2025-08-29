@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 03:44:07**_
+_Last updated: **2025-08-29 03:55:26**_
 
 - [Gaming PC: 7500F, RTX5070 + BL4, 32G D5, 1TB $1795 9800X3D, RTX5080 + BL4, 32G D5, 2TB $3389 + Delivery ($0 VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/921731) (Published: 2025-08-28)
 - [Nvidia CEO says AI boom far from over](https://www.thehindubusinessline.com/info-tech/nvidia-ceo-says-ai-boom-far-from-over/article69983113.ece) (Published: 2025-08-28)
