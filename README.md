@@ -1,13 +1,15 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 15:00:10**_
+_Last updated: **2025-08-29 15:24:29**_
 
+- [Nvidia Joins Google to Fund Commonwealth’s Fusion Power Plant](https://biztoc.com/x/51955b97e95c2d9d) (Published: 2025-08-28)
+- [US stocks mixed as Dow sinks, S&P 500 nears record, Nasdaq rides AI boom — Nvidia earnings jolt but GDP growth surprises Wall street](https://economictimes.indiatimes.com/news/international/us/us-stocks-mixed-as-dow-sinks-sp-500-nears-record-nasdaq-rides-ai-boom-nvidia-earnings-jolt-but-gdp-growth-surprises-wall-street/articleshow/123567135.cms) (Published: 2025-08-28)
+- [SOL STRONG, NVIDIA EARNINGS MIXED, CRO UP 50% ON TRUMP DEAL](https://decrypt.co/videos/interviews/PRUYO61s/sol-strong-nvidia-earnings-mixed-cro-up-50-on-trump-deal) (Published: 2025-08-28)
+- [Why Wall Street is boosting forecasts for Nvidia stock even higher after a lukewarm reaction to earnings](https://www.businessinsider.com/nvidia-stock-price-nvda-outlook-wall-street-forecast-q2-earnings-2025-8) (Published: 2025-08-28)
+- [iBUYPOWER Element 9 White Gaming PC: Ryzen 7 7800X3D, RTX 5070Ti, 32GB DDR5, 1TB SSD $1899.99](https://slickdeals.net/f/18562861-ibuypower-element-9-white-gaming-pc-ryzen-7-7800x3d-rtx-5070ti-32gb-ddr5-1tb-ssd-1899-99) (Published: 2025-08-28)
+- [What’s up with… Iliad, Telefónica, Nvidia](https://www.telecomtv.com/content/access-evolution/what-s-up-with-iliad-telef-nica-nvidia-53710/) (Published: 2025-08-28)
+- [Nvidia's AI Fortress Shows 'First Crack'—The China Risk Just Got Real](https://biztoc.com/x/2eeb2170ce103200) (Published: 2025-08-28)
+- [Video
+NVIDIA posts good earnings, but investors wanted amazing
+2:27](https://biztoc.com/x/f03f469ef5f441c1) (Published: 2025-08-28)
+- [MSI’s Katana gaming laptop is $400 off and includes Battlefield 6](https://www.theverge.com/tech/767400/msi-gaming-laptop-rtx-5070-sony-xm5-oled-deal-sale) (Published: 2025-08-28)
 - [NVIDIA DLSS 4 Multi Frame Generation Is in Battlefield 6, Lost Soul Aside, EVE Online; Will Be Added in Sword of Justice, Wuthering Waves, Starship Troopers: Extermination](https://wccftech.com/nvidia-dlss-4-multi-frame-generation-is-in-battlefield-6-lost-soul-aside-eve-online-will-be-added-in-sword-of-justice-wuthering-waves-starship-troopers-extermination/) (Published: 2025-08-28)
-- [EA wants Battlefield 6 to run great without relying on DLSS: 'Our goal is for everything to be performant without a lot of extra stuff'](https://www.pcgamer.com/games/fps/ea-wants-battlefield-6-to-run-great-without-relying-on-dlss-our-goal-is-for-everything-to-be-performant-without-a-lot-of-extra-stuff/) (Published: 2025-08-28)
-- [Ex-TSMC employee faces 14 years in prison for chip theft potentially linked to iPhone 18](https://www.androidheadlines.com/2025/08/ex-tsmc-employee-faces-14-years-in-prison-for-chip-theft-potentially-linked-to-iphone-18.html) (Published: 2025-08-28)
-- [How Gemini's 'on-premise' upgrade could help your enterprise and advance sovereign AI](https://www.zdnet.com/article/how-geminis-on-premise-upgrade-could-help-your-enterprise-and-advance-sovereign-ai/) (Published: 2025-08-28)
-- [Nvidia CEO Jensen Huang advises AI customers to 'pace themselves' after GPU clusters sell out, but the company says it's going to continue to scale up](https://www.pcgamer.com/hardware/nvidia-ceo-jensen-huang-advises-ai-customers-to-pace-themselves-after-gpu-clusters-sell-out-but-the-company-says-its-going-to-continue-to-scale-up/) (Published: 2025-08-28)
-- [Broadcom Stock Jumps After Nvidia Forecasts Massive AI Demand](https://biztoc.com/x/278457e1ad87f321) (Published: 2025-08-28)
-- [Nvidia Is Riding the AI Revolution. What the Chip Maker Isn’t Telling Us](https://biztoc.com/x/79dd96b2f6354728) (Published: 2025-08-28)
-- [Nvidia's next steps: Rubin, robots, and a $4 trillion bet](https://www.businessinsider.com/bitoday-newsletters-nvidia-china-earnings-robotics-blackwell-rubin-thor-h20-2025-8) (Published: 2025-08-28)
-- [Presentation: High-Resolution Platform Observability](https://www.infoq.com/presentations/platform-observability/) (Published: 2025-08-28)
-- [US Stocks Waver as Wall Street Weighs Nvidia’s Tepid Outlook](https://biztoc.com/x/e661ee48a6062f9b) (Published: 2025-08-28)
