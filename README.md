@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 05:44:14**_
+_Last updated: **2025-08-29 05:54:52**_
 
 - [Nvidia’s Earnings Soar, But Forecasts Point to Slowdown](https://biztoc.com/x/162a1bd2b2d9a16c) (Published: 2025-08-28)
 - [TikTok owner ByteDance plans employee stock buyback, values company at over $330 billion](https://www.livemint.com/companies/news/tiktok-owner-bytedance-plans-employee-stock-buyback-values-company-at-over-330-billion-11756358786602.html) (Published: 2025-08-28)
