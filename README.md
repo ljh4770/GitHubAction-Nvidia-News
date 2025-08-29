@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 22:00:44**_
+_Last updated: **2025-08-29 22:25:27**_
 
+- [Nvidia confirms Battlefield 6 as GeForce Now game, with RTX 5080 upgrade promising lower latency](https://www.notebookcheck.net/Nvidia-confirms-Battlefield-6-as-GeForce-Now-game-with-RTX-5080-upgrade-promising-lower-latency.1099327.0.html) (Published: 2025-08-28)
+- [U.S. stocks close higher after Nvidia earnings](https://www.thestar.com.my/news/world/2025/08/29/us-stocks-close-higher-after-nvidia-earnings) (Published: 2025-08-28)
 - [Commentary: China gets closer to finding its own Nvidia](https://www.channelnewsasia.com/commentary/china-nvidia-ai-chip-cambricon-deepseek-5319716) (Published: 2025-08-28)
 - [nvfuser-cu128-torch28 0.2.30.dev20250828](https://pypi.org/project/nvfuser-cu128-torch28/0.2.30.dev20250828/) (Published: 2025-08-28)
 - [nvfuser-cu129-torch28 0.2.30.dev20250828](https://pypi.org/project/nvfuser-cu129-torch28/0.2.30.dev20250828/) (Published: 2025-08-28)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-29 22:00:44**_
 - [Nvidia CEO Warns That 'Some Jobs' Will Disappear As the AI Chipmaker's Earnings Beat Estimates](https://biztoc.com/x/23d1084ae2c020be) (Published: 2025-08-28)
 - [Samsung May Invest in Intel Packaging and Glass Substrates to Compete With TSMC](https://www.androidheadlines.com/2025/08/samsung-may-invest-in-intel-packaging-and-glass-substrates-to-compete-with-tsmc.html) (Published: 2025-08-28)
 - [Topaz Video AI Pro 7.1.4](https://post.rlsbb.cc/topaz-video-ai-pro-7-1-4/) (Published: 2025-08-28)
-- [The updated Battlefield 6 PC system requirements have arrived ahead of launch with new Ultra specs — I'm stoked it'll have this huge feature, too](https://www.windowscentral.com/gaming/the-updated-battlefield-6-pc-system-requirements-have-arrived-ahead-of-launch-with-new-ultra-specs) (Published: 2025-08-28)
-- [The market's reaction to Nvidia tells a larger story about the ongoing AI frenzy](https://biztoc.com/x/2c5698ecc8255fca) (Published: 2025-08-28)
