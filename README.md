@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 20:09:26**_
+_Last updated: **2025-08-29 20:29:46**_
 
+- [Nvidia, Google, and Bill Gates help Commonwealth Fusion Systems raise $863M | TechCrunch](https://techcrunch.com/2025/08/28/nvidia-google-and-bill-gates-help-commonwealth-fusion-systems-raise-863m/) (Published: 2025-08-28)
+- [US stock indexes rise but Nvidia shares dip; dollar weakens](https://biztoc.com/x/658e657dc15ed06b) (Published: 2025-08-28)
+- [Nvidia, Google, and Bill Gates help Commonwealth Fusion Systems raise $863M](https://biztoc.com/x/7cdd194fef9c71b5) (Published: 2025-08-28)
+- [One Of The Best Investments You Could Have Made Five Years Ago Was…Build-A-Bear Workshop Stock?](https://brobible.com/culture/article/build-a-bear-workshop-stock-pirice-explosion-since-2020/) (Published: 2025-08-28)
+- [The AI bubble may be about to pop — here’s what MIT’s 95% failure stat means](https://www.windowscentral.com/artificial-intelligence/the-ai-bubble-may-be-about-to-pop-heres-what-mits-95-percent-failure-stat-means) (Published: 2025-08-28)
+- [TrueNAS 25.10 Beta Brings Installation Improvements, NVIDIA Blackwell Support](https://www.phoronix.com/news/TrueNAS-25.10-Beta) (Published: 2025-08-28)
+- [IREN secures Nvidia preferred partner status, procures $168M in GPUs](https://thefly.com/permalinks/entry.php/id4190283/IREN;NVDA-IREN-secures-Nvidia-preferred-partner-status-procures-M-in-GPUs) (Published: 2025-08-28)
+- [Nvidia CEO: No H20 chip orders from China yet](https://biztoc.com/x/ec192e7bb82f5aa8) (Published: 2025-08-28)
+- [Chipmaker Marvell forecasts downbeat quarterly revenue, shares fall](https://www.channelnewsasia.com/business/chipmaker-marvell-forecasts-downbeat-quarterly-revenue-shares-fall-5321066) (Published: 2025-08-28)
 - [S&P 500 Notches Record as Tech Stocks Power Higher Without Nvidia](https://biztoc.com/x/a9cff542c0532814) (Published: 2025-08-28)
-- [Economics & Investing For Preppers](https://survivalblog.com/2025/08/29/economics-investing-for-preppers-51/) (Published: 2025-08-28)
-- [IREN Reports Full Year FY25 Results](https://www.globenewswire.com/news-release/2025/08/28/3141101/0/en/IREN-Reports-Full-Year-FY25-Results.html) (Published: 2025-08-28)
-- [IREN Expands AI Cloud to 10.9k GPUs, with NVIDIA Preferred Partner Status and Additional Financing Secured](https://www.globenewswire.com/news-release/2025/08/28/3141102/0/en/IREN-Expands-AI-Cloud-to-10-9k-GPUs-with-NVIDIA-Preferred-Partner-Status-and-Additional-Financing-Secured.html) (Published: 2025-08-28)
-- [The Irish Times view on AI: is this a stock market bubble which could burst?](https://www.irishtimes.com/opinion/editorials/2025/08/28/the-irish-times-view-on-ai-is-this-a-bubble-which-could-burst/) (Published: 2025-08-28)
-- [Get a 50-series PC for under $900, with a copy of Battlefield 6 included too](https://www.rockpapershotgun.com/get-a-50-series-pc-for-under-900-with-a-copy-of-battlefield-6-included-too) (Published: 2025-08-28)
-- [Aurora Adopts McLeod Transportation Management System For Robo-Trucks](https://www.forbes.com/sites/richardbishop1/2025/08/28/aurora-adopts-mcleod-transportation-management-system-for-robo-trucks/) (Published: 2025-08-28)
-- [Intel receives $5.7bn as Trump administration buys 10 percent stake](https://www.aljazeera.com/economy/2025/8/28/intel-receives-5-7bn-as-trump-administration-buys-10-percent-stake) (Published: 2025-08-28)
-- [Why Broadcom (AVGO) Stock Is Climbing Today](https://finance.yahoo.com/news/why-broadcom-avgo-stock-climbing-193716417.html) (Published: 2025-08-28)
-- [S&P 500 hits record high as Nvidia results butress AI rally - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=178919952) (Published: 2025-08-28)
