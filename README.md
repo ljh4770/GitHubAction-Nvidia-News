@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 13:03:41**_
+_Last updated: **2025-08-29 13:34:29**_
 
-- [Game On: How Modders Reimagine Classic Games With NVIDIA RTX Remix and Generative AI](https://blogs.nvidia.com/blog/rtx-ai-garage-rtx-remix-mod-contest-gen-ai/) (Published: 2025-08-28)
-- [Drop Into the Battle: ‘Gears of War: Reloaded Unleashed’ Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-reloaded/) (Published: 2025-08-28)
-- [Razer Blade 18 review: World-class gaming, priced to match](https://www.tomshardware.com/laptops/gaming-laptops/razer-blade-18-review) (Published: 2025-08-28)
-- [Nvidia CEO says AI boom far from over after tepid sales forecast](https://biztoc.com/x/f5d69e1775fd7f3d) (Published: 2025-08-28)
-- [Stocks Edge Up as Data Show Economy Is Holding Up: Markets Wrap](https://financialpost.com/pmn/business-pmn/stocks-edge-up-as-data-show-economy-is-holding-up-markets-wrap) (Published: 2025-08-28)
-- [Nvidia stock tanks — what went wrong despite beating Wall Street’s earnings expectations?](https://economictimes.indiatimes.com/news/international/us/nvidia-stock-tanks-what-went-wrong-despite-beating-wall-streets-earnings-expectations/articleshow/123565061.cms) (Published: 2025-08-28)
-- [BUZZ High Performance Computing Selects VAST Data to Power Sovereign AI and Unlock a Future of Agentic Computing](https://financialpost.com/globe-newswire/buzz-high-performance-computing-selects-vast-data-to-power-sovereign-ai-and-unlock-a-future-of-agentic-computing) (Published: 2025-08-28)
-- [Video: Futures point to flattish open after Nvidia earnings](https://thefly.com/permalinks/entry.php/id4189949/NVDA;CRWD;SNOW;DG;FIVE-Video-Futures-point-to-flattish-open-after-Nvidia-earnings) (Published: 2025-08-28)
-- [GPUPrefixSums – state of the art GPU prefix sum algorithms](https://github.com/b0nes164/GPUPrefixSums) (Published: 2025-08-28)
-- [Nvidia talking to US gov't to sell Blackwell chips to China](https://biztoc.com/x/ac0e6ffe8c93c1aa) (Published: 2025-08-28)
+- [Nvidia says it had no new H20 sales to China in Q2 and assumes the same for Q3, but could realize $2B-$5B in H20 sales in Q3 if geopolitical issues are resolved](https://biztoc.com/x/c5866364944babdb) (Published: 2025-08-28)
+- [Nvidia CFO Colette Kress says the US hasn't outlined its plan for a 15% China commission, Nvidia won't pay until it has it, and it can sell AI chips without it](https://biztoc.com/x/7200fc02948b8125) (Published: 2025-08-28)
+- [Nvidia forecasts decelerating growth after AI-fuelled boom](https://financialpost.com/news/nvidia-growth-two-year-ai-boom) (Published: 2025-08-28)
+- [Save $400 on this crazy Core Ultra 9 gaming laptop with RTX 5070 GPU](https://www.pcworld.com/article/2892226/save-400-on-this-crazy-core-ultra-9-laptop-with-rtx-5070-gpu.html) (Published: 2025-08-28)
+- [Do You Believe in the Upside Potential of Jack Henry & Associates (JKHY)?](https://finance.yahoo.com/news/believe-upside-potential-jack-henry-132445158.html) (Published: 2025-08-28)
+- [Morning Bid: China sales doubt blurs Nvidia beat](https://biztoc.com/x/c1e930713bb584b2) (Published: 2025-08-28)
+- [Nvidia stock turns positive in premarket trading as investors buy dip following earnings report](https://biztoc.com/x/c536fe6f7f8db103) (Published: 2025-08-28)
+- [WATCH: Huge line of traffic to get into Burning Man festival](https://abcnews.go.com/Lifestyle/video/huge-line-traffic-burning-man-festival-125057799) (Published: 2025-08-28)
+- [Nvidia price target raised by $18 at Truist, here's why](https://thefly.com/permalinks/entry.php/id4190009/NVDA-Nvidia-price-target-raised-by--at-Truist-heres-why) (Published: 2025-08-28)
