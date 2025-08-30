@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-30 06:31:37**_
+_Last updated: **2025-08-30 06:47:26**_
 
-- [CNBC Daily Open: Main Street and Wall Street are still alive and kicking despite tariff uncertainties](https://www.cnbc.com/2025/08/29/cnbc-daily-open-main-street-and-wall-street-are-still-alive-and-kicking.html) (Published: 2025-08-29)
-- [RBNZ Chair Neil Quigley Resigns Just Six Months After Orr’s Exit](https://biztoc.com/x/e4b888b7de28c875) (Published: 2025-08-29)
-- [Forever 21 looks to resurrect China, North America business with new partners](https://biztoc.com/x/35187a73d90ab663) (Published: 2025-08-29)
-- [German retail sales fall more than expected, import prices down](https://biztoc.com/x/2be824b72d219000) (Published: 2025-08-29)
-- [RBNZ Chair Quigley resigns from board](https://biztoc.com/x/293ec30755aff9f6) (Published: 2025-08-29)
-- [German retail sales fall more than expected in July](https://biztoc.com/x/1c634602ad529c8d) (Published: 2025-08-29)
-- [A quiet revolution is unfolding in the mining sector](https://biztoc.com/x/ecfebb35e046cdd0) (Published: 2025-08-29)
-- [With Induction Stoves, Chefs Discover a Foolproof Path to Perfection](https://biztoc.com/x/d2b19e3c807d5f91) (Published: 2025-08-29)
-- [China’s ‘little Nvidia’ warns investors of risks after stock gains 533% in year](https://biztoc.com/x/a49712e8631854fb) (Published: 2025-08-29)
+- [For India, the challenge will be to absorb tariff shock while capitalising on domestic growth: Jim O’Neill](https://economictimes.indiatimes.com/markets/stocks/news/for-india-the-challenge-will-be-to-absorb-tariff-shock-while-capitalising-on-domestic-growth-jim-oneill/articleshow/123578898.cms) (Published: 2025-08-29)
+- [Elon Musk files a motion to dismiss a US SEC suit over his 2022 Twitter stake disclosure, calling allegations that he cheated investors a government overreach](https://biztoc.com/x/6b26d73d8eb70e0e) (Published: 2025-08-29)
+- [Japan Eyes Drone Fleets in Record $60 Billion Defense Budget Proposal](https://biztoc.com/x/475c7fd11ab335d4) (Published: 2025-08-29)
+- [China Warns Against ‘Disorderly Competition’ in Booming AI Race](https://biztoc.com/x/bfce03bd92693b9b) (Published: 2025-08-29)
+- [Court filing: the UK sought broad access to Apple user data, including bulk iCloud interception beyond ADP, and hasn't dropped the mandate as the US claimed](https://biztoc.com/x/9fe312f92bbf6597) (Published: 2025-08-29)
+- [Court filing: the UK sought broad access to Apple user data, including bulk iCloud interception beyond ADP, and hasn't dropped the mandate as the US claimed](https://biztoc.com/x/9fe312f92bbf6597) (Published: 2025-08-29)
+- [ANZ CEO Matos Apologises to Staff Over Job Losses Email Mistake](https://biztoc.com/x/527110172003c9b3) (Published: 2025-08-29)
+- [Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot](https://biztoc.com/x/5259a249e3592a55) (Published: 2025-08-29)
+- [China parade inspires military-themed haircuts for children](https://biztoc.com/x/75e92cc29f1c252a) (Published: 2025-08-29)
+- [Indonesian markets, government rattled after deadly Jakarta protest](https://biztoc.com/x/7987ae6180338c5e) (Published: 2025-08-29)
