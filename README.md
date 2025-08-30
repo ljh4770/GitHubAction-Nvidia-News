@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-30 16:42:22**_
+_Last updated: **2025-08-30 16:52:53**_
 
 - [You can upgrade FSR 3.1 games to FSR 4 with manual DLL swapping — GitHub community discovers FSR swapping works similar to DLSS upgrades](https://www.tomshardware.com/pc-components/gpus/you-can-upgrade-fsr-3-1-games-to-fsr-4-with-manual-dll-swapping-github-community-discovers-fsr-swapping-works-similar-to-dlss-upgrades) (Published: 2025-08-29)
 - [FY Energy Launches Zero-Knowledge Identity Layer Amid Crypto Industry Security Boom](https://www.globenewswire.com/news-release/2025/08/29/3141718/0/en/FY-Energy-Launches-Zero-Knowledge-Identity-Layer-Amid-Crypto-Industry-Security-Boom.html) (Published: 2025-08-29)
