@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-30 20:49:11**_
+_Last updated: **2025-08-30 20:59:35**_
 
-- [Tech Losses Help Bring Stocks Down](https://www.newser.com/story/374366/tech-losses-help-bring-stocks-down.html) (Published: 2025-08-29)
-- [Samsung, SK Hynix Lose US Waiver on Chip Gear for China Use](https://www.livemint.com/companies/news/samsung-sk-hynix-lose-us-waiver-on-chip-gear-for-china-use-11756500460846.html) (Published: 2025-08-29)
-- [Nvidia CEO Jensen Huang says AI will ‘probably’ bring 4-day work weeks: ‘Every industrial revolution leads to some change in social behavior’](https://biztoc.com/x/1ff8a1035a07dda4) (Published: 2025-08-29)
-- [Alibaba looks to end reliance on Nvidia for AI inference](https://biztoc.com/x/25a2282d91c09956) (Published: 2025-08-29)
-- [Stocks Settle Lower as Tech Shares Selloff](https://biztoc.com/x/d6d9e5fea9164230) (Published: 2025-08-29)
-- [Core Scientific, NewAmsterdam Pharma, and More Stocks See Action From Activist Investors](https://biztoc.com/x/5dfe0e8c970b6518) (Published: 2025-08-29)
-- [Alibaba looks to end reliance on Nvidia for AI inference](https://www.theregister.com/2025/08/29/china_alibaba_ai_accelerator/) (Published: 2025-08-29)
-- [Venture Global may soon produce LNG from all blocks at Plaquemines, filings show](https://biztoc.com/x/92989ce9d40b90cd) (Published: 2025-08-29)
-- [States where you can get a COVID vaccine at CVS following RFK Jr. changes](https://biztoc.com/x/4445d9030d876d1a) (Published: 2025-08-29)
-- [Chicago Forecasts $1.15 Billion Budget Gap for Next Year](https://biztoc.com/x/fbdeb5701f5c01ea) (Published: 2025-08-29)
+- [After Earnings, Nvidia Powers Ahead On Robotics And Automation](https://www.forbes.com/sites/johnwerner/2025/08/29/after-earnings-nvidia-powers-ahead-on-robotics-and-automation/) (Published: 2025-08-29)
+- [Spirit Airlines Prepares New Bankruptcy Filing](https://biztoc.com/x/3faec91128a3feb8) (Published: 2025-08-29)
+- [The People Putting Their Bodies on the Line to Study Extreme Heat](https://biztoc.com/x/93618d5a1bc16220) (Published: 2025-08-29)
+- [Spirit Airlines Tumbles After Filing Second Bankruptcy in a Year](https://biztoc.com/x/b49b3cce8bbc7471) (Published: 2025-08-29)
+- [Ukraine Says Minerals Deal With US Progressing ‘Nicely’](https://biztoc.com/x/68450794f0ce5b3c) (Published: 2025-08-29)
+- [Sachem Head Proposes Board Candidates at Performance Food](https://biztoc.com/x/a7e09c3d94a5ebe6) (Published: 2025-08-29)
+- [Wall Street’s Momentum Train Hits Full Speed Into September](https://biztoc.com/x/5250327175b4fdcc) (Published: 2025-08-29)
+- [Spirit Airlines Stock Craters After It Files for Chapter 11—Again](https://biztoc.com/x/eba8d7bfed88faed) (Published: 2025-08-29)
+- [Netflix Billionaire Reed Hastings Gives $2 Million In California Map Fight](https://biztoc.com/x/f125f11768806584) (Published: 2025-08-29)
