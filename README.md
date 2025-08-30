@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-29 23:56:00**_
+_Last updated: **2025-08-30 01:27:31**_
 
-- [Soft outlook weighs on Dell’s stock despite soaring AI server sales](https://siliconangle.com/2025/08/28/soft-outlook-weighs-dells-stock-despite-soaring-ai-server-sales/) (Published: 2025-08-28)
-- [Scott Bessent Says Acquiring Stake In Nvidia 'Not On The Table,' Hints Shipbuilding Sector Could Be Next](https://finance.yahoo.com/news/scott-bessent-says-acquiring-stake-233157635.html) (Published: 2025-08-28)
-- [Show HN: oLLM – LLM Inference for large-context tasks on consumer GPUs](https://github.com/Mega4alik/ollm) (Published: 2025-08-28)
-- [Nvidia Crushes Earnings – and Falls?](https://biztoc.com/x/ab68223c6c414e2c) (Published: 2025-08-28)
-- [The Risks Lurking Behind Nvidia’s Big Earnings Beat](https://biztoc.com/x/73628fc562bd41ca) (Published: 2025-08-28)
-- [Jim Cramer says faith in growth stocks like Nvidia pays off](https://biztoc.com/x/b69b8ecf329ab928) (Published: 2025-08-28)
-- [Why NVIDIA Is a Screaming Buy After Earnings](https://biztoc.com/x/d1cbfb7786d60327) (Published: 2025-08-28)
-- [S&P Surges as Nvidia Growth Slows on AI Doubts | The Close 8/28/2025](https://biztoc.com/x/775dfbb76a9af8dd) (Published: 2025-08-28)
-- [Stock Market Today: Nasdaq Rises; Nvidia Stock Price Falls After Earnings Report — Live Updates - The Wall Street Journal](https://slashdot.org/firehose.pl?op=view&amp;id=178921724) (Published: 2025-08-28)
-- [Jim Cramer says faith in growth stocks like Nvidia pays off](https://www.cnbc.com/2025/08/28/jim-cramer-growth-stocks-nvidia.html) (Published: 2025-08-28)
+- [Microsoft Reveals Two In-House AI Models](https://slashdot.org/story/25/08/28/2058255/microsoft-reveals-two-in-house-ai-models) (Published: 2025-08-29)
+- [Bitcoin miner IREN surges 14% on BTC-driven quarter, AI play](https://cointelegraph.com/news/btc-miner-iren-rises-12-percent-record-year) (Published: 2025-08-29)
+- [Marvell’s stock slumps on concerns over custom silicon, but long-term prospects look strong](https://siliconangle.com/2025/08/28/marvells-stock-slumps-concerns-custom-silicon-long-term-prospects-look-strong/) (Published: 2025-08-29)
+- [Commentary: Cambricon soars on Nvidia’s China absence, but bubble risks loom](https://www.digitimes.com/news/a20250829PD208/nvidia-cambricon-revenue-market-2026.html) (Published: 2025-08-29)
+- [Stock futures are little changed after S&P 500's record high, inflation data looms: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=178922506) (Published: 2025-08-29)
+- [‘Algorithm research to spawn new winners’: IBM’s Crowder](https://economictimes.indiatimes.com/tech/technology/algorithm-research-to-spawn-new-winners-ibms-crowder/articleshow/123571441.cms) (Published: 2025-08-29)
+- [US stock market: S&P 500, Dow Jones scale new peaks. Will Nasdaq reach record on Friday? Here are Wall Street predictions](https://economictimes.indiatimes.com/news/international/us/us-stock-market-sp-500-dow-jones-scale-new-peaks-will-nasdaq-reach-record-on-friday-here-are-wall-street-predictions/articleshow/123573560.cms) (Published: 2025-08-29)
+- [Microsoft AI Previews Two In-House Models](https://www.c-sharpcorner.com/news/microsoft-ai-previews-two-inhouse-models) (Published: 2025-08-29)
+- [Bitcoin miners cash out $485M as BTC struggles to hold $112K; Red flag?](https://cointelegraph.com/news/bitcoin-miners-cash-out-dollar485m-in-btc-here-s-why) (Published: 2025-08-28)
