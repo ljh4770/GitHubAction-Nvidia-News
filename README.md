@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-30 20:59:35**_
+_Last updated: **2025-08-30 21:21:48**_
 
-- [After Earnings, Nvidia Powers Ahead On Robotics And Automation](https://www.forbes.com/sites/johnwerner/2025/08/29/after-earnings-nvidia-powers-ahead-on-robotics-and-automation/) (Published: 2025-08-29)
-- [Spirit Airlines Prepares New Bankruptcy Filing](https://biztoc.com/x/3faec91128a3feb8) (Published: 2025-08-29)
-- [The People Putting Their Bodies on the Line to Study Extreme Heat](https://biztoc.com/x/93618d5a1bc16220) (Published: 2025-08-29)
-- [Spirit Airlines Tumbles After Filing Second Bankruptcy in a Year](https://biztoc.com/x/b49b3cce8bbc7471) (Published: 2025-08-29)
-- [Ukraine Says Minerals Deal With US Progressing ‘Nicely’](https://biztoc.com/x/68450794f0ce5b3c) (Published: 2025-08-29)
-- [Sachem Head Proposes Board Candidates at Performance Food](https://biztoc.com/x/a7e09c3d94a5ebe6) (Published: 2025-08-29)
-- [Wall Street’s Momentum Train Hits Full Speed Into September](https://biztoc.com/x/5250327175b4fdcc) (Published: 2025-08-29)
-- [Spirit Airlines Stock Craters After It Files for Chapter 11—Again](https://biztoc.com/x/eba8d7bfed88faed) (Published: 2025-08-29)
-- [Netflix Billionaire Reed Hastings Gives $2 Million In California Map Fight](https://biztoc.com/x/f125f11768806584) (Published: 2025-08-29)
+- ['AI may eat software,' but several tech names just wrapped a huge week](https://www.cnbc.com/2025/08/29/ai-software-stocks-mongodb-pure-storage-snowflake.html) (Published: 2025-08-29)
+- [The Score: Cracker Barrel, Nvidia, Kohl’s and More Stocks That Defined the Week](https://biztoc.com/x/d769779fc998ae65) (Published: 2025-08-29)
+- [Spirit Airlines files for bankruptcy again, says Labor Day flights not impacted](https://biztoc.com/x/4864ce386702f3ba) (Published: 2025-08-29)
+- [Music Review: Sabrina Carpenter's 'Man's Best Friend' is a sincere but still sexy breakup album](https://biztoc.com/x/6774ade7b9c42e40) (Published: 2025-08-29)
+- [ChatGPT's deadly dangers, Nvidia rides bubble: Week in AI](https://biztoc.com/x/6282058db6b40b9a) (Published: 2025-08-29)
+- [Brain-inspired model outperforms ChatGPT, Claude, and DeepSeek — is it the future of AI?](https://economictimes.indiatimes.com/news/international/us/brain-inspired-model-outperforms-chatgpt-claude-and-deepseek-is-it-the-future-of-ai/articleshow/123592443.cms) (Published: 2025-08-29)
+- [Wall Street’s Momentum Train Hits Full Speed Into September](https://financialpost.com/pmn/business-pmn/wall-streets-momentum-train-hits-full-speed-into-september) (Published: 2025-08-29)
+- [India salt workers pay brutal health cost to season national, world diets](https://biztoc.com/x/6aa39831530d3554) (Published: 2025-08-29)
+- [Travelers may pay the cheapest Labor Day gas prices in 5 years. Here’s why](https://biztoc.com/x/edea08fbddc7a7e3) (Published: 2025-08-29)
+- [Nvidia Is Taking This Crypto Mining Stock Higher Today. Should You Buy Shares Now?](https://biztoc.com/x/492996fcc766ee24) (Published: 2025-08-29)
