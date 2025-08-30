@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-30 04:36:24**_
+_Last updated: **2025-08-30 04:47:20**_
 
 - [China’s KylinOS Linux takes a great leap forward to v11 and kernel 6.6](https://www.theregister.com/2025/08/29/kylinos_11/) (Published: 2025-08-29)
 - [Lenovo Legion 5i Gen 10 15.1" Wqxga Oled i9 24GB RAM 1TB RTX 5070 Gaming Laptop - Eclipse Black Delivered $2,599 @ CenterCom](https://www.ozbargain.com.au/node/921889) (Published: 2025-08-29)
