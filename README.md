@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-30 22:13:50**_
+_Last updated: **2025-08-30 22:31:39**_
 
 - [omni-lpr added to PyPI](https://pypi.org/project/omni-lpr/) (Published: 2025-08-29)
 - [Uncle Sam doesn't want Samsung, SK Hynix making memories in China](https://www.theregister.com/2025/08/29/uncle_sam_doesnt_want_samsung/) (Published: 2025-08-29)
