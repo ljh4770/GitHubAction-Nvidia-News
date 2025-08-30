@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-30 23:28:00**_
+_Last updated: **2025-08-30 23:40:23**_
 
+- [S&P 500 ends lower as Dell and Nvidia drop | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/08/29/breaking-news/sp-500-ends-lower-as-dell-and-nvidia-drop/) (Published: 2025-08-29)
 - [Dow Jones Futures: Alibaba News Hits Nvidia, AI Stocks. Why This Isn't DeepSeek 2.0](https://biztoc.com/x/bd3f9a1cc7710e22) (Published: 2025-08-29)
 - [omni-lpr added to PyPI](https://pypi.org/project/omni-lpr/) (Published: 2025-08-29)
 - [Uncle Sam doesn't want Samsung, SK Hynix making memories in China](https://www.theregister.com/2025/08/29/uncle_sam_doesnt_want_samsung/) (Published: 2025-08-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-30 23:28:00**_
 - [NVIDIA Corporation (NVDA): Jim Cramer Says Biggest Concern Is NVIDIA Making Money While No One Else Does](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2eab09f2-a409-4d73-9388-82aa12138ed8) (Published: 2025-08-29)
 - [Mexico’s Banxico Upwardly Revises 2025 Growth Forecast to 0.6%](https://biztoc.com/x/2a28b8c8b68ce709) (Published: 2025-08-29)
 - [Brazil Is Doubling Down on a Budget Surplus That Nobody Believes](https://biztoc.com/x/3b9a39da02b2ac15) (Published: 2025-08-29)
-- [US makes it harder for chipmakers to run fabs in China amid new Alibaba processor reports](https://siliconangle.com/2025/08/29/us-makes-harder-chipmakers-run-fabs-china-amid-new-alibaba-processor-reports/) (Published: 2025-08-29)
