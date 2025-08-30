@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-30 11:46:40**_
+_Last updated: **2025-08-30 11:57:05**_
 
+- [Alibaba Stock Muscles Up Despite Mixed Q1. China Tech Giant Plans Nvidia Alternative](https://biztoc.com/x/f0543aab26ba7b94) (Published: 2025-08-29)
 - [Health Rounds: Shingles vaccine may lower the risk of heart attack and stroke](https://biztoc.com/x/d445b987cf926e5d) (Published: 2025-08-29)
 - [Orlen signs deal with Equinor for supply of 15% oil it uses](https://biztoc.com/x/b282910ac7c6dea3) (Published: 2025-08-29)
 - [Celsius Stock Is Spiking After PepsiCo Increases Stake](https://biztoc.com/x/fc7f7529e07fe8a3) (Published: 2025-08-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-30 11:46:40**_
 - [S&P 500 Futures Decline in Premarket Trading; Elastic, Affirm Holdings Lead](https://biztoc.com/x/da682de2ee291491) (Published: 2025-08-29)
 - [British bank shares slide on fears of new tax](https://biztoc.com/x/ea5273ddaf9912c7) (Published: 2025-08-29)
 - [Spanish government cancels contract with Telefonica for using Huawei gear](https://biztoc.com/x/78597c16ca463e62) (Published: 2025-08-29)
-- [Financial services firm JTC in takeover talks with Permira, shares soar](https://biztoc.com/x/a3b9e6dd60b03604) (Published: 2025-08-29)
