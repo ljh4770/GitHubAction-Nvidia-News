@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-30 03:43:07**_
+_Last updated: **2025-08-30 03:53:35**_
 
 - [Trump, Nvidia talks to allow advanced AI chip sales in China will take time, CEO says](https://economictimes.indiatimes.com/tech/technology/trump-nvidia-talks-to-allow-advanced-ai-chip-sales-in-china-will-take-time-ceo-says/articleshow/123575840.cms) (Published: 2025-08-29)
 - [Asia stocks mixed after Wall St hits new highs](https://www.digitaljournal.com/world/asia-stocks-mixed-after-wall-st-hits-new-highs/article) (Published: 2025-08-29)
