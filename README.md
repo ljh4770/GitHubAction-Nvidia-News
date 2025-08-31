@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-31 22:42:54**_
+_Last updated: **2025-08-31 22:53:26**_
 
+- [Delta agrees to pay $79M to settle lawsuit after jetliner dumped fuel on schools](https://biztoc.com/x/5c43ff9fe0a16d59) (Published: 2025-08-30)
 - [China's AI Plans, Employment Data and Other Key Things to Watch this Week](https://www.barchart.com/story/news/34508193/china-s-ai-plans-employment-data-and-other-key-things-to-watch-this-week) (Published: 2025-08-30)
 - [Verizon users hit with nationwide outage, including in Bay Area](https://biztoc.com/x/a2173061dc77f3d0) (Published: 2025-08-30)
 - [How to turn $100 into $1,000 by investing](https://www.fool.com.au/2025/08/31/how-to-turn-100-into-1000-by-investing/) (Published: 2025-08-30)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-31 22:42:54**_
 - [Taylor Kitsch's 'The Terminal List' character gets an origin story in 'The Terminal List: Dark Wolf'](https://biztoc.com/x/ccec175940b30596) (Published: 2025-08-30)
 - [Elon Musk’s Latest Breakthrough Could Redefine the Future of Technology](https://www.globenewswire.com/news-release/2025/08/30/3141894/0/en/Elon-Musk-s-Latest-Breakthrough-Could-Redefine-the-Future-of-Technology.html) (Published: 2025-08-30)
 - [Nvidia says two mystery customers accounted for 39% of Q2 revenue](https://biztoc.com/x/7f3bcbff1845592a) (Published: 2025-08-30)
-- [Nvidia says two mystery customers accounted for 39% of Q2 revenue | TechCrunch](https://techcrunch.com/2025/08/30/nvidia-says-two-mystery-customers-accounted-for-39-of-q2-revenue/) (Published: 2025-08-30)
