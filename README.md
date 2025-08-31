@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-31 17:42:16**_
+_Last updated: **2025-08-31 17:52:45**_
 
 - [Goldman Sachs COO Waldron sells about $13.6 million in stock](https://biztoc.com/x/84f5044206ea8686) (Published: 2025-08-30)
 - ['Going to sell like hotcakes': First reviews of Nvidia Jetson AGX Thor Developer Kit leaves me with no doubt - Nvidia has a sleeper hit on its hands](https://www.techradar.com/pro/going-to-sell-like-hotcakes-first-reviews-of-nvidia-jetson-agx-thor-developer-kit-leaves-me-with-no-doubt-nvidia-has-a-sleeper-hit-on-its-hands) (Published: 2025-08-30)
