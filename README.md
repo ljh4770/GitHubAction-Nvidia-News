@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-31 05:43:33**_
+_Last updated: **2025-08-31 05:54:01**_
 
+- [Indonesia Protests Surge Overnight, Leaving at Least Three Dead](https://biztoc.com/x/658cd3cdb03bafa7) (Published: 2025-08-30)
+- [Retailers warn Trump tariffs will trigger consumer price explosion — who will he blame?](https://biztoc.com/x/c5dfc9e671ca5338) (Published: 2025-08-30)
 - [Higher Taxes and Fewer Jobs Await a Troubled UK](https://biztoc.com/x/98b7f8bc1c9e2c78) (Published: 2025-08-30)
 - [Warren Buffett Turns 95 Today. 10 of His Biggest Investing Lessons](https://biztoc.com/x/bcb960fd960ae9ad) (Published: 2025-08-30)
 - [Top Stock Movers Now: Caterpillar, Nvidia, Autodesk, and More](https://biztoc.com/x/0054f0243ffb7f39) (Published: 2025-08-30)
@@ -9,5 +11,3 @@ _Last updated: **2025-08-31 05:43:33**_
 - [Prime spot: Deion Sanders has a sideline bathroom at Colorado, sponsored by Depend undergarment](https://biztoc.com/x/c63f1c06994c2b87) (Published: 2025-08-30)
 - [S&P 500 ends lower as Dell and Nvidia drop](https://economictimes.indiatimes.com/markets/stocks/news/sp-500-ends-lower-as-dell-and-nvidia-drop/articleshow/123596019.cms) (Published: 2025-08-30)
 - [US judge halts Trump effort to expand fast-track deportations](https://biztoc.com/x/d9f42ec7fe176636) (Published: 2025-08-30)
-- [S&P 500 ends lower as Dell and Nvidia drop](https://economictimes.indiatimes.com/markets/stocks/news/sp-500-ends-lower-as-dell-and-nvidia-drop/articleshow/123595844.cms) (Published: 2025-08-30)
-- [Global stocks decline with tech shares; dollar weakens as Fed rate cut in view](https://economictimes.indiatimes.com/markets/stocks/news/global-stocks-decline-with-tech-shares-dollar-weakens-as-fed-rate-cut-in-view/articleshow/123595782.cms) (Published: 2025-08-30)
