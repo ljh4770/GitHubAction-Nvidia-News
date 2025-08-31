@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-31 06:22:05**_
+_Last updated: **2025-08-31 06:43:40**_
 
+- [Alibaba's New AI Chip Sparks Nvidia Dip, But Ross Gerber Calls It 'Laughable' Posturing To Still Secure Blackwell Sales](https://biztoc.com/x/4bc06c2cd461b530) (Published: 2025-08-30)
 - [Truist Financial Increases NVIDIA (NASDAQ:NVDA) Price Target to $228.00](https://www.etfdailynews.com/2025/08/30/truist-financial-increases-nvidia-nasdaqnvda-price-target-to-228-00/) (Published: 2025-08-30)
 - [NVIDIA (NASDAQ:NVDA) Given Outperform Rating at Wedbush](https://www.etfdailynews.com/2025/08/30/nvidia-nasdaqnvda-given-outperform-rating-at-wedbush/) (Published: 2025-08-30)
 - [AI toys spark fierce debate over child development and privacy](https://www.naturalnews.com/2025-08-30-ai-toys-spark-fierce-debate-child-development-privacy.html) (Published: 2025-08-30)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-31 06:22:05**_
 - [Warren Buffett Turns 95 Today. 10 of His Biggest Investing Lessons](https://biztoc.com/x/bcb960fd960ae9ad) (Published: 2025-08-30)
 - [Top Stock Movers Now: Caterpillar, Nvidia, Autodesk, and More](https://biztoc.com/x/0054f0243ffb7f39) (Published: 2025-08-30)
 - [Germany Debates Who Should Cover the Costs of Unhealthy Eating](https://biztoc.com/x/db3a4f913113e66e) (Published: 2025-08-30)
-- [Bond Spreads Sit Near 1998 Lows. What Can Push Them Higher](https://biztoc.com/x/d86f5f0c9bd862b2) (Published: 2025-08-30)
