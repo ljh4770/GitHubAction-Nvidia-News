@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-31 15:40:11**_
+_Last updated: **2025-08-31 15:50:39**_
 
 - [Trump's Intel stake sparks cries of 'socialism' from his party, but he vows more deals are coming](https://richmond.com/news/nation-world/government-politics/article_87b2d4ce-6565-5ed6-bdc4-e57c422337e2.html) (Published: 2025-08-30)
 - [China Blocks Import Of Nvidia H20s](https://www.forbes.com/sites/johnwerner/2025/08/30/china-blocks-import-of-nvidia-h20s/) (Published: 2025-08-30)
