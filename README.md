@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-31 19:22:41**_
+_Last updated: **2025-08-31 19:34:43**_
 
 - [Acer Predator Helios Neo 16: 16" QHD+ 240Hz, Ultra 9 275HX, RTX 5070 Ti, 32GB DDR5, 1TB SSD $1699.99 (2 replies)](https://slickdeals.net/f/18568378-acer-predator-helios-neo-16-16-qhd-240hz-ultra-9-275hx-rtx-5070-ti-32gb-ddr5-1tb-ssd-1699-99) (Published: 2025-08-30)
 - [Fusion Power Company CFS Raises $863M More From Google, Nvidia, and Many Others](https://hardware.slashdot.org/story/25/08/30/1751217/fusion-power-company-cfs-raises-863m-more-from-google-nvidia-and-many-others) (Published: 2025-08-30)
