@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-31 15:28:12**_
+_Last updated: **2025-08-31 15:40:11**_
 
+- [Trump's Intel stake sparks cries of 'socialism' from his party, but he vows more deals are coming](https://richmond.com/news/nation-world/government-politics/article_87b2d4ce-6565-5ed6-bdc4-e57c422337e2.html) (Published: 2025-08-30)
 - [China Blocks Import Of Nvidia H20s](https://www.forbes.com/sites/johnwerner/2025/08/30/china-blocks-import-of-nvidia-h20s/) (Published: 2025-08-30)
 - [Why Wall Street has developed an unhealthy obsession with Nvidia](https://biztoc.com/x/e4c15016dca1a753) (Published: 2025-08-30)
 - [AI Is Golden or ‘Not Rational’: Wall Street’s Battle With Which Road to Take](https://gizmodo.com/ai-bubble-debate-nvidia-2000650997) (Published: 2025-08-30)
@@ -10,4 +11,3 @@ _Last updated: **2025-08-31 15:28:12**_
 - [If You'd Invested $10,000 in Nvidia Stock 10 Years Ago, Here's How Much You'd Have Today](https://biztoc.com/x/3d63d9ee5c8cab8d) (Published: 2025-08-30)
 - [Trump's drag on corporate America](https://biztoc.com/x/1df9f565be45caca) (Published: 2025-08-30)
 - [Taco Bell rethinks AI drive-through after man orders 18,000 waters](https://freerepublic.com/focus/f-chat/4337632/posts) (Published: 2025-08-30)
-- [Can IonQ Stock Hit $70 in 2025?](https://www.barchart.com/story/news/34504721/can-ionq-stock-hit-70-in-2025) (Published: 2025-08-30)
