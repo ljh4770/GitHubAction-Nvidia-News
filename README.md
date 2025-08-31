@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-08-31 05:54:01**_
+_Last updated: **2025-08-31 06:22:05**_
 
+- [Truist Financial Increases NVIDIA (NASDAQ:NVDA) Price Target to $228.00](https://www.etfdailynews.com/2025/08/30/truist-financial-increases-nvidia-nasdaqnvda-price-target-to-228-00/) (Published: 2025-08-30)
+- [NVIDIA (NASDAQ:NVDA) Given Outperform Rating at Wedbush](https://www.etfdailynews.com/2025/08/30/nvidia-nasdaqnvda-given-outperform-rating-at-wedbush/) (Published: 2025-08-30)
+- [AI toys spark fierce debate over child development and privacy](https://www.naturalnews.com/2025-08-30-ai-toys-spark-fierce-debate-child-development-privacy.html) (Published: 2025-08-30)
 - [Indonesia Protests Surge Overnight, Leaving at Least Three Dead](https://biztoc.com/x/658cd3cdb03bafa7) (Published: 2025-08-30)
 - [Retailers warn Trump tariffs will trigger consumer price explosion — who will he blame?](https://biztoc.com/x/c5dfc9e671ca5338) (Published: 2025-08-30)
 - [Higher Taxes and Fewer Jobs Await a Troubled UK](https://biztoc.com/x/98b7f8bc1c9e2c78) (Published: 2025-08-30)
@@ -8,6 +11,3 @@ _Last updated: **2025-08-31 05:54:01**_
 - [Top Stock Movers Now: Caterpillar, Nvidia, Autodesk, and More](https://biztoc.com/x/0054f0243ffb7f39) (Published: 2025-08-30)
 - [Germany Debates Who Should Cover the Costs of Unhealthy Eating](https://biztoc.com/x/db3a4f913113e66e) (Published: 2025-08-30)
 - [Bond Spreads Sit Near 1998 Lows. What Can Push Them Higher](https://biztoc.com/x/d86f5f0c9bd862b2) (Published: 2025-08-30)
-- [Prime spot: Deion Sanders has a sideline bathroom at Colorado, sponsored by Depend undergarment](https://biztoc.com/x/c63f1c06994c2b87) (Published: 2025-08-30)
-- [S&P 500 ends lower as Dell and Nvidia drop](https://economictimes.indiatimes.com/markets/stocks/news/sp-500-ends-lower-as-dell-and-nvidia-drop/articleshow/123596019.cms) (Published: 2025-08-30)
-- [US judge halts Trump effort to expand fast-track deportations](https://biztoc.com/x/d9f42ec7fe176636) (Published: 2025-08-30)
