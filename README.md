@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-01 11:30:37**_
+_Last updated: **2025-09-01 11:42:39**_
 
+- [What it could mean for the Fed to lose its independence](https://biztoc.com/x/fbf32185a8ef5f95) (Published: 2025-08-31)
+- [22 of the Best Labor Day Deals on Laptops, Tablets, Phones, and More](https://uk.pcmag.com/deal/159839/22-of-the-best-labor-day-deals-on-laptops-tablets-phones-and-more) (Published: 2025-08-31)
 - [PUBG developer Krafton is eyeing major expansion in India, seeking acquisitions as growth slows in China and the US, and plans to invest at least $50M annually](https://biztoc.com/x/ed2168ab3f22672a) (Published: 2025-08-31)
 - [An interview with Bumble CEO Whitney Wolfe Herd on AI being the “most emotionally intelligent matchmaker”, planning an AI-powered matchmaking app, and more](https://biztoc.com/x/39a619fc0c506168) (Published: 2025-08-31)
 - [Xi Jinping is pushing the country's tech industry to be oriented toward applications for AI, charting a pragmatic alternative to Silicon Valley's pursuit of AGI](https://biztoc.com/x/eb4648bfc941a346) (Published: 2025-08-31)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-01 11:30:37**_
 - [Links 8/31/2025](https://www.nakedcapitalism.com/2025/08/links-8-31-2025.html) (Published: 2025-08-31)
 - [SARB Seeks to Open Payments System to Non-Banks: News24](https://biztoc.com/x/4ea8b7d64d10ce88) (Published: 2025-08-31)
 - [SentinelOne: Breakthrough AI Tech Could Change Cybersecurity](https://biztoc.com/x/0c4ffc961fca8d95) (Published: 2025-08-31)
-- [Is China making progress toward AI self-sufficiency?](https://finance.yahoo.com/news/china-making-progress-toward-ai-103005086.html) (Published: 2025-08-31)
-- [Norway selects British-made frigates for its navy, Norwegian government says](https://biztoc.com/x/19ef2a078409ec67) (Published: 2025-08-31)
