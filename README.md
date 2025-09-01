@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-01 18:52:56**_
+_Last updated: **2025-09-01 19:10:41**_
 
+- [Who says crime doesn't pay? Microsoft has deployed its own security chip on all Azure servers to protect its customers from $10 trillion cybercrime 'pandemic'](https://www.techradar.com/pro/who-says-crime-doesnt-pay-microsoft-has-deployed-its-own-security-chip-on-all-azure-servers-to-protect-its-customers-from-usd10-trillion-cybercrime-pandemic) (Published: 2025-08-31)
+- [Battlefield 6 Ditched Ray Tracing to Focus on Performance](https://wccftech.com/battlefield-6-ditched-ray-tracing-focus-performance/) (Published: 2025-08-31)
 - [Nvidia Leans Heavily on Two Undisclosed Customers for Revenue Boom](https://biztoc.com/x/099132379d40072f) (Published: 2025-08-31)
 - [Build your own spaceships, go spacewalking, skydiving and more: No Man's Sky gets huge Voyagers update](https://www.notebookcheck.net/Build-your-own-spaceships-go-spacewalking-skydiving-and-more-No-Man-s-Sky-gets-huge-Voyagers-update.1101553.0.html) (Published: 2025-08-31)
 - [Jim Cramer stuns with blunt take on soaring AI stock](https://www.thestreet.com/technology/jim-cramer-stuns-with-blunt-take-on-soaring-ai-stock-) (Published: 2025-08-31)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-01 18:52:56**_
 - [Charge the ultra-rich tens of millions of dollars for a New Zealand passport – Andrew Barnes](https://www.nzherald.co.nz/business/charge-the-ultra-rich-tens-of-millions-of-dollars-for-a-new-zealand-passport-andrew-barnes/5SGTZZNZXRE4VDFM4PPVWOFC6Q/) (Published: 2025-08-31)
 - [ubuntu boots to a black screen after uninstalling drivers](https://askubuntu.com/questions/1555290/ubuntu-boots-to-a-black-screen-after-uninstalling-drivers) (Published: 2025-08-31)
 - [If I Could Only Buy 1 Artificial Intelligence (AI) Chip Stock Over The Next 10 Years, This Would Be It (Hint: It's Not Nvidia)](https://biztoc.com/x/9539fa0e27a3ca26) (Published: 2025-08-31)
-- [11 Ways To Profit From Nvidia, Regardless Of What Happens From Here](https://biztoc.com/x/09ea636df573f2c3) (Published: 2025-08-31)
-- [Analysts turn heads with Nvidia rival's stock target after earnings](https://biztoc.com/x/fc212b1cb986337a) (Published: 2025-08-31)
