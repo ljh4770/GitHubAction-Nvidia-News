@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-01 18:13:49**_
+_Last updated: **2025-09-01 18:41:18**_
 
+- [Nvidia Leans Heavily on Two Undisclosed Customers for Revenue Boom](https://biztoc.com/x/099132379d40072f) (Published: 2025-08-31)
 - [Build your own spaceships, go spacewalking, skydiving and more: No Man's Sky gets huge Voyagers update](https://www.notebookcheck.net/Build-your-own-spaceships-go-spacewalking-skydiving-and-more-No-Man-s-Sky-gets-huge-Voyagers-update.1101553.0.html) (Published: 2025-08-31)
 - [Jim Cramer stuns with blunt take on soaring AI stock](https://www.thestreet.com/technology/jim-cramer-stuns-with-blunt-take-on-soaring-ai-stock-) (Published: 2025-08-31)
 - [Rapidus’ 2nm “2HP” Process Will Reportedly Compete With TSMC’s N2 in Logic Density, Also Beating Intel’s 18A by a Huge Margin](https://wccftech.com/rapidus-2nm-2hp-process-will-compete-with-tsmc-n2-in-transistor-density/) (Published: 2025-08-31)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-01 18:13:49**_
 - [If I Could Only Buy 1 Artificial Intelligence (AI) Chip Stock Over The Next 10 Years, This Would Be It (Hint: It's Not Nvidia)](https://biztoc.com/x/9539fa0e27a3ca26) (Published: 2025-08-31)
 - [11 Ways To Profit From Nvidia, Regardless Of What Happens From Here](https://biztoc.com/x/09ea636df573f2c3) (Published: 2025-08-31)
 - [Analysts turn heads with Nvidia rival's stock target after earnings](https://biztoc.com/x/fc212b1cb986337a) (Published: 2025-08-31)
-- [Lost of all network interface after kernel update on automatic update with unattended-upgrade](https://askubuntu.com/questions/1555287/lost-of-all-network-interface-after-kernel-update-on-automatic-update-with-unatt) (Published: 2025-08-31)
