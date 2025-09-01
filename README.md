@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-01 19:10:41**_
+_Last updated: **2025-09-01 19:24:46**_
 
+- [This authoritarian Trump statement didn't get the attention it deserves](https://www.abc.net.au/news/2025-09-01/trump-federal-reserve-financial-markets-authoritarian/105713506) (Published: 2025-08-31)
 - [Who says crime doesn't pay? Microsoft has deployed its own security chip on all Azure servers to protect its customers from $10 trillion cybercrime 'pandemic'](https://www.techradar.com/pro/who-says-crime-doesnt-pay-microsoft-has-deployed-its-own-security-chip-on-all-azure-servers-to-protect-its-customers-from-usd10-trillion-cybercrime-pandemic) (Published: 2025-08-31)
 - [Battlefield 6 Ditched Ray Tracing to Focus on Performance](https://wccftech.com/battlefield-6-ditched-ray-tracing-focus-performance/) (Published: 2025-08-31)
 - [Nvidia Leans Heavily on Two Undisclosed Customers for Revenue Boom](https://biztoc.com/x/099132379d40072f) (Published: 2025-08-31)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-01 19:10:41**_
 - [Dow Jones Futures Due: Trump Tariff Ruling May Not Affect Markets. Alibaba News Hits Nvidia, AI](https://biztoc.com/x/6c3ae4479a985396) (Published: 2025-08-31)
 - [Charge the ultra-rich tens of millions of dollars for a New Zealand passport – Andrew Barnes](https://www.nzherald.co.nz/business/charge-the-ultra-rich-tens-of-millions-of-dollars-for-a-new-zealand-passport-andrew-barnes/5SGTZZNZXRE4VDFM4PPVWOFC6Q/) (Published: 2025-08-31)
 - [ubuntu boots to a black screen after uninstalling drivers](https://askubuntu.com/questions/1555290/ubuntu-boots-to-a-black-screen-after-uninstalling-drivers) (Published: 2025-08-31)
-- [If I Could Only Buy 1 Artificial Intelligence (AI) Chip Stock Over The Next 10 Years, This Would Be It (Hint: It's Not Nvidia)](https://biztoc.com/x/9539fa0e27a3ca26) (Published: 2025-08-31)
