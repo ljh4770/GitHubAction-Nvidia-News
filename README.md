@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-02 05:12:44**_
+_Last updated: **2025-09-02 05:33:41**_
 
 - [IREN Expands GPU Fleet to 8,500 Units with New Purchase](https://finance.yahoo.com/news/iren-expands-gpu-fleet-8-050456163.html) (Published: 2025-09-01)
 - [Some Older NVIDIA Graphics Cards May Not Boot Correctly with Windows Secure Boot After June 2026](https://www.techpowerup.com/340520/some-older-nvidia-graphics-cards-may-not-boot-correctly-with-windows-secure-boot-after-june-2026) (Published: 2025-09-01)
