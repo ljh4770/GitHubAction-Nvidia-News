@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-02 11:44:17**_
+_Last updated: **2025-09-02 11:54:58**_
 
+- [Abu Dhabi-backed G42 aims to diversify chip suppliers for AI campus, Semafor reports](https://www.channelnewsasia.com/business/abu-dhabi-backed-g42-aims-diversify-chip-suppliers-ai-campus-semafor-reports-5326811) (Published: 2025-09-01)
 - [Is Iren Limited Stock Still a Buy?](https://biztoc.com/x/c0d27394b014baf8) (Published: 2025-09-01)
 - [Leadership and business lessons from TSMC's 94-year-old billionaire founder, Morris Chang](https://www.businessinsider.com/tsmc-billionaire-founder-morris-chang-lessons-business-leadership-advice-2025-8) (Published: 2025-09-01)
 - [Alibaba whips out AI chip to dodge Nvidia squeeze](https://www.madshrimps.be/news/alibaba-whips-out-ai-chip-to-dodge-nvidia-squeeze/) (Published: 2025-09-01)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-02 11:44:17**_
 - [Abu Dhabi’s G42 eyes chip options beyond Nvidia](https://biztoc.com/x/bcd68fffa223249f) (Published: 2025-09-01)
 - [Why Is Crypto Down Today? – September 1, 2025](https://cryptonews.com/news/why-is-crypto-down-today-september-1-2025/) (Published: 2025-09-01)
 - [Tech stocks head south as investors see that growth in AI may not be limitless](https://biztoc.com/x/86a745ec1275c759) (Published: 2025-09-01)
-- [Tech stocks head south as investors see that growth in AI may not be limitless](https://finance.yahoo.com/news/tech-stocks-head-south-investors-105513789.html) (Published: 2025-09-01)
