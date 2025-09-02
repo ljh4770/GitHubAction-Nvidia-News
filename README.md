@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-02 19:29:23**_
+_Last updated: **2025-09-02 19:40:15**_
 
 - [Ending soon – LG's B5 OLED TV is on sale for an unbelievable price of $699.99 for Labor Day](https://www.techradar.com/seasonal-sales/ending-soon-lgs-b5-oled-tv-is-on-sale-for-an-unbelievable-price-of-usd699-99-for-labor-day) (Published: 2025-09-01)
 - [Report: OpenAI plans to build 1GW+ data center in India](https://siliconangle.com/2025/09/01/report-openai-plans-build-1gw-data-center-india/) (Published: 2025-09-01)
