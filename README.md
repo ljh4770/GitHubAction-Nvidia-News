@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-02 23:28:02**_
+_Last updated: **2025-09-02 23:39:57**_
 
 - [Anthropic's leading researchers acted as moderate accelerationists](https://www.lesswrong.com/posts/PBd7xPAh22y66rbme/anthropic-s-leading-researchers-acted-as-moderate) (Published: 2025-09-01)
 - [Accelerated Innovation: AI-Ready Data Centre Solutions](https://www.itnews.com.au/feature/accelerated-innovation-ai-ready-data-centre-solutions-620013) (Published: 2025-09-01)
