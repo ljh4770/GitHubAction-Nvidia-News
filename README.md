@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-02 13:42:50**_
+_Last updated: **2025-09-02 13:53:47**_
 
 - [Amazon’s bombshell move triggers a high-stakes AI turf war](https://www.thestreet.com/technology/amazons-bombshell-move-triggers-a-high-stakes-ai-turf-war-) (Published: 2025-09-01)
 - [India’s Reliance forms new AI subsidiary](https://www.telecomtv.com/content/telcos-and-ai-channel/india-s-reliance-forms-new-ai-subsidiary-53728/) (Published: 2025-09-01)
