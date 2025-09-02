@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-02 22:21:41**_
+_Last updated: **2025-09-02 22:34:49**_
 
 - [Amazon construction freeze? PM Christopher Luxon at tech giant’s launch but massive Auckland site bare - Tech Insider](https://www.nzherald.co.nz/business/amazon-construction-freeze-pm-at-tech-giants-launch-but-massive-auckland-site-sits-bare-tech-insider/T4B6XZSAX5AOBGZVPVISXRFJ2I/) (Published: 2025-09-01)
 - [Government’s Best Hidden Secret May Soon Be Unlocked](https://www.globenewswire.com/news-release/2025/09/01/3142288/0/en/Government-s-Best-Hidden-Secret-May-Soon-Be-Unlocked.html) (Published: 2025-09-01)
