@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-02 21:09:14**_
+_Last updated: **2025-09-02 21:25:31**_
 
 - [Marvell Technology (MRVL) Makes AI ASICs, Says Jim Cramer](https://finance.yahoo.com/news/marvell-technology-mrvl-makes-ai-210042524.html) (Published: 2025-09-01)
 - [⿻ Plurality & 6pack.care](https://www.lesswrong.com/posts/anoK4akwe8PKjtzkL/plurality-and-6pack-care) (Published: 2025-09-01)
@@ -10,4 +10,4 @@ _Last updated: **2025-09-02 21:09:14**_
 - [TSMC’s foundry dominance hits new heights as global revenues smash records — 14.6% QoQ jump sees growth for Samsung, but TSMC's market share climbs to 70.2%](https://www.tomshardware.com/tech-industry/tsmc-revenues-hit-record-high-in-q2-2025-earnings) (Published: 2025-09-01)
 - [The Powerful Alienware Area-51 RTX 5090 Gaming PC Drops to the Lowest Price Ever for Labor Day](https://www.ign.com/articles/alienware-area-51-rtx-5090-gaming-pc-deal-dell-labor-day-sale-2025) (Published: 2025-09-01)
 - [China accelerates shift to homegrown AI chips under U.S. pressure](https://www.notebookcheck.net/China-accelerates-shift-to-homegrown-AI-chips-under-U-S-pressure.1102085.0.html) (Published: 2025-09-01)
-- [Hilarious Glitches Make Taco Bell Nervous About AI Taking Orders](https://freerepublic.com/focus/f-news/4338027/posts) (Published: 2025-09-01)
+- [Hilarious Glitches Make Taco Bell Nervous About AI Taking Orders](https://freerepublic.com/focus/f-chat/4338027/posts) (Published: 2025-09-01)
