@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-02 22:45:00**_
+_Last updated: **2025-09-02 22:55:14**_
 
 - [Nvidia Says Two Buyers Drove 39% of Q2 Sales](http://www.pymnts.com/news/artificial-intelligence/2025/nvidia-says-two-buyers-drove-39percent-q2-sales/) (Published: 2025-09-01)
 - [Amazon construction freeze? PM Christopher Luxon at tech giant’s launch but massive Auckland site bare - Tech Insider](https://www.nzherald.co.nz/business/amazon-construction-freeze-pm-at-tech-giants-launch-but-massive-auckland-site-sits-bare-tech-insider/T4B6XZSAX5AOBGZVPVISXRFJ2I/) (Published: 2025-09-01)
