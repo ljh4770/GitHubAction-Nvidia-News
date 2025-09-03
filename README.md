@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 14:59:52**_
+_Last updated: **2025-09-03 15:27:40**_
 
+- [5 Stocks That Should Stay Stable in a Trump Economy](https://finance.yahoo.com/news/5-stocks-stay-stable-trump-151416022.html) (Published: 2025-09-02)
+- [NVIDIA Corp (NVDA) Warns of Legal Risks on Missing Regulations for US 15% AI Chips Fees](https://finance.yahoo.com/news/nvidia-corp-nvda-warns-legal-151320989.html) (Published: 2025-09-02)
+- [XStocks launches on Ethereum with 60 tokenized stocks, including Nvidia and Tesla](https://cointelegraph.com/news/xstocks-launches-ethereum-60-tokenized-stocks-nvidia-tesla) (Published: 2025-09-02)
+- [3 reasons why tech stocks are getting whacked to start the month](https://www.businessinsider.com/tech-stock-selloff-market-crash-outlook-nasdaq-nvidia-amazon-2025-9) (Published: 2025-09-02)
+- [Chip Giant TSMC Shares Drop 2% After US Revokes Waiver For China Shipments](https://www.forbes.com/sites/tylerroush/2025/09/02/chip-giant-tsmc-shares-drop-2-after-us-revokes-waiver-for-china-shipments/) (Published: 2025-09-02)
+- [Assessing NVIDIA's Performance Against Competitors In Semiconductors & Semiconductor Equipment Industry](https://biztoc.com/x/eb328614e7672b70) (Published: 2025-09-02)
+- [AI stocks face a reality check after a $1.5 billion implosion](https://biztoc.com/x/ee349831c63f632d) (Published: 2025-09-02)
 - [Nvidia Plummets Below Key Level After Alibaba's China AI Chip Surprise; Is Nvidia A Buy Or Sell Now?](https://biztoc.com/x/87234026ba43b5db) (Published: 2025-09-02)
 - [gapTrick 1.0.25](https://pypi.org/project/gapTrick/) (Published: 2025-09-02)
 - [Vulnerability Summary for the Week of August 25, 2025](https://www.cisa.gov/news-events/bulletins/sb25-245) (Published: 2025-09-02)
-- [TSMC Debunks Wild Rumor Claiming NVIDIA CEO Visited Taiwan To Discuss A Purported Trump Suggested ‘AI Chip Profit-Sharing’ Plan](https://wccftech.com/tsmc-debunks-wild-rumor-claiming-nvidia-ceo-visited-taiwan-to-discuss-a-purported-trump-suggested-ai-chip-profit-sharing-plan/) (Published: 2025-09-02)
-- [What Is Going On With Semiconductor Stocks On Tuesday](https://biztoc.com/x/24afcb30d764edee) (Published: 2025-09-02)
-- [Wall Street pulls further from its records under the weight of pressure from the bond market](https://www.bostonherald.com/2025/09/02/stock-market-bond-market-pressure/) (Published: 2025-09-02)
-- [Broadcom’s secret weapon pays off 75% of the time](https://rollingout.com/2025/09/02/broadcoms-amazing-75-winning-streak/) (Published: 2025-09-02)
-- [Microsoft joins Google in a federal cloud price war](https://qz.com/microsoft-cloud-deal-us-government-google) (Published: 2025-09-02)
-- [Dan Ives reveals his top Mag 7 stock pick](https://biztoc.com/x/7316a0847734ba85) (Published: 2025-09-02)
-- [If this report about 2nm silicon from Japanese chip manufacturing start-up Rapidus beating TSMC is true, there might just be hope for GPU prices](https://www.pcgamer.com/hardware/if-this-report-about-2nm-silicon-from-japanese-chip-manufacturing-start-up-rapidus-beating-tsmc-is-true-there-might-just-be-hope-for-gpu-prices/) (Published: 2025-09-02)
