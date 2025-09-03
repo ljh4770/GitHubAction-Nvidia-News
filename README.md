@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 19:24:44**_
+_Last updated: **2025-09-03 19:36:46**_
 
 - [Coinbase launches futures trading for index that includes Nvidia and BlackRock’s Bitcoin ETF](https://biztoc.com/x/acf23187b46cdeff) (Published: 2025-09-02)
 - [Stocks are falling towards their worst day in a month amid tech sector declines and tariff concerns](https://fortune.com/2025/09/02/stock-market-today-stocks-falling-tech-sector-declines-tariff-concerns/) (Published: 2025-09-02)
