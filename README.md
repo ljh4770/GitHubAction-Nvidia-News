@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 13:32:36**_
+_Last updated: **2025-09-03 13:46:25**_
 
+- [How IREN Stock Can Double To $50?](https://www.forbes.com/sites/greatspeculations/2025/09/02/how-iren-stock-can-double-to-50/) (Published: 2025-09-02)
+- [Urban Company, Boat IPOs; India's first semiconductor chip](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/urban-company-boat-ipos-indias-first-semiconductor-chip/articleshow/123658584.cms) (Published: 2025-09-02)
+- [What Makes Synopsys (SNPS) a Good Investment?](https://finance.yahoo.com/news/makes-synopsys-snps-good-investment-133636925.html) (Published: 2025-09-02)
+- [Nvidia Just Sounded the Silent Alarm -- but Are Investors Paying Attention?](https://biztoc.com/x/489910bbe1c4899c) (Published: 2025-09-02)
+- [Stock market today: Dow, S&P 500, Nasdaq sink as Treasury yields jump amid tariff, Fed uncertainty](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520274.html) (Published: 2025-09-02)
+- [Nvidia, Palantir, Tesla Tumble In Pre-Market Trading As Rising Yields Crush High P/E Tech — Gary Black Sees Fed Cut Bets Colliding With Inflation](https://biztoc.com/x/72ebad1547e1b1cb) (Published: 2025-09-02)
+- [Samsung and SK Hynix, the world's biggest makers of DRAM and flash memory chips, have potentially lost the right to buy US equipment for use in their China-based factories](https://www.pcgamer.com/hardware/samsung-and-sk-hynix-the-worlds-biggest-makers-of-dram-and-flash-memory-chips-have-potentially-lost-the-right-to-buy-us-equipment-for-use-in-their-china-based-factories/) (Published: 2025-09-02)
 - [AI boosts career, not replace it: Real work lessons from engineer who uses AI as second brain](https://economictimes.indiatimes.com/magazines/panache/ai-boosts-career-not-replace-it-real-work-lessons-from-engineer-who-uses-ai-as-second-brain/articleshow/123658145.cms) (Published: 2025-09-02)
 - [Nvidia, PepsiCo, NIO, Biogen, Newmont, Signet, and More Stock Market Movers](https://biztoc.com/x/b443eef6178d5199) (Published: 2025-09-02)
 - [Stocks to Watch Tuesday: Nvidia, AMD, Eli Lilly, PepsiCo](https://biztoc.com/x/21d73cf674248033) (Published: 2025-09-02)
-- [Salesforce layoffs: What CEO Marc Benioff said as AI reduces company's workforce from 9,000 to 5,000](https://www.livemint.com/companies/news/salesforce-layoffs-what-ceo-marc-benioff-said-as-ai-reduces-companys-workforce-from-9-000-to-5000-11756814796142.html) (Published: 2025-09-02)
-- [It’s the Humidity: How International Researchers in Poland, Deep Learning and NVIDIA GPUs Could Change the Forecast](https://blogs.nvidia.com/blog/humidity/) (Published: 2025-09-02)
-- [NVIDIA DLSS 4 Multi Frame Generation Is Available in Microsoft Flight Simulator 2024](https://wccftech.com/nvidia-dlss-4-multi-frame-generation-available-microsoft-flight-simulator-2024/) (Published: 2025-09-02)
-- [The Names of These Hall-of-Fame Hurricanes Will Never Be Used Again](https://biztoc.com/x/74a82a35cba7c5d9) (Published: 2025-09-02)
-- [Which Multi-GPU Configurations Are You Planning to Deploy?](https://frankdenneman.nl/2025/09/02/which-multi-gpu-configurations-are-you-planning-to-deploy/) (Published: 2025-09-02)
-- [HP Omen 16 Slim gaming laptop with Intel Core Ultra 5 225H and Nvidia RTX 5050 discounted down to $849](https://www.notebookcheck.net/HP-Omen-16-Slim-gaming-laptop-with-Intel-Core-Ultra-5-225H-and-Nvidia-RTX-5050-discounted-down-to-849.1102664.0.html) (Published: 2025-09-02)
-- [Stock Market Today: Dow Slides On Trump Tariff News; Nvidia, Palantir Sell Off (Live Coverage)](https://biztoc.com/x/384f23c888f97e65) (Published: 2025-09-02)
