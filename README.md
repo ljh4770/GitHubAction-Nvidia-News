@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 10:47:01**_
+_Last updated: **2025-09-03 10:57:18**_
 
+- [ViewSonic VX2766‑2K‑PRO‑4 monitor launches with QHD Fast IPS and 400Hz native, 425Hz OC refresh rate](https://www.notebookcheck.net/ViewSonic-VX2766-2K-PRO-4-monitor-launches-with-QHD-Fast-IPS-and-400-Hz-native-425-Hz-OC-refresh-rate.1102653.0.html) (Published: 2025-09-02)
 - [Meet Dario Amodei, Anthropic's outspoken CEO](https://www.businessinsider.com/dario-amodei) (Published: 2025-09-02)
 - [The Smartest Artificial Intelligence (AI) Stocks to Buy With $1,000](https://biztoc.com/x/363418dcf58edccb) (Published: 2025-09-02)
 - [Telkom Indonesia launches AI centre of excellence](https://www.telecomtv.com/content/telcos-and-ai-channel/telkom-indonesia-launches-ai-centre-of-excellence-53736/) (Published: 2025-09-02)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-03 10:47:01**_
 - [Top 10 richest people: Their education, universities and rankings](https://indianexpress.com/article/education/elon-musk-to-larry-ellison-forbes-richest-people-education-universities-harvard-chicago-university-10225677/) (Published: 2025-09-02)
 - [Stocks to Watch Tuesday: Nestlé, Novo Nordisk, Nvidia](https://biztoc.com/x/1f3bcac24318cded) (Published: 2025-09-02)
 - [IOH advances its sovereign strategy](https://www.telecomtv.com/content/security/ioh-advances-its-sovereign-strategy-53735/) (Published: 2025-09-02)
-- [The PC hardware industry needs to step up in 2026](https://www.xda-developers.com/things-i-want-from-pc-hardware-industry-2026/) (Published: 2025-09-02)
