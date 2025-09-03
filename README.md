@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 07:27:52**_
+_Last updated: **2025-09-03 07:40:06**_
 
 - [GenAI meets capex: Telco data centers as the next earnings driver](https://economictimes.indiatimes.com/markets/stocks/news/genai-meets-capex-telco-data-centers-as-the-next-earnings-driver/articleshow/123651051.cms) (Published: 2025-09-02)
 - [Corsair Void Wireless v2 Review – Lightweight competitor with great battery](https://wccftech.com/review/corsair-void-wireless-v2-review-lightweight-competitor-with-great-battery/) (Published: 2025-09-02)
