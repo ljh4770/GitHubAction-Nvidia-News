@@ -1,8 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 22:22:58**_
+_Last updated: **2025-09-03 22:36:23**_
 
-- [jetson-jolt added to PyPI](https://pypi.org/project/jetson-jolt/) (Published: 2025-09-02)
 - [jetson-jolt 0.8.0](https://pypi.org/project/jetson-jolt/0.8.0/) (Published: 2025-09-02)
+- [jetson-jolt added to PyPI](https://pypi.org/project/jetson-jolt/) (Published: 2025-09-02)
 - [LayerX Raises $101M to Provide Back-Office Automation in Japan](http://www.pymnts.com/news/fintech-investments/2025/layerx-raises-101-million-dollars-provide-back-office-automation-japan/) (Published: 2025-09-02)
 - [Anthropic triples valuation to $183B in new $13B funding round](https://siliconangle.com/2025/09/02/anthropic-triples-valuation-183b-new-13b-funding-round/) (Published: 2025-09-02)
 - [Can't detect new GPU](https://askubuntu.com/questions/1555392/cant-detect-new-gpu) (Published: 2025-09-02)
