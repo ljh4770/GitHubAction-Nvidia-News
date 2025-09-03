@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 11:40:30**_
+_Last updated: **2025-09-03 11:51:07**_
 
+- [Big Tech companies ‘driving innovation in agentic AI’](https://www.verdict.co.uk/big-tech-companies-driving-innovation-in-agentic-ai/) (Published: 2025-09-02)
 - [Digi Power X Expands Digital Asset Holdings and Accelerates Pivot to AI Infrastructure with Alabama Build-Out and Reports August 2025 Production Results](https://financialpost.com/globe-newswire/digi-power-x-expands-digital-asset-holdings-and-accelerates-pivot-to-ai-infrastructure-with-alabama-build-out-and-reports-august-2025-production-results) (Published: 2025-09-02)
 - [Digi Power X Expands Digital Asset Holdings and Accelerates Pivot to AI Infrastructure with Alabama Build-Out and Reports August 2025 Production Results](https://www.globenewswire.com/news-release/2025/09/02/3142540/0/en/Digi-Power-X-Expands-Digital-Asset-Holdings-and-Accelerates-Pivot-to-AI-Infrastructure-with-Alabama-Build-Out-and-Reports-August-2025-Production-Results.html) (Published: 2025-09-02)
 - [ASUS Expands Its Radeon RX 9000 Series Lineup With Prime RX 9070 XT WHITE](https://www.techpowerup.com/340574/asus-expands-its-radeon-rx-9000-series-lineup-with-prime-rx-9070-xt-white) (Published: 2025-09-02)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-03 11:40:30**_
 - [ViewSonic VX2766‑2K‑PRO‑4 monitor launches with QHD Fast IPS and 400Hz native, 425Hz OC refresh rate](https://www.notebookcheck.net/ViewSonic-VX2766-2K-PRO-4-monitor-launches-with-QHD-Fast-IPS-and-400-Hz-native-425-Hz-OC-refresh-rate.1102653.0.html) (Published: 2025-09-02)
 - [Meet Dario Amodei, Anthropic's outspoken CEO](https://www.businessinsider.com/dario-amodei) (Published: 2025-09-02)
 - [The Smartest Artificial Intelligence (AI) Stocks to Buy With $1,000](https://biztoc.com/x/363418dcf58edccb) (Published: 2025-09-02)
-- [Telkom Indonesia launches AI centre of excellence](https://www.telecomtv.com/content/telcos-and-ai-channel/telkom-indonesia-launches-ai-centre-of-excellence-53736/) (Published: 2025-09-02)
