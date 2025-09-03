@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 16:14:49**_
+_Last updated: **2025-09-03 16:40:13**_
 
+- [Tesla’s Dojo, a timeline | TechCrunch](https://techcrunch.com/2025/09/02/teslas-dojo-a-timeline/) (Published: 2025-09-02)
+- [Nvidia says rumors of sold out chips 'categorically false'](https://thefly.com/permalinks/entry.php/id4191634/NVDA-Nvidia-says-rumors-of-sold-out-chips-categorically-false) (Published: 2025-09-02)
+- [Time To Read Between The Lines For Nvidia, Broadcom And More](https://biztoc.com/x/4f9152809a5a6b24) (Published: 2025-09-02)
+- [The Alienware Aurora RTX 5080 Gaming PC Drops to its Lowest Price Even After the Labor Day Sale Is Over](https://www.ign.com/articles/alienware-aurora-r16-rtx-5080-gaming-pc-deal-under-2000) (Published: 2025-09-02)
+- [Big tech’s market dominance stirs debate on concentration risks](https://biztoc.com/x/a192956003061781) (Published: 2025-09-02)
+- [Announcing the new cluster creation experience for Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/announcing-the-new-cluster-creation-experience-for-amazon-sagemaker-hyperpod/) (Published: 2025-09-02)
+- [Tesla Dojo: the rise and fall of Elon Musk's AI supercomputer | TechCrunch](https://techcrunch.com/2025/09/02/tesla-dojo-the-rise-and-fall-of-elon-musks-ai-supercomputer/) (Published: 2025-09-02)
+- [Ahead of Market: 10 things that will decide stock market action on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/123660717.cms) (Published: 2025-09-02)
 - [Billionaire Ray Dalio's hard-hitting call on the economy turns heads](https://www.thestreet.com/economy/billionaire-ray-dalios-hard-hitting-call-on-the-economy-turns-heads-) (Published: 2025-09-02)
 - [Ubuntu 24.04, cuda 12.9, blender will not find cuda](https://askubuntu.com/questions/1555398/ubuntu-24-04-cuda-12-9-blender-will-not-find-cuda) (Published: 2025-09-02)
-- [HP OMEN 45L: Intel Ultra 7 265K, RTX 5070 Ti, 32GB DDR5-6000 RGB Heatsink RAM, 1TB SSD $1999.99 (1 replies)](https://slickdeals.net/f/18575080-hp-omen-45l-intel-ultra-7-265k-rtx-5070-ti-32gb-ddr5-6000-rgb-heatsink-ram-1tb-ssd-1999-99) (Published: 2025-09-02)
-- [New VMware private AI infrastructure rethinks Tanzu, again](https://www.techtarget.com/searchitoperations/news/366630312/New-VMware-private-AI-infrastructure-rethinks-Tanzu-again) (Published: 2025-09-02)
-- [rapids-singlecell 0.13.2](https://pypi.org/project/rapids-singlecell/0.13.2/) (Published: 2025-09-02)
-- [i can't update or change my nvidia drivers and they seem to be stuck on the x.org drivers](https://askubuntu.com/questions/1555377/i-cant-update-or-change-my-nvidia-drivers-and-they-seem-to-be-stuck-on-the-x-or) (Published: 2025-09-02)
-- [nvidia-dali-nightly-cuda120 1.52.0.dev20250901](https://pypi.org/project/nvidia-dali-nightly-cuda120/1.52.0.dev20250901/) (Published: 2025-09-02)
-- [Kazeta: New Linux OS Transforms PCs into Retro Game Consoles](https://www.techpowerup.com/340588/kazeta-new-linux-os-transforms-pcs-into-retro-game-consoles) (Published: 2025-09-02)
-- [Here are the PC requirements for Dying Light: The Beast](https://www.eurogamer.net/here-are-the-pc-requirements-for-dying-light-the-beast) (Published: 2025-09-02)
-- [What's Going On With Nvidia Stock?](https://biztoc.com/x/3243077a7d06a4c8) (Published: 2025-09-02)
