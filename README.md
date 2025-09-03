@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 03:52:45**_
+_Last updated: **2025-09-03 04:15:31**_
 
+- [Japanese 10-Year Bonds Gain After Strongest Auction Since 2023](https://biztoc.com/x/02be23ac75f648e2) (Published: 2025-09-02)
+- [Fathers Face Steeper Wage Cuts When Stepping Back From Work](https://biztoc.com/x/4b8fb310dad75a12) (Published: 2025-09-02)
+- [America Can Teach Europe a Lesson on Corporate Fundraising](https://biztoc.com/x/255d42d5717ce4a2) (Published: 2025-09-02)
+- [Japan to Buy US Rice Within Overall Limit on Duty-Free Imports](https://biztoc.com/x/c2ca3ffa200506e4) (Published: 2025-09-02)
+- [Lab-Grown Gems Are Robbing Botswana of Its Diamond Riches](https://biztoc.com/x/b394f626c4d29ed6) (Published: 2025-09-02)
+- [China’s incubating crypto in Hong Kong but the city’s strict rules are frustrating entry](https://biztoc.com/x/81c20b7057c856d2) (Published: 2025-09-02)
+- [Suntory Holdings President to Hold Surprise Briefing Tuesday](https://biztoc.com/x/acca96e4f8fa93b8) (Published: 2025-09-02)
+- [India Tightens Equity-Options Rules Again After Jane Street Saga](https://biztoc.com/x/7ee43f52927728fd) (Published: 2025-09-02)
+- [Asia crude oil imports surge in August, but is it demand or prices?](https://biztoc.com/x/e72aad3c6c77429d) (Published: 2025-09-02)
 - [Sixth LNG tanker loads cargo from Russia's Arctic LNG 2, data shows](https://biztoc.com/x/0728c90f73a8db29) (Published: 2025-09-02)
-- [CVC-Backed FineToday Gauges Appetite for IPO in Second Attempt](https://biztoc.com/x/90f01caec19ca1b9) (Published: 2025-09-02)
-- [Hewlett Packard Enterprise (HPE) Reports Earnings Tomorrow: What To Expect](https://finance.yahoo.com/news/hewlett-packard-enterprise-hpe-reports-030248626.html) (Published: 2025-09-02)
-- [As exchange rate volatility subsides, Nvidia and TSMC stabilize semiconductor supply chain confidence](https://www.digitimes.com/news/a20250902PD213/foreign-exchange-nvidia-tsmc-growth-supply-chain-2025.html) (Published: 2025-09-02)
-- [OpenAI's rumored India Stargate plan could unlock huge growth for Nvidia and global AI server suppliers](https://www.digitimes.com/news/a20250902VL200/openai-nvidia-growth-bloomberg-ai-server.html) (Published: 2025-09-02)
-- [Around 20% of world's chip design engineers based in India, key to global semiconductor ecosystem: Report](https://economictimes.indiatimes.com/industry/cons-products/electronics/around-20-of-worlds-chip-design-engineers-based-in-india-key-to-global-semiconductor-ecosystem-report/articleshow/123645768.cms) (Published: 2025-09-02)
-- [Alibaba denies massive Cambricon chip order](https://www.digitimes.com/news/a20250902PD217/alibaba-chips-ai-chip-development-risc-v.html) (Published: 2025-09-02)
-- [Two Clients Made Up 39% of Nvidia (NVDA) Revenue – Is It a Risk for Investors?](https://biztoc.com/x/97435317aadc1e0d) (Published: 2025-09-02)
-- [Nvidia Says Two Buyers Drove 39% of Q2 Sales](https://biztoc.com/x/58c3e32d1ea67aec) (Published: 2025-09-02)
-- [PNY VCG508016TFXPB1-O Nvidia GeForce RTX 5080 OC 16GB 256-Bit GDDR7 DLSS 4.0 $989.99 (1 replies)](https://slickdeals.net/f/18573544-pny-vcg508016tfxpb1-o-nvidia-geforce-rtx-5080-oc-16gb-256-bit-gddr7-dlss-4-0-989-99) (Published: 2025-09-02)
