@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 23:19:22**_
+_Last updated: **2025-09-03 23:29:38**_
 
 - [Stock market today: Dow Jones, S&P 500, Nasdaq futures rise after landmark antitrust ruling allows Google to keep Chrome](https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-futures-rise-after-landmark-antitrust-ruling-allows-google-to-keep-chrome-231822126.html) (Published: 2025-09-02)
 - [Accelerate Autonomous Vehicle Development with the NVIDIA DRIVE AGX Thor Developer Kit](https://developer.nvidia.com/blog/accelerate-autonomous-vehicle-development-with-the-nvidia-drive-agx-thor-developer-kit/) (Published: 2025-09-02)
