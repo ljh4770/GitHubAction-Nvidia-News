@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 03:42:36**_
+_Last updated: **2025-09-03 03:52:45**_
 
+- [Sixth LNG tanker loads cargo from Russia's Arctic LNG 2, data shows](https://biztoc.com/x/0728c90f73a8db29) (Published: 2025-09-02)
+- [CVC-Backed FineToday Gauges Appetite for IPO in Second Attempt](https://biztoc.com/x/90f01caec19ca1b9) (Published: 2025-09-02)
 - [Hewlett Packard Enterprise (HPE) Reports Earnings Tomorrow: What To Expect](https://finance.yahoo.com/news/hewlett-packard-enterprise-hpe-reports-030248626.html) (Published: 2025-09-02)
 - [As exchange rate volatility subsides, Nvidia and TSMC stabilize semiconductor supply chain confidence](https://www.digitimes.com/news/a20250902PD213/foreign-exchange-nvidia-tsmc-growth-supply-chain-2025.html) (Published: 2025-09-02)
 - [OpenAI's rumored India Stargate plan could unlock huge growth for Nvidia and global AI server suppliers](https://www.digitimes.com/news/a20250902VL200/openai-nvidia-growth-bloomberg-ai-server.html) (Published: 2025-09-02)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-03 03:42:36**_
 - [Two Clients Made Up 39% of Nvidia (NVDA) Revenue – Is It a Risk for Investors?](https://biztoc.com/x/97435317aadc1e0d) (Published: 2025-09-02)
 - [Nvidia Says Two Buyers Drove 39% of Q2 Sales](https://biztoc.com/x/58c3e32d1ea67aec) (Published: 2025-09-02)
 - [PNY VCG508016TFXPB1-O Nvidia GeForce RTX 5080 OC 16GB 256-Bit GDDR7 DLSS 4.0 $989.99 (1 replies)](https://slickdeals.net/f/18573544-pny-vcg508016tfxpb1-o-nvidia-geforce-rtx-5080-oc-16gb-256-bit-gddr7-dlss-4-0-989-99) (Published: 2025-09-02)
-- [Stock market today: Dow, S&P 500, Nasdaq futures sink as Treasury yields jump amid tariff, Fed uncertainty](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520886.html) (Published: 2025-09-01)
-- [Stock market today: Dow, S&P 500, Nasdaq futures slide as Treasury yields jump amid tariff, Fed uncertainty](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-treasury-yields-jump-amid-tariff-fed-uncertainty-235520838.html) (Published: 2025-09-01)
