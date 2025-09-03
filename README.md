@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 21:47:50**_
+_Last updated: **2025-09-03 21:58:11**_
 
 - [Anthropic triples valuation to $183B in new $13B funding round](https://siliconangle.com/2025/09/02/anthropic-triples-valuation-183b-new-13b-funding-round/) (Published: 2025-09-02)
 - [Can't detect new GPU](https://askubuntu.com/questions/1555392/cant-detect-new-gpu) (Published: 2025-09-02)
