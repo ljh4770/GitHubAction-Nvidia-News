@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-03 23:50:52**_
+_Last updated: **2025-09-04 00:42:39**_
 
+- [S&P 500 Gains & Losses Today: Kraft Heinz, Nvidia Fall; Ulta Beauty Stock Recovers](https://biztoc.com/x/cb99dcd3b0bbbca9) (Published: 2025-09-03)
+- [S&P 500 Gains & Losses Today: Kraft Heinz, Nvidia Fall; Ulta Beauty Stock Recovers - Investopedia](https://slashdot.org/firehose.pl?op=view&amp;id=178985284) (Published: 2025-09-03)
+- [Acer Launches Veriton GN100 AI Mini Workstation with NVIDIA GB10 Superchip](https://www.c-sharpcorner.com/news/acer-launches-veriton-gn100-ai-mini-workstation-with-nvidia-gb10-superchip) (Published: 2025-09-03)
+- [Acer Expands SpatialLabs Pro with NVIDIA Omniverse, 3D Microscopy, and Medical Training Innovations](https://www.c-sharpcorner.com/news/acer-expands-spatiallabs-pro-with-nvidia-omniverse-3d-microscopy-and-medical-training-innovations) (Published: 2025-09-03)
+- [Labor Day Under Pressure: Demographics, Immigration, & AI](https://www.forbes.com/sites/greatspeculations/2025/09/02/labor-day-under-pressure--demographics-immigration--ai/) (Published: 2025-09-02)
 - [Coinbase mixes crypto and tech stocks in upcoming futures index](https://cointelegraph.com/news/coinbase-launching-crypto-tech-stocks-futures-index) (Published: 2025-09-02)
 - [S Korea’s New Top Regulator Faces Scrutiny Over Strategy Shares, Crypto Comments](https://cryptonews.com/news/s-koreas-new-top-regulator-faces-scrutiny-over-his-strategy-shares-crypto-comments/) (Published: 2025-09-02)
 - [Stock market today: Dow Jones, S&P 500, Nasdaq futures rise after landmark antitrust ruling allows Google to keep Chrome](https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-futures-rise-after-landmark-antitrust-ruling-allows-google-to-keep-chrome-231822126.html) (Published: 2025-09-02)
 - [Accelerate Autonomous Vehicle Development with the NVIDIA DRIVE AGX Thor Developer Kit](https://developer.nvidia.com/blog/accelerate-autonomous-vehicle-development-with-the-nvidia-drive-agx-thor-developer-kit/) (Published: 2025-09-02)
 - [Jim Cramer explains how to handle Tuesday's market decline](https://www.cnbc.com/2025/09/02/jim-cramer-explains-how-to-handle-tuesdays-market-decline.html) (Published: 2025-09-02)
-- [jetson-jolt added to PyPI](https://pypi.org/project/jetson-jolt/) (Published: 2025-09-02)
-- [jetson-jolt 0.8.0](https://pypi.org/project/jetson-jolt/0.8.0/) (Published: 2025-09-02)
-- [LayerX Raises $101M to Provide Back-Office Automation in Japan](http://www.pymnts.com/news/fintech-investments/2025/layerx-raises-101-million-dollars-provide-back-office-automation-japan/) (Published: 2025-09-02)
-- [Anthropic triples valuation to $183B in new $13B funding round](https://siliconangle.com/2025/09/02/anthropic-triples-valuation-183b-new-13b-funding-round/) (Published: 2025-09-02)
-- [Can't detect new GPU](https://askubuntu.com/questions/1555392/cant-detect-new-gpu) (Published: 2025-09-02)
