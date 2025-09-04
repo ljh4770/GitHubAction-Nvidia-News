@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 22:44:20**_
+_Last updated: **2025-09-04 22:54:54**_
 
 - [Lenovo Legion Pro 7i Gen 10](https://uk.pcmag.com/laptops/159884/lenovo-legion-pro-7i-gen-10) (Published: 2025-09-03)
 - [Lenovo Legion Pro 7i Gen 10](https://me.pcmag.com/en/laptops/32032/lenovo-legion-pro-7i-gen-10) (Published: 2025-09-03)
