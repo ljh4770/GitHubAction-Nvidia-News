@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 07:29:28**_
+_Last updated: **2025-09-04 07:30:48**_
 
 - [Infineon teams up with Nvidia on 800V data center power, eyes EUR1 billion AI business](https://www.digitimes.com/news/a20250901PD216/infineon-data-nvidia-data-center-business.html) (Published: 2025-09-03)
 - [Cronos: The New Dawn, Hell is Us & Indiana Jones and the Great Circle: The Order of Giants Launch This Week with DLSS 4](https://www.madshrimps.be/news/cronos-the-new-dawn-hell-is-us-indiana-jones-and-the-great-circle-the-order-of-giants-launch-this-week-with-dlss-4/) (Published: 2025-09-03)
