@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 17:42:13**_
+_Last updated: **2025-09-04 17:52:58**_
 
+- [Acer Unveils High-Octane Nitro And Predator Gaming PCs, Plus A 720Hz OLED Monitor](https://hothardware.com/news/acer-unveils-high-octane-nitro-and-predator-gaming-pcs-720hz-oled-monitor) (Published: 2025-09-03)
 - [Nvidia stock has surged 1,100% in 5 years. These 3 old-fashioned retailers have done even better](https://biztoc.com/x/a4116633ffa383a0) (Published: 2025-09-03)
 - [Mediatek's crucial role in building the Nvidia GB10 highlighted in new presentation - so could Jensen Huang mull a potential $73 billion acquisition?](https://www.techradar.com/pro/mediateks-crucial-role-in-building-the-nvidia-gb10-highlighted-in-new-presentation-so-could-jensen-mull-a-potential-usd73-billion-acquisition) (Published: 2025-09-03)
 - [With 100 Gen AI pilot projects but just six in production, Carnival Cruise Line’s CIO takes a measured approach to artificial intelligence journey](https://fortune.com/2025/09/03/with-100-gen-ai-pilot-projects-but-just-six-in-production-carnival-cruise-lines-cio-takes-a-measured-approach-to-artificial-intelligence-journey/) (Published: 2025-09-03)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-04 17:42:13**_
 - [Jim Cramer Says You’re Going To “Lose Some Money” With NVIDIA Corporation (NVDA)](https://biztoc.com/x/f8c8b3fe4310494a) (Published: 2025-09-03)
 - [Jim Cramer Says You’re Going To “Lose Some Money” With NVIDIA Corporation (NVDA)](https://finance.yahoo.com/news/jim-cramer-says-going-lose-170629468.html) (Published: 2025-09-03)
 - [Speeding up PyTorch inference by 87% on Apple with AI-generated Metal kernels](https://gimletlabs.ai/blog/blog/ai-generated-metal-kernels) (Published: 2025-09-03)
-- [SoFi Debuts ETF to Target Companies Focused on AI](http://www.pymnts.com/news/investment-tracker/2025/sofi-debuts-etf-to-target-companies-focused-on-ai/) (Published: 2025-09-03)
