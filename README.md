@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 16:42:02**_
+_Last updated: **2025-09-04 16:54:29**_
 
+- [I Asked ChatGPT’s Most Advanced Model to Find the Stocks Most Likely to 100x Over the Next 10 Years — Here’s What It Said](https://www.barchart.com/story/news/34574914/i-asked-chatgpts-most-advanced-model-to-find-the-stocks-most-likely-to-100x-over-the-next-10-years-heres-what-it-said) (Published: 2025-09-03)
+- [Today only: Lenovo’s RTX 5060 Legion 5i gaming laptop with 32GB RAM/1TB SSD is a whopping $500 off](http://9to5toys.com/2025/09/03/lenovo-rtx-5060-legion-5i-gaming-laptop-whopping-500-off/) (Published: 2025-09-03)
 - [China expands AI subsidies with computing power vouchers to boost SME adoption](https://www.notebookcheck.net/China-expands-AI-subsidies-with-computing-power-vouchers-to-boost-SME-adoption.1104359.0.html) (Published: 2025-09-03)
 - [Jim Cramer Reveals Key Factor For AI Stock NVIDIA Corporation (NVDA) That No One’s Talking About](https://biztoc.com/x/fee1990c35bf71f9) (Published: 2025-09-03)
 - [Think It's Too Late to Buy Nvidia? Here's the 1 Reason Why There's Still Time](https://biztoc.com/x/5fdce7f2376dad42) (Published: 2025-09-03)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-04 16:42:02**_
 - [Jim Cramer Reveals Key Factor For AI Stock NVIDIA Corporation (NVDA) That No One’s Talking About](https://finance.yahoo.com/news/jim-cramer-reveals-key-factor-161422015.html) (Published: 2025-09-03)
 - [Amazon.com, Inc. (AMZN)’s Figuring Out The Returns Of AI GPU Investment, Says Jim Cramer](https://finance.yahoo.com/news/amazon-com-inc-amzn-figuring-161357979.html) (Published: 2025-09-03)
 - [Taiwan Semiconductor Manufacturing Company Limited (TSM) Has A Better Balance Sheet Than The US Government, Says JIm Cramer](https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-161338158.html) (Published: 2025-09-03)
-- [Hollow Knight: Silksong 21:9 ultrawide monitor support could make PCs the preferred platform](https://www.notebookcheck.net/Hollow-Knight-Silksong-21-9-ultrawide-monitor-support-could-make-PCs-the-preferred-platform.1104353.0.html) (Published: 2025-09-03)
-- [Acer unveils the $3,999+ Veriton GN100 AI Mini Workstation with a Nvidia GB10 Grace Blackwell Superchip to run AI models locally, its first Mini AI workstation](https://biztoc.com/x/a728068bd987565e) (Published: 2025-09-03)
