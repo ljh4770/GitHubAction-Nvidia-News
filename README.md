@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 11:40:40**_
+_Last updated: **2025-09-04 11:51:12**_
 
+- [What is the NVIDIA HGX H200?](https://www.digitalocean.com/community/tutorials/nvidia-h200-gpu-droplet) (Published: 2025-09-03)
+- [ACER Veriton GN100 Is An AI Mini PC Equipped With NVIDIA’s GB10 Superchip, & You Can Even Combine Two Together, Costs $3999](https://wccftech.com/acer-veriton-gn100-ai-mini-pc-with-nvidia-gb10-superchip-costs-3999/) (Published: 2025-09-03)
 - [Google's AI rivals get a boost from data-sharing order, but tech giant far from routed](https://economictimes.indiatimes.com/tech/technology/googles-ai-rivals-get-a-boost-from-data-sharing-order-but-tech-giant-far-from-routed/articleshow/123677409.cms) (Published: 2025-09-03)
 - [Nvidia’s massive market cap is a ‘bubble risk,’ Deutsche Bank says: ‘We appear to be in uncharted territory’](https://biztoc.com/x/12baa039e6927abe) (Published: 2025-09-03)
 - [TSMC swats away rumors that Jensen Huang visited to pressure company into revenue-sharing plan with Trump administration](https://www.tomshardware.com/tech-industry/tsmc-swats-away-rumors-that-jensen-huang-visited-to-pressure-company-into-revenue-sharing-plan-with-trump-administration) (Published: 2025-09-03)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-04 11:40:40**_
 - [Acer Nitro V 16 and Nitro V 16S show up after a two-year hiatus with Core 9 270H and RTX 5070 Laptop GPU](https://www.notebookcheck.net/Acer-Nitro-V-16-and-Nitro-V-16S-show-up-after-a-two-year-hiatus-with-Core-9-270H-and-RTX-5070-Laptop-GPU.1103778.0.html) (Published: 2025-09-03)
 - [J.Jill beats Q2 forecasts, expects flat-to-lower sales in current quarter](https://finance.yahoo.com/news/j-jill-beats-q2-forecasts-112700947.html) (Published: 2025-09-03)
 - [Nvidia’s massive market cap is a ‘bubble risk,’ Deutsche Bank says: ‘We appear to be in uncharted territory’](https://fortune.com/2025/09/03/nvidia-market-cap-bubble-risk-deutsche-bank-uncharted-territory/) (Published: 2025-09-03)
-- [Acer Unveils New AI-Powered Laptops & Desktops Ahead of IFA](https://www.androidheadlines.com/2025/09/acer-ifa-2025-laptops-announces.html) (Published: 2025-09-03)
-- [Tencent Open Sourced a 3D World Model](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) (Published: 2025-09-03)
