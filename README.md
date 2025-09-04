@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 00:42:39**_
+_Last updated: **2025-09-04 02:10:40**_
 
+- [US antitrust spotlight: Google, Meta, Apple, Amazon, Microsoft and Nvidia face scrutiny](https://www.thehindubusinessline.com/info-tech/us-antitrust-spotlight-google-meta-apple-amazon-microsoft-and-nvidia-face-scrutiny/article70006570.ece) (Published: 2025-09-03)
 - [S&P 500 Gains & Losses Today: Kraft Heinz, Nvidia Fall; Ulta Beauty Stock Recovers](https://biztoc.com/x/cb99dcd3b0bbbca9) (Published: 2025-09-03)
 - [S&P 500 Gains & Losses Today: Kraft Heinz, Nvidia Fall; Ulta Beauty Stock Recovers - Investopedia](https://slashdot.org/firehose.pl?op=view&amp;id=178985284) (Published: 2025-09-03)
 - [Acer Launches Veriton GN100 AI Mini Workstation with NVIDIA GB10 Superchip](https://www.c-sharpcorner.com/news/acer-launches-veriton-gn100-ai-mini-workstation-with-nvidia-gb10-superchip) (Published: 2025-09-03)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-04 00:42:39**_
 - [S Korea’s New Top Regulator Faces Scrutiny Over Strategy Shares, Crypto Comments](https://cryptonews.com/news/s-koreas-new-top-regulator-faces-scrutiny-over-his-strategy-shares-crypto-comments/) (Published: 2025-09-02)
 - [Stock market today: Dow Jones, S&P 500, Nasdaq futures rise after landmark antitrust ruling allows Google to keep Chrome](https://finance.yahoo.com/news/live/stock-market-today-dow-jones-sp-500-nasdaq-futures-rise-after-landmark-antitrust-ruling-allows-google-to-keep-chrome-231822126.html) (Published: 2025-09-02)
 - [Accelerate Autonomous Vehicle Development with the NVIDIA DRIVE AGX Thor Developer Kit](https://developer.nvidia.com/blog/accelerate-autonomous-vehicle-development-with-the-nvidia-drive-agx-thor-developer-kit/) (Published: 2025-09-02)
-- [Jim Cramer explains how to handle Tuesday's market decline](https://www.cnbc.com/2025/09/02/jim-cramer-explains-how-to-handle-tuesdays-market-decline.html) (Published: 2025-09-02)
