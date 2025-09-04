@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 04:43:55**_
+_Last updated: **2025-09-04 04:54:01**_
 
 - [Lenovo Legion 5i: 15.1" QHD+ 165Hz OLED, Intel Ultra 7 255HX, RTX 5060, 32GB DDR5, 1TB SSD $1199.99 (1 replies)](https://slickdeals.net/f/18576721-lenovo-legion-5i-15-1-qhd-165hz-oled-intel-ultra-7-255hx-rtx-5060-32gb-ddr5-1tb-ssd-1199-99) (Published: 2025-09-03)
 - [What to Watch: The Trade Policy Tango](http://wwd.com/business-news/government-trade/trade-policy-uncertainty-fashion-impact-1238038509/) (Published: 2025-09-03)
