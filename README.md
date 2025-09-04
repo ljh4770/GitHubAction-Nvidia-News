@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 05:32:39**_
+_Last updated: **2025-09-04 05:43:14**_
 
+- [American Capitalism is Being Remade by State Power](https://www.counterpunch.org/2025/09/03/american-capitalism-is-being-remade-by-state-power/) (Published: 2025-09-03)
 - [Best Automotive Stocks To Watch Now – September 1st](https://www.etfdailynews.com/2025/09/03/best-automotive-stocks-to-watch-now-september-1st/) (Published: 2025-09-03)
 - [Top Technology Stocks To Research – September 1st](https://www.etfdailynews.com/2025/09/03/top-technology-stocks-to-research-september-1st/) (Published: 2025-09-03)
 - [Best Cryptocurrency Stocks To Follow Today – September 1st](https://www.etfdailynews.com/2025/09/03/best-cryptocurrency-stocks-to-follow-today-september-1st/) (Published: 2025-09-03)
