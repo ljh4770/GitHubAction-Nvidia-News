@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 19:12:20**_
+_Last updated: **2025-09-04 19:24:54**_
 
+- [Gold Rockets to Record Highs and Silver Takes Out 14-Year High: Where to From Here?](https://biztoc.com/x/bff152c6d22e53e4) (Published: 2025-09-03)
+- ['Ketamine Queen' pleads guilty to selling fatal dose to Matthew Perry](https://biztoc.com/x/cee261e57742ec15) (Published: 2025-09-03)
+- [Crude Oil Prices Sharply Lower as OPEC+ Considers a Crude Production Increase](https://biztoc.com/x/0e71fe345a8140d5) (Published: 2025-09-03)
+- [Why Macy’s stock just surged 20%](https://biztoc.com/x/ca971445332d6a90) (Published: 2025-09-03)
+- [Saudi Aramco plans US dollar Islamic bonds as soon as this month, say sources](https://biztoc.com/x/735ddaec5dfdfdd0) (Published: 2025-09-03)
+- [Forget Big Tech. Consider These Under-the-Radar Picks From Money Pros](https://biztoc.com/x/a23cd98c06f415ea) (Published: 2025-09-03)
+- [Nat-Gas Prices Climb on Forecasts for Hotter US Weather](https://biztoc.com/x/2f29ea6190306ef6) (Published: 2025-09-03)
 - [Mossaik XDR Pro 2.3.30](https://post.rlsbb.cc/mossaik-xdr-pro-2-3-30/) (Published: 2025-09-03)
 - [Nvidia and Tesla Are Starting to Puncture Tech’s Power Play](https://biztoc.com/x/e1ce189310230ea6) (Published: 2025-09-03)
 - [Utah, FTC targets adult websites over alleged child sex abuse material distribution](https://biztoc.com/x/48f8369049a4a7af) (Published: 2025-09-03)
-- [Saudi, UK Deepen Ties With £360 Million in Joint Investments](https://biztoc.com/x/29adfa14b9125437) (Published: 2025-09-03)
-- [U.S. Oil Giant ConocoPhillips Will Lay Off Up to 25% of Its Work Force](https://biztoc.com/x/e7428dc2ae3ac802) (Published: 2025-09-03)
-- [Airbus delivered 61 jets in August, sources say](https://biztoc.com/x/453036a2492a0fc7) (Published: 2025-09-03)
-- [China’s Military Parade Shows Who’s Calling the Shots](https://biztoc.com/x/0b4950e9030ba246) (Published: 2025-09-03)
-- [Bolivia Candidate Vows to Wipe ‘Sin’ of Smuggled Cars from Chile](https://biztoc.com/x/fb87447edeb4da43) (Published: 2025-09-03)
-- [Trump’s Rescission Cuts Threaten UN Peacekeeping Operations](https://biztoc.com/x/efc7853b92ddf826) (Published: 2025-09-03)
-- [Shein takes down shirt listing that used Luigi Mangione’s likeness](https://biztoc.com/x/988f09ea375028e3) (Published: 2025-09-03)
