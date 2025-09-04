@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 08:54:15**_
+_Last updated: **2025-09-04 09:17:10**_
 
-- [Commentary: Is Jensen Huang acting as Washington's AI envoy in Seoul's political theater?](https://www.digitimes.com/news/a20250903PD224/jensen-huang-nvidia-apec-samsung-ceo.html) (Published: 2025-09-03)
-- [The U.S. makes it harder for TSMC, SK Hynix and Samsung to produce chips in China](https://www.cnbc.com/2025/09/03/us-makes-it-harder-for-tsmc-sk-hynix-samsung-to-make-chips-in-china.html) (Published: 2025-09-03)
-- [Manchester Capital Management LLC Acquires 641 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/03/manchester-capital-management-llc-acquires-641-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-03)
-- [Raiffeisen Bank International AG Has $334.15 Million Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/03/raiffeisen-bank-international-ag-has-334-15-million-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-03)
-- [Earned Wealth Advisors LLC Purchases 30,240 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/03/earned-wealth-advisors-llc-purchases-30240-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-03)
-- [NVIDIA Corporation $NVDA Shares Acquired by Blair William & Co. IL](https://www.etfdailynews.com/2025/09/03/nvidia-corporation-nvda-shares-acquired-by-blair-william-co-il/) (Published: 2025-09-03)
-- [NewEdge Wealth LLC Raises Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/03/newedge-wealth-llc-raises-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-03)
-- [Argent Trust Co Cuts Stock Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/03/argent-trust-co-cuts-stock-position-in-nvidia-corporation-nvda/) (Published: 2025-09-03)
-- [Nvidia-Backed Nuclear Fusion Firm Eyes Reactor in Japan](https://financialpost.com/pmn/business-pmn/nvidia-backed-nuclear-fusion-firm-eyes-reactor-in-japan) (Published: 2025-09-03)
-- [Stock Market Today: Dow Set to Open Down; S&P 500, Nasdaq Rising; Alphabet, Nvidia, AMD, More Movers; Bond Selloff](https://biztoc.com/x/e53088356b064e09) (Published: 2025-09-03)
+- [How to Pick the Perfect AI Speaker Diarization API for Your Project](https://www.geeky-gadgets.com/speaker-diarization-api-comparison/) (Published: 2025-09-03)
+- [These Stocks Are Moving the Most Today: Alphabet, Apple, Zscaler, Nvidia, and More](https://biztoc.com/x/f1d6015757dd3545) (Published: 2025-09-03)
+- [Alibaba’s AI Chip A Big Deal?](https://www.forbes.com/sites/greatspeculations/2025/09/03/alibabas-ai-chip-a-big-deal/) (Published: 2025-09-03)
+- [Sharp China: Xi Welcomes Putin and Modi at the SCO Summit; Perspective on the India and China Buzz; World War II and a 'Memory War'](https://sinocism.com/p/sharp-china-xi-welcomes-putin-and) (Published: 2025-09-03)
+- [Acer Expands Its Nitro Lineup with Two New AI-Ready Gaming Laptops, The Nitro V 16 And The Nitro V 16S](https://www.ubergizmo.com/2025/09/acer-expands-its-nitro-lineup-with-two-new-ai-ready-gaming-laptops/) (Published: 2025-09-03)
+- [Acer at IFA 2025: Predator and Nitro Gaming Push AI Power and Design](https://www.yankodesign.com/2025/09/03/acer-at-ifa-2025-predator-and-nitro-gaming-push-ai-power-and-design/) (Published: 2025-09-03)
+- [Acer Predator Helios 18P AI: A Hybrid Powerhouse for Professionals and Gamers](https://www.ubergizmo.com/2025/09/acer-predator-helios-18p-ai-a-hybrid-powerhouse-for-professionals-and-gamers/) (Published: 2025-09-03)
+- [I Can’t Tell if Acer’s New ‘Predator’ Laptop Is Better for Gamers or Working Stiffs](https://gizmodo.com/i-cant-tell-if-acers-new-predator-laptop-is-better-for-gamers-or-working-stiffs-2000651850) (Published: 2025-09-03)
+- [Acer’s Nitro V 16S packs big RTX gaming power into a slim frame](https://www.pcworld.com/article/2893849/acers-nitro-v-16s-packs-big-rtx-gaming-power-into-a-slim-frame.html) (Published: 2025-09-03)
