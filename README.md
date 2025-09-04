@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 09:54:40**_
+_Last updated: **2025-09-04 10:17:48**_
 
-- [nvfuser-cu129 0.2.31.dev20250903](https://pypi.org/project/nvfuser-cu129/0.2.31.dev20250903/) (Published: 2025-09-03)
-- [IFA 2025: Acer Announces 16-Inch Swift Air, More](https://www.thurrott.com/mobile/copilot-pc/325567/ifa-2025-acer-announces-16-inch-swift-air-more) (Published: 2025-09-03)
-- [CNBC's The China Connection newsletter: Coding the future... in Chinese?](https://www.cnbc.com/2025/09/03/cnbcs-the-china-connection-newsletter-tech-exports-amid-us-ai-race.html) (Published: 2025-09-03)
-- [(PR) Acer Unveils the Veriton GN100 AI Mini Workstation Built on the NVIDIA GB10 Superchip](https://www.techpowerup.com/340618/acer-unveils-the-veriton-gn100-ai-mini-workstation-built-on-the-nvidia-gb10-superchip) (Published: 2025-09-03)
-- [(PR) Acer Refreshes Nitro Lineup with Powerful New PCs and Displays for Casual Gamers](https://www.techpowerup.com/340616/acer-refreshes-nitro-lineup-with-powerful-new-pcs-and-displays-for-casual-gamers) (Published: 2025-09-03)
-- [World’s largest sovereign wealth fund invests $543 million in Manhattan office building](https://www.cnbc.com/2025/09/03/norway-sovereign-wealth-fund-invests-543-million-in-manhattan-offices.html) (Published: 2025-09-03)
-- [Nvidia stock has surged 1,100% in 5 years. GameStop, Dillard's, and Build-a-Bear Workshop have done even better.](https://www.businessinsider.com/nvidia-stock-gamestop-dillards-build-a-bear-meme-burry-weschler-2025-9) (Published: 2025-09-03)
-- [How to Pick the Perfect AI Speaker Diarization API for Your Project](https://www.geeky-gadgets.com/speaker-diarization-api-comparison/) (Published: 2025-09-03)
-- [These Stocks Are Moving the Most Today: Alphabet, Apple, Zscaler, Nvidia, and More](https://biztoc.com/x/f1d6015757dd3545) (Published: 2025-09-03)
-- [Alibaba’s AI Chip A Big Deal?](https://www.forbes.com/sites/greatspeculations/2025/09/03/alibabas-ai-chip-a-big-deal/) (Published: 2025-09-03)
+- [Nvidia acquires Solver, a three-year-old AI coding agent startup formerly known as Laredo Labs, which had raised $8M from Radical Ventures and other investors](https://biztoc.com/x/6a58fe4672250076) (Published: 2025-09-03)
+- [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights) (Published: 2025-09-03)
+- [Google's AI rivals get a boost from data-sharing order, but tech giant far from routed](https://www.channelnewsasia.com/business/googles-ai-rivals-get-boost-data-sharing-order-tech-giant-far-routed-5330586) (Published: 2025-09-03)
+- [Google's AI rivals get a boost from data-sharing order, but tech giant far from routed](https://finance.yahoo.com/news/googles-ai-rivals-boost-data-100419721.html) (Published: 2025-09-03)
+- [Making a 3D-printed custom GPU fan shroud with a DDR5 slot doesn't let you add extra VRAM, but at least it looks cool](https://www.tomshardware.com/pc-components/gpus/making-a-3d-printed-custom-gpu-fan-shroud-with-a-ddr5-slot-doesnt-let-you-add-extra-vram-but-at-least-it-looks-cool) (Published: 2025-09-03)
+- [(PR) Acer Unleashes the Predator Helios 18P AI, Predator Orion Gaming Desktops and New Gaming Accessories](https://www.techpowerup.com/340619/acer-unleashes-the-predator-helios-18p-ai-predator-orion-gaming-desktops-and-new-gaming-accessories) (Published: 2025-09-03)
+- [When You Buy Nvidia Stock, You Get a Bonus: An Artificial Intelligence (AI) ETF of Sorts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4cf58094-1110-4abe-b3db-ea82082aa3df) (Published: 2025-09-03)
+- [Gigabyte have finally released its RTX 5090 external GPU—but it's calling it an 'AI box'](https://www.pcgamer.com/hardware/gigabyte-have-finally-released-its-rtx-5090-external-gpu-but-it-is-calling-it-an-ai-box/) (Published: 2025-09-03)
+- [nvfuser-cu126 0.2.31.dev20250903](https://pypi.org/project/nvfuser-cu126/0.2.31.dev20250903/) (Published: 2025-09-03)
