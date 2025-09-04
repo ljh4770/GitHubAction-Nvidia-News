@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 21:45:13**_
+_Last updated: **2025-09-04 21:55:53**_
 
 - [Nvidia backs $85M round for AI search startup Exa](https://siliconangle.com/2025/09/03/nvidia-backs-85m-round-ai-search-startup-exa/) (Published: 2025-09-03)
 - [How to double your money in the ASX share market](https://www.fool.com.au/2025/09/04/how-to-double-your-money-in-the-asx-share-market/) (Published: 2025-09-03)
