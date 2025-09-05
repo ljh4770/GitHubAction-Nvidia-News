@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 06:37:06**_
+_Last updated: **2025-09-05 06:52:14**_
 
+- [UnitedHealth Group (NYSE:UNH) Shares Unloaded Sen. Sheldon Whitehouse](https://www.etfdailynews.com/2025/09/04/unitedhealth-group-nyseunh-shares-unloaded-sen-sheldon-whitehouse/) (Published: 2025-09-04)
 - [PayPal and Venmo users get a free year of Perplexity Pro and early access to its AI browser](https://www.madshrimps.be/news/paypal-and-venmo-users-get-a-free-year-of-perplexity-pro-and-early-access-to-its-ai-browser/) (Published: 2025-09-04)
 - [Automotive Stocks To Watch Now – September 2nd](https://www.etfdailynews.com/2025/09/04/automotive-stocks-to-watch-now-september-2nd/) (Published: 2025-09-04)
 - [Coinbase to join the tokenized stocks frenzy – Good for Ethereum?](https://ambcrypto.com/coinbase-to-join-the-tokenized-stocks-frenzy-good-for-ethereum/) (Published: 2025-09-04)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-05 06:37:06**_
 - [Hewlett Packard beats quarterly revenue estimates on robust server demand](https://economictimes.indiatimes.com/tech/technology/hewlett-packard-beats-quarterly-revenue-estimates-on-robust-server-demand/articleshow/123690543.cms) (Published: 2025-09-04)
 - [Nvidia Rival Cambricon Plunges Nearly 12% In Shanghai As Profit-Taking Hits After August's Meteoric Rally](https://biztoc.com/x/2805ed8544a97239) (Published: 2025-09-04)
 - [Could the gold price surpass US$4,500? This expert thinks so](https://www.fool.com.au/2025/09/04/could-the-gold-price-surpass-us4500-this-expert-thinks-so/) (Published: 2025-09-04)
-- [Bitget and Bitget Wallet Support Trading of Over 100 Tokenized Assets via Ondo Finance](https://financialpost.com/globe-newswire/bitget-and-bitget-wallet-support-trading-of-over-100-tokenized-assets-via-ondo-finance) (Published: 2025-09-04)
