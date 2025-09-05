@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 09:14:03**_
+_Last updated: **2025-09-05 09:32:10**_
 
+- [nvfuser-cu126 0.2.31.dev20250904](https://pypi.org/project/nvfuser-cu126/0.2.31.dev20250904/) (Published: 2025-09-04)
+- [nvfuser-cu128 0.2.31.dev20250904](https://pypi.org/project/nvfuser-cu128/0.2.31.dev20250904/) (Published: 2025-09-04)
+- [nvfuser-cu129 0.2.31.dev20250904](https://pypi.org/project/nvfuser-cu129/0.2.31.dev20250904/) (Published: 2025-09-04)
 - [Video player very slow](https://askubuntu.com/questions/1555476/video-player-very-slow) (Published: 2025-09-04)
 - [How Investors Think AI Will Actually Make Money](http://nymag.com/intelligencer/article/investors-ai-anthropic.html) (Published: 2025-09-04)
 - [PLTR Stock: Buy Or Sell Palantir At $160?](https://www.forbes.com/sites/greatspeculations/2025/09/04/pltr-stock-buy-or-sell-palantir-at-160/) (Published: 2025-09-04)
@@ -8,6 +11,3 @@ _Last updated: **2025-09-05 09:14:03**_
 - [Industrial Metaverse Market Research Report 2025-2030 | Automotive, Manufacturing, and Energy Sectors Propel Industrial Metaverse Growth as Nvidia, Siemens, and Microsoft Lead Innovation](https://www.globenewswire.com/news-release/2025/09/04/3144232/28124/en/Industrial-Metaverse-Market-Research-Report-2025-2030-Automotive-Manufacturing-and-Energy-Sectors-Propel-Industrial-Metaverse-Growth-as-Nvidia-Siemens-and-Microsoft-Lead-Innovation.html) (Published: 2025-09-04)
 - [nvidia-nvfatbin 13.0.85](https://pypi.org/project/nvidia-nvfatbin/13.0.85/) (Published: 2025-09-04)
 - [Promising Infrastructure Stocks Worth Watching – September 2nd](https://www.etfdailynews.com/2025/09/04/promising-infrastructure-stocks-worth-watching-september-2nd/) (Published: 2025-09-04)
-- [Streaming Stocks To Keep An Eye On – September 2nd](https://www.etfdailynews.com/2025/09/04/streaming-stocks-to-keep-an-eye-on-september-2nd/) (Published: 2025-09-04)
-- [nvidia-cuda-cupti 13.0.85](https://pypi.org/project/nvidia-cuda-cupti/13.0.85/) (Published: 2025-09-04)
-- [nvidia-cuda-culibos 13.0.85](https://pypi.org/project/nvidia-cuda-culibos/13.0.85/) (Published: 2025-09-04)
