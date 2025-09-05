@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 22:41:54**_
+_Last updated: **2025-09-05 22:52:31**_
 
+- [Alphabet (GOOGL) Outlook: Analysts See Google TPUs as Strong NVIDIA Alternative](https://finance.yahoo.com/news/alphabet-googl-outlook-analysts-see-225031838.html) (Published: 2025-09-04)
+- [Is Ozzy Osbourne's legacy at risk? Family battles $8 million tax debt and potential legal disputes](https://economictimes.indiatimes.com/news/international/us/ozzy-osbourne-family-financial-struggles-8-million-tax-debt-and-potential-legal-disputes/articleshow/123708401.cms) (Published: 2025-09-04)
 - [dire-rapids added to PyPI](https://pypi.org/project/dire-rapids/) (Published: 2025-09-04)
 - [U.S. stocks rise as slow job growth fuels rate cut hopes](https://www.thestar.com.my/news/world/2025/09/05/us-stocks-rise-as-slow-job-growth-fuels-rate-cut-hopes) (Published: 2025-09-04)
 - [Boerse Stuttgart unveils pan-European platform for tokenized assets](https://cointelegraph.com/news/boerse-stuttgart-seturion-pan-european-tokenized-assets) (Published: 2025-09-04)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-05 22:41:54**_
 - [Cadence Design to buy Hexagon's design and engineering unit for $3.16 billion](https://www.channelnewsasia.com/business/cadence-design-buy-hexagons-design-and-engineering-unit-316-billion-5333611) (Published: 2025-09-04)
 - [Nvidia's China Demand Holds Up Despite Regulatory Heat](https://finance.yahoo.com/news/nvidias-china-demand-holds-despite-215849211.html) (Published: 2025-09-04)
 - [Broadcom Q3 earnings beat expectations driven by AI revenue - can its custom chips challenge Nvidia?](https://economictimes.indiatimes.com/news/international/us/avgo-stock-broadcom-q3-earnings-beat-expectations-ai-revenue-can-its-custom-chips-challenge-nvidia/articleshow/123706568.cms) (Published: 2025-09-04)
-- [NVIDIA RTX 5070 Ti Drops Below MSRP; More RTX 50 Series GPUs And Pre-Builtds Are Now Available At Great Prices](https://wccftech.com/nvidia-rtx-5070-ti-drops-below-msrp-rtx-50-gpus-pre-builts-now-available-great-prices/) (Published: 2025-09-04)
-- [Nvidia pledges $25M for AI education in US](https://biztoc.com/x/94d8f0e83d488863) (Published: 2025-09-04)
