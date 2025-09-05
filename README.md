@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-04 23:51:05**_
+_Last updated: **2025-09-05 00:45:27**_
 
+- [Nvidia CEO sells $38.6M in common stock as part of option exercise](https://thefly.com/permalinks/entry.php/id4192666/NVDA-Nvidia-CEO-sells-M-in-common-stock-as-part-of-option-exercise) (Published: 2025-09-04)
+- [Investors still don't care about Salesforce's fast AI growth](https://www.thestreet.com/investing/investors-still-dont-care-about-salesforces-fast-ai-growth) (Published: 2025-09-04)
 - [HPE Says It’s Weathering Profit Squeeze at Start of New AI Era](https://www.livemint.com/companies/news/hpe-says-it-s-weathering-profit-squeeze-at-start-of-new-ai-era-11756942892697.html) (Published: 2025-09-03)
 - [How Plägood Is Defining the Future of AI Entertainment](https://variety.com/2025/biz/news/plagood-defining-the-future-ai-entertainment-1236507143/) (Published: 2025-09-03)
 - [Why Nvidia and these other chip stocks were just deemed hot plays](https://biztoc.com/x/3b45bf7efe82352a) (Published: 2025-09-03)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-04 23:51:05**_
 - [Lenovo Legion Pro 7i Gen 10](https://me.pcmag.com/en/laptops/32032/lenovo-legion-pro-7i-gen-10) (Published: 2025-09-03)
 - [Jim Cramer says Apple is well-positioned even without its own AI tech](https://www.cnbc.com/2025/09/03/jim-cramer-apple-is-well-positioned-without-ai-tech.html) (Published: 2025-09-03)
 - [New AMD RX 10950 XTX leak points to massive jump in GPU performance](https://www.androidheadlines.com/2025/09/new-amd-rx-10950-xtx-leak-points-to-massive-jump-in-gpu-performance.html) (Published: 2025-09-03)
-- [Get the powerful Alienware gaming PC with Intel Core Ultra 9 and Nvidia GeForce RTX 5080 graphics card for $600 off](https://www.xda-developers.com/alienware-aurora-gaming-desktop-2400-deal/) (Published: 2025-09-03)
-- [3 Reasons Why Sept. 4 Is a Big Day for Nvidia and Broadcom Stock Investors](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be9754e7-913d-4f5b-99d4-bb0b613710bb) (Published: 2025-09-03)
