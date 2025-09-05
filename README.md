@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 03:39:33**_
+_Last updated: **2025-09-05 03:52:13**_
 
 - [Nvidia-backed U.S. atomic fusion firm eyes reactor in Japan](https://biztoc.com/x/4860cb2f5506c7bd) (Published: 2025-09-04)
 - [Nvidia-backed U.S. atomic fusion firm eyes reactor in Japan](https://www.japantimes.co.jp/business/2025/09/04/companies/us-nuclear-fusion-firm-eyes-japan-reactor/) (Published: 2025-09-04)
