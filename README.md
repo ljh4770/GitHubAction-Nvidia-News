@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 23:39:17**_
+_Last updated: **2025-09-05 23:49:52**_
 
 - [Broadcom’s stock surges to all-time high after landing $10B in new AI chip orders](https://siliconangle.com/2025/09/04/broadcoms-stock-surges-new-time-high-landing-10b-new-ai-chip-orders/) (Published: 2025-09-04)
 - [Intel Outspends Rivals In R&D: 28% More Than Nvidia, 156% More Than AMD](https://hardware.slashdot.org/story/25/09/04/2152214/intel-outspends-rivals-in-rd-28-more-than-nvidia-156-more-than-amd) (Published: 2025-09-04)
