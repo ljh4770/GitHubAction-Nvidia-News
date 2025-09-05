@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 07:11:49**_
+_Last updated: **2025-09-05 07:29:07**_
 
+- [Chinese firms still want Nvidia chips despite government pressure not to buy, sources say](https://economictimes.indiatimes.com/tech/technology/chinese-firms-still-want-nvidia-chips-despite-government-pressure-not-to-buy-sources-say/articleshow/123693263.cms) (Published: 2025-09-04)
+- [(PR) ASUS GeForce RTX 5080 Noctua Edition Graphics Card Now Available In Europe at €1.699](https://www.techpowerup.com/340657/asus-geforce-rtx-5080-noctua-edition-graphics-card-now-available-in-europe-at-eur1-699) (Published: 2025-09-04)
+- [(PR) ASUS GeForce RTX 5080 Noctua Edition Graphics Card Now Available In Europe at €1699](https://www.techpowerup.com/340657/asus-geforce-rtx-5080-noctua-edition-graphics-card-now-available-in-europe-at-eur1699) (Published: 2025-09-04)
 - [Exclusive-Chinese firms still want Nvidia chips despite government pressure not to buy, sources say](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9154fedf-6a6e-4793-beb2-d3b717e46f9b) (Published: 2025-09-04)
 - [Exclusive-Chinese firms still want Nvidia chips despite government pressure not to buy, sources say](https://uk.finance.yahoo.com/news/exclusive-chinese-firms-still-want-070246624.html) (Published: 2025-09-04)
 - [UnitedHealth Group (NYSE:UNH) Shares Unloaded Sen. Sheldon Whitehouse](https://www.etfdailynews.com/2025/09/04/unitedhealth-group-nyseunh-shares-unloaded-sen-sheldon-whitehouse/) (Published: 2025-09-04)
@@ -8,6 +11,3 @@ _Last updated: **2025-09-05 07:11:49**_
 - [Automotive Stocks To Watch Now – September 2nd](https://www.etfdailynews.com/2025/09/04/automotive-stocks-to-watch-now-september-2nd/) (Published: 2025-09-04)
 - [Coinbase to join the tokenized stocks frenzy – Good for Ethereum?](https://ambcrypto.com/coinbase-to-join-the-tokenized-stocks-frenzy-good-for-ethereum/) (Published: 2025-09-04)
 - [nvidia-modelopt 0.35.0](https://pypi.org/project/nvidia-modelopt/0.35.0/) (Published: 2025-09-04)
-- [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/) (Published: 2025-09-04)
-- [CoreWeave (NASDAQ:CRWV) Shares Down 2.5% on Insider Selling](https://www.etfdailynews.com/2025/09/04/coreweave-nasdaqcrwv-shares-down-2-5-on-insider-selling/) (Published: 2025-09-04)
-- [Hewlett Packard beats quarterly revenue estimates on robust server demand](https://economictimes.indiatimes.com/tech/technology/hewlett-packard-beats-quarterly-revenue-estimates-on-robust-server-demand/articleshow/123690543.cms) (Published: 2025-09-04)
