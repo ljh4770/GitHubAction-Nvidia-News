@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 20:39:05**_
+_Last updated: **2025-09-05 20:49:11**_
 
 - [Broadcom sees strong AI growth for fiscal 2026 on new customer addition](https://www.channelnewsasia.com/business/broadcom-sees-strong-ai-growth-fiscal-2026-new-customer-addition-5333506) (Published: 2025-09-04)
 - [Nvidia Invests in Honeywell’s Quantinuum. What It Means for D-Wave, IonQ, and Quantum Stocks](https://biztoc.com/x/8159c672430a11d8) (Published: 2025-09-04)
@@ -10,4 +10,3 @@ _Last updated: **2025-09-05 20:39:05**_
 - [Atlassian bets on AI browsers](https://www.itnews.com.au/news/atlassian-bets-on-ai-browsers-620108?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed) (Published: 2025-09-04)
 - [Atlassian bets on AI browsers](https://www.itnews.com.au/news/atlassian-bets-on-ai-browsers-620108?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Business+feed) (Published: 2025-09-04)
 - [Atlassian bets on AI browsers](https://www.itnews.com.au/news/atlassian-bets-on-ai-browsers-620108?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+) (Published: 2025-09-04)
-- [Nvidia inks $1.5B deal with Lambda to rent chips, Information reports](https://thefly.com/permalinks/entry.php/id4193345/NVDA;CRWV-Nvidia-inks-B-deal-with-Lambda-to-rent-chips-Information-reports) (Published: 2025-09-04)
