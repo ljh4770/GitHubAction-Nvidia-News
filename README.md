@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 22:31:41**_
+_Last updated: **2025-09-05 22:41:54**_
 
+- [dire-rapids added to PyPI](https://pypi.org/project/dire-rapids/) (Published: 2025-09-04)
 - [U.S. stocks rise as slow job growth fuels rate cut hopes](https://www.thestar.com.my/news/world/2025/09/05/us-stocks-rise-as-slow-job-growth-fuels-rate-cut-hopes) (Published: 2025-09-04)
 - [Boerse Stuttgart unveils pan-European platform for tokenized assets](https://cointelegraph.com/news/boerse-stuttgart-seturion-pan-european-tokenized-assets) (Published: 2025-09-04)
 - [Source: Nvidia agreed to rent 10,000 of its own AI chips from Lambda for $1.3B over four years, the latest example of Nvidia's circular financial arrangements](https://biztoc.com/x/26e506f2875a1f2f) (Published: 2025-09-04)
