@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 19:24:28**_
+_Last updated: **2025-09-05 19:36:33**_
 
+- [Samsung’s Galaxy Tab S11 Ultra Could Be My New Game Streaming Device](https://www.forbes.com/sites/mitchwallace/2025/09/04/samsungs-galaxy-tab-s11-ultra-could-be-my-new-game-streaming-device/) (Published: 2025-09-04)
 - [No chips for you! Senator wants Americans to get first dibs on GPUs, restrict sales to others](https://biztoc.com/x/c7f262d3099cbd3b) (Published: 2025-09-04)
 - [No chips for you! Senator wants Americans to get first dibs on GPUs, restrict sales to others](https://www.theregister.com/2025/09/04/us_senator_americans_first_ai_sillicon/) (Published: 2025-09-04)
 - [Jim Cramer: Apple is well-positioned even without its own AI tech](https://macdailynews.com/2025/09/04/jim-cramer-apple-is-well-positioned-even-without-its-own-ai-tech/) (Published: 2025-09-04)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-05 19:24:28**_
 - [Tech Antitrust Peak: Why 2024 May Mark End of Era](https://android.gadgethacks.com/news/tech-antitrust-peak-why-2024-may-mark-end-of-era/) (Published: 2025-09-04)
 - [SteamVR Beta Restores Windows VR Headset Support on Windows 11 Thanks to Third-party Driver](https://www.roadtovr.com/steamvr-beta-windows-mixed-reality-support-oasis-driver/) (Published: 2025-09-04)
 - [US revokes TSMC’s fast-track export status for Chinese facility](https://techpinions.com/us-revokes-tsmcs-fast-track-export-status-for-chinese-facility/) (Published: 2025-09-04)
-- [How Trump's HUD Chief Turner Plans to Fix Housing With Gutted Agency](https://biztoc.com/x/cc9829c87decc7f0) (Published: 2025-09-04)
