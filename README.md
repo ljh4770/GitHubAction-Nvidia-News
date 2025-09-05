@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 08:38:26**_
+_Last updated: **2025-09-05 08:52:58**_
 
 - [Industrial Metaverse Market Research Report 2025-2030 | Automotive, Manufacturing, and Energy Sectors Propel Industrial Metaverse Growth as Nvidia, Siemens, and Microsoft Lead Innovation](https://www.globenewswire.com/news-release/2025/09/04/3144232/28124/en/Industrial-Metaverse-Market-Research-Report-2025-2030-Automotive-Manufacturing-and-Energy-Sectors-Propel-Industrial-Metaverse-Growth-as-Nvidia-Siemens-and-Microsoft-Lead-Innovation.html) (Published: 2025-09-04)
 - [nvidia-nvfatbin 13.0.85](https://pypi.org/project/nvidia-nvfatbin/13.0.85/) (Published: 2025-09-04)
