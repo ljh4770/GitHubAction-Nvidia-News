@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 04:36:36**_
+_Last updated: **2025-09-05 04:48:00**_
 
 - [Nvidia Rival Cambricon Plunges Nearly 12% In Shanghai As Profit-Taking Hits After August's Meteoric Rally](https://biztoc.com/x/2805ed8544a97239) (Published: 2025-09-04)
 - [Could the gold price surpass US$4,500? This expert thinks so](https://www.fool.com.au/2025/09/04/could-the-gold-price-surpass-us4500-this-expert-thinks-so/) (Published: 2025-09-04)
