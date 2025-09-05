@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-05 11:53:14**_
+_Last updated: **2025-09-05 12:28:03**_
 
-- [RF-DETR: Real-Time Object Detection with Transformers](https://www.digitalocean.com/community/tutorials/rf-detr-real-time-object-detection) (Published: 2025-09-04)
-- [Nvidia's venture capital arm investing in Honeywell's Quantinuum, Bloomberg News reports](https://www.channelnewsasia.com/business/nvidias-venture-capital-arm-investing-honeywells-quantinuum-bloomberg-news-reports-5332791) (Published: 2025-09-04)
-- [NVIDIA’s Planned Latest China AI GPU Will Sell Like Hot Cakes Even With A $24,000 Price Tag, Says Report](https://wccftech.com/nvidias-planned-latest-china-ai-gpu-will-sell-like-hot-cakes-even-with-a-24000-price-tag-says-report/) (Published: 2025-09-04)
-- [Nvidia Falls. Why China and Broadcom Could Move the Stock](https://biztoc.com/x/df4c2e37f8718ca8) (Published: 2025-09-04)
-- [Agentic AI Market Size to Reach USD 199.05 Billion by 2034 Driven by Autonomous Decision-Making and North Americas Leadership](https://www.globenewswire.com/news-release/2025/09/04/3144393/0/en/Agentic-AI-Market-Size-to-Reach-USD-199-05-Billion-by-2034-Driven-by-Autonomous-Decision-Making-and-North-Americas-Leadership.html) (Published: 2025-09-04)
-- [Digi Power X, Via Wholly-Owned Subsidiary US Data Centers Inc., Awarded Tier 3 ANSI/TIA-942-C “TIA-942 Ready” Certification for ARMS 200 AI Modular Platform](https://financialpost.com/globe-newswire/digi-power-x-via-wholly-owned-subsidiary-us-data-centers-inc-awarded-tier-3-ansi-tia-942-c-tia-942-ready-certification-for-arms-200-ai-modular-platform) (Published: 2025-09-04)
-- [Beyond metal bashing: How Bharat Forge is reinventing itself for the digital era](https://www.livemint.com/companies/bharat-forge-ai-automation-defense-dark-factory-manufacturing-reinvention-11756978102553.html) (Published: 2025-09-04)
-- [The Next Two Weeks Could Redefine Tech](https://gizmodo.com/the-next-two-weeks-could-redefine-tech-2000653033) (Published: 2025-09-04)
-- [Nvidia demand continues to outstrip supply, says JPMorgan](https://thefly.com/permalinks/entry.php/id4192841/NVDA-Nvidia-demand-continues-to-outstrip-supply-says-JPMorgan) (Published: 2025-09-04)
+- [U.S. stock market: Today’s hot stocks Alphabet, American Eagle, Nvidia lead market movers — are investors chasing the right picks now?](https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-todays-hot-stocks-alphabet-american-eagle-nvidia-lead-market-movers-are-investors-chasing-the-right-picks-now/articleshow/123699020.cms) (Published: 2025-09-04)
+- [Dow Jones Futures: Google, Apple, Tesla Lead Market; Nvidia, Palantir Hit Resistance](https://biztoc.com/x/b8e26394c665e871) (Published: 2025-09-04)
+- [nvidia-ifbench added to PyPI](https://pypi.org/project/nvidia-ifbench/) (Published: 2025-09-04)
+- [nvidia-scicode 25.8](https://pypi.org/project/nvidia-scicode/25.8/) (Published: 2025-09-04)
+- [nvidia-scicode added to PyPI](https://pypi.org/project/nvidia-scicode/) (Published: 2025-09-04)
+- [nvidia-hle added to PyPI](https://pypi.org/project/nvidia-hle/) (Published: 2025-09-04)
+- [An AI safety pioneer says it could leave 99% of workers unemployed by 2030 — even coders and prompt engineers](https://www.businessinsider.com/ai-safety-pioneer-predicts-ai-could-cause-99-unemployment-by-2030-2025-9) (Published: 2025-09-04)
+- [Maingear launches the Super 16 gaming laptop with Core Ultra 9 275HX, RTX 5070 Ti, and 300Hz display](https://www.notebookcheck.net/Maingear-launches-the-Super-16-gaming-laptop-with-Core-Ultra-9-275HX-RTX-5070-Ti-and-300Hz-display.1104402.0.html) (Published: 2025-09-04)
+- [MAINGEAR's new Super 16 gaming laptop is a portable RTX 50 Series beast — with a killer feature that some rivals are missing](https://www.windowscentral.com/hardware/laptops/maingears-new-super-16-gaming-laptop-is-a-portable-rtx-50-series-beast) (Published: 2025-09-04)
+- [Maingear’s ‘Super 16’ Gaming Laptop Has a Blistering Fast 300Hz Display](https://gizmodo.com/maingears-super-16-inch-gaming-laptop-has-a-blistering-fast-300hz-display-2000651955) (Published: 2025-09-04)
