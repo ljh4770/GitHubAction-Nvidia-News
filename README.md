@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 18:54:42**_
+_Last updated: **2025-09-06 19:12:08**_
 
+- [Paris-Based Mistral AI Seeks $14B Valuation as Europe Charts Its Own A.I. Path](https://observer.com/2025/09/mistral-europe-ai-powerhouse-14b-valuation/) (Published: 2025-09-05)
 - [Tesla Floats a Trillion-Dollar Pay Plan for CEO Elon Musk](https://www.investopedia.com/tesla-floats-a-trillion-dollar-pay-plan-for-ceo-elon-musk-11804336) (Published: 2025-09-05)
 - [A timeline of the US semiconductor market in 2025 | TechCrunch](https://techcrunch.com/2025/09/05/a-timeline-of-the-u-s-semiconductor-market-in-2025/) (Published: 2025-09-05)
 - [Minisforum G1 Pro mini PC debuts with AMD Ryzen 9 8945HX and RTX 50 series GPU](https://www.notebookcheck.net/Minisforum-G1-Pro-mini-PC-debuts-with-AMD-Ryzen-9-8945HX-and-RTX-50-series-GPU.1106818.0.html) (Published: 2025-09-05)
@@ -9,4 +10,3 @@ _Last updated: **2025-09-06 18:54:42**_
 - [Accelerate Large-Scale LLM Inference and KV Cache Offload with CPU-GPU Memory Sharing](https://developer.nvidia.com/blog/accelerate-large-scale-llm-inference-and-kv-cache-offload-with-cpu-gpu-memory-sharing/) (Published: 2025-09-05)
 - [Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dramatic slowdown](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html) (Published: 2025-09-05)
 - [Think Nvidia Stock Is Too Expensive? Here Are 60 Billion Reasons to Consider Changing Your Mind](https://biztoc.com/x/b9abaad866c03181) (Published: 2025-09-05)
-- [Broadcom stock soars as Wall Street cheers AI chips as ‘leading alternative’ to Nvidia](https://biztoc.com/x/49e4da17d1c7a7b8) (Published: 2025-09-05)
