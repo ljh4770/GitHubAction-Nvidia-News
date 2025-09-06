@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 20:16:53**_
+_Last updated: **2025-09-06 20:30:49**_
 
+- [Big Tech Titans Including Nvidia, Google And Bill Gates Back $863 Million Bet On Nuclear Fusion As Next Energy Revolution](https://biztoc.com/x/04d6205c38085eb1) (Published: 2025-09-05)
+- [Byte-Sized AI: Walmart Partners With OpenAI for Employee Training; Nvidia Links With Intel Spinout on Physical AI](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c77aa0a6-1cb6-401f-8cfa-e7b4e2f13a8b) (Published: 2025-09-05)
+- [Google leads monster week for tech, pushing megacaps to combined $21 trillion in market cap](https://www.cnbc.com/2025/09/05/tech-megacaps-worth-market-cap.html) (Published: 2025-09-05)
 - [Big Tech Titans Including Nvidia, Google And Bill Gates Back $863 Million Bet On Nuclear Fusion As Next Energy Revolution](https://finance.yahoo.com/news/big-tech-titans-including-nvidia-201131777.html) (Published: 2025-09-05)
 - [Cinder City Preview & Q&A – A Solid Open World Shooter with MMO-Like Dungeons & Dynamic Events](https://wccftech.com/cinder-city-preview-qa-open-world-shooter-mmo-like/) (Published: 2025-09-05)
 - [Broadcom CEO Hock Tan Just Delivered Incredible News for Nvidia Stock Investors](https://biztoc.com/x/5809abf9eafc6fbc) (Published: 2025-09-05)
@@ -8,5 +11,3 @@ _Last updated: **2025-09-06 20:16:53**_
 - [77-inch TCL Q7 QLED TV with stellar contrast is now 45% cheaper than list price](https://www.notebookcheck.net/77-inch-TCL-Q7-QLED-TV-with-stellar-contrast-is-now-45-cheaper-than-list-price.1106545.0.html) (Published: 2025-09-05)
 - [Paris-Based Mistral AI Seeks $14B Valuation as Europe Charts Its Own A.I. Path](https://observer.com/2025/09/mistral-europe-ai-powerhouse-14b-valuation/) (Published: 2025-09-05)
 - [Tesla Floats a Trillion-Dollar Pay Plan for CEO Elon Musk](https://www.investopedia.com/tesla-floats-a-trillion-dollar-pay-plan-for-ceo-elon-musk-11804336) (Published: 2025-09-05)
-- [A timeline of the US semiconductor market in 2025 | TechCrunch](https://techcrunch.com/2025/09/05/a-timeline-of-the-u-s-semiconductor-market-in-2025/) (Published: 2025-09-05)
-- [Minisforum G1 Pro mini PC debuts with AMD Ryzen 9 8945HX and RTX 50 series GPU](https://www.notebookcheck.net/Minisforum-G1-Pro-mini-PC-debuts-with-AMD-Ryzen-9-8945HX-and-RTX-50-series-GPU.1106818.0.html) (Published: 2025-09-05)
