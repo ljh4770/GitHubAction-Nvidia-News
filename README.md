@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 17:37:01**_
+_Last updated: **2025-09-06 17:47:37**_
 
+- [Parakeet AutoCaption - Automatically Creating SRT Files with Parakeet v3](https://www.digitalocean.com/community/tutorials/srt-generation-parakeet-autocaption) (Published: 2025-09-05)
 - [Lenovo finally joins HP and Dell in launching a mobile workstation with Core Ultra 9 285 HX CPU and Nvidia RTX Pro 5000 Blackwell GPU](https://www.techradar.com/pro/lenovo-finally-joins-hp-and-dell-in-launching-a-mobile-workstation-with-core-ultra-9-285-hx-cpu-and-nvidia-rtx-pro-5000-blackwell-gpu) (Published: 2025-09-05)
 - [Accelerate Large-Scale LLM Inference and KV Cache Offload with CPU-GPU Memory Sharing](https://developer.nvidia.com/blog/accelerate-large-scale-llm-inference-and-kv-cache-offload-with-cpu-gpu-memory-sharing/) (Published: 2025-09-05)
 - [Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dramatic slowdown](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html) (Published: 2025-09-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-06 17:37:01**_
 - [Accelerating HPC and AI research in universities with Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerating-hpc-and-ai-research-in-universities-with-amazon-sagemaker-hyperpod/) (Published: 2025-09-05)
 - [4 companies race to control agentic commerce through partnerships](https://www.cbinsights.com/research/shopify-openai-google-perplexity-agentic-commerce-partnerships/) (Published: 2025-09-05)
 - [Infestation Origins-TiNYiSO](https://post.rlsbb.cc/infestation-origins-tinyiso/) (Published: 2025-09-05)
-- [Broadcom stock soars as Wall Street cheers AI chips as ‘leading alternative’ to Nvidia](https://finance.yahoo.com/news/broadcom-stock-soars-as-wall-street-cheers-ai-chips-as-leading-alternative-to-nvidia-165349027.html) (Published: 2025-09-05)
