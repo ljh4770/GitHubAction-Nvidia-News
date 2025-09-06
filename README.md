@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 20:52:20**_
+_Last updated: **2025-09-06 21:09:34**_
 
+- [New pay package could make Musk world’s 1st trillionaire if Tesla thrives](https://www.bostonherald.com/2025/09/05/new-pay-package-could-make-musk-worlds-1st-trillionaire-tesla-thrives/) (Published: 2025-09-05)
+- [Stocks wobble as Wall Street wrangles with whether the job market is too weak](https://www.bostonherald.com/2025/09/05/stocks-wobble-as-wall-street-wrangles-with-whether-the-job-market-is-too-weak/) (Published: 2025-09-05)
 - [Stocks Wobble After Disappointing Jobs Report](https://www.newser.com/story/374750/stocks-wobble-after-disappointing-jobs-report.html) (Published: 2025-09-05)
 - [OpenAI Spends $10 Billion to Get Into the Chip Business](https://gizmodo.com/openai-making-chips-deal-broadcom-2000654701) (Published: 2025-09-05)
 - [pynvml 13.0.1](https://pypi.org/project/pynvml/13.0.1/) (Published: 2025-09-05)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-06 20:52:20**_
 - [Google leads monster week for tech, pushing megacaps to combined $21 trillion in market cap](https://www.cnbc.com/2025/09/05/tech-megacaps-worth-market-cap.html) (Published: 2025-09-05)
 - [Big Tech Titans Including Nvidia, Google And Bill Gates Back $863 Million Bet On Nuclear Fusion As Next Energy Revolution](https://finance.yahoo.com/news/big-tech-titans-including-nvidia-201131777.html) (Published: 2025-09-05)
 - [Cinder City Preview & Q&A – A Solid Open World Shooter with MMO-Like Dungeons & Dynamic Events](https://wccftech.com/cinder-city-preview-qa-open-world-shooter-mmo-like/) (Published: 2025-09-05)
-- [Broadcom CEO Hock Tan Just Delivered Incredible News for Nvidia Stock Investors](https://biztoc.com/x/5809abf9eafc6fbc) (Published: 2025-09-05)
-- [GaN chargers accross the board and modular, repairable USB-C: Hands on with the new Lenovo ThinkPad P1 Gen 8 and P16 Gen 3](https://www.notebookcheck.net/GaN-chargers-accross-the-board-and-modular-repairable-USB-C-Hands-on-with-the-new-Lenovo-ThinkPad-P1-Gen-8-and-P16-Gen-3.1106756.0.html) (Published: 2025-09-05)
