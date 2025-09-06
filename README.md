@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 10:36:04**_
+_Last updated: **2025-09-06 10:46:39**_
 
+- [OpenAI Teams With Broadcom on AI Chip to Challenge Nvidia | The Pulse 9/05/2025](https://biztoc.com/x/444eef1fb3a3661b) (Published: 2025-09-05)
 - [Goldman Sachs issues a warning to AI stock investors](https://finance.yahoo.com/news/goldman-sachs-issues-a-warning-to-ai-stock-investors-103249786.html) (Published: 2025-09-05)
 - [US stock market futures on the move: Dow, S&P 500, Nasdaq all in green as wall street eyes as rate-cut bets rise ahead of crucial jobs report](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-on-the-move-dow-sp-500-nasdaq-all-in-green-as-wall-street-eyes-as-rate-cut-bets-rise-ahead-of-crucial-jobs-report/articleshow/123717641.cms) (Published: 2025-09-05)
 - [Xbox engineer brings Windows Mixed Reality headsets back to life](https://www.theverge.com/news/772360/microsoft-windows-mixed-reality-headsets-streamvr-driver) (Published: 2025-09-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-06 10:36:04**_
 - [IFA 2025: Lenovo Announces New Gaming PCs and Accessories](https://www.thurrott.com/games/pc-gaming/325880/ifa-2025-lenovo-announces-new-gaming-pcs-and-accessories) (Published: 2025-09-05)
 - [Empower Advisory Group LLC Sells 322,022 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/05/empower-advisory-group-llc-sells-322022-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-05)
 - [Aquire Wealth Advisors LLC Acquires 2,072 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/05/aquire-wealth-advisors-llc-acquires-2072-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-05)
-- [Levin Capital Strategies L.P. Boosts Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/05/levin-capital-strategies-l-p-boosts-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-05)
