@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 11:37:36**_
+_Last updated: **2025-09-06 11:48:06**_
 
+- [Nvidia stock has been in something of a rut. One analyst says the price could double](https://biztoc.com/x/889112b341616f8b) (Published: 2025-09-05)
 - [Why ML Needs a New Programming Language](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/) (Published: 2025-09-05)
 - [I went hands-on with Lenovo's white ThinkPad X9 at IFA, and it's the coolest laptop yet](https://www.zdnet.com/article/i-went-hands-on-with-lenovos-white-thinkpad-x9-at-ifa-and-its-the-coolest-laptop-yet/) (Published: 2025-09-05)
 - [Lenovo's ThinkPad Mobile Workstations Land With RTX Pro Blackwell GPUs In Tow](https://hothardware.com/news/lenovos-thinkpad-mobile-workstations-land-with-rtx-pro-blackwell-gpus-in-tow) (Published: 2025-09-05)
@@ -9,5 +10,3 @@ _Last updated: **2025-09-06 11:37:36**_
 - [Lenovo can't seem to quite nail budget pre-built gaming PCs, but at least we're finally getting some high-end OLED monitors](https://www.windowscentral.com/hardware/lenovo/lenovo-legion-and-loq-announcements-ifa-2025) (Published: 2025-09-05)
 - [Tesla seeks to award Elon Musk $1 trillion pay packet](https://www.irishtimes.com/business/2025/09/05/tesla-seeks-to-award-elon-musk-1-trillion-pay-packet/) (Published: 2025-09-05)
 - [What's Going On With Nvidia Stock Friday?](https://biztoc.com/x/84f32a091b2acbbe) (Published: 2025-09-05)
-- [RDP session crashes when launching x11 apps](https://askubuntu.com/questions/1555532/rdp-session-crashes-when-launching-x11-apps) (Published: 2025-09-05)
-- [What's Going On With Nvidia Stock Friday?](https://finance.yahoo.com/news/whats-going-nvidia-stock-friday-105426202.html) (Published: 2025-09-05)
