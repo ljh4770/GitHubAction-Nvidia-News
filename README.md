@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 09:25:58**_
+_Last updated: **2025-09-06 09:37:09**_
 
+- [Venture capital firm Lanchi doubles down on Chinese AI, robotics start-ups with new fund](https://finance.yahoo.com/news/venture-capital-firm-lanchi-doubles-093000736.html) (Published: 2025-09-05)
 - [ByteDance chip design staff suddenly find out they report to Singapore unit, sources say](https://www.straitstimes.com/business/bytedance-chip-design-staff-suddenly-find-out-they-report-to-singapore-unit-sources-say) (Published: 2025-09-05)
 - [I've recruited for Nvidia and Slack. These are 4 mistakes I see Gen Xers making in interviews](https://biztoc.com/x/8f7bba2eecbfd370) (Published: 2025-09-05)
 - [I've recruited for Nvidia and Slack. These are 4 mistakes I see Gen Xers making in interviews.](https://www.businessinsider.com/former-nvidia-slack-recruiter-shares-gen-x-interview-mistakes-2025-9) (Published: 2025-09-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-06 09:25:58**_
 - [AMD Strix Halo in the GMKtec EVO-X2: Powerful mini PC with AMD Ryzen AI Max+ 395 and Radeon 8060S reviewed](https://www.notebookcheck.net/AMD-Strix-Halo-in-the-GMKtec-EVO-X2-Powerful-mini-PC-with-AMD-Ryzen-AI-Max-395-and-Radeon-8060S-reviewed.1102641.0.html) (Published: 2025-09-05)
 - [Nvidia Partner Hon Hai Sales Rise on Sustained AI Demand](https://www.livemint.com/companies/news/nvidia-partner-hon-hai-sales-rise-on-sustained-ai-demand-11757062634262.html) (Published: 2025-09-05)
 - [nvfuser-cu129 0.2.31.dev20250905](https://pypi.org/project/nvfuser-cu129/0.2.31.dev20250905/) (Published: 2025-09-05)
-- [Nvidia Partner Hon Hai Sales Rise on Solid AI Demand](https://biztoc.com/x/3661f9b1be3a4be6) (Published: 2025-09-05)
