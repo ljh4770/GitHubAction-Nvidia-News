@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 07:57:06**_
+_Last updated: **2025-09-06 08:25:31**_
 
+- [ByteDance chip design staff suddenly find out they report to Singapore unit, sources say](https://economictimes.indiatimes.com/tech/technology/bytedance-chip-design-staff-suddenly-find-out-they-report-to-singapore-unit-sources-say/articleshow/123715474.cms) (Published: 2025-09-05)
+- [ByteDance chip design staff suddenly find out they report to Singapore unit, sources say](https://finance.yahoo.com/news/bytedance-chip-design-staff-suddenly-081216411.html) (Published: 2025-09-05)
+- [Lenovo Pairs AMD’s Ryzen 8000HX Mobile CPUs With RTX 50 Desktop GPUs In Its LOQ Tower PC, Legion Pro 7 16″ Laptop Gets Up To Ryzen 9 9955HX3D With RTX 5080](https://wccftech.com/lenovo-pairs-amd-ryzen-8000hx-cpus-rtx-50-desktop-gpus-loq-tower-pc-legion-pro-7-16-laptop-ryzen-9-9955hx3d-rtx-5080/) (Published: 2025-09-05)
+- [S&P 500 Potential: Strategy Could See $16 Billion Inflows With Index Inclusion–Bloomberg](https://bitcoinist.com/sp-500-potential-strategy-could-16-billion-inflows/) (Published: 2025-09-05)
+- [98% of Product Leaders See AI Reshaping Company Operations](http://www.pymnts.com/artificial-intelligence-2/2025/98percent-of-product-leaders-see-ai-reshaping-company-operations/) (Published: 2025-09-05)
+- [(PR) Lenovo Unveils New ThinkBook, ThinkPad, ThinkVision Products at Lenovo Innovation World 2025](https://www.techpowerup.com/340699/lenovo-unveils-new-thinkbook-thinkpad-thinkvision-products-at-lenovo-innovation-world-2025) (Published: 2025-09-05)
 - [(PR) Lenovo Announces New Legion Gaming Devices, AI Tablets, and AI-Powered Software](https://www.techpowerup.com/340698/lenovo-announces-new-legion-gaming-devices-ai-tablets-and-ai-powered-software) (Published: 2025-09-05)
 - [Best Large Cap Stocks To Consider – September 3rd](https://www.etfdailynews.com/2025/09/05/best-large-cap-stocks-to-consider-september-3rd/) (Published: 2025-09-05)
 - [NVIDIA Corporation $NVDA Shares Sold by Encompass More Asset Management](https://www.etfdailynews.com/2025/09/05/nvidia-corporation-nvda-shares-sold-by-encompass-more-asset-management/) (Published: 2025-09-05)
 - [GPUs have replaced CPUs for good as the undisputable kings of computing](https://www.techradar.com/pro/gpus-have-replaced-cpus-for-good-as-the-undisputable-kings-of-computing) (Published: 2025-09-05)
-- [Lenovo Unveils Next-Gen ThinkPad P Series Mobile Workstations with Impressive Power In Compact Form Factor](https://www.ubergizmo.com/2025/09/lenovo-thinkpad-p16-gen-3-thinkpad-p1-gen-8-thinkpad-p16v-gen-3/) (Published: 2025-09-05)
-- [Metal Gear Solid Delta: Snake Eater Became a Million Seller on Day One, Says KONAMI](https://wccftech.com/metal-gear-solid-delta-snake-eater-million-seller-day-one/) (Published: 2025-09-05)
-- [Arm beats Intel and AMD in DPUs; can RISC-V reshape competition?](https://www.digitimes.com/news/a20250903PD240/risc-v-amd-market-intel-arm-architecture.html) (Published: 2025-09-05)
-- [Rep. Cleo Fields Purchases Shares of NVIDIA Corporation (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/09/05/rep-cleo-fields-purchases-shares-of-nvidia-corporation-nasdaqnvda-5/) (Published: 2025-09-05)
-- [Quantum computer developer Quantinuum’s $600m raise values it at $10bn](https://biztoc.com/x/ced7a69bf474199e) (Published: 2025-09-05)
-- [Europe's fastest supercomputer, based in Germany, to boost AI drive](https://www.thelocal.de/20250905/europes-fastest-supercomputer-based-in-germany-to-boost-ai-drive) (Published: 2025-09-05)
