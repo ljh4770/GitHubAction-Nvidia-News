@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 22:32:11**_
+_Last updated: **2025-09-06 22:42:34**_
 
+- [U.S. stocks close lower after weak jobs data](https://www.thestar.com.my/news/world/2025/09/06/us-stocks-close-lower-after-weak-jobs-data) (Published: 2025-09-05)
 - [10 US dividend stocks I'd buy for a superannuation fund today](https://www.fool.com.au/2025/09/06/10-us-dividend-stocks-id-buy-for-a-superannuation-fund-today/) (Published: 2025-09-05)
 - [Nvidia says GAIN AI Act would restrict competition, likens it to AI Diffusion Rule](https://www.livemint.com/companies/news/nvidia-says-gain-ai-act-would-restrict-competition-likens-it-to-ai-diffusion-rule-11757109751447.html) (Published: 2025-09-05)
 - [China’s Not-So-Secret Weapon](https://dailyreckoning.com/chinas-not-so-secret-weapon/) (Published: 2025-09-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-06 22:32:11**_
 - [Trump’s Trade Deal With Japan Has One Awfully Unusual Requirement](https://newrepublic.com/post/200087/trump-trade-deal-japan) (Published: 2025-09-05)
 - [OpenAI widely thought to be Broadcom's mystery $10 billion custom AI processor customer — order could be for millions of AI processors](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-widely-thought-to-be-broadcoms-mystery-usd10-billion-custom-ai-processor-customer-order-could-be-for-millions-of-ai-processors) (Published: 2025-09-05)
 - [Tesla proposes $1tn award for Musk if he hits targets](https://freerepublic.com/focus/f-news/4338849/posts) (Published: 2025-09-05)
-- [If Broadcom is helping OpenAI build AI chips, here's what they might look like](https://biztoc.com/x/135ad38d153bda5d) (Published: 2025-09-05)
