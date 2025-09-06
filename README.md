@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 08:40:18**_
+_Last updated: **2025-09-06 08:50:47**_
 
 - [Nvidia Partner Hon Hai Sales Rise on Solid AI Demand](https://biztoc.com/x/3661f9b1be3a4be6) (Published: 2025-09-05)
 - [ByteDance chip design staff suddenly find out they report to Singapore unit, sources say](https://economictimes.indiatimes.com/tech/technology/bytedance-chip-design-staff-suddenly-find-out-they-report-to-singapore-unit-sources-say/articleshow/123715474.cms) (Published: 2025-09-05)
