@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 18:29:49**_
+_Last updated: **2025-09-06 18:44:22**_
 
+- [Tesla Floats a Trillion-Dollar Pay Plan for CEO Elon Musk](https://www.investopedia.com/tesla-floats-a-trillion-dollar-pay-plan-for-ceo-elon-musk-11804336) (Published: 2025-09-05)
 - [A timeline of the US semiconductor market in 2025 | TechCrunch](https://techcrunch.com/2025/09/05/a-timeline-of-the-u-s-semiconductor-market-in-2025/) (Published: 2025-09-05)
 - [Minisforum G1 Pro mini PC debuts with AMD Ryzen 9 8945HX and RTX 50 series GPU](https://www.notebookcheck.net/Minisforum-G1-Pro-mini-PC-debuts-with-AMD-Ryzen-9-8945HX-and-RTX-50-series-GPU.1106818.0.html) (Published: 2025-09-05)
 - [Parakeet AutoCaption - Automatically Creating SRT Files with Parakeet v3](https://www.digitalocean.com/community/tutorials/srt-generation-parakeet-autocaption) (Published: 2025-09-05)
@@ -9,4 +10,3 @@ _Last updated: **2025-09-06 18:29:49**_
 - [Stock market today: S&P 500, Nasdaq, Dow slip after jobs report shows dramatic slowdown](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-slip-after-jobs-report-shows-dramatic-slowdown-172116021.html) (Published: 2025-09-05)
 - [Think Nvidia Stock Is Too Expensive? Here Are 60 Billion Reasons to Consider Changing Your Mind](https://biztoc.com/x/b9abaad866c03181) (Published: 2025-09-05)
 - [Broadcom stock soars as Wall Street cheers AI chips as ‘leading alternative’ to Nvidia](https://biztoc.com/x/49e4da17d1c7a7b8) (Published: 2025-09-05)
-- [Is the US losing manufacturing jobs? Why Trump’s tariff gamble failed to deliver the promised factory boom](https://economictimes.indiatimes.com/news/international/us/is-the-us-losing-manufacturing-jobs-why-trumps-tariff-gamble-failed-to-deliver-the-promised-factory-boom/articleshow/123723469.cms) (Published: 2025-09-05)
