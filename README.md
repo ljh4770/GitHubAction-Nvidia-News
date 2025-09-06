@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 04:55:31**_
+_Last updated: **2025-09-06 05:16:56**_
 
 - [Europe’s fastest supercomputer to boost AI drive](https://www.digitaljournal.com/tech-science/europes-fastest-supercomputer-to-boost-ai-drive/article) (Published: 2025-09-05)
 - [Hock Tan's CEO Stint Saw Broadcom's Stock Shoot Up 26,750% After Listing, Now He's Staying On Amid Explosive AI Revenue Gains, Nvidia Rivalry](https://biztoc.com/x/9deaf90205826b3c) (Published: 2025-09-05)
