@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 19:44:29**_
+_Last updated: **2025-09-06 19:54:51**_
 
 - [GaN chargers accross the board and modular, repairable USB-C: Hands on with the new Lenovo ThinkPad P1 Gen 8 and P16 Gen 3](https://www.notebookcheck.net/GaN-chargers-accross-the-board-and-modular-repairable-USB-C-Hands-on-with-the-new-Lenovo-ThinkPad-P1-Gen-8-and-P16-Gen-3.1106756.0.html) (Published: 2025-09-05)
 - [77-inch TCL Q7 QLED TV with stellar contrast is now 45% cheaper than list price](https://www.notebookcheck.net/77-inch-TCL-Q7-QLED-TV-with-stellar-contrast-is-now-45-cheaper-than-list-price.1106545.0.html) (Published: 2025-09-05)
