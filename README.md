@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 05:16:56**_
+_Last updated: **2025-09-06 05:32:07**_
 
+- [PATH Q2 Deep Dive: Automation Platform Expansion and AI Adoption Drive Outperformance](https://finance.yahoo.com/news/path-q2-deep-dive-automation-053104777.html) (Published: 2025-09-05)
+- [Europe's Fastest Supercomputer To Boost AI Drive](https://www.ibtimes.com/europes-fastest-supercomputer-boost-ai-drive-3782564) (Published: 2025-09-05)
 - [Europe’s fastest supercomputer to boost AI drive](https://www.digitaljournal.com/tech-science/europes-fastest-supercomputer-to-boost-ai-drive/article) (Published: 2025-09-05)
 - [Hock Tan's CEO Stint Saw Broadcom's Stock Shoot Up 26,750% After Listing, Now He's Staying On Amid Explosive AI Revenue Gains, Nvidia Rivalry](https://biztoc.com/x/9deaf90205826b3c) (Published: 2025-09-05)
 - [OpenAI set to start mass production of its own AI chips with Broadcom in 2026: FT](https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-set-to-start-mass-production-of-its-own-ai-chips-with-broadcom-in-2026-ft/articleshow/123710960.cms) (Published: 2025-09-05)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-06 05:16:56**_
 - [What’s New in vcpkg (August 2025)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2025/) (Published: 2025-09-05)
 - [Realtek RTL8127 10GbE PCIe cards and M.2 modules are starting to show up for $35 and up](https://www.cnx-software.com/2025/09/05/buy-realtek-rtl8127-10gbe-pcie-cards-and-m2-modules/) (Published: 2025-09-05)
 - [At White House dinner, Tim Cook praises Trump’s ‘leadership and focus on innovation’](https://9to5mac.com/2025/09/04/at-white-house-dinner-tim-cook-praises-trumps-leadership-and-focus-on-innovation/) (Published: 2025-09-05)
-- [ゲーミングブランドNitroから新モデルゲーミングノートPC続々登場！AMD Ryzen(TM) プロセッサー搭載 NEW Acer Nitro 4機種発売！](https://prtimes.jp/main/html/rd/p/000001029.000000640.html) (Published: 2025-09-05)
-- [Lenovo updates its beefiest and bulkiest laptops](https://www.theverge.com/news/771674/lenovo-thinkpad-p16-gen-3-ifa) (Published: 2025-09-05)
