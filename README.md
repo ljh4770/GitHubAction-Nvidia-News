@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 04:34:04**_
+_Last updated: **2025-09-06 04:45:19**_
 
 - [Hock Tan's CEO Stint Saw Broadcom's Stock Shoot Up 26,750% After Listing, Now He's Staying On Amid Explosive AI Revenue Gains, Nvidia Rivalry](https://biztoc.com/x/9deaf90205826b3c) (Published: 2025-09-05)
 - [OpenAI set to start mass production of its own AI chips with Broadcom in 2026: FT](https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-set-to-start-mass-production-of-its-own-ai-chips-with-broadcom-in-2026-ft/articleshow/123710960.cms) (Published: 2025-09-05)
