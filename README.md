@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 17:47:37**_
+_Last updated: **2025-09-06 17:57:47**_
 
 - [Parakeet AutoCaption - Automatically Creating SRT Files with Parakeet v3](https://www.digitalocean.com/community/tutorials/srt-generation-parakeet-autocaption) (Published: 2025-09-05)
 - [Lenovo finally joins HP and Dell in launching a mobile workstation with Core Ultra 9 285 HX CPU and Nvidia RTX Pro 5000 Blackwell GPU](https://www.techradar.com/pro/lenovo-finally-joins-hp-and-dell-in-launching-a-mobile-workstation-with-core-ultra-9-285-hx-cpu-and-nvidia-rtx-pro-5000-blackwell-gpu) (Published: 2025-09-05)
