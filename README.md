@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 03:20:57**_
+_Last updated: **2025-09-06 03:40:57**_
 
+- [Sam Altman, Tim Cook, and other tech leaders lauded Trump at a White House AI dinner](https://www.businessinsider.com/whos-who-tech-leaders-attended-dinner-white-house-altman-pichai-2025-9) (Published: 2025-09-05)
+- [What’s New in vcpkg (August 2025)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2025/) (Published: 2025-09-05)
+- [Realtek RTL8127 10GbE PCIe cards and M.2 modules are starting to show up for $35 and up](https://www.cnx-software.com/2025/09/05/buy-realtek-rtl8127-10gbe-pcie-cards-and-m2-modules/) (Published: 2025-09-05)
 - [At White House dinner, Tim Cook praises Trump’s ‘leadership and focus on innovation’](https://9to5mac.com/2025/09/04/at-white-house-dinner-tim-cook-praises-trumps-leadership-and-focus-on-innovation/) (Published: 2025-09-05)
 - [ゲーミングブランドNitroから新モデルゲーミングノートPC続々登場！AMD Ryzen(TM) プロセッサー搭載 NEW Acer Nitro 4機種発売！](https://prtimes.jp/main/html/rd/p/000001029.000000640.html) (Published: 2025-09-05)
 - [Lenovo updates its beefiest and bulkiest laptops](https://www.theverge.com/news/771674/lenovo-thinkpad-p16-gen-3-ifa) (Published: 2025-09-05)
@@ -8,6 +11,3 @@ _Last updated: **2025-09-06 03:20:57**_
 - [S&P 500 registers record-high close as data keeps rate cut views intact](https://economictimes.indiatimes.com/markets/stocks/news/sp-500-registers-record-high-close-as-data-keeps-rate-cut-views-intact/articleshow/123709478.cms) (Published: 2025-09-05)
 - [Worth more that the GDP of 100+ nations, Atlassian acquires The Browser Company for $610 million](https://economictimes.indiatimes.com/news/international/us/worth-more-that-the-gdp-of-100-nations-atlassian-acquires-the-browser-company-for-610-million/articleshow/123709297.cms) (Published: 2025-09-05)
 - [OpenAI To Design Its Own AI Chip With Broadcom For 2026, FT Says](https://www.ndtvprofit.com/technology/openai-to-design-its-own-ai-chip-with-broadcom-for-2026-ft-says) (Published: 2025-09-05)
-- [Google reportedly explores combining TPU chips with Nvidia GPUs to cut costs and boost data center scaling](https://www.digitimes.com/news/a20250904PD234/google-chips-nvidia-tpu-data-center.html) (Published: 2025-09-05)
-- [S&P 500 smashes new record highs and the ASX stock joining the rally](https://www.fool.com.au/2025/09/05/sp-500-smashes-new-record-highs-and-the-asx-stock-joining-the-rally/) (Published: 2025-09-05)
-- [OpenAI set to start mass production of its own AI chips with Broadcom](https://biztoc.com/x/3948874f4be6dbc9) (Published: 2025-09-05)
