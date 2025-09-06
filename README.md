@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 16:27:49**_
+_Last updated: **2025-09-06 16:42:05**_
 
+- [China's Nvidia Breakup? The AI Chip Divorce Silicon Valley Feared Is Happening](https://finance.yahoo.com/news/chinas-nvidia-breakup-ai-chip-163954501.html) (Published: 2025-09-05)
+- [Somehow, MindsEye is not dead: A new update promises to improve performance by removing 'ambient rubbish'](https://www.pcgamer.com/games/third-person-shooter/somehow-mindseye-is-not-dead-a-new-update-promises-to-improve-performance-by-removing-ambient-rubbish/) (Published: 2025-09-05)
 - [Nvidia Slide on Broadcom-OpenAI Pact Threatens $4 Trillion Value](https://biztoc.com/x/c98fcdfe09fcdc80) (Published: 2025-09-05)
 - [Nvidia CEO Jensen Huang sent research reports on Sundays to SoundHound’s CEO for feedback—an unusual ritual that helped grow the $5 billion AI firm](https://biztoc.com/x/a81195d9d60bf91f) (Published: 2025-09-05)
 - [Game In Style With This CyberPowerPC GeForce RTX 5060 Rig For Just $889.99](https://www.redmondpie.com/game-in-style-with-this-cyberpowerpc-geforce-rtx-5060-rig-for-just-889.99/) (Published: 2025-09-05)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-06 16:27:49**_
 - [Nvidia CEO Jensen Huang sent research reports on Sundays to SoundHound’s CEO for feedback—an unusual ritual that helped grow the $5 billion AI firm](https://fortune.com/2025/09/05/nvidia-ceo-jensen-huang-email-soundhound-ai-ceo-keyvan-mohajer-sunday-mornings-feedback-lesson-built-5-billion-firm-hands-on-leadership/) (Published: 2025-09-05)
 - [Tesla’s new pay plan could make Elon Musk first trillionaire in history](https://www.notebookcheck.net/Tesla-s-new-pay-plan-could-make-Elon-Musk-first-trillionaire-in-history.1106559.0.html) (Published: 2025-09-05)
 - [Broadcom Shares Soar On Work With OpenAI To Create New AI Chip](https://www.ndtvprofit.com/markets/broadcom-shares-soar-on-work-with-openai-to-create-new-ai-chip) (Published: 2025-09-05)
-- [You're listening to Vatican radio, or at least you can with freshly DLCed Indiana Jones and the Great Circle's latest patch](https://www.rockpapershotgun.com/youre-listening-to-vatican-radio-or-at-least-you-can-with-freshly-dlced-indiana-jones-and-the-great-circles-latest-patch) (Published: 2025-09-05)
-- [AMD Stock Slips as Analysts Warns of Slowing AI Orders](https://finance.yahoo.com/news/amd-stock-slips-analysts-warns-125512752.html) (Published: 2025-09-05)
