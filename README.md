@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 15:13:38**_
+_Last updated: **2025-09-06 15:28:00**_
 
+- [Jaguar Land Rover shuts down production due to ransomware attack — Scattered Lapsus$ Hunters takes responsibility](https://www.tomshardware.com/tech-industry/cyber-security/jaguar-land-rover-shuts-down-production-due-to-ransomware-attack-scattered-lapsus-usd-hunters-takes-responsibility) (Published: 2025-09-05)
+- [5 major takeaways from Tesla's $1 trillion pay package proposal for Elon Musk](https://www.businessinsider.com/elon-musk-tesla-pay-package-trillion-takeaways-succession-valuation-voting-2025-9) (Published: 2025-09-05)
+- [Google dodges an antitrust bullet, Anthropic keeps the AI boom going, AI winners and losers](https://siliconangle.com/2025/09/05/google-dodges-antitrust-bullet-anthropic-keeps-ai-boom-going-ai-winners-losers/) (Published: 2025-09-05)
+- [Qualcomm Readies CPUs For The Data Center Using Nvidia NVLink Fusion](https://www.forbes.com/sites/karlfreund/2025/09/05/qualcomm-readies-cpus-for-the-data-center-using-nvidia-nvlink-fusion/) (Published: 2025-09-05)
+- [Minisforum Unveils Four Brand New Mini PCs At IFA: MS-S1 MAX “Ryzen AI MAX+ 395”, G1 PRO “Ryzen 9 8945HX”, G7 PRO “i9-14900HX” & N5 Pro “HX PRO 370”](https://wccftech.com/minisforum-new-mini-pcs-ms-s1-max-ryzen-ai-max-395-g1-pro-ryzen-9-8945hx-g7-pro-i9-14900hx-n5-pro-hx-pro-370/) (Published: 2025-09-05)
 - [US stock market crashes — Dow, S&P 500, Nasdaq all lost after shocking August jobs report; possible Fed rate cut ahead](https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-dow-sp-500-nasdaq-all-lost-after-shocking-august-jobs-report-possible-fed-rate-cut-ahead/articleshow/123722243.cms) (Published: 2025-09-05)
 - [NVIDIA (NVDA) Sees One Sell Rating Despite Strong Growth and Wall Street Confidence](https://finance.yahoo.com/news/nvidia-nvda-sees-one-sell-150827910.html) (Published: 2025-09-05)
 - [Exploring The Competitive Space: NVIDIA Versus Industry Peers In Semiconductors & Semiconductor Equipment](https://biztoc.com/x/c676bdf5cc529dd1) (Published: 2025-09-05)
 - [Truist Upgrades AMD (AMD) to Buy, Sees Major AI Growth Potential](https://finance.yahoo.com/news/truist-upgrades-amd-amd-buy-150535644.html) (Published: 2025-09-05)
 - [Nvidia signs $1.5 billion deal with cloud startup Lambda to rent back its own AI chips — 18,000 GPUs will be leased over 4 years, as Lambda gears up for its IPO](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-signs-usd1-5-billion-deal-with-cloud-startup-lambda-to-rent-back-its-own-ai-chips-18-000-gpus-will-be-leased-over-4-years-as-lambda-gears-up-for-its-ipo) (Published: 2025-09-05)
-- [Trump warns that he will soon announce ‘fairly substantial’ chip tariffs — chip companies investing in the US will be spared the brunt of the tariffs](https://www.tomshardware.com/tech-industry/semiconductors/trump-warns-of-substantial-chip-tariffs) (Published: 2025-09-05)
-- [Graphics card price watch: we're tracking the lowest prices for the best Nvidia, AMD, and Intel GPUs](https://www.pcgamer.com/hardware/graphics-cards/graphics-card-price-watch-deals/) (Published: 2025-09-05)
-- [How to protect your record 2025 stock market portfolio gains from what could come next](https://www.cnbc.com/2025/09/05/stock-market-investing-risk-portfolio-trading-changes.html) (Published: 2025-09-05)
-- [Nvidia (NASDAQ: NVDA) Bull, Base, & Bear Price Prediction and Forecast (Sept 5)](https://biztoc.com/x/dc022294ea97db20) (Published: 2025-09-05)
