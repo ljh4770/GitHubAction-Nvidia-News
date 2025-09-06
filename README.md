@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 03:40:57**_
+_Last updated: **2025-09-06 03:51:39**_
 
 - [Sam Altman, Tim Cook, and other tech leaders lauded Trump at a White House AI dinner](https://www.businessinsider.com/whos-who-tech-leaders-attended-dinner-white-house-altman-pichai-2025-9) (Published: 2025-09-05)
 - [What’s New in vcpkg (August 2025)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-august-2025/) (Published: 2025-09-05)
