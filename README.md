@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 21:09:34**_
+_Last updated: **2025-09-06 21:24:46**_
 
+- [Why AMD’s stock just saw one of the worst drops in the S&P 500 on Friday](https://biztoc.com/x/01625214bfdd79ab) (Published: 2025-09-05)
+- [If Broadcom is helping OpenAI build AI chips, here's what they might look like](https://www.theregister.com/2025/09/05/openai_broadcom_ai_chips/) (Published: 2025-09-05)
 - [New pay package could make Musk world’s 1st trillionaire if Tesla thrives](https://www.bostonherald.com/2025/09/05/new-pay-package-could-make-musk-worlds-1st-trillionaire-tesla-thrives/) (Published: 2025-09-05)
 - [Stocks wobble as Wall Street wrangles with whether the job market is too weak](https://www.bostonherald.com/2025/09/05/stocks-wobble-as-wall-street-wrangles-with-whether-the-job-market-is-too-weak/) (Published: 2025-09-05)
 - [Stocks Wobble After Disappointing Jobs Report](https://www.newser.com/story/374750/stocks-wobble-after-disappointing-jobs-report.html) (Published: 2025-09-05)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-06 21:09:34**_
 - [Big Tech Titans Including Nvidia, Google And Bill Gates Back $863 Million Bet On Nuclear Fusion As Next Energy Revolution](https://biztoc.com/x/04d6205c38085eb1) (Published: 2025-09-05)
 - [Byte-Sized AI: Walmart Partners With OpenAI for Employee Training; Nvidia Links With Intel Spinout on Physical AI](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c77aa0a6-1cb6-401f-8cfa-e7b4e2f13a8b) (Published: 2025-09-05)
 - [Google leads monster week for tech, pushing megacaps to combined $21 trillion in market cap](https://www.cnbc.com/2025/09/05/tech-megacaps-worth-market-cap.html) (Published: 2025-09-05)
-- [Big Tech Titans Including Nvidia, Google And Bill Gates Back $863 Million Bet On Nuclear Fusion As Next Energy Revolution](https://finance.yahoo.com/news/big-tech-titans-including-nvidia-201131777.html) (Published: 2025-09-05)
-- [Cinder City Preview & Q&A – A Solid Open World Shooter with MMO-Like Dungeons & Dynamic Events](https://wccftech.com/cinder-city-preview-qa-open-world-shooter-mmo-like/) (Published: 2025-09-05)
