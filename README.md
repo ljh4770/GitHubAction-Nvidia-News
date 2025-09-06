@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-06 22:19:07**_
+_Last updated: **2025-09-06 22:32:11**_
 
 - [10 US dividend stocks I'd buy for a superannuation fund today](https://www.fool.com.au/2025/09/06/10-us-dividend-stocks-id-buy-for-a-superannuation-fund-today/) (Published: 2025-09-05)
 - [Nvidia says GAIN AI Act would restrict competition, likens it to AI Diffusion Rule](https://www.livemint.com/companies/news/nvidia-says-gain-ai-act-would-restrict-competition-likens-it-to-ai-diffusion-rule-11757109751447.html) (Published: 2025-09-05)
