@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 08:52:48**_
+_Last updated: **2025-09-07 09:11:54**_
 
+- [The U.S. government is taking a stake in Intel. It's rare — and it has some risks](https://www.npr.org/2025/09/06/nx-s1-5530190/government-stake-intel-ai-competition-china) (Published: 2025-09-06)
 - [I found a gaming desktop that balances gaming and creative tasks (for less than $2K)](https://www.zdnet.com/article/i-found-a-gaming-desktop-that-balances-gaming-and-creative-tasks-for-less-than-2k/) (Published: 2025-09-06)
 - [nvfuser-cu128 0.2.32.dev20250906](https://pypi.org/project/nvfuser-cu128/0.2.32.dev20250906/) (Published: 2025-09-06)
 - [Nvidia's Jensen Huang Mentored SoundHound AI Founder For A Decade, Helping Turn A Dorm-Room Idea Into $5.4 Billion Voice Tech Powerhouse](https://biztoc.com/x/96434ae00e785392) (Published: 2025-09-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-07 08:52:48**_
 - [NVIDIA Corporation $NVDA Shares Purchased by Strategy Asset Managers LLC](https://www.etfdailynews.com/2025/09/06/nvidia-corporation-nvda-shares-purchased-by-strategy-asset-managers-llc/) (Published: 2025-09-06)
 - [Palacios Wealth Management LLC Boosts Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/palacios-wealth-management-llc-boosts-position-in-nvidia-corporation-nvda/) (Published: 2025-09-06)
 - [Atlantic Private Wealth LLC Has $109,000 Stock Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/atlantic-private-wealth-llc-has-109000-stock-position-in-nvidia-corporation-nvda/) (Published: 2025-09-06)
-- [Bouchey Financial Group Ltd Has $2.80 Million Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/bouchey-financial-group-ltd-has-2-80-million-position-in-nvidia-corporation-nvda/) (Published: 2025-09-06)
