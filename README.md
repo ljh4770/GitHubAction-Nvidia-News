@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 11:50:11**_
+_Last updated: **2025-09-07 12:00:15**_
 
 - [Ubuntu server 24.04.03 installer crashes with Ethernet plugged in](https://askubuntu.com/questions/1555594/ubuntu-server-24-04-03-installer-crashes-with-ethernet-plugged-in) (Published: 2025-09-06)
 - [Musk holds hostage history’s biggest meme stock delusion](https://fortune.com/2025/09/06/elon-musk-1-trillion-compensation-pay-package-tesla-shareholders-governance/) (Published: 2025-09-06)
