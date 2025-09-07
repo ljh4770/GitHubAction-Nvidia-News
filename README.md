@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 07:58:40**_
+_Last updated: **2025-09-07 08:28:12**_
 
+- [nvfuser-cu128 0.2.32.dev20250906](https://pypi.org/project/nvfuser-cu128/0.2.32.dev20250906/) (Published: 2025-09-06)
+- [Nvidia's Jensen Huang Mentored SoundHound AI Founder For A Decade, Helping Turn A Dorm-Room Idea Into $5.4 Billion Voice Tech Powerhouse](https://biztoc.com/x/96434ae00e785392) (Published: 2025-09-06)
+- [Why Does the Crazy Market Keep Ignoring Bogle's 'Iron Rule'?](https://biztoc.com/x/d222c50e5db4e855) (Published: 2025-09-06)
 - [Rep. Cleo Fields Purchases Shares of Advanced Micro Devices, Inc. (NASDAQ:AMD)](https://www.etfdailynews.com/2025/09/06/rep-cleo-fields-purchases-shares-of-advanced-micro-devices-inc-nasdaqamd/) (Published: 2025-09-06)
 - [WealthShield Partners LLC Has $13.93 Million Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/wealthshield-partners-llc-has-13-93-million-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-06)
 - [NVIDIA Corporation $NVDA Shares Purchased by Strategy Asset Managers LLC](https://www.etfdailynews.com/2025/09/06/nvidia-corporation-nvda-shares-purchased-by-strategy-asset-managers-llc/) (Published: 2025-09-06)
@@ -8,6 +11,3 @@ _Last updated: **2025-09-07 07:58:40**_
 - [Atlantic Private Wealth LLC Has $109,000 Stock Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/atlantic-private-wealth-llc-has-109000-stock-position-in-nvidia-corporation-nvda/) (Published: 2025-09-06)
 - [Bouchey Financial Group Ltd Has $2.80 Million Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/bouchey-financial-group-ltd-has-2-80-million-position-in-nvidia-corporation-nvda/) (Published: 2025-09-06)
 - [NVIDIA Corporation $NVDA is Intrust Bank NA’s 8th Largest Position](https://www.etfdailynews.com/2025/09/06/nvidia-corporation-nvda-is-intrust-bank-nas-8th-largest-position/) (Published: 2025-09-06)
-- [Tidemark LLC Sells 90 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/tidemark-llc-sells-90-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-06)
-- [Harvest NVIDIA Enhanced High Income Shares ETF (TSE:NVHE.U) Shares Down 3.1% – Time to Sell?](https://www.etfdailynews.com/2025/09/06/harvest-nvidia-enhanced-high-income-shares-etf-tsenvhe-u-shares-down-3-1-time-to-sell/) (Published: 2025-09-06)
-- [NVIDIA & AMD Could Be ‘Forced’ To Sell Their GPUs to American Customers First, Before Exporting Them To Other Regions](https://wccftech.com/nvidia-amd-could-be-forced-to-sell-their-gpus-to-american-customers-first/) (Published: 2025-09-06)
