@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 15:39:49**_
+_Last updated: **2025-09-07 15:50:18**_
 
 - [Analysts revamp Broadcom price target on OpenAI deal](https://www.thestreet.com/technology/analysts-revamp-broadcom-price-target-on-openai-deal) (Published: 2025-09-06)
 - [Kyle pledges 'ambitious' growth agenda in call with UK bosses](https://news.sky.com/story/kyle-pledges-ambitious-growth-agenda-in-call-with-uk-bosses-13426142) (Published: 2025-09-06)
