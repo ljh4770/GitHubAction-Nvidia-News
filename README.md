@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 14:55:40**_
+_Last updated: **2025-09-07 15:16:53**_
 
+- [Nvidia says 'We never deprive American customers in order to serve the rest of the world' — company says GAIN AI Act addresses a problem that doesn't exist](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-we-never-deprive-american-customers-in-order-to-serve-the-rest-of-the-world-company-says-gain-ai-act-addresses-a-problem-that-doesnt-exist) (Published: 2025-09-06)
 - [$9 Goodwill PC find earns congratulations from enthusiasts — the machine could be a great eSports or nostalgic gaming powerhouse with the right upgrades](https://www.tomshardware.com/desktops/usd9-goodwill-pc-find-earns-congratulations-from-enthusiasts-the-machine-could-be-a-great-esports-or-nostalgic-gaming-powerhouse-with-the-right-upgrades) (Published: 2025-09-06)
 - [Will Nvidia Be the First Company to Generate $1 Trillion in Annual Revenue? CEO Jensen Huang Shares Bold Projections for 2030](https://biztoc.com/x/281c5f980d308473) (Published: 2025-09-06)
 - [MediaTek denies $73 billion acquisition by NVIDIA](http://technode.com/2025/09/06/mediatek-denies-73-billion-acquisition-by-nvidia/) (Published: 2025-09-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-07 14:55:40**_
 - [Skytech Rampage Gaming Desktop: Ryzen 7 7700X, RTX 5070, 32GB DDR5, 1TB SSD, 7 Fans, 850W, 360mm AIO $1304.99](https://slickdeals.net/f/18585958-skytech-rampage-gaming-desktop-ryzen-7-7700x-rtx-5070-32gb-ddr5-1tb-ssd-7-fans-850w-360mm-aio-1304-99) (Published: 2025-09-06)
 - [Is Nvidia a Buy?](https://biztoc.com/x/103bb38847a894a0) (Published: 2025-09-06)
 - [Deutsche Bank on ‘the summer AI turned ugly’: markets are ‘more sober’ than the dotcom bubble, but with troubling data-center math](https://fortune.com/2025/09/06/ai-bubble-overvalued-stocks-deutsche-bank-data-center-math-capex-roi/) (Published: 2025-09-06)
-- [Deutsche Bank on ‘the summer AI turned ugly’: markets are ‘more sober’ than the dotcom bubble, but with troubling data-center math](https://finance.yahoo.com/news/deutsche-bank-summer-ai-turned-130000903.html) (Published: 2025-09-06)
