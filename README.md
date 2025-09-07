@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 13:29:18**_
+_Last updated: **2025-09-07 13:39:32**_
 
 - [Is Nvidia a Buy?](https://biztoc.com/x/103bb38847a894a0) (Published: 2025-09-06)
 - [Deutsche Bank on ‘the summer AI turned ugly’: markets are ‘more sober’ than the dotcom bubble, but with troubling data-center math](https://fortune.com/2025/09/06/ai-bubble-overvalued-stocks-deutsche-bank-data-center-math-capex-roi/) (Published: 2025-09-06)
