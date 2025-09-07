@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 07:26:59**_
+_Last updated: **2025-09-07 07:38:20**_
 
 - [WealthShield Partners LLC Has $13.93 Million Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/wealthshield-partners-llc-has-13-93-million-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-06)
 - [NVIDIA Corporation $NVDA Shares Purchased by Strategy Asset Managers LLC](https://www.etfdailynews.com/2025/09/06/nvidia-corporation-nvda-shares-purchased-by-strategy-asset-managers-llc/) (Published: 2025-09-06)
