@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 20:22:40**_
+_Last updated: **2025-09-07 20:35:29**_
 
+- [Has anyone gotten cuda to work on a system76 gazelle with Ubuntu 24.04.3?](https://askubuntu.com/questions/1555622/has-anyone-gotten-cuda-to-work-on-a-system76-gazelle-with-ubuntu-24-04-3) (Published: 2025-09-06)
 - [How Much ‘Business’ And How Much ‘School’?](https://www.forbes.com/sites/shivaramrajgopal/2025/09/06/how-much-business-and-how-much-school/) (Published: 2025-09-06)
 - [Nvidia Is Not Happy With the Gain AI Act, Says As Much](https://gizmodo.com/nvidia-hates-the-gain-ai-act-2000654972) (Published: 2025-09-06)
 - [Why did Elon Musk not attend Trump's dinner with high-profile tech CEOs? Tesla CEO has this to say](https://economictimes.indiatimes.com/news/international/us/why-did-elon-musk-not-attend-trumps-dinner-with-high-profile-tech-ceos-tesla-ceo-has-this-to-say/articleshow/123738886.cms) (Published: 2025-09-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-07 20:22:40**_
 - [Tesla to Outprofit Nvidia 5X—The Secret $20 Trillion CEO Plan Explained!](https://www.nextbigfuture.com/2025/09/tesla-to-outprofit-nvidia-5x-the-secret-20-trillion-ceo-plan-explained.html) (Published: 2025-09-06)
 - [nvidia-nat-phoenix 1.3.0a20250906](https://pypi.org/project/nvidia-nat-phoenix/1.3.0a20250906/) (Published: 2025-09-06)
 - [nvidia-nat-crewai 1.3.0a20250906](https://pypi.org/project/nvidia-nat-crewai/1.3.0a20250906/) (Published: 2025-09-06)
-- [nvidia-nat-agno 1.3.0a20250906](https://pypi.org/project/nvidia-nat-agno/1.3.0a20250906/) (Published: 2025-09-06)
