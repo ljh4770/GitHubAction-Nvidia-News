@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 19:47:12**_
+_Last updated: **2025-09-07 19:57:20**_
 
 - [Nvidia Is Not Happy With the Gain AI Act, Says As Much](https://gizmodo.com/nvidia-hates-the-gain-ai-act-2000654972) (Published: 2025-09-06)
 - [Why did Elon Musk not attend Trump's dinner with high-profile tech CEOs? Tesla CEO has this to say](https://economictimes.indiatimes.com/news/international/us/why-did-elon-musk-not-attend-trumps-dinner-with-high-profile-tech-ceos-tesla-ceo-has-this-to-say/articleshow/123738886.cms) (Published: 2025-09-06)
