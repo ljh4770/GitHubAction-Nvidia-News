@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 05:19:53**_
+_Last updated: **2025-09-07 05:33:31**_
 
 - [German Chancellor Friedrich Merz inaugurates the Jupiter supercomputer, powered by Nvidia chips, the world's fourth-fastest and Europe's first Exascale system](https://biztoc.com/x/c8f9ed9ddeff1336) (Published: 2025-09-06)
 - [Nvidia says GAIN AI Act would restrict competition, likens it to AI Diffusion Rule](https://indianexpress.com/article/technology/nvidia-says-gain-ai-act-would-restrict-competition-likens-it-to-ai-diffusion-rule-10233352/) (Published: 2025-09-06)
