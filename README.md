@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 21:39:30**_
+_Last updated: **2025-09-07 21:49:59**_
 
 - [4 mistakes you should avoid when buying a mini PC](https://www.xda-developers.com/4-mistakes-to-avoid-when-buying-a-mini-pc/) (Published: 2025-09-06)
 - [Stop Shipping PNGs in Your Games](https://gamesbymason.com/blog/2025/stop-shipping-pngs/) (Published: 2025-09-06)
