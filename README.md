@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-07 07:48:29**_
+_Last updated: **2025-09-07 07:58:40**_
 
+- [Rep. Cleo Fields Purchases Shares of Advanced Micro Devices, Inc. (NASDAQ:AMD)](https://www.etfdailynews.com/2025/09/06/rep-cleo-fields-purchases-shares-of-advanced-micro-devices-inc-nasdaqamd/) (Published: 2025-09-06)
 - [WealthShield Partners LLC Has $13.93 Million Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/wealthshield-partners-llc-has-13-93-million-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-06)
 - [NVIDIA Corporation $NVDA Shares Purchased by Strategy Asset Managers LLC](https://www.etfdailynews.com/2025/09/06/nvidia-corporation-nvda-shares-purchased-by-strategy-asset-managers-llc/) (Published: 2025-09-06)
 - [Palacios Wealth Management LLC Boosts Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/palacios-wealth-management-llc-boosts-position-in-nvidia-corporation-nvda/) (Published: 2025-09-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-07 07:48:29**_
 - [Tidemark LLC Sells 90 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/06/tidemark-llc-sells-90-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-06)
 - [Harvest NVIDIA Enhanced High Income Shares ETF (TSE:NVHE.U) Shares Down 3.1% – Time to Sell?](https://www.etfdailynews.com/2025/09/06/harvest-nvidia-enhanced-high-income-shares-etf-tsenvhe-u-shares-down-3-1-time-to-sell/) (Published: 2025-09-06)
 - [NVIDIA & AMD Could Be ‘Forced’ To Sell Their GPUs to American Customers First, Before Exporting Them To Other Regions](https://wccftech.com/nvidia-amd-could-be-forced-to-sell-their-gpus-to-american-customers-first/) (Published: 2025-09-06)
-- [Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Acquired Rep. Cleo Fields](https://www.etfdailynews.com/2025/09/06/taiwan-semiconductor-manufacturing-nysetsm-shares-acquired-rep-cleo-fields-2/) (Published: 2025-09-06)
