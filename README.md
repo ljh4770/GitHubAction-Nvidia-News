@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-08 17:23:14**_
+_Last updated: **2025-09-08 17:38:11**_
 
 - [Borderless Gaming Introduces Cross-Vendor Frame Gen, Upscaling And Modern PC Features](https://hothardware.com/news/borderless-gaming-adds-vendor-neutral-frame-gen-upscaling) (Published: 2025-09-07)
 - [Silicon Valley tech worker fatally shot after allegedly stabbing roommate](https://gizmodo.com/silicon-valley-tech-worker-fatally-shot-after-allegedly-stabbing-roommate-2000655099) (Published: 2025-09-07)
