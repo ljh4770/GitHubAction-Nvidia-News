@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-08 19:57:30**_
+_Last updated: **2025-09-08 20:25:58**_
 
 - [CEOs Eyeing Tech Deals Record Flock to Key Goldman Confab](https://finance.yahoo.com/news/ceos-eyeing-tech-deals-record-191736055.html) (Published: 2025-09-07)
 - [Full transcript of "Face the Nation with Margaret Brennan," Sept. 7, 2025](https://www.cbsnews.com/news/face-the-nation-full-transcript-09-07-2025/) (Published: 2025-09-07)
