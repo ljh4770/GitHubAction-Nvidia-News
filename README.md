@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-08 22:40:07**_
+_Last updated: **2025-09-08 22:50:56**_
 
 - [Linux 6.17-rc5 Released With NVIDIA "Nouveau" Driver Stability Issues Addressed](https://www.phoronix.com/news/Linux-6.17-rc5) (Published: 2025-09-07)
 - [DataGlobal Hub’s GDAI 2025 Showcases the World’s Brightest Minds in Data and AI](https://www.globenewswire.com/news-release/2025/09/07/3145774/0/en/DataGlobal-Hub-s-GDAI-2025-Showcases-the-World-s-Brightest-Minds-in-Data-and-AI.html) (Published: 2025-09-07)
