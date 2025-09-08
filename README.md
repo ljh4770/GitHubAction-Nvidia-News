@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-08 07:42:25**_
+_Last updated: **2025-09-08 07:53:05**_
 
 - [NVIDIA Corporation $NVDA Shares Sold by Jackson Square Partners LLC](https://www.etfdailynews.com/2025/09/07/nvidia-corporation-nvda-shares-sold-by-jackson-square-partners-llc/) (Published: 2025-09-07)
 - [NVIDIA Corporation $NVDA Stock Position Decreased by Maryland State Retirement & Pension System](https://www.etfdailynews.com/2025/09/07/nvidia-corporation-nvda-stock-position-decreased-by-maryland-state-retirement-pension-system/) (Published: 2025-09-07)
