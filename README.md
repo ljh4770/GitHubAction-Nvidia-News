@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-08 19:08:23**_
+_Last updated: **2025-09-08 19:23:55**_
 
+- [CEOs Eyeing Tech Deals Record Flock to Key Goldman Confab](https://finance.yahoo.com/news/ceos-eyeing-tech-deals-record-191736055.html) (Published: 2025-09-07)
 - [Full transcript of "Face the Nation with Margaret Brennan," Sept. 7, 2025](https://www.cbsnews.com/news/face-the-nation-full-transcript-09-07-2025/) (Published: 2025-09-07)
 - [Borderless Gaming Introduces Cross-Vendor Frame Gen, Upscaling And Modern PC Features](https://hothardware.com/news/borderless-gaming-adds-vendor-neutral-frame-gen-upscaling) (Published: 2025-09-07)
 - [Silicon Valley tech worker fatally shot after allegedly stabbing roommate](https://gizmodo.com/silicon-valley-tech-worker-fatally-shot-after-allegedly-stabbing-roommate-2000655099) (Published: 2025-09-07)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-08 19:08:23**_
 - [Is Broadcom the Next Nvidia, Offering Investors Life-Changing Returns?](https://biztoc.com/x/1a78f2a27fcf715e) (Published: 2025-09-07)
 - [Latest Director Discretionary Denial Decisions Mostly Deny Institution, But Two Cases Defy ‘Settled Expectations’ Trend](https://ipwatchdog.com/2025/09/07/latest-director-discretionary-denial-decisions-mostly-deny-institution-two-cases-defy-settled-expectations-trend/id=191953/) (Published: 2025-09-07)
 - [Transcript: Sen. Roger Marshall on "Face the Nation with Margaret Brennan," Sept. 7, 2025](https://www.cbsnews.com/news/mark-warner-virginia-democrat-face-the-nation-transcript-09-07-2025/) (Published: 2025-09-07)
-- [Exclusive-ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say](https://www.channelnewsasia.com/business/exclusive-asml-becomes-mistral-ais-top-shareholder-after-leading-latest-funding-round-sources-say-5336926) (Published: 2025-09-07)
