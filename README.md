@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-08 18:35:52**_
+_Last updated: **2025-09-08 18:51:17**_
 
 - [Full transcript of "Face the Nation with Margaret Brennan," Sept. 7, 2025](https://www.cbsnews.com/news/face-the-nation-full-transcript-09-07-2025/) (Published: 2025-09-07)
 - [Borderless Gaming Introduces Cross-Vendor Frame Gen, Upscaling And Modern PC Features](https://hothardware.com/news/borderless-gaming-adds-vendor-neutral-frame-gen-upscaling) (Published: 2025-09-07)
