@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-08 20:25:58**_
+_Last updated: **2025-09-08 20:40:59**_
 
+- [Amazon.com, Inc. (AMZN) Might Make A Big Move In AI, Says Jim Cramer](https://finance.yahoo.com/news/amazon-com-inc-amzn-might-202635601.html) (Published: 2025-09-07)
 - [CEOs Eyeing Tech Deals Record Flock to Key Goldman Confab](https://finance.yahoo.com/news/ceos-eyeing-tech-deals-record-191736055.html) (Published: 2025-09-07)
 - [Full transcript of "Face the Nation with Margaret Brennan," Sept. 7, 2025](https://www.cbsnews.com/news/face-the-nation-full-transcript-09-07-2025/) (Published: 2025-09-07)
 - [Borderless Gaming Introduces Cross-Vendor Frame Gen, Upscaling And Modern PC Features](https://hothardware.com/news/borderless-gaming-adds-vendor-neutral-frame-gen-upscaling) (Published: 2025-09-07)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-08 20:25:58**_
 - [ASML becomes Mistral AI's top shareholder after leading latest funding round](https://economictimes.indiatimes.com/tech/funding/asml-becomes-mistral-ais-top-shareholder-after-leading-latest-funding-round/articleshow/123749464.cms) (Published: 2025-09-07)
 - [Is Broadcom the Next Nvidia, Offering Investors Life-Changing Returns?](https://biztoc.com/x/1a78f2a27fcf715e) (Published: 2025-09-07)
 - [Latest Director Discretionary Denial Decisions Mostly Deny Institution, But Two Cases Defy ‘Settled Expectations’ Trend](https://ipwatchdog.com/2025/09/07/latest-director-discretionary-denial-decisions-mostly-deny-institution-two-cases-defy-settled-expectations-trend/id=191953/) (Published: 2025-09-07)
-- [Transcript: Sen. Roger Marshall on "Face the Nation with Margaret Brennan," Sept. 7, 2025](https://www.cbsnews.com/news/mark-warner-virginia-democrat-face-the-nation-transcript-09-07-2025/) (Published: 2025-09-07)
