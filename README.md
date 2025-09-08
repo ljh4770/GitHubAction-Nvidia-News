@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-08 15:58:58**_
+_Last updated: **2025-09-08 16:31:51**_
 
+- [ASML becomes Mistral AI's top shareholder after leading latest funding round](https://economictimes.indiatimes.com/tech/funding/asml-becomes-mistral-ais-top-shareholder-after-leading-latest-funding-round/articleshow/123749464.cms) (Published: 2025-09-07)
+- [Is Broadcom the Next Nvidia, Offering Investors Life-Changing Returns?](https://biztoc.com/x/1a78f2a27fcf715e) (Published: 2025-09-07)
+- [Latest Director Discretionary Denial Decisions Mostly Deny Institution, But Two Cases Defy ‘Settled Expectations’ Trend](https://ipwatchdog.com/2025/09/07/latest-director-discretionary-denial-decisions-mostly-deny-institution-two-cases-defy-settled-expectations-trend/id=191953/) (Published: 2025-09-07)
 - [Transcript: Sen. Roger Marshall on "Face the Nation with Margaret Brennan," Sept. 7, 2025](https://www.cbsnews.com/news/mark-warner-virginia-democrat-face-the-nation-transcript-09-07-2025/) (Published: 2025-09-07)
 - [Exclusive-ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say](https://www.channelnewsasia.com/business/exclusive-asml-becomes-mistral-ais-top-shareholder-after-leading-latest-funding-round-sources-say-5336926) (Published: 2025-09-07)
 - [Exclusive-ASML becomes Mistral AI’s top shareholder after leading latest funding round, sources say](https://finance.yahoo.com/news/exclusive-asml-becomes-mistral-ai-155415701.html) (Published: 2025-09-07)
@@ -8,6 +11,3 @@ _Last updated: **2025-09-08 15:58:58**_
 - [The One Skill You Can’t Afford To Ignore As AI Reshapes The Workplace](https://www.forbes.com/sites/carminegallo/2025/09/07/the-one-skill-you-cant-afford-to-ignore-as-ai-reshapes-the-workplace/) (Published: 2025-09-07)
 - [Prediction: This Undervalued Artificial Intelligence (AI) Stock Will Be Worth $5 Trillion by 2030](https://biztoc.com/x/095192b4d47a202a) (Published: 2025-09-07)
 - [US Stock market's worst performing month in past 35 years September is here. Top Stocks to pivotal factors - all you need to know](https://economictimes.indiatimes.com/news/international/us/us-stock-markets-worst-performing-month-in-past-35-years-september-is-here-top-stocks-to-pivotal-factors-all-you-need-to-know/articleshow/123748966.cms) (Published: 2025-09-07)
-- [Show HN: VeritasGraph,An on-premise Graph RAG with verifiable source attribution](https://github.com/bibinprathap/VeritasGraph) (Published: 2025-09-07)
-- [Is SoundHound AI Stock a Buy Now?](https://biztoc.com/x/f47ecc2e6f2a78f4) (Published: 2025-09-07)
-- [What is Mistral AI? Everything to know about the OpenAI competitor | TechCrunch](https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) (Published: 2025-09-07)
