@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-08 10:40:33**_
+_Last updated: **2025-09-08 10:52:09**_
 
+- [Nvidia: I Didn't Think I Could Get More Bullish - Then Q2 Happened](https://biztoc.com/x/9b2fdcfe1897e59c) (Published: 2025-09-07)
 - [NVIDIA’s (NVDA) “Overweight” Rating Reiterated at JPMorgan Chase & Co.](https://www.etfdailynews.com/2025/09/07/nvidias-nvda-overweight-rating-reiterated-at-jpmorgan-chase-co/) (Published: 2025-09-07)
 - [NVIDIA Corporation $NVDA is Nutshell Asset Management Ltd’s 10th Largest Position](https://www.etfdailynews.com/2025/09/07/nvidia-corporation-nvda-is-nutshell-asset-management-ltds-10th-largest-position/) (Published: 2025-09-07)
 - [WealthPLAN Partners LLC Purchases 13,995 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/07/wealthplan-partners-llc-purchases-13995-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-07)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-08 10:40:33**_
 - [Potentia Wealth Boosts Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/07/potentia-wealth-boosts-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-07)
 - [Samsung's GDDR6 Modules Run 10°C Cooler Than SK Hynix, Claims GPU AIB](https://www.techpowerup.com/340751/samsungs-gddr6-modules-run-10-c-cooler-than-sk-hynix-claims-gpu-aib) (Published: 2025-09-07)
 - [As Xi and Putin chase immortality, let's talk about digital presidents-for-life](https://www.theregister.com/2025/09/07/immortal_digital_dictators/) (Published: 2025-09-07)
-- [nvfuser-cu128 0.2.32.dev20250907](https://pypi.org/project/nvfuser-cu128/0.2.32.dev20250907/) (Published: 2025-09-07)
