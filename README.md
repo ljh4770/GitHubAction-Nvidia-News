@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-09 09:54:22**_
+_Last updated: **2025-09-09 10:18:07**_
 
+- [IREN August 2025 Monthly Update](https://www.globenewswire.com/news-release/2025/09/08/3145927/0/en/IREN-August-2025-Monthly-Update.html) (Published: 2025-09-08)
+- [IREN Appoints Anthony Lewis as Chief Financial Officer](https://www.globenewswire.com/news-release/2025/09/08/3145928/0/en/IREN-Appoints-Anthony-Lewis-as-Chief-Financial-Officer.html) (Published: 2025-09-08)
+- [Super Micro Teams With Nokia To Tackle Surging AI And Cloud Demand](https://finance.yahoo.com/news/super-micro-teams-nokia-tackle-100553967.html) (Published: 2025-09-08)
+- [Nvidia Joins Honeywell as Quantinuum Hits $10 Billion Valuation after $600M Raise](https://biztoc.com/x/133ee0988450ecba) (Published: 2025-09-08)
+- [Acer announces mini Blackwell powered AI supercomputer, adding to Nvidia's lineup of partnered DGX Spark copies](https://www.pcgamer.com/hardware/acer-announces-mini-blackwell-powered-ai-supercomputer-adding-to-nvidias-lineup-of-partnered-dgx-spark-copies/) (Published: 2025-09-08)
+- [Capitalism for big firms, risk for everyone else: Why the investment landscape needs a reset](https://financialpost.com/investing/capitalism-big-firms-risk-everyone-else-investment-landscape-reset) (Published: 2025-09-08)
+- [SK hynix claims world's first High NA EUV machine for 'mass production' of cutting edge chips, beating Intel to the punch](https://www.pcgamer.com/hardware/sk-hynix-claims-worlds-first-high-na-euv-machine-for-mass-production-of-cutting-edge-chips-beating-intel-to-the-punch/) (Published: 2025-09-08)
+- [Nvidia says GAIN AI Act would restrict competition](https://thefly.com/permalinks/entry.php/id4194148/NVDA-Nvidia-says-GAIN-AI-Act-would-restrict-competition) (Published: 2025-09-08)
+- [Dell AI server revenues leap but storage waits on Project Lightning](https://www.computerweekly.com/news/366630228/Dell-AI-server-revenues-leap-but-storage-waits-on-Project-Lightning) (Published: 2025-09-08)
 - [Nvidia price target lowered by $10 at Citi, here's why](https://thefly.com/permalinks/entry.php/id4194145/NVDA;AVGO-Nvidia-price-target-lowered-by--at-Citi-heres-why) (Published: 2025-09-08)
-- [Samsung’s 2025 OLED TV Certified as a VDE ‘Real Black’ Display for Industry-Leading Picture Quality](https://news.samsung.com/in/samsungs-2025-oled-tv-certified-as-a-vde-real-black-display-for-industry-leading-picture-quality) (Published: 2025-09-08)
-- [Prediction: Nvidia Will Be Worth $10 Trillion by 2030. Here's Why](https://biztoc.com/x/70571d30467b5c76) (Published: 2025-09-08)
-- [Infected by WR64.sys](https://www.bleepingcomputer.com/forums/t/810587/infected-by-wr64sys/) (Published: 2025-09-08)
-- [Small Language Models (SMLs) Company Evaluation Report 2025 | Azure AI Integration, Watson Platform Advancements, and On-Device Processing Strengthen Leadership in Health, Finance, Manufacturing](https://www.globenewswire.com/news-release/2025/09/08/3145894/28124/en/Small-Language-Models-SMLs-Company-Evaluation-Report-2025-Azure-AI-Integration-Watson-Platform-Advancements-and-On-Device-Processing-Strengthen-Leadership-in-Health-Finance-Manufac.html) (Published: 2025-09-08)
-- [AI bubble fears get worse. Wall Street plays it cool](https://qz.com/ai-boom-bubble-fears) (Published: 2025-09-08)
-- [The Official Vampire: The Masquerade – Bloodlines 2 PC Requirements Are Quite Accessible](https://wccftech.com/vampire-the-masquerade-bloodlines-2-pc-requirements-accessible/) (Published: 2025-09-08)
-- [Thriving Amid Auto EV/AV Uncertainty Requires Holistic Solutions](https://www.forbes.com/sites/tiriasresearch/2025/09/08/thriving-amid-auto-evav-uncertainty-requires-holistic-solutions/) (Published: 2025-09-08)
-- [MSI 15.6" Thin Laptop i7-12650H 8GB/512GB RTX2050 $799.98 Delivered ($500.01 Off) @ Costco (Membership Required)](https://www.ozbargain.com.au/node/923278) (Published: 2025-09-08)
-- [NVIDIA Orders $144 Million Of Memory Chips From Samsung For China-Specific Blackwell B40 AI GPU – Report](https://wccftech.com/nvidia-orders-144-million-of-memory-chips-from-samsung-for-china-specific-blackwell-b40-ai-gpu-report/) (Published: 2025-09-08)
