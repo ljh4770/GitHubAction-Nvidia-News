@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-09 14:27:21**_
+_Last updated: **2025-09-09 14:44:13**_
 
+- [Alibaba, ByteDance, and Others Remain Keen on NVIDIA (NVDA)’s AI Chips](https://finance.yahoo.com/news/alibaba-bytedance-others-remain-keen-142925517.html) (Published: 2025-09-08)
 - [Drones Strategic Intelligence Report 2025 | Commercial Drones Will Surpass Military Sales This Year, Driven by Favorable Regulations and an Increase in Beyond Visual Line of Sight (BVLOS) Operations.](https://www.globenewswire.com/news-release/2025/09/08/3146233/28124/en/Drones-Strategic-Intelligence-Report-2025-Commercial-Drones-Will-Surpass-Military-Sales-This-Year-Driven-by-Favorable-Regulations-and-an-Increase-in-Beyond-Visual-Line-of-Sight-BVL.html) (Published: 2025-09-08)
 - [Graphics Processing Unit (GPU) Market Report 2025 | Market to Grow at a CAGR of 28.22% to Reach $592.18 Billion by 2033 - Data Centers Fuel GPU Demand Amid Expanding Global Infrastructure](https://www.globenewswire.com/news-release/2025/09/08/3146225/28124/en/Graphics-Processing-Unit-GPU-Market-Report-2025-Market-to-Grow-at-a-CAGR-of-28-22-to-Reach-592-18-Billion-by-2033-Data-Centers-Fuel-GPU-Demand-Amid-Expanding-Global-Infrastructure.html) (Published: 2025-09-08)
 - [US tech and finance giants to join Trump on second UK state visit](https://news.sky.com/story/us-tech-and-finance-giants-to-join-trump-on-second-uk-state-visit-13427186) (Published: 2025-09-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-09 14:27:21**_
 - [Cisco, NVIDIA, and VAST Data Advance Agentic AI Infrastructure with Secure AI Factory Blueprint](https://www.storagereview.com/news/cisco-nvidia-and-vast-data-advance-agentic-ai-infrastructure-with-secure-ai-factory-blueprint) (Published: 2025-09-08)
 - [This RTX 5060 laptop with Copilot+ AI is insanely affordable right now](https://www.pcworld.com/article/2901269/this-rtx-5060-laptop-with-copilot-plus-ai-is-insanely-affordable-right-now.html) (Published: 2025-09-08)
 - [BMW and Mercedes launch new EVs in challenge to Tesla](https://qz.com/tesla-faces-new-threats-from-bmw-and-mercedes) (Published: 2025-09-08)
-- [Presentation: GenAI at Scale: What It Enables, What It Costs, and How To Reduce the Pain](https://www.infoq.com/presentations/genai-scale/) (Published: 2025-09-08)
