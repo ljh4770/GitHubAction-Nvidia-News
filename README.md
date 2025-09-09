@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-09 11:48:39**_
+_Last updated: **2025-09-09 11:58:45**_
 
 - [Nvidia Stock Under Pressure — But Analysts at Big Banks Stay Firm](https://biztoc.com/x/89f2a74e8725f831) (Published: 2025-09-08)
 - ["That's not AI's fault, that is the capitalist system" — The 'Godfather of AI' warns how the tech will wipe out jobs but boost profits](https://www.windowscentral.com/artificial-intelligence/godfather-of-ai-warns-how-the-tech-will-wipe-out-jobs-but-boost-profits) (Published: 2025-09-08)
