@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-09 07:35:54**_
+_Last updated: **2025-09-09 07:46:40**_
 
 - [NVIDIA GeForce RTX 5090 Gets 128 GB VRAM Capacity Mod](https://www.techpowerup.com/340771/nvidia-geforce-rtx-5090-gets-128-gb-vram-capacity-mod) (Published: 2025-09-08)
 - [Benjamin Edwards Inc. Sells 157,657 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/08/benjamin-edwards-inc-sells-157657-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-08)
