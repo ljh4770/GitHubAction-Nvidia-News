@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-09 14:44:13**_
+_Last updated: **2025-09-09 14:54:32**_
 
+- [What’s up with… Qualcomm & BMW, SpaceX, Mistral AI & ASML](https://www.telecomtv.com/content/automotive/what-s-up-with-qualcomm-bmw-spacex-mistral-ai-asml-53779/) (Published: 2025-09-08)
+- [Alibaba, ByteDance, and Others Remain Keen on NVIDIA (NVDA)’s AI Chips](https://biztoc.com/x/b864544f67f45752) (Published: 2025-09-08)
+- [Nvidia leads way as Dow industrials reverse nearly all of early decline](https://biztoc.com/x/b25bc33a850d8325) (Published: 2025-09-08)
 - [Alibaba, ByteDance, and Others Remain Keen on NVIDIA (NVDA)’s AI Chips](https://finance.yahoo.com/news/alibaba-bytedance-others-remain-keen-142925517.html) (Published: 2025-09-08)
 - [Drones Strategic Intelligence Report 2025 | Commercial Drones Will Surpass Military Sales This Year, Driven by Favorable Regulations and an Increase in Beyond Visual Line of Sight (BVLOS) Operations.](https://www.globenewswire.com/news-release/2025/09/08/3146233/28124/en/Drones-Strategic-Intelligence-Report-2025-Commercial-Drones-Will-Surpass-Military-Sales-This-Year-Driven-by-Favorable-Regulations-and-an-Increase-in-Beyond-Visual-Line-of-Sight-BVL.html) (Published: 2025-09-08)
 - [Graphics Processing Unit (GPU) Market Report 2025 | Market to Grow at a CAGR of 28.22% to Reach $592.18 Billion by 2033 - Data Centers Fuel GPU Demand Amid Expanding Global Infrastructure](https://www.globenewswire.com/news-release/2025/09/08/3146225/28124/en/Graphics-Processing-Unit-GPU-Market-Report-2025-Market-to-Grow-at-a-CAGR-of-28-22-to-Reach-592-18-Billion-by-2033-Data-Centers-Fuel-GPU-Demand-Amid-Expanding-Global-Infrastructure.html) (Published: 2025-09-08)
@@ -8,6 +11,3 @@ _Last updated: **2025-09-09 14:44:13**_
 - [French datacenter biz signs 12-year nuclear pact with EDF](https://www.theregister.com/2025/09/08/data4_edf_nuclear_deal/) (Published: 2025-09-08)
 - [Nvidia has reportedly asked Samsung to double its production of GDDR7, possibly for AI GPUs to China—although we're hoping for some more VRAM-stacked RTX 50-series Super cards](https://www.pcgamer.com/hardware/graphics-cards/nvidia-has-reportedly-asked-samsung-to-double-its-production-of-gddr7-possibly-for-ai-gpus-to-china-although-were-hoping-for-some-more-vram-stacked-rtx-50-series-super-cards/) (Published: 2025-09-08)
 - [Transcription reshapes RNA hairpin folding pathways revealed by all-atom molecular dynamics simulations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013472) (Published: 2025-09-08)
-- [Cisco, NVIDIA, and VAST Data Advance Agentic AI Infrastructure with Secure AI Factory Blueprint](https://www.storagereview.com/news/cisco-nvidia-and-vast-data-advance-agentic-ai-infrastructure-with-secure-ai-factory-blueprint) (Published: 2025-09-08)
-- [This RTX 5060 laptop with Copilot+ AI is insanely affordable right now](https://www.pcworld.com/article/2901269/this-rtx-5060-laptop-with-copilot-plus-ai-is-insanely-affordable-right-now.html) (Published: 2025-09-08)
-- [BMW and Mercedes launch new EVs in challenge to Tesla](https://qz.com/tesla-faces-new-threats-from-bmw-and-mercedes) (Published: 2025-09-08)
