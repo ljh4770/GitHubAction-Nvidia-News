@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-09 17:28:06**_
+_Last updated: **2025-09-09 17:39:50**_
 
+- [DataCrunch raises $64M to build European-based AI hyperscaler using green energy](https://siliconangle.com/2025/09/08/datacrunch-raises-64m-build-european-based-ai-hyperscaler-using-green-energy/) (Published: 2025-09-08)
 - [On theCUBE Pod: AI factories, custom silicon deals and the race for infrastructure scale](https://siliconangle.com/2025/09/08/ai-factories-custom-silicon-deals-race-infrastructure-scale-thecubepod/) (Published: 2025-09-08)
 - [Nvidia’s Rally Is Facing a Reality Check: Should You Buy NVDA Stock Despite Citi’s Target Price Cut?](https://www.barchart.com/story/news/34671143/nvidias-rally-is-facing-a-reality-check-should-you-buy-nvda-stock-despite-citis-target-price-cut) (Published: 2025-09-08)
 - [Tensordyne Claims 8x AI Efficiency Boost Over NVIDIA With Logarithmic Math](https://hothardware.com/news/tensordyne-logarithmic-math-ai) (Published: 2025-09-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-09 17:28:06**_
 - [Stock market today: S&P 500 rises, Nasdaq on track for record as Wall Street looks ahead to inflation reality check](https://finance.yahoo.com/news/live/stock-market-today-sp-500-rises-nasdaq-on-track-for-record-as-wall-street-looks-ahead-to-inflation-reality-check-170830778.html) (Published: 2025-09-08)
 - [Nvidia Stock Price Forecast Takes a Beating as Analyst Warns of ‘$12 Billion Broadcom Threat’](https://biztoc.com/x/a266f81a3d1af9b7) (Published: 2025-09-08)
 - [The Acer Nitro 60 Gaming PC with GeForce RTX 5070 Ti GPU Drops to Just $1,799.99 at Walmart](https://www.ign.com/articles/acer-nitro-60-gaming-pc-rtx-5070-ti-gaming-pc-deal) (Published: 2025-09-08)
-- [Linux Mint 22.2 launches with a few old bugs](https://www.notebookcheck.net/Linux-Mint-22-2-launches-with-a-few-old-bugs.1108587.0.html) (Published: 2025-09-08)
