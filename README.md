@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-09 23:20:57**_
+_Last updated: **2025-09-09 23:32:20**_
 
 - [Microsoft turns to Nebius in nearly $20B AI infrastructure deal](https://siliconangle.com/2025/09/08/microsoft-turns-nebius-nearly-20b-ai-infrastructure-deal/) (Published: 2025-09-08)
 - [Cramer's Lightning Round: Dell over Super Micro Computer](https://www.cnbc.com/2025/09/08/cramers-lightning-round-dell-over-super-micro-computer.html) (Published: 2025-09-08)
