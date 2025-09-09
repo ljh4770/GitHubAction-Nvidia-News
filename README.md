@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-09 23:42:39**_
+_Last updated: **2025-09-09 23:53:16**_
 
 - [Asia markets set to trade mostly higher, tracking gains on Wall Street](https://www.cnbc.com/2025/09/09/asia-markets-nikkei-225-kospi-nifty-50.html) (Published: 2025-09-08)
 - [Microsoft turns to Nebius in nearly $20B AI infrastructure deal](https://siliconangle.com/2025/09/08/microsoft-turns-nebius-nearly-20b-ai-infrastructure-deal/) (Published: 2025-09-08)
