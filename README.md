@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-10 21:22:21**_
+_Last updated: **2025-09-10 21:33:56**_
 
+- [Oracle Shares Jump to Record on Cloud Infrastructure Outlook](https://financialpost.com/pmn/business-pmn/oracle-shares-jump-to-record-on-cloud-infrastructure-outlook) (Published: 2025-09-09)
+- [Oracle stock jumps 30% as blowout outlook fuels AI hopes](https://financialpost.com/technology/oracle-shares-record-cloud-infrastructure-outlook) (Published: 2025-09-09)
 - [Intel Confirms Arrow Lake Desktop Refresh Next Year, Nova Lake Desktop CPUs With An 18A Tile In Late 2026, 14A More Suitable For External Customers, Every 7 Out of 10 PC Has Intel Inside](https://wccftech.com/intel-arrow-lake-refresh-2026-nova-lake-desktop-late-2026-18a-14a-updates/) (Published: 2025-09-09)
 - [Slick new Steam sci-fi FPS with Star Wars-like dogfights and 500,000 demo players gets low launch price and roadmap update](https://www.notebookcheck.net/Slick-new-Steam-sci-fi-FPS-with-Star-Wars-like-dogfights-and-500-000-demo-players-gets-low-launch-price-and-roadmap-update.1110110.0.html) (Published: 2025-09-09)
 - [New Steam sci-fi space fighter game from Mirror's Edge and Wolfenstein veterans gets $20 launch price and stacked content roadmap](https://www.notebookcheck.net/New-Steam-sci-fi-space-fighter-game-from-Mirror-s-Edge-and-Wolfenstein-veterans-gets-20-launch-price-and-stacked-content-roadmap.1110110.0.html) (Published: 2025-09-09)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-10 21:22:21**_
 - [Deploy Scalable AI Inference with NVIDIA NIM Operator 3.0.0](https://developer.nvidia.com/blog/deploy-scalable-ai-inference-with-nvidia-nim-operator-3-0-0/) (Published: 2025-09-09)
 - [UAE Lab Releases Open-Source Model to Rival China’s DeepSeek](https://gizmodo.com/uae-lab-releases-open-source-model-to-rival-chinas-deepseek-2000656197) (Published: 2025-09-09)
 - [MLPerf v5.1 AI Inference Benchmark Showdown: NVIDIA Blackwell Ultra GB300 & AMD Instinct MI355X In The Spotlight](https://wccftech.com/mlperf-v5-1-ai-inference-benchmark-showdown-nvidia-blackwell-ultra-gb300-amd-instinct-mi355x/) (Published: 2025-09-09)
-- [The XFX Radeon RX 7900 XT Graphics Card Drops to $630: This Is the Least Expensive 4K-Capable GPU](https://www.ign.com/articles/xfx-radeon-rx-7900-xt-graphics-card-deal-best-4k-gpu-under-650) (Published: 2025-09-09)
-- [Quantum Stock Tracker: Nvidia Backs Quantinuum; D-Wave, IonQ Announce New Execs](https://biztoc.com/x/a9c244aaf2a86eae) (Published: 2025-09-09)
