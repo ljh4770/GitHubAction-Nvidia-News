@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-10 10:45:24**_
+_Last updated: **2025-09-10 10:56:00**_
 
+- [Nebius Group hits record high as $17.4 billion Microsoft deal affirms expansion strategy](https://www.channelnewsasia.com/business/nebius-group-hits-record-high-174-billion-microsoft-deal-affirms-expansion-strategy-5340056) (Published: 2025-09-09)
+- [Nebius jumps after $17.4-billion AI computing deal with Microsoft](https://www.channelnewsasia.com/business/nebius-jumps-after-174-billion-ai-computing-deal-microsoft-5340056) (Published: 2025-09-09)
+- [Nebius jumps on $17.4-billion AI computing deal with Microsoft](https://www.channelnewsasia.com/business/nebius-jumps-174-billion-ai-computing-deal-microsoft-5340056) (Published: 2025-09-09)
+- [Borderlands 4 will get a day one patch, but Gearbox CEO warns not to expect 'a miracle' if you're playing on an older PC](https://www.techradar.com/gaming/borderlands-4-will-get-a-day-one-patch-but-gearbox-ceo-warns-not-to-expect-a-miracle-if-youre-playing-on-an-older-pc) (Published: 2025-09-09)
+- [Analyst Slashes Nvidia Price Target By 5%, Citing Intensifying AI Chip Rivalry From Broadcom And Google](https://biztoc.com/x/cc2ab47e4c4f73c3) (Published: 2025-09-09)
 - [US stock market futures rise as Nasdaq hits record, S&P 500 and Dow climb, Fed rate cut bets build while Apple’s iPhone 17 event takes center stage with Oracle and GameStop earnings in focus](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-rise-as-nasdaq-hits-record-sp-500-and-dow-climb-fed-rate-cut-bets-build-while-apples-iphone-17-event-takes-center-stage-with-oracle-and-gamestop-earnings-in-focus/articleshow/123784419.cms) (Published: 2025-09-09)
 - [Packaging for Intel's high-performance Battlemage gaming GPU has popped up in a shipping manifest but I'm not sure I dare to hope it will really launch or actually be any good](https://www.pcgamer.com/hardware/graphics-cards/packaging-for-intels-high-performance-battlemage-gaming-gpu-has-popped-up-in-a-shipping-manifest-but-im-not-sure-i-dare-to-hope-it-will-really-launch-or-actually-be-any-good/) (Published: 2025-09-09)
 - [How does Tesla get to $8.5 trillion value? Robots, robotaxis and hope](https://economictimes.indiatimes.com/news/international/global-trends/how-does-tesla-get-to-8-5-trillion-value-robots-robotaxis-and-hope/articleshow/123784551.cms) (Published: 2025-09-09)
 - [ASML makes $1.5billion investment in Mistral AI — ASML becomes the largest shareholder for the French AI start-up](https://www.tomshardware.com/tech-industry/semiconductors/asml-makes-usd1-5billion-investment-in-mistral-ai-asml-becomes-the-largest-shareholder-for-the-french-ai-start-up) (Published: 2025-09-09)
 - [Nvidia increases attacks on lawmakers pushing AI restrictions, NYT says](https://thefly.com/permalinks/entry.php/id4194918/NVDA-Nvidia-increases-attacks-on-lawmakers-pushing-AI-restrictions-NYT-says) (Published: 2025-09-09)
-- [Why ASML is investing $1.5B in Mistral - and why it makes sense](https://biztoc.com/x/d12c56a33c5daf2b) (Published: 2025-09-09)
-- [Intel Arc B770 “Battlemage” Nears Launch as Intel Prepares Packaging](https://www.madshrimps.be/news/intel-arc-b770-battlemage-nears-launch-as-intel-prepares-packaging/) (Published: 2025-09-09)
-- [America’s Richest Sports Team Owners 2025](https://www.forbes.com/sites/justinbirnbaum/2025/09/09/americas-richest-sports-team-owners-2025/) (Published: 2025-09-09)
-- [ASML Invests Billions In Nvidia-Backed Mistral AI To Power Next Era Of Semiconductors](https://biztoc.com/x/fc7339edae6f487e) (Published: 2025-09-09)
-- [How does Tesla get to $8.5 trillion value? Robots, robotaxis and hope](https://www.channelnewsasia.com/business/how-does-tesla-get-85-trillion-value-robots-robotaxis-and-hope-5339986) (Published: 2025-09-09)
