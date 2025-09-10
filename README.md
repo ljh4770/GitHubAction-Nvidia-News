@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-10 20:48:26**_
+_Last updated: **2025-09-10 20:58:29**_
 
+- [Nvidia and its Big Tech peers have $1 trillion to spend. What should they do with it?](https://biztoc.com/x/d17081cfe34c4096) (Published: 2025-09-09)
 - [Deploy Scalable AI Inference with NVIDIA NIM Operator 3.0.0](https://developer.nvidia.com/blog/deploy-scalable-ai-inference-with-nvidia-nim-operator-3-0-0/) (Published: 2025-09-09)
 - [UAE Lab Releases Open-Source Model to Rival China’s DeepSeek](https://gizmodo.com/uae-lab-releases-open-source-model-to-rival-chinas-deepseek-2000656197) (Published: 2025-09-09)
 - [MLPerf v5.1 AI Inference Benchmark Showdown: NVIDIA Blackwell Ultra GB300 & AMD Instinct MI355X In The Spotlight](https://wccftech.com/mlperf-v5-1-ai-inference-benchmark-showdown-nvidia-blackwell-ultra-gb300-amd-instinct-mi355x/) (Published: 2025-09-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-10 20:48:26**_
 - [Nvidia-backed Reflection AI eyes $5.5 billion valuation as AI runs hot, FT reports](https://www.channelnewsasia.com/business/nvidia-backed-reflection-ai-eyes-55-billion-valuation-ai-runs-hot-ft-reports-5340786) (Published: 2025-09-09)
 - [MLPerf Inference v5.1: NVIDIA Blackwell Ultra vs. AMD Instinct Platforms](https://www.storagereview.com/news/mlperf-inference-v5-1-nvidia-blackwell-ultra-vs-amd-instinct-platforms) (Published: 2025-09-09)
 - [nvidia-nat-crewai 1.3.0a20250909](https://pypi.org/project/nvidia-nat-crewai/1.3.0a20250909/) (Published: 2025-09-09)
-- [nvidia-nat-mcp added to PyPI](https://pypi.org/project/nvidia-nat-mcp/) (Published: 2025-09-09)
