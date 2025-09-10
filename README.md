@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-10 20:22:11**_
+_Last updated: **2025-09-10 20:37:35**_
 
 - [UAE Lab Releases Open-Source Model to Rival China’s DeepSeek](https://gizmodo.com/uae-lab-releases-open-source-model-to-rival-chinas-deepseek-2000656197) (Published: 2025-09-09)
 - [MLPerf v5.1 AI Inference Benchmark Showdown: NVIDIA Blackwell Ultra GB300 & AMD Instinct MI355X In The Spotlight](https://wccftech.com/mlperf-v5-1-ai-inference-benchmark-showdown-nvidia-blackwell-ultra-gb300-amd-instinct-mi355x/) (Published: 2025-09-09)
