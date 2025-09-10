@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-10 07:48:05**_
+_Last updated: **2025-09-10 07:58:14**_
 
 - [Aveo Capital Partners LLC Has $2.37 Million Stock Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/09/aveo-capital-partners-llc-has-2-37-million-stock-position-in-nvidia-corporation-nvda/) (Published: 2025-09-09)
 - [King Luther Capital Management Corp Buys 32,801 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/09/king-luther-capital-management-corp-buys-32801-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-09)
