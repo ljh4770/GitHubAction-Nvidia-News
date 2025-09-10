@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-10 10:33:44**_
+_Last updated: **2025-09-10 10:45:24**_
 
+- [US stock market futures rise as Nasdaq hits record, S&P 500 and Dow climb, Fed rate cut bets build while Apple’s iPhone 17 event takes center stage with Oracle and GameStop earnings in focus](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-rise-as-nasdaq-hits-record-sp-500-and-dow-climb-fed-rate-cut-bets-build-while-apples-iphone-17-event-takes-center-stage-with-oracle-and-gamestop-earnings-in-focus/articleshow/123784419.cms) (Published: 2025-09-09)
+- [Packaging for Intel's high-performance Battlemage gaming GPU has popped up in a shipping manifest but I'm not sure I dare to hope it will really launch or actually be any good](https://www.pcgamer.com/hardware/graphics-cards/packaging-for-intels-high-performance-battlemage-gaming-gpu-has-popped-up-in-a-shipping-manifest-but-im-not-sure-i-dare-to-hope-it-will-really-launch-or-actually-be-any-good/) (Published: 2025-09-09)
 - [How does Tesla get to $8.5 trillion value? Robots, robotaxis and hope](https://economictimes.indiatimes.com/news/international/global-trends/how-does-tesla-get-to-8-5-trillion-value-robots-robotaxis-and-hope/articleshow/123784551.cms) (Published: 2025-09-09)
 - [ASML makes $1.5billion investment in Mistral AI — ASML becomes the largest shareholder for the French AI start-up](https://www.tomshardware.com/tech-industry/semiconductors/asml-makes-usd1-5billion-investment-in-mistral-ai-asml-becomes-the-largest-shareholder-for-the-french-ai-start-up) (Published: 2025-09-09)
 - [Nvidia increases attacks on lawmakers pushing AI restrictions, NYT says](https://thefly.com/permalinks/entry.php/id4194918/NVDA-Nvidia-increases-attacks-on-lawmakers-pushing-AI-restrictions-NYT-says) (Published: 2025-09-09)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-10 10:33:44**_
 - [America’s Richest Sports Team Owners 2025](https://www.forbes.com/sites/justinbirnbaum/2025/09/09/americas-richest-sports-team-owners-2025/) (Published: 2025-09-09)
 - [ASML Invests Billions In Nvidia-Backed Mistral AI To Power Next Era Of Semiconductors](https://biztoc.com/x/fc7339edae6f487e) (Published: 2025-09-09)
 - [How does Tesla get to $8.5 trillion value? Robots, robotaxis and hope](https://www.channelnewsasia.com/business/how-does-tesla-get-85-trillion-value-robots-robotaxis-and-hope-5339986) (Published: 2025-09-09)
-- [How does Tesla get to $8.5 trillion value? Robots, robotaxis and hope](https://finance.yahoo.com/news/does-tesla-8-5-trillion-100326566.html) (Published: 2025-09-09)
-- [Forget the September slump: Why this market continues to rally](https://finance.yahoo.com/video/forget-september-slump-why-market-100001329.html) (Published: 2025-09-09)
