@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-10 14:58:10**_
+_Last updated: **2025-09-10 15:25:53**_
 
-- [AI expert says it’s ‘not a question’ that AI will take over all jobs—but people will have 80 hours a week of free time](https://fortune.com/2025/09/09/ai-expert-tech-take-over-jobs-careers-record-unemployment-80-hours-free-time/) (Published: 2025-09-09)
-- [(PR) NVIDIA RTX Remix Update Introduces Advanced Path-Traced Particle System](https://www.techpowerup.com/340816/nvidia-rtx-remix-update-introduces-advanced-path-traced-particle-system) (Published: 2025-09-09)
-- [Nebius Shares Surge on $17.4 Billion AI Infrastructure Deal With Microsoft](https://finance.yahoo.com/news/nebius-shares-surge-17-4-145136091.html) (Published: 2025-09-09)
-- [Onlogic readies hybrid cooling rugged Karbon 524 mini PCs with Intel Ultra Core 100H CPUs and Nvidia SFF Ada GPUs](https://www.notebookcheck.net/Onlogic-readies-hybrid-cooling-rugged-Karbon-524-mini-PCs-with-Intel-Ultra-Core-100H-CPUs-and-Nvidia-SFF-Ada-GPUs.1109626.0.html) (Published: 2025-09-09)
-- [What’s up with… Nozomi Networks, Mistral AI, Nebius & Microsoft](https://www.telecomtv.com/content/security/what-s-up-with-nozomi-networks-mistral-ai-nebius-microsoft-53790/) (Published: 2025-09-09)
-- [ASML invests $1.5B in French AI startup Mistral, forming European tech alliance](https://abcnews.go.com/Technology/wireStory/asml-invests-15b-french-ai-startup-mistral-forming-125399185) (Published: 2025-09-09)
-- [ASML invests $1.5B in French AI startup Mistral, forming European tech alliance](https://financialpost.com/pmn/asml-invests-1-5b-in-french-ai-startup-mistral-forming-european-tech-alliance) (Published: 2025-09-09)
-- [US Tech Companies Enabled the Surveillance and Detention of Hundreds of Thousands in China](https://news.slashdot.org/story/25/09/09/1124247/us-tech-companies-enabled-the-surveillance-and-detention-of-hundreds-of-thousands-in-china) (Published: 2025-09-09)
-- [ASML invests $1.5B in French AI startup Mistral, forming European tech alliance](https://finance.yahoo.com/news/asml-invests-1-5b-french-143653959.html) (Published: 2025-09-09)
+- [Nvidia unveils Rubin CPX class of GPUs](https://thefly.com/permalinks/entry.php/id4195346/NVDA-Nvidia-unveils-Rubin-CPX-class-of-GPUs) (Published: 2025-09-09)
+- [Nvidia Unveils New Chip System for AI Video, Software Creation](https://biztoc.com/x/47c4d4ce82c3e2fd) (Published: 2025-09-09)
+- [CoreWeave Stock Rises on News of Nvidia-Backed Firm's VC Fund for AI Investments](https://www.investopedia.com/coreweave-stock-rises-on-news-of-nvidia-backed-firms-vc-fund-for-ai-investments-11806230) (Published: 2025-09-09)
+- [Nvidia partners with Jacobs, other to build new class of AI factories](https://thefly.com/permalinks/entry.php/id4195342/NVDA;J-Nvidia-partners-with-Jacobs-other-to-build-new-class-of-AI-factories) (Published: 2025-09-09)
+- [NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference](https://www.globenewswire.com/news-release/2025/09/09/3147154/0/en/NVIDIA-Unveils-Rubin-CPX-A-New-Class-of-GPU-Designed-for-Massive-Context-Inference.html) (Published: 2025-09-09)
+- [NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference](https://nvidianews.nvidia.com/news/nvidia-unveils-rubin-cpx-a-new-class-of-gpu-designed-for-massive-context-inference) (Published: 2025-09-09)
+- [Anglo-Teck Mega-Deal: A New Titan Emerges in the Copper Boom](https://biztoc.com/x/590e58fb16460a81) (Published: 2025-09-09)
+- [NVIDIA Blackwell Ultra Sets New Inference Records in MLPerf Debut](https://developer.nvidia.com/blog/nvidia-blackwell-ultra-sets-new-inference-records-in-mlperf-debut/) (Published: 2025-09-09)
+- [NVIDIA Rubin CPX Accelerates Inference Performance and Efficiency for 1M+ Token Context Workloads](https://developer.nvidia.com/blog/nvidia-rubin-cpx-accelerates-inference-performance-and-efficiency-for-1m-token-context-workloads/) (Published: 2025-09-09)
+- [Just Released: NVIDIA PhysicsNeMo 25.08](http://www.example.com/blog/2025/08/27/physicsnemo-release-25-08/) (Published: 2025-09-09)
