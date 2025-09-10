@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-10 05:55:43**_
+_Last updated: **2025-09-10 06:29:35**_
 
+- [INIU Launches the World's Smallest 10,000mAh 45W Power Bank at Times Square's tm:rw](https://www.androidheadlines.com/2025/09/iniu-launches-the-worlds-smallest-10000mah-45w-power-bank-at-times-squares-tmrw.html) (Published: 2025-09-09)
+- [Cerence AI Showcases Next-Gen Agentic In-Car Experience with Microsoft and SiMa.ai at IAA Mobility 2025](https://www.globenewswire.com/news-release/2025/09/09/3146577/0/en/Cerence-AI-Showcases-Next-Gen-Agentic-In-Car-Experience-with-Microsoft-and-SiMa-ai-at-IAA-Mobility-2025.html) (Published: 2025-09-09)
+- [LIGHT SPEED: How a breakthrough chip design could compensate for AIâs energy appetite](https://www.naturalnews.com/2025-09-09-breakthrough-chip-design-redefine-ais-energy-appetite.html) (Published: 2025-09-09)
 - [Apple to unveil next iPhone amid Trump trade war that could result in higher prices](https://abcnews.go.com/Business/wireStory/apple-unveil-iphone-amid-trump-trade-war-result-125386310) (Published: 2025-09-09)
 - [AI firm Mistral valued at $14 billion as chip giant ASML takes major stake](https://biztoc.com/x/713faf51718a8b3a) (Published: 2025-09-09)
 - [Mistral AI raises 1.7 billion euros as ASML becomes its top shareholder](https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-raises-1-7-billion-euros-as-asml-becomes-its-top-shareholder/articleshow/123779227.cms) (Published: 2025-09-09)
@@ -8,5 +11,3 @@ _Last updated: **2025-09-10 05:55:43**_
 - [Apple to unveil next iPhone amid Trump trade war that could result in higher prices](https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-to-unveil-next-iphone-amid-trump-trade-war-that-could-result-in-higher-prices/articleshow/123778963.cms) (Published: 2025-09-09)
 - [The pursuit of excellence - CADDi Tech Blog](https://caddi.tech/2025/09/08/170000) (Published: 2025-09-09)
 - [Eightco Chair Dan Ives Calls Sam Altman's World Project The 'Intersection Of AI And Crypto,' Compares It To Nvidia, Palantir](https://www.benzinga.com/crypto/cryptocurrency/25/09/47562367/eightco-chair-dan-ives-calls-sam-altmans-world-project-the-intersection-of-ai-and-crypto-compares-it-to-nvidia-palantir) (Published: 2025-09-09)
-- [Mistral AI raises 1.7 billion euros as ASML becomes its top shareholder](https://www.channelnewsasia.com/business/mistral-ai-raises-17-billion-euros-asml-becomes-its-top-shareholder-5339461) (Published: 2025-09-09)
-- [Nebius signs $17.4 billion AI infrastructure deal with Microsoft, shares jump](https://www.thehindubusinessline.com/info-tech/nebius-signs-174-billion-ai-infrastructure-deal-with-microsoft-shares-jump/article70028541.ece) (Published: 2025-09-09)
