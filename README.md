@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-10 20:37:35**_
+_Last updated: **2025-09-10 20:48:26**_
 
+- [Deploy Scalable AI Inference with NVIDIA NIM Operator 3.0.0](https://developer.nvidia.com/blog/deploy-scalable-ai-inference-with-nvidia-nim-operator-3-0-0/) (Published: 2025-09-09)
 - [UAE Lab Releases Open-Source Model to Rival China’s DeepSeek](https://gizmodo.com/uae-lab-releases-open-source-model-to-rival-chinas-deepseek-2000656197) (Published: 2025-09-09)
 - [MLPerf v5.1 AI Inference Benchmark Showdown: NVIDIA Blackwell Ultra GB300 & AMD Instinct MI355X In The Spotlight](https://wccftech.com/mlperf-v5-1-ai-inference-benchmark-showdown-nvidia-blackwell-ultra-gb300-amd-instinct-mi355x/) (Published: 2025-09-09)
 - [The XFX Radeon RX 7900 XT Graphics Card Drops to $630: This Is the Least Expensive 4K-Capable GPU](https://www.ign.com/articles/xfx-radeon-rx-7900-xt-graphics-card-deal-best-4k-gpu-under-650) (Published: 2025-09-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-10 20:37:35**_
 - [MLPerf Inference v5.1: NVIDIA Blackwell Ultra vs. AMD Instinct Platforms](https://www.storagereview.com/news/mlperf-inference-v5-1-nvidia-blackwell-ultra-vs-amd-instinct-platforms) (Published: 2025-09-09)
 - [nvidia-nat-crewai 1.3.0a20250909](https://pypi.org/project/nvidia-nat-crewai/1.3.0a20250909/) (Published: 2025-09-09)
 - [nvidia-nat-mcp added to PyPI](https://pypi.org/project/nvidia-nat-mcp/) (Published: 2025-09-09)
-- [nvidia-nat-zep-cloud 1.3.0a20250909](https://pypi.org/project/nvidia-nat-zep-cloud/1.3.0a20250909/) (Published: 2025-09-09)
