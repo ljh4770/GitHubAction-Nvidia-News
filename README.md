@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-09 23:53:16**_
+_Last updated: **2025-09-10 01:05:14**_
 
+- [CNBC Daily Open: Why are stocks rising after August’s dismal jobs report?](https://www.cnbc.com/2025/09/09/cnbc-daily-open-why-are-stocks-rising-after-augusts-dismal-jobs-report.html) (Published: 2025-09-09)
+- [Nvidia-Backed Nebius Skyrockets On AI Cloud Computing Deal With Microsoft](https://biztoc.com/x/3da3196480da973a) (Published: 2025-09-09)
+- [Japan's Nikkei crosses 44,000 for first time on trade, stimulus optimism](https://www.channelnewsasia.com/business/japans-nikkei-crosses-44000-first-time-trade-stimulus-optimism-5339151) (Published: 2025-09-09)
+- [Nikkei ends lower on yen strength, profit-taking after crossing 44,000](https://www.channelnewsasia.com/business/nikkei-ends-lower-yen-strength-profit-taking-after-crossing-44000-5339151) (Published: 2025-09-09)
+- [Elon Musk Says Tesla's AI5 Chip Will Crush Competition On Performance-Per-Watt, Says AI6 Will Take That 'Much Further'](https://finance.yahoo.com/news/elon-musk-says-teslas-ai5-003102318.html) (Published: 2025-09-09)
+- [Opening Stargate to India: ChatGPT parent talks tieup with local firm](https://economictimes.indiatimes.com/tech/artificial-intelligence/opening-stargate-to-india-chatgpt-parent-talks-tieup-with-local-firm/articleshow/123772128.cms) (Published: 2025-09-09)
+- [NVIDIA Unveils Rubin CPX GPU](https://www.c-sharpcorner.com/news/nvidia-unveils-rubin-cpx-gpu) (Published: 2025-09-09)
+- [Why Trump Went To Riyadh And What He Achieved](https://www.hoover.org/research/why-trump-went-riyadh-and-what-he-achieved) (Published: 2025-09-09)
+- [Microsoft partners with Nebius for $19.4 Billion AI cloud computing deal](https://economictimes.indiatimes.com/news/international/us/microsoft-partners-with-nebius-for-19-4-billion-ai-cloud-computing-deal/articleshow/123775352.cms) (Published: 2025-09-08)
 - [Asia markets set to trade mostly higher, tracking gains on Wall Street](https://www.cnbc.com/2025/09/09/asia-markets-nikkei-225-kospi-nifty-50.html) (Published: 2025-09-08)
-- [Microsoft turns to Nebius in nearly $20B AI infrastructure deal](https://siliconangle.com/2025/09/08/microsoft-turns-nebius-nearly-20b-ai-infrastructure-deal/) (Published: 2025-09-08)
-- [Cramer's Lightning Round: Dell over Super Micro Computer](https://www.cnbc.com/2025/09/08/cramers-lightning-round-dell-over-super-micro-computer.html) (Published: 2025-09-08)
-- [James Altucher Speaks on What He Believes to Be Trump and Musk’s “AI Mothership” Plan](https://www.globenewswire.com/news-release/2025/09/08/3146536/0/en/James-Altucher-Speaks-on-What-He-Believes-to-Be-Trump-and-Musk-s-AI-Mothership-Plan.html) (Published: 2025-09-08)
-- [Chip designer SiFive aims to cram more RISC-V cores into AI chips](https://biztoc.com/x/4a66fb3326a5cdf6) (Published: 2025-09-08)
-- [Kicking off a data-heavy week, U.S. stocks close higher](https://www.thestar.com.my/news/world/2025/09/09/kicking-off-a-data-heavy-week-us-stocks-close-higher) (Published: 2025-09-08)
-- [Chip designer SiFive aims to cram more RISC-V cores into AI chips](https://www.theregister.com/2025/09/08/sifive_ai_cpu_cores/) (Published: 2025-09-08)
-- [A side effect of a potential AI mega-bubble. Maybe do not buy a house?](https://www.positech.co.uk/cliffsblog/2025/09/08/a-side-effect-of-a-potential-ai-mega-bubble-maybe-do-not-buy-a-house/) (Published: 2025-09-08)
-- [Jim Cramer reviews recent Wall Street fears that were overblown](https://www.cnbc.com/2025/09/08/jim-cramer-reviews-recent-wall-street-fears-that-were-overblown.html) (Published: 2025-09-08)
-- [Submission of Critical Firmware Parameters – PCIe HCA Cards](https://seclists.org/fulldisclosure/2025/Sep/34) (Published: 2025-09-08)
