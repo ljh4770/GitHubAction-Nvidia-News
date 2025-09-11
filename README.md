@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 10:55:48**_
+_Last updated: **2025-09-11 11:15:46**_
 
-- [Borderlands 4 PC hardware requirements ask for an RTX 2070 as a minimum, but a 3080 is recommended](https://www.eurogamer.net/borderlands-4-pc-hardware-requirements-ask-for-an-rtx-2070-as-a-minimum-but-a-3080-is-recommended) (Published: 2025-09-10)
-- [Steam mega-update ends our long national game-sorting nightmare, adds CPU temp measuring, and a gajillion other bullet points](https://www.pcgamer.com/software/platforms/steam-mega-update-ends-our-long-national-game-sorting-nightmare-adds-cpu-temp-measuring-and-a-gajillion-other-bullet-points/) (Published: 2025-09-10)
-- [Apple’s ultrathin iPhone impresses fans but not investors](https://fortune.com/2025/09/10/apples-ultrathin-iphone-air-impresses-fans-but-not-investors-klarna-ipo-nvidia-microsoft-anthropic/) (Published: 2025-09-10)
-- [Edge AI Market Size to Surpass USD 143.06 Billion by 2034 Driven by Real-Time Decision-Making and Low-Latency Demand](https://www.globenewswire.com/news-release/2025/09/10/3147602/0/en/Edge-AI-Market-Size-to-Surpass-USD-143-06-Billion-by-2034-Driven-by-Real-Time-Decision-Making-and-Low-Latency-Demand.html) (Published: 2025-09-10)
-- [NVIDIA Unveils Rubin CPX: A New Class of GPU Designed for Massive-Context Inference](https://biztoc.com/x/19140b3e64422988) (Published: 2025-09-10)
-- [flash-dmattn added to PyPI](https://pypi.org/project/flash-dmattn/) (Published: 2025-09-10)
-- [Wall Street's record rise spurs growth of covered call strategies](https://finance.yahoo.com/news/wall-streets-record-rise-spurs-100753685.html) (Published: 2025-09-10)
-- [If you're worried about AI taking your job, these careers are the safest bets, an AI politics professor says](https://www.businessinsider.com/ai-politics-professor-shares-jobs-least-likely-be-automated-2025-9) (Published: 2025-09-10)
-- [Stocks To Trade Now: Buy Starbucks, Sell Short eBay And Accenture](https://www.forbes.com/sites/greatspeculations/2025/09/10/stocks-to-trade-now-buy-starbucks-sell-short-ebay-and-accenture/) (Published: 2025-09-10)
+- [Oracle stuns Wall Street: ORCL jumps 31% premarket on $500B AI cloud surge — from cloud laggard to Wall Street’s new AI darling, time to bet?](https://economictimes.indiatimes.com/news/international/us/oracle-stuns-wall-street-orcl-jumps-31-premarket-on-500b-ai-cloud-surge-from-cloud-laggard-to-wall-streets-new-ai-darling-time-to-bet/articleshow/123807891.cms) (Published: 2025-09-10)
+- [Oracle stock stuns Wall Street: ORCL jumps 31% premarket on $500B AI cloud surge — from cloud laggard to Wall Street’s new AI darling, time to bet?](https://economictimes.indiatimes.com/news/international/us/oracle-orcl-stock-stuns-wall-street-orcl-jumps-31-premarket-on-500b-ai-cloud-surge-from-cloud-laggard-to-wall-streets-new-ai-darling-time-to-bet/articleshow/123807891.cms) (Published: 2025-09-10)
+- [Microsoft Fixes 80 Flaws — Including SMB PrivEsc and Azure CVSS 10.0 Bugs](https://thehackernews.com/2025/09/microsoft-fixes-80-flaws-including-smb.html) (Published: 2025-09-10)
+- [PsiQuantum valued at $7 billion in latest funding round, teams up with Nvidia](https://biztoc.com/x/ff2e083e371c8dad) (Published: 2025-09-10)
+- [AI: Intelligent For Sure, But Smart Enough?](https://www.forbes.com/sites/kjartanrist/2025/09/10/ai-intelligent-for-sure-but-smart-enough/) (Published: 2025-09-10)
+- [PsiQuantum valued at $7 billion in latest funding round, teams up with Nvidia](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_27654e15-a66d-47f0-bbab-84bb2e3dec10) (Published: 2025-09-10)
+- [PsiQuantum valued at $7 billion in latest funding round, teams up with Nvidia](https://www.channelnewsasia.com/business/psiquantum-valued-7-billion-in-latest-funding-round-teams-up-nvidia-5342171) (Published: 2025-09-10)
+- [NVIDIA Releases Game Ready Driver Optimized for Borderlands 4 and Dying Light: The Beast](https://wccftech.com/nvidia-releases-game-ready-driver-borderlands-4-dying-light-the-beast/) (Published: 2025-09-10)
+- [Oracle shares jump on $500 billion cloud revenue prospect](https://www.rte.ie/news/business/2025/0910/1532766-oracle-shares-soar/) (Published: 2025-09-10)
+- [US stock market futures today: Dow slips while S&P 500 and Nasdaq edge higher as Wall Street braces for inflation data — Oracle soars over 30%, here's other top stocks to watch](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-today-dow-slips-while-sp-500-and-nasdaq-edge-higher-as-wall-street-braces-for-inflation-data-oracle-soars-over-30-heres-other-top-stocks-to-watch/articleshow/123807032.cms) (Published: 2025-09-10)
