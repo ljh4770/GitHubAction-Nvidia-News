@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 05:40:15**_
+_Last updated: **2025-09-11 05:50:49**_
 
+- [Intel Arc Pro B-Series GPUs and Xeon 6 Shine in MLPerf Inference v5.1](https://www.madshrimps.be/news/intel-arc-pro-b-series-gpus-and-xeon-6-shine-in-mlperf-inference-v5-1/) (Published: 2025-09-10)
+- [Oracle Financial Services jumps 7.89% as parent company reports record cloud bookings](https://www.thehindubusinessline.com/markets/stock-markets/oracle-financial-services-jumps-789-as-parent-company-reports-record-cloud-bookings/article70032620.ece) (Published: 2025-09-10)
 - [Nvidia unveils new GPU designed for long-context inference](https://biztoc.com/x/169178d79c694c06) (Published: 2025-09-10)
 - [OpenAI's first AI chip could be launched in 2026](https://www.ghacks.net/2025/09/10/openais-first-ai-chip-could-be-launched-in-2026/) (Published: 2025-09-10)
 - [5 Best Linux Distros for Gaming and Playing Windows Games](https://www.tecmint.com/linux-distros-for-playing-windows-games/) (Published: 2025-09-10)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-11 05:40:15**_
 - [Top Japan start-up Sakana AI touts nature-inspired tech](https://finance.yahoo.com/news/top-japan-start-sakana-ai-032419004.html) (Published: 2025-09-10)
 - [Bank of America updates Dell stock outlook on CFO transition](https://www.thestreet.com/technology/bank-of-america-updates-dell-stock-outlook-on-cfo-transition) (Published: 2025-09-10)
 - [Predator、Nitroシリーズから量販店販売モデルを拡充！Predator Helios 16AI 、 Acer Nitro V 15発売！](https://prtimes.jp/main/html/rd/p/000001030.000000640.html) (Published: 2025-09-10)
-- [Nvidia unveils Rubin CPX GPU for massive-context AI, available end 2026](https://www.digitimes.com/news/a20250910VL202/nvidia-rubin-gpu-2026-software.html) (Published: 2025-09-10)
-- [Gaming PCs: 9800X3D, RTX 5080, TUF B650EM-E, 32GB RAM + Borderlands 4: $2998; 5070 Ti $2548; 9070 XT $2348 + $50 Del @ Nebula PC](https://www.ozbargain.com.au/node/923510) (Published: 2025-09-10)
