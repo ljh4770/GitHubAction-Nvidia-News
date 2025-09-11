@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 19:45:12**_
+_Last updated: **2025-09-11 19:55:24**_
 
 - [Soybean crisis: Zero orders from China sparks dire warning from desperate farmer ahead of harvest](https://economictimes.indiatimes.com/news/international/us/us-soybean-farmers-crisis-zero-orders-from-china-ahead-of-harvest-american-agriculture-economy/articleshow/123815979.cms) (Published: 2025-09-10)
 - [We're raising our Nvidia price target — plus, reports on Oracle's big new customer](https://biztoc.com/x/878a3ba2a40050b6) (Published: 2025-09-10)
