@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 09:14:42**_
+_Last updated: **2025-09-11 09:31:33**_
 
+- [Get an Evermotion Archinterior scene for free](https://www.cgchannel.com/2025/09/get-an-evermotion-archinterior-scene-for-free/) (Published: 2025-09-10)
 - [I pivoted from software engineering to AI product management. Here are the 3 strategies I used to help me land the job.](https://www.businessinsider.com/how-pivoted-software-engineering-ai-product-management-2025-9) (Published: 2025-09-10)
 - [Sharp China: Five Questions After the 9.3 Parade; A Flurry of US-China Updates; Sports Consumption and the NBA’s Return to China](https://sinocism.com/p/sharp-china-five-questions-after) (Published: 2025-09-10)
 - [Nvidia Rubin CPX forms one half of new, "disaggregated" AI inference architecture — approach splits work between compute- and bandwidth-optimized chips for best performance](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-rubin-cpx-forms-one-half-of-new-disaggregated-ai-inference-architecture-approach-splits-work-between-compute-and-bandwidth-optimized-chips-for-best-performance) (Published: 2025-09-10)
@@ -9,4 +10,3 @@ _Last updated: **2025-09-11 09:14:42**_
 - [LGT Group Foundation Has $245.40 Million Stock Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/10/lgt-group-foundation-has-245-40-million-stock-position-in-nvidia-corporation-nvda/) (Published: 2025-09-10)
 - [AI Weekly: new chips and auto-bots](https://finance.yahoo.com/video/ai-weekly-chips-auto-bots-084552536.html) (Published: 2025-09-10)
 - [Steam update gives wider store pages, library sorting, desktop accessibility controls and lots more](https://www.gamingonlinux.com/2025/09/steam-update-gives-wider-store-pages-library-sorting-desktop-accessibility-controls-and-lots-more/.) (Published: 2025-09-10)
-- [AMD reckons its next-gen GPUs will beat Nvidia at 'any sort of AI workload' and we're praying that rubs off on the company's gaming graphics cards](https://www.pcgamer.com/hardware/graphics-cards/amd-reckons-its-next-gen-gpus-will-beat-nvidia-at-any-sort-of-ai-workload-and-were-praying-that-rubs-off-on-the-companys-gaming-graphics-cards/) (Published: 2025-09-10)
