@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 13:46:59**_
+_Last updated: **2025-09-11 13:57:42**_
 
+- [Oracle shares surge 35% on AI cloud growth as customers race to secure computing capacity](https://economictimes.indiatimes.com/markets/stocks/news/oracle-shares-surge-35-on-ai-cloud-growth-as-customers-race-to-secure-computing-capacity/articleshow/123811295.cms) (Published: 2025-09-10)
+- [Beyond the Boom: Understanding AI’s True Economic Impact and Hidden Financial Danger](https://www.fairobserver.com/world-news/beyond-the-boom-understanding-ais-true-economic-impact-and-hidden-financial-danger/) (Published: 2025-09-10)
 - [S&P 500, Nasdaq Hit Record On Fresh Inflation Data; Oracle Stock Zooms](https://www.ndtvprofit.com/markets/us-stock-market-today-sp-500-nasdaq-hit-record-on-fresh-inflation-data-oracle-stock-zooms) (Published: 2025-09-10)
 - [AMD candidly admits 'we charge more for our CPUs than our competitor' and that 'customers feel good about the price'](https://www.pcgamer.com/hardware/processors/amd-candidly-admits-we-charge-more-for-our-cpus-than-our-competitor-and-that-customers-feel-good-about-the-price/) (Published: 2025-09-10)
 - [NVIDIA's GeForce RTX 50 Super GPU Refresh May Not Launch As Soon As Thought](https://hothardware.com/news/nvidia-geforce-rtx-50-super-gpu-refresh-not-launch-soon) (Published: 2025-09-10)
@@ -9,4 +11,3 @@ _Last updated: **2025-09-11 13:46:59**_
 - [Oracle shares soar on $144 billion AI cloud revenue forecast](https://qz.com/oracle-stock-144-billion-ai-cloud-revenue-forecast) (Published: 2025-09-10)
 - [Retail Investors Just Made It Impossible For Value-Conscious Hedgies To Buy Oracle, As The Scorching Hot Stock Pushes Larry Ellison Towards A Net Worth Parity With Elon Musk](https://wccftech.com/retail-investors-just-made-it-impossible-for-value-conscious-hedgies-to-buy-oracle-as-the-scorching-hot-stock-pushes-larry-ellison-towards-a-net-worth-parity-with-elon-musk/) (Published: 2025-09-10)
 - [I've been testing Nvidia GeForce Now's RTX 5080 upgrade against an actual RTX 5080 and the two feel eerily close—although 4K streaming invokes the occasional wobble](https://www.pcgamer.com/hardware/graphics-cards/ive-been-testing-nvidia-geforce-nows-rtx-5080-upgrade-against-an-actual-rtx-5080-and-the-two-feel-eerily-close-although-4k-streaming-invokes-the-occasional-wobble/) (Published: 2025-09-10)
-- [Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins](https://blogs.nvidia.com/?p=84699) (Published: 2025-09-10)
