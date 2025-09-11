@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 15:08:59**_
+_Last updated: **2025-09-11 15:27:52**_
 
+- [ASUS - ROG Zephyrus G16 16" OLED 2.5K 240Hz Gaming Laptop - Intel Core Ultra 9 - 64GB RAM - NVIDIA GeForce RTX 5080 - 2TB SSD - Platinum White $2879.99 (7 replies)](https://slickdeals.net/f/18596206-asus-rog-zephyrus-g16-16-oled-2-5k-240hz-gaming-laptop-intel-core-ultra-9-64gb-ram-nvidia-geforce-rtx-5080-2tb-ssd-platinum-white-2879-99) (Published: 2025-09-10)
+- [Larry Ellison is $110 billion richer after blowout Oracle earnings report](https://www.cnbc.com/2025/09/10/larry-ellison-is-over-100-billion-richer-after-oracle-earnings-report.html) (Published: 2025-09-10)
+- [Larry Ellison now world's richest: How a two-time college dropout built Oracle and pushed it to the billionaire chart](https://economictimes.indiatimes.com/news/international/global-trends/us-news-larry-ellison-now-worlds-richest-beats-elon-musk-how-a-two-time-college-dropout-built-oracle-and-pushed-it-to-the-billionaire-chart/articleshow/123812365.cms) (Published: 2025-09-10)
+- [Larry Ellison eclipses Elon Musk as world's richest person, billionaires index says](https://www.nbcnews.com/business/markets/larry-ellison-eclipses-elon-musk-worlds-richest-person-rcna230338) (Published: 2025-09-10)
+- [NVIDIA RTX Remix Gets Path-Traced Particles To Add Stunning Mods To Classic Games](https://hothardware.com/news/nvidia-rtx-remix-path-traced-particles) (Published: 2025-09-10)
+- [Elon Musk Was Just Unseated as the World’s Richest Person](https://gizmodo.com/elon-musk-was-just-unseated-as-the-worlds-richest-person-2000656741) (Published: 2025-09-10)
+- [The 4% retirement rule? How to invest so you can withdraw closer to 0% and not run out of money.](https://www.marketwatch.com/story/the-4-retirement-rule-how-to-invest-so-you-can-withdraw-closer-to-0-and-not-run-out-of-money-721b8466) (Published: 2025-09-10)
+- [If the AI Industry Fails, It Could Take the Rest of Us Down With It](https://futurism.com/ai-economy-industry-hype) (Published: 2025-09-10)
+- [NYC partners with T-Mobile and Dell to give 350,000 students free laptops with internet access](https://economictimes.indiatimes.com/news/international/us/nyc-partners-with-t-mobile-and-dell-to-give-350000-students-free-laptops-with-internet-access/articleshow/123811563.cms) (Published: 2025-09-10)
 - [Larry Ellison overtakes Elon Musk as world's richest](https://qz.com/larry-ellison-worlds-richest-person-elon-musk-oracle) (Published: 2025-09-10)
-- [Is Larry Ellison now the "World’s Richest" Person? Oracle Co-Founder on track to gain $88B, biggest wealth surge in history, as stock rockets 40%](https://economictimes.indiatimes.com/news/international/us/is-larry-ellison-now-the-worlds-richest-person-oracle-co-founder-on-track-to-gain-88b-biggest-wealth-surge-in-history-as-stock-rockets-40/articleshow/123812050.cms) (Published: 2025-09-10)
-- [Run Borderlands 4 On Your PC With Fewer Hiccups - Nvidia Unveils New GeForce Game Ready Driver](https://www.ndtvprofit.com/technology/run-borderlands-4-on-your-pc-with-fewer-hiccups-nvidia-unveils-new-geforce-game-ready-driver) (Published: 2025-09-10)
-- [AI Is Coming for YouTube Creators](https://www.theatlantic.com/technology/archive/2025/09/youtube-ai-training-data-sets/684116/) (Published: 2025-09-10)
-- [Oracle Is the New Nvidia, for Better or Worse](https://biztoc.com/x/d2ea6c92f6736617) (Published: 2025-09-10)
-- [Beelink EQi13 Pro “Intel Core i7-13620H” Mini PC Review – Compact & Stainless Steel Finish With 10 Cores & Integrated PSU For $450](https://wccftech.com/review/beelink-eqi13-pro-intel-core-i7-13620h-mini-pc-review-compact-stainless-steel-finish-with-10-cores-integrated-psu-for-450/) (Published: 2025-09-10)
-- [Nvidia Stock Rises. Why AI Spending Fears Are Fading](https://biztoc.com/x/ab337f0657cf9e11) (Published: 2025-09-10)
-- [What's Going On With Nvidia Stock Wednesday?](https://biztoc.com/x/9377ef3627c3d8a0) (Published: 2025-09-10)
-- [Oracle stock soars 40% as it projects half a trillion dollars in revenue, setting Ellison up for $90B gain](https://nypost.com/2025/09/10/business/oracle-shares-skyrocket-as-it-projects-half-a-trillion-dollars-in-revenue-setting-ellison-up-for-90b-gain/) (Published: 2025-09-10)
-- [I've reviewed more gaming laptops than I can remember, but the new Razer Blade 14 is the only gaming laptop I’d happily carry everywhere](https://www.techradar.com/computing/windows-laptops/razer-blade-14-2025) (Published: 2025-09-10)
