@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 16:37:23**_
+_Last updated: **2025-09-11 16:49:37**_
 
+- [Accelerate Protein Structure Inference Over 100x with NVIDIA RTX PRO 6000 Blackwell Server Edition](https://developer.nvidia.com/blog/accelerate-protein-structure-inference-over-100x-with-nvidia-rtx-pro-6000-blackwell-server-edition/) (Published: 2025-09-10)
+- [Veteran tech analyst drops unexpected verdict on Apple stock](https://www.thestreet.com/technology/veteran-tech-analyst-drops-unexpected-verdict-on-apple-stock-) (Published: 2025-09-10)
+- [Elon Musk just lost his title as world's richest person to Oracle cofounder Larry Ellison](https://abc13.com/post/elon-musk-lost-title-worlds-richest-person-oracle-cofounder-larry-ellison/17786759/) (Published: 2025-09-10)
 - [Nebius and Microsoft to collaborate on multi-billion AI infrastructure agreement](https://www.techradar.com/pro/nebius-and-microsoft-to-collaborate-on-multi-billion-ai-infrastructure-agreement) (Published: 2025-09-10)
 - [With vapor-chamber cooling, ray-tracing, tensor cores and a high-refresh screen, the iPhone 17 Pro sounds like a premium gaming PC, but I'll stick with my trusty old Steam Deck, thanks](https://www.pcgamer.com/hardware/handheld-gaming-pcs/with-vapor-chamber-cooling-ray-tracing-tensor-cores-and-a-high-refresh-screen-the-iphone-17-pro-sounds-like-a-premium-gaming-pc-but-ill-stick-with-my-trusty-old-steam-deck-thanks/) (Published: 2025-09-10)
 - [CoreWeave CEO says AI demand is 'overwhelming'](https://biztoc.com/x/cae7a2ce5acd472a) (Published: 2025-09-10)
 - [US stock market today: S&P 500 and Nasdaq hit records as Oracle stuns Wall Street while Dow slips on Apple losses](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-sp-500-and-nasdaq-hit-records-as-oracle-stuns-wall-street-with-ai-forecast-while-dow-slips-on-apple-losses/articleshow/123812335.cms) (Published: 2025-09-10)
 - [Oracle vs Nvidia vs TSMC: Stocks soar, share prices rise. Which one is current poster child of AI boom in U.S. stock market?](https://economictimes.indiatimes.com/news/international/us/oracle-vs-nvidia-vs-tsmc-stocks-soar-share-prices-rise-which-one-is-current-poster-child-of-ai-boom-in-u-s-stock-market/articleshow/123812903.cms) (Published: 2025-09-10)
 - [Borderlands 4 now has updated minimum system requirements for an eight-core 'or equivalent' CPU, which leaves six-core CPU owners none the wiser](https://www.pcgamer.com/hardware/processors/borderlands-4-now-has-updated-minimum-system-requirements-for-an-eight-core-or-equivalent-cpu-which-leaves-six-core-cpu-owners-none-the-wiser/) (Published: 2025-09-10)
-- [What does August’s Producer Price Index mean for inflation and Fed's interest rate decision?](https://economictimes.indiatimes.com/news/international/us/inflation-report-ppi-producer-price-index-august-2025-cpi-data-fed-rate-cut-decision/articleshow/123812355.cms) (Published: 2025-09-10)
-- [Clockwork raises $20.5M to synchronize GPU clusters and accelerate AI workloads](https://siliconangle.com/2025/09/10/clockwork-raises-20-5m-synchronize-gpu-clusters-accelerate-ai-workloads/) (Published: 2025-09-10)
-- [CoreWeave CEO says AI demand is 'overwhelming'](https://finance.yahoo.com/news/coreweave-ceo-says-ai-demand-is-overwhelming-155700474.html) (Published: 2025-09-10)
