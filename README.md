@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 23:29:16**_
+_Last updated: **2025-09-11 23:40:06**_
 
 - [Report: Investors offered to fund AI data startup Mercor at $10B valuation](https://siliconangle.com/2025/09/10/report-investors-offered-fund-ai-data-startup-mercor-10b-valuation/) (Published: 2025-09-10)
 - [Jim Cramer reflects on 30 years of 'Squawk Box'](https://www.cnbc.com/2025/09/10/jim-cramer-reflects-on-30-years-of-squawk-box.html) (Published: 2025-09-10)
