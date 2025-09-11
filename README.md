@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 21:08:49**_
+_Last updated: **2025-09-11 21:25:08**_
 
 - [20-year-old fintech Klarna finally went public. Here's who's getting rich.](https://www.businessinsider.com/klarna-ipo-stock-price-investors-2025-9) (Published: 2025-09-10)
 - [Live: ASX falls on health stocks, Wall Street's S&P 500 hits record highs](https://www.abc.net.au/news/2025-09-11/asx-markets-business-live-news-september-11/105760268) (Published: 2025-09-10)
