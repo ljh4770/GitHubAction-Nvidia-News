@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 12:51:43**_
+_Last updated: **2025-09-11 13:17:30**_
 
+- [Markets Hit Records As Jobs Revised, PPI Falls, Oracle Surges](https://www.forbes.com/sites/jjkinahan/2025/09/10/markets-hit-records-as-jobs-revised-ppi-falls-oracle-surges/) (Published: 2025-09-10)
+- [Oracle shares soar on $144 billion AI cloud revenue forecast](https://qz.com/oracle-stock-144-billion-ai-cloud-revenue-forecast) (Published: 2025-09-10)
+- [Retail Investors Just Made It Impossible For Value-Conscious Hedgies To Buy Oracle, As The Scorching Hot Stock Pushes Larry Ellison Towards A Net Worth Parity With Elon Musk](https://wccftech.com/retail-investors-just-made-it-impossible-for-value-conscious-hedgies-to-buy-oracle-as-the-scorching-hot-stock-pushes-larry-ellison-towards-a-net-worth-parity-with-elon-musk/) (Published: 2025-09-10)
+- [I've been testing Nvidia GeForce Now's RTX 5080 upgrade against an actual RTX 5080 and the two feel eerily close—although 4K streaming invokes the occasional wobble](https://www.pcgamer.com/hardware/graphics-cards/ive-been-testing-nvidia-geforce-nows-rtx-5080-upgrade-against-an-actual-rtx-5080-and-the-two-feel-eerily-close-although-4k-streaming-invokes-the-occasional-wobble/) (Published: 2025-09-10)
+- [Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins](https://blogs.nvidia.com/?p=84699) (Published: 2025-09-10)
+- [GeForce NOW RTX Blackwell Upgrade Brings Cloud Experience Closer Than Ever to Local – But Latency Remains](https://wccftech.com/geforce-now-rtx-blackwell-upgrade-cloud-experience-closer-ever-local/) (Published: 2025-09-10)
+- [Hands-on: Nvidia GeForce Now’s Blackwell upgrade looks great, but you’ll need the right games](http://9to5google.com/2025/09/10/hands-on-nvidia-geforce-now-blackwell-upgrade/) (Published: 2025-09-10)
+- [Show HN: Robot MCP Server – Connect Any Language Model and ROS Robots Using MCP](https://github.com/robotmcp/ros-mcp-server) (Published: 2025-09-10)
 - [PsiQuantum raises $1B, announces collaboration with Nvidia](https://thefly.com/permalinks/entry.php/id4196022/$PRIVATE;NVDA;BLK;MS;S-PsiQuantum-raises-B-announces-collaboration-with-Nvidia) (Published: 2025-09-10)
-- [NVIDIA Releases GeForce 581.29 WHQL Game Ready Drivers](https://www.techpowerup.com/340847/nvidia-releases-geforce-581-29-whql-game-ready-drivers) (Published: 2025-09-10)
-- [Big companies are already dialing back on error-prone AI and it’s putting ‘human skills’ at a premium](https://biztoc.com/x/fd2cb59b158c5c25) (Published: 2025-09-10)
-- [Stock market today: S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048367.html) (Published: 2025-09-10)
-- [Stock market today: Dow, S&P 500, Nasdaq rise as Oracle surges, PPI inflation bolsters Fed rate cut hopes](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-oracle-surges-ppi-inflation-bolsters-fed-rate-cut-hopes-124048266.html) (Published: 2025-09-10)
-- [Lucky bidder scoops $8,000 PC for $23 at auction — Mislabelled Fractal Design case listing had 24-core Threadripper 3960X, 256GB of memory, and an RTX 3080 Ti inside](https://www.tomshardware.com/desktops/gaming-pcs/lucky-bidder-scoops-usd8-000-pc-for-usd23-at-auction-mislabelled-fractal-design-case-listing-had-24-core-threadripper-3960x-256gb-of-memory-and-an-rtx-3080-ti-inside) (Published: 2025-09-10)
-- [AI Data Center Spending By Nvidia, Microsoft And Other 'Mag 7' Titans Is Squeezing S&P 500 Share Buybacks, Goldman Sachs Warns](https://biztoc.com/x/ce0daa918597f44e) (Published: 2025-09-10)
-- [Oracle May Be Having Its Nvidia Moment. Or It Could Be a Repeat of 1999](https://biztoc.com/x/c2dd1d82f4734dfe) (Published: 2025-09-10)
-- [Big companies are already dialing back on error-prone AI and it’s putting ‘human skills’ at a premium](https://fortune.com/2025/09/10/ai-adoption-declines-big-companies-human-skills-premium-education-gen-z/) (Published: 2025-09-10)
-- [Nvidia's context-optimized Rubin CPX GPUs were inevitable](https://biztoc.com/x/654cb4e1328a0f32) (Published: 2025-09-10)
