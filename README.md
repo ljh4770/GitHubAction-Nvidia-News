@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 17:34:02**_
+_Last updated: **2025-09-11 17:44:26**_
 
 - [Nvidia, Broadcom, TSMC, other AI names rally on Oracle's massive growth projections](https://www.cnbc.com/2025/09/10/nvidia-broadcom-ai-stocks-oracle-rally.html) (Published: 2025-09-10)
 - [“The Long Knives Are Out” For NVIDIA Corporation (NVDA), Says Jim Cramer](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_87b6bc9a-528a-4c30-8dfb-39907b80b33b) (Published: 2025-09-10)
