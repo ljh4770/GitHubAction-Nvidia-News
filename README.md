@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 07:42:44**_
+_Last updated: **2025-09-11 07:52:59**_
 
+- [3 of the best ASX ETFs to invest in global tech from Australia](https://www.fool.com.au/2025/09/10/3-of-the-best-asx-etfs-to-invest-in-global-tech-from-australia/) (Published: 2025-09-10)
+- [fla-core added to PyPI](https://pypi.org/project/fla-core/) (Published: 2025-09-10)
 - [Promising Robotics Stocks To Consider – September 8th](https://www.etfdailynews.com/2025/09/10/promising-robotics-stocks-to-consider-september-8th/) (Published: 2025-09-10)
 - [Hands-on: Nvidia’s GeForce Now RTX 5080 is better and worse than I hoped](https://www.theverge.com/hands-on/775222/nvidia-geforce-now-rtx-5080-hands-on) (Published: 2025-09-10)
 - [Automotive Stocks To Add to Your Watchlist – September 7th](https://www.etfdailynews.com/2025/09/10/automotive-stocks-to-add-to-your-watchlist-september-7th/) (Published: 2025-09-10)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-11 07:42:44**_
 - [Citigroup Issues Pessimistic Forecast for NVIDIA (NASDAQ:NVDA) Stock Price](https://www.etfdailynews.com/2025/09/10/citigroup-issues-pessimistic-forecast-for-nvidia-nasdaqnvda-stock-price/) (Published: 2025-09-10)
 - [hyimage added to PyPI](https://pypi.org/project/hyimage/) (Published: 2025-09-10)
 - [An Oracle may displace Elon Musk as the world's richest billionaire](https://economictimes.indiatimes.com/markets/stocks/news/an-oracle-may-displace-elon-musk-as-the-worlds-richest-billionaire/articleshow/123801297.cms) (Published: 2025-09-10)
-- [NVIDIA (NASDAQ:NVDA) Trading Up 1.7% Following Analyst Upgrade](https://www.etfdailynews.com/2025/09/10/nvidia-nasdaqnvda-trading-up-1-7-following-analyst-upgrade/) (Published: 2025-09-10)
-- [TSMC is Reportedly Overwhelmed by Advanced Packaging Demand, Forced to Fast-Track Production Schedules by Months](https://wccftech.com/tsmc-is-overwhelmed-by-advanced-packaging-demand-forced-to-fast-track-production/) (Published: 2025-09-10)
