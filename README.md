@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-11 03:53:57**_
+_Last updated: **2025-09-11 04:18:50**_
 
+- [Skytech Azure 2 Gaming Desktop: Intel Ultra 7 265K, RTX 5080, 32GB DDR5, 2TB SSD $1980.99](https://slickdeals.net/f/18595111-skytech-azure-2-gaming-desktop-intel-ultra-7-265k-rtx-5080-32gb-ddr5-2tb-ssd-1980-99) (Published: 2025-09-10)
 - [Top Japan start-up Sakana AI touts nature-inspired tech](https://www.digitaljournal.com/world/top-japan-start-up-sakana-ai-touts-nature-inspired-tech/article) (Published: 2025-09-10)
 - [Top Japan start-up Sakana AI touts nature-inspired tech](https://finance.yahoo.com/news/top-japan-start-sakana-ai-032419004.html) (Published: 2025-09-10)
 - [Bank of America updates Dell stock outlook on CFO transition](https://www.thestreet.com/technology/bank-of-america-updates-dell-stock-outlook-on-cfo-transition) (Published: 2025-09-10)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-11 03:53:57**_
 - [ケイデンス、NVIDIA DGX SuperPODモデルを追加しデジタルツインプラットフォームのライブラリを拡充AIデータセンターの設置と運用を加速](https://prtimes.jp/main/html/rd/p/000000014.000157775.html) (Published: 2025-09-10)
 - [Adobe adds 90+ GPU-accelerated effects to Premiere Pro 25.5](https://www.notebookcheck.net/Adobe-adds-90-GPU-accelerated-effects-to-Premiere-Pro-25-5.1110697.0.html) (Published: 2025-09-10)
 - [Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/) (Published: 2025-09-10)
-- [Oracle shares see a massive surge in after-hours trading on optimism over new cloud contracts](https://www.businessinsider.com/oracle-shares-surge-on-cloud-infrastructure-contracts-optimism-earnings-2025-9) (Published: 2025-09-10)
