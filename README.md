@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 00:39:52**_
+_Last updated: **2025-09-12 02:09:19**_
 
+- [Larry Ellison briefly overtakes Elon Musk as world's richest person](https://www.abc.net.au/news/2025-09-11/larry-ellison-overtakes-elon-musk-world-richest-person/105761394) (Published: 2025-09-11)
+- [S&P 500 and Nasdaq notch record-high closes as Oracle soars on AI optimism](https://economictimes.indiatimes.com/markets/stocks/news/sp-500-and-nasdaq-notch-record-high-closes-as-oracle-soars-on-ai-optimism/articleshow/123819869.cms) (Published: 2025-09-11)
+- [Perplexity finalises $20 billion valuation round: Report](https://economictimes.indiatimes.com/tech/funding/perplexity-finalises-20-billion-valuation-round-report/articleshow/123819986.cms) (Published: 2025-09-11)
+- [Perplexity finalises $20 billion valuation round: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/perplexity-finalises-20-billion-valuation-round-report/articleshow/123819782.cms) (Published: 2025-09-11)
+- [AI Data Center Spending By Nvidia, Microsoft And Other 'Mag 7' Titans Is Squeezing S&P 500 Share Buybacks, Goldman Sachs Warns](https://finance.yahoo.com/news/ai-data-center-spending-nvidia-013113237.html) (Published: 2025-09-11)
+- [What to expect during theCUBE + NYSE Wired: AI Factories – Data Centers of the Future event: Join theCUBE Sept. 26](https://siliconangle.com/2025/09/10/ai-factories-future-data-centers-aifactoriesdatacenters/) (Published: 2025-09-11)
+- [Oracle soars, TSMC & Broadcom emerge winners: Market Wrap](https://www.thestreet.com/investing/oracle-soars-tsmc-broadcom-emerge-winners-market-wrap) (Published: 2025-09-11)
 - [Oracle shares surge 43%, co-founder Ellison tops Musk as world's richest](https://economictimes.indiatimes.com/markets/stocks/news/oracle-shares-surge-43-co-founder-ellison-tops-musk-as-worlds-richest/articleshow/123819340.cms) (Published: 2025-09-11)
 - [Nvidia's biggest customers are lining up to take it down using ASICs and Broadcom could be the winner of that battle](https://www.techradar.com/ai-platforms-assistants/chatgpt/nvidias-biggest-customers-are-lining-up-to-take-it-down-using-asics-and-broadcom-could-be-the-winner-of-that-battle) (Published: 2025-09-11)
 - [China's chip champions ramp up production of AI accelerators at domestic fabs, but HBM and fab production capacity are towering bottlenecks](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-chip-champions-ramp-up-production-of-ai-accelerators-at-domestic-fabs-but-hbm-and-fab-production-capacity-are-towering-bottlenecks) (Published: 2025-09-10)
-- [Remaining CAPEX Obligation](https://platformonomics.com/2025/09/remaining-capex-obligation/) (Published: 2025-09-10)
-- [Report: Investors offered to fund AI data startup Mercor at $10B valuation](https://siliconangle.com/2025/09/10/report-investors-offered-fund-ai-data-startup-mercor-10b-valuation/) (Published: 2025-09-10)
-- [Jim Cramer reflects on 30 years of 'Squawk Box'](https://www.cnbc.com/2025/09/10/jim-cramer-reflects-on-30-years-of-squawk-box.html) (Published: 2025-09-10)
-- [Altimetry’s Breakout 2025 Event Introduces New Stock Analysis Tool (by TradeInvestNow.com)](https://www.globenewswire.com/news-release/2025/09/10/3148295/0/en/Altimetry-s-Breakout-2025-Event-Introduces-New-Stock-Analysis-Tool-by-TradeInvestNow-com.html) (Published: 2025-09-10)
-- [Asian Shares Seen Lower as US Stocks Rise Into CPI: Markets Wrap](https://financialpost.com/pmn/business-pmn/asian-shares-seen-lower-as-us-stocks-rise-into-cpi-markets-wrap) (Published: 2025-09-10)
-- [KDE launches its own distribution (again)](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/) (Published: 2025-09-10)
-- [Debarshi Ray: Toolbx — about version numbers](https://debarshiray.wordpress.com/2025/09/10/toolbx-about-version-numbers/) (Published: 2025-09-10)
