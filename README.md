@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 09:42:01**_
+_Last updated: **2025-09-12 09:52:09**_
 
+- [Elon Musk snatched back world's richest crown from Oracle co-founder Larry Ellison? Check their net worths](https://economictimes.indiatimes.com/news/international/global-trends/us-news-elon-musk-snatched-back-worlds-richest-crown-from-oracle-co-founder-larry-ellison-check-their-net-worths/articleshow/123827895.cms) (Published: 2025-09-11)
 - [A tech-stock fund manager who's crushed the S&P 500 over the last 3 years shares 4 companies he's most bullish on now](https://www.businessinsider.com/ai-stocks-to-watch-invest-in-sp500-tech-janus-henderson-2025-9) (Published: 2025-09-11)
 - [Nebius Stock: Next AWS In The Making?](https://www.forbes.com/sites/greatspeculations/2025/09/11/nebius-stock-next-aws-in-the-making/) (Published: 2025-09-11)
 - [Asian shares are mostly up after US stocks inch to more records as inflation slows](https://abcnews.go.com/Business/wireStory/asian-shares-after-us-stocks-inch-records-inflation-125469112) (Published: 2025-09-11)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-12 09:42:01**_
 - [Disciplina Capital Management LLC Lowers Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/11/disciplina-capital-management-llc-lowers-position-in-nvidia-corporation-nvda/) (Published: 2025-09-11)
 - [Matthew 25 Management Corp Increases Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/11/matthew-25-management-corp-increases-position-in-nvidia-corporation-nvda/) (Published: 2025-09-11)
 - [Nan Shan Life Insurance Co. Ltd. Sells 116,643 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/11/nan-shan-life-insurance-co-ltd-sells-116643-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-11)
-- [NVIDIA Corporation $NVDA is Bank OZK’s 4th Largest Position](https://www.etfdailynews.com/2025/09/11/nvidia-corporation-nvda-is-bank-ozks-4th-largest-position/) (Published: 2025-09-11)
