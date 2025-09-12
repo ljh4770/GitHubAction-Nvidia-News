@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 17:30:18**_
+_Last updated: **2025-09-12 17:40:56**_
 
+- [This value-packed Gigabyte AERO X16 RTX 5060 gaming laptop with 32GB RAM/1TB SSD is $450 off today](http://9to5toys.com/2025/09/11/value-packed-gigabyte-aero-x16-rtx-5060-gaming-laptop-450-off/) (Published: 2025-09-11)
 - [This ridiculous gaming laptop has dual screens, mechanical keys and upgradeable graphics (crowdfunding)](https://liliputing.com/this-ridiculous-gaming-laptop-has-dual-screens-mechanical-keys-and-upgradeable-graphics-crowdfunding/) (Published: 2025-09-11)
 - [Nvidia may have a rival on the AI dance floor: Oracle](https://biztoc.com/x/f7324ff01fbb7ade) (Published: 2025-09-11)
 - [(PR) ASUS Announces ExpertCenter P700 Series](https://www.techpowerup.com/340904/asus-announces-expertcenter-p700-series) (Published: 2025-09-11)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-12 17:30:18**_
 - [Soaring Today?](https://biztoc.com/x/ec6efe112feafe0a) (Published: 2025-09-11)
 - [Taiwan Semi, Partner To Nvidia And Apple, Rips Higher On August Sales Growth Spike](https://biztoc.com/x/60f677746330e388) (Published: 2025-09-11)
 - [With tech shifting quickly, should the UNC System require a course on AI?](https://www.ncspin.com/with-tech-shifting-quickly-should-the-unc-system-require-a-course-on-ai) (Published: 2025-09-11)
-- [MU stock jumps 9.7% as Citi upgrades to buy: Here's why Wall Street is bullish on Micron](https://economictimes.indiatimes.com/news/international/us/mu-stock-jumps-9-7-as-citi-upgrades-to-buy-heres-why-wall-street-is-bullish-on-micron/articleshow/123834507.cms) (Published: 2025-09-11)
