@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 03:47:42**_
+_Last updated: **2025-09-12 03:57:55**_
 
 - [Oracle CEO Safra Catz's net worth rises $412 million in a day as stock hits record highs](https://www.livemint.com/companies/people/oracle-ceo-safra-catzs-net-worth-rises-412-million-in-a-day-as-stock-hits-record-highs-11757561344698.html) (Published: 2025-09-11)
 - [Perplexity finalises $20 billion valuation round, the Information reports](https://www.thehindubusinessline.com/info-tech/perplexity-finalises-20-billion-valuation-round-the-information-reports/article70036339.ece) (Published: 2025-09-11)
