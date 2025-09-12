@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 09:29:56**_
+_Last updated: **2025-09-12 09:42:01**_
 
+- [A tech-stock fund manager who's crushed the S&P 500 over the last 3 years shares 4 companies he's most bullish on now](https://www.businessinsider.com/ai-stocks-to-watch-invest-in-sp500-tech-janus-henderson-2025-9) (Published: 2025-09-11)
+- [Nebius Stock: Next AWS In The Making?](https://www.forbes.com/sites/greatspeculations/2025/09/11/nebius-stock-next-aws-in-the-making/) (Published: 2025-09-11)
 - [Asian shares are mostly up after US stocks inch to more records as inflation slows](https://abcnews.go.com/Business/wireStory/asian-shares-after-us-stocks-inch-records-inflation-125469112) (Published: 2025-09-11)
 - [Wowza to Demonstrate Edge-Powered Streaming on the NVIDIA Jetson Orin Nano at IBC 2025](https://www.globenewswire.com/news-release/2025/09/11/3148381/0/en/Wowza-to-Demonstrate-Edge-Powered-Streaming-on-the-NVIDIA-Jetson-Orin-Nano-at-IBC-2025.html) (Published: 2025-09-11)
 - [Foreign Tier 1 ADAS Suppliers in China Industry Research Report 2025 | Strengthening Local Research, Partnering with Chinese Firms, and Integrating Domestic ADAS Innovations Define Core Entry Paths](https://www.globenewswire.com/news-release/2025/09/11/3148380/28124/en/Foreign-Tier-1-ADAS-Suppliers-in-China-Industry-Research-Report-2025-Strengthening-Local-Research-Partnering-with-Chinese-Firms-and-Integrating-Domestic-ADAS-Innovations-Define-Cor.html) (Published: 2025-09-11)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-12 09:29:56**_
 - [Matthew 25 Management Corp Increases Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/11/matthew-25-management-corp-increases-position-in-nvidia-corporation-nvda/) (Published: 2025-09-11)
 - [Nan Shan Life Insurance Co. Ltd. Sells 116,643 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/11/nan-shan-life-insurance-co-ltd-sells-116643-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-11)
 - [NVIDIA Corporation $NVDA is Bank OZK’s 4th Largest Position](https://www.etfdailynews.com/2025/09/11/nvidia-corporation-nvda-is-bank-ozks-4th-largest-position/) (Published: 2025-09-11)
-- [HC Advisors LLC Sells 1,669 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/11/hc-advisors-llc-sells-1669-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-11)
-- [Blue Investment Partners LLC Sells 560 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/11/blue-investment-partners-llc-sells-560-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-11)
