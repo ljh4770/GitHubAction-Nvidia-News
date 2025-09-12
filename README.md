@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 22:20:36**_
+_Last updated: **2025-09-12 22:34:26**_
 
+- [How to build a diversified ASX share portfolio with just $3,000](https://www.fool.com.au/2025/09/12/how-to-build-a-diversified-asx-share-portfolio-with-just-3000/) (Published: 2025-09-11)
 - [U.S. stocks close higher after CPI meets expectations](https://www.thestar.com.my/news/world/2025/09/12/us-stocks-close-higher-after-cpi-meets-expectations) (Published: 2025-09-11)
 - [Microsoft’s next AI experiment — a shopping assistant that never clocks out](https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsofts-next-ai-experiment-a-shopping-assistant-that-never-clocks-out) (Published: 2025-09-11)
 - [This RTX 5070 Ti gaming laptop deal is the best I've seen in awhile — $400 off, just in time for Battlefield 6](https://www.windowscentral.com/hardware/asus/asus-rog-strix-g16-2025-g614-best-buy-deal) (Published: 2025-09-11)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-12 22:20:36**_
 - ['We will do better.' Microsoft CEO Nadella admits company has to rebuild trust with employees](https://www.cnbc.com/2025/09/11/microsoft-ceo-nadella-says-company-must-rebuild-trust-with-employees.html) (Published: 2025-09-11)
 - [AI is trained on YouTube videos. Now we can see which ones have been used.](https://www.tubefilter.com/2025/09/11/generative-ai-artificial-intelligence-training-youtube-videos-search/) (Published: 2025-09-11)
 - [Super Micro Computer Ships NVIDIA Blackwell Ultra Solutions—Stock Climbs](https://biztoc.com/x/23adeeb8e29af33a) (Published: 2025-09-11)
-- [Microsoft to spend heavily to build its own AI chip cluster and become 'self-sufficient,' AI CEO says in leaked meeting](https://www.businessinsider.com/microsoft-spend-heavily-own-chip-cluster-in-house-ai-models-2025-9) (Published: 2025-09-11)
