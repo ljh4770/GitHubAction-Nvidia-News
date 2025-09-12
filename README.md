@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 11:49:22**_
+_Last updated: **2025-09-12 11:59:27**_
 
 - [Nvidia's RTX 5000 Super GPUs might not arrive until CES 2026 – and that could be great news for AMD](https://www.techradar.com/computing/gpu/nvidias-rtx-5000-super-gpus-might-not-arrive-until-ces-2026-and-thatd-be-great-news-for-amd) (Published: 2025-09-11)
 - [Is Oracle having its Nvidia moment? AI frenzy makes Larry Ellison the richest man alive — but can it last, or is this 1999 all over again?](https://economictimes.indiatimes.com/news/international/us/is-oracle-having-its-nvidia-moment-ai-frenzy-makes-larry-ellison-the-richest-man-alive-but-can-it-last-or-is-this-1999-all-over-again/articleshow/123830301.cms) (Published: 2025-09-11)
