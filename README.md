@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 09:52:09**_
+_Last updated: **2025-09-12 10:12:54**_
 
+- [DA Davidson gets more bullish on Nvidia, upgrades shares](https://thefly.com/permalinks/entry.php/id4196516/NVDA-DA-Davidson-gets-more-bullish-on-Nvidia-upgrades-shares) (Published: 2025-09-11)
+- [An Interview with Dan Kim About Intel, Nvidia, and the U.S. Government](https://stratechery.com/2025/an-interview-with-dan-kim-about-intel-nvidia-and-the-u-s-government/) (Published: 2025-09-11)
+- [I finally tried OpenAI's 120 billion parameter open-source LLM — and without needing thousands of dollars worth of hardware](https://www.windowscentral.com/artificial-intelligence/i-finally-tried-openais-120-billion-parameter-open-source-llm-and-without-needing-thousands-of-dollars-worth-of-hardware) (Published: 2025-09-11)
+- [Google TPUs Vs Nvidia GPUs](https://www.forbes.com/sites/greatspeculations/2025/09/11/google-tpus-vs-nvidia-gpus/) (Published: 2025-09-11)
+- [Oracle marches toward $1 trillion club; tech stocks cheer](https://www.channelnewsasia.com/business/oracle-marches-toward-1-trillion-club-tech-stocks-cheer-5344241) (Published: 2025-09-11)
 - [Elon Musk snatched back world's richest crown from Oracle co-founder Larry Ellison? Check their net worths](https://economictimes.indiatimes.com/news/international/global-trends/us-news-elon-musk-snatched-back-worlds-richest-crown-from-oracle-co-founder-larry-ellison-check-their-net-worths/articleshow/123827895.cms) (Published: 2025-09-11)
 - [A tech-stock fund manager who's crushed the S&P 500 over the last 3 years shares 4 companies he's most bullish on now](https://www.businessinsider.com/ai-stocks-to-watch-invest-in-sp500-tech-janus-henderson-2025-9) (Published: 2025-09-11)
 - [Nebius Stock: Next AWS In The Making?](https://www.forbes.com/sites/greatspeculations/2025/09/11/nebius-stock-next-aws-in-the-making/) (Published: 2025-09-11)
 - [Asian shares are mostly up after US stocks inch to more records as inflation slows](https://abcnews.go.com/Business/wireStory/asian-shares-after-us-stocks-inch-records-inflation-125469112) (Published: 2025-09-11)
 - [Wowza to Demonstrate Edge-Powered Streaming on the NVIDIA Jetson Orin Nano at IBC 2025](https://www.globenewswire.com/news-release/2025/09/11/3148381/0/en/Wowza-to-Demonstrate-Edge-Powered-Streaming-on-the-NVIDIA-Jetson-Orin-Nano-at-IBC-2025.html) (Published: 2025-09-11)
-- [Foreign Tier 1 ADAS Suppliers in China Industry Research Report 2025 | Strengthening Local Research, Partnering with Chinese Firms, and Integrating Domestic ADAS Innovations Define Core Entry Paths](https://www.globenewswire.com/news-release/2025/09/11/3148380/28124/en/Foreign-Tier-1-ADAS-Suppliers-in-China-Industry-Research-Report-2025-Strengthening-Local-Research-Partnering-with-Chinese-Firms-and-Integrating-Domestic-ADAS-Innovations-Define-Cor.html) (Published: 2025-09-11)
-- [MSI Afterburner Dev Gets Hands On Future RTX 50 “OC” GPU Samples With Unlocked Extended Voltage Control, VRM Temperature Monitoring & Several Other Options](https://wccftech.com/msi-afterburner-dev-future-rtx-50-oc-gpu-unlocked-extended-voltage-control-vrm-temperature-monitoring/) (Published: 2025-09-11)
-- [Disciplina Capital Management LLC Lowers Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/11/disciplina-capital-management-llc-lowers-position-in-nvidia-corporation-nvda/) (Published: 2025-09-11)
-- [Matthew 25 Management Corp Increases Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/11/matthew-25-management-corp-increases-position-in-nvidia-corporation-nvda/) (Published: 2025-09-11)
-- [Nan Shan Life Insurance Co. Ltd. Sells 116,643 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/11/nan-shan-life-insurance-co-ltd-sells-116643-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-11)
