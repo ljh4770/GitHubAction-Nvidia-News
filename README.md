@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 03:57:55**_
+_Last updated: **2025-09-12 04:27:14**_
 
+- [Alibaba Leads Chinese Tech Funding Spree With $3.2 Billion Deal](https://financialpost.com/pmn/business-pmn/alibaba-leads-chinese-tech-funding-spree-with-3-2-billion-deal) (Published: 2025-09-11)
 - [Oracle CEO Safra Catz's net worth rises $412 million in a day as stock hits record highs](https://www.livemint.com/companies/people/oracle-ceo-safra-catzs-net-worth-rises-412-million-in-a-day-as-stock-hits-record-highs-11757561344698.html) (Published: 2025-09-11)
 - [Perplexity finalises $20 billion valuation round, the Information reports](https://www.thehindubusinessline.com/info-tech/perplexity-finalises-20-billion-valuation-round-the-information-reports/article70036339.ece) (Published: 2025-09-11)
 - [Computer chip performance optimization startup ProteanTecs raises $51M](https://siliconangle.com/2025/09/10/computer-chip-performance-optimization-startup-proteantecs-raises-51m/) (Published: 2025-09-11)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-12 03:57:55**_
 - [Perplexity finalises $20 billion valuation round: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/perplexity-finalises-20-billion-valuation-round-report/articleshow/123819782.cms) (Published: 2025-09-11)
 - [AI Data Center Spending By Nvidia, Microsoft And Other 'Mag 7' Titans Is Squeezing S&P 500 Share Buybacks, Goldman Sachs Warns](https://finance.yahoo.com/news/ai-data-center-spending-nvidia-013113237.html) (Published: 2025-09-11)
 - [What to expect during theCUBE + NYSE Wired: AI Factories – Data Centers of the Future event: Join theCUBE Sept. 26](https://siliconangle.com/2025/09/10/ai-factories-future-data-centers-aifactoriesdatacenters/) (Published: 2025-09-11)
-- [Oracle soars, TSMC & Broadcom emerge winners: Market Wrap](https://www.thestreet.com/investing/oracle-soars-tsmc-broadcom-emerge-winners-market-wrap) (Published: 2025-09-11)
