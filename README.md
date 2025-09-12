@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 18:37:02**_
+_Last updated: **2025-09-12 18:49:06**_
 
 - ['No asterisk generation' : AMD promises its MI450 AI GPU will be faster than ANYTHING Nvidia has, yes, that includes even Rubin Ultra](https://www.techradar.com/pro/no-asterisk-generation-amd-promises-its-mi450-ai-gpu-will-be-faster-than-anything-nvidia-has-yes-that-includes-even-rubin-ultra) (Published: 2025-09-11)
 - [Apple Games app offers a one-stop gaming destination](https://www.bostonherald.com/2025/09/11/apple-games-app/) (Published: 2025-09-11)
