@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 05:42:26**_
+_Last updated: **2025-09-12 05:52:56**_
 
+- [Acer Reveals Predator Helios 18P AI Laptop with NVIDIA RTX 5090 Graphics](https://me.pcmag.com/en/laptops/32178/acer-reveals-predator-helios-18p-ai-laptop-with-nvidia-rtx-5090-graphics) (Published: 2025-09-11)
+- [ORNL tackles control challenges of nuclear rocket engines](https://newatlas.com/space/control-nuclear-rocket-engine/) (Published: 2025-09-11)
 - [‘Brain-like’ AI uses Chinese chips to run 100 times faster on ultra-long tasks](https://www.thestar.com.my/tech/tech-news/2025/09/11/brain-like-ai-uses-chinese-chips-to-run-100-times-faster-on-ultra-long-tasks) (Published: 2025-09-11)
 - [Alibaba Leads Chinese Tech Funding Spree With $3.2 Billion Deal](https://financialpost.com/pmn/business-pmn/alibaba-leads-chinese-tech-funding-spree-with-3-2-billion-deal) (Published: 2025-09-11)
 - [Oracle CEO Safra Catz's net worth rises $412 million in a day as stock hits record highs](https://www.livemint.com/companies/people/oracle-ceo-safra-catzs-net-worth-rises-412-million-in-a-day-as-stock-hits-record-highs-11757561344698.html) (Published: 2025-09-11)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-12 05:42:26**_
 - [Larry Ellison briefly overtakes Elon Musk as world's richest person](https://www.abc.net.au/news/2025-09-11/larry-ellison-overtakes-elon-musk-world-richest-person/105761394) (Published: 2025-09-11)
 - [S&P 500 and Nasdaq notch record-high closes as Oracle soars on AI optimism](https://economictimes.indiatimes.com/markets/stocks/news/sp-500-and-nasdaq-notch-record-high-closes-as-oracle-soars-on-ai-optimism/articleshow/123819869.cms) (Published: 2025-09-11)
 - [Perplexity finalises $20 billion valuation round: Report](https://economictimes.indiatimes.com/tech/funding/perplexity-finalises-20-billion-valuation-round-report/articleshow/123819986.cms) (Published: 2025-09-11)
-- [Perplexity finalises $20 billion valuation round: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/perplexity-finalises-20-billion-valuation-round-report/articleshow/123819782.cms) (Published: 2025-09-11)
-- [AI Data Center Spending By Nvidia, Microsoft And Other 'Mag 7' Titans Is Squeezing S&P 500 Share Buybacks, Goldman Sachs Warns](https://finance.yahoo.com/news/ai-data-center-spending-nvidia-013113237.html) (Published: 2025-09-11)
