@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-12 07:40:10**_
+_Last updated: **2025-09-12 07:50:38**_
 
 - [9/29・30開催の大型カンファレンス『POST Dev 2025』全セッションの登壇内容を公開いたしました！](https://prtimes.jp/main/html/rd/p/000000127.000010537.html) (Published: 2025-09-11)
 - [PsiQuantum raises $1bn backed by Nvidia, BlackRock](https://biztoc.com/x/224e33848fdea480) (Published: 2025-09-11)
