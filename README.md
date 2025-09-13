@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 13:10:26**_
+_Last updated: **2025-09-13 13:28:36**_
 
+- [SK hynix completes development of HBM4 — 2,048-bit interface and 10 GT/s speeds promised](https://www.tomshardware.com/pc-components/dram/sk-hynix-completes-development-of-hbm4-2-048-bit-interface-and-10-gt-s-speeds-promised) (Published: 2025-09-12)
+- [Today’s Hot Deals: Powerful Skytech Gaming PC, Arlo Video Doorbell and Chime, LEGO City Advent Calendar, X-Men Omnibus, and MORE!](https://www.geeksaresexy.net/2025/09/12/todays-hot-deals-powerful-skytech-gaming-pc-arlo-video-doorbell-and-chime-lego-city-advent-calendar-x-men-omnibus-and-more/) (Published: 2025-09-12)
+- [the two – Is it possible for robots to fall in love?](https://www.creativeapplications.net/member/the-two-is-it-possible-for-robots-to-fall-in-love/) (Published: 2025-09-12)
+- [How to watch The Traitors Ireland season 1 — it's *FREE*](https://www.techradar.com/how-to-watch/tv-shows/traitors-ireland-season-1-free) (Published: 2025-09-12)
+- [Jeff Bezos wished to be a physicist until one Math problem gave him a reality check: Amazon founder's hilarious moment from Princeton](https://economictimes.indiatimes.com/magazines/panache/jeff-bezos-wished-to-be-a-physicist-until-one-math-problem-gave-him-a-reality-check-amazon-founders-hilarious-moment-from-princeton/articleshow/123853286.cms) (Published: 2025-09-12)
+- [Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090 - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=179184798) (Published: 2025-09-12)
 - [Urban Company IPO closes 104x; Indian investors chase Apple](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/urban-company-ipo-closes-104x-indian-investors-chase-apple/articleshow/123852956.cms) (Published: 2025-09-12)
 - [Urban Company IPO booked 104x; Indian investors chase Apple](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/urban-company-ipo-booked-104x-indian-investors-chase-apple/articleshow/123852956.cms) (Published: 2025-09-12)
 - [Urban Company IPO closes; Indian bulls’ Apple rush](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/urban-company-ipo-closes-indian-bulls-apple-rush/articleshow/123852956.cms) (Published: 2025-09-12)
 - [Nvidia to scale back DGX Cloud Business, The Information reports](https://thefly.com/permalinks/entry.php/id4197332/NVDA;AMZN-Nvidia-to-scale-back-DGX-Cloud-Business-The-Information-reports) (Published: 2025-09-12)
-- [We are entering a golden age of robotics startups — and not just because of AI | TechCrunch](https://techcrunch.com/2025/09/12/we-are-entering-a-golden-age-of-robotics-startups-and-not-just-because-of-ai/) (Published: 2025-09-12)
-- [OpenAI's Nonprofit Parent to Own More Than $100B Stake in ChatGPT Maker](https://www.investopedia.com/openai-s-nonprofit-parent-to-own-more-than-usd100b-stake-in-chatgpt-maker-11808704) (Published: 2025-09-12)
-- [Borderlands 4 on PC crushing even the most powerful rigs — RTX 5090 struggles in some scenarios, but day one patch solves plenty of issues](https://www.tomshardware.com/video-games/borderlands-4-launch-marred-by-performance-issues) (Published: 2025-09-12)
-- [Django News - Djangonaut Space 2025 Session 5 - Sep 12th 2025](https://django-news.com/issues/302) (Published: 2025-09-12)
-- [Super Micro Computer Stock (SMCI) Surges with Nvidia Shipments Underway](https://biztoc.com/x/eb7e18f3de0e9bc9) (Published: 2025-09-12)
-- [Top Large Cap Stocks To Follow Now – September 10th](https://www.etfdailynews.com/2025/09/12/top-large-cap-stocks-to-follow-now-september-10th/) (Published: 2025-09-12)
