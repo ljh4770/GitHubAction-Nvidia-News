@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 21:35:26**_
+_Last updated: **2025-09-13 21:45:48**_
 
 - [Thematic ASX ETF investing ideas](https://www.fool.com.au/2025/09/13/thematic-asx-etf-investing-ideas/) (Published: 2025-09-12)
 - [Gearbox and Randy Pitchford aim a fire hose at the Borderlands 4 PC port, share "optimization guide" and a tip to "boost your performance" which is, big surprise, enabling DLSS performance with frame gen](https://www.gamesradar.com/games/borderlands/gearbox-and-randy-pitchford-aim-a-fire-hose-at-the-borderlands-4-pc-port-share-optimization-guide-and-a-tip-to-boost-your-performance-which-is-big-surprise-enabling-dlss-performance-with-frame-gen/) (Published: 2025-09-12)
