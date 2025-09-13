@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 13:28:36**_
+_Last updated: **2025-09-13 13:39:30**_
 
+- [Nvidia said to reduce cloud development efforts](https://biztoc.com/x/32e45033960224b1) (Published: 2025-09-12)
 - [SK hynix completes development of HBM4 — 2,048-bit interface and 10 GT/s speeds promised](https://www.tomshardware.com/pc-components/dram/sk-hynix-completes-development-of-hbm4-2-048-bit-interface-and-10-gt-s-speeds-promised) (Published: 2025-09-12)
 - [Today’s Hot Deals: Powerful Skytech Gaming PC, Arlo Video Doorbell and Chime, LEGO City Advent Calendar, X-Men Omnibus, and MORE!](https://www.geeksaresexy.net/2025/09/12/todays-hot-deals-powerful-skytech-gaming-pc-arlo-video-doorbell-and-chime-lego-city-advent-calendar-x-men-omnibus-and-more/) (Published: 2025-09-12)
 - [the two – Is it possible for robots to fall in love?](https://www.creativeapplications.net/member/the-two-is-it-possible-for-robots-to-fall-in-love/) (Published: 2025-09-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-13 13:28:36**_
 - [Urban Company IPO closes 104x; Indian investors chase Apple](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/urban-company-ipo-closes-104x-indian-investors-chase-apple/articleshow/123852956.cms) (Published: 2025-09-12)
 - [Urban Company IPO booked 104x; Indian investors chase Apple](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/urban-company-ipo-booked-104x-indian-investors-chase-apple/articleshow/123852956.cms) (Published: 2025-09-12)
 - [Urban Company IPO closes; Indian bulls’ Apple rush](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/urban-company-ipo-closes-indian-bulls-apple-rush/articleshow/123852956.cms) (Published: 2025-09-12)
-- [Nvidia to scale back DGX Cloud Business, The Information reports](https://thefly.com/permalinks/entry.php/id4197332/NVDA;AMZN-Nvidia-to-scale-back-DGX-Cloud-Business-The-Information-reports) (Published: 2025-09-12)
