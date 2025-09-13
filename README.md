@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 03:18:13**_
+_Last updated: **2025-09-13 03:35:31**_
 
+- [OpenAI CEO Sam Altman Says He Hasn't Had 'A Good Night Of Sleep Since ChatGPT Launched,' Urges AI Privilege To Stop Potential Government Snooping](https://finance.yahoo.com/news/openai-ceo-sam-altman-says-033107353.html) (Published: 2025-09-12)
 - [Alibaba’s Shares Soar After Investors Buy Into Big AI Moves](https://www.livemint.com/companies/news/alibabas-shares-soar-after-investors-buy-into-big-ai-moves-11757646624491.html) (Published: 2025-09-12)
 - [Malaysia reins in data centre growth, complicating China's AI chip access](https://economictimes.indiatimes.com/tech/artificial-intelligence/malaysia-reins-in-data-centre-growth-complicating-chinas-ai-chip-access/articleshow/123841816.cms) (Published: 2025-09-12)
 - [OpenAI, Nvidia CEOs to Announce UK Data Center Investments](https://finance.yahoo.com/news/openai-nvidia-ceos-announce-uk-024155303.html) (Published: 2025-09-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-13 03:18:13**_
 - [MSI Prestige 16 AI Studio 16" Laptop B1VEG-064AU $1,899.98 Delivered @ Costco](https://www.ozbargain.com.au/node/923800) (Published: 2025-09-12)
 - [Nvidia weighs microchannel lid cooling in race to tame next-gen GPU power](https://www.digitimes.com/news/a20250912PD215/nvidia-rubin-cooling-design.html) (Published: 2025-09-12)
 - [Oracle's blockbuster surge shows AI trade's growing influence on market](https://economictimes.indiatimes.com/tech/technology/oracles-blockbuster-surge-shows-ai-trades-growing-influence-on-market/articleshow/123841032.cms) (Published: 2025-09-12)
-- [OpenAI, Nvidia set to announce UK data center investments, Bloomberg News reports](https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-nvidia-set-to-announce-uk-data-center-investments-bloomberg-news-reports/articleshow/123841019.cms) (Published: 2025-09-12)
