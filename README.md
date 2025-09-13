@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 03:56:40**_
+_Last updated: **2025-09-13 04:24:10**_
 
 - [SEMICON Taiwan 2025: Nvidia shifts optical roadmap from co-packaged to co-integrated optics](https://www.digitimes.com/news/a20250912VL204/optics-design-performance-accelerated-computing-cpo.html) (Published: 2025-09-12)
 - [OpenAI CEO Sam Altman Says He Hasn't Had 'A Good Night Of Sleep Since ChatGPT Launched,' Urges AI Privilege To Stop Potential Government Snooping](https://finance.yahoo.com/news/openai-ceo-sam-altman-says-033107353.html) (Published: 2025-09-12)
