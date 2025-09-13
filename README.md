@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 05:47:16**_
+_Last updated: **2025-09-13 05:57:24**_
 
 - [Gaming PC: 7500F / RTX5060 $999, 7800X3D / RTX5070 + BL4 $1999, 7800X3D / RTX5080 $2999 + BL4 + Delivery ($0 VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/923846) (Published: 2025-09-12)
 - [AI hype has just shaken up the world’s rich list. What if the boom is really a bubble?](https://theconversation.com/ai-hype-has-just-shaken-up-the-worlds-rich-list-what-if-the-boom-is-really-a-bubble-265080) (Published: 2025-09-12)
