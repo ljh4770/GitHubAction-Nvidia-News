@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 17:19:44**_
+_Last updated: **2025-09-13 17:29:51**_
 
+- [HP ZBook Fury G1i 18 Review: Blackwell GPU Muscle, Power Efficiency Discipline](https://www.storagereview.com/review/hp-zbook-fury-g1i-18-inch-mobile-workstation-pc) (Published: 2025-09-12)
 - [Up Over 1,200% in the Past Year, Is Oklo Stock the Next Nvidia?](https://biztoc.com/x/6fb525898c7c63c8) (Published: 2025-09-12)
 - [Supermicro Stock Rises on News of Product Shipments Using Nvidia Blackwell Chips](https://biztoc.com/x/3db98380e39da13b) (Published: 2025-09-12)
 - [US stock market today on track for weekly gains: Nasdaq, S&P hit fresh records as Dow dips; Fed rate cut seen as done deal](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-on-track-for-weekly-gains-nasdaq-sp-hit-fresh-records-as-dow-dips-fed-rate-cut-seen-as-done-deal/articleshow/123856157.cms) (Published: 2025-09-12)
@@ -9,4 +10,3 @@ _Last updated: **2025-09-13 17:19:44**_
 - [‘Time to Jump Back In,’ Says Gil Luria About Nvidia Stock](https://biztoc.com/x/617c30664a87e8ac) (Published: 2025-09-12)
 - [Save Nearly $1,000 Off Lenovo's Legion Pro 5 Gaming Laptop with OLED Display and RTX 5070 GPU](https://www.ign.com/articles/lenovo-legion-5-pro-rtx-5070-gaming-laptop-deal) (Published: 2025-09-12)
 - [Up Over 1,200% in the Past Year, Is Oklo Stock the Next Nvidia?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_58059385-1f5a-4d6b-b634-422f96fef2b5) (Published: 2025-09-12)
-- [Yes, the World Free Rides on America](https://www.project-syndicate.org/commentary/american-economy-europe-and-many-others-free-riders-by-todd-g-buchholz-2025-09) (Published: 2025-09-12)
