@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 11:49:35**_
+_Last updated: **2025-09-13 12:00:14**_
 
+- [Philip Cross: Weak business investment undermines Canada’s growth](https://financialpost.com/opinion/philip-cross-weak-business-investment-undermines-canadas-growth) (Published: 2025-09-12)
+- [SMCI Stock Climbs On Shipments Of NVIDIA Blackwell Solutions - Super Micro Computer (NASDAQ:SMCI)](https://biztoc.com/x/2b511f7ca1fa93fd) (Published: 2025-09-12)
+- [AI Chip Stocks Gain After Oracle Earnings And Mega Cloud Deals](https://biztoc.com/x/14fb60a070449401) (Published: 2025-09-12)
+- [Microsoft Wants to Be ‘Self-Sufficient’ In AI, Plans to Expand Computing Power](https://me.pcmag.com/en/ai/32209/microsoft-wants-to-be-self-sufficient-in-ai-plans-to-expand-computing-power) (Published: 2025-09-12)
+- [Microsoft Wants to Be ‘Self-Sufficient’ In AI, Plans to Expand Computing Power](https://uk.pcmag.com/ai/160041/microsoft-wants-to-be-self-sufficient-in-ai-plans-to-expand-computing-power) (Published: 2025-09-12)
+- [Gearbox releases Borderlands 4 PC optimisation guide following reports of poor performance](https://www.eurogamer.net/gearbox-releases-borderlands-4-pc-optimisation-guide-following-reports-of-poor-performance) (Published: 2025-09-12)
 - [Chinese scientists claim to have built the first "brain-like" AI model — said to be up to 100 times faster than ChatGPT](https://www.windowscentral.com/artificial-intelligence/chinese-scientists-claim-to-have-built-the-first-brain-like-ai-model) (Published: 2025-09-12)
 - [The new frontier: Meet the power players cashing in on the AI gold rush](https://www.tomshardware.com/tech-industry/the-new-frontier-meet-the-power-players-cashing-in-on-the-ai-gold-rush) (Published: 2025-09-12)
 - [Xbox Cloud Gaming to Reportedly Support up to 1440p](https://www.iphoneincanada.ca/2025/09/12/xbox-cloud-gaming-support-up-to-1440p/) (Published: 2025-09-12)
 - [Nvidia and OpenAI to back major investment in UK AI infrastructure](https://biztoc.com/x/385b047c4729259a) (Published: 2025-09-12)
-- [Trump Floats New China Tariffs, OpenAI & Nvidia CEOs Plan UK Data Center Push | The Pulse 9/12/2025](https://biztoc.com/x/484942110d13fcb2) (Published: 2025-09-12)
-- [Nvidia and OpenAI to back major investment in UK AI infrastructure](https://www.cnbc.com/2025/09/12/nvidia-and-openai-to-back-major-investment-in-uk-ai-infrastructure.html) (Published: 2025-09-12)
-- [Nvidia Stock Gains. How Super Micro Is Boosting Its AI Server Growth](https://biztoc.com/x/e27a2a23387c1195) (Published: 2025-09-12)
-- [I Tested Acer's Nitro V Gaming Laptop, and It Serves Up a Big Screen and Big Value](https://www.cnet.com/tech/computing/i-tested-acers-nitro-v-gaming-laptop-and-it-serves-up-a-big-screen-and-big-value/) (Published: 2025-09-12)
-- [BIOSTAR Unveils EdgeComp MS-NANX 8G 16G Industrial Edge Computing Solution](https://www.madshrimps.be/news/biostar-unveils-edgecomp-ms-nanx-8g-16g-industrial-edge-computing-solution/) (Published: 2025-09-12)
-- [Oracle trying to be the new Nvidia](https://www.madshrimps.be/news/oracle-trying-to-be-the-new-nvidia/) (Published: 2025-09-12)
