@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 22:30:50**_
+_Last updated: **2025-09-13 22:41:30**_
 
+- [SK Hynix's rumored slowing TCB investment raises concerns for Hanmi Semiconductor as bonders market expands](https://www.digitimes.com/news/a20250910PD207/sk-hynix-hbm-hanmi-hanwha-investment.html) (Published: 2025-09-12)
 - [NVIDIA (NVDA) Stock Backed by Wells Fargo Amid Expanding AI Opportunities](https://finance.yahoo.com/news/nvidia-nvda-stock-backed-wells-220552527.html) (Published: 2025-09-12)
 - [Nvidia Is a National Security Risk (David Cowan/Compact)](https://www.memeorandum.com/250912/p118) (Published: 2025-09-12)
 - [Thematic ASX ETF investing ideas](https://www.fool.com.au/2025/09/13/thematic-asx-etf-investing-ideas/) (Published: 2025-09-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-13 22:30:50**_
 - [SK Hynix cranks up the HBM4 assembly line to prep for next-gen GPUs](https://biztoc.com/x/fac5e4c73154039d) (Published: 2025-09-12)
 - [Stocks Stay Near Record Highs](https://www.newser.com/story/375133/stocks-stay-near-record-highs.html) (Published: 2025-09-12)
 - [SK Hynix cranks up the HBM4 assembly line to prep for next-gen GPUs](https://www.theregister.com/2025/09/12/sk_hynix_hbm4_mass_production/) (Published: 2025-09-12)
-- [Why the Oracle-OpenAI deal caught Wall Street by surprise | TechCrunch](https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/) (Published: 2025-09-12)
