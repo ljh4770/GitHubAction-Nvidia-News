@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 20:19:21**_
+_Last updated: **2025-09-13 20:31:05**_
 
 - [Why the Oracle-OpenAI deal caught Wall Street by surprise | TechCrunch](https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/) (Published: 2025-09-12)
 - [How to watch the World Athletics Championships 2025 on SBS (it's free)](https://www.techradar.com/how-to-watch/sport/world-athletics-championships-2025-tokyo-free) (Published: 2025-09-12)
