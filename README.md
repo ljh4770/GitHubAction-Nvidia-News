@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 09:49:28**_
+_Last updated: **2025-09-13 09:59:48**_
 
+- [nvfuser-cu126 0.2.33.dev20250912](https://pypi.org/project/nvfuser-cu126/0.2.33.dev20250912/) (Published: 2025-09-12)
+- [nvfuser-cu129 0.2.33.dev20250912](https://pypi.org/project/nvfuser-cu129/0.2.33.dev20250912/) (Published: 2025-09-12)
 - [Tesla Pivots to Robots as Investors Question Sales and Soaring Valuation](https://finance.yahoo.com/news/tesla-pivots-robots-investors-sales-094537687.html) (Published: 2025-09-12)
 - [How AMD, Nvidia, Broadcom Can Ride Oracle’s $455B Cloud Surge](https://www.forbes.com/sites/greatspeculations/2025/09/12/how-amd-nvidia-broadcom-can-ride-oracles-455b-cloud-surge/) (Published: 2025-09-12)
 - [Is Trump a State Capitalist?](https://www.project-syndicate.org/onpoint/is-trump-a-state-capitalist) (Published: 2025-09-12)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-13 09:49:28**_
 - [Nvidia reportedly asks Samsung to double GDDR7 memory orders](https://www.digitimes.com/news/a20250910PD226/nvidia-samsung-hbm-revenue-hbm3e.html) (Published: 2025-09-12)
 - [Gigabyte’s AORUS RTX 5060 Ti AI BOX eGPU Has TB5, Windforce Cooling, 16 GB VRAM & Offers Almost Similar Performance As Desktop 5060 Ti](https://wccftech.com/gigabyte-aorus-rtx-5060-ti-ai-box-egpu-tb5-windforce-cooling-16-gb-vram/) (Published: 2025-09-12)
 - ['Bond King' Bill Gross says he's worried AI giants are wasting money — and their stocks could pay the price](https://www.businessinsider.com/bond-king-bill-gross-ai-stocks-capex-data-centers-tech-2025-9) (Published: 2025-09-12)
-- [Elon Musk’s AI Grift](https://www.thenation.com/article/world/elon-musk-ai-saudi-funding/) (Published: 2025-09-12)
-- [HP intros Omen 35L Valorant Edition gaming desktop with special design and up to RTX 5080](https://www.notebookcheck.net/HP-intros-Omen-35L-Valorant-Edition-gaming-desktop-with-special-design-and-up-to-RTX-5080.1111131.0.html) (Published: 2025-09-12)
