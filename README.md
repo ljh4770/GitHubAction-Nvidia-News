@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 08:53:50**_
+_Last updated: **2025-09-13 09:13:39**_
 
+- [(PR) BIOSTAR Unveils EdgeComp MS-NANX 8G 16G Industrial Edge Computing Solution](https://www.techpowerup.com/340933/biostar-unveils-edgecomp-ms-nanx-8g-16g-industrial-edge-computing-solution) (Published: 2025-09-12)
+- [Nvidia reportedly asks Samsung to double GDDR7 memory orders](https://www.digitimes.com/news/a20250910PD226/nvidia-samsung-hbm-revenue-hbm3e.html) (Published: 2025-09-12)
+- [Gigabyte’s AORUS RTX 5060 Ti AI BOX eGPU Has TB5, Windforce Cooling, 16 GB VRAM & Offers Almost Similar Performance As Desktop 5060 Ti](https://wccftech.com/gigabyte-aorus-rtx-5060-ti-ai-box-egpu-tb5-windforce-cooling-16-gb-vram/) (Published: 2025-09-12)
+- ['Bond King' Bill Gross says he's worried AI giants are wasting money — and their stocks could pay the price](https://www.businessinsider.com/bond-king-bill-gross-ai-stocks-capex-data-centers-tech-2025-9) (Published: 2025-09-12)
+- [Elon Musk’s AI Grift](https://www.thenation.com/article/world/elon-musk-ai-saudi-funding/) (Published: 2025-09-12)
+- [HP intros Omen 35L Valorant Edition gaming desktop with special design and up to RTX 5080](https://www.notebookcheck.net/HP-intros-Omen-35L-Valorant-Edition-gaming-desktop-with-special-design-and-up-to-RTX-5080.1111131.0.html) (Published: 2025-09-12)
+- [Wayland performance issues with graphics driver for 580 NVIDIA RTX 3060 laptop](https://askubuntu.com/questions/1555976/wayland-performance-issues-with-graphics-driver-for-580-nvidia-rtx-3060-laptop) (Published: 2025-09-12)
+- [More leaders are recognizing the ‘power of small teams’](https://fortune.com/2025/09/12/more-leaders-recognize-powers-small-teams/) (Published: 2025-09-12)
 - [Data centers gobble Earth’s resources. What if we took them to space instead?](https://grist.org/climate-energy/data-centers-gobble-earths-resources-what-if-we-took-them-to-space-instead/) (Published: 2025-09-12)
 - [Satellite imaging, inclusive AI, and privacy-preserving tech win at Ant Group’s global competition](http://technode.com/2025/09/12/satellite-imaging-inclusive-ai-and-privacy-preserving-tech-win-at-ant-groups-global-competition/) (Published: 2025-09-12)
-- [Borderlands 4 Dev Gearbox Asks PC Gamers to Keep Playing for at Least 15 Minutes After They Tweak Settings to See How Performance Has Changed, as Negative Steam Reviews Pile Up](https://www.ign.com/articles/borderlands-4-dev-gearbox-asks-pc-gamers-to-keep-playing-for-at-least-15-minutes-after-they-tweak-settings-to-see-how-performance-has-changed-as-negative-steam-reviews-pile-up) (Published: 2025-09-12)
-- [ASUS Announces the Most Powerful ProArt P16 to Date, Featuring the New ASUS Lumina Pro OLED Touchscreen Display and NVIDIA® GeForce RTX™ 5090 Laptop GPU](https://financialpost.com/globe-newswire/asus-announces-the-most-powerful-proart-p16-to-date-featuring-the-new-asus-lumina-pro-oled-touchscreen-display-and-nvidia-geforce-rtx-5090-laptop-gpu) (Published: 2025-09-12)
-- [Oracle price spike: Doesn’t anyone know how to foresee the value of a tech company anymore?](https://www.livemint.com/opinion/online-views/oracle-ai-boom-cloud-contracts-larry-ellison-share-price-surge-goldman-sachs-nvidia-openai-sam-altman-s-p-valuation-11757654921137.html) (Published: 2025-09-12)
-- [ASUS Introduces the Most Powerful ProArt P16 Yet With New OLED Display and RTX 5090 GPU](https://fstoppers.com/gear/asus-introduces-most-powerful-proart-p16-yet-new-oled-display-and-rtx-5090-gpu-711392) (Published: 2025-09-12)
-- [Borderlands 4 Is Getting Clobbered On Steam With Negative Reviews](https://www.gamespot.com/articles/borderlands-4-is-getting-clobbered-on-steam-with-negative-reviews/1100-6534683/) (Published: 2025-09-12)
-- [ASUS Announces the Most Powerful ProArt P16 to Date, Featuring the New ASUS Lumina Pro OLED Touchscreen Display and NVIDIA® GeForce RTX™ 5090 Laptop GPU](https://www.globenewswire.com/news-release/2025/09/12/3149054/0/en/ASUS-Announces-the-Most-Powerful-ProArt-P16-to-Date-Featuring-the-New-ASUS-Lumina-Pro-OLED-Touchscreen-Display-and-NVIDIA-GeForce-RTX-5090-Laptop-GPU.html) (Published: 2025-09-12)
-- [NVIDIA (NASDAQ:NVDA) Rating Increased to Buy at DA Davidson](https://www.etfdailynews.com/2025/09/12/nvidia-nasdaqnvda-rating-increased-to-buy-at-da-davidson/) (Published: 2025-09-12)
-- [PS6 Specs Rumor Estimates 34-40 TFlops, 6-12x RT Performance Uplift from PS5](https://wccftech.com/ps6-specs-rumor-34-40-tflops-6-12-rt-performance-uplift/) (Published: 2025-09-12)
