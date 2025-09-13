@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 08:42:58**_
+_Last updated: **2025-09-13 08:53:50**_
 
+- [Data centers gobble Earth’s resources. What if we took them to space instead?](https://grist.org/climate-energy/data-centers-gobble-earths-resources-what-if-we-took-them-to-space-instead/) (Published: 2025-09-12)
 - [Satellite imaging, inclusive AI, and privacy-preserving tech win at Ant Group’s global competition](http://technode.com/2025/09/12/satellite-imaging-inclusive-ai-and-privacy-preserving-tech-win-at-ant-groups-global-competition/) (Published: 2025-09-12)
 - [Borderlands 4 Dev Gearbox Asks PC Gamers to Keep Playing for at Least 15 Minutes After They Tweak Settings to See How Performance Has Changed, as Negative Steam Reviews Pile Up](https://www.ign.com/articles/borderlands-4-dev-gearbox-asks-pc-gamers-to-keep-playing-for-at-least-15-minutes-after-they-tweak-settings-to-see-how-performance-has-changed-as-negative-steam-reviews-pile-up) (Published: 2025-09-12)
 - [ASUS Announces the Most Powerful ProArt P16 to Date, Featuring the New ASUS Lumina Pro OLED Touchscreen Display and NVIDIA® GeForce RTX™ 5090 Laptop GPU](https://financialpost.com/globe-newswire/asus-announces-the-most-powerful-proart-p16-to-date-featuring-the-new-asus-lumina-pro-oled-touchscreen-display-and-nvidia-geforce-rtx-5090-laptop-gpu) (Published: 2025-09-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-13 08:42:58**_
 - [ASUS Announces the Most Powerful ProArt P16 to Date, Featuring the New ASUS Lumina Pro OLED Touchscreen Display and NVIDIA® GeForce RTX™ 5090 Laptop GPU](https://www.globenewswire.com/news-release/2025/09/12/3149054/0/en/ASUS-Announces-the-Most-Powerful-ProArt-P16-to-Date-Featuring-the-New-ASUS-Lumina-Pro-OLED-Touchscreen-Display-and-NVIDIA-GeForce-RTX-5090-Laptop-GPU.html) (Published: 2025-09-12)
 - [NVIDIA (NASDAQ:NVDA) Rating Increased to Buy at DA Davidson](https://www.etfdailynews.com/2025/09/12/nvidia-nasdaqnvda-rating-increased-to-buy-at-da-davidson/) (Published: 2025-09-12)
 - [PS6 Specs Rumor Estimates 34-40 TFlops, 6-12x RT Performance Uplift from PS5](https://wccftech.com/ps6-specs-rumor-34-40-tflops-6-12-rt-performance-uplift/) (Published: 2025-09-12)
-- [Best Geekom mini PC ever? Geekom A9 Max review with AMD Ryzen AI 9 HX 370 for $999](https://www.notebookcheck.net/Best-Geekom-mini-PC-ever-Geekom-A9-Max-review-with-AMD-Ryzen-AI-9-HX-370-for-999.1111882.0.html) (Published: 2025-09-12)
