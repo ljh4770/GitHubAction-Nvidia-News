@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 18:45:20**_
+_Last updated: **2025-09-13 18:56:01**_
 
 - [Export restrictions force Galax to build cutdown RTX 5090D V2 HoF — gaming performance is, fortunately, nearly identical to original 5090D HoF](https://www.tomshardware.com/pc-components/gpus/export-restrictions-force-galax-to-build-cutdown-rtx-5090d-v2-hof-gaming-performance-is-fortunately-nearly-identical-to-original-5090d-hof) (Published: 2025-09-12)
 - [Asus ProArt P16 Laptop Has High-End PC Power and MacBook Style](https://petapixel.com/2025/09/12/asus-proart-p16-laptop-has-high-end-pc-power-and-macbook-style/) (Published: 2025-09-12)
