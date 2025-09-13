@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 19:35:14**_
+_Last updated: **2025-09-13 19:45:34**_
 
+- [Nvidia-Backed SK hynix Soars As HBM4 Hits Production Ready](https://finance.yahoo.com/news/nvidia-backed-sk-hynix-soars-194446817.html) (Published: 2025-09-12)
+- [Elon Musk ‘Endorses’ AMD’s AI Hardware for Small to Medium AI Models, Implying That There’s Potential to Ease Reliance on NVIDIA](https://wccftech.com/elon-musk-endorses-amd-for-small-to-medium-ai-models/) (Published: 2025-09-12)
 - [Wall Street’s future hinges on a risky bet about what the American economy will do next](https://fortune.com/2025/09/12/wall-streets-markets-us-stocks-american-economy-interest-rates-inflation/) (Published: 2025-09-12)
 - [This GeForce RTX 4090 Mod Upgrades VRAM To 48GB To Become An AI GPU](https://hothardware.com/news/geforce-rtx-4090-48gb-vram-mod) (Published: 2025-09-12)
 - [Trump and his 'good man' Albanese have more in common than you think](https://www.abc.net.au/news/2025-09-13/donald-trump-anthony-albanese-common/105756898) (Published: 2025-09-12)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-13 19:35:14**_
 - [Export restrictions force Galax to build cutdown RTX 5090D V2 HoF — gaming performance is, fortunately, nearly identical to original 5090D HoF](https://www.tomshardware.com/pc-components/gpus/export-restrictions-force-galax-to-build-cutdown-rtx-5090d-v2-hof-gaming-performance-is-fortunately-nearly-identical-to-original-5090d-hof) (Published: 2025-09-12)
 - [Asus ProArt P16 Laptop Has High-End PC Power and MacBook Style](https://petapixel.com/2025/09/12/asus-proart-p16-laptop-has-high-end-pc-power-and-macbook-style/) (Published: 2025-09-12)
 - [Nvidia steps back from DGX Cloud — stops trying to compete with AWS and Azure](https://www.tomshardware.com/tech-industry/nvidia-steps-back-from-dgx-cloud) (Published: 2025-09-12)
-- [Supermicro Is Shipping New Nvidia Products. Should You Buy SMCI Stock Here?](https://biztoc.com/x/0285a930b24d4e2e) (Published: 2025-09-12)
-- [Gigabyte Says Aorus RTX 5060 Ti AI Box eGPU With Thunderbolt 5 Nearly Matches Desktop GPU](https://hothardware.com/news/gigabytes-aorus-rtx-5060-ti-ai-egpu-nearly-matches-desktop-gpu) (Published: 2025-09-12)
