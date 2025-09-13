@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 17:40:04**_
+_Last updated: **2025-09-13 17:50:39**_
 
+- [Gigabyte Says Aorus RTX 5060 Ti AI Box eGPU With Thunderbolt 5 Nearly Matches Desktop GPU](https://hothardware.com/news/gigabytes-aorus-rtx-5060-ti-ai-egpu-nearly-matches-desktop-gpu) (Published: 2025-09-12)
 - [The Asus TUF GeForce RTX 5070 12GB Graphics Card Drops to $549 (Better Than the Asus Prime)](https://www.ign.com/articles/asus-tuf-geforce-rtx-5070-12gb-graphics-card-deal) (Published: 2025-09-12)
 - [HP ZBook Fury G1i 18 Review: Blackwell GPU Muscle, Power Efficiency Discipline](https://www.storagereview.com/review/hp-zbook-fury-g1i-18-inch-mobile-workstation-pc) (Published: 2025-09-12)
 - [Up Over 1,200% in the Past Year, Is Oklo Stock the Next Nvidia?](https://biztoc.com/x/6fb525898c7c63c8) (Published: 2025-09-12)
@@ -9,4 +10,3 @@ _Last updated: **2025-09-13 17:40:04**_
 - [OpenAI, Nvidia to announce data center investments in the UK: Report](https://biztoc.com/x/b073c4aed6d4dd27) (Published: 2025-09-12)
 - [Chinese tech giants Alibaba, Baidu move away from Nvidia chips: Report](https://biztoc.com/x/812151902975f174) (Published: 2025-09-12)
 - [‘Time to Jump Back In,’ Says Gil Luria About Nvidia Stock](https://biztoc.com/x/617c30664a87e8ac) (Published: 2025-09-12)
-- [Save Nearly $1,000 Off Lenovo's Legion Pro 5 Gaming Laptop with OLED Display and RTX 5070 GPU](https://www.ign.com/articles/lenovo-legion-5-pro-rtx-5070-gaming-laptop-deal) (Published: 2025-09-12)
