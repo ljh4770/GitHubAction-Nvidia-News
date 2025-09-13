@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 16:50:14**_
+_Last updated: **2025-09-13 17:00:52**_
 
 - [US stock market today on track for weekly gains: Nasdaq, S&P hit fresh records as Dow dips; Fed rate cut seen as done deal](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-on-track-for-weekly-gains-nasdaq-sp-hit-fresh-records-as-dow-dips-fed-rate-cut-seen-as-done-deal/articleshow/123856157.cms) (Published: 2025-09-12)
 - [OpenAI, Nvidia to announce data center investments in the UK: Report](https://biztoc.com/x/b073c4aed6d4dd27) (Published: 2025-09-12)
