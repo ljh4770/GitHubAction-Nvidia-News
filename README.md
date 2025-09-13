@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-13 02:53:46**_
+_Last updated: **2025-09-13 03:18:13**_
 
+- [Alibaba’s Shares Soar After Investors Buy Into Big AI Moves](https://www.livemint.com/companies/news/alibabas-shares-soar-after-investors-buy-into-big-ai-moves-11757646624491.html) (Published: 2025-09-12)
 - [Malaysia reins in data centre growth, complicating China's AI chip access](https://economictimes.indiatimes.com/tech/artificial-intelligence/malaysia-reins-in-data-centre-growth-complicating-chinas-ai-chip-access/articleshow/123841816.cms) (Published: 2025-09-12)
 - [OpenAI, Nvidia CEOs to Announce UK Data Center Investments](https://finance.yahoo.com/news/openai-nvidia-ceos-announce-uk-024155303.html) (Published: 2025-09-12)
 - [Oracle nears $1 trillion market cap milestone. So, who all own the cloud giant?](https://economictimes.indiatimes.com/markets/stocks/news/oracle-nears-1-trillion-market-cap-milestone-so-who-all-own-the-cloud-giant/articleshow/123841546.cms) (Published: 2025-09-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-13 02:53:46**_
 - [Nvidia weighs microchannel lid cooling in race to tame next-gen GPU power](https://www.digitimes.com/news/a20250912PD215/nvidia-rubin-cooling-design.html) (Published: 2025-09-12)
 - [Oracle's blockbuster surge shows AI trade's growing influence on market](https://economictimes.indiatimes.com/tech/technology/oracles-blockbuster-surge-shows-ai-trades-growing-influence-on-market/articleshow/123841032.cms) (Published: 2025-09-12)
 - [OpenAI, Nvidia set to announce UK data center investments, Bloomberg News reports](https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-nvidia-set-to-announce-uk-data-center-investments-bloomberg-news-reports/articleshow/123841019.cms) (Published: 2025-09-12)
-- [McKinsey Breaks Down 13 Tech Trends For The Year Ahead](https://www.forbes.com/sites/johnwerner/2025/09/11/mckinsey-breaks-down-13-tech-trends-for-the-year-ahead/) (Published: 2025-09-12)
