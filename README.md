@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 07:47:37**_
+_Last updated: **2025-09-14 07:58:05**_
 
 - [NVIDIA Corporation $NVDA Shares Sold by Appaloosa LP](https://www.etfdailynews.com/2025/09/13/nvidia-corporation-nvda-shares-sold-by-appaloosa-lp/) (Published: 2025-09-13)
 - [NVIDIA Corporation $NVDA is Adage Capital Partners GP L.L.C.’s 3rd Largest Position](https://www.etfdailynews.com/2025/09/13/nvidia-corporation-nvda-is-adage-capital-partners-gp-l-l-c-s-3rd-largest-position/) (Published: 2025-09-13)
