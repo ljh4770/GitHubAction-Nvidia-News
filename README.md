@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 19:08:23**_
+_Last updated: **2025-09-14 19:21:05**_
 
 - [Four Reasons Why Gamers Pick The RTX 5070 Over RX 9070 Despite Having Less VRAM (And Slightly Slower Raster Performance)](https://wccftech.com/reasons-why-gamers-choose-rtx-5070-over-rx-9070/) (Published: 2025-09-13)
 - [Podcast #836 – Intel & AMD CPU News, NVIDIA GPU Marketshare, Sapphire B850, SK hynix and Samsung SSD Reviews, Ubisoft kills games + MORE!](https://pcper.com/2025/09/podcast-836/) (Published: 2025-09-13)
