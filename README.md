@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 23:49:17**_
+_Last updated: **2025-09-14 23:59:28**_
 
 - [Powerful Lenovo Legion Tower 7i Gen 10 with RTX 5080 gets a huge $1,700 discount](https://www.notebookcheck.net/Powerful-Lenovo-Legion-Tower-7i-Gen-10-with-RTX-5080-gets-a-huge-1-700-discount.1113666.0.html) (Published: 2025-09-13)
 - [China starts probes targeting US semiconductor sector](https://www.bostonherald.com/2025/09/13/china-starts-probes-targeting-us-semiconductor-sector/) (Published: 2025-09-13)
