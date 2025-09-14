@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 17:24:07**_
+_Last updated: **2025-09-14 17:35:23**_
 
 - [What Does 'Ti' Actually Mean On An Nvidia Graphics Card?](https://www.bgr.com/1964309/what-nvidia-gpu-graphics-card-ti-means/) (Published: 2025-09-13)
 - [The GeForce RTX 5080 And 5090 Founders Edition Removed From NVIDIA's Store In Some Regions](https://hothardware.com/news/rtx-5080-and-5090-founders-edition-removed-from-nvidias-store) (Published: 2025-09-13)
