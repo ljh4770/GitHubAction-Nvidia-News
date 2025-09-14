@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 16:51:25**_
+_Last updated: **2025-09-14 17:07:22**_
 
+- [Randy Pitchford Addresses Borderlands 4 Console FOV Slider Complaints: 'There's Some Dreams I Have Where an FOV Setting Might Affect Fairness'](https://www.ign.com/articles/randy-pitchford-addresses-borderlands-4-console-fov-slider-complaints-theres-some-dreams-i-have-where-an-fov-setting-might-affect-fairness) (Published: 2025-09-13)
 - [Nvidia Being Thrown Out Of China](https://biztoc.com/x/5664f850b7a0301e) (Published: 2025-09-13)
 - [Borderlands 4 PC Performance Benchmarks: The Best-Looking Borderlands To Date, But Also The Most Demanding To Run](https://wccftech.com/borderlands-4-pc-performance-benchmarks-best-looking-borderlands-to-date-but-also-the-most-heaviest-to-run/) (Published: 2025-09-13)
 - [Stocks Reach Highs On Oracle And Fed Expectations](https://www.forbes.com/sites/bill_stone/2025/09/13/stocks-reach-highs-on-oracle-and-fed-expectations/) (Published: 2025-09-13)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-14 16:51:25**_
 - [Former CIA Officer Unveils Trump’s $2.2 Trillion “Golden Dome” Strategy](https://www.globenewswire.com/news-release/2025/09/13/3149499/0/en/Former-CIA-Officer-Unveils-Trump-s-2-2-Trillion-Golden-Dome-Strategy.html) (Published: 2025-09-13)
 - [Business Is Booming for Many Tech Giants. They're Laying Workers Off Anyway.](https://www.investopedia.com/business-is-booming-for-many-tech-giants-they-re-laying-workers-off-anyway-oracle-11807131) (Published: 2025-09-13)
 - [If You'd Invested $10,000 in Navitas Semiconductor Stock 4 Years Ago, Here's How Much You'd Have Today](https://biztoc.com/x/28a4c101985bfb2a) (Published: 2025-09-13)
-- [BW Gestao de Investimentos Ltda. Has $412,000 Stock Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/13/bw-gestao-de-investimentos-ltda-has-412000-stock-position-in-nvidia-corporation-nvda/) (Published: 2025-09-13)
