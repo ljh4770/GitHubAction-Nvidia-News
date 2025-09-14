@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 18:42:00**_
+_Last updated: **2025-09-14 18:52:20**_
 
 - [Rubin CPX May Be The Secret Sauce Behind NVIDIA’s Next-Gen GeForce RTX 6090](https://hothardware.com/news/rubin-cpx-may-be-the-geforce-rtx-6090) (Published: 2025-09-13)
 - [Borderlands 4 launch marred by PC performance issues despite strong initial sales](https://techpinions.com/borderlands-4-launch-marred-by-pc-performance-issues-despite-strong-initial-sales/) (Published: 2025-09-13)
