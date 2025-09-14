@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 05:41:55**_
+_Last updated: **2025-09-14 05:52:30**_
 
+- [BlackRock to invest $700 million in UK data centres during Trump visit, Sky News reports](https://www.channelnewsasia.com/business/blackrock-invest-700-million-in-uk-data-centres-during-trump-visit-sky-news-reports-5347716) (Published: 2025-09-13)
 - [BlackRock to invest £500m in UK data centres during Trump visit](https://news.sky.com/story/blackrock-to-invest-500m-in-uk-data-centres-during-trump-visit-13429741) (Published: 2025-09-13)
 - [Oracle’s share price surge suggests the AI trade still has momentum](https://www.irishtimes.com/your-money/2025/09/13/oracles-share-price-surge-suggests-the-ai-trade-still-has-momentum/) (Published: 2025-09-13)
 - [Wall Street coasts to the finish of its best week in the last 5](https://economictimes.indiatimes.com/markets/stocks/news/wall-street-coasts-to-the-finish-of-its-best-week-in-the-last-5/articleshow/123863060.cms) (Published: 2025-09-13)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-14 05:41:55**_
 - [Ondo Finance Surges 20% Weekly Amid Hype and Growing DeFi Demand](http://www.newsbtc.com/news/ondo-finance-surges-20-weekly-amid-hype-and-growing-defi-demand/) (Published: 2025-09-13)
 - [Borderlands 4 Publisher Denies Rumors About Spyware In The Game](https://www.gamespot.com/articles/borderlands-4-publisher-denies-rumors-about-spyware-in-the-game/1100-6534721/) (Published: 2025-09-13)
 - [Oracle Stock: Now Is the Time to Sell Some Shares](https://biztoc.com/x/2680e8f51ee5cc3c) (Published: 2025-09-13)
-- [US stock market today: Nasdaq and S&P set records, Dow dips as Wall Street locks weekly gain with Fed rate cut in focus](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-nasdaq-and-sp-set-records-dow-dips-as-wall-street-locks-weekly-gain-with-fed-rate-cut-in-focus/articleshow/123862190.cms) (Published: 2025-09-13)
