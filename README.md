@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 08:43:10**_
+_Last updated: **2025-09-14 08:53:22**_
 
 - [AlTi Global Inc. Has $8.61 Million Stock Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/13/alti-global-inc-has-8-61-million-stock-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-13)
 - [Alexis Investment Partners LLC Grows Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/13/alexis-investment-partners-llc-grows-position-in-nvidia-corporation-nvda/) (Published: 2025-09-13)
