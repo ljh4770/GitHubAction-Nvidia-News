@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 06:40:49**_
+_Last updated: **2025-09-14 06:51:28**_
 
 - [Why NDQ ETF and these ASX ETFs could be strong buys](https://www.fool.com.au/2025/09/13/why-ndq-etf-and-these-asx-etfs-could-be-strong-buys/) (Published: 2025-09-13)
 - [BlackRock to invest $700 million in UK data centres during Trump visit, Sky News reports](https://www.channelnewsasia.com/business/blackrock-invest-700-million-in-uk-data-centres-during-trump-visit-sky-news-reports-5347716) (Published: 2025-09-13)
