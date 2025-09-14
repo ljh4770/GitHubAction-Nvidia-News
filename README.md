@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 07:58:05**_
+_Last updated: **2025-09-14 08:28:55**_
 
+- [Advisors Asset Management Inc. Sells 24,345 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/13/advisors-asset-management-inc-sells-24345-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-13)
+- [Altimeter Capital Management LP Has $774.97 Million Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/13/altimeter-capital-management-lp-has-774-97-million-position-in-nvidia-corporation-nvda/) (Published: 2025-09-13)
+- [American Trust Investment Advisors LLC Has $281,000 Stock Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/13/american-trust-investment-advisors-llc-has-281000-stock-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-13)
+- [NVIDIA Corporation $NVDA Shares Acquired by Amundi](https://www.etfdailynews.com/2025/09/13/nvidia-corporation-nvda-shares-acquired-by-amundi/) (Published: 2025-09-13)
+- [nvfuser-cu128 0.2.33.dev20250913](https://pypi.org/project/nvfuser-cu128/0.2.33.dev20250913/) (Published: 2025-09-13)
+- [nvfuser-cu126 0.2.33.dev20250913](https://pypi.org/project/nvfuser-cu126/0.2.33.dev20250913/) (Published: 2025-09-13)
+- [nvfuser-cu129 0.2.33.dev20250913](https://pypi.org/project/nvfuser-cu129/0.2.33.dev20250913/) (Published: 2025-09-13)
 - [NVIDIA Corporation $NVDA Shares Sold by Appaloosa LP](https://www.etfdailynews.com/2025/09/13/nvidia-corporation-nvda-shares-sold-by-appaloosa-lp/) (Published: 2025-09-13)
 - [NVIDIA Corporation $NVDA is Adage Capital Partners GP L.L.C.’s 3rd Largest Position](https://www.etfdailynews.com/2025/09/13/nvidia-corporation-nvda-is-adage-capital-partners-gp-l-l-c-s-3rd-largest-position/) (Published: 2025-09-13)
 - [Show HN: AudioMuse-AI Sonic Analysis](https://github.com/NeptuneHub/AudioMuse-AI) (Published: 2025-09-13)
-- [Top Infrastructure Stocks To Keep An Eye On – September 11th](https://www.etfdailynews.com/2025/09/13/top-infrastructure-stocks-to-keep-an-eye-on-september-11th/) (Published: 2025-09-13)
-- [Top Automotive Stocks Worth Watching – September 10th](https://www.etfdailynews.com/2025/09/13/top-automotive-stocks-worth-watching-september-10th/) (Published: 2025-09-13)
-- [Why NDQ ETF and these ASX ETFs could be strong buys](https://www.fool.com.au/2025/09/13/why-ndq-etf-and-these-asx-etfs-could-be-strong-buys/) (Published: 2025-09-13)
-- [BlackRock to invest $700 million in UK data centres during Trump visit, Sky News reports](https://www.channelnewsasia.com/business/blackrock-invest-700-million-in-uk-data-centres-during-trump-visit-sky-news-reports-5347716) (Published: 2025-09-13)
-- [BlackRock to invest £500m in UK data centres during Trump visit](https://news.sky.com/story/blackrock-to-invest-500m-in-uk-data-centres-during-trump-visit-13429741) (Published: 2025-09-13)
-- [Oracle’s share price surge suggests the AI trade still has momentum](https://www.irishtimes.com/your-money/2025/09/13/oracles-share-price-surge-suggests-the-ai-trade-still-has-momentum/) (Published: 2025-09-13)
