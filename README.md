@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 16:40:44**_
+_Last updated: **2025-09-14 16:51:25**_
 
 - [Nvidia Being Thrown Out Of China](https://biztoc.com/x/5664f850b7a0301e) (Published: 2025-09-13)
 - [Borderlands 4 PC Performance Benchmarks: The Best-Looking Borderlands To Date, But Also The Most Demanding To Run](https://wccftech.com/borderlands-4-pc-performance-benchmarks-best-looking-borderlands-to-date-but-also-the-most-heaviest-to-run/) (Published: 2025-09-13)
