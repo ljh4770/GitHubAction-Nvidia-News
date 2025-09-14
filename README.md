@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 05:31:35**_
+_Last updated: **2025-09-14 05:41:55**_
 
 - [BlackRock to invest £500m in UK data centres during Trump visit](https://news.sky.com/story/blackrock-to-invest-500m-in-uk-data-centres-during-trump-visit-13429741) (Published: 2025-09-13)
 - [Oracle’s share price surge suggests the AI trade still has momentum](https://www.irishtimes.com/your-money/2025/09/13/oracles-share-price-surge-suggests-the-ai-trade-still-has-momentum/) (Published: 2025-09-13)
