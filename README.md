@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 09:39:44**_
+_Last updated: **2025-09-14 09:50:25**_
 
 - [NVIDIA Corporation $NVDA Shares Purchased by AQR Capital Management LLC](https://www.etfdailynews.com/2025/09/13/nvidia-corporation-nvda-shares-purchased-by-aqr-capital-management-llc/) (Published: 2025-09-13)
 - [AlTi Global Inc. Has $8.61 Million Stock Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/13/alti-global-inc-has-8-61-million-stock-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-13)
