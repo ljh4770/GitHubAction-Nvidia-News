@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 11:39:15**_
+_Last updated: **2025-09-14 11:49:55**_
 
 - [Bring back your old Mac: 5 ways to refresh the OS on elderly Apples](https://www.theregister.com/2025/09/13/refresh_an_old_mac/) (Published: 2025-09-13)
 - [Redditor fishes a fully-functional Core i5-9400F and GTX 1660 PC gaming rig out of the trash](https://www.tomshardware.com/desktops/pc-building/redditor-fishes-a-fully-functional-core-i5-9400f-and-gtx-1660-pc-gaming-rig-out-of-the-trash) (Published: 2025-09-13)
