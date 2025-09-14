@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 18:52:20**_
+_Last updated: **2025-09-14 19:08:23**_
 
+- [Four Reasons Why Gamers Pick The RTX 5070 Over RX 9070 Despite Having Less VRAM (And Slightly Slower Raster Performance)](https://wccftech.com/reasons-why-gamers-choose-rtx-5070-over-rx-9070/) (Published: 2025-09-13)
+- [Podcast #836 – Intel & AMD CPU News, NVIDIA GPU Marketshare, Sapphire B850, SK hynix and Samsung SSD Reviews, Ubisoft kills games + MORE!](https://pcper.com/2025/09/podcast-836/) (Published: 2025-09-13)
 - [Rubin CPX May Be The Secret Sauce Behind NVIDIA’s Next-Gen GeForce RTX 6090](https://hothardware.com/news/rubin-cpx-may-be-the-geforce-rtx-6090) (Published: 2025-09-13)
 - [Borderlands 4 launch marred by PC performance issues despite strong initial sales](https://techpinions.com/borderlands-4-launch-marred-by-pc-performance-issues-despite-strong-initial-sales/) (Published: 2025-09-13)
 - [Oracle's Larry Ellison Just Delivered Fantastic News for Nvidia Investors](https://biztoc.com/x/3b6e0e322379ce5f) (Published: 2025-09-13)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-14 18:52:20**_
 - [Randy Pitchford Addresses Borderlands 4 Console FOV Slider Complaints: 'There's Some Dreams I Have Where an FOV Setting Might Affect Fairness'](https://www.ign.com/articles/randy-pitchford-addresses-borderlands-4-console-fov-slider-complaints-theres-some-dreams-i-have-where-an-fov-setting-might-affect-fairness) (Published: 2025-09-13)
 - [Nvidia Being Thrown Out Of China](https://biztoc.com/x/5664f850b7a0301e) (Published: 2025-09-13)
 - [Borderlands 4 PC Performance Benchmarks: The Best-Looking Borderlands To Date, But Also The Most Demanding To Run](https://wccftech.com/borderlands-4-pc-performance-benchmarks-best-looking-borderlands-to-date-but-also-the-most-heaviest-to-run/) (Published: 2025-09-13)
-- [Stocks Reach Highs On Oracle And Fed Expectations](https://www.forbes.com/sites/bill_stone/2025/09/13/stocks-reach-highs-on-oracle-and-fed-expectations/) (Published: 2025-09-13)
-- [(S&D) MSI 34" Curved Gaming Monitor | UWQHD 3440x1440 | 240Hz OLED Refurbished; Open Box $514.09 (1 replies)](https://slickdeals.net/f/18602845-s-d-msi-34-curved-gaming-monitor-uwqhd-3440x1440-240hz-oled-refurbished-open-box-514-09) (Published: 2025-09-13)
