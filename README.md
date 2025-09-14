@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 03:38:28**_
+_Last updated: **2025-09-14 03:51:44**_
 
+- [Wall Street coasts to the finish of its best week in the last 5](https://economictimes.indiatimes.com/markets/stocks/news/wall-street-coasts-to-the-finish-of-its-best-week-in-the-last-5/articleshow/123863060.cms) (Published: 2025-09-13)
 - [Money Wise: Be Wary Of Your Overseas Equity Investments](https://www.ndtvprofit.com/personal-finance/money-wise-be-wary-of-your-overseas-equity-investments) (Published: 2025-09-13)
 - [Wall Street coasts to the finish of its best week in the last five](https://www.channelnewsasia.com/business/wall-street-us-federal-reserve-interest-rate-5347601) (Published: 2025-09-13)
 - [Top tech and startup stories this week](https://economictimes.indiatimes.com/tech/newsletters/ettech-unwrapped/top-tech-and-startup-stories-this-week/articleshow/123862343.cms) (Published: 2025-09-13)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-14 03:38:28**_
 - [US stock market today: Nasdaq and S&P set records, Dow dips as Wall Street locks weekly gain with Fed rate cut in focus](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-nasdaq-and-sp-set-records-dow-dips-as-wall-street-locks-weekly-gain-with-fed-rate-cut-in-focus/articleshow/123862190.cms) (Published: 2025-09-13)
 - [Show HN: Flo Is a Rust/Vulkan 3D Renderer for the Bevy Game Engine](https://github.com/wkwan/flo) (Published: 2025-09-13)
 - [What Oracle didn’t foresee? Techies’ millions in a moment](https://economictimes.indiatimes.com/tech/technology/what-oracle-didnt-foresee-techies-millions-in-a-moment/articleshow/123857763.cms) (Published: 2025-09-13)
-- [Intel Loses Another Prominent Linux Engineer - Now Going To NVIDIA](https://www.phoronix.com/news/Colin-King-Leaving-Intel) (Published: 2025-09-13)
