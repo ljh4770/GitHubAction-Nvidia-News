@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 21:08:29**_
+_Last updated: **2025-09-14 21:24:09**_
 
 - [AMD's RDNA4 GPU Architecture at Hot Chips 2025](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot) (Published: 2025-09-13)
 - [Trump’s 2020 CIA Director Pick Reveals the “Brain, Body, and Backbone” of Manhattan 2 Project](https://www.globenewswire.com/news-release/2025/09/13/3149516/0/en/Trump-s-2020-CIA-Director-Pick-Reveals-the-Brain-Body-and-Backbone-of-Manhattan-2-Project.html) (Published: 2025-09-13)
