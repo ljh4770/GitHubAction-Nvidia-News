@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-14 21:24:09**_
+_Last updated: **2025-09-14 21:35:42**_
 
 - [AMD's RDNA4 GPU Architecture at Hot Chips 2025](https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot) (Published: 2025-09-13)
 - [Trump’s 2020 CIA Director Pick Reveals the “Brain, Body, and Backbone” of Manhattan 2 Project](https://www.globenewswire.com/news-release/2025/09/13/3149516/0/en/Trump-s-2020-CIA-Director-Pick-Reveals-the-Brain-Body-and-Backbone-of-Manhattan-2-Project.html) (Published: 2025-09-13)
@@ -10,4 +10,3 @@ _Last updated: **2025-09-14 21:24:09**_
 - [Acer Predator Helios Neo 16: 16" QHD+ IPS 240Hz, Intel Ultra 9 275HX, RTX 5070 Ti, 32GB DDR5, 1TB SSD $1599.99 (1 replies)](https://slickdeals.net/f/18603100-acer-predator-helios-neo-16-16-qhd-ips-240hz-intel-ultra-9-275hx-rtx-5070-ti-32gb-ddr5-1tb-ssd-1599-99) (Published: 2025-09-13)
 - [Four Reasons Why Gamers Pick The RTX 5070 Over RX 9070 Despite Having Less VRAM (And Slightly Slower Raster Performance)](https://wccftech.com/reasons-why-gamers-choose-rtx-5070-over-rx-9070/) (Published: 2025-09-13)
 - [Podcast #836 – Intel & AMD CPU News, NVIDIA GPU Marketshare, Sapphire B850, SK hynix and Samsung SSD Reviews, Ubisoft kills games + MORE!](https://pcper.com/2025/09/podcast-836/) (Published: 2025-09-13)
-- [Rubin CPX May Be The Secret Sauce Behind NVIDIA’s Next-Gen GeForce RTX 6090](https://hothardware.com/news/rubin-cpx-may-be-the-geforce-rtx-6090) (Published: 2025-09-13)
