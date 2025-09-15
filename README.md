@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-15 13:55:46**_
+_Last updated: **2025-09-15 14:19:59**_
 
+- [I tested the Samsung S85F and it's a great, feature-packed OLED TV at a more affordable price](https://www.techradar.com/televisions/samsung-s85f-review) (Published: 2025-09-14)
+- [HP Victus 15 (2025)](https://uk.pcmag.com/laptops/160069/hp-victus-15-2025) (Published: 2025-09-14)
+- [HP Victus 15 (2025)](https://me.pcmag.com/en/laptops/32238/hp-victus-15-2025) (Published: 2025-09-14)
 - [Nvidia rumored to ditch its first-gen custom memory form factor for newer version — SOCAMM1 for faster ‘SOCAMM2’ standard](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-rumored-to-ditch-socamm1-for-socamm2) (Published: 2025-09-14)
 - [One of the biggest competitive FPS games on the planet now has a limited-edition desktop PC, and I have it on my desk](https://www.windowscentral.com/hardware/hp/hp-omen-35l-valorant-limited-edition-hands-on) (Published: 2025-09-14)
 - [The Order of Giants DLC Is Unfortunately a Bit of a Disappointment](https://wccftech.com/the-order-of-giants-dlc-is-a-bit-of-a-disappointment/) (Published: 2025-09-14)
@@ -8,6 +11,3 @@ _Last updated: **2025-09-15 13:55:46**_
 - [Are NVIDIA Shares Still Worth the Price After UK Datacenter Investment News?](https://finance.yahoo.com/news/nvidia-shares-still-worth-price-122551220.html) (Published: 2025-09-14)
 - [NVIDIA and OpenAI CEOs accompanying President Trump's UK state visit — major AI projects on the agenda](https://www.windowscentral.com/artificial-intelligence/nvidia-and-openai-ceos-accompanying-president-trumps-uk-state-visit-major-ai-projects-on-the-agenda) (Published: 2025-09-14)
 - [How Hard Will Nvidia Stock Get Hit If There is an AI Bubble Burst?](https://biztoc.com/x/7e55305dbd1996da) (Published: 2025-09-14)
-- [4 reasons a SATA SSD still belongs in your gaming rig](https://www.xda-developers.com/reasons-a-sata-ssd-still-belongs-in-your-gaming-rig/) (Published: 2025-09-14)
-- [Client 1ST Advisory Group LLC Boosts Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/14/client-1st-advisory-group-llc-boosts-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-14)
-- [UBS AM A Distinct Business Unit of UBS Asset Management Americas LLC Grows Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/14/ubs-am-a-distinct-business-unit-of-ubs-asset-management-americas-llc-grows-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-14)
