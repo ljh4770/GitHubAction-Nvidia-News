@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-15 22:48:22**_
+_Last updated: **2025-09-15 22:58:39**_
 
 - [Randy Pitchford defends Borderlands 4 performance, suggests refunds for PCs that can't run "premium game"](https://www.notebookcheck.net/Randy-Pitchford-defends-Borderlands-4-performance-suggests-refunds-for-PCs-that-can-t-run-premium-game.1114412.0.html) (Published: 2025-09-14)
 - [easy-podcast added to PyPI](https://pypi.org/project/easy-podcast/) (Published: 2025-09-14)
