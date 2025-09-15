@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-15 09:51:02**_
+_Last updated: **2025-09-15 10:10:58**_
 
 - [Cyberport may use Chinese GPUs at Hong Kong supercomputing hub to cut reliance on Nvidia](https://finance.yahoo.com/news/cyberport-may-chinese-gpus-hong-093000621.html) (Published: 2025-09-14)
 - [A $40 billion ETF manager says it's time for investors to look beyond the Magnificent 7](https://www.businessinsider.com/magnificent-7-stocks-investing-advice-tech-diversify-paceretfs-stock-market-2025-9) (Published: 2025-09-14)
