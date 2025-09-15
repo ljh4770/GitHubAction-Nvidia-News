@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-15 04:30:52**_
+_Last updated: **2025-09-15 04:46:07**_
 
 - [No, NVIDIA RTX 50 Founders Edition GPUs Have Not Been Discontinued or EOL’d, All FE Cards In Production](https://wccftech.com/nvidia-rtx-50-founders-edition-gpus-not-discontinued-or-eol-all-fe-cards-in-production/) (Published: 2025-09-14)
 - [UK, US to sign multibillion-dollar tech deal during Trump's visit](https://www.thehindubusinessline.com/news/world/uk-us-to-sign-multibillion-dollar-tech-deal-during-trumps-visit/article70048205.ece) (Published: 2025-09-14)
