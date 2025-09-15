@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-15 23:32:30**_
+_Last updated: **2025-09-15 23:43:14**_
 
 - [US-UK Nuclear Pact to Precede Tech, Whisky Deals on Trump Visit](https://financialpost.com/pmn/business-pmn/us-uk-nuclear-pact-to-precede-tech-whisky-deals-on-trump-visit) (Published: 2025-09-14)
 - [UK and US to announce tech, energy deals during Trump visit](https://www.yahoo.com/news/articles/uk-us-announce-tech-energy-230604172.html) (Published: 2025-09-14)
