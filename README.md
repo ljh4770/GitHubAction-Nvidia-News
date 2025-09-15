@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-15 05:38:15**_
+_Last updated: **2025-09-15 05:48:57**_
 
+- [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html) (Published: 2025-09-14)
 - [Promising Automotive Stocks Worth Watching – September 12th](https://www.etfdailynews.com/2025/09/14/promising-automotive-stocks-worth-watching-september-12th/) (Published: 2025-09-14)
 - [No, NVIDIA RTX 50 Founders Edition GPUs Have Not Been Discontinued or EOL’d, All FE Cards In Production](https://wccftech.com/nvidia-rtx-50-founders-edition-gpus-not-discontinued-or-eol-all-fe-cards-in-production/) (Published: 2025-09-14)
 - [UK, US to sign multibillion-dollar tech deal during Trump's visit](https://www.thehindubusinessline.com/news/world/uk-us-to-sign-multibillion-dollar-tech-deal-during-trumps-visit/article70048205.ece) (Published: 2025-09-14)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-15 05:38:15**_
 - [Beijing Tsinghua professor warns China must cut AI reliance on Nvidia](https://www.digitimes.com/news/a20250912PD237/nvidia-asia-chairman-tsinghua-university-training.html) (Published: 2025-09-14)
 - [Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron](https://blogs.nvidia.com/blog/uk-llm-nemotron/) (Published: 2025-09-14)
 - [Wall Street Turns Bullish on NVIDIA (NVDA) as AI Compute Drives Growth](https://finance.yahoo.com/news/wall-street-turns-bullish-nvidia-001416750.html) (Published: 2025-09-14)
-- [Powerful Lenovo Legion Tower 7i Gen 10 with RTX 5080 gets a huge $1,700 discount](https://www.notebookcheck.net/Powerful-Lenovo-Legion-Tower-7i-Gen-10-with-RTX-5080-gets-a-huge-1-700-discount.1113666.0.html) (Published: 2025-09-13)
