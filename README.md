@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-15 13:31:44**_
+_Last updated: **2025-09-15 13:45:11**_
 
 - [One of the biggest competitive FPS games on the planet now has a limited-edition desktop PC, and I have it on my desk](https://www.windowscentral.com/hardware/hp/hp-omen-35l-valorant-limited-edition-hands-on) (Published: 2025-09-14)
 - [The Order of Giants DLC Is Unfortunately a Bit of a Disappointment](https://wccftech.com/the-order-of-giants-dlc-is-a-bit-of-a-disappointment/) (Published: 2025-09-14)
