@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-15 13:45:11**_
+_Last updated: **2025-09-15 13:55:46**_
 
+- [Nvidia rumored to ditch its first-gen custom memory form factor for newer version — SOCAMM1 for faster ‘SOCAMM2’ standard](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-rumored-to-ditch-socamm1-for-socamm2) (Published: 2025-09-14)
 - [One of the biggest competitive FPS games on the planet now has a limited-edition desktop PC, and I have it on my desk](https://www.windowscentral.com/hardware/hp/hp-omen-35l-valorant-limited-edition-hands-on) (Published: 2025-09-14)
 - [The Order of Giants DLC Is Unfortunately a Bit of a Disappointment](https://wccftech.com/the-order-of-giants-dlc-is-a-bit-of-a-disappointment/) (Published: 2025-09-14)
 - [US Stock Market prediction: S&P 500, Dow Jones, Nasdaq to trade cautiously on Monday? Top stocks to watch out on September 15](https://economictimes.indiatimes.com/news/international/us/us-stock-market-prediction-sp-500-dow-jones-nasdaq-to-trade-cautiously-on-monday-top-stocks-to-watch-out-on-september-15/articleshow/123882437.cms) (Published: 2025-09-14)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-15 13:45:11**_
 - [4 reasons a SATA SSD still belongs in your gaming rig](https://www.xda-developers.com/reasons-a-sata-ssd-still-belongs-in-your-gaming-rig/) (Published: 2025-09-14)
 - [Client 1ST Advisory Group LLC Boosts Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/14/client-1st-advisory-group-llc-boosts-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-14)
 - [UBS AM A Distinct Business Unit of UBS Asset Management Americas LLC Grows Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/14/ubs-am-a-distinct-business-unit-of-ubs-asset-management-americas-llc-grows-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-14)
-- [Security National Bank of Sioux City Iowa IA Cuts Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/14/security-national-bank-of-sioux-city-iowa-ia-cuts-position-in-nvidia-corporation-nvda/) (Published: 2025-09-14)
