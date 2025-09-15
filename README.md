@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-15 10:34:40**_
+_Last updated: **2025-09-15 10:47:05**_
 
 - [Client 1ST Advisory Group LLC Boosts Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/14/client-1st-advisory-group-llc-boosts-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-14)
 - [UBS AM A Distinct Business Unit of UBS Asset Management Americas LLC Grows Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/14/ubs-am-a-distinct-business-unit-of-ubs-asset-management-americas-llc-grows-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-14)
