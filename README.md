@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-15 03:58:43**_
+_Last updated: **2025-09-15 04:30:52**_
 
+- [No, NVIDIA RTX 50 Founders Edition GPUs Have Not Been Discontinued or EOL’d, All FE Cards In Production](https://wccftech.com/nvidia-rtx-50-founders-edition-gpus-not-discontinued-or-eol-all-fe-cards-in-production/) (Published: 2025-09-14)
 - [UK, US to sign multibillion-dollar tech deal during Trump's visit](https://www.thehindubusinessline.com/news/world/uk-us-to-sign-multibillion-dollar-tech-deal-during-trumps-visit/article70048205.ece) (Published: 2025-09-14)
 - [Goldman Sachs Warns An AI Slowdown Can Tank The Stock Market By 20%](https://www.benzinga.com/personal-finance/management/25/09/47657777/goldman-sachs-warns-an-ai-slowdown-can-tank-the-stock-market-by-20) (Published: 2025-09-14)
 - [Dave & Buster's (PLAY) Q2 Earnings: What To Expect](https://finance.yahoo.com/news/dave-busters-play-q2-earnings-030056656.html) (Published: 2025-09-14)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-15 03:58:43**_
 - [Wall Street Turns Bullish on NVIDIA (NVDA) as AI Compute Drives Growth](https://finance.yahoo.com/news/wall-street-turns-bullish-nvidia-001416750.html) (Published: 2025-09-14)
 - [Powerful Lenovo Legion Tower 7i Gen 10 with RTX 5080 gets a huge $1,700 discount](https://www.notebookcheck.net/Powerful-Lenovo-Legion-Tower-7i-Gen-10-with-RTX-5080-gets-a-huge-1-700-discount.1113666.0.html) (Published: 2025-09-13)
 - [China starts probes targeting US semiconductor sector](https://www.bostonherald.com/2025/09/13/china-starts-probes-targeting-us-semiconductor-sector/) (Published: 2025-09-13)
-- [UK, US to sign multibillion-dollar tech deal during Trump's visit](https://www.channelnewsasia.com/business/uk-us-sign-multibillion-dollar-tech-deal-during-trumps-visit-5348401) (Published: 2025-09-13)
