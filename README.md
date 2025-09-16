@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-16 08:42:14**_
+_Last updated: **2025-09-16 08:55:26**_
 
+- [China says preliminary probe shows Nvidia violated anti-monopoly law](https://www.channelnewsasia.com/east-asia/china-nvidia-violated-anti-monopoly-law-preliminary-probe-5349816) (Published: 2025-09-15)
+- [China says Nvidia violated antitrust law](https://biztoc.com/x/ac12d2d40d652aba) (Published: 2025-09-15)
+- [Nvidia shares drop after China regulatory body rules it broke antitrust rules](https://biztoc.com/x/acab5791f9718968) (Published: 2025-09-15)
+- [Borderlands 4 Update 'To Help Improve Stability for a Wide Range of PCs' Released — but There Are No Patch Notes](https://www.ign.com/articles/borderlands-4-update-to-help-improve-stability-for-a-wide-range-of-pcs-released-but-there-are-no-patch-notes) (Published: 2025-09-15)
+- [How to grow your ASX share portfolio without picking stocks](https://www.fool.com.au/2025/09/15/how-to-grow-your-asx-share-portfolio-without-picking-stocks/) (Published: 2025-09-15)
+- [China says Nvidia violated anti-monopoly law](https://www.nbcnews.com/world/china/china-says-nvidia-violated-anti-monopoly-law-rcna231291) (Published: 2025-09-15)
 - [China finds that US chip giant Nvidia violated anti-monopoly law](https://biztoc.com/x/e3768a73cb7dbf51) (Published: 2025-09-15)
 - [China says Nvidia was found in violation of antitrust regulations in a preliminary investigation, in a brief statement without further details](https://biztoc.com/x/44f614210aa4d70d) (Published: 2025-09-15)
 - [U.S. and China resume Madrid trade talks as TikTok deadline looms](https://www.cnbc.com/2025/09/15/us-and-china-resume-madrid-trade-talks-as-tiktok-deadline-looms.html) (Published: 2025-09-15)
 - [China says Nvidia violated anti-monopoly law as probe to continue](https://www.cnbc.com/2025/09/15/china-nvidia-violated-anti-monopoly-law-will-continue-investigation.html) (Published: 2025-09-15)
-- [China says Nvidia violated anti-monopoly law as probe continues](https://biztoc.com/x/d54cd01d7b871f85) (Published: 2025-09-15)
-- [China says preliminary probe shows Nvidia violated anti-monopoly law](https://economictimes.indiatimes.com/tech/technology/china-says-preliminary-probe-shows-nvidia-violated-anti-monopoly-law/articleshow/123896479.cms) (Published: 2025-09-15)
-- [NVIDIA Moves to SOCAMM2, Phases Out Initial SOCAMM Design](https://www.madshrimps.be/news/nvidia-moves-to-socamm2-phases-out-initial-socamm-design/) (Published: 2025-09-15)
-- [China Finds Nvidia Violated Antitrust Law After Initial Probe](https://biztoc.com/x/43e6c8483e3f57c9) (Published: 2025-09-15)
-- [In latest trade warning to US, China says Nvidia violated anti-monopoly law](https://www.yahoo.com/news/articles/china-says-nvidia-violated-anti-081319059.html) (Published: 2025-09-15)
-- [China Finds Nvidia Violated Antitrust Law After Initial Probe](https://finance.yahoo.com/news/china-finds-nvidia-violated-antitrust-081147850.html) (Published: 2025-09-15)
