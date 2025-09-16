@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-16 17:18:30**_
+_Last updated: **2025-09-16 17:33:29**_
 
+- [(PR) FinalWire Releases AIDA64 Extreme v8.00](https://www.techpowerup.com/341024/finalwire-releases-aida64-extreme-v8-00) (Published: 2025-09-15)
+- [Wheat Holding Gains at Midday](https://biztoc.com/x/ef7c102bc0ac246f) (Published: 2025-09-15)
+- [WATCH LIVE: LIRR unions provide update on possible strike - News 12](https://biztoc.com/x/3149760a27a35f40) (Published: 2025-09-15)
+- [Soybeans Pull Off Morning Lows with Robust NOPA Data](https://biztoc.com/x/14ee05d7bb8fb0f0) (Published: 2025-09-15)
+- [Cattle Rallying to Begin the Week](https://biztoc.com/x/bfe6150c16860712) (Published: 2025-09-15)
+- [Verisure Said to Eye €3 Billion Swedish IPO as Soon as This Week](https://biztoc.com/x/8a3d05206888ddcd) (Published: 2025-09-15)
+- [European stock close near three-week high](https://www.irishtimes.com/business/markets/2025/09/15/european-stock-close-near-three-week-high/) (Published: 2025-09-15)
+- [I tested Acer's $299 smart monitor, and it's a tariff-smart option I can get behind](https://www.zdnet.com/education/computers-tech/i-tested-acers-299-smart-monitor-and-its-a-tariff-smart-option-i-can-get-behind/) (Published: 2025-09-15)
+- [Google Surpasses $3 Trillion Valuation Following Antitrust Win](https://www.iphoneincanada.ca/2025/09/15/google-3-trillion-valuation-ai-surge/) (Published: 2025-09-15)
 - [Traders Are Snapping Up Bullish Bets on Tesla](https://biztoc.com/x/aa5baed3f1534d82) (Published: 2025-09-15)
-- [Raymond James Team With $600 Million Join Firm Led by Former Wells Fargo Execs](https://biztoc.com/x/8c030a3c56eb9f5f) (Published: 2025-09-15)
-- [Tyson Foods Is Dropping High-Fructose Corn Syrup](https://biztoc.com/x/e51da103d271c4e1) (Published: 2025-09-15)
-- [AI's promise is sky-high — and so is the pressure to deliver](https://biztoc.com/x/9e7556049d7249a9) (Published: 2025-09-15)
-- [Japanese Stocks Are Breaking Out. Own Them](https://biztoc.com/x/6852043dbc762abe) (Published: 2025-09-15)
-- [Silver’s Rally Is the Biggest In Years. There’s More to Come](https://biztoc.com/x/d39cb71020814749) (Published: 2025-09-15)
-- [Long Dated Munis Turn Around, Enjoy Best Month Since 2023](https://biztoc.com/x/e1ad46fac135e74a) (Published: 2025-09-15)
-- [Tech, Media & Telecom Roundup: Market Talk](https://biztoc.com/x/6c97301278c357f8) (Published: 2025-09-15)
-- [Non-US Banks’ Cash Buffer Drops, Revealing Dwindling Reserves](https://biztoc.com/x/4a4c7297ac355630) (Published: 2025-09-15)
-- [Dyna Robotics Raises $120 Million in Funding From Nvidia, Amazon](https://biztoc.com/x/1bf21645dd9b0dd5) (Published: 2025-09-15)
