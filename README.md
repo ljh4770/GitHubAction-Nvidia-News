@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-16 23:48:09**_
+_Last updated: **2025-09-16 23:58:36**_
 
+- [US-China Madrid talks; TikTok "framework" deal; Nvidia and chips investigations; Wang Yi in Poland; Pre-made meals scandal](https://sinocism.com/p/us-china-madrid-talks-tiktok-framework) (Published: 2025-09-15)
 - [Alphabet soars past $3 trillion valuation, joins Apple and Microsoft club](https://www.thehindubusinessline.com/info-tech/alphabet-soars-past-3-trillion-valuation-joins-apple-and-microsoft-club/article70055258.ece) (Published: 2025-09-15)
 - [Filing: the SEC settles a lawsuit accusing crypto exchange Gemini of failing to register the Gemini Earn lending program before offering it to retail investors](https://biztoc.com/x/5974c42ca7932f64) (Published: 2025-09-15)
 - [Brazil's Prio gets license for Wahoo oil field's subsea pipelines](https://biztoc.com/x/91330f72a311854b) (Published: 2025-09-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-16 23:48:09**_
 - [Why Tesla Investors Are Betting Big on Elon Musk](https://biztoc.com/x/4c886ad8a16721b0) (Published: 2025-09-15)
 - [Activist Funds Ramp Up Japan Bets After Record Bids Last Year](https://biztoc.com/x/17a58de1adb25bbd) (Published: 2025-09-15)
 - [National Bank Holdings Buys Dallas-Based Vista for $369 Million](https://biztoc.com/x/1e7a5f1d4fafc971) (Published: 2025-09-15)
-- [UK’s £150 Billion Funding Gap Needs Private Capital, City Says](https://biztoc.com/x/fad6e50402c80329) (Published: 2025-09-15)
