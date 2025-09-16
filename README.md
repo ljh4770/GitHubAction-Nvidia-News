@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-16 19:16:31**_
+_Last updated: **2025-09-16 19:26:50**_
 
+- [Fueled by AI Hype, Google Becomes Fourth Company to Pass $3 Trillion Market Cap](https://gizmodo.com/fueled-by-ai-hype-google-becomes-fourth-company-to-pass-3-trillion-market-cap-2000658927) (Published: 2025-09-15)
+- [CyberLink PowerDirector Ultimate 2026 v24.0.0910.1](https://post.rlsbb.to/cyberlink-powerdirector-ultimate-2026-v24-0-0910-1/) (Published: 2025-09-15)
+- [The acquisition at the heart of China's Nvidia probe, and Palo Alto joins a 'best ideas' list](https://biztoc.com/x/f4e7cbd408d8b890) (Published: 2025-09-15)
+- [Fired CDC Head to Say RFK Jr. Put Political Oversight on Policy](https://biztoc.com/x/4925971c87e0870a) (Published: 2025-09-15)
+- [Stocks hit fresh record highs, dollar weakens as markets position for Fed move](https://biztoc.com/x/37eb59c8175e1424) (Published: 2025-09-15)
+- [NVDA vs PLTR: Which Stock Should You Buy in September 2025?](https://biztoc.com/x/e44bfa00e64a2175) (Published: 2025-09-15)
+- [Alphabet Hits $3 Trillion Valuation. What to Do With the Stock Now](https://biztoc.com/x/8084508f49da9ca1) (Published: 2025-09-15)
+- [With New Venture Fund, Robinhood Aims to Give Retail Investors Access to Private Investments](https://biztoc.com/x/3a97e956cda9ed26) (Published: 2025-09-15)
 - [Walmart is emerging as an AI powerhouse with one big advantage](https://www.businessinsider.com/why-walmart-is-emerging-as-an-ai-powerhouse-2025-9) (Published: 2025-09-15)
 - [Trump Says TikTok Deal Has Been Reached but China Is Less Committal](https://petapixel.com/2025/09/15/trump-says-tiktok-deal-has-been-reached-but-china-is-less-committal/) (Published: 2025-09-15)
-- [MAGIX VEGAS Pro 23.0.0.278](https://post.rlsbb.to/magix-vegas-pro-23-0-0-278/) (Published: 2025-09-15)
-- [Google parent company Alphabet valued at $3 trillion for first time](https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:250915-99-37961/) (Published: 2025-09-15)
-- [China Says Nvidia Broke Monopoly Laws. What It Means for the Chip Maker](https://biztoc.com/x/8c2db878667aad37) (Published: 2025-09-15)
-- [Former St. Louis Fed chief Bullard confirms talks for Fed chair role](https://biztoc.com/x/2ea19ff292a118fb) (Published: 2025-09-15)
-- [Corn, Soybean Markets See ‘Sell the Rumor, Buy the Fact’ on USDA Data](https://biztoc.com/x/70f2bc8b9317cfda) (Published: 2025-09-15)
-- [HHS, CDC appoint five new members to US vaccine panel](https://biztoc.com/x/a6ae6e55c3469a51) (Published: 2025-09-15)
-- [Google Parent Alphabet Becomes $3T Company Amid AI Enthusiasm](http://www.pymnts.com/google/2025/google-parent-alphabet-becomes-3-trillion-dollar-company-amid-ai-enthusiasm/) (Published: 2025-09-15)
-- [Stocks rise towards more records, helped by Elon Musk’s purchase of $1 billion worth of Tesla shares](https://fortune.com/2025/09/15/stock-market-today-dow-sp500-nasdaq-record-high-tesla-shares-elon-musk/) (Published: 2025-09-15)
