@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-16 04:36:54**_
+_Last updated: **2025-09-16 04:47:38**_
 
 - [US, China reach framework deal on TikTok; Trump and Xi to speak on Friday](https://ca.finance.yahoo.com/news/us-china-talks-madrid-trade-043511366.html) (Published: 2025-09-15)
 - [Trump’s Love of UK Royalty Is Starmer’s Best Hope of Making Ties Special Again](https://financialpost.com/pmn/business-pmn/trumps-love-of-uk-royalty-is-starmers-best-hope-of-making-ties-special-again) (Published: 2025-09-15)
