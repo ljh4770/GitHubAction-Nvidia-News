@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-16 08:16:35**_
+_Last updated: **2025-09-16 08:42:14**_
 
+- [China finds that US chip giant Nvidia violated anti-monopoly law](https://biztoc.com/x/e3768a73cb7dbf51) (Published: 2025-09-15)
+- [China says Nvidia was found in violation of antitrust regulations in a preliminary investigation, in a brief statement without further details](https://biztoc.com/x/44f614210aa4d70d) (Published: 2025-09-15)
+- [U.S. and China resume Madrid trade talks as TikTok deadline looms](https://www.cnbc.com/2025/09/15/us-and-china-resume-madrid-trade-talks-as-tiktok-deadline-looms.html) (Published: 2025-09-15)
+- [China says Nvidia violated anti-monopoly law as probe to continue](https://www.cnbc.com/2025/09/15/china-nvidia-violated-anti-monopoly-law-will-continue-investigation.html) (Published: 2025-09-15)
+- [China says Nvidia violated anti-monopoly law as probe continues](https://biztoc.com/x/d54cd01d7b871f85) (Published: 2025-09-15)
+- [China says preliminary probe shows Nvidia violated anti-monopoly law](https://economictimes.indiatimes.com/tech/technology/china-says-preliminary-probe-shows-nvidia-violated-anti-monopoly-law/articleshow/123896479.cms) (Published: 2025-09-15)
+- [NVIDIA Moves to SOCAMM2, Phases Out Initial SOCAMM Design](https://www.madshrimps.be/news/nvidia-moves-to-socamm2-phases-out-initial-socamm-design/) (Published: 2025-09-15)
+- [China Finds Nvidia Violated Antitrust Law After Initial Probe](https://biztoc.com/x/43e6c8483e3f57c9) (Published: 2025-09-15)
 - [In latest trade warning to US, China says Nvidia violated anti-monopoly law](https://www.yahoo.com/news/articles/china-says-nvidia-violated-anti-081319059.html) (Published: 2025-09-15)
 - [China Finds Nvidia Violated Antitrust Law After Initial Probe](https://finance.yahoo.com/news/china-finds-nvidia-violated-antitrust-081147850.html) (Published: 2025-09-15)
-- [Data Center Solutions Market Global Forecast Report 2025-2030 | Modular Solutions, Liquid Cooling, and Energy Efficiency Drive Next-Gen Infrastructure Growth](https://www.globenewswire.com/news-release/2025/09/15/3149708/28124/en/Data-Center-Solutions-Market-Global-Forecast-Report-2025-2030-Modular-Solutions-Liquid-Cooling-and-Energy-Efficiency-Drive-Next-Gen-Infrastructure-Growth.html) (Published: 2025-09-15)
-- [Prompt Economy Recalculates Basic Math of Commerce](http://www.pymnts.com/artificial-intelligence-2/2025/prompt-economy-recalculates-basic-math-of-commerce/) (Published: 2025-09-15)
-- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Warner Bros, Super Micro, Nvidia, Tesla, More Movers; Fed Rate-Cut Hopes](https://biztoc.com/x/a45d847979d97808) (Published: 2025-09-15)
-- [WBI Investments LLC Grows Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/15/wbi-investments-llc-grows-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-15)
-- [McAdam LLC Buys 2,615 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/15/mcadam-llc-buys-2615-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-15)
-- [China targets CoWoP leapfrog as Taiwan holds tech edge](https://www.digitimes.com/news/a20250915PD216/pcb-taiwan-market-nvidia-packaging.html) (Published: 2025-09-15)
-- [RE: MD5 is too fast](https://seclists.org/nanog/2025/Sep/163) (Published: 2025-09-15)
-- [Top Infrastructure Stocks To Follow Today – September 13th](https://www.etfdailynews.com/2025/09/15/top-infrastructure-stocks-to-follow-today-september-13th/) (Published: 2025-09-15)
