@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-17 11:21:05**_
+_Last updated: **2025-09-17 11:32:17**_
 
 - [Nvidia's China-exclusive RTX 6000D reportedly gets lukewarm reception in China due to hobbled performance — could leave Nvidia with huge backlog of unwanted GPUs](https://www.tomshardware.com/pc-components/gpus/nvidias-china-exclusive-rtx-6000d-reportedly-gets-lukewarm-reception-in-china-due-to-hobbled-performance-could-leave-nvidia-with-huge-backlog-of-unwanted-gpus) (Published: 2025-09-16)
 - [MediaTek Tapes Out Flagship SoC Using TSMC’s 2nm Process, Mass Production & Availability By End of 2026](https://wccftech.com/mediatek-tapes-out-flagship-soc-tsmc-2nm-process-production-availability-end-2026/) (Published: 2025-09-16)
