@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-17 13:35:13**_
+_Last updated: **2025-09-17 13:47:11**_
 
+- [AVGO Stock vs. NVDA & INTC](https://www.forbes.com/sites/greatspeculations/2025/09/16/avgo-stock-vs-nvda--intc/) (Published: 2025-09-16)
 - [China Market Update: Alibaba Shines On As Trade Talks Continue](https://www.forbes.com/sites/brendanahern/2025/09/16/china-market-update-alibaba-shines-on-as-trade-talks-continue/) (Published: 2025-09-16)
 - [SK Telecom hooks up with OpenAI](https://www.telecomtv.com/content/telcos-and-ai-channel/sk-telecom-hooks-up-with-openai-53857/) (Published: 2025-09-16)
 - [How to Stop China’s AI Chip Smuggling](http://foreignpolicy.com/2025/09/16/china-ai-smuggling-trump-southeast-asia/) (Published: 2025-09-16)
@@ -9,5 +10,4 @@ _Last updated: **2025-09-17 13:35:13**_
 - [Dreame Technology Revolutionizes Home Cleaning with the Aqua10 Ultra Roller — the World’s First AquaRoll™ Mopping Robot Vacuum](https://financialpost.com/pmn/business-wire-news-releases-pmn/dreame-technology-revolutionizes-home-cleaning-with-the-aqua10-ultra-roller-the-worlds-first-aquaroll-mopping-robot-vacuum) (Published: 2025-09-16)
 - [NVIDIA Corporation $NVDA Stock Position Lifted by Invst LLC](https://www.etfdailynews.com/2025/09/16/nvidia-corporation-nvda-stock-position-lifted-by-invst-llc/) (Published: 2025-09-16)
 - [Howe & Rusling Inc. Acquires 3,996 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/16/howe-rusling-inc-acquires-3996-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-16)
-- [NVIDIA Corporation $NVDA Shares Sold by Voya Investment Management LLC](https://www.etfdailynews.com/2025/09/16/nvidia-corporation-nvda-shares-sold-by-voya-investment-management-llc/) (Published: 2025-09-16)
 - [Compass Financial Services Inc Sells 104 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/16/compass-financial-services-inc-sells-104-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-16)
