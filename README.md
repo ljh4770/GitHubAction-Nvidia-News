@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-17 11:32:17**_
+_Last updated: **2025-09-17 11:42:42**_
 
+- [Nvidia Stock Slips. Reasons to Look Past China Worries](https://biztoc.com/x/4682d039d2ce98fe) (Published: 2025-09-16)
 - [Nvidia's China-exclusive RTX 6000D reportedly gets lukewarm reception in China due to hobbled performance — could leave Nvidia with huge backlog of unwanted GPUs](https://www.tomshardware.com/pc-components/gpus/nvidias-china-exclusive-rtx-6000d-reportedly-gets-lukewarm-reception-in-china-due-to-hobbled-performance-could-leave-nvidia-with-huge-backlog-of-unwanted-gpus) (Published: 2025-09-16)
 - [MediaTek Tapes Out Flagship SoC Using TSMC’s 2nm Process, Mass Production & Availability By End of 2026](https://wccftech.com/mediatek-tapes-out-flagship-soc-tsmc-2nm-process-production-availability-end-2026/) (Published: 2025-09-16)
 - [CoreWeave remains a top pick at Citi after new Nvidia order](https://thefly.com/permalinks/entry.php/id4198491/CRWV;NVDA-CoreWeave-remains-a-top-pick-at-Citi-after-new-Nvidia-order) (Published: 2025-09-16)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-17 11:32:17**_
 - [Alienware 16 Area-51 Review: Part Desktop, Part Laptop and a Whole Lotta Lights](https://www.cnet.com/tech/computing/alienware-16-area-51-review-part-desktop-part-laptop-and-a-whole-lotta-lights/) (Published: 2025-09-16)
 - [Jim Cramer Wonders Whether “Intel Crushed” Synopsys, Inc. (SNPS)](https://finance.yahoo.com/news/jim-cramer-wonders-whether-intel-105127640.html) (Published: 2025-09-16)
 - [Advanced Micro Devices, Inc. (AMD)’s “Doing A Great Job,” Says Jim Cramer](https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-104903542.html) (Published: 2025-09-16)
-- [US Federal Reserve’s September 2025 meeting begins today with a half-point rate cut on the horizon — will Jerome Powell signal a policy shift and what it means for the economy, markets, and mortgage rates](https://economictimes.indiatimes.com/news/international/us/us-federal-reserves-september-2025-meeting-begins-today-with-a-half-point-rate-cut-on-the-horizon-will-jerome-powell-signal-a-policy-shift-and-what-it-means-for-the-economy-markets-and-mortgage-rates/articleshow/123920544.cms) (Published: 2025-09-16)
