@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-17 08:53:53**_
+_Last updated: **2025-09-17 09:16:53**_
 
-- [New Computer for Black Friday](https://www.bleepingcomputer.com/forums/t/803567/new-computer-for-black-friday/) (Published: 2025-09-16)
-- [Trump flies in for a UK state visit where trade and tech talks mix with royal pomp](https://abcnews.go.com/International/wireStory/trump-flies-uk-state-visit-trade-tech-talks-125610612) (Published: 2025-09-16)
-- [Brembo, SGL joint venture boosts brake disc output in Italy, Germany](https://biztoc.com/x/cb82531ae790a9d6) (Published: 2025-09-16)
-- [New Thai PM Anutin Finalizes Cabinet Lineup to Form Government](https://biztoc.com/x/b84b50f86a36aada) (Published: 2025-09-16)
-- [Chinese Yuan Hits 10-Month High Against Dollar on U.S. Trade Optimism](https://biztoc.com/x/338c2fd2c4bde834) (Published: 2025-09-16)
-- [South Africa grants long-term leases to oil majors at key Durban fuel hub](https://biztoc.com/x/605527b95a2fb4f3) (Published: 2025-09-16)
-- [Are humanoid robots really tech’s next big thing?](https://www.techmonitor.ai/hardware/humanoid-robots-hype-reality/) (Published: 2025-09-16)
-- [NVIDIA Corporation $NVDA Stock Holdings Raised by Swedbank AB](https://www.etfdailynews.com/2025/09/16/nvidia-corporation-nvda-stock-holdings-raised-by-swedbank-ab/) (Published: 2025-09-16)
-- [Majority of BOK board members back future policy easing given growth headwinds, minutes show](https://biztoc.com/x/b0936d1bee181c79) (Published: 2025-09-16)
-- [UK Retirees Face Paying Tax With State Pension Set to Rise 4.7%](https://biztoc.com/x/b8dfa0f2f2f09f6e) (Published: 2025-09-16)
+- [Ford to cut up 1,000 jobs at Germany's Cologne e-car plant](https://biztoc.com/x/e0df17b36558d8ba) (Published: 2025-09-16)
+- [Bosch to Deepen Cost Cuts as Supplier Grapples With Soft Demand](https://biztoc.com/x/fbcaa0dc2642bc3a) (Published: 2025-09-16)
+- [Databricks takes stake in Indicium, marking first investment in Latin American startup](https://biztoc.com/x/cb8e22a78cd844e3) (Published: 2025-09-16)
+- [What CEOs think about the SEC ‘prioritizing’ Trump’s plan to end quarterly reporting for public companies](https://fortune.com/2025/09/16/ceos-sec-prioritizing-trump-quarterly-reporting/) (Published: 2025-09-16)
+- [Fed Rate Decision, Retail Sales, Trump's U.K. Visit: What to Watch This Week](https://biztoc.com/x/4bba2f1de84ac470) (Published: 2025-09-16)
+- [Global Markets Mixed Ahead of Federal Reserve Meeting](https://biztoc.com/x/470e4b1c27acb3f7) (Published: 2025-09-16)
+- [Retail Sales: Growth Likely Slowed in August](https://biztoc.com/x/b4c7854df9713219) (Published: 2025-09-16)
+- [Gold Climbs to Record High as U.S. Rate-Cut Hopes Pressure Dollar](https://biztoc.com/x/506bc13a0e48ddd0) (Published: 2025-09-16)
+- [Heard on the Street Monday Recap: Google’s Finally Clicking](https://biztoc.com/x/7afdca2cdb072380) (Published: 2025-09-16)
