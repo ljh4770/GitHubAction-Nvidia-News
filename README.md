@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-17 21:24:09**_
+_Last updated: **2025-09-17 21:36:04**_
 
-- [Dell clears out XPS lineup with savings up to $650 — Top XPS 13, 14, and 16 models discounted](https://www.windowscentral.com/hardware/dell/dell-xps-clearance-sale-limited-time) (Published: 2025-09-16)
-- [Trump Shifts TikTok Deadline Again, Skirting a Ban as Talks Drag On](https://www.cnet.com/news/social-media/trump-shifts-tiktok-deadline-again-skirting-a-ban-as-talks-drag-on/) (Published: 2025-09-16)
-- [Just Released: Warp 1.9](https://github.com/NVIDIA/warp/releases/tag/v1.9.0#new_tab) (Published: 2025-09-16)
-- [US Stocks Slip From Records As Fed Decision Looms](https://www.ibtimes.com/us-stocks-slip-records-fed-decision-looms-3783552) (Published: 2025-09-16)
-- [Big Chip Players Line Up For TSMC N2 Process But Intel Sits Out, Suggesting 18A Confidence](https://hothardware.com/news/big-chip-players-tsmc-n2-intel-sits-out) (Published: 2025-09-16)
-- [Trump arrives in Britain for second state visit](https://www.channelnewsasia.com/world/trump-arrives-in-britain-second-state-visit-5352841) (Published: 2025-09-16)
-- [NVIDIA GeForce RTX 5070 12GB & 5080 16GB Founder's Edition GPU $549](https://slickdeals.net/f/18609772-nvidia-geforce-rtx-5070-12gb-5080-16gb-founder-s-edition-gpu-549) (Published: 2025-09-16)
-- [This legendary game series just made its big return after 15 long years — but I'm sorry to say there's bad news for Steam players](https://www.windowscentral.com/gaming/this-legendary-game-series-just-made-its-big-return-after-15-long-years-but-im-sorry-to-say-theres-bad-news-for-steam-players) (Published: 2025-09-16)
-- [CrowdStrike Ushers In The Agentic Era Of Cybersecurity](https://www.forbes.com/sites/tonybradley/2025/09/16/crowdstrike-ushers-in-the-agentic-era-of-cybersecurity/) (Published: 2025-09-16)
+- [UK and US agree $42 billion tech pact to mark Trump's visit](https://finance.yahoo.com/news/uk-us-agree-42-billion-213452213.html) (Published: 2025-09-16)
+- [UK and US agree $42 billion tech pact to mark Trump's visit](https://www.channelnewsasia.com/business/uk-and-us-agree-42-billion-tech-pact-mark-trumps-visit-5352911) (Published: 2025-09-16)
+- [NVIDIA and United Kingdom Build Nation’s AI Infrastructure and Ecosystem to Fuel Innovation, Economic Growth and Jobs](https://www.globenewswire.com/news-release/2025/09/16/3151294/0/en/NVIDIA-and-United-Kingdom-Build-Nation-s-AI-Infrastructure-and-Ecosystem-to-Fuel-Innovation-Economic-Growth-and-Jobs.html) (Published: 2025-09-16)
+- [NVIDIA and United Kingdom Build Nation’s AI Infrastructure and Ecosystem to Fuel Innovation, Economic Growth and Jobs](https://nvidianews.nvidia.com/news/nvidia-and-united-kingdom-build-nations-ai-infrastructure-and-ecosystem-to-fuel-innovation-economic-growth-and-jobs) (Published: 2025-09-16)
+- [Dyna Robotics, which is building an AI foundation model for robotics, raised a $120M Series A led by Robostrategy, CRV, and First Round Capital](https://biztoc.com/x/e491779e9c11010d) (Published: 2025-09-16)
+- [The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More](https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/) (Published: 2025-09-16)
+- [Nvidia announces massive UK investment, including tens of thousands of AI GPUs](https://finance.yahoo.com/news/nvidia-announces-massive-uk-investment-including-tens-of-thousands-of-ai-gpus-213015553.html) (Published: 2025-09-16)
+- [US-UK pact will boost advances in drug discovery, create tens of thousands of jobs and transform lives](https://www.gov.uk/government/news/us-uk-pact-will-boost-advances-in-drug-discovery-create-tens-of-thousands-of-jobs-and-transform-lives) (Published: 2025-09-16)
+- [North East England set for billions in investment and thousands of jobs as UK and US ink tech partnership](https://www.gov.uk/government/news/north-east-england-set-for-billions-in-investment-and-thousands-of-jobs-as-uk-and-us-ink-tech-partnership) (Published: 2025-09-16)
