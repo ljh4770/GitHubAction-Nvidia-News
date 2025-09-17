@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-17 10:49:17**_
+_Last updated: **2025-09-17 11:00:05**_
 
+- [Jim Cramer Wonders Whether “Intel Crushed” Synopsys, Inc. (SNPS)](https://finance.yahoo.com/news/jim-cramer-wonders-whether-intel-105127640.html) (Published: 2025-09-16)
 - [Advanced Micro Devices, Inc. (AMD)’s “Doing A Great Job,” Says Jim Cramer](https://finance.yahoo.com/news/advanced-micro-devices-inc-amd-104903542.html) (Published: 2025-09-16)
 - [US Federal Reserve’s September 2025 meeting begins today with a half-point rate cut on the horizon — will Jerome Powell signal a policy shift and what it means for the economy, markets, and mortgage rates](https://economictimes.indiatimes.com/news/international/us/us-federal-reserves-september-2025-meeting-begins-today-with-a-half-point-rate-cut-on-the-horizon-will-jerome-powell-signal-a-policy-shift-and-what-it-means-for-the-economy-markets-and-mortgage-rates/articleshow/123920544.cms) (Published: 2025-09-16)
 - [Nvidia's Market Capitalization Surpasses Canada's GDP, As McKinsey Projects $1.7 Trillion AI Data Center Spend By 2030](https://biztoc.com/x/718a240810f1a02b) (Published: 2025-09-16)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-17 10:49:17**_
 - [nvidia-vlmeval 25.8.1](https://pypi.org/project/nvidia-vlmeval/25.8.1/) (Published: 2025-09-16)
 - [nvidia-mmath 25.8.1](https://pypi.org/project/nvidia-mmath/25.8.1/) (Published: 2025-09-16)
 - [Nvidia tipped to be TSMC's first 16A customer, ahead of Apple — Feynman GPUs could make full use of GAA transistors and backside power](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-dethrones-apple-to-debut-tsmc-a16) (Published: 2025-09-16)
-- [nvidia-ifbench 25.8.1](https://pypi.org/project/nvidia-ifbench/25.8.1/) (Published: 2025-09-16)
