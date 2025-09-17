@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-17 11:53:05**_
+_Last updated: **2025-09-17 12:29:00**_
 
-- [China targets Nvidia with anti-monopoly probe amid Madrid trade talks](https://www.notebookcheck.net/China-targets-Nvidia-with-anti-monopoly-probe-amid-Madrid-trade-talks.1115827.0.html) (Published: 2025-09-16)
-- [Forbes Daily: Framework Deal Would End TikTok’s Nine-Month Limbo In U.S.](https://www.forbes.com/sites/daniellechemtob/2025/09/16/forbes-daily-framework-deal-would-end-tiktoks-nine-month-limbo-in-us/) (Published: 2025-09-16)
-- [Nvidia Stock Slips. Reasons to Look Past China Worries](https://biztoc.com/x/4682d039d2ce98fe) (Published: 2025-09-16)
-- [Nvidia's China-exclusive RTX 6000D reportedly gets lukewarm reception in China due to hobbled performance — could leave Nvidia with huge backlog of unwanted GPUs](https://www.tomshardware.com/pc-components/gpus/nvidias-china-exclusive-rtx-6000d-reportedly-gets-lukewarm-reception-in-china-due-to-hobbled-performance-could-leave-nvidia-with-huge-backlog-of-unwanted-gpus) (Published: 2025-09-16)
-- [MediaTek Tapes Out Flagship SoC Using TSMC’s 2nm Process, Mass Production & Availability By End of 2026](https://wccftech.com/mediatek-tapes-out-flagship-soc-tsmc-2nm-process-production-availability-end-2026/) (Published: 2025-09-16)
-- [CoreWeave remains a top pick at Citi after new Nvidia order](https://thefly.com/permalinks/entry.php/id4198491/CRWV;NVDA-CoreWeave-remains-a-top-pick-at-Citi-after-new-Nvidia-order) (Published: 2025-09-16)
-- [The big question: Will Zerodha ever go for an IPO? Nithin Kamath shares his thoughts](https://economictimes.indiatimes.com/markets/ipos/fpos/the-big-question-will-zerodha-ever-go-for-an-ipo-nithin-kamath-shares-his-thoughts/articleshow/123921342.cms) (Published: 2025-09-16)
-- [Desktop GPU roadmap: Nvidia Rubin, AMD UDNA & Intel Xe3 Celestial](https://www.tomshardware.com/pc-components/gpus/desktop-gpu-roadmap-nvidia-rubin-amd-udna-and-intel-xe3-celestial) (Published: 2025-09-16)
-- [Alienware 16 Area-51 Review: An Oddity From Space With Respectable Power](https://www.cnet.com/tech/computing/alienware-16-area-51-review-an-oddity-from-space-with-respectable-power/) (Published: 2025-09-16)
-- [Alienware 16 Area-51 Review: Part Desktop, Part Laptop and a Whole Lotta Lights](https://www.cnet.com/tech/computing/alienware-16-area-51-review-part-desktop-part-laptop-and-a-whole-lotta-lights/) (Published: 2025-09-16)
+- [Bessent Says US Expressed Dismay to Chinese Over Nvidia Ruling](https://biztoc.com/x/1c35503846558829) (Published: 2025-09-16)
+- [Stocks rally on Fed interest rate cut hopes as 'jobless expansion' takes hold](https://qz.com/stock-market-rally-tech-jobs-fed-interest-rates) (Published: 2025-09-16)
+- [IREN Ltd. (IREN) Hits Fresh High as Analyst Turns Bullish](https://finance.yahoo.com/news/iren-ltd-iren-hits-fresh-121831202.html) (Published: 2025-09-16)
+- [NVIDIA’s ‘China-Specific’ RTX 6000D GPUs Are Being Ignored by Domestic Customers as They Don’t Even Keep Up With the GeForce RTX 5090](https://wccftech.com/nvidia-china-specific-rtx-6000d-gpus-are-being-ignored-by-domestic-customers/) (Published: 2025-09-16)
+- [I've been using macOS Tahoe 26 for a month – here are the 5 features you should try first](https://www.techradar.com/computing/mac-os/ive-been-using-macos-tahoe-26-for-a-month-here-are-the-5-features-you-should-try-first) (Published: 2025-09-16)
+- [Borderlands 4 Optimized Settings Boost Performance by 40% Without Major Visual Loss](https://wccftech.com/borderlands-4-optimized-settings-40-performance-imrpovement/) (Published: 2025-09-16)
+- [Treasury Secretary Bessent says Fed has been behind the curve](https://finance.yahoo.com/news/treasury-secretary-bessent-says-fed-120147242.html) (Published: 2025-09-16)
+- [NVIDIA welcomes Data Guardians Network to its Elite Startup Program](https://www.globenewswire.com/news-release/2025/09/16/3150702/0/en/NVIDIA-welcomes-Data-Guardians-Network-to-its-Elite-Startup-Program.html) (Published: 2025-09-16)
+- [TSMC’s 2nm Process Is Expected to Witness Massive Demand, Higher Than 3nm, Leading To a Much Faster Production Ramp-Up](https://wccftech.com/tsmc-2nm-process-is-expected-to-witness-massive-demand/) (Published: 2025-09-16)
