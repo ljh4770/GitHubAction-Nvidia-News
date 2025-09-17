@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-17 12:29:00**_
+_Last updated: **2025-09-17 13:05:57**_
 
-- [Bessent Says US Expressed Dismay to Chinese Over Nvidia Ruling](https://biztoc.com/x/1c35503846558829) (Published: 2025-09-16)
-- [Stocks rally on Fed interest rate cut hopes as 'jobless expansion' takes hold](https://qz.com/stock-market-rally-tech-jobs-fed-interest-rates) (Published: 2025-09-16)
-- [IREN Ltd. (IREN) Hits Fresh High as Analyst Turns Bullish](https://finance.yahoo.com/news/iren-ltd-iren-hits-fresh-121831202.html) (Published: 2025-09-16)
-- [NVIDIA’s ‘China-Specific’ RTX 6000D GPUs Are Being Ignored by Domestic Customers as They Don’t Even Keep Up With the GeForce RTX 5090](https://wccftech.com/nvidia-china-specific-rtx-6000d-gpus-are-being-ignored-by-domestic-customers/) (Published: 2025-09-16)
-- [I've been using macOS Tahoe 26 for a month – here are the 5 features you should try first](https://www.techradar.com/computing/mac-os/ive-been-using-macos-tahoe-26-for-a-month-here-are-the-5-features-you-should-try-first) (Published: 2025-09-16)
-- [Borderlands 4 Optimized Settings Boost Performance by 40% Without Major Visual Loss](https://wccftech.com/borderlands-4-optimized-settings-40-performance-imrpovement/) (Published: 2025-09-16)
-- [Treasury Secretary Bessent says Fed has been behind the curve](https://finance.yahoo.com/news/treasury-secretary-bessent-says-fed-120147242.html) (Published: 2025-09-16)
-- [NVIDIA welcomes Data Guardians Network to its Elite Startup Program](https://www.globenewswire.com/news-release/2025/09/16/3150702/0/en/NVIDIA-welcomes-Data-Guardians-Network-to-its-Elite-Startup-Program.html) (Published: 2025-09-16)
-- [TSMC’s 2nm Process Is Expected to Witness Massive Demand, Higher Than 3nm, Leading To a Much Faster Production Ramp-Up](https://wccftech.com/tsmc-2nm-process-is-expected-to-witness-massive-demand/) (Published: 2025-09-16)
+- [Dreame Technology Revolutionizes Home Cleaning with the Aqua10 Ultra Roller — the World’s First AquaRoll™ Mopping Robot Vacuum](https://financialpost.com/pmn/business-wire-news-releases-pmn/dreame-technology-revolutionizes-home-cleaning-with-the-aqua10-ultra-roller-the-worlds-first-aquaroll-mopping-robot-vacuum) (Published: 2025-09-16)
+- [NVIDIA Corporation $NVDA Stock Position Lifted by Invst LLC](https://www.etfdailynews.com/2025/09/16/nvidia-corporation-nvda-stock-position-lifted-by-invst-llc/) (Published: 2025-09-16)
+- [Howe & Rusling Inc. Acquires 3,996 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/16/howe-rusling-inc-acquires-3996-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-16)
+- [Compass Financial Services Inc Sells 104 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/16/compass-financial-services-inc-sells-104-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-16)
+- [NVIDIA Corporation $NVDA Shares Sold by Voya Investment Management LLC](https://www.etfdailynews.com/2025/09/16/nvidia-corporation-nvda-shares-sold-by-voya-investment-management-llc/) (Published: 2025-09-16)
+- [Nicola Wealth Management LTD. Buys New Shares in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/16/nicola-wealth-management-ltd-buys-new-shares-in-nvidia-corporation-nvda/) (Published: 2025-09-16)
+- [Guinness Asset Management LTD Has $40.37 Million Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/16/guinness-asset-management-ltd-has-40-37-million-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-16)
+- [Cim LLC Acquires 10,874 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/16/cim-llc-acquires-10874-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-16)
+- [Ridgepath Capital Management LLC Lowers Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/16/ridgepath-capital-management-llc-lowers-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-16)
+- [NVIDIA Corporation $NVDA Shares Acquired by First Long Island Investors LLC](https://www.etfdailynews.com/2025/09/16/nvidia-corporation-nvda-shares-acquired-by-first-long-island-investors-llc/) (Published: 2025-09-16)
