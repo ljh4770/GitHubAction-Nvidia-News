@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-16 23:58:36**_
+_Last updated: **2025-09-17 01:54:05**_
 
+- [Trump cannot fire Fed Governor Cook, appeals court rules](https://biztoc.com/x/40a24829dca38de6) (Published: 2025-09-16)
+- [IMF says Vietnam’s 2025 GDP growth to slow to 6.5% on US tariff effects](https://biztoc.com/x/9e84087fbf3fefce) (Published: 2025-09-16)
+- [The Boys & Girls Clubs of America are still benefiting from Nate Bargatze's controversial Emmys bit](https://biztoc.com/x/1561f49d90290f6d) (Published: 2025-09-16)
+- [Nvidia suffers a major blow from China](https://biztoc.com/x/3da103708113832a) (Published: 2025-09-16)
+- [CNBC Daily Open: Surge in most tech lifts the S&P 500 beyond 6,600 level](https://www.cnbc.com/2025/09/16/cnbc-daily-open-surge-in-most-tech-lifts-the-sp-500-beyond-6600-level.html) (Published: 2025-09-16)
+- [Cybersecurity Firm CrowdStrike Says New Integrations Provide Protection Across AI Stack](http://www.pymnts.com/cybersecurity/2025/cybersecurity-firm-crowdstrike-says-new-integrations-provide-protection-across-ai-stack/) (Published: 2025-09-16)
+- [Market Wrap today: Alphabet and Tesla gain while Texas Instruments slips](https://www.thestreet.com/markets/market-wrap-today-alphabet-and-tesla-gain-while-texas-instruments-slips) (Published: 2025-09-16)
+- [I've moved on from Microsoft's Xbox controllers, but this new feature is something I've wanted for years on Windows 11](https://www.techradar.com/computing/windows/ive-moved-on-from-microsofts-xbox-controllers-but-this-new-feature-is-something-ive-wanted-for-years-on-windows-11) (Published: 2025-09-16)
+- [Use the RHEL command-line assistant offline with this new developer preview](https://www.redhat.com/en/blog/use-rhel-command-line-assistant-offline-new-developer-preview) (Published: 2025-09-16)
 - [US-China Madrid talks; TikTok "framework" deal; Nvidia and chips investigations; Wang Yi in Poland; Pre-made meals scandal](https://sinocism.com/p/us-china-madrid-talks-tiktok-framework) (Published: 2025-09-15)
-- [Alphabet soars past $3 trillion valuation, joins Apple and Microsoft club](https://www.thehindubusinessline.com/info-tech/alphabet-soars-past-3-trillion-valuation-joins-apple-and-microsoft-club/article70055258.ece) (Published: 2025-09-15)
-- [Filing: the SEC settles a lawsuit accusing crypto exchange Gemini of failing to register the Gemini Earn lending program before offering it to retail investors](https://biztoc.com/x/5974c42ca7932f64) (Published: 2025-09-15)
-- [Brazil's Prio gets license for Wahoo oil field's subsea pipelines](https://biztoc.com/x/91330f72a311854b) (Published: 2025-09-15)
-- [Australian coal miner New Hope logs 7.7% drop in annual profit](https://biztoc.com/x/7e79b12960b39091) (Published: 2025-09-15)
-- [The 5 Best Dividend Stocks to Buy for Steady Income in 2025](https://biztoc.com/x/cad4a3f855ebbe4a) (Published: 2025-09-15)
-- [Cheap Chinese Coal is Making it Difficult to Reduce Consumption](https://finance.yahoo.com/news/cheap-chinese-coal-making-difficult-233708443.html) (Published: 2025-09-15)
-- [Why Tesla Investors Are Betting Big on Elon Musk](https://biztoc.com/x/4c886ad8a16721b0) (Published: 2025-09-15)
-- [Activist Funds Ramp Up Japan Bets After Record Bids Last Year](https://biztoc.com/x/17a58de1adb25bbd) (Published: 2025-09-15)
-- [National Bank Holdings Buys Dallas-Based Vista for $369 Million](https://biztoc.com/x/1e7a5f1d4fafc971) (Published: 2025-09-15)
