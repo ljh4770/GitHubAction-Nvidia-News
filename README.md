@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-18 15:28:12**_
+_Last updated: **2025-09-18 15:42:09**_
 
+- [Show HN: I did a 4 hour conversational audiobook on the history of data centers](https://www.stepchange.show/p/data-centers-the-hidden-backbone) (Published: 2025-09-17)
+- [ViewSonic launches new portable monitor with compact OLED screen and 90 Hz refresh rate](https://www.notebookcheck.net/ViewSonic-launches-new-portable-monitor-with-compact-OLED-screen-and-90-Hz-refresh-rate.1117046.0.html) (Published: 2025-09-17)
+- [United States AI in Healthcare Market Trends and Competition Report 2025-2033](https://www.globenewswire.com/news-release/2025/09/17/3151864/28124/en/United-States-AI-in-Healthcare-Market-Trends-and-Competition-Report-2025-2033.html) (Published: 2025-09-17)
+- [The 2025 Razer Blade 14 oozes style, but capped configuration options hold it back | Review](https://www.gamesradar.com/hardware/laptops/razer-blade-14-2025-review/) (Published: 2025-09-17)
+- [Immersive Enterprise Laboratories Brings Real-Time Animation To Life At San Diego’s Fleet Science Center](https://www.cartoonbrew.com/events/immersive-enterprise-laboratories-real-time-animation-fleet-science-center-254566.html) (Published: 2025-09-17)
+- [Fed Meeting: Rate-Cut Coming, But Watch Out For These 2 Words (Live Coverage)](https://www.investors.com/news/economy/federal-reserve-meeting-sept-rate-cut-jerome-powell-trump-sp-500/) (Published: 2025-09-17)
+- [China Bans Top Tech Firms From Buying Nvidia Chips, Report Says](https://biztoc.com/x/5509838b924d2638) (Published: 2025-09-17)
+- [Nvidia stock dips as China reportedly tells its companies to avoid buying chips](https://finance.yahoo.com/news/nvidia-stock-dips-as-china-reportedly-tells-its-companies-to-avoid-buying-chips-153429193.html) (Published: 2025-09-17)
+- [US panel probes Huawei affiliate’s presence on Nvidia’s Silicon Valley campus](https://biztoc.com/x/53303c6331edbef5) (Published: 2025-09-17)
 - [Analyst Says Broadcom (AVGO) is ‘Too Expensive’ – ‘Don’t Think They’re Going to Take Over Nvidia’](https://biztoc.com/x/338df1bf7a940bc7) (Published: 2025-09-17)
-- [US Treasury's Bessent made contradictory mortgage pledges, Bloomberg reports](https://biztoc.com/x/100d5d73071f7588) (Published: 2025-09-17)
-- [China Market Update: Alibaba AI Chip Announcement, Baidu Becomes “bAIdu”](https://www.forbes.com/sites/brendanahern/2025/09/17/china-market-update-alibaba-ai-chip-announcement-baidu-becomes-baidu/) (Published: 2025-09-17)
-- [Groq more than doubles valuation to $6.9 billion as investors bet on AI chips](https://economictimes.indiatimes.com/tech/funding/groq-more-than-doubles-valuation-to-6-9-billion-as-investors-bet-on-ai-chips/articleshow/123949466.cms) (Published: 2025-09-17)
-- [AI’s Next Dividend Bonanza Is NOT Where You Think](https://www.forbes.com/sites/brettowens/2025/09/17/ais-next-dividend-bonanza-is-not-where-you-think/) (Published: 2025-09-17)
-- [China Bans Top Tech Firms From Buying Nvidia Chips, Report Says](https://www.investopedia.com/china-bans-top-tech-firms-from-buying-nvidia-chips-report-says-11811683) (Published: 2025-09-17)
-- [Analyst Says Broadcom (AVGO) is ‘Too Expensive’ – ‘Don’t Think They’re Going to Take Over Nvidia’](https://finance.yahoo.com/news/analyst-says-broadcom-avgo-too-151257390.html) (Published: 2025-09-17)
-- [UK sees major investment from some of the biggest names in tech - here's all the top deals announced today](https://www.techradar.com/pro/uk-tech-space-sees-major-investment-from-some-of-the-biggest-names-in-tech-heres-all-the-top-deal-announced-today) (Published: 2025-09-17)
-- [Nvidia’s chips are no longer welcome in China](https://www.theverge.com/news/779934/nvidia-ban-china-no-longer-welcome) (Published: 2025-09-17)
-- [Alibaba shares jump on major AI chip deal with China Unicom: How it impacts investors and China’s tech push](https://economictimes.indiatimes.com/news/international/us/alibaba-shares-jump-on-major-ai-chip-deal-with-china-unicom-how-it-impacts-investors-and-chinas-tech-push/articleshow/123948322.cms) (Published: 2025-09-17)
