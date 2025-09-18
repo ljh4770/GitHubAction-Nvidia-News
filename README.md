@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-18 12:58:59**_
+_Last updated: **2025-09-18 13:32:35**_
 
-- [US single-family housing starts, building permits drop in August](https://biztoc.com/x/4e2f63c7ac280fa7) (Published: 2025-09-17)
-- [Nvidia (NASDAQ: NVDA) Stock Price Prediction for 2025: Where Will It Be in 1 Year (Sept 17)](https://biztoc.com/x/1d097ec60a32b118) (Published: 2025-09-17)
-- [Is Western Digital Stock Outperforming the Dow?](https://biztoc.com/x/62f31934c6eeedaa) (Published: 2025-09-17)
-- [UK's FCA plans to exempt cryptoasset providers from some of its traditional finance rules, as it prepares to integrate the sector into its regulatory framework](https://biztoc.com/x/3a78bf290d30537a) (Published: 2025-09-17)
-- [Nvidia CEO 'disappointed' by China chip order halt](https://biztoc.com/x/8acbf0e185275116) (Published: 2025-09-17)
-- [Economic calendar: All eyes turn to the Fed after housing-starts data](https://biztoc.com/x/d29a22aa432ed0ab) (Published: 2025-09-17)
-- [Amazon investing over $1 billion to raise employee pay and lower health care costs](https://biztoc.com/x/fe755ba4fe7fb688) (Published: 2025-09-17)
-- [Is Cardinal Health Stock Underperforming the S&P 500?](https://biztoc.com/x/4c32846d568d1d02) (Published: 2025-09-17)
-- [Video: Nvidia down as China orders firms to halt purchase of AI chips](https://thefly.com/permalinks/entry.php/id4199316/NVDA;BABA;GIS;MANU;WDAY;WBD;PSKY-Video-Nvidia-down-as-China-orders-firms-to-halt-purchase-of-AI-chips) (Published: 2025-09-17)
+- [China blocks sale of Nvidia AI chips](https://slashdot.org/firehose.pl?op=view&amp;id=179315170) (Published: 2025-09-17)
+- [Nvidia CEO Jensen Huang Says ‘That’s Fine’ as China Ramps Up AI Arms Race With NVDA Chip Ban](https://www.barchart.com/story/news/34864864/nvidia-ceo-jensen-huang-says-thats-fine-as-china-ramps-up-ai-arms-race-with-nvda-chip-ban) (Published: 2025-09-17)
+- [Lyft Stock Spikes 14%. Self-Driving Cars Are Coming to Nashville](https://biztoc.com/x/9c0fda78885e114f) (Published: 2025-09-17)
+- [Ukraine will need to buy $1 billion of gas to hit winter storage target after Russian attacks](https://biztoc.com/x/d990f79afa19bf9c) (Published: 2025-09-17)
+- [“We’re looking for businesses with a unique go-to-market strategy” – Matthew Finnerty sets out acquisitive Creo Capital’s game plan](https://biztoc.com/x/532b9c64fd375c56) (Published: 2025-09-17)
+- [Treasury Yields Near Week’s Lows Before Expected Fed Rate Cut](https://biztoc.com/x/bea3f35d53b03673) (Published: 2025-09-17)
+- [Nvidia Stock Drops on Report China Has Banned Its Chips. Alibaba, TikTok Parent Affected](https://biztoc.com/x/f63c02a85db3bd8a) (Published: 2025-09-17)
+- [Denmark leads large military exercise in Greenland, without US](https://biztoc.com/x/4fa8c3117c693409) (Published: 2025-09-17)
+- [Bank of America CEO tells Bloomberg TV he is not leaving in short term](https://biztoc.com/x/5dc51e28ef87cdc1) (Published: 2025-09-17)
+- [Senate Democrats Target Miran’s Dual Fed and White House Roles](https://biztoc.com/x/c98407ce053f655e) (Published: 2025-09-17)
