@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-18 08:29:48**_
+_Last updated: **2025-09-18 08:48:12**_
 
+- [Analysts Raise Nvidia Stock Price Forecasts despite China Risk](https://biztoc.com/x/c2b75557fc5d8b19) (Published: 2025-09-17)
 - [Introducing Stargate UK](https://biztoc.com/x/556cebb8bb9c76fb) (Published: 2025-09-17)
 - [Nscale announces UK AI infrastructure commitment in partnership with Microsoft, NVIDIA and OpenAI](https://www.globenewswire.com/news-release/2025/09/17/3151415/0/en/Nscale-announces-UK-AI-infrastructure-commitment-in-partnership-with-Microsoft-NVIDIA-and-OpenAI.html) (Published: 2025-09-17)
 - [Dow Jones Futures Await Fed Rate Cut, Powell; Nvidia, Meta, Palantir Eye Buy Points - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=179310350) (Published: 2025-09-17)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-18 08:29:48**_
 - [Donald Trump’s UK State Visit Brings Billions Of Dollars Of AI Investment, Protests & A Jeffrey Epstein Projection Onto Windsor Castle](http://deadline.com/2025/09/donald-trumps-uk-state-visit-protests-ai-investment-1236546531/) (Published: 2025-09-17)
 - [ASUS Gaming Laptops from 2021-2024 Have Buggy BIOS Causing Stuttering: Report](https://www.techpowerup.com/341073/asus-gaming-laptops-from-2021-2024-have-buggy-bios-causing-stuttering-report) (Published: 2025-09-17)
 - [Automotive Stocks To Add to Your Watchlist – September 14th](https://www.etfdailynews.com/2025/09/17/automotive-stocks-to-add-to-your-watchlist-september-14th/) (Published: 2025-09-17)
-- [Infrastructure Stocks To Watch Today – September 15th](https://www.etfdailynews.com/2025/09/17/infrastructure-stocks-to-watch-today-september-15th/) (Published: 2025-09-17)
