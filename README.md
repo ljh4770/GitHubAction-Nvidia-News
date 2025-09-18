@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-18 05:16:51**_
+_Last updated: **2025-09-18 05:34:19**_
 
+- [5 Insightful Analyst Questions From Chewy’s Q2 Earnings Call](https://finance.yahoo.com/news/5-insightful-analyst-questions-chewy-053043175.html) (Published: 2025-09-17)
+- [CNBC's UK Exchange newsletter: Can UK trade come up Trumps?](https://www.cnbc.com/2025/09/17/can-uk-trade-come-up-trumps-cnbcs-uk-exchange-newsletter.html) (Published: 2025-09-17)
 - [Ruh-roh. DDR5 memory vulnerable to new Rowhammer attack](https://www.theregister.com/2025/09/17/ddr5_dram_rowhammer/) (Published: 2025-09-17)
 - [ASUS - PRIME NVIDIA GeForce RTX 5070 Ti 16GB GDDR7 PCI + Borderlands 4 GeForce RTX 50 Series $749.99 (1 replies)](https://slickdeals.net/f/18610270-asus-prime-nvidia-geforce-rtx-5070-ti-16gb-gddr7-pci-borderlands-4-geforce-rtx-50-series-749-99) (Published: 2025-09-17)
 - [CNBC's The China Connection newsletter: China’s attempt to pivot away from the U.S. starts with this trading hub](https://www.cnbc.com/2025/09/17/china-connection-newsletter-yiwu-looks-beyond-us-trade-exports-wholesale.html) (Published: 2025-09-17)
@@ -9,4 +11,3 @@ _Last updated: **2025-09-18 05:16:51**_
 - [Melius Stays Bullish on Oracle (ORCL) as AI Cloud Growth Accelerates](https://finance.yahoo.com/news/melius-stays-bullish-oracle-orcl-034256423.html) (Published: 2025-09-17)
 - [US Congress targets Huawei's US affiliate, ties with Nvidia under scrutiny amid US-China tech tensions](https://www.digitimes.com/news/a20250917VL204/huawei-nvidia-investigation-policy-us-china-trade-war.html&chid=10) (Published: 2025-09-17)
 - [lisaanalysistools-cuda12x added to PyPI](https://pypi.org/project/lisaanalysistools-cuda12x/) (Published: 2025-09-17)
-- [lisaanalysistools-cuda11x added to PyPI](https://pypi.org/project/lisaanalysistools-cuda11x/) (Published: 2025-09-17)
