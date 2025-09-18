@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-18 12:16:53**_
+_Last updated: **2025-09-18 12:58:59**_
 
-- [MIT Sloan’s New Dean Is Ready to Tackle Threats to Higher Ed](https://biztoc.com/x/d05c7a3e67a7a817) (Published: 2025-09-17)
-- [Jim Cramer Warns Nvidia's Last Wave Of 'Scared And Hot Money' Could Exit As China Moves To Ban Chip Purchases For Major Tech Firms](https://biztoc.com/x/40337a034c774ae8) (Published: 2025-09-17)
-- [Kazakhstan resumes oil exports via Baku-Tbilisi-Ceyhan pipeline](https://biztoc.com/x/3ba59d4b4e586c84) (Published: 2025-09-17)
-- [Is Zimmer Biomet Stock Underperforming the Dow?](https://biztoc.com/x/04dc854e97f9aa0a) (Published: 2025-09-17)
-- [True Potential’s wealth business swings to a £243m loss after FCA review](https://biztoc.com/x/56a295abce30dbfe) (Published: 2025-09-17)
-- [True Potential’s wealth business swings to a £243m loss after FCA review](https://biztoc.com/x/56a295abce30dbfe) (Published: 2025-09-17)
-- [Gulf Air Hires Dismissed Air Baltic Chief Martin Gauss as CEO](https://biztoc.com/x/d20ae56654a711e9) (Published: 2025-09-17)
-- [Jim Beam adds American spirit to F1 debutants Cadillac](https://biztoc.com/x/e75b097d7addff8f) (Published: 2025-09-17)
-- [5 Things to Know Before the Stock Market Opens](https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-september-17-2025-11811676) (Published: 2025-09-17)
-- [Fed Decision, China AI Chip Ban, And TikTok Deal Dominate Markets](https://www.forbes.com/sites/jjkinahan/2025/09/17/fed-decision-china-ai-chip-ban-and-tiktok-deal-dominate-markets/) (Published: 2025-09-17)
+- [US single-family housing starts, building permits drop in August](https://biztoc.com/x/4e2f63c7ac280fa7) (Published: 2025-09-17)
+- [Nvidia (NASDAQ: NVDA) Stock Price Prediction for 2025: Where Will It Be in 1 Year (Sept 17)](https://biztoc.com/x/1d097ec60a32b118) (Published: 2025-09-17)
+- [Is Western Digital Stock Outperforming the Dow?](https://biztoc.com/x/62f31934c6eeedaa) (Published: 2025-09-17)
+- [UK's FCA plans to exempt cryptoasset providers from some of its traditional finance rules, as it prepares to integrate the sector into its regulatory framework](https://biztoc.com/x/3a78bf290d30537a) (Published: 2025-09-17)
+- [Nvidia CEO 'disappointed' by China chip order halt](https://biztoc.com/x/8acbf0e185275116) (Published: 2025-09-17)
+- [Economic calendar: All eyes turn to the Fed after housing-starts data](https://biztoc.com/x/d29a22aa432ed0ab) (Published: 2025-09-17)
+- [Amazon investing over $1 billion to raise employee pay and lower health care costs](https://biztoc.com/x/fe755ba4fe7fb688) (Published: 2025-09-17)
+- [Is Cardinal Health Stock Underperforming the S&P 500?](https://biztoc.com/x/4c32846d568d1d02) (Published: 2025-09-17)
+- [Video: Nvidia down as China orders firms to halt purchase of AI chips](https://thefly.com/permalinks/entry.php/id4199316/NVDA;BABA;GIS;MANU;WDAY;WBD;PSKY-Video-Nvidia-down-as-China-orders-firms-to-halt-purchase-of-AI-chips) (Published: 2025-09-17)
