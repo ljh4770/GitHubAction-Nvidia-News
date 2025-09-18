@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-18 04:54:55**_
+_Last updated: **2025-09-18 05:16:51**_
 
+- [Ruh-roh. DDR5 memory vulnerable to new Rowhammer attack](https://www.theregister.com/2025/09/17/ddr5_dram_rowhammer/) (Published: 2025-09-17)
 - [ASUS - PRIME NVIDIA GeForce RTX 5070 Ti 16GB GDDR7 PCI + Borderlands 4 GeForce RTX 50 Series $749.99 (1 replies)](https://slickdeals.net/f/18610270-asus-prime-nvidia-geforce-rtx-5070-ti-16gb-gddr7-pci-borderlands-4-geforce-rtx-50-series-749-99) (Published: 2025-09-17)
 - [CNBC's The China Connection newsletter: China’s attempt to pivot away from the U.S. starts with this trading hub](https://www.cnbc.com/2025/09/17/china-connection-newsletter-yiwu-looks-beyond-us-trade-exports-wholesale.html) (Published: 2025-09-17)
 - [Microsoft pledges to invest $30 billion in UK as Trump visits](https://economictimes.indiatimes.com/tech/technology/microsoft-pledges-to-invest-30-billion-in-uk-as-trump-visits/articleshow/123934747.cms) (Published: 2025-09-17)
@@ -9,4 +10,3 @@ _Last updated: **2025-09-18 04:54:55**_
 - [US Congress targets Huawei's US affiliate, ties with Nvidia under scrutiny amid US-China tech tensions](https://www.digitimes.com/news/a20250917VL204/huawei-nvidia-investigation-policy-us-china-trade-war.html&chid=10) (Published: 2025-09-17)
 - [lisaanalysistools-cuda12x added to PyPI](https://pypi.org/project/lisaanalysistools-cuda12x/) (Published: 2025-09-17)
 - [lisaanalysistools-cuda11x added to PyPI](https://pypi.org/project/lisaanalysistools-cuda11x/) (Published: 2025-09-17)
-- [ASUS Ascent GX10 Compact AI Supercomputer Now Available for Preorder](https://linuxgizmos.com/asus-ascent-gx10-compact-ai-supercomputer-now-available-for-preorder/) (Published: 2025-09-17)
