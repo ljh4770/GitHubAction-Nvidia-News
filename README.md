@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-18 05:34:19**_
+_Last updated: **2025-09-18 05:44:31**_
 
+- [Automotive Stocks To Keep An Eye On – September 15th](https://www.etfdailynews.com/2025/09/17/automotive-stocks-to-keep-an-eye-on-september-15th/) (Published: 2025-09-17)
 - [5 Insightful Analyst Questions From Chewy’s Q2 Earnings Call](https://finance.yahoo.com/news/5-insightful-analyst-questions-chewy-053043175.html) (Published: 2025-09-17)
 - [CNBC's UK Exchange newsletter: Can UK trade come up Trumps?](https://www.cnbc.com/2025/09/17/can-uk-trade-come-up-trumps-cnbcs-uk-exchange-newsletter.html) (Published: 2025-09-17)
 - [Ruh-roh. DDR5 memory vulnerable to new Rowhammer attack](https://www.theregister.com/2025/09/17/ddr5_dram_rowhammer/) (Published: 2025-09-17)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-18 05:34:19**_
 - [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) (Published: 2025-09-17)
 - [Melius Stays Bullish on Oracle (ORCL) as AI Cloud Growth Accelerates](https://finance.yahoo.com/news/melius-stays-bullish-oracle-orcl-034256423.html) (Published: 2025-09-17)
 - [US Congress targets Huawei's US affiliate, ties with Nvidia under scrutiny amid US-China tech tensions](https://www.digitimes.com/news/a20250917VL204/huawei-nvidia-investigation-policy-us-china-trade-war.html&chid=10) (Published: 2025-09-17)
-- [lisaanalysistools-cuda12x added to PyPI](https://pypi.org/project/lisaanalysistools-cuda12x/) (Published: 2025-09-17)
