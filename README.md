@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-19 10:18:57**_
+_Last updated: **2025-09-19 10:38:16**_
 
-- [nemo-evaluator 0.1.0rc3](https://pypi.org/project/nemo-evaluator/0.1.0rc3/) (Published: 2025-09-18)
-- [Factbox-Key products in Huawei's AI chips and computing power roadmap](https://finance.yahoo.com/news/factbox-key-products-huaweis-ai-101530370.html) (Published: 2025-09-18)
-- [Douglas Lane & Associates LLC Has $282.98 Million Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/18/douglas-lane-associates-llc-has-282-98-million-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-18)
-- [NVIDIA Corporation $NVDA Shares Purchased by RB Capital Management LLC](https://www.etfdailynews.com/2025/09/18/nvidia-corporation-nvda-shares-purchased-by-rb-capital-management-llc/) (Published: 2025-09-18)
-- [Discipline Wealth Solutions LLC Has $1.34 Million Stock Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/18/discipline-wealth-solutions-llc-has-1-34-million-stock-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-18)
-- [RDA Financial Network Decreases Stock Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/18/rda-financial-network-decreases-stock-position-in-nvidia-corporation-nvda/) (Published: 2025-09-18)
-- [Aletheian Wealth Advisors LLC Has $3.88 Million Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/18/aletheian-wealth-advisors-llc-has-3-88-million-position-in-nvidia-corporation-nvda/) (Published: 2025-09-18)
-- [S&P 500, Nasdaq futures hit record high after Fed points to further rate cuts](https://finance.yahoo.com/news/p-500-nasdaq-futures-hit-101035658.html) (Published: 2025-09-18)
-- [What If the Next Democratic President Governs Like Trump?](https://newrepublic.com/article/200599/next-democratic-president-governs-trump) (Published: 2025-09-18)
-- [Why Some Swedish AI Tech Investors Welcome A Shakeout](https://www.forbes.com/sites/heatherfarmbrough/2025/09/18/why-some-swedish-ai-tech-investors-welcome-a-shakeout/) (Published: 2025-09-18)
+- [Cold shoulder: Why Beijing is freezing Nvidia's access to the Chinese market](https://www.cnbc.com/2025/09/18/china-blocks-nvidia-ai-chips.html) (Published: 2025-09-18)
+- [How Huawei plans to outperform global tech leaders with less powerful chips](https://abcnews.go.com/Technology/wireStory/huawei-plans-outperform-global-tech-leaders-powerful-chips-125694204) (Published: 2025-09-18)
+- [How Huawei plans to outperform global tech leaders with less powerful chips](https://economictimes.indiatimes.com/news/international/business/how-huawei-plans-to-outperform-global-tech-leaders-with-less-powerful-chips/articleshow/123973098.cms) (Published: 2025-09-18)
+- [How Huawei plans to outperform global tech leaders with less powerful chips](https://economictimes.indiatimes.com/news/international/business/how-huawei-plans-to-outperform-global-tech-leaders-with-less-powerful-chips/articleshow/123973264.cms) (Published: 2025-09-18)
+- [China’s Showcase of AI Chip Prowess Triggers $240 Billion Rally](https://finance.yahoo.com/news/china-showcase-ai-chip-prowess-102749077.html) (Published: 2025-09-18)
+- ["Our business in China has been a bit of a rollercoaster" - Nvidia CEO “disappointed” in further Chinese ban on buying its AI chips](https://www.techradar.com/pro/our-business-in-china-has-been-a-bit-of-a-rollercoaster-nvidia-ceo-disappointed-in-further-chinese-ban-on-buying-its-ai-chips) (Published: 2025-09-18)
+- [Huawei Unveils Homegrown HBM and Ascend 950, Bets on Massive SuperClusters](https://www.techpowerup.com/341123/huawei-unveils-homegrown-hbm-and-ascend-950-bets-on-massive-superclusters) (Published: 2025-09-18)
+- [How Huawei plans to outperform global tech leaders with less powerful chips](https://financialpost.com/pmn/how-huawei-plans-to-outperform-global-tech-leaders-with-less-powerful-chips) (Published: 2025-09-18)
+- [How Huawei plans to outperform global tech leaders with less powerful chips](https://finance.yahoo.com/news/huawei-plans-outperform-global-tech-102217324.html) (Published: 2025-09-18)
