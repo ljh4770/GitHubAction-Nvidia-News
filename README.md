@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-19 08:52:57**_
+_Last updated: **2025-09-19 09:14:55**_
 
-- [Oil Slips After Fed Rate Cut, Mixed U.S. Demand Signals](https://biztoc.com/x/ceb514c921eba2c8) (Published: 2025-09-18)
-- [Sinochem to move headquarters to China's Xiongan this month, sources say](https://biztoc.com/x/09a876886d61a7e6) (Published: 2025-09-18)
-- [(PR) AAEON Intelli i14 Edge Blends Intel Core i9 Processing with NVIDIA RTX Power in a Compact AI Vision System](https://www.techpowerup.com/341120/aaeon-intelli-i14-edge-blends-intel-core-i9-processing-with-nvidia-rtx-power-in-a-compact-ai-vision-system) (Published: 2025-09-18)
-- [Quelle Surprise! CEOs Overwhelmingly Negative on Trump’s Economic Policies as Shallow Fed Rate Cut Confirms Stagflation Worries](https://www.nakedcapitalism.com/2025/09/quelle-surprise-ceos-overwhelmingly-negative-on-trumps-economic-policies-as-shallow-fed-rate-cut-confirms-stagflation-worries.html) (Published: 2025-09-18)
-- [Global Banks’ Financing of the Energy Transition Has Stalled](https://biztoc.com/x/f453f87b07605b90) (Published: 2025-09-18)
-- [Anglo American cuts 'small number' of jobs in Australia's Brisbane](https://biztoc.com/x/6237e52720204f92) (Published: 2025-09-18)
-- [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](https://biztoc.com/x/9a4414f78997cd20) (Published: 2025-09-18)
-- [Euro zone current account surplus narrows](https://biztoc.com/x/3ae215cd373b1a09) (Published: 2025-09-18)
-- [ASUSから、NVIDIA GeForce RTX 5060 Ti ホワイトカラー デュアルファン搭載グラフィックボードを2製品発売](https://prtimes.jp/main/html/rd/p/000001008.000032645.html) (Published: 2025-09-18)
+- [Apple’s Higher Prices Give iPhone Doubters Reason for Optimism](https://biztoc.com/x/da4da6b4aa90fb0b) (Published: 2025-09-18)
+- [Egypt’s billboard boom strains eyes but raises profits](https://biztoc.com/x/5a70687ba6eac764) (Published: 2025-09-18)
+- [How an Enron Parody Turned Into a Financial Mess of Its Own](https://biztoc.com/x/3eaaf24c1e484a7c) (Published: 2025-09-18)
+- [UK's Octopus Energy to spin off technology arm Kraken](https://biztoc.com/x/2cb6ca9f622ebd4f) (Published: 2025-09-18)
+- [Capgemini Is Selling Around €3.25 Billion of Bonds to Fund WNS](https://biztoc.com/x/a1ab5a57993b77fa) (Published: 2025-09-18)
+- [NATO Fund Taps Spanish Startup for First Satellite Investment](https://biztoc.com/x/1525f8d9ecb42228) (Published: 2025-09-18)
+- [Samsung’s biggest new phone in years may launch in the US this year](https://biztoc.com/x/1cd47891cb0d2393) (Published: 2025-09-18)
+- [Swedish Prosecutor Appeals Acquittal of Former Security Advisor](https://biztoc.com/x/f48e3dd29e089751) (Published: 2025-09-18)
+- [Blaming Violence on Free Speech Is a Very Old Trick](https://biztoc.com/x/03cd8054a07aacff) (Published: 2025-09-18)
+- [Russia announces budget changes aimed at reducing oil revenue dependency](https://biztoc.com/x/48df93b6094d9c5a) (Published: 2025-09-18)
