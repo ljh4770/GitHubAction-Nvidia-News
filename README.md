@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-19 17:41:01**_
+_Last updated: **2025-09-19 17:51:18**_
 
+- [Darden Stock Drops on Earnings Miss. Blame Beef and Shrimp Tariffs](https://biztoc.com/x/c28013be3de04377) (Published: 2025-09-18)
+- [Myriad Moves: Odds Rise on XRP All-Time High, Plummet on Bitcoin Dominance](https://biztoc.com/x/6534ba1e59d8198c) (Published: 2025-09-18)
+- [China's DeepSeek says its hit AI model cost just $294,000 to train](https://biztoc.com/x/4aa714ab8e97f61a) (Published: 2025-09-18)
+- [How Americans' views of Israel's military action in Gaza have changed since the war began](https://biztoc.com/x/3c03788155f8c2bf) (Published: 2025-09-18)
+- [Canadian dollar weakens as investors unravel central bank rate signals](https://biztoc.com/x/6fede26c7fa0994e) (Published: 2025-09-18)
+- [RFK Jr.’s Vaccine Panel Questions Use of Routine Childhood Shots](https://biztoc.com/x/3f7e6fde4b4c47b5) (Published: 2025-09-18)
+- [Humain CEO Tareq Amin: Infrastructure Beats Apps in the Race for AI Dominance](https://observer.com/2025/09/interview-tareq-amin-humain-saudi-arabia-ai-infrastructure/) (Published: 2025-09-18)
+- [NVIDIA's $5B Intel Investment Reveals x86-GPU NVLink Project](https://www.techpowerup.com/341137/nvidias-usd-5b-intel-investment-reveals-x86-gpu-nvlink-project) (Published: 2025-09-18)
 - [UBS says these are the top 11 stocks in the booming industrial sector](https://biztoc.com/x/00f7ce0862c7a364) (Published: 2025-09-18)
 - [Stocks for the Long Run](https://biztoc.com/x/cbbd4d2201861587) (Published: 2025-09-18)
-- [These 2 Stocks’ Unusual Options Activity Flashes Strangle Plays](https://biztoc.com/x/3231856b51ffe680) (Published: 2025-09-18)
-- [Here’s the timeline of Jimmy Kimmel’s suspension](https://biztoc.com/x/de5e1a519044a910) (Published: 2025-09-18)
-- [Tesla is looking to redesign its door handles following trapped-passenger reports](https://biztoc.com/x/df44eeb995d8a2f5) (Published: 2025-09-18)
-- [Nvidia says Intel deal should not have impact on Arm](https://thefly.com/permalinks/entry.php/id4200209/NVDA;INTC;ARM-Nvidia-says-Intel-deal-should-not-have-impact-on-Arm) (Published: 2025-09-18)
-- [Intel CEO says company 'excited' about Nvidia partnership](https://thefly.com/permalinks/entry.php/id4200208/INTC;NVDA-Intel-CEO-says-company-excited-about-Nvidia-partnership) (Published: 2025-09-18)
-- [Nvidia buys $5 billion worth of Intel stock and announces major partnership for "multiple generations" of hardware covering consumers, AI, and data centers: "Fusing the world's best CPU and GPU"](https://www.gamesradar.com/hardware/nvidia-buys-usd5-billion-worth-of-intel-stock-and-announces-major-partnership-for-multiple-generations-of-hardware-covering-consumers-ai-and-data-centers-fusing-the-worlds-best-cpu-and-gpu/) (Published: 2025-09-18)
-- [Nvidia invests $5 billion in Intel, x86 APUs with Nvidia RTX GPU chiplets incoming](https://www.gsmarena.com/nvidia_invests_5_billion_in_intel_x86_apus_with_nvidia_rtx_gpu_chiplets_incoming-news-69570.php) (Published: 2025-09-18)
-- [Trump Flattery Pays Off for Starmer With Major Pitfalls Averted](https://financialpost.com/pmn/business-pmn/trump-flattery-pays-off-for-starmer-with-major-pitfalls-averted) (Published: 2025-09-18)
