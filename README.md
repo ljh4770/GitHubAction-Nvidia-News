@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-19 21:33:01**_
+_Last updated: **2025-09-19 21:43:40**_
 
+- [Intel and Nvidia sitting in a tree, NVLink-I-N-G](https://biztoc.com/x/389482075387341f) (Published: 2025-09-18)
+- [Intel Soars on Nvidia's Plans to Invest $5 Billion](https://biztoc.com/x/eef6c63129dcec2c) (Published: 2025-09-18)
+- [Review & Preview: Another Day, Another Record](https://biztoc.com/x/7307e15b6d7b3e1c) (Published: 2025-09-18)
+- [Democrats Call for FCC Chair to Resign Over Role in Kimmel Ouster](https://biztoc.com/x/8ef4ba31e7e260a0) (Published: 2025-09-18)
+- [The Fed Has No Good Options as Hiring Wobbles and Inflation Picks Up](https://biztoc.com/x/bcd12063bc38e372) (Published: 2025-09-18)
+- [Intel and Nvidia sitting in a tree, NVLink-I-N-G](https://www.theregister.com/2025/09/18/nvidia_intel_deal_nvlink/) (Published: 2025-09-18)
+- [Nvidia takes $5 billion stake in Intel, offers chip tech in new lifeline to struggling chipmake](https://freerepublic.com/focus/f-news/4341404/posts) (Published: 2025-09-18)
+- [Nvidia to invest $5 billion in Intel; companies will work together on AI infrastructure and PCs](https://japantoday.com/category/tech/nvidia-to-invest-5-billion-in-intel-companies-will-work-together-on-ai-infrastructure-and-pcs) (Published: 2025-09-18)
+- [Stock Market Today: Russell 2000 Soars To New High; These Chip Stocks Break Out (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=179354522) (Published: 2025-09-18)
 - [BOJ to keep interest rates steady as tariff, US slowdown risks loom](https://biztoc.com/x/bc320e4df68aea3a) (Published: 2025-09-18)
-- [Trump Family Ties Help American Bitcoin Claim Luxe Valuation](https://biztoc.com/x/b7ce1b9ca9973915) (Published: 2025-09-18)
-- [First Brands, Creditors Explore Financing Options With Advisers](https://biztoc.com/x/d1a3b78277364cc5) (Published: 2025-09-18)
-- [The Clear and Present Danger to the First Amendment](https://biztoc.com/x/7dfaff233b9f8036) (Published: 2025-09-18)
-- [How Oracle and Larry Ellison Shocked Wall Street](https://biztoc.com/x/1c21ec7d95c4eae0) (Published: 2025-09-18)
-- [Kimmel Show Controversy Comes as TV Station Owners Seek Rule-Changing Deals](https://biztoc.com/x/508505ed48a90041) (Published: 2025-09-18)
-- [Structured Products Are Back. What’s the Catch?](https://biztoc.com/x/3efd0c3c4b56ae52) (Published: 2025-09-18)
-- [Oxy Executive Says Direct Air Capture Model Isn’t Bankable Now](https://biztoc.com/x/a4a2427431838ae4) (Published: 2025-09-18)
-- [New Zealand’s new central bank governor to face credibility test](https://biztoc.com/x/4e1e1d0537262139) (Published: 2025-09-18)
-- [Economy Not Scaring Americans From Record Spending on Halloween](https://biztoc.com/x/73c7b2187c202d04) (Published: 2025-09-18)
