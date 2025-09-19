@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-19 13:06:29**_
+_Last updated: **2025-09-19 13:35:44**_
 
-- [Intel shares soar 30% in pre-market trade on Nvidia's $5 bn investment boost, strategic product collaboration](https://economictimes.indiatimes.com/markets/stocks/news/intel-shares-soar-30-in-pre-market-trade-on-nvidias-5-bn-investment-boost-strategic-product-collaboration/articleshow/123977537.cms) (Published: 2025-09-18)
-- [Video: Intel powered up by Nvidia investment](https://thefly.com/permalinks/entry.php/id4200014/INTC;NVDA;DRI;CBRL;ETNB;RHHBY-Video-Intel-powered-up-by-Nvidia-investment) (Published: 2025-09-18)
-- [Borderlands 4 review](https://www.pcgamer.com/games/rpg/borderlands-4-review/) (Published: 2025-09-18)
-- [GeForce NOW Unleashes ‘Dying Light: The Beast’ in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-dying-light-the-beast/) (Published: 2025-09-18)
-- [XMG expands Fusion lineup with lightweight 16-inch gaming laptop powered by Intel Arrow Lake CPU and RTX 5000 GPUs](https://www.notebookcheck.net/XMG-expands-Fusion-lineup-with-lightweight-16-inch-gaming-laptop-powered-by-Intel-Arrow-Lake-CPU-and-RTX-5000-GPUs.1117325.0.html) (Published: 2025-09-18)
-- [Nvidia Bets Big on Intel With $5B Investment](https://biztoc.com/x/6c55c38fdb28c0e9) (Published: 2025-09-18)
-- [US weekly jobless claims fall, but labor market softening](https://biztoc.com/x/c02145216cfa8031) (Published: 2025-09-18)
-- [Nvidia takes $5 billion stake in Intel](https://biztoc.com/x/6b9e8dc0d5085e3e) (Published: 2025-09-18)
-- [Intel shares surge 30% as Nvidia announces $5 billion investment in America’s one-time chips champion](https://fortune.com/2025/09/18/nvidia-intel-5-billion-investment/) (Published: 2025-09-18)
+- [S&P, Nasdaq hit record highs as Fed signals more easing; Intel, Nvidia surge](https://economictimes.indiatimes.com/tech/technology/us-stocks-open-higher-after-fed-indicates-more-rate-cuts/articleshow/123978924.cms) (Published: 2025-09-18)
+- [US stocks open higher after Fed indicates more rate cuts](https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-open-higher-after-fed-indicates-more-rate-cuts/articleshow/123978007.cms) (Published: 2025-09-18)
+- [WATCH LIVE: Trump and UK Prime Minister Starmer hold news briefing as president’s state visit ends](https://www.pbs.org/newshour/politics/watch-live-trump-and-uk-prime-minister-starmer-hold-news-briefing-as-presidents-state-visit-ends) (Published: 2025-09-18)
+- [Intel shares soar as Nvidia announces $5 billion investment - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=179346648) (Published: 2025-09-18)
+- [Intel stock surges as Nvidia announces $5 billion stake in company](https://finance.yahoo.com/news/intel-stock-surges-as-nvidia-announces-5-billion-stake-in-company-133204180.html) (Published: 2025-09-18)
+- [Nvidia May Never Return to China](https://biztoc.com/x/8a8fae233160349c) (Published: 2025-09-18)
+- [People spot the one move Trump pulled while listening to Starmer speak](https://www.ladbible.com/news/world-news/donald-trump-checking-nails-keir-starmer-conference-709998-20250918) (Published: 2025-09-18)
+- [2 Secret Penny Stocks Trouncing Nvidia and Palantir’s Gains](https://biztoc.com/x/eecc88d49cbbd439) (Published: 2025-09-18)
+- [Nvidia to invest $5 billion in Intel and develop chips with one-time rival](https://biztoc.com/x/ef6c10c3ad73e835) (Published: 2025-09-18)
+- [‘There’s Trouble Lurking,’ Says Top Investor About Nvidia Stock](https://biztoc.com/x/317ec71040cf047c) (Published: 2025-09-18)
