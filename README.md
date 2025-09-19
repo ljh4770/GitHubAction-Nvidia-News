@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-19 19:57:38**_
+_Last updated: **2025-09-19 20:25:14**_
 
-- [Former CIA Officer Lifts the Curtain on Upcoming Artificial Superintelligence Drive](https://www.globenewswire.com/news-release/2025/09/18/3152797/0/en/Former-CIA-Officer-Lifts-the-Curtain-on-Upcoming-Artificial-Superintelligence-Drive.html) (Published: 2025-09-18)
-- [World shares hit new record highs, dollar gains buoyed by Fed rate cut - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=179352864) (Published: 2025-09-18)
-- [US wins from Nvidia-Intel chip deal, says investment strategist](https://finance.yahoo.com/video/us-wins-nvidia-intel-chip-195226051.html) (Published: 2025-09-18)
-- [Intel says blockbuster Nvidia deal doesn’t change its own roadmap](https://www.pcworld.com/article/2913872/intel-nvidia-deal-doesnt-change-its-roadmap.html) (Published: 2025-09-18)
-- [Jerry quits Ben & Jerry’s, saying its independence on social issues has been stifled](https://biztoc.com/x/052633ee6c3b0cf2) (Published: 2025-09-18)
-- [Ecopetrol to beat 2025 drilling goal, may best output target, executive says](https://biztoc.com/x/6d0ebf211a8a066c) (Published: 2025-09-18)
-- [With Google Stock at $3 Trillion, Here’s How to Embrace the Rally but Protect the House](https://biztoc.com/x/c4e43b60180989e2) (Published: 2025-09-18)
-- [Jensen Huang Wants You to Know He’s Getting a Lot Out of the ‘Fantastic’ Nvidia-Intel Deal](https://www.wired.com/story/nvidia-intel-announce-collaboration-chips/) (Published: 2025-09-18)
-- [Nvidia to invest £2B in UK AI startups](https://biztoc.com/x/ad875544d8f35763) (Published: 2025-09-18)
+- [Disney faces boycott after pulling Kimmel. Why it would fare better than Tesla](https://biztoc.com/x/2e9ba72e91adcd2f) (Published: 2025-09-18)
+- [Putin signals tax hikes to close Russia’s budget gap](https://biztoc.com/x/d8981f7c395ce839) (Published: 2025-09-18)
+- [This AI Stock Has More Than Doubled in 2025. Is It a Buy?](https://biztoc.com/x/a769b24f350c0cda) (Published: 2025-09-18)
+- [NVIDIA and Intel Announce Strategic Collaboration to Advance Data Center and PC Computing](https://www.storagereview.com/news/nvidia-and-intel-announce-strategic-collaboration-to-advance-data-center-and-pc-computing) (Published: 2025-09-18)
+- [CyberLink Director Suite 2026 v14.0](https://post.rlsbb.to/cyberlink-director-suite-2026-v14-0/) (Published: 2025-09-18)
+- [Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch](https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd) (Published: 2025-09-18)
+- [Russell 2000 books first record close in 4 years as U.S. stocks end higher](https://biztoc.com/x/92108976fefcc022) (Published: 2025-09-18)
+- [U.S. Indexes Moved Upward Thursday; Intel Climbed Highest](https://biztoc.com/x/5b4691ca6cbc66de) (Published: 2025-09-18)
+- [FedEx forecasts 2026 earnings below estimates amid US tariff impact](https://biztoc.com/x/1adf2be716ed9362) (Published: 2025-09-18)
+- [The SEC Fixed the Marketing Rule 5 Years Ago. Will States Get on Board?](https://biztoc.com/x/7914bbf79ac9e514) (Published: 2025-09-18)
