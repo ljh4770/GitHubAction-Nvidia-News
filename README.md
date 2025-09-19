@@ -1,15 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-19 03:38:08**_
+_Last updated: **2025-09-19 03:52:11**_
 
+- [Huawei Unveils New AI Chip Tech to Rival Nvidia](https://biztoc.com/x/b9db42ac37a8006f) (Published: 2025-09-18)
+- [Trump's UK visit spurs US tech giants' AI investment pledges; experts urge London to prioritize AI inference apps](https://www.digitimes.com/news/a20250918PD224/uk-infrastructure-investment-ai-inference.html) (Published: 2025-09-18)
+- [China Escalates Chip War, Alibaba and Huawei Emerge as Winners](https://www.fxempire.com/news/article/china-escalates-chip-war-alibaba-and-huawei-emerge-as-winners-1549286) (Published: 2025-09-18)
+- [A US district judge rules Amazon violated consumer law by collecting Prime subscribers' billing info before disclosing terms, handing the FTC a partial win](https://biztoc.com/x/43fcfc0fa28a01fd) (Published: 2025-09-18)
+- [Huawei bypasses need for Nvidia AI chips in computing breakthrough for China](https://biztoc.com/x/7861e028a0b7e1ab) (Published: 2025-09-18)
+- [US CDC anticipates vote on use of measles, hepatitis vaccines, advisory draft says](https://biztoc.com/x/0103ccfc78c35d17) (Published: 2025-09-18)
+- [Huawei's Atlas 950 supercomputing node to debut in Q4, media reports](https://biztoc.com/x/a01950c38f75194b) (Published: 2025-09-18)
+- [Trump says he will designate Antifa as a terrorist organization](https://biztoc.com/x/bb2362366c3cee2a) (Published: 2025-09-18)
 - [Anglo American Cuts Australian Coal-Mine Jobs on Price Slump](https://biztoc.com/x/d80ff95c572bca0f) (Published: 2025-09-18)
 - [Prabowo Takes Aim at Indonesia Tycoons Following Deadly Unrest](https://biztoc.com/x/f54f274b7d222b1a) (Published: 2025-09-18)
-- [Britain Must Keep Its Promise to Hong Kongers](https://biztoc.com/x/5e3d7261becde5bb) (Published: 2025-09-18)
-- [Northrop spacecraft's ISS cargo delivery set for Thursday after software hiccup](https://biztoc.com/x/3d835591379b5b4f) (Published: 2025-09-18)
-- [Shein Opens Its Supply Network to Fashion Brands to Boost Growth](https://biztoc.com/x/f2c75e34fe00214a) (Published: 2025-09-18)
-- [Iron Ore Slips as China’s Spending Slows, Weighing on Demand](https://biztoc.com/x/f1950900ed6e5407) (Published: 2025-09-18)
-- [Fed Rate Cut May Boost Mood As Fund Managers Warm Up to Indian Equities](https://biztoc.com/x/3f14d9f8e139e335) (Published: 2025-09-18)
-- [Huawei unveils two new supercomputing AI nodes, local media reports](https://biztoc.com/x/b4deaebe98ae633d) (Published: 2025-09-18)
-- [Cadillac F1 team announces multi-year partnership with Jim Beam](https://biztoc.com/x/4520298e258209bf) (Published: 2025-09-18)
-- [Video
-First look at the Meta Ray-Ban Display glasses
-2:17](https://biztoc.com/x/8d1ff7da0b099ddf) (Published: 2025-09-18)
