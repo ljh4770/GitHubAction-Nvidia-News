@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-19 10:49:16**_
+_Last updated: **2025-09-19 10:59:48**_
 
+- [Revenues at Stripe Dublin unit soar by 34% to $5 billion](https://www.rte.ie/news/business/2025/0918/1534137-revenues-at-stripe-dublin-unit-soar-by-34-to-5-billion/) (Published: 2025-09-18)
+- [Nvidia Stock Rebounding After China Ban. Why Trump Can Drive Shares Higher](https://biztoc.com/x/142a54170a705454) (Published: 2025-09-18)
 - [Arvest Investments Inc. Purchases 2,778 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/18/arvest-investments-inc-purchases-2778-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-18)
 - [Trinity Financial Advisors LLC Has $7.43 Million Stock Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/18/trinity-financial-advisors-llc-has-7-43-million-stock-position-in-nvidia-corporation-nvda/) (Published: 2025-09-18)
-- [NVIDIA Corporation $NVDA Shares Acquired by Higgins & Schmidt Wealth Strategies LLC](https://www.etfdailynews.com/2025/09/18/nvidia-corporation-nvda-shares-acquired-by-higgins-schmidt-wealth-strategies-llc/) (Published: 2025-09-18)
 - [Wilson & Boucher Capital Management LLC Takes Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/18/wilson-boucher-capital-management-llc-takes-position-in-nvidia-corporation-nvda/) (Published: 2025-09-18)
+- [NVIDIA Corporation $NVDA Shares Acquired by Higgins & Schmidt Wealth Strategies LLC](https://www.etfdailynews.com/2025/09/18/nvidia-corporation-nvda-shares-acquired-by-higgins-schmidt-wealth-strategies-llc/) (Published: 2025-09-18)
 - [NVIDIA Corporation $NVDA is Thurston Springer Miller Herd & Titak Inc.’s Largest Position](https://www.etfdailynews.com/2025/09/18/nvidia-corporation-nvda-is-thurston-springer-miller-herd-titak-inc-s-largest-position/) (Published: 2025-09-18)
 - [US stock market futures rise today after Fed rate cut with Dow, S&P 500 and Nasdaq hit record highs — top pre-market gainers and losers to watch today](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-rise-today-after-fed-rate-cut-with-dow-sp-500-and-nasdaq-all-reaching-record-highs-here-are-the-top-pre-market-gainers-and-losers/articleshow/123973014.cms) (Published: 2025-09-18)
 - [Cold shoulder: Why Beijing is freezing Nvidia's access to the Chinese market](https://www.cnbc.com/2025/09/18/china-blocks-nvidia-ai-chips.html) (Published: 2025-09-18)
 - [How Huawei plans to outperform global tech leaders with less powerful chips](https://abcnews.go.com/Technology/wireStory/huawei-plans-outperform-global-tech-leaders-powerful-chips-125694204) (Published: 2025-09-18)
-- [How Huawei plans to outperform global tech leaders with less powerful chips](https://economictimes.indiatimes.com/news/international/business/how-huawei-plans-to-outperform-global-tech-leaders-with-less-powerful-chips/articleshow/123973098.cms) (Published: 2025-09-18)
-- [How Huawei plans to outperform global tech leaders with less powerful chips](https://economictimes.indiatimes.com/news/international/business/how-huawei-plans-to-outperform-global-tech-leaders-with-less-powerful-chips/articleshow/123973264.cms) (Published: 2025-09-18)
