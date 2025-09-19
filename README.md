@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-19 12:34:54**_
+_Last updated: **2025-09-19 13:06:29**_
 
-- [“Earthquake” in Artificial Intelligence: Nvidia invests $5 billion in Intel, shaking up the balance](https://en.protothema.gr/2025/09/18/earthquake-in-artificial-intelligence-nvidia-invests-5-billion-in-intel-shaking-up-the-balance/) (Published: 2025-09-18)
-- [US Fed starts easing path, other major central banks on hold](https://biztoc.com/x/bed6925a8203bc69) (Published: 2025-09-18)
-- [Huawei reveals long-range Ascend chip roadmap — three-year plan includes ambitious provision for in-house HBM with up to 1.6 TB/s bandwidth](https://www.tomshardware.com/tech-industry/semiconductors/huawei-unveils-ascend-roadmap-backed-by-in-house-hbm) (Published: 2025-09-18)
-- [NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products - NVIDIA Newsroom](https://slashdot.org/firehose.pl?op=view&amp;id=179345648) (Published: 2025-09-18)
-- [NVIDIA and Intel to Develop AI Infrastructure and Personal Computing Products](https://www.intc.com/news-events/press-releases/detail/1750/nvidia-and-intel-to-develop-ai-infrastructure-and-personal) (Published: 2025-09-18)
-- [Nvidia bets big on Intel with $5 billion stake and chip partnership](https://indianexpress.com/article/business/nvidia-bets-big-on-intel-with-5-billion-stake-and-chip-partnership-10257653/) (Published: 2025-09-18)
-- [Is the UK government getting too close to Big Tech?](https://theweek.com/tech/is-the-uk-government-getting-too-close-to-big-tech) (Published: 2025-09-18)
-- [Nvidia To Invest $5 Billion in Intel](https://slashdot.org/story/25/09/18/1226210/nvidia-to-invest-5-billion-in-intel) (Published: 2025-09-18)
-- [Nvidia to Pump $5B Into Intel, Partner on Data Center Initiative](https://www.newser.com/story/375436/nvidia-to-pump-5b-into-intel-partner-on-data-center-initiative.html) (Published: 2025-09-18)
-- [Nvidia to invest $5 billion in Intel](https://www.independent.ie/business/world/nvidia-to-invest-5-billion-in-intel/a2142390148.html) (Published: 2025-09-18)
+- [Intel shares soar 30% in pre-market trade on Nvidia's $5 bn investment boost, strategic product collaboration](https://economictimes.indiatimes.com/markets/stocks/news/intel-shares-soar-30-in-pre-market-trade-on-nvidias-5-bn-investment-boost-strategic-product-collaboration/articleshow/123977537.cms) (Published: 2025-09-18)
+- [Video: Intel powered up by Nvidia investment](https://thefly.com/permalinks/entry.php/id4200014/INTC;NVDA;DRI;CBRL;ETNB;RHHBY-Video-Intel-powered-up-by-Nvidia-investment) (Published: 2025-09-18)
+- [Borderlands 4 review](https://www.pcgamer.com/games/rpg/borderlands-4-review/) (Published: 2025-09-18)
+- [GeForce NOW Unleashes ‘Dying Light: The Beast’ in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-dying-light-the-beast/) (Published: 2025-09-18)
+- [XMG expands Fusion lineup with lightweight 16-inch gaming laptop powered by Intel Arrow Lake CPU and RTX 5000 GPUs](https://www.notebookcheck.net/XMG-expands-Fusion-lineup-with-lightweight-16-inch-gaming-laptop-powered-by-Intel-Arrow-Lake-CPU-and-RTX-5000-GPUs.1117325.0.html) (Published: 2025-09-18)
+- [Nvidia Bets Big on Intel With $5B Investment](https://biztoc.com/x/6c55c38fdb28c0e9) (Published: 2025-09-18)
+- [US weekly jobless claims fall, but labor market softening](https://biztoc.com/x/c02145216cfa8031) (Published: 2025-09-18)
+- [Nvidia takes $5 billion stake in Intel](https://biztoc.com/x/6b9e8dc0d5085e3e) (Published: 2025-09-18)
+- [Intel shares surge 30% as Nvidia announces $5 billion investment in America’s one-time chips champion](https://fortune.com/2025/09/18/nvidia-intel-5-billion-investment/) (Published: 2025-09-18)
