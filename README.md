@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-20 19:21:35**_
+_Last updated: **2025-09-20 19:32:33**_
 
+- [A New Billionaires Income Tax May Not Go Anywhere Right Now. But Democrats See a Winning Issue](https://biztoc.com/x/03a44e1bd8c8d976) (Published: 2025-09-19)
+- [Wall St advances with indexes on track for weekly gains; FedEx rises](https://biztoc.com/x/49cab67e246e909d) (Published: 2025-09-19)
+- [GE Aerospace reaches five-year labor deal with 600 striking UAW workers](https://biztoc.com/x/b7c6963c23f9ff06) (Published: 2025-09-19)
+- [Waltz Confirmed as UN Ambassador Days Before Annual Gathering](https://biztoc.com/x/b3c70c9787325a9a) (Published: 2025-09-19)
+- [Nat-Gas Prices Fall on Abundant Supplies and Cooler US Weather](https://biztoc.com/x/80b0e53e1a8591ce) (Published: 2025-09-19)
+- [Microsoft to Raise US Xbox Prices between $20 and $70 on Oct. 3](https://biztoc.com/x/cb6bbc9e5428d9b5) (Published: 2025-09-19)
+- [Crude Prices Retreat as the Dollar Strengthens and Global Oil Supplies Increase](https://biztoc.com/x/b3056fb26f0fdefb) (Published: 2025-09-19)
+- [Dianthus, Opendoor, and More Stocks See Action From Activist Investors](https://biztoc.com/x/5caaa49ff6e25789) (Published: 2025-09-19)
 - [Kimmel Embroils Disney’s Iger in Culture Wars He Tried to Avoid](https://biztoc.com/x/cfe61fde12ab3d44) (Published: 2025-09-19)
 - [Johnny Carson’s Longtime Malibu Home Lists for $110 Million](https://biztoc.com/x/db760376243c63df) (Published: 2025-09-19)
-- [Spirit Airlines' unions warn members of more pain amid second bankruptcy](https://biztoc.com/x/18b834f8638323b1) (Published: 2025-09-19)
-- [Elon Musk Isn’t the Only Executive Trading Tesla Stock. SVP Tom Zhu Sells Shares](https://biztoc.com/x/faaa50126cf3eed7) (Published: 2025-09-19)
-- [ICE Uses Tear Gas in Clashes With Protesters in Chicago Suburb](https://biztoc.com/x/204f416e548a8b4d) (Published: 2025-09-19)
-- [Exceptional No More? Crony Capitalism Makes A Comeback](https://biztoc.com/x/5522c994721638fe) (Published: 2025-09-19)
-- [Predict Extreme Weather Events in Minutes Without a Supercomputer](https://developer.nvidia.com/blog/predict-extreme-weather-events-in-minutes-without-a-supercomputer/) (Published: 2025-09-19)
-- [Why Big Oil Companies Invest In Green Energy](https://biztoc.com/x/af2c30d6d1ea496a) (Published: 2025-09-19)
-- [Travel tech firm Navan makes US IPO filing public](https://biztoc.com/x/58d32d54ecc5f6eb) (Published: 2025-09-19)
-- [Why Is Larry Ellison Buying Up All These Media Companies?](https://biztoc.com/x/4a6ec84cb75bbb13) (Published: 2025-09-19)
