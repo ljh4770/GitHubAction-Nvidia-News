@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-20 18:43:03**_
+_Last updated: **2025-09-20 18:53:40**_
 
+- [Urban-Rural Tensions Are Driving a Transit Crisis in the US](https://biztoc.com/x/7eb588aa74e9c53e) (Published: 2025-09-19)
+- [US vaccine panel to vote on whether to require prescription for COVID booster shots](https://biztoc.com/x/2247b124ca46b59b) (Published: 2025-09-19)
+- [Peru’s Popular Central Bank Chief Signals Potential Successors](https://biztoc.com/x/7e51ca7f6f2f4252) (Published: 2025-09-19)
+- [IVF Disrupted, The Kindbody Story: The Fertility Spa](https://biztoc.com/x/26b5698ee655adb6) (Published: 2025-09-19)
+- [Harvard Accused by Trump Administration of Financial Instability](https://biztoc.com/x/1a0411bca39165f1) (Published: 2025-09-19)
+- [Quarterly or No? How to Argue About the Frequency of Financial Reports](https://biztoc.com/x/6fd78ee67e78eedf) (Published: 2025-09-19)
+- [US FDA approves Merck's new injectable version of Keytruda](https://biztoc.com/x/6d7fcfa8687d9fbc) (Published: 2025-09-19)
+- [Week’s Best: What’s Next for Money-Market Funds](https://biztoc.com/x/323fa5f74c0fc41b) (Published: 2025-09-19)
 - [Show HN: KaniTTS – Open-source high-fidelity TTS with just 450M params](https://huggingface.co/nineninesix/kani-tts-450m-0.1-pt) (Published: 2025-09-19)
 - [New IEX Options Exchange Is Approved by the SEC](https://biztoc.com/x/c3381c177470db9b) (Published: 2025-09-19)
-- [Elon Musk's Neuralink plans brain implant trial for speech impairments](https://biztoc.com/x/bb7caabde68f7576) (Published: 2025-09-19)
-- [Analysts offer theories as to why Microsoft's stock has fallen out of favor](https://biztoc.com/x/cedde5c8386544b9) (Published: 2025-09-19)
-- [Kevin Durant has access restored to his Coinbase bitcoin account after years](https://biztoc.com/x/e8682e8907876c7f) (Published: 2025-09-19)
-- [JPMorgan Chase hires two senior bankers to bolster consumer and retail investment team](https://biztoc.com/x/c63ed2c4d6c33bca) (Published: 2025-09-19)
-- [Ted Cruz Blasts FCC Chair’s ‘Mafioso’ Tactic to Sideline Kimmel](https://biztoc.com/x/5e66ffb77229a467) (Published: 2025-09-19)
-- [Sources: Apple told at least two suppliers to boost their daily output of entry-level iPhone 17 by at least 30%, after strong pre-orders last weekend](https://biztoc.com/x/b95541f1f2fe03a9) (Published: 2025-09-19)
-- [Cocoa Prices Rebound as ICE Inventories Tighten](https://biztoc.com/x/2ea702b0ab5dd882) (Published: 2025-09-19)
-- [Trump expected to add new $100,000 fee for H-1B Visas, Bloomberg News reports](https://biztoc.com/x/eedb8f52895e607b) (Published: 2025-09-19)
