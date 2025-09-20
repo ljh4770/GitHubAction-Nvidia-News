@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-20 17:36:28**_
+_Last updated: **2025-09-20 17:46:40**_
 
+- [Elon Musk's xAI raises $10 billion at $200 billion valuation: sources](https://www.cnbc.com/2025/09/19/musks-xai-10-billion-at-200-billion-valuation.html) (Published: 2025-09-19)
+- [The dos and don'ts of buying a new laptop for college](https://www.techradar.com/computing/laptops/the-dos-and-donts-of-buying-a-new-laptop-for-college) (Published: 2025-09-19)
 - [Musk says xAI is not raising capital after CNBC report on $10 billion funding](https://finance.yahoo.com/news/xai-raises-10-billion-200-173421386.html) (Published: 2025-09-19)
 - [European shares end the week little changed](https://www.irishtimes.com/business/2025/09/19/european-shares-end-the-week-little-changed/) (Published: 2025-09-19)
 - [Intel Battlemage BMG-G31 GPU Leak Hints At Inbound Arc B770 With 16GB](https://hothardware.com/news/intel-battlemage-bmg-g31-linux-gpu-driver-leak) (Published: 2025-09-19)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-20 17:36:28**_
 - [S&P 500 adds to big gains for week following Fed rate cut: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=179373716) (Published: 2025-09-19)
 - [China's Soybean Snub Shocks Markets Ahead of Trump Trade Showdown](https://finance.yahoo.com/news/chinas-soybean-snub-shocks-markets-170756483.html) (Published: 2025-09-19)
 - [NVIDIA Confirms N1 Laptop Processor is a Variant of GB10 "Grace Blackwell" Superchip](https://www.techpowerup.com/341165/nvidia-confirms-n1-laptop-processor-is-a-variant-of-gb10-grace-blackwell-superchip) (Published: 2025-09-19)
-- [Designen bakom Donkervoorts nästa superbil](https://feber.se/bil/designen-bakom-donkervoorts-nasta-superbil/483532/) (Published: 2025-09-19)
-- [AI race is now a two-horse race](https://economictimes.indiatimes.com/opinion/et-editorial/ai-race-is-now-a-two-horse-race/articleshow/124002729.cms) (Published: 2025-09-19)
