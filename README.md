@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-20 19:42:53**_
+_Last updated: **2025-09-20 19:53:36**_
 
+- [Intel-Nvidia Deal Extends Stock Markets’ Good News Rally. Why There’s More to Come. - Barron's](https://slashdot.org/firehose.pl?op=view&amp;id=179376720) (Published: 2025-09-19)
+- [GPU sales skyrocketed 27% last quarter — tariff jitters sparked an odd gaming hardware spending surge in Q2 '25](https://www.tomshardware.com/video-games/pc-gaming/gpu-sales-skyrocketed-27-percent-last-quarter-tariff-jitters-sparked-an-odd-gaming-hardware-spending-surge-in-q2-25) (Published: 2025-09-19)
 - [The First Catastrophe-Bond ETF Might Just Need a Backstop](https://biztoc.com/x/6dd4317fa41e3f9d) (Published: 2025-09-19)
 - [Trump Officials Removing US Attorney in Virginia](https://biztoc.com/x/64d656333e1db6a2) (Published: 2025-09-19)
 - [Canadian dollar extends weekly gain as retail sales data spurs short-covering](https://biztoc.com/x/9f18f4f37fa81c8b) (Published: 2025-09-19)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-20 19:42:53**_
 - [Bonds Are Getting Pricey. Munis Still Look Cheap and Could Rally](https://biztoc.com/x/711b3dc7063434ba) (Published: 2025-09-19)
 - [IMF sees Mexico growth improving mildly in 2026, urges debt cuts](https://biztoc.com/x/86eb72c7976a8aff) (Published: 2025-09-19)
 - [Dollar Climbs with Bond Yields](https://biztoc.com/x/1bc58bed7916fc32) (Published: 2025-09-19)
-- [Nvidia may invest $500M in Wayve after reported $900M+ Enfabrica deal](https://siliconangle.com/2025/09/19/nvidia-may-invest-500m-wayve-reported-900m-enfabrica-deal/) (Published: 2025-09-19)
-- [A New Billionaires Income Tax May Not Go Anywhere Right Now. But Democrats See a Winning Issue](https://biztoc.com/x/03a44e1bd8c8d976) (Published: 2025-09-19)
