@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-20 10:42:59**_
+_Last updated: **2025-09-20 10:53:29**_
 
-- [Morning Bid: Central bank bonanza](https://finance.yahoo.com/news/morning-bid-central-bank-bonanza-104058754.html) (Published: 2025-09-19)
-- [Vietnam's Techcom Securities raises $410 million in IPO](https://biztoc.com/x/a9a9b0807adced9c) (Published: 2025-09-19)
-- [Spire Healthcare shares surge nearly 16%, company mulls sale](https://biztoc.com/x/3e876838fef86978) (Published: 2025-09-19)
-- [Nvidia: Selling At $145 Was A Big Mistake (Upgrade)](https://biztoc.com/x/b65906fcf5ab675d) (Published: 2025-09-19)
-- [China auto association launches probe into U.S. chip trade policy impact](https://biztoc.com/x/3bdc139a473716b9) (Published: 2025-09-19)
-- [BC Partners-owned firm agrees to pay ousted founder €250m bonus](https://biztoc.com/x/de0209429b0adf9d) (Published: 2025-09-19)
-- [Deutsche Bank taps Morgan Stanley’s Naik for leveraged finance team](https://biztoc.com/x/2da291d24fe01458) (Published: 2025-09-19)
-- [Uniper to sell Datteln 4 plant to ResInvest Group as part of government rescue](https://biztoc.com/x/c72f3d46ec819379) (Published: 2025-09-19)
-- [Nvidia Gives Intel a $5 Billion Helping Hand](https://biztoc.com/x/36a48bf82111e357) (Published: 2025-09-19)
-- [US housing shares shine as Fed restarts rate cuts](https://biztoc.com/x/1151c241a6f831ec) (Published: 2025-09-19)
+- [Bayer Wins EU Regulatory Backing for Menopause Drug Lynkuet](https://biztoc.com/x/36785f17f966193a) (Published: 2025-09-19)
+- [Daimler Truck, General Dynamics Expand Military Partnership](https://biztoc.com/x/15e400deb195ef76) (Published: 2025-09-19)
+- [Sam Altman Has a Lot of Things Keeping Him Awake at Night](https://biztoc.com/x/ecabbc914460c65d) (Published: 2025-09-19)
+- [TSX futures inch down after record rally](https://biztoc.com/x/6c3644386b23e434) (Published: 2025-09-19)
+- [Russia's LNG exports by destinations and volumes](https://biztoc.com/x/96e6f44af111685a) (Published: 2025-09-19)
+- [Angola Rules Out More Fuel Price Increases After Deadly Strikes](https://biztoc.com/x/98dcfcf4352071ec) (Published: 2025-09-19)
+- [Dutch Government Is Said to Decide on Tennet Germany Stake Sale](https://biztoc.com/x/d7f82f8dbe9cf6d2) (Published: 2025-09-19)
+- [Germany Is Looking at How to Cut France Out of Fighter Jet Plan](https://biztoc.com/x/79aeebff91c1deb2) (Published: 2025-09-19)
+- [Gold prices soar ahead of Fed rate cut](https://biztoc.com/x/e073792725dc8229) (Published: 2025-09-19)
