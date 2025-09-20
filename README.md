@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-20 14:50:48**_
+_Last updated: **2025-09-20 15:07:39**_
 
+- [Stock Market Rallies To New Highs On Fed Rate Cut, Nvidia News; Tesla Jumps: Weekly Review](https://biztoc.com/x/bcdb173f636a3cd0) (Published: 2025-09-19)
+- [Intel and Nvidia’s Coming x86 RTX Chips: I Have 5 Big Questions](https://me.pcmag.com/en/processors/32336/intel-and-nvidias-coming-x86-rtx-chips-i-have-5-big-questions) (Published: 2025-09-19)
+- [Intel and Nvidia’s Coming x86 RTX Chips: I Have 5 Big Questions](https://uk.pcmag.com/processors/160160/intel-and-nvidias-coming-x86-rtx-chips-i-have-5-big-questions) (Published: 2025-09-19)
+- [AI On: How Onboarding Teams of AI Agents Drives Productivity and Revenue for Businesses](https://blogs.nvidia.com/blog/onboarding-teams-ai-agents-productivity-revenue-businesses/) (Published: 2025-09-19)
+- [Former CIA Officer, Buck Sexton: What I’m calling “Manhattan II” Could Reverse Course With Bold New AI Orders](https://www.globenewswire.com/news-release/2025/09/19/3153264/0/en/Former-CIA-Officer-Buck-Sexton-What-I-m-calling-Manhattan-II-Could-Reverse-Course-With-Bold-New-AI-Orders.html) (Published: 2025-09-19)
+- [Nvidia joins the Intel bailout, Meta pitches AI smart glasses, and CrowdStrike aims for ‘security AGI’](https://siliconangle.com/2025/09/19/nvidia-joins-intel-bailout-meta-pitches-ai-smart-glasses-crowdstrike-aims-security-agi/) (Published: 2025-09-19)
+- [Nvidia joins the Intel bailout, Meta pitches AI smart glasses, and CrowdStrike pitches ‘security AGI’](https://siliconangle.com/2025/09/19/nvidia-joins-intel-bailout-meta-pitches-ai-smart-glasses-crowdstrike-pitches-security-agi/) (Published: 2025-09-19)
+- [Intel says it remains committed to its Arc graphics project — 'Intel will continue to have GPU product offerings'](https://www.tomshardware.com/tech-industry/intel-says-it-remains-committed-to-its-arc-graphics-project-intel-will-continue-to-have-gpu-product-offerings) (Published: 2025-09-19)
+- [Markets Hit New Highs As Intel Surges, Government Spending Looms](https://www.forbes.com/sites/jjkinahan/2025/09/19/markets-hit-new-highs-as-intel-surges-government-spending-looms/) (Published: 2025-09-19)
 - [Mixed options sentiment in NVIDIA with shares up 0.55%](https://thefly.com/permalinks/entry.php/id4200707/NVDA-Mixed-options-sentiment-in-NVIDIA-with-shares-up-) (Published: 2025-09-19)
-- [Nvidia explores $500 million investment in UK self-driving startup Wayve](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_992ec147-0467-4ce5-b315-0b51b5ce27aa) (Published: 2025-09-19)
-- [Why Nvidia's $5 Billion Stake in Intel Could Extend Its Dominance in AI Chips](https://biztoc.com/x/0ffceeea5d4136f3) (Published: 2025-09-19)
-- [stringzillas-cuda 4.0.13](https://pypi.org/project/stringzillas-cuda/4.0.13/) (Published: 2025-09-19)
-- [Meet the latest VC judges joining Startup Battlefield 200 at TechCrunch Disrupt 2025  | TechCrunch](https://techcrunch.com/2025/09/19/meet-the-latest-vc-judges-joining-startup-battlefield-200-at-techcrunch-disrupt-2025/) (Published: 2025-09-19)
-- [Meet the latest VC judges joining Startup Battlefield 200 at TechCrunch Disrupt 2025](https://finance.yahoo.com/news/meet-latest-vc-judges-joining-143000333.html) (Published: 2025-09-19)
-- [This Analyst Was Right About Apple (AAPL)](https://biztoc.com/x/7f39e2a75acca47d) (Published: 2025-09-19)
-- [Stacy Rasgon Says Broadcom (AVGO) $10 Billion Customer News Reminds Him of Nvidia Revenue Ramp](https://biztoc.com/x/f9c34c0ff2c1e87e) (Published: 2025-09-19)
-- [Nvidia gained $150 billion on Intel announcement, more than Intel market capitalization - netting a 30x return on its investment in 24 hours with just $5 billion](https://www.techradar.com/pro/nvidia-gained-usd150-billion-on-intel-announcement-more-than-intel-market-capitalization-netting-a-30x-return-on-its-investment-in-24-hours-with-just-usd5-billion) (Published: 2025-09-19)
-- [Nvidia Considers $500 Million Investment in Autonomous Driving AI Firm Wayve](http://www.pymnts.com/artificial-intelligence-2/2025/nvidia-considers-500-million-investment-in-autonomous-driving-ai-firm-wayve/) (Published: 2025-09-19)
