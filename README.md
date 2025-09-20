@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-20 10:53:29**_
+_Last updated: **2025-09-20 11:11:10**_
 
-- [Bayer Wins EU Regulatory Backing for Menopause Drug Lynkuet](https://biztoc.com/x/36785f17f966193a) (Published: 2025-09-19)
-- [Daimler Truck, General Dynamics Expand Military Partnership](https://biztoc.com/x/15e400deb195ef76) (Published: 2025-09-19)
-- [Sam Altman Has a Lot of Things Keeping Him Awake at Night](https://biztoc.com/x/ecabbc914460c65d) (Published: 2025-09-19)
-- [TSX futures inch down after record rally](https://biztoc.com/x/6c3644386b23e434) (Published: 2025-09-19)
-- [Russia's LNG exports by destinations and volumes](https://biztoc.com/x/96e6f44af111685a) (Published: 2025-09-19)
-- [Angola Rules Out More Fuel Price Increases After Deadly Strikes](https://biztoc.com/x/98dcfcf4352071ec) (Published: 2025-09-19)
-- [Dutch Government Is Said to Decide on Tennet Germany Stake Sale](https://biztoc.com/x/d7f82f8dbe9cf6d2) (Published: 2025-09-19)
-- [Germany Is Looking at How to Cut France Out of Fighter Jet Plan](https://biztoc.com/x/79aeebff91c1deb2) (Published: 2025-09-19)
-- [Gold prices soar ahead of Fed rate cut](https://biztoc.com/x/e073792725dc8229) (Published: 2025-09-19)
+- [Startups Lean on Once-Rare Share Sales to Keep Talent Happy](https://biztoc.com/x/dd091d6a45f580cf) (Published: 2025-09-19)
+- [Apple’s AirPods Pro 3 Earbuds Offer Enough Upgrades to Be a Must-Have](https://biztoc.com/x/49e071f75693e868) (Published: 2025-09-19)
+- [After Seedless Grapes, Now for the Pitless Cherry](https://biztoc.com/x/e90da06e0fe63d13) (Published: 2025-09-19)
+- [Bessent Steers Clear of a Name for Now-Regular US-China Talks](https://biztoc.com/x/226534bc7775dd81) (Published: 2025-09-19)
+- [What Reliving the 1929 Crash Tells Us About Today’s Stock Market](https://biztoc.com/x/cb6864d2dce992e7) (Published: 2025-09-19)
+- [Pristine Beaches and Cruises: A New Caribbean Vacation Spot Emerges](https://biztoc.com/x/16521902637a69dd) (Published: 2025-09-19)
+- [Apollo’s Latest $10 Billion Wizardry to Woo Insurer Cash](https://biztoc.com/x/85c28b8e0cd511bb) (Published: 2025-09-19)
+- [Stock Market Today: Dow Futures Waver; Xi-Trump Call Expected — Live Updates](https://biztoc.com/x/29cc3e6fcc7ecb11) (Published: 2025-09-19)
+- [What Pam Bondi Gets Wrong About ‘Hate Speech’](https://biztoc.com/x/5fc52b301d094f58) (Published: 2025-09-19)
+- [Malaysia Court Dimisses Gag-Order Bid in Najib House Arrest Case](https://biztoc.com/x/788c340407327f5c) (Published: 2025-09-19)
