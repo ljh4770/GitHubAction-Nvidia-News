@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-20 21:45:04**_
+_Last updated: **2025-09-20 21:55:28**_
 
 - [Bolsas de NY sobem e renovam recordes, com falas do Fed e conversa Trump-Xi](https://www.infomoney.com.br/mercados/bolsas-de-ny-sobem-e-renovam-recordes-com-falas-do-fed-e-conversa-trump-xi/) (Published: 2025-09-19)
 - [White House AI Czar David Sacks Warns Washington Must Let US Chipmakers Like Nvidia Sell Abroad Or Risk Forfeiting AI Race To Huawei And China](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_753a6590-ddc4-4d8e-a589-e4a9eda2a361) (Published: 2025-09-19)
