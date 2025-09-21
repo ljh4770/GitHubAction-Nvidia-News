@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-21 23:27:30**_
+_Last updated: **2025-09-21 23:39:24**_
 
 - [Trump is already wielding his ‘golden share’ authority at U.S. Steel, overriding the company’s plans for an Illinois plant, report says](https://fortune.com/2025/09/20/trump-us-steel-nippon-trump-golden-share-granite-city-plant-blocked-politics/) (Published: 2025-09-20)
 - [Trump is already wielding his ‘golden share’ authority at U.S. Steel, overriding the company’s plans for an Illinois plant, report says](https://finance.yahoo.com/news/trump-already-wielding-golden-share-225826240.html) (Published: 2025-09-20)
