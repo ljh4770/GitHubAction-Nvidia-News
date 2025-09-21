@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-21 06:19:36**_
+_Last updated: **2025-09-21 06:42:30**_
 
+- [Former Intel Directors Call For Trump And Nvidia To Take Chip Giant Private: 'Hope Is Not A Strategy'](https://biztoc.com/x/f39f2b3053066c4b) (Published: 2025-09-20)
 - [Top Metaverse Stocks To Follow Now – September 18th](https://www.etfdailynews.com/2025/09/20/top-metaverse-stocks-to-follow-now-september-18th/) (Published: 2025-09-20)
 - [Technology Stocks To Research – September 18th](https://www.etfdailynews.com/2025/09/20/technology-stocks-to-research-september-18th/) (Published: 2025-09-20)
 - [Trump's Cryptic 'Intel At $30' Post Sparks Debate As INTC Shares Slip Over 2% In Friday's Pre-Market - Benzinga](https://slashdot.org/firehose.pl?op=view&amp;id=179388826) (Published: 2025-09-20)
@@ -9,4 +10,3 @@ _Last updated: **2025-09-21 06:19:36**_
 - [TikTok Deal Has China's Blessing, Trump Says After Xi Call](https://www.ndtvprofit.com/business/tiktok-deal-has-chinas-blessing-trump-says-after-xi-call) (Published: 2025-09-20)
 - [AI PCs — get the latest news and insights](https://freerepublic.com/focus/f-chat/4341648/posts) (Published: 2025-09-20)
 - [NVIDIAとの協業後もArc GPUの開発は継続される](https://northwood.blog.fc2.com/blog-entry-12853.html) (Published: 2025-09-20)
-- [Philippines Widens Freeze on Bank Accounts in Graft Clampdown](https://biztoc.com/x/eef7cfa30d59b23b) (Published: 2025-09-20)
