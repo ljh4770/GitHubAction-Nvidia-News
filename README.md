@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-21 03:13:08**_
+_Last updated: **2025-09-21 03:46:07**_
 
+- [Tesla 'The Biggest Meme Stock' Ever? Expert Says 'Too Much Emphasis On The Magic Wand Of Musk'](https://finance.yahoo.com/news/tesla-biggest-meme-stock-ever-033114090.html) (Published: 2025-09-20)
+- [TikTok Deal Has China's Blessing, Trump Says After Xi Call](https://www.ndtvprofit.com/business/tiktok-deal-has-chinas-blessing-trump-says-after-xi-call) (Published: 2025-09-20)
 - [AI PCs — get the latest news and insights](https://freerepublic.com/focus/f-chat/4341648/posts) (Published: 2025-09-20)
 - [NVIDIAとの協業後もArc GPUの開発は継続される](https://northwood.blog.fc2.com/blog-entry-12853.html) (Published: 2025-09-20)
 - [Philippines Widens Freeze on Bank Accounts in Graft Clampdown](https://biztoc.com/x/eef7cfa30d59b23b) (Published: 2025-09-20)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-21 03:13:08**_
 - [BitGo's S-1 shows it had net income of $12.6M on revenue of $4.19B in H1 2025, compared with net income of $30.9M on revenue of $1.12B a year earlier](https://biztoc.com/x/2ff48cfbb0d19f7e) (Published: 2025-09-20)
 - [Trump asks the Supreme Court to allow him to enforce transgender and nonbinary passport policy](https://biztoc.com/x/0a740da7e0aaf4f2) (Published: 2025-09-20)
 - [Japanese handicraft shops open for business at Narita, Haneda](https://biztoc.com/x/e7ebf0f70b8b6f7c) (Published: 2025-09-20)
-- [Singapore’s Property Frenzy Set to Face a Brief Ghost Month Slowdown](https://biztoc.com/x/4da7828de0fd57dc) (Published: 2025-09-20)
-- [US FDA approves Merck's injectable version of blockbuster cancer therapy Keytruda](https://biztoc.com/x/b6a0e1c5fab11c0a) (Published: 2025-09-20)
