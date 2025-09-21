@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-21 06:53:12**_
+_Last updated: **2025-09-21 07:11:54**_
 
+- [Promising Streaming Stocks To Keep An Eye On – September 18th](https://www.etfdailynews.com/2025/09/20/promising-streaming-stocks-to-keep-an-eye-on-september-18th/) (Published: 2025-09-20)
+- [LLM-Deflate: Extracting LLMs into Datasets](https://www.scalarlm.com/blog/llm-deflate-extracting-llms-into-datasets/) (Published: 2025-09-20)
 - [Nvidia and Intel sidestepping questions about manufacturing in their new deal only reinforces that Intel's best path forward is to spin off its foundry business](https://biztoc.com/x/0c061b9ea4729296) (Published: 2025-09-20)
 - [TSMC, Largan, Episil push back on hype with blunt market outlooks](https://www.digitimes.com/news/a20250919PD226/tsmc-market-sic-episil-nvidia.html) (Published: 2025-09-20)
 - [Intel-Nvidia's twin strategy faces speed test, but PC path leads, says DIGITIMES analyst](https://www.digitimes.com/news/a20250919VL203/nvidia-intel-gpu-cpu-packaging.html) (Published: 2025-09-20)
@@ -9,4 +11,3 @@ _Last updated: **2025-09-21 06:53:12**_
 - [Former Intel Directors Call For Trump And Nvidia To Take Chip Giant Private: 'Hope Is Not A Strategy'](https://biztoc.com/x/f39f2b3053066c4b) (Published: 2025-09-20)
 - [Top Metaverse Stocks To Follow Now – September 18th](https://www.etfdailynews.com/2025/09/20/top-metaverse-stocks-to-follow-now-september-18th/) (Published: 2025-09-20)
 - [Technology Stocks To Research – September 18th](https://www.etfdailynews.com/2025/09/20/technology-stocks-to-research-september-18th/) (Published: 2025-09-20)
-- [Trump's Cryptic 'Intel At $30' Post Sparks Debate As INTC Shares Slip Over 2% In Friday's Pre-Market - Benzinga](https://slashdot.org/firehose.pl?op=view&amp;id=179388826) (Published: 2025-09-20)
