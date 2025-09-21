@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-21 15:38:27**_
+_Last updated: **2025-09-21 15:49:26**_
 
+- [One Big Beautiful Bubble: Oracle, Amazon, Microsoft, Google, Meta Platforms, Palantir et al in the danger zone?](https://www.thehindubusinessline.com/portfolio/big-story/one-big-beautiful-bubble-oracle-amazon-microsoft-google-meta-platforms-palantir-et-al-in-the-danger-zone/article70070297.ece) (Published: 2025-09-20)
 - [Wrong time for dollar diversification](https://www.thehindubusinessline.com/portfolio/personal-finance/wrong-time-for-dollar-diversification/article70069319.ece) (Published: 2025-09-20)
 - [Abilene’s Energy Setup](https://www.forbes.com/sites/johnwerner/2025/09/20/abilenes-energy-setup/) (Published: 2025-09-20)
 - [Week in review: Stock market records, Fed rate cut, trades, and new iPhones](https://biztoc.com/x/b83f5046a06e93f3) (Published: 2025-09-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-21 15:38:27**_
 - [Asus TUF Gaming F16 review: Strong gaming performance offset by skimpy SSD, short battery life](https://www.tomshardware.com/laptops/gaming-laptops/asus-tuf-gaming-f16-review) (Published: 2025-09-20)
 - [This Week’s Awesome Tech Stories From Around the Web (Through September 20)](https://singularityhub.com/2025/09/20/this-weeks-awesome-tech-stories-from-around-the-web-through-september-20/) (Published: 2025-09-20)
 - [AMD gaming deals at Best Buy slash up to $390 off laptops and desktops — here's what to grab before they're gone](https://www.windowscentral.com/hardware/amd/best-buy-amd-gaming-deals-laptops-desktops) (Published: 2025-09-20)
-- [San José’s Bold Plan To Lead The AI Revolution In City Government](https://www.forbes.com/sites/kathleenwalch/2025/09/20/san-joss-bold-plan-to-lead-the-ai-revolution-in-city-government/) (Published: 2025-09-20)
