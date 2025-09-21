@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-21 11:39:54**_
+_Last updated: **2025-09-21 11:50:23**_
 
 - [Xi, Trump set Halloween meeting in South Korea to tackle TikTok and trade](https://www.euractiv.com/news/xi-trump-set-halloween-meeting-in-south-korea-to-tackle-tiktok-and-trade/) (Published: 2025-09-20)
 - [to Gain from ‘Incremental Revenue Opportunities’ in Intel Deal, Says William Blair](https://biztoc.com/x/30e4a48e414220a3) (Published: 2025-09-20)
