@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-21 23:39:24**_
+_Last updated: **2025-09-21 23:49:59**_
 
+- [Planet captures first light from Pelican-3 satellite as constellation expands](https://www.spacedaily.com/reports/Planet_captures_first_light_from_Pelican_3_satellite_as_constellation_expands_999.html) (Published: 2025-09-20)
 - [Trump is already wielding his ‘golden share’ authority at U.S. Steel, overriding the company’s plans for an Illinois plant, report says](https://fortune.com/2025/09/20/trump-us-steel-nippon-trump-golden-share-granite-city-plant-blocked-politics/) (Published: 2025-09-20)
 - [Trump is already wielding his ‘golden share’ authority at U.S. Steel, overriding the company’s plans for an Illinois plant, report says](https://finance.yahoo.com/news/trump-already-wielding-golden-share-225826240.html) (Published: 2025-09-20)
 - [Wedbush: Nvidia–Intel (INTC) Deal Is a “Game Changer” for Struggling Chipmaker](https://biztoc.com/x/d99b5a62c7251626) (Published: 2025-09-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-21 23:39:24**_
 - [Wedbush: Nvidia–Intel (INTC) Deal Is a “Game Changer” for Struggling Chipmaker](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8621872a-de20-4848-acaa-aa69eb9c79d6) (Published: 2025-09-20)
 - [The best ASX ETFs for this booming bull market](https://www.fool.com.au/2025/09/21/the-best-asx-etfs-for-this-booming-bull-market/) (Published: 2025-09-20)
 - [Analysts revamp Nvidia stock outlook on its investment in Intel - TheStreet](https://slashdot.org/firehose.pl?op=view&amp;id=179411700) (Published: 2025-09-20)
-- [Analysts revamp Nvidia stock outlook on its investment in Intel](https://biztoc.com/x/6bb2b4a5c3bcc2f7) (Published: 2025-09-20)
