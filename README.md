@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-21 11:28:32**_
+_Last updated: **2025-09-21 11:39:54**_
 
 - [Xi, Trump set Halloween meeting in South Korea to tackle TikTok and trade](https://www.euractiv.com/news/xi-trump-set-halloween-meeting-in-south-korea-to-tackle-tiktok-and-trade/) (Published: 2025-09-20)
 - [to Gain from ‘Incremental Revenue Opportunities’ in Intel Deal, Says William Blair](https://biztoc.com/x/30e4a48e414220a3) (Published: 2025-09-20)
@@ -9,5 +9,5 @@ _Last updated: **2025-09-21 11:28:32**_
 - [nvidia-modelopt 0.35.1](https://pypi.org/project/nvidia-modelopt/0.35.1/) (Published: 2025-09-20)
 - [Security News This Week: A Dangerous Worm Is Eating Its Way Through Software Packages](https://www.wired.com/story/a-dangerous-worm-is-eating-its-way-through-software-packages/) (Published: 2025-09-20)
 - [The stock market finally has what it wants — and is now asking 'now what?'](https://finance.yahoo.com/news/the-stock-market-finally-has-what-it-wants--and-is-now-asking-now-what-100005498.html) (Published: 2025-09-20)
-- [NVIDIA Corporation $NVDA Shares Sold by Ransom Advisory Ltd](https://www.etfdailynews.com/2025/09/20/nvidia-corporation-nvda-shares-sold-by-ransom-advisory-ltd/) (Published: 2025-09-20)
 - [Atwood & Palmer Inc. Acquires 142,393 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/20/atwood-palmer-inc-acquires-142393-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-20)
+- [NVIDIA Corporation $NVDA Shares Sold by Ransom Advisory Ltd](https://www.etfdailynews.com/2025/09/20/nvidia-corporation-nvda-shares-sold-by-ransom-advisory-ltd/) (Published: 2025-09-20)
