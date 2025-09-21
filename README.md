@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-21 09:09:44**_
+_Last updated: **2025-09-21 09:26:37**_
 
+- [Donald Trump Unveils 'Gold Card' Visas For $1 Million](https://www.newsweek.com/donald-trump-gold-card-visa-immigration-2132900) (Published: 2025-09-20)
+- [What I learned from a shopping trip with Dan Ives, Wall Street's biggest Tesla bull and the funkiest dresser on cable news](https://www.businessinsider.com/afternoon-shopping-tesla-bull-dan-ives-2025-9) (Published: 2025-09-20)
 - [Atlas Brown Inc. Purchases 2,193 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/20/atlas-brown-inc-purchases-2193-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-20)
 - [MRA Advisory Group Increases Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/20/mra-advisory-group-increases-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-20)
 - [Ballew Advisors Inc Buys 1,117 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/20/ballew-advisors-inc-buys-1117-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-20)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-21 09:09:44**_
 - [Investing.com’s stocks of the week](https://finance.yahoo.com/news/investing-com-stocks-week-083010242.html) (Published: 2025-09-20)
 - [Britain jumps into bed with Palantir in £1.5B defense pact](https://www.theregister.com/2025/09/20/uk_palantir_defense_pact/) (Published: 2025-09-20)
 - [nvfuser-cu126 0.2.34.dev20250920](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20250920/) (Published: 2025-09-20)
-- [nvfuser-cu129 0.2.34.dev20250920](https://pypi.org/project/nvfuser-cu129/0.2.34.dev20250920/) (Published: 2025-09-20)
-- [nvfuser-cu128 0.2.34.dev20250920](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20250920/) (Published: 2025-09-20)
