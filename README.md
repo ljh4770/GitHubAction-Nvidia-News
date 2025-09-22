@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-22 15:14:17**_
+_Last updated: **2025-09-22 15:33:21**_
 
 - [How To Fix ‘Borderlands 4’ Confirmed Console Performance Problems](https://www.forbes.com/sites/paultassi/2025/09/21/how-to-fix-borderlands-4-confirmed-console-performance-problems/) (Published: 2025-09-21)
 - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/) (Published: 2025-09-21)
