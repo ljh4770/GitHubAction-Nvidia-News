@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-22 15:45:34**_
+_Last updated: **2025-09-22 15:56:19**_
 
+- [Dell Precision 3440 - Ubuntu LTS 24 - Ethernet 100 MBit/s instead of Gigabit](https://askubuntu.com/questions/1556380/dell-precision-3440-ubuntu-lts-24-ethernet-100-mbit-s-instead-of-gigabit) (Published: 2025-09-21)
 - [pyds-stubs 1.1.2](https://pypi.org/project/pyds-stubs/1.1.2/) (Published: 2025-09-21)
 - [How To Fix ‘Borderlands 4’ Confirmed Console Performance Problems](https://www.forbes.com/sites/paultassi/2025/09/21/how-to-fix-borderlands-4-confirmed-console-performance-problems/) (Published: 2025-09-21)
 - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/) (Published: 2025-09-21)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-22 15:45:34**_
 - [Popular Hedge Fund Options Strategy Attracts Contrarian Bets](https://finance.yahoo.com/news/popular-hedge-fund-options-strategy-140000142.html) (Published: 2025-09-21)
 - [Bank of America shocks with AMD stock verdict post Nvidia-Intel deal](https://biztoc.com/x/c654825adaa4a671) (Published: 2025-09-21)
 - [Linux Ready To Upstream Support For Google's PSP Encryption For TCP Connections](https://www.phoronix.com/news/PSP-Encryption-Linux-6.18) (Published: 2025-09-21)
-- [The Switch 2’s Game Ports Have Reached Their High-Water Mark](https://gizmodo.com/star-wars-outlaws-switch-2-review-2000659483) (Published: 2025-09-21)
