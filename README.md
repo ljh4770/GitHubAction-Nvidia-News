@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-22 21:48:01**_
+_Last updated: **2025-09-22 21:58:29**_
 
 - [Nvidia AI sales to reach almost $400 billion by 2028, research claims - but then things will get a bit tricky for the world's largest company](https://www.techradar.com/pro/nvidia-ai-sales-to-reach-almost-usd400-billion-by-2028-claims-research-and-then-things-will-get-a-bit-tricky-for-the-worlds-largest-company) (Published: 2025-09-21)
 - [Buck Sexton: “If China gets it first – they stay first forever” — Former CIA Officer Reveals Urgent AI Race and a possible Bold Response](https://www.globenewswire.com/news-release/2025/09/21/3153603/0/en/Buck-Sexton-If-China-gets-it-first-they-stay-first-forever-Former-CIA-Officer-Reveals-Urgent-AI-Race-and-a-possible-Bold-Response.html) (Published: 2025-09-21)
