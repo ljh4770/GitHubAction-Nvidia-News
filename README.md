@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-22 13:46:12**_
+_Last updated: **2025-09-22 13:56:44**_
 
 - [Linux Ready To Upstream Support For Google's PSP Encryption For TCP Connections](https://www.phoronix.com/news/PSP-Encryption-Linux-6.18) (Published: 2025-09-21)
 - [The Switch 2’s Game Ports Have Reached Their High-Water Mark](https://gizmodo.com/star-wars-outlaws-switch-2-review-2000659483) (Published: 2025-09-21)
