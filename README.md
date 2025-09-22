@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-22 15:33:21**_
+_Last updated: **2025-09-22 15:45:34**_
 
+- [pyds-stubs 1.1.2](https://pypi.org/project/pyds-stubs/1.1.2/) (Published: 2025-09-21)
 - [How To Fix ‘Borderlands 4’ Confirmed Console Performance Problems](https://www.forbes.com/sites/paultassi/2025/09/21/how-to-fix-borderlands-4-confirmed-console-performance-problems/) (Published: 2025-09-21)
 - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/) (Published: 2025-09-21)
 - [President Trump posts an AI-generated image of him trading Intel stock inside the White House — imaginary share was bought at $20 and sold at $30, reflective of real-world prices](https://www.tomshardware.com/tech-industry/president-trump-posts-an-ai-generated-image-of-him-trading-intel-stock-inside-the-white-house-imaginary-share-was-bought-at-usd20-and-sold-at-usd30-reflective-of-real-world-prices) (Published: 2025-09-21)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-22 15:33:21**_
 - [Bank of America shocks with AMD stock verdict post Nvidia-Intel deal](https://biztoc.com/x/c654825adaa4a671) (Published: 2025-09-21)
 - [Linux Ready To Upstream Support For Google's PSP Encryption For TCP Connections](https://www.phoronix.com/news/PSP-Encryption-Linux-6.18) (Published: 2025-09-21)
 - [The Switch 2’s Game Ports Have Reached Their High-Water Mark](https://gizmodo.com/star-wars-outlaws-switch-2-review-2000659483) (Published: 2025-09-21)
-- [The Hottest Thing in the Stock Market Is Suddenly Boring Tech](https://finance.yahoo.com/news/hottest-thing-stock-market-suddenly-130007003.html) (Published: 2025-09-21)
