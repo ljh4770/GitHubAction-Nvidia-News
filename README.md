@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-22 18:54:09**_
+_Last updated: **2025-09-22 19:12:59**_
 
+- [Lachlan Murdoch involved in possible TikTok deal, Trump says](https://www.abc.net.au/news/2025-09-22/tiktok-deal-involves-murdoch-trump-says/105800256) (Published: 2025-09-21)
 - [pyds-stubs 1.1.5.1](https://pypi.org/project/pyds-stubs/1.1.5.1/) (Published: 2025-09-21)
 - [This Week in Marketing – TikTok 2.0, Reddit vs Google, Meta Glasses and how people use ChatGPT](https://thesocialjuice.substack.com/p/this-week-in-marketing-tiktok-20) (Published: 2025-09-21)
 - [pyds-stubs 1.1.6.1](https://pypi.org/project/pyds-stubs/1.1.6.1/) (Published: 2025-09-21)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-22 18:54:09**_
 - [Ubuntu developers: Aaron Rainbolt: Setting up a weird dual-boot DOS workstation](https://arraybolt3.substack.com/p/setting-up-a-weird-dual-boot-dos) (Published: 2025-09-21)
 - [Big Tech's $4 Trillion Artificial Intelligence (AI) Spending Spree Could Make These 2 Chip Stocks Huge Winners](https://biztoc.com/x/df571b863eb5f774) (Published: 2025-09-21)
 - [Pepe Escobar: The Choice is Stark - Global Governance or Barbarism](https://sputnikglobe.com/20250921/pepe-escobar-the-choice-is-stark-global-governance-or-barbarism-1122828965.html) (Published: 2025-09-21)
-- [Topaz Photo Pro 1.0.0](https://post.rlsbb.to/__trashed-13/) (Published: 2025-09-21)
