@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-22 05:36:42**_
+_Last updated: **2025-09-22 05:47:27**_
 
+- [ Is AI a bubble? - by Azeem Azhar and Nathan Warren](https://www.exponentialview.co/p/is-ai-a-bubble) (Published: 2025-09-21)
+- [Top Technology Stocks To Follow Today – September 19th](https://www.etfdailynews.com/2025/09/21/top-technology-stocks-to-follow-today-september-19th/) (Published: 2025-09-21)
 - [Promising Metaverse Stocks To Add to Your Watchlist – September 19th](https://www.etfdailynews.com/2025/09/21/promising-metaverse-stocks-to-add-to-your-watchlist-september-19th/) (Published: 2025-09-21)
 - [Huawei's AI chip plan designed to break US dependence - Asia Times](https://asiatimes.com/2025/09/huaweis-ai-chip-plan-designed-to-break-us-dependence/) (Published: 2025-09-21)
 - [Weekly Wrap: Market optimistic, Intel, Oklo and Paramount emerge triumphant](https://www.thestreet.com/markets/weekly-wrap-market-optimistic-intel-oklo-and-paramount-emerge-triumphant) (Published: 2025-09-21)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-22 05:36:42**_
 - [A profile of Noah Urban, who was a key member of the Scattered Spider group because of his social engineering skills and is serving a 10-year prison sentence](https://biztoc.com/x/0e4a790dbb4cf532) (Published: 2025-09-21)
 - [Release party for Swift's ‘The Life of a Showgirl’ album is coming to AMC theaters](https://biztoc.com/x/ad0712afa2eaf578) (Published: 2025-09-21)
 - [Intel-Nvidia: The baton passes to the CUDA era](https://siliconangle.com/2025/09/20/intel-nvidia-baton-passes-cuda-era/) (Published: 2025-09-21)
-- [Caitlin Clark says she was fined $200 for social media post about referees](https://biztoc.com/x/4009cdc9e7e1338e) (Published: 2025-09-21)
-- [Chinese Savers Have $23 Trillion And Few Options Beyond Stocks](https://biztoc.com/x/b99648f600287644) (Published: 2025-09-21)
