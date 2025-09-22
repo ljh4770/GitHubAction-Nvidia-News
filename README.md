@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-22 06:38:15**_
+_Last updated: **2025-09-22 06:55:06**_
 
 - ['Fast and furious': H-1B workers abroad race to US as Trump order sparks dismay, confusion](https://www.channelnewsasia.com/world/us-h-1b-visas-workers-race-return-trump-order-5360331) (Published: 2025-09-21)
 - [Sen. John Boozman Purchases Shares of iShares MBS ETF (NASDAQ:MBB)](https://www.etfdailynews.com/2025/09/21/sen-john-boozman-purchases-shares-of-ishares-mbs-etf-nasdaqmbb/) (Published: 2025-09-21)
