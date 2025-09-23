@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-23 08:49:46**_
+_Last updated: **2025-09-23 08:59:47**_
 
 - [Nvidia, Abu Dhabi institute team up to launch AI, robotics lab in UAE: report](https://seekingalpha.com/news/4496880-nvidia-abu-dhabi-institute-team-up-to-launch-ai-robotics-lab-in-uae) (Published: 2025-09-22)
 - [Nvidia-Backed Wayve Strengthens UK-Japan Tech Ties As Nissan Tests Next-Gen Driver Assistance System Ahead Of 2027 Rollout](https://biztoc.com/x/1ec2182b385b99be) (Published: 2025-09-22)
