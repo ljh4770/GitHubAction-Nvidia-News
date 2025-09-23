@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-23 11:42:53**_
+_Last updated: **2025-09-23 11:53:51**_
 
+- [(PR) MSI Unveils Next-Gen AI Products at TGS 2025](https://www.techpowerup.com/341217/msi-unveils-next-gen-ai-products-at-tgs-2025) (Published: 2025-09-22)
+- [stringzillas-cuda 4.0.14](https://pypi.org/project/stringzillas-cuda/4.0.14/) (Published: 2025-09-22)
+- [Bitget introduces 25 US stock U-based perpetual contracts with high leverage](https://cryptobriefing.com/bitget-introduces-25-us-stock-perpetual-contracts-high-leverage/) (Published: 2025-09-22)
 - [nemo-evaluator 0.1.1](https://pypi.org/project/nemo-evaluator/0.1.1/) (Published: 2025-09-22)
 - [Why packaging is a huge part of Nvidia's $5B Intel deal — Foveros could speed up market delivery](https://www.tomshardware.com/tech-industry/semiconductors/why-nvidias-5bn-partnership-is-about-intels-packaging) (Published: 2025-09-22)
 - [Intel vs. Nvidia: Which Stock Wins More From This $5 Billion Investment?](https://biztoc.com/x/381cebd894fe42d5) (Published: 2025-09-22)
@@ -8,6 +11,3 @@ _Last updated: **2025-09-23 11:42:53**_
 - [Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor | TechCrunch](https://techcrunch.com/2025/09/22/commonwealth-fusion-systems-books-a-1b-power-deal-for-its-future-fusion-reactor/) (Published: 2025-09-22)
 - [IREN Doubles AI Cloud to 23k GPUs, Raises AI Cloud ARR Target to >$500m](https://www.globenewswire.com/news-release/2025/09/22/3153782/0/en/IREN-Doubles-AI-Cloud-to-23k-GPUs-Raises-AI-Cloud-ARR-Target-to-500m.html) (Published: 2025-09-22)
 - [AI Processor Market Size to Worth USD 325.24 Billion by 2032, at 25.11% CAGR | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/09/22/3153776/0/en/AI-Processor-Market-Size-to-Worth-USD-325-24-Billion-by-2032-at-25-11-CAGR-Research-by-SNS-Insider.html) (Published: 2025-09-22)
-- [It's going to be raining dollars over at Samsung: A stamp of approval by Nvidia, plus an incoming price hike for DRAM chips, has lifted shares out of the doldrums](https://www.pcgamer.com/hardware/memory/its-going-to-be-raining-dollars-over-at-samsung-a-stamp-of-approval-by-nvidia-plus-an-incoming-price-hike-for-dram-chips-has-lifted-shares-out-of-the-doldrums/) (Published: 2025-09-22)
-- [Discover the Latest Expanded AI Portfolio to Power Data Center and Edge Workloads](https://biztoc.com/x/8a772ef23c956abc) (Published: 2025-09-22)
-- [Abu Dhabi’s TII and NVIDIA Launch Middle East’s First Joint ‘AI & Robotics’ NVAITC Research Lab](https://en.antaranews.com/news/381512/abu-dhabis-tii-and-nvidia-launch-middle-easts-first-joint-ai-robotics-nvaitc-research-lab) (Published: 2025-09-22)
