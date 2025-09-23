@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-23 14:45:16**_
+_Last updated: **2025-09-23 14:55:24**_
 
+- [CoreWeave Plunges 34% From Peak. Is CRWV Stock a Buy Now?](https://www.barchart.com/story/news/34957026/coreweave-plunges-34-from-peak-is-crwv-stock-a-buy-now) (Published: 2025-09-22)
 - [XAI Colossus 2 First Gigawatt AI Data Center](https://www.nextbigfuture.com/2025/09/xai-colossus-2-first-gigawatt-ai-data-center.html) (Published: 2025-09-22)
 - [Nvidia's $5 billion investment gives Intel a shot in the arm](https://www.techtarget.com/searchenterprisedesktop/opinion/Nvidias-5-billion-investment-gives-Intel-a-shot-in-the-arm) (Published: 2025-09-22)
 - [Moody's raises Big Red over flag Oracle's mega AI DC buildout blueprint](https://www.theregister.com/2025/09/22/moodys_raises_questions_over_oracles/) (Published: 2025-09-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-23 14:45:16**_
 - [Nvidia and Intel’s collaborative PC chips might not happen for years](https://www.pcworld.com/article/2915876/nvidia-and-intels-collaborative-pc-chips-might-not-happen-for-years.html) (Published: 2025-09-22)
 - [Earthmover Raises $7.2M Seed Round to Transform Earth Science Data Management](https://financialpost.com/pmn/business-wire-news-releases-pmn/earthmover-raises-7-2m-seed-round-to-transform-earth-science-data-management) (Published: 2025-09-22)
 - [TSMC’s 2nm Pricing Rumored to Rise by a Whopping 50%, Potentially Driving Up Consumer Product Costs Significantly](https://wccftech.com/tsmc-2nm-pricing-rumored-to-rise-by-a-whopping-50/) (Published: 2025-09-22)
-- [The Art of the Decline](https://www.theatlantic.com/international/archive/2025/09/trump-foreign-policy/684294/) (Published: 2025-09-22)
