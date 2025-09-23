@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-23 04:37:58**_
+_Last updated: **2025-09-23 04:49:45**_
 
 - [Nvidia Stock Investors Just Got Bad News From China -- It Could Cost the Chipmaker $56 Billion](https://biztoc.com/x/61fa83eec923f367) (Published: 2025-09-22)
 - [Lachlan Murdoch, Michael Dell, Larry Ellison involved in TikTok deal, says Trump](https://indianexpress.com/article/technology/lachlan-murdoch-michael-dell-larry-ellison-involved-in-tiktok-deal-says-trump-10263864/) (Published: 2025-09-22)
