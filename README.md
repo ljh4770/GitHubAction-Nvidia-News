@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-23 07:57:41**_
+_Last updated: **2025-09-23 08:31:32**_
 
+- [Burr Financial Services LLC Has $24.73 Million Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/22/burr-financial-services-llc-has-24-73-million-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-22)
+- [NVIDIA Corporation $NVDA Shares Acquired by Beacon Financial Group](https://www.etfdailynews.com/2025/09/22/nvidia-corporation-nvda-shares-acquired-by-beacon-financial-group/) (Published: 2025-09-22)
+- [nvfuser-cu126 0.2.34.dev20250922](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20250922/) (Published: 2025-09-22)
+- [nvfuser-cu128 0.2.34.dev20250922](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20250922/) (Published: 2025-09-22)
+- [nvfuser-cu129 0.2.34.dev20250922](https://pypi.org/project/nvfuser-cu129/0.2.34.dev20250922/) (Published: 2025-09-22)
+- [Insider Selling: CoreWeave (NASDAQ:CRWV) Insider Sells $33,378,750.00 in Stock](https://www.etfdailynews.com/2025/09/22/insider-selling-coreweave-nasdaqcrwv-insider-sells-33378750-00-in-stock/) (Published: 2025-09-22)
+- [Mini PC at a great price with AMD Ryzen power and USB4 versatility - GMKtec NucBox M6 Ultra review](https://www.notebookcheck.net/Mini-PC-at-a-great-price-with-AMD-Ryzen-power-and-USB4-versatility-GMKtec-NucBox-M6-Ultra-review.1120121.0.html) (Published: 2025-09-22)
+- [Mini PC at a great price with AMD Ryzen power and USB4 power - GMKtec NucBox M6 Ultra review](https://www.notebookcheck.net/Mini-PC-at-a-great-price-with-AMD-Ryzen-power-and-USB4-power-GMKtec-NucBox-M6-Ultra-review.1120121.0.html) (Published: 2025-09-22)
+- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Down; Nvidia, Tesla, Intel, More Movers](https://biztoc.com/x/0d5aeefbd21c93ee) (Published: 2025-09-22)
 - [Key Client Fiduciary Advisors LLC Has $6.41 Million Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/22/key-client-fiduciary-advisors-llc-has-6-41-million-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-22)
-- [NVIDIA Corporation $NVDA is Renaissance Investment Group LLC’s 8th Largest Position](https://www.etfdailynews.com/2025/09/22/nvidia-corporation-nvda-is-renaissance-investment-group-llcs-8th-largest-position/) (Published: 2025-09-22)
-- [WestHill Financial Advisors Inc. Grows Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/22/westhill-financial-advisors-inc-grows-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-22)
-- [Jim Cramer Calls D-Wave “Pretty Interesting”](https://finance.yahoo.com/news/jim-cramer-calls-d-wave-074257466.html) (Published: 2025-09-22)
-- [Promising Automotive Stocks To Watch Today – September 19th](https://www.etfdailynews.com/2025/09/22/promising-automotive-stocks-to-watch-today-september-19th/) (Published: 2025-09-22)
-- [Nvidia Greenlights Samsung's AI Chip Technology, Sets Stage For HBM4 Battle: Report](https://biztoc.com/x/6b3590345b2eee12) (Published: 2025-09-22)
-- [Infrastructure Stocks To Watch Now – September 20th](https://www.etfdailynews.com/2025/09/22/infrastructure-stocks-to-watch-now-september-20th/) (Published: 2025-09-22)
-- [Silent Hill f Review – A Beautiful Nightmare](https://wccftech.com/review/silent-hill-f-review-a-beautiful-nightmare/) (Published: 2025-09-22)
-- [Silent Hill f review](https://www.rockpapershotgun.com/silent-hill-f-review) (Published: 2025-09-22)
-- [TSMC Reportedly Secures 15+ Customers for its “N2” 2 nm Node](https://www.madshrimps.be/news/tsmc-reportedly-secures-15-customers-for-its-n2-2-nm-node/) (Published: 2025-09-22)
