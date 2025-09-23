@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-23 17:32:04**_
+_Last updated: **2025-09-23 17:42:36**_
 
+- [Nvidia To Invest Up To $100 Bn In OpenAI Data Centers](https://www.ibtimes.com/nvidia-invest-100-bn-openai-data-centers-3784160) (Published: 2025-09-22)
+- [Nvidia to invest $100 billion in OpenAI to help expand the ChatGPT maker's computing power](https://finance.yahoo.com/news/nvidia-invest-100-billion-openai-174159865.html) (Published: 2025-09-22)
+- [Nvidia Keeps Minting New Coreweave-Style AI Data Center Unicorns](https://www.forbes.com/sites/iainmartin/2025/09/22/nvidia-keeps-minting-new-coreweave-style-ai-data-center-unicorns/) (Published: 2025-09-22)
+- [Analysts react to Nvidia's $100 billion investment in OpenAI](https://finance.yahoo.com/news/analysts-react-nvidias-100-billion-174101698.html) (Published: 2025-09-22)
+- [Analysts react to Nvidia's $100 billion investment in OpenAI](https://finance.yahoo.com/news/analysts-react-nvidias-100-billion-174101247.html) (Published: 2025-09-22)
+- [Fed’s Hammack urges caution on rate cuts to avoid overheating economy](https://biztoc.com/x/d93c8d374caab89a) (Published: 2025-09-22)
+- [The billion-dollar infrastructure deals powering the AI boom](https://biztoc.com/x/20b532da6a6c7158) (Published: 2025-09-22)
+- [The billion-dollar infrastructure deals powering the AI boom | TechCrunch](https://techcrunch.com/2025/09/22/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/) (Published: 2025-09-22)
 - [Nvidia plans to invest up to $100B in OpenAI | TechCrunch](https://techcrunch.com/2025/09/22/nvidia-plans-to-invest-up-to-100b-in-openai/) (Published: 2025-09-22)
 - [Stock Market Today: Dow Up As Apple, Nvidia Shine; Fed Officials Say This On Interest Rates (Live Coverage)](https://biztoc.com/x/2eb5bd245cd7a8e0) (Published: 2025-09-22)
-- [Nvidia stock jumps on $100 billion OpenAI investment](https://biztoc.com/x/15aa546f5e8f943d) (Published: 2025-09-22)
-- [Stocks Pick Up Steam as S&P 500, Nasdaq Hit Fresh Intraday Highs](https://biztoc.com/x/728a969d65e43165) (Published: 2025-09-22)
-- [Nvidia plans to invest up to $100B in OpenAI](https://biztoc.com/x/2860b52946765cd9) (Published: 2025-09-22)
-- [Nvidia plans to invest up to $100B in OpenAI](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f4c58bfe-ad32-4c05-a690-14a62ff02f7d) (Published: 2025-09-22)
-- [Top Stock Movers Now: Nvidia, Apple, Kenvue, and More](https://www.investopedia.com/top-stock-movers-now-nvidia-apple-kenvue-and-more-11814432) (Published: 2025-09-22)
-- [Nvidia will 100 Mrd. Dollar in OpenAI investieren](https://orf.at/stories/3406228/) (Published: 2025-09-22)
-- [Why Nvidia is pouring $100 billion into OpenAI](https://biztoc.com/x/0c9ef4ed7211f913) (Published: 2025-09-22)
-- [Chipmaker Nvidia to invest $100 billion in OpenAI](https://biztoc.com/x/1a7ffabb6d93db7f) (Published: 2025-09-22)
