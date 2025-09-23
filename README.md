@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-23 23:44:16**_
+_Last updated: **2025-09-23 23:54:40**_
 
 - [Nvidia and OpenAI make $100 billion deal to build data centers](https://biztoc.com/x/11f64dbf7e559405) (Published: 2025-09-22)
 - [Asia-Pacific markets set to open higher, tracking Wall Street gains on tech stocks rally](https://www.cnbc.com/2025/09/23/asia-pacific-markets-kospi-nifty-50-hang-seng-index-csi-300.html) (Published: 2025-09-22)
