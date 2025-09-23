@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-23 11:21:03**_
+_Last updated: **2025-09-23 11:32:17**_
 
+- [Why packaging is a huge part of Nvidia's $5B Intel deal — Foveros could speed up market delivery](https://www.tomshardware.com/tech-industry/semiconductors/why-nvidias-5bn-partnership-is-about-intels-packaging) (Published: 2025-09-22)
 - [Intel vs. Nvidia: Which Stock Wins More From This $5 Billion Investment?](https://biztoc.com/x/381cebd894fe42d5) (Published: 2025-09-22)
 - [Nvidia Tie-Up Leaves Intel Short of a Crucial Piece](https://biztoc.com/x/1fbc4eb6621f31ff) (Published: 2025-09-22)
 - [Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor | TechCrunch](https://techcrunch.com/2025/09/22/commonwealth-fusion-systems-books-a-1b-power-deal-for-its-future-fusion-reactor/) (Published: 2025-09-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-23 11:21:03**_
 - [Discover the Latest Expanded AI Portfolio to Power Data Center and Edge Workloads](https://biztoc.com/x/8a772ef23c956abc) (Published: 2025-09-22)
 - [Abu Dhabi’s TII and NVIDIA Launch Middle East’s First Joint ‘AI & Robotics’ NVAITC Research Lab](https://en.antaranews.com/news/381512/abu-dhabis-tii-and-nvidia-launch-middle-easts-first-joint-ai-robotics-nvaitc-research-lab) (Published: 2025-09-22)
 - [1 Monster Stock That's Gained 2,150% Over the Last 5 Years. It Has Nothing to Do With Artificial Intelligence (AI), and It's Still Dirt Cheap](https://biztoc.com/x/f53792237091c1ee) (Published: 2025-09-22)
-- [CoreWeave’s $29 Billion Bet That Its Debt-Fueled AI Boom Won’t Go Bust](https://www.forbes.com/sites/rashishrivastava/2025/09/22/coreweaves-29-billion-bet-that-its-debt-fueled-ai-boom-wont-go-bust/) (Published: 2025-09-22)
