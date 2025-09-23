@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-23 11:32:17**_
+_Last updated: **2025-09-23 11:42:53**_
 
+- [nemo-evaluator 0.1.1](https://pypi.org/project/nemo-evaluator/0.1.1/) (Published: 2025-09-22)
 - [Why packaging is a huge part of Nvidia's $5B Intel deal — Foveros could speed up market delivery](https://www.tomshardware.com/tech-industry/semiconductors/why-nvidias-5bn-partnership-is-about-intels-packaging) (Published: 2025-09-22)
 - [Intel vs. Nvidia: Which Stock Wins More From This $5 Billion Investment?](https://biztoc.com/x/381cebd894fe42d5) (Published: 2025-09-22)
 - [Nvidia Tie-Up Leaves Intel Short of a Crucial Piece](https://biztoc.com/x/1fbc4eb6621f31ff) (Published: 2025-09-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-23 11:32:17**_
 - [It's going to be raining dollars over at Samsung: A stamp of approval by Nvidia, plus an incoming price hike for DRAM chips, has lifted shares out of the doldrums](https://www.pcgamer.com/hardware/memory/its-going-to-be-raining-dollars-over-at-samsung-a-stamp-of-approval-by-nvidia-plus-an-incoming-price-hike-for-dram-chips-has-lifted-shares-out-of-the-doldrums/) (Published: 2025-09-22)
 - [Discover the Latest Expanded AI Portfolio to Power Data Center and Edge Workloads](https://biztoc.com/x/8a772ef23c956abc) (Published: 2025-09-22)
 - [Abu Dhabi’s TII and NVIDIA Launch Middle East’s First Joint ‘AI & Robotics’ NVAITC Research Lab](https://en.antaranews.com/news/381512/abu-dhabis-tii-and-nvidia-launch-middle-easts-first-joint-ai-robotics-nvaitc-research-lab) (Published: 2025-09-22)
-- [1 Monster Stock That's Gained 2,150% Over the Last 5 Years. It Has Nothing to Do With Artificial Intelligence (AI), and It's Still Dirt Cheap](https://biztoc.com/x/f53792237091c1ee) (Published: 2025-09-22)
