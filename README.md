@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-23 17:53:31**_
+_Last updated: **2025-09-23 18:21:16**_
 
-- [Treasury chief: US ready to support Argentina, leaders to meet Tuesday](https://biztoc.com/x/b4307ac6894b20f8) (Published: 2025-09-22)
-- [Top Stock Movers Now: Nvidia, Apple, Kenvue, and More](https://biztoc.com/x/89e820267873a8fa) (Published: 2025-09-22)
-- [Instant view: Analysts react to Nvidia's $100 billion investment in OpenAI](https://biztoc.com/x/df3f8b8144e7c2d1) (Published: 2025-09-22)
-- [Nvidia to invest $100 billion in OpenAI to help expand the ChatGPT maker's computing power](https://biztoc.com/x/ce6d7f8e13abca2d) (Published: 2025-09-22)
-- [GE Aerospace Stock Falls After Labor Deal. A Boeing Staff Dispute Is Ongoing](https://biztoc.com/x/e28f3b7c5cbb0118) (Published: 2025-09-22)
-- [Analysts react to Nvidia's $100 billion investment in OpenAI](https://biztoc.com/x/2fe160de28baf0c4) (Published: 2025-09-22)
-- [Trump to Redirect $2.4 Billion in California High-Speed Rail Aid](https://biztoc.com/x/1bb3683964524e76) (Published: 2025-09-22)
-- [Monte dei Paschi secures 86.3% of Mediobanca in Italy's "most exotic" takeover bid](https://biztoc.com/x/3cf59068c239408e) (Published: 2025-09-22)
-- ["AI Will Replace Every Human Job": Musk's Warning Terrifies Workers While Career Extinction Approaches,](https://biztoc.com/x/cb2e6374a81cb0b3) (Published: 2025-09-22)
+- [Nvidia to invest $100B in OpenAI to help expand ChatGPT maker's computing power](https://abcnews.go.com/Technology/wireStory/nvidia-invest-100-billion-openai-expand-chatgpt-makers-125822976) (Published: 2025-09-22)
+- [Buy A B850/X870E Motherboard With Ryzen 9800X3D And Save Over $100; These Newegg Bundles Will Be Hard To Pass Up](https://wccftech.com/save-over-100-with-these-newegg-ryzen-9800x3d-motherboard-bundles/) (Published: 2025-09-22)
+- [âASUS ROG Zephyrus G16 (Open-Boxes): 16" OLED 2.5K 240Hz, Intel Core Ultra 9 285H, RTX 5080, 32GB DDR5, 2TB SSD $2020.99 (3 replies)](https://slickdeals.net/f/18624028-asus-rog-zephyrus-g16-open-boxes-16-oled-2-5k-240hz-intel-core-ultra-9-285h-rtx-5080-32gb-ddr5-2tb-ssd-2020-99) (Published: 2025-09-22)
+- [On the H-1B fee, Jensen Huang says he's “glad” to see “Trump making the moves he's making”; Sam Altman says “outlining financial incentives seems good to me”](https://biztoc.com/x/814dfe17e44c9da6) (Published: 2025-09-22)
+- [Bitcoin Treasury Company M&A](https://biztoc.com/x/867e6a88ea550a1a) (Published: 2025-09-22)
+- [Citigroup taps Goldman, BNY veterans for senior wealth leadership roles, memo says](https://biztoc.com/x/357325bcebe220b2) (Published: 2025-09-22)
+- [Fed's Hammack still focused on inflation, calls for caution in easing policy](https://biztoc.com/x/9ab0838dcb74dd2a) (Published: 2025-09-22)
+- [FDA expands warning of radioactive shrimp as two more brands recalled](https://biztoc.com/x/96961bc13483929b) (Published: 2025-09-22)
+- [Affordable Housing Renters Seek to Unionize Across the US](https://biztoc.com/x/1d7f42cf33d8d904) (Published: 2025-09-22)
+- [How Musk Confused Regulators in San Francisco with Tesla’s (TSLA) Robotaxi Plans](https://biztoc.com/x/cd1eadf2fd376a66) (Published: 2025-09-22)
