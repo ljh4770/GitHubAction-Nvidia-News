@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-24 05:32:11**_
+_Last updated: **2025-09-24 05:43:53**_
 
+- [Huawei Plans Three-Year Campaign to Overtake Nvidia in AI Chips](https://biztoc.com/x/c2d3ae693783ff76) (Published: 2025-09-23)
 - [Gaming PCs: Ryzen 7 9800X3D, RTX 5080 16GB, 32GB RAM, Kingston 1TB: $2848; 5070 Ti $2448; 9070 XT $2298 + $50 Del @ Nebula PC](https://www.ozbargain.com.au/node/925392) (Published: 2025-09-23)
 - [Technology Stocks To Follow Today – September 21st](https://www.etfdailynews.com/2025/09/23/technology-stocks-to-follow-today-september-21st/) (Published: 2025-09-23)
 - [Strategic deal reinforces Nvidia’s AI dominance](https://m.economictimes.com/markets/stocks/news/strategic-deal-reinforces-nvidias-ai-dominance/nvidia-to-invest-100b-in-openai/slideshow/124061707.cms) (Published: 2025-09-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-24 05:32:11**_
 - [Dan Ives Compares Sam Altman's World Network To Tesla, Nvidia, Palantir In Their Infancy: 'An AI Meets Crypto Intersection'](https://biztoc.com/x/56ce6a762b0c5890) (Published: 2025-09-23)
 - [CyberPowerPC Gamer Master Gaming Desktop: Ryzen 5 8400F, RTX 5060, 16GB DDR5, 1TB SSD $799](https://slickdeals.net/f/18625630-cyberpowerpc-gamer-master-gaming-desktop-ryzen-5-8400f-rtx-5060-16gb-ddr5-1tb-ssd-799) (Published: 2025-09-23)
 - [Dan Ives Compares Sam Altman's World Network To Tesla, Nvidia, Palantir In Their Infancy: 'An AI Meets Crypto Intersection'](https://finance.yahoo.com/news/dan-ives-compares-sam-altmans-041204919.html) (Published: 2025-09-23)
-- [Asian shares trade mixed after US stocks set more records](https://abcnews.go.com/Business/wireStory/asian-shares-trade-mixed-after-us-stocks-set-125839981) (Published: 2025-09-23)
