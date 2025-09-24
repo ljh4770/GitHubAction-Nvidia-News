@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-24 20:32:24**_
+_Last updated: **2025-09-24 20:43:09**_
 
-- [Nvidia’s Massive OpenAI Deal Fuels ‘Circular’ Financing Concerns](https://finance.yahoo.com/news/nvidia-massive-openai-deal-fuels-202814999.html) (Published: 2025-09-23)
-- [US criticizes climate, social focus of UN aviation group](https://biztoc.com/x/68f3144388ed3003) (Published: 2025-09-23)
-- [Singapore's Seatrium selling Texas shipyard to Turkey's Karpowership for $51 million](https://biztoc.com/x/e579dcf79afb5644) (Published: 2025-09-23)
-- [Concurrent Investment Advisors Makes Its First Acquisition. It’s a $10 Billion Retirement Advisor](https://biztoc.com/x/4251682b2f5bc6e9) (Published: 2025-09-23)
-- [Boeing's defense and space unit partners with Palantir for AI adoption](https://biztoc.com/x/bd6a56af2e1a3576) (Published: 2025-09-23)
-- [Wi-Fi 8 is a go as key Nvidia partner confirms there won't be much difference in speed ahead of expected launch in 2028](https://www.techradar.com/pro/wi-fi-8-is-a-go-as-key-nvidia-partner-confirms-there-wont-be-much-difference-in-speed-ahead-of-expected-launch-in-2028) (Published: 2025-09-23)
-- [Micron beats on earnings as company sales rise 46% on AI boom](https://www.cnbc.com/2025/09/23/micron-mu-q4-2025-earnings-report.html) (Published: 2025-09-23)
-- [Here Are The Best GeForce RTX 50 Series Deals On Walmart; GPUs, Desktops, And Laptops At The Lowest Prices Ever](https://wccftech.com/here-are-the-best-geforce-rtx-50-series-deals-on-walmart/) (Published: 2025-09-23)
-- [Intel Arc GPU Drivers Hint At Possible XeSS MFG “Multi-Frame Generation” Tech](https://wccftech.com/intel-arc-gpu-drivers-hint-at-possible-xess-mfg-multi-frame-generation-tech/) (Published: 2025-09-23)
-- [Windows ML is Generally Available with Windows App SDK 1.8.1](https://www.thurrott.com/a-i/327165/windows-ml-is-generally-available-with-windows-app-sdk-1-8-1) (Published: 2025-09-23)
+- [Stanford AI Safety Workshop Vitally Showcases The Path To Safer AI And Making AI Safe](https://www.forbes.com/sites/lanceeliot/2025/09/23/stanford-ai-safety-workshop-vitally-showcases-the-path-to-safer-ai-and-making-ai-safe/) (Published: 2025-09-23)
+- [Sources: Tether is in talks to raise $15B to $20B in exchange for a ~3% stake through a private placement in a deal that could value the company at ~$500B](https://biztoc.com/x/cbe8ee1d83ebb639) (Published: 2025-09-23)
+- [Stocks to Watch Tuesday: TSMC, Boeing, Kenvue, AutoZone](https://biztoc.com/x/83dcc682b2b7065c) (Published: 2025-09-23)
+- [Costco recalls Kirkland food nationwide over deadly illness risk](https://biztoc.com/x/85887906484807e0) (Published: 2025-09-23)
+- [Trump, Democrats Angle to Avoid Blame in Shutdown Fight](https://biztoc.com/x/9113b447748116d6) (Published: 2025-09-23)
+- [The Trump administration proposes an H-1B visa process giving more weight to applications from employers who pay higher wages if visa demand exceeds the 85K cap](https://biztoc.com/x/f8f103314d526324) (Published: 2025-09-23)
+- [Trump says he now believes Ukraine can win back all territory lost to Russia with NATO's help](https://biztoc.com/x/366893811b07aa66) (Published: 2025-09-23)
+- [Crypto firm Tether eyes $500 billion valuation in major raise round, Bloomberg News reports](https://biztoc.com/x/c31e41be52cd90dd) (Published: 2025-09-23)
+- [Canadian dollar hits 11-day low as interest rate spreads weigh](https://biztoc.com/x/453eb401a7505127) (Published: 2025-09-23)
