@@ -1,13 +1,15 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-24 11:48:21**_
+_Last updated: **2025-09-24 11:58:27**_
 
-- [NVIDIA to invest $100 billion in OpenAI — after Microsoft backed out of two data center deals to escape additional ChatGPT training support](https://www.windowscentral.com/artificial-intelligence/nvidia-to-invest-usd100-billion-in-openai-after-microsoft-backed-out-of-two-data-center-deals-to-escape-additional-chatgpt-training-support) (Published: 2025-09-23)
-- [AutoZone Stock Falls After Its Fifth Consecutive Earnings Miss](https://biztoc.com/x/20d5cf5735e6f9dc) (Published: 2025-09-23)
-- [S&P 500 Futures Fall in Premarket Trading; Firefly Aerospace, Opendoor Technologies Lag](https://biztoc.com/x/d3880a635fbab472) (Published: 2025-09-23)
-- [Spiraling Power Costs Are Now a Major Political Issue in the US](https://biztoc.com/x/3583ba6bdddc4808) (Published: 2025-09-23)
-- [New Thai government aiming to present policy statement before Sept 30, official says](https://biztoc.com/x/a3328ca3d49f6ed8) (Published: 2025-09-23)
-- [Amazon Is the Next Step in FedEx’s Bold Turnaround](https://biztoc.com/x/9991b65c3ac2093b) (Published: 2025-09-23)
-- [Guinea Backs New Law Extending Presidential Term to Seven Years](https://biztoc.com/x/6a6919b6f92a7a56) (Published: 2025-09-23)
-- [Treasury Bonds Nudge Higher With Powell, 2-Year Auction in Focus](https://biztoc.com/x/818b2e03bab1f7ee) (Published: 2025-09-23)
-- [Huawei Bets On Brute Force To Outpace Nvidia](https://biztoc.com/x/baf00b6c608b4a37) (Published: 2025-09-23)
-- [America has a new top-selling beer](https://biztoc.com/x/b2851771a8240936) (Published: 2025-09-23)
+- [Novice Investor’s Digest For Tuesday, September 23: Deals For OpenAI And TikTok](https://www.forbes.com/sites/catherinebrock/2025/09/23/novice-investors-digest-for-tuesday-september-23-deals-for-openai-and-tiktok/) (Published: 2025-09-23)
+- [Forbes Daily: Disney Clears Kimmel As Sinclair Evaluates ‘Potential Return’](https://www.forbes.com/sites/daniellechemtob/2025/09/23/forbes-daily-disney-clears-kimmel-as-sinclair-evaluates-potential-return/) (Published: 2025-09-23)
+- [ON Semiconductor To Acquire Aura's Vcore Power Tech](https://finance.yahoo.com/news/semiconductor-acquire-auras-vcore-power-115325474.html) (Published: 2025-09-23)
+- [Chinese police investigating app fraud case, says German drugmaker Merck KGaA](https://biztoc.com/x/7670c3ed56de445c) (Published: 2025-09-23)
+- [Dan Ives Compares Sam Altman's World Network To Tesla, Nvidia, Palantir In Their Infancy: 'An AI Meets Crypto Intersection'](https://biztoc.com/x/bbf96f4e5cbbf63c) (Published: 2025-09-23)
+- [Ukraine says it hit Russian oil infrastructure in Bryansk, Samara regions](https://biztoc.com/x/dad395265c5d1280) (Published: 2025-09-23)
+- [Pfizer’s weight-loss drug confines it to sidelines of crowded market](https://biztoc.com/x/599fa06247825956) (Published: 2025-09-23)
+- [Autonomous Trucking Startup Gatik to Deploy 50 Rigs in Canada](https://biztoc.com/x/27ccea2b31214676) (Published: 2025-09-23)
+- [Pricing Water Risk Takes On Growing Urgency Amid Scarcity Fears](https://biztoc.com/x/7faa05a66285ce20) (Published: 2025-09-23)
+- [Video
+Fighting wildfires from space: 50+ satellites to track wildfires worldwide
+3:06](https://biztoc.com/x/c954a1971b7a16b1) (Published: 2025-09-23)
