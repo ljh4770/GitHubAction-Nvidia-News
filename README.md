@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-24 20:43:09**_
+_Last updated: **2025-09-24 20:53:28**_
 
-- [Stanford AI Safety Workshop Vitally Showcases The Path To Safer AI And Making AI Safe](https://www.forbes.com/sites/lanceeliot/2025/09/23/stanford-ai-safety-workshop-vitally-showcases-the-path-to-safer-ai-and-making-ai-safe/) (Published: 2025-09-23)
-- [Sources: Tether is in talks to raise $15B to $20B in exchange for a ~3% stake through a private placement in a deal that could value the company at ~$500B](https://biztoc.com/x/cbe8ee1d83ebb639) (Published: 2025-09-23)
-- [Stocks to Watch Tuesday: TSMC, Boeing, Kenvue, AutoZone](https://biztoc.com/x/83dcc682b2b7065c) (Published: 2025-09-23)
-- [Costco recalls Kirkland food nationwide over deadly illness risk](https://biztoc.com/x/85887906484807e0) (Published: 2025-09-23)
-- [Trump, Democrats Angle to Avoid Blame in Shutdown Fight](https://biztoc.com/x/9113b447748116d6) (Published: 2025-09-23)
-- [The Trump administration proposes an H-1B visa process giving more weight to applications from employers who pay higher wages if visa demand exceeds the 85K cap](https://biztoc.com/x/f8f103314d526324) (Published: 2025-09-23)
-- [Trump says he now believes Ukraine can win back all territory lost to Russia with NATO's help](https://biztoc.com/x/366893811b07aa66) (Published: 2025-09-23)
-- [Crypto firm Tether eyes $500 billion valuation in major raise round, Bloomberg News reports](https://biztoc.com/x/c31e41be52cd90dd) (Published: 2025-09-23)
-- [Canadian dollar hits 11-day low as interest rate spreads weigh](https://biztoc.com/x/453eb401a7505127) (Published: 2025-09-23)
+- [Build-A-Bear continues to rack up market gains, despite tariffs and teetering mall traffic - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=179499538) (Published: 2025-09-23)
+- [Jimmy Kimmel returns to late-night television from six-day suspension](https://biztoc.com/x/4797f6c7974bd70c) (Published: 2025-09-23)
+- [Gucci stages star-studded movie night as designer Demna debuts in Milan](https://biztoc.com/x/a500cba9717b3d07) (Published: 2025-09-23)
+- [Micron’s stock gains as the memory-chip maker clears a high bar](https://biztoc.com/x/2df1638b2b1687be) (Published: 2025-09-23)
+- [Breaking Down the Proposed US-China TikTok Deal](https://biztoc.com/x/9978d77f494c3584) (Published: 2025-09-23)
+- [Divided Fed Has Bond Traders Hedge Wide Range of Policy Outcomes](https://biztoc.com/x/c4b9a4d4ba280bfd) (Published: 2025-09-23)
+- [US stocks may surge another 20% before historic crash, says 'black swan' fund Universa](https://biztoc.com/x/36a68532971e2c87) (Published: 2025-09-23)
+- [US stocks may surge another 20% before historic crash, says ’black swan’ fund Universa](https://biztoc.com/x/d4765e6e3be65a08) (Published: 2025-09-23)
+- [Stocks Settle Lower on Weakness in Big Tech](https://biztoc.com/x/9c77ef84b4d28c87) (Published: 2025-09-23)
+- [This Research Lab Is Giving AI A Better Memory](https://www.forbes.com/sites/the-prompt/2025/09/23/this-research-lab-is-giving-ai-a-better-memory/) (Published: 2025-09-23)
