@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-25 04:44:27**_
+_Last updated: **2025-09-25 04:54:56**_
 
 - [Nvidia’s Massive OpenAI Deal Fuels ‘Circular’ Financing Concerns - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=179506790) (Published: 2025-09-24)
 - [Nvidia’s $100bn OpenAI deal raises big questions](https://www.independent.ie/business/world/nvidias-100bn-openai-deal-raises-big-questions/a789884233.html) (Published: 2025-09-24)
