@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-25 14:56:35**_
+_Last updated: **2025-09-25 15:23:31**_
 
-- [AI Firm Cohere Valued at $7 Billion After Raising $100 Million](http://www.pymnts.com/news/investment-tracker/2025/ai-firm-cohere-valued-at-7-billion-after-raising-100-million/) (Published: 2025-09-24)
-- [What’s up with… SIM farms, Optus, AI in Europe](https://www.telecomtv.com/content/security/what-s-up-with-sim-farms-optus-ai-in-europe-53901/) (Published: 2025-09-24)
-- [Alibaba to offer Nvidia’s physical AI development tools in its AI platform - TechCrunch](https://slashdot.org/firehose.pl?op=view&amp;id=179517856) (Published: 2025-09-24)
-- [The Shiller P/E ratio, a trusted stock-market gauge, just hit its highest level since the dot-com bubble](https://markets.businessinsider.com/news/stocks/stock-market-outlook-shiller-pe-ratio-dot-com-bubble-ai-2025-9) (Published: 2025-09-24)
-- [Alibaba’s $53 Billion AI Blitz Ignites Stock Rally With Nvidia As the Secret Sauce](https://biztoc.com/x/90eef42daa1a29da) (Published: 2025-09-24)
-- [Barclays downgrades Keurig Dr Pepper: Sees elevated noise and uncertainty](https://finance.yahoo.com/news/barclays-downgrades-keurig-dr-pepper-143633468.html) (Published: 2025-09-24)
-- [Switch 2 ‘Borderlands 4’ Delayed Indefinitely, Pre-Orders Cancelled](https://www.forbes.com/sites/paultassi/2025/09/24/switch-2-borderlands-4-delayed-indefinitely-pre-orders-cancelled/) (Published: 2025-09-24)
-- [This top-of-the-line gaming PC is on sale for $1,600 off at Walmart](https://www.zdnet.com/article/this-top-of-the-line-gaming-pc-is-on-sale-for-1600-off-at-walmart/) (Published: 2025-09-24)
-- [Trump's tennis invite from Rolex echoes Apple, Nvidia playbook for currying favor, Warren says](https://biztoc.com/x/e8e2c5a465faba5e) (Published: 2025-09-24)
-- [Markets Slip As Powell Stays Cautious, Nvidia Fuels AI Frenzy](https://www.forbes.com/sites/jjkinahan/2025/09/24/markets-slip-as-powell-stays-cautious-nvidia-fuels-ai-frenzy/) (Published: 2025-09-24)
+- [Acer Aspire TC-1660 GPU upgrade?](https://www.bleepingcomputer.com/forums/t/810876/acer-aspire-tc-1660-gpu-upgrade/) (Published: 2025-09-24)
+- [Trump’s Effort to Pick America’s Corporate Winners Will End Badly](https://www.project-syndicate.org/commentary/trump-misguided-corporate-meddling-bound-to-backfire-by-anne-o-krueger-2025-09) (Published: 2025-09-24)
+- [Competitor Analysis: Evaluating NVIDIA And Competitors In Semiconductors & Semiconductor Equipment Industry](https://biztoc.com/x/b5600d4b84606a68) (Published: 2025-09-24)
+- [Microsoft develops breakthrough chip cooling method — microfluidic channels can cut peak temps by up to 65%, outperform conventional cold plates by up to 3x](https://www.tomshardware.com/pc-components/liquid-cooling/microsoft-develops-breakthrough-chip-cooling-method-microfluidic-channels-can-cut-peak-temps-by-up-to-65-percent-outperform-conventional-cold-plates-by-up-to-3x) (Published: 2025-09-24)
+- [Lawmakers and activists call for action after AP reveals US tech role in China’s surveillance state](https://financialpost.com/pmn/lawmakers-and-activists-call-for-action-after-ap-reveals-us-tech-role-in-chinas-surveillance-state) (Published: 2025-09-24)
+- [Must-Watch Robotics Stocks That Could Drive Future Growth Trends](https://finance.yahoo.com/news/must-watch-robotics-stocks-could-151000347.html) (Published: 2025-09-24)
+- [Solidigm touts industry's first liquid-cooled enterprise SSD — D7-PS1010 is an E.1 PCIe 5.0 drive with a wrap-around cold plate](https://www.tomshardware.com/pc-components/ssds/solidigm-touts-industrys-first-liquid-cooled-enterprise-ssd-d7-ps1010-is-an-e-1-pcie-5-0-drive-with-a-wrap-around-cold-plate) (Published: 2025-09-24)
+- [Intel still has a few surprises for its GPU users as evidence of new FPS boosting tech surfaces](https://www.notebookcheck.net/Intel-still-has-a-few-surprises-for-its-GPU-users-as-evidence-of-new-FPS-boosting-tech-surfaces.1123165.0.html) (Published: 2025-09-24)
+- [Lorentz Solution Jointly Presents with NVIDIA on Large-Scale 3D Terahertz EM Simulation for Real IC/3DIC Silicon Case Studies in Photonic Switches at 2025 TSMC OIP](https://financialpost.com/pmn/business-wire-news-releases-pmn/lorentz-solution-jointly-presents-with-nvidia-on-large-scale-3d-terahertz-em-simulation-for-real-ic-3dic-silicon-case-studies-in-photonic-switches-at-2025-tsmc-oip) (Published: 2025-09-24)
