@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-25 19:49:39**_
+_Last updated: **2025-09-25 19:59:52**_
 
+- [Taiwan Semiconductor Plans Ultra-Advanced Chips By 2028 With Massive Taichung Fab](https://www.benzinga.com/markets/tech/25/09/47849420/taiwan-semiconductor-plans-ultra-advanced-chips-by-2028-with-massive-taichung-fab) (Published: 2025-09-24)
 - [Modular raises $250M to simplify AI deployment across hardware](https://siliconangle.com/2025/09/24/modular-raises-250m-simplify-ai-deployment-across-hardware/) (Published: 2025-09-24)
 - [Microsoft Turns to Anthropic in Shift From OpenAI Relationship](http://www.pymnts.com/artificial-intelligence-2/2025/microsoft-turns-to-anthropic-in-shift-from-openai-relationship/) (Published: 2025-09-24)
 - [Nvidia Director Sells $62 Million Stake, Still Owns Billions](https://finance.yahoo.com/news/nvidia-director-sells-62-million-193807825.html) (Published: 2025-09-24)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-25 19:49:39**_
 - [Start-up Modular raises $250mn to challenge Nvidia’s software dominance - Financial Times](https://slashdot.org/firehose.pl?op=view&amp;id=179520532) (Published: 2025-09-24)
 - [Jim Cramer shines light on top stocks to target now](https://www.thestreet.com/investing/jim-cramer-shines-light-on-top-stocks-to-target-now-) (Published: 2025-09-24)
 - [IONQ or QUBT: Which Quantum Stock Is the Better Investment in 2025?](https://finance.yahoo.com/news/ionq-qubt-quantum-stock-better-190000076.html) (Published: 2025-09-24)
-- [Alibaba Just Nabbed an Nvidia Partnership. Should You Buy BABA Stock Here?](https://biztoc.com/x/f09f80c5d984f3ef) (Published: 2025-09-24)
