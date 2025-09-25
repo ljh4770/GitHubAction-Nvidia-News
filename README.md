@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-25 05:45:50**_
+_Last updated: **2025-09-25 05:56:10**_
 
 - [CNBC's UK Exchange newsletter: How Britain's startup sector is evolving](https://www.cnbc.com/2025/09/24/cnbcs-uk-exchange-newsletter-how-britains-startup-sector-is-evolving.html) (Published: 2025-09-24)
 - [论文复现【Switching Sampling Space of Model Predictive Path-Integral Controller to Balance Efficiency and Safety in 4WIDS Vehicle Navigation】 - zylyehuo](https://www.cnblogs.com/zylyehuo/p/19109029) (Published: 2025-09-24)
