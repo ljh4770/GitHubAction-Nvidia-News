@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-25 15:23:31**_
+_Last updated: **2025-09-25 15:40:31**_
 
+- [Alibaba stock soars on expected AI spend, Nvidia pact](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_91d5c336-02f8-4df8-9d11-078ef57677f0) (Published: 2025-09-24)
 - [Acer Aspire TC-1660 GPU upgrade?](https://www.bleepingcomputer.com/forums/t/810876/acer-aspire-tc-1660-gpu-upgrade/) (Published: 2025-09-24)
 - [Trump’s Effort to Pick America’s Corporate Winners Will End Badly](https://www.project-syndicate.org/commentary/trump-misguided-corporate-meddling-bound-to-backfire-by-anne-o-krueger-2025-09) (Published: 2025-09-24)
 - [Competitor Analysis: Evaluating NVIDIA And Competitors In Semiconductors & Semiconductor Equipment Industry](https://biztoc.com/x/b5600d4b84606a68) (Published: 2025-09-24)
