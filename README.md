@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-25 15:40:31**_
+_Last updated: **2025-09-25 15:51:21**_
 
+- [The Secret Behind The Greatest Stocks In History](https://www.forbes.com/sites/adamsarhan/2025/09/24/the-secret-behind-the-greatest-stocks-in-history/) (Published: 2025-09-24)
+- [Alibaba stock soars on expected AI spend, Nvidia pact](https://biztoc.com/x/de74e2b53b4b2ae5) (Published: 2025-09-24)
+- [SolidCore.ai Emerges from Stealth with Seed Funding to Close Enterprise GenAI Trust Gap](https://www.globenewswire.com/news-release/2025/09/24/3155676/0/en/SolidCore-ai-Emerges-from-Stealth-with-Seed-Funding-to-Close-Enterprise-GenAI-Trust-Gap.html) (Published: 2025-09-24)
+- [A zero-water, zero-emissions, off-grid AI data center sounds like science fiction, but it's actually real and already running](https://www.pcgamer.com/software/ai/a-zero-water-zero-emissions-off-grid-ai-data-center-sounds-like-science-fiction-but-its-actually-real-and-already-running/) (Published: 2025-09-24)
+- [OpenAI Announces Plans for Five More ‘Stargate’ Data Centers in the US](https://gizmodo.com/openai-announces-plans-for-five-more-stargate-data-centers-in-the-us-2000663145) (Published: 2025-09-24)
 - [Alibaba stock soars on expected AI spend, Nvidia pact](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_91d5c336-02f8-4df8-9d11-078ef57677f0) (Published: 2025-09-24)
 - [Acer Aspire TC-1660 GPU upgrade?](https://www.bleepingcomputer.com/forums/t/810876/acer-aspire-tc-1660-gpu-upgrade/) (Published: 2025-09-24)
 - [Trump’s Effort to Pick America’s Corporate Winners Will End Badly](https://www.project-syndicate.org/commentary/trump-misguided-corporate-meddling-bound-to-backfire-by-anne-o-krueger-2025-09) (Published: 2025-09-24)
 - [Competitor Analysis: Evaluating NVIDIA And Competitors In Semiconductors & Semiconductor Equipment Industry](https://biztoc.com/x/b5600d4b84606a68) (Published: 2025-09-24)
 - [Microsoft develops breakthrough chip cooling method — microfluidic channels can cut peak temps by up to 65%, outperform conventional cold plates by up to 3x](https://www.tomshardware.com/pc-components/liquid-cooling/microsoft-develops-breakthrough-chip-cooling-method-microfluidic-channels-can-cut-peak-temps-by-up-to-65-percent-outperform-conventional-cold-plates-by-up-to-3x) (Published: 2025-09-24)
-- [Lawmakers and activists call for action after AP reveals US tech role in China’s surveillance state](https://financialpost.com/pmn/lawmakers-and-activists-call-for-action-after-ap-reveals-us-tech-role-in-chinas-surveillance-state) (Published: 2025-09-24)
-- [Must-Watch Robotics Stocks That Could Drive Future Growth Trends](https://finance.yahoo.com/news/must-watch-robotics-stocks-could-151000347.html) (Published: 2025-09-24)
-- [Solidigm touts industry's first liquid-cooled enterprise SSD — D7-PS1010 is an E.1 PCIe 5.0 drive with a wrap-around cold plate](https://www.tomshardware.com/pc-components/ssds/solidigm-touts-industrys-first-liquid-cooled-enterprise-ssd-d7-ps1010-is-an-e-1-pcie-5-0-drive-with-a-wrap-around-cold-plate) (Published: 2025-09-24)
-- [Intel still has a few surprises for its GPU users as evidence of new FPS boosting tech surfaces](https://www.notebookcheck.net/Intel-still-has-a-few-surprises-for-its-GPU-users-as-evidence-of-new-FPS-boosting-tech-surfaces.1123165.0.html) (Published: 2025-09-24)
-- [Lorentz Solution Jointly Presents with NVIDIA on Large-Scale 3D Terahertz EM Simulation for Real IC/3DIC Silicon Case Studies in Photonic Switches at 2025 TSMC OIP](https://financialpost.com/pmn/business-wire-news-releases-pmn/lorentz-solution-jointly-presents-with-nvidia-on-large-scale-3d-terahertz-em-simulation-for-real-ic-3dic-silicon-case-studies-in-photonic-switches-at-2025-tsmc-oip) (Published: 2025-09-24)
