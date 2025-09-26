@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 23:29:12**_
+_Last updated: **2025-09-26 23:40:10**_
 
+- [Up nearly 150% in 5 years with plans to double data centre profits by FY27, does this ASX 200 stock have further to run?](https://www.fool.com.au/2025/09/26/up-nearly-150-in-5-years-with-plans-to-double-data-centre-profits-by-fy27-does-this-asx-200-stock-have-further-to-run/) (Published: 2025-09-25)
 - [Just Released: NVIDIA HPC SDK v25.9](https://developer.nvidia.com/nvidia-hpc-sdk-259-downloads) (Published: 2025-09-25)
 - [AI data center builder Nscale raises $1.1B round backed by Nvidia](https://siliconangle.com/2025/09/25/ai-data-center-builder-nscale-raises-1-1b-round-backed-nvidia/) (Published: 2025-09-25)
 - [Nvidia is letting anyone use its AI voice animation tech](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source) (Published: 2025-09-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-26 23:29:12**_
 - [Factory Raises $50M Series B](https://factory.ai/news/series-b) (Published: 2025-09-25)
 - [OpenAI-CoreWeave Partnership Grows to $22.4 Billion](http://www.pymnts.com/artificial-intelligence-2/2025/openai-coreweave-partnership-ai-hyperscalers/) (Published: 2025-09-25)
 - [KBR (KBR) Stock Trades Down, Here Is Why](https://finance.yahoo.com/news/kbr-kbr-stock-trades-down-205041718.html) (Published: 2025-09-25)
-- [Nvidia CEO in 'Founder Mode': Barclays' O'Malley](https://finance.yahoo.com/video/nvidia-ceo-founder-mode-barclays-203010422.html) (Published: 2025-09-25)
