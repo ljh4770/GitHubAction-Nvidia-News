@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 16:43:08**_
+_Last updated: **2025-09-26 16:54:00**_
 
+- [How to Integrate Computer Vision Pipelines with Generative AI and Reasoning](https://developer.nvidia.com/blog/how-to-integrate-computer-vision-pipelines-with-generative-ai-and-reasoning/) (Published: 2025-09-25)
 - [AMD Gains Traction in AI Infrastructure Market: A Sign of More Upside?](https://finance.yahoo.com/news/amd-gains-traction-ai-infrastructure-164000247.html) (Published: 2025-09-25)
 - [Ken Griffin knocks Trump's corporate deals, says 'all of us lose' when government starts picking winners](https://www.cnbc.com/2025/09/25/ken-griffin-trump-white-house-tariffs.html) (Published: 2025-09-25)
 - [Nvidia’s alliance with Intel signals the end of PC graphics as we know it](https://www.pcworld.com/article/2913861/nvidias-alliance-with-intel-signals-the-end-of-pc-graphics-as-we-know-it.html) (Published: 2025-09-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-26 16:43:08**_
 - [Intel stock soars on report Apple in early talks to invest in the chipmaker after Nvidia and Softbank](https://economictimes.indiatimes.com/news/international/us/intel-stock-soars-on-report-apple-in-early-talks-to-invest-in-the-chipmaker-after-nvidia-and-softbank/articleshow/124124314.cms) (Published: 2025-09-25)
 - [Intel stock soars over 8% today on report Apple in early talks to invest in the chipmaker after Nvidia and Softbank](https://economictimes.indiatimes.com/news/international/us/intel-stock-soars-8-today-on-report-apple-in-early-talks-to-invest-in-the-chipmaker-after-nvidia-and-softbank/articleshow/124124314.cms) (Published: 2025-09-25)
 - [OpenAI CEO Sam Altman predicts when AI might finally crack the cure for cancer on its current trajectory](https://economictimes.indiatimes.com/magazines/panache/openai-ceo-sam-altman-predicts-when-ai-might-finally-crack-the-cure-for-cancer-on-its-current-trajectory/articleshow/124124771.cms) (Published: 2025-09-25)
-- [Deals for Today: Walmart's GeForce Week Has Some Killer Prebuilt Gaming PCs](https://www.ign.com/articles/deals-for-today-september-25) (Published: 2025-09-25)
