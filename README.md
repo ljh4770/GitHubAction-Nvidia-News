@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 23:16:48**_
+_Last updated: **2025-09-26 23:29:12**_
 
 - [Just Released: NVIDIA HPC SDK v25.9](https://developer.nvidia.com/nvidia-hpc-sdk-259-downloads) (Published: 2025-09-25)
 - [AI data center builder Nscale raises $1.1B round backed by Nvidia](https://siliconangle.com/2025/09/25/ai-data-center-builder-nscale-raises-1-1b-round-backed-nvidia/) (Published: 2025-09-25)
