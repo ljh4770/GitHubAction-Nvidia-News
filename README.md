@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 21:57:13**_
+_Last updated: **2025-09-26 22:20:13**_
 
 - [AI data center builder Nscale raises $1.1B round backed by Nvidia](https://siliconangle.com/2025/09/25/ai-data-center-builder-nscale-raises-1-1b-round-backed-nvidia/) (Published: 2025-09-25)
 - [Nvidia is letting anyone use its AI voice animation tech](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source) (Published: 2025-09-25)
