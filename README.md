@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 18:52:53**_
+_Last updated: **2025-09-26 19:10:45**_
 
+- [As Intel Pops on Potential Apple Stake, Options Data Tells Us INTC Stock Could Be Headed Here Next](https://www.barchart.com/story/news/35042216/as-intel-pops-on-potential-apple-stake-options-data-tells-us-intc-stock-could-be-headed-here-next) (Published: 2025-09-25)
+- [HighPoint Rocket 7638D Storage Solution Eliminates CPU Bottlenecks For NVIDIA GPUs](https://hothardware.com/news/highpoint-rocket-7638d-eliminates-cpu-bottlenecks-for-nvidia-gpus) (Published: 2025-09-25)
+- [The settings I changed to perfect my QD-OLED monitor](https://www.xda-developers.com/qd-oled-monitor-pc-settings-for-best-results/) (Published: 2025-09-25)
+- [BlackBerry Ltd (BB) Q2 2026 Earnings Call Highlights: Strong Revenue Growth and Strategic ...](https://finance.yahoo.com/news/blackberry-ltd-bb-q2-2026-190121166.html) (Published: 2025-09-25)
+- [The AI bubble is threatening to burst. That could be good for Australia](https://www.abc.net.au/news/science/2025-09-26/australia-future-artificial-intelligence-ai-technology-progress/105815470) (Published: 2025-09-25)
+- [Google backs $3 billion deal with Bitcoin miner as Big Tech looks to crypto for compute](https://fortune.com/crypto/2025/09/25/google-fluidstack-cipher-mining-bitcoin-miner-ai-data-centers/) (Published: 2025-09-25)
+- [Google backs $3 billion deal with Bitcoin miner as Big Tech looks to crypto for compute](https://finance.yahoo.com/news/google-backs-3-billion-deal-185420729.html) (Published: 2025-09-25)
+- [Alphabet is ‘most valuable company’ on AI strength, analyst says](https://financialpost.com/investing/alphabet-most-valuable-company-ai-strength-analyst) (Published: 2025-09-25)
 - [R²D²: Three Neural Breakthroughs Transforming Robot Learning from NVIDIA Research](https://developer.nvidia.com/blog/r2d2-three-neural-breakthroughs-transforming-robot-learning-from-nvidia-research/) (Published: 2025-09-25)
 - [Can Google overtake Nvidia as the world’s most valuable company? Here’s why that’s not so crazy](https://biztoc.com/x/6d4840955595bf8c) (Published: 2025-09-25)
-- [Qualcomm Snapdragon Takes Aim At PC Rivals Intel, AMD, And Apple](https://www.forbes.com/sites/karlfreund/2025/09/25/qualcomm-snapdragon-takes-aim-at-pc-rivals-intel-amd-and-apple/) (Published: 2025-09-25)
-- [This HP gaming laptop just dropped to $849 at Walmart - here's why that's a steal](https://www.zdnet.com/article/this-hp-gaming-laptop-just-dropped-to-849-at-walmart-heres-why-thats-a-steal/) (Published: 2025-09-25)
-- [Redox OS Development Priorities for 2025/26](https://www.redox-os.org/news/development-priorities-2025-09/) (Published: 2025-09-25)
-- [Markets may be scary but here’s why investing can still be fun and make you rich](https://financialpost.com/investing/markets-scary-investing-still-fun-rich) (Published: 2025-09-25)
-- [Intel Eyes Apple Investment In Bid To Reboot Its Chip Business](https://hothardware.com/news/intel-eyes-apple-investment-report) (Published: 2025-09-25)
-- [QumulusAI taps Michael Maniscalco as CEO to drive growth in neocloud era](https://siliconangle.com/2025/09/25/qumulusai-taps-michael-maniscalco-ceo-drive-growth-neocloud-era/) (Published: 2025-09-25)
-- [Disney Games Group Chief Jay Ong, Hartbeat Co-Founder Jeff Clanagan Join Infinity Festival Lineup](http://deadline.com/2025/09/disney-games-group-jay-ong-hartbeat-jeff-clanagan-infinity-festival-1236556087/) (Published: 2025-09-25)
-- [How Enterprise AI Agents Can Reach Their Potential](https://www.forbes.com/sites/cio/2025/09/25/how-enterprise-ai-agents-can-reach-their-potential/) (Published: 2025-09-25)
