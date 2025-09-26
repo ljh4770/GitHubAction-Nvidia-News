@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 10:51:23**_
+_Last updated: **2025-09-26 11:08:52**_
 
+- [Microsoft adds Anthropic AI to Copilot 365 — after claiming OpenAI's GPT-4 model is "too slow and expensive"](https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsoft-adds-anthropic-ai-to-copilot-365) (Published: 2025-09-25)
+- [Chip cooling startup Corintis raises $24 million, adds Intel CEO Lip-Bu Tan to board](https://tech.yahoo.com/computing/articles/chip-cooling-startup-corintis-raises-110309280.html) (Published: 2025-09-25)
+- [Deutsche Bank Notices That a Needle Is Getting Dangerously Close to the AI Bubble](https://gizmodo.com/deutsche-bank-notices-that-a-needle-is-getting-dangerously-close-to-the-ai-bubble-2000663370) (Published: 2025-09-25)
 - [OpenAI Searching for Ad Chief to Bolster Monetization](http://www.pymnts.com/artificial-intelligence-2/2025/openai-searching-for-ad-chief-to-bolster-monetization/) (Published: 2025-09-25)
 - [British AI firm Nscale raises $1.1 billion in Nvidia-backed funding round](https://biztoc.com/x/ce781bea3ab6db79) (Published: 2025-09-25)
 - [British AI firm Nscale raises $1.1 billion in Nvidia-backed funding round](https://www.cnbc.com/2025/09/25/nvidia-backed-uk-ai-firm-nscale-raises-1point1-billion-funding-round.html) (Published: 2025-09-25)
@@ -8,6 +11,3 @@ _Last updated: **2025-09-26 10:51:23**_
 - [Peak XV Bets On AI, Fintech And Sportswear Startups](https://www.forbes.com/sites/catzxwang/2025/09/25/peak-xv-bets-on-ai-fintech-and-sportswear-startups/) (Published: 2025-09-25)
 - [Peak XV Bets On AI, Fintech And Consumer Startups](https://www.forbes.com/sites/catzxwang/2025/09/25/peak-xv-bets-on-ai-fintech-and-consumer-startups/) (Published: 2025-09-25)
 - [Here's How Trump's Policies Benefit Companies In His Stock Portfolio](https://www.forbes.com/sites/emilygarcia/2025/09/25/heres-how-trumps-policies-benefit-companies-in-his-stock-portfolio/) (Published: 2025-09-25)
-- [Everyone agrees stocks are suspiciously high. And everyone agrees they’re going higher anyway.](https://fortune.com/2025/09/25/stocks-are-suspiciously-high/) (Published: 2025-09-25)
-- [nvidia-nat-llama-index 1.3.0a20250925](https://pypi.org/project/nvidia-nat-llama-index/1.3.0a20250925/) (Published: 2025-09-25)
-- [nvidia-nat-s3 1.3.0a20250925](https://pypi.org/project/nvidia-nat-s3/1.3.0a20250925/) (Published: 2025-09-25)
