@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 09:35:53**_
+_Last updated: **2025-09-26 09:46:41**_
 
+- [Improve Your Aim In Games With The AI Gaming Exoskeleton](https://www.geeky-gadgets.com/exoskeleton-aim-assist-project/) (Published: 2025-09-25)
 - [Artificial Intelligence in Mobile Apps Global Market Overview 2025-2034: Google, Apple, Microsoft, AWS, Qualcomm and NVIDIA Lead Innovation with Hardware Acceleration and Pre-Trained Models](https://www.globenewswire.com/news-release/2025/09/25/3156065/28124/en/Artificial-Intelligence-in-Mobile-Apps-Global-Market-Overview-2025-2034-Google-Apple-Microsoft-AWS-Qualcomm-and-NVIDIA-Lead-Innovation-with-Hardware-Acceleration-and-Pre-Trained-Mo.html) (Published: 2025-09-25)
 - [Intel taps Apple for potential investment, says report — companies said to be discussing ways to work together more closely](https://www.tomshardware.com/pc-components/cpus/intel-taps-apple-for-potential-investment-says-report-companies-said-to-be-discussing-ways-to-work-together-more-closely) (Published: 2025-09-25)
 - [Artisight and Yale New Haven Health sign agreement for hospital platform](https://www.hospitalmanagement.net/news/artisight-yale-health-contract-platform/) (Published: 2025-09-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-26 09:35:53**_
 - [I Tested 2 Budget Alienware Gaming Laptops, and the 16X Aurora Is the One to Get](https://www.cnet.com/tech/computing/i-tested-two-budget-alienware-gaming-laptops-and-the-16x-aurora-is-the-one-to-get/) (Published: 2025-09-25)
 - [I Tested Two Alienware Aurora Gaming Laptops, and This Is Not the One to Get](https://www.cnet.com/tech/computing/i-tested-two-alienware-aurora-gaming-laptops-and-this-is-not-the-one-to-get/) (Published: 2025-09-25)
 - [AI training companies are raising billions to get humans to teach chatbots. Here are the startups cashing in.](https://www.businessinsider.com/ai-training-companies-startups-2025-9) (Published: 2025-09-25)
-- [nvfuser-cu129 0.2.34.dev20250925](https://pypi.org/project/nvfuser-cu129/0.2.34.dev20250925/) (Published: 2025-09-25)
