@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 22:34:13**_
+_Last updated: **2025-09-26 22:44:39**_
 
+- [Just Released: NVIDIA HPC SDK v25.9](https://developer.nvidia.com/nvidia-hpc-sdk-259-downloads) (Published: 2025-09-25)
 - [AI data center builder Nscale raises $1.1B round backed by Nvidia](https://siliconangle.com/2025/09/25/ai-data-center-builder-nscale-raises-1-1b-round-backed-nvidia/) (Published: 2025-09-25)
 - [Nvidia is letting anyone use its AI voice animation tech](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source) (Published: 2025-09-25)
 - [‘Vietnam Puts AI at the Center of Its Economic Strategy,’ Deputy Director of the Vietnam National Innovation Center Says at NVIDIA AI Day Ho Chi Minh City](https://blogs.nvidia.com/blog/ai-day-ho-chi-minh-city/) (Published: 2025-09-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-26 22:34:13**_
 - [OpenAI-CoreWeave Partnership Grows to $22.4 Billion](http://www.pymnts.com/artificial-intelligence-2/2025/openai-coreweave-partnership-ai-hyperscalers/) (Published: 2025-09-25)
 - [KBR (KBR) Stock Trades Down, Here Is Why](https://finance.yahoo.com/news/kbr-kbr-stock-trades-down-205041718.html) (Published: 2025-09-25)
 - [Nvidia CEO in 'Founder Mode': Barclays' O'Malley](https://finance.yahoo.com/video/nvidia-ceo-founder-mode-barclays-203010422.html) (Published: 2025-09-25)
-- [Factory unleashes Droids software agents with $50M in fresh funding](https://siliconangle.com/2025/09/25/factory-unleashes-droids-software-agents-50m-fresh-funding/) (Published: 2025-09-25)
