@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 23:40:10**_
+_Last updated: **2025-09-26 23:50:23**_
 
 - [Up nearly 150% in 5 years with plans to double data centre profits by FY27, does this ASX 200 stock have further to run?](https://www.fool.com.au/2025/09/26/up-nearly-150-in-5-years-with-plans-to-double-data-centre-profits-by-fy27-does-this-asx-200-stock-have-further-to-run/) (Published: 2025-09-25)
 - [Just Released: NVIDIA HPC SDK v25.9](https://developer.nvidia.com/nvidia-hpc-sdk-259-downloads) (Published: 2025-09-25)
