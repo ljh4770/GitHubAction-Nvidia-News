@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 19:10:45**_
+_Last updated: **2025-09-26 19:24:02**_
 
+- [Ollama Web search](https://ollama.com/blog/web-search) (Published: 2025-09-25)
 - [As Intel Pops on Potential Apple Stake, Options Data Tells Us INTC Stock Could Be Headed Here Next](https://www.barchart.com/story/news/35042216/as-intel-pops-on-potential-apple-stake-options-data-tells-us-intc-stock-could-be-headed-here-next) (Published: 2025-09-25)
 - [HighPoint Rocket 7638D Storage Solution Eliminates CPU Bottlenecks For NVIDIA GPUs](https://hothardware.com/news/highpoint-rocket-7638d-eliminates-cpu-bottlenecks-for-nvidia-gpus) (Published: 2025-09-25)
 - [The settings I changed to perfect my QD-OLED monitor](https://www.xda-developers.com/qd-oled-monitor-pc-settings-for-best-results/) (Published: 2025-09-25)
@@ -9,5 +10,4 @@ _Last updated: **2025-09-26 19:10:45**_
 - [Google backs $3 billion deal with Bitcoin miner as Big Tech looks to crypto for compute](https://fortune.com/crypto/2025/09/25/google-fluidstack-cipher-mining-bitcoin-miner-ai-data-centers/) (Published: 2025-09-25)
 - [Google backs $3 billion deal with Bitcoin miner as Big Tech looks to crypto for compute](https://finance.yahoo.com/news/google-backs-3-billion-deal-185420729.html) (Published: 2025-09-25)
 - [Alphabet is ‘most valuable company’ on AI strength, analyst says](https://financialpost.com/investing/alphabet-most-valuable-company-ai-strength-analyst) (Published: 2025-09-25)
-- [R²D²: Three Neural Breakthroughs Transforming Robot Learning from NVIDIA Research](https://developer.nvidia.com/blog/r2d2-three-neural-breakthroughs-transforming-robot-learning-from-nvidia-research/) (Published: 2025-09-25)
 - [Can Google overtake Nvidia as the world’s most valuable company? Here’s why that’s not so crazy](https://biztoc.com/x/6d4840955595bf8c) (Published: 2025-09-25)
