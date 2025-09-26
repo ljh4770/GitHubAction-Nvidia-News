@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 14:44:04**_
+_Last updated: **2025-09-26 14:54:56**_
 
+- [Intel's 13th and 14th Gen chips will reportedly see a 10% price hike soon, partly in response to 'the lackluster performance of AI PCs'](https://www.pcgamer.com/hardware/processors/intels-13th-and-14th-gen-chips-will-reportedly-see-a-10-percent-price-hike-soon-partly-in-response-to-the-lackluster-performance-of-ai-pcs/) (Published: 2025-09-25)
 - [Nvidia Breaks Key Level Amid Big Tech's FOMO. Is Nvidia A Buy Or Sell Now?](https://biztoc.com/x/0e18d2f4d481496e) (Published: 2025-09-25)
 - [Nvidia Stock Weakens As AI Chip Stocks Struggle](https://biztoc.com/x/86df1ec9e1698450) (Published: 2025-09-25)
 - [Charles Schwab CEO: Don't try to time the market](https://finance.yahoo.com/news/charles-schwab-ceo-dont-try-to-time-the-market-144103662.html) (Published: 2025-09-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-26 14:44:04**_
 - [CoreWeave strikes $6.5 billion deal with OpenAI to power next-gen AI models](https://finance.yahoo.com/news/coreweave-strikes-65-billion-deal-with-openai-to-power-next-gen-ai-models-143554085.html) (Published: 2025-09-25)
 - [Wall Street opens lower as investors reassess rate-cut hopes - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=179530406) (Published: 2025-09-25)
 - [GDS Holdings (GDS) Climbs as China AI Investments Soar](https://finance.yahoo.com/news/gds-holdings-gds-climbs-china-142600265.html) (Published: 2025-09-25)
-- [Alibaba (BABA) Hits New High on $53-Billion AI Bet](https://finance.yahoo.com/news/alibaba-baba-hits-high-53-142552772.html) (Published: 2025-09-25)
