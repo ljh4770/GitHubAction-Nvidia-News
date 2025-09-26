@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 20:40:04**_
+_Last updated: **2025-09-26 20:50:44**_
 
 - [Nvidia CEO in 'Founder Mode': Barclays' O'Malley](https://finance.yahoo.com/video/nvidia-ceo-founder-mode-barclays-203010422.html) (Published: 2025-09-25)
 - [Factory unleashes Droids software agents with $50M in fresh funding](https://siliconangle.com/2025/09/25/factory-unleashes-droids-software-agents-50m-fresh-funding/) (Published: 2025-09-25)
