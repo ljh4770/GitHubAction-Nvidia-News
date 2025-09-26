@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 11:37:52**_
+_Last updated: **2025-09-26 11:48:34**_
 
+- [AI Agents May Not Be So Useful After All, New Study Finds](https://www.forbes.com/sites/rachelwells/2025/09/25/ai-agents-may-not-be-so-useful-after-all-new-study-finds/) (Published: 2025-09-25)
 - [Fidelity launches new trading platform for retail investors](https://economictimes.indiatimes.com/tech/technology/fidelity-launches-new-trading-platform-for-retail-investors/articleshow/124116860.cms) (Published: 2025-09-25)
 - [Taiwan Semiconductor Unveils Ultra-Advanced Chip Tech](https://biztoc.com/x/90e5b830e66b87e4) (Published: 2025-09-25)
 - [Could Intel's latest moves signal a new chapter in its relationship with Apple?](https://www.windowscentral.com/hardware/intel/intel-approach-apple-for-investment) (Published: 2025-09-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-26 11:37:52**_
 - [Microsoft adds Anthropic AI to Copilot 365 — after claiming OpenAI's GPT-4 model is "too slow and expensive"](https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsoft-adds-anthropic-ai-to-copilot-365) (Published: 2025-09-25)
 - [Chip cooling startup Corintis raises $24 million, adds Intel CEO Lip-Bu Tan to board](https://tech.yahoo.com/computing/articles/chip-cooling-startup-corintis-raises-110309280.html) (Published: 2025-09-25)
 - [Deutsche Bank Notices That a Needle Is Getting Dangerously Close to the AI Bubble](https://gizmodo.com/deutsche-bank-notices-that-a-needle-is-getting-dangerously-close-to-the-ai-bubble-2000663370) (Published: 2025-09-25)
-- [OpenAI Searching for Ad Chief to Bolster Monetization](http://www.pymnts.com/artificial-intelligence-2/2025/openai-searching-for-ad-chief-to-bolster-monetization/) (Published: 2025-09-25)
