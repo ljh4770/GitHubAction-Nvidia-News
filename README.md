@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-26 21:07:31**_
+_Last updated: **2025-09-26 21:24:40**_
 
+- [Nvidia is letting anyone use its AI voice animation tech](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source) (Published: 2025-09-25)
 - [‘Vietnam Puts AI at the Center of Its Economic Strategy,’ Deputy Director of the Vietnam National Innovation Center Says at NVIDIA AI Day Ho Chi Minh City](https://blogs.nvidia.com/blog/ai-day-ho-chi-minh-city/) (Published: 2025-09-25)
 - [Nvidia gives OpenAI $100 billion to spend mostly on Nvidia hardware and Nvidia share price goes up by $220 billion - why am I not surprised?](https://www.techradar.com/pro/nvidia-gives-openai-usd100-billion-to-spend-mostly-on-nvidia-hardware-and-nvidia-share-price-goes-up-by-usd220-billion-why-am-i-not-surprised) (Published: 2025-09-25)
 - [$20,000 invested in the Betashares Nasdaq 100 ETF (NDQ) 5 years ago is now worth](https://www.fool.com.au/2025/09/26/20000-invested-in-the-betashares-nasdaq-100-etf-ndq-5-years-ago-is-now-worth/) (Published: 2025-09-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-26 21:07:31**_
 - [Nvidia CEO in 'Founder Mode': Barclays' O'Malley](https://finance.yahoo.com/video/nvidia-ceo-founder-mode-barclays-203010422.html) (Published: 2025-09-25)
 - [Factory unleashes Droids software agents with $50M in fresh funding](https://siliconangle.com/2025/09/25/factory-unleashes-droids-software-agents-50m-fresh-funding/) (Published: 2025-09-25)
 - ["NVIDIA Just Spent $100 Billion On AI": Company Builds 5 Million GPU Monster While Stock Market Explodes In Panic](https://biztoc.com/x/86af5dddebcd6967) (Published: 2025-09-25)
-- [DirectX AgilitySDK Brings Advanced Shader Delivery Feature That Eliminates Stutters & Longer Loading Times Associated With Shader Compilation](https://wccftech.com/microsoft-tackles-shader-compilation-stutters-loading-with-directx-agilitysdk-advanced-shader-delivery/) (Published: 2025-09-25)
