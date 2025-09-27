@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 15:13:09**_
+_Last updated: **2025-09-27 15:28:13**_
 
+- [While we're still waiting for games to use Nvidia's RTX IO tech, data centres get another bit of hardware to remind us they've been using it all this time](https://www.pcgamer.com/hardware/graphics-cards/while-were-still-waiting-for-games-to-use-nvidias-rtx-io-tech-data-centres-get-another-bit-of-hardware-to-remind-us-theyve-been-using-it-all-this-time/) (Published: 2025-09-26)
+- [Jim Cramer on Taiwan Semiconductor: “That’s What I’d Call the Foreign Risk Profile”](https://finance.yahoo.com/news/jim-cramer-taiwan-semiconductor-d-151823490.html) (Published: 2025-09-26)
+- [Jim Cramer Believes “NVIDIA is Making a Very Smart Investment in OpenAI”](https://finance.yahoo.com/news/jim-cramer-believes-nvidia-making-151821840.html) (Published: 2025-09-26)
+- [Jim Cramer Calls IREN “Too Hot”](https://finance.yahoo.com/news/jim-cramer-calls-iren-too-151820879.html) (Published: 2025-09-26)
+- [Jim Cramer Highlights Nebius “Has Some Good Contacts and a Relationship With Microsoft”](https://finance.yahoo.com/news/jim-cramer-highlights-nebius-good-151818042.html) (Published: 2025-09-26)
+- [The state of Intel: What the company's $5 billion deal with Nvidia could mean for the floundering chipmaker — Investments, capex, and the beating heart of x86](https://www.tomshardware.com/tech-industry/the-state-of-intel-what-the-companys-usd5-billion-deal-with-nvidia-could-mean-for-the-floundering-chipmaker-investments-capex-and-the-beating-heart-of-x86) (Published: 2025-09-26)
+- [BofA Reiterates Buy Rating on NVIDIA Corporation, Keeps PT at $235](https://biztoc.com/x/48acbb0aca8de229) (Published: 2025-09-26)
 - [20VC + SaaStr is Back!! NVIDIA’s $100B OpenAI Investment, H-1B’s $100K Fee Impact on Startups, and Is “Triple Triple Double Double” Really Dead?](https://www.saastr.com/20vc-saastr-is-back-nvidias-100b-openai-investment-h-1bs-100k-fee-impact-on-startups-and-why-triple-triple-double-double-is-dead/) (Published: 2025-09-26)
 - [To Invest $100 Billion In OpenAI, Linking Two AI Giants](https://biztoc.com/x/c95b9695cc7a4883) (Published: 2025-09-26)
 - [Exploring The Competitive Space: NVIDIA Versus Industry Peers In Semiconductors & Semiconductor Equipment](https://biztoc.com/x/e620eba1d730367c) (Published: 2025-09-26)
-- [Ken Griffin says CEOs lining up to beg Trump for tariff exemptions is ‘nauseating’—and that White House showing ‘favor’ undermines the American story](https://fortune.com/2025/09/26/ken-griffin-tariffs-trump-exemptions-ceo-deals/) (Published: 2025-09-26)
-- [Anthropic to triple international workforce in global AI push](https://www.cnbc.com/2025/09/26/anthropic-global-ai-hiring-spree.html) (Published: 2025-09-26)
-- [Nvidia Backstops AI With Investments in OpenAI, CoreWeave and Nscale](https://biztoc.com/x/7652556bcf8f2b11) (Published: 2025-09-26)
-- [Vulkan 1.4.328 Published With Copy Memory Indirect Extension](https://www.phoronix.com/news/Vulkan-1.4.328) (Published: 2025-09-26)
-- [TikTok finally cut a deal, but there's still plenty of uncertainty about what comes next](https://www.businessinsider.com/tiktok-deal-us-algorithm-trump-equity-shop-trump-2025-9) (Published: 2025-09-26)
-- [OpenAI's significant investments raise more questions than answers — CEO Sam Altman remains tight-lipped about how the company will deliver](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-significant-investments-raise-more-questions-than-answers-ceo-sam-altman-remains-tight-lipped-about-how-the-company-will-deliver) (Published: 2025-09-26)
-- [BofA Reiterates Buy Rating on NVIDIA Corporation, Keeps PT at $235](https://finance.yahoo.com/news/bofa-reiterates-buy-rating-nvidia-150228793.html) (Published: 2025-09-26)
