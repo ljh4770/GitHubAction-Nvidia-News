@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 20:37:24**_
+_Last updated: **2025-09-27 20:47:36**_
 
+- [Weekend reading: Livin’ la vida loca](https://monevator.com/weekend-reading-livin-la-vida-loca/) (Published: 2025-09-26)
 - [The Weirdest Bubble Ever](https://awealthofcommonsense.com/2025/09/the-weirdest-bubble-ever/) (Published: 2025-09-26)
 - [Gigabyte NVIDIA GeForce RTX 5080 WINDFORCE SFF OC 16GB GDDR7 Graphics Card $900 + Free Store Pickup](https://slickdeals.net/f/18637468-gigabyte-nvidia-geforce-rtx-5080-windforce-sff-oc-16gb-gddr7-graphics-card-900-free-store-pickup) (Published: 2025-09-26)
 - [Topaz Video AI Pro 7.1.6](https://post.rlsbb.to/topaz-video-ai-pro-7-1-6/) (Published: 2025-09-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-27 20:37:24**_
 - [Save $400 on the 34-inch UltraGear OLED gaming monitor at LG](https://www.zdnet.com/article/save-400-on-the-34-inch-ultragear-oled-gaming-monitor-at-lg/) (Published: 2025-09-26)
 - [What’s behind the massive AI data center headlines? | TechCrunch](https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/) (Published: 2025-09-26)
 - [NVIDIA CEO Jensen Huang Thinks OpenAI Could Be the Next Multi-trillion Hyperscaler](https://www.nextbigfuture.com/2025/09/nvidia-ceo-jensen-huang-thinks-openai-could-be-the-next-multi-trillion-hyperscaler.html) (Published: 2025-09-26)
-- [Humanoid robots are Meta’s next ‘AR-size bet’](https://www.theverge.com/column/786759/humanoid-robots-meta) (Published: 2025-09-26)
