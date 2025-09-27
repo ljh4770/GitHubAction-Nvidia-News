@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 11:33:17**_
+_Last updated: **2025-09-27 11:43:36**_
 
+- [A TikTok Deal China Will Love](https://www.project-syndicate.org/commentary/trump-tiktok-deal-china-will-love-by-angela-huyue-zhang-2025-09) (Published: 2025-09-26)
+- [Chinese GPU Maker, Innosilicon, Unveils Fantasy 3 GPU With Massive 112 GB VRAM, DX12 & HW-RT Support With CUDA-Compatibility](https://wccftech.com/chinese-gpu-innosilicon-fantasy-3-massive-112-gb-vram-dx12-hw-rt-cuda-support/) (Published: 2025-09-26)
 - [Nvidia Stock Falls. What’s Dragging on the AI Chip Maker](https://biztoc.com/x/343d4aeb40cb2d63) (Published: 2025-09-26)
 - [Trump Tariffs, GDP Rattle Markets, ETFs Bleed: Crypto Daybook Americas](https://www.coindesk.com/daybook-us/2025/09/26/trump-tariffs-gdp-rattle-markets-etfs-bleed-crypto-daybook-americas) (Published: 2025-09-26)
 - [Intel officially becomes a contract custom chip designer, Nvidia among lead customers — company veteran Srini Iyengar to spearhead new Central Engineering Group](https://www.tomshardware.com/pc-components/cpus/intel-officially-becomes-a-contract-custom-chip-designer-nvidia-among-lead-customers-company-veteran-srini-iyengar-to-spearhead-new-central-engineering-group) (Published: 2025-09-26)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-27 11:33:17**_
 - [Tired of shader compilation screens? Microsoft is rolling out its own solution, but we won't feel the benefits immediately](https://www.pcgamer.com/hardware/graphics-cards/tired-of-shader-compilation-screens-microsoft-is-rolling-out-its-own-solution-but-we-wont-feel-the-benefits-immediately/) (Published: 2025-09-26)
 - [Performance-focused Minisforum MS-S1 Max with USB4 v2 and dGPU support goes global](https://www.notebookcheck.net/Performance-focused-Minisforum-MS-S1-Max-with-USB4-v2-and-dGPU-support-goes-global.1125037.0.html) (Published: 2025-09-26)
 - [AI Investment Is Starting to Look Like a Slush Fund](http://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html) (Published: 2025-09-26)
-- [Nvidia’s $100B Bet on OpenAI: Fueling the AI Boom or Overheating the Grid?](https://techreport.com/news/nvidia-100b-openai-deal-ai-risks/) (Published: 2025-09-26)
-- [Lenovo Legion 9i review: A stunning gaming laptop with one big weakness](https://www.pcworld.com/article/2917768/lenovo-legion-9i-review-2.html) (Published: 2025-09-26)
