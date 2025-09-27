@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 06:39:16**_
+_Last updated: **2025-09-27 06:49:56**_
 
+- [Forza Horizon 6 kommer nästa år](https://feber.se/spel/forza-horizon-6-kommer-nasta-ar/483767/) (Published: 2025-09-26)
 - [Asus introduces ExpertCenter P500SV desktop for SMBs in Malaysia](https://soyacincau.com/2025/09/26/asus-introduces-expertcenter-p500sv-desktop-for-smbs-in-malaysia/) (Published: 2025-09-26)
 - [Alibaba stock’s AI-powered run isn’t done](https://www.livemint.com/companies/alibaba-stock-s-ai-powered-run-isn-t-done-11758862823323.html) (Published: 2025-09-26)
 - [AI boom fuels market mania as Jefferies flags warning signs](https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-boom-fuels-market-mania-as-jefferies-flags-warning-signs/articleshow/124148843.cms) (Published: 2025-09-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-27 06:39:16**_
 - [Chinese government tells firms to bin Nvidia AI chips](https://www.madshrimps.be/news/chinese-government-tells-firms-to-bin-nvidia-ai-chips/) (Published: 2025-09-26)
 - [SNX Q3 Deep Dive: AI Infrastructure and Global Demand Drive Outperformance](https://finance.yahoo.com/news/snx-q3-deep-dive-ai-053044792.html) (Published: 2025-09-26)
 - [China's Tech Firms Show They Can Thrive Without Nvidia Chips](https://biztoc.com/x/8db6d5d04266623b) (Published: 2025-09-26)
-- [Trump’s H-1B visa plan: America’s difficulty could well be Ireland’s opportunity](https://www.irishtimes.com/business/2025/09/26/trumps-h-1b-visa-plan-americas-difficulty-could-well-be-irelands-opportunity/) (Published: 2025-09-26)
