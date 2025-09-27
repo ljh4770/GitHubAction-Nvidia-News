@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 11:21:47**_
+_Last updated: **2025-09-27 11:33:17**_
 
 - [Nvidia Stock Falls. What’s Dragging on the AI Chip Maker](https://biztoc.com/x/343d4aeb40cb2d63) (Published: 2025-09-26)
 - [Trump Tariffs, GDP Rattle Markets, ETFs Bleed: Crypto Daybook Americas](https://www.coindesk.com/daybook-us/2025/09/26/trump-tariffs-gdp-rattle-markets-etfs-bleed-crypto-daybook-americas) (Published: 2025-09-26)
