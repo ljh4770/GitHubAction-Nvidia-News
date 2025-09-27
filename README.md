@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 17:27:31**_
+_Last updated: **2025-09-27 17:38:34**_
 
 - [U.S. Could Impose 100% Semiconductor Tariff If Chips Are Not "Made in America"](https://www.techpowerup.com/341409/u-s-could-impose-100-semiconductor-tariff-if-chips-are-not-made-in-america) (Published: 2025-09-26)
 - [Nvidia makes surprising move into British AI company](https://biztoc.com/x/bbbdc35cf2021d33) (Published: 2025-09-26)
