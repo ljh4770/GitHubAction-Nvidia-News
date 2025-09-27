@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 05:41:21**_
+_Last updated: **2025-09-27 05:51:46**_
 
+- [Chinese government tells firms to bin Nvidia AI chips](https://www.madshrimps.be/news/chinese-government-tells-firms-to-bin-nvidia-ai-chips/) (Published: 2025-09-26)
 - [SNX Q3 Deep Dive: AI Infrastructure and Global Demand Drive Outperformance](https://finance.yahoo.com/news/snx-q3-deep-dive-ai-053044792.html) (Published: 2025-09-26)
 - [China's Tech Firms Show They Can Thrive Without Nvidia Chips](https://biztoc.com/x/8db6d5d04266623b) (Published: 2025-09-26)
 - [Trump’s H-1B visa plan: America’s difficulty could well be Ireland’s opportunity](https://www.irishtimes.com/business/2025/09/26/trumps-h-1b-visa-plan-americas-difficulty-could-well-be-irelands-opportunity/) (Published: 2025-09-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-27 05:41:21**_
 - [Top companies keep talking about AI – but can’t explain the upsides](https://www.irishtimes.com/business/work/2025/09/26/top-companies-keep-talking-about-ai-but-cant-explain-the-upsides/) (Published: 2025-09-26)
 - [Acer、IFA 2025でグローバル向け最新モデルを公開](https://prtimes.jp/main/html/rd/p/000001034.000000640.html) (Published: 2025-09-26)
 - [Windows Weekly 951: The ODBC of AI](https://www.thurrott.com/podcasts/windows-weekly/327336/windows-weekly-951-the-odbc-of-ai) (Published: 2025-09-26)
-- [Hitachi Announces NVIDIA AI Factory to Accelerate Physical AI Innovation](https://financialpost.com/pmn/business-wire-news-releases-pmn/hitachi-announces-nvidia-ai-factory-to-accelerate-physical-ai-innovation) (Published: 2025-09-26)
