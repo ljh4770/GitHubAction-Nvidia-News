@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 08:33:24**_
+_Last updated: **2025-09-27 08:46:02**_
 
+- [nvidia-dali-nightly-cuda130 1.52.0.dev20250924](https://pypi.org/project/nvidia-dali-nightly-cuda130/1.52.0.dev20250924/) (Published: 2025-09-26)
 - [YouTuber builds DIY exoskeleton aim assist to cut latency to 17 ms and climb Aimlabs leaderboard](https://www.notebookcheck.net/YouTuber-builds-DIY-exoskeleton-aim-assist-to-cut-latency-to-17-ms-and-climb-Aimlabs-leaderboard.1124310.0.html) (Published: 2025-09-26)
 - [SK Hynix reportedly to begin 1c GDDR7 production in 2025, eyeing Tesla and Nvidia orders](https://www.digitimes.com/news/a20250926PD237/sk-hynix-production-nvidia-tesla-dram.html) (Published: 2025-09-26)
 - [Nvidia Exec Says AI Adoption Lags Because People Don't Trust It, Pushes Open-Source Nemotron As Solution](https://biztoc.com/x/072e7230e55aa875) (Published: 2025-09-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-27 08:33:24**_
 - [Promising Automotive Stocks To Watch Now – September 23rd](https://www.etfdailynews.com/2025/09/26/promising-automotive-stocks-to-watch-now-september-23rd/) (Published: 2025-09-26)
 - [Key Indicators to Watch in Q4: Bitcoin Seasonal Trends, XRP/BTC, Dollar Index, Nvidia, and More](https://www.coindesk.com/markets/2025/09/26/key-indicators-to-watch-in-q4-bitcoin-seasonal-trends-xrp-btc-dollar-index-nvidia-and-more) (Published: 2025-09-26)
 - [NVIDIA Audio2Face: nuovo strumento per l’animazione facciale AI open source](https://www.ilsoftware.it/nvidia-audio2face-nuovo-strumento-per-lanimazione-facciale-ai-open-source/) (Published: 2025-09-26)
-- [Forza Horizon 6 kommer nästa år](https://feber.se/spel/forza-horizon-6-kommer-nasta-ar/483767/) (Published: 2025-09-26)
