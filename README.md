@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 04:53:11**_
+_Last updated: **2025-09-27 05:13:31**_
 
+- [Trump’s H-1B visa plan: America’s difficulty could well be Ireland’s opportunity](https://www.irishtimes.com/business/2025/09/26/trumps-h-1b-visa-plan-americas-difficulty-could-well-be-irelands-opportunity/) (Published: 2025-09-26)
 - [AI infrastucture provider Nscale secures $1.1bn in series B funding](https://www.computerweekly.com/news/366631959/AI-infrastucture-provider-Nscale-secures-11bn-in-series-B-funding) (Published: 2025-09-26)
 - [Intel makes an approach to Apple in latest bid for outside investment](https://www.independent.ie/business/technology/intel-makes-an-approach-to-apple-in-latest-bid-for-outside-investment/a261468833.html) (Published: 2025-09-26)
 - [Ken Griffin says it's 'anti-American' if Trump gives 'favor' over tariffs to some companies and not others](https://www.businessinsider.com/ken-griffin-slams-trump-for-granting-some-companies-tariff-favors-2025-9) (Published: 2025-09-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-27 04:53:11**_
 - [Hitachi Announces NVIDIA AI Factory to Accelerate Physical AI Innovation](https://financialpost.com/pmn/business-wire-news-releases-pmn/hitachi-announces-nvidia-ai-factory-to-accelerate-physical-ai-innovation) (Published: 2025-09-26)
 - [Heavy Hand: Free-market US Tested As Trump Takes Stakes In Private Companies](https://www.ibtimes.com/heavy-hand-free-market-us-tested-trump-takes-stakes-private-companies-3784508) (Published: 2025-09-26)
 - [Intel approaches TSMC for investments or partnership, WSJ reports](https://economictimes.indiatimes.com/tech/technology/intel-approaches-tsmc-for-investments-or-partnership-wsj-reports/articleshow/124140675.cms) (Published: 2025-09-26)
-- [Heavy hand: Free-market US tested as Trump takes stakes in private companies](https://www.digitaljournal.com/world/heavy-hand-free-market-us-tested-as-trump-takes-stakes-in-private-companies/article) (Published: 2025-09-26)
