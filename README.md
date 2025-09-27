@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 23:25:06**_
+_Last updated: **2025-09-27 23:36:59**_
 
+- [Trump Never Expected This—His Most-Hated Stocks Are Crushing Nvidia, Gold Miners](https://finance.yahoo.com/news/trump-never-expected-most-hated-233412317.html) (Published: 2025-09-26)
 - [Harbor Capital Appreciation Fund Reduces Stake in Netflix Inc by 1.7%](https://finance.yahoo.com/news/harbor-capital-appreciation-fund-reduces-230309131.html) (Published: 2025-09-26)
 - [Pure, Concentrated Risk](https://dailyreckoning.com/pure-concentrated-risk/) (Published: 2025-09-26)
 - ['Enfabrica has the coolest technology': Nvidia spent nearly $1 billion on a chip maker to secure its future on the same day it gave Intel $5 billion - and here's why this is actually a more important investment](https://www.techradar.com/pro/enfabrica-has-the-coolest-technology-nvidia-spent-nearly-usd1-billion-on-a-chip-maker-to-secure-its-future-on-the-same-day-it-gave-intel-usd5-billion-and-heres-why-this-is-actually-a-more-important-investment) (Published: 2025-09-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-27 23:25:06**_
 - [The best gaming TVs for PS5, Xbox, Switch, and PC](https://www.businessinsider.com/guides/tech/best-gaming-tvs) (Published: 2025-09-26)
 - [Trump moves toward deal to give US an equity stake in company developing Nevada lithium mine](https://financialpost.com/pmn/trump-moves-toward-deal-to-give-us-an-equity-stake-in-company-developing-nevada-lithium-mine) (Published: 2025-09-26)
 - [Trump moves toward deal to give US an equity stake in company developing Nevada lithium mine](https://finance.yahoo.com/news/trump-moves-toward-deal-us-210512979.html) (Published: 2025-09-26)
-- [CoreWeave Expands OpenAI Deal To $22.4 Billion](https://finance.yahoo.com/news/coreweave-expands-openai-deal-22-210424781.html) (Published: 2025-09-26)
