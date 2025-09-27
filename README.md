@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 21:40:23**_
+_Last updated: **2025-09-27 21:50:58**_
 
 - ['Enfabrica has the coolest technology': Nvidia spent nearly $1 billion on a chip maker to secure its future on the same day it gave Intel $5 billion - and here's why this is actually a more important investment](https://www.techradar.com/pro/enfabrica-has-the-coolest-technology-nvidia-spent-nearly-usd1-billion-on-a-chip-maker-to-secure-its-future-on-the-same-day-it-gave-intel-usd5-billion-and-heres-why-this-is-actually-a-more-important-investment) (Published: 2025-09-26)
 - [Dell nurtures AI innovation through startup ecosystem](https://siliconangle.com/2025/09/26/dell-startups-ai-aifactoriesdatacenters/) (Published: 2025-09-26)
