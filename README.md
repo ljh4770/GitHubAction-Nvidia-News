@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 10:41:34**_
+_Last updated: **2025-09-27 10:51:25**_
 
 - [Performance-focused Minisforum MS-S1 Max with USB4 v2 and dGPU support goes global](https://www.notebookcheck.net/Performance-focused-Minisforum-MS-S1-Max-with-USB4-v2-and-dGPU-support-goes-global.1125037.0.html) (Published: 2025-09-26)
 - [AI Investment Is Starting to Look Like a Slush Fund](http://nymag.com/intelligencer/article/ai-investment-is-starting-to-look-like-a-slush-fund.html) (Published: 2025-09-26)
