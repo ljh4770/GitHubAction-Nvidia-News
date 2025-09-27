@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 09:40:21**_
+_Last updated: **2025-09-27 09:50:57**_
 
 - [Under the radar, CEOs have growing concerns about U.S. commitment to free speech, science, and rule of law](https://fortune.com/2025/09/26/ceo-concern-free-speech-science-rule-of-law/) (Published: 2025-09-26)
 - [Intel reportedly approached Apple, TSMC for investment before Nvidia deal](https://www.techradar.com/pro/intel-reportedly-approached-apple-tsmc-for-investment-before-nvidia-deal) (Published: 2025-09-26)
