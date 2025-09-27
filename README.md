@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 14:32:43**_
+_Last updated: **2025-09-27 14:43:01**_
 
 - [Meet the Company Challenging Broadcom's AI Chip Dominance (Hint: It's Not Nvidia)](https://biztoc.com/x/9304f921b31cb00b) (Published: 2025-09-26)
 - [Nvidia CEO predicts Elon Musk will reach 1 gigawatt of AI compute ahead of rivals](https://cryptobriefing.com/nvidia-ceo-predicts-elon-musk-gigawatt-ai-compute-xai-colossus-supercomputer/) (Published: 2025-09-26)
