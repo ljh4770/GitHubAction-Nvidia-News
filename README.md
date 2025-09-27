@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-27 03:01:46**_
+_Last updated: **2025-09-27 03:33:49**_
 
 - [Acer、IFA 2025でグローバル向け最新モデルを公開](https://prtimes.jp/main/html/rd/p/000001034.000000640.html) (Published: 2025-09-26)
 - [Windows Weekly 951: The ODBC of AI](https://www.thurrott.com/podcasts/windows-weekly/327336/windows-weekly-951-the-odbc-of-ai) (Published: 2025-09-26)
