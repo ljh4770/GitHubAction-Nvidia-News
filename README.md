@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-28 07:37:28**_
+_Last updated: **2025-09-28 07:48:01**_
 
 - [Steam co-op open world survival game that pits you against mutated beasts on a failed terraforming project gets 80% discount](https://www.notebookcheck.net/Steam-co-op-open-world-survival-game-that-pits-you-against-mutated-beasts-on-a-failed-terraforming-project-gets-80-discount.1123264.0.html) (Published: 2025-09-27)
 - [The Planet Crafter gone wrong for $7: Steam co-op open world survival craft game pits you against sandworms](https://www.notebookcheck.net/The-Planet-Crafter-gone-wrong-for-7-Steam-co-op-open-world-survival-craft-game-pits-you-against-sandworms.1123264.0.html) (Published: 2025-09-27)
