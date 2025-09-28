@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-28 20:37:07**_
+_Last updated: **2025-09-28 20:47:41**_
 
 - [Nvidia's playbook: Six essential lessons for B2B brands](https://fastcompany.co.za/business/2025-09-27-nvidias-playbook-six-essential-lessons-for-b2b-brands/) (Published: 2025-09-27)
 - [How Jensen Huang is Using Nvidia Cash to Rule the AI Economy](https://biztoc.com/x/9b44ccc194d53241) (Published: 2025-09-27)
