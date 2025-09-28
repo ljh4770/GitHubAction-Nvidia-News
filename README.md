@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-28 06:53:32**_
+_Last updated: **2025-09-28 07:12:57**_
 
 - [TSMC’s 3nm and 5nm Production Is Reportedly Projected to Be ‘100% Booked’ by Next Year as Chips Become a Scarce Resource for Big Tech](https://wccftech.com/tsmcs-3nm-and-5nm-production-is-projected-to-be-100-booked-by-next-year/) (Published: 2025-09-27)
 - [T-Rex 2X Long NVIDIA Daily Target ETF (BATS:NVDX) Trading 31.1% Higher – What’s Next?](https://www.etfdailynews.com/2025/09/27/t-rex-2x-long-nvidia-daily-target-etf-batsnvdx-trading-31-1-higher-whats-next/) (Published: 2025-09-27)
