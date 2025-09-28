@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-28 05:53:15**_
+_Last updated: **2025-09-28 06:19:38**_
 
 - [Kingspan chases Magnificent Seven energy with plan to float unit riding on AI boom](https://www.irishtimes.com/business/2025/09/27/kingspan-chases-magnificent-seven-energy-with-plan-to-float-unit-riding-on-ai-boom/) (Published: 2025-09-27)
 - [Technology Stocks To Follow Now – September 25th](https://www.etfdailynews.com/2025/09/27/technology-stocks-to-follow-now-september-25th/) (Published: 2025-09-27)
@@ -9,5 +9,5 @@ _Last updated: **2025-09-28 05:53:15**_
 - [Worth Noting: BMW’s next-gen X5, Volvo upgrades the EX90, Hideo Kojima’s new horror game, and “Virgil Abloh: The Codes” comes to Europe](https://acquiremag.com/worth-noting/worth-noting-bmws-next-gen-x5-volvo-upgrades-the-ex90-hideo-kojimas-new-horror-game-and-virgil-abloh-the-codes-comes-to-europe/) (Published: 2025-09-27)
 - [Acer Nitro 60 Gaming Desktop, AMD Ryzen 9 7900, NVIDIA GeForce RTX 5080 with 16GB GDRR7 VRAM, 64GB RAM, 2TB SSD, N60-181-UR27, Black $1999](https://slickdeals.net/f/18638617-acer-nitro-60-gaming-desktop-amd-ryzen-9-7900-nvidia-geforce-rtx-5080-with-16gb-gdrr7-vram-64gb-ram-2tb-ssd-n60-181-ur27-black-1999) (Published: 2025-09-27)
 - [Top tech and startup stories this week](https://economictimes.indiatimes.com/tech/newsletters/ettech-unwrapped/top-tech-and-startup-stories-this-week/articleshow/124174198.cms) (Published: 2025-09-27)
+- [Nvidia (NVDA) Equips GeForce Now with RTX 5080 Blackwell SuperPods](https://finance.yahoo.com/news/nvidia-nvda-equips-geforce-now-003725206.html) (Published: 2025-09-27)
 - [Nvidia CEO Jensen Huang Says OpenAI Will Be the Next ‘Multi-Trillion-Dollar’ Company](https://biztoc.com/x/05a605e47e9c6d13) (Published: 2025-09-27)
-- [Trump Never Expected This—His Most-Hated Stocks Are Crushing Nvidia, Gold Miners](https://finance.yahoo.com/news/trump-never-expected-most-hated-233412317.html) (Published: 2025-09-26)
