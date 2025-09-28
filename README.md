@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-28 04:27:25**_
+_Last updated: **2025-09-28 04:42:40**_
 
 - [MSI Vector 16 HX AI: 16" QHD+ IPS 240Hz, Intel Ultra 7 255HX, RTX 5070 Ti, 16GB DDR5, 512GB SSD $1529.99 (1 replies)](https://slickdeals.net/f/18638773-msi-vector-16-hx-ai-16-qhd-ips-240hz-intel-ultra-7-255hx-rtx-5070-ti-16gb-ddr5-512gb-ssd-1529-99) (Published: 2025-09-27)
 - [Trump expands tariffs beyond US Supreme Court's reach](https://economictimes.indiatimes.com/news/international/global-trends/trump-expands-tariffs-beyond-us-supreme-courts-reach/articleshow/124175953.cms) (Published: 2025-09-27)
