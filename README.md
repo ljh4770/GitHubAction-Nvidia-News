@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-28 11:18:34**_
+_Last updated: **2025-09-28 11:29:01**_
 
 - [Why Nvidia's Blueprint might be the best tool you'll use for 3D modelling](https://www.creativebloq.com/3d/why-nvidias-blueprint-might-be-the-best-tool-youll-use-for-3d-modelling) (Published: 2025-09-27)
 - [I tested one of the most popular laptops cooling pads, and it’s the first ever to outright flunk our chilling test](https://www.techradar.com/computing/peripherals-accessories/i-tested-one-of-the-most-popular-laptops-cooling-pads-and-its-the-first-ever-to-outright-flunk-our-chilling-test) (Published: 2025-09-27)
