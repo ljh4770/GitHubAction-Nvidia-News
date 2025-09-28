@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-28 03:46:05**_
+_Last updated: **2025-09-28 03:57:36**_
 
 - [Trump expands tariffs beyond US Supreme Court's reach](https://economictimes.indiatimes.com/news/international/global-trends/trump-expands-tariffs-beyond-us-supreme-courts-reach/articleshow/124175953.cms) (Published: 2025-09-27)
 - [How Huawei and DeepSeek are helping China break reliance on US chips](https://biztoc.com/x/b52f3eafadaa3386) (Published: 2025-09-27)
