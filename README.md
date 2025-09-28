@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-28 16:57:06**_
+_Last updated: **2025-09-28 17:17:35**_
 
 - [Week in review: Stocks stumble, Nvidia bankrolls OpenAI, and iPhone sales surprise](https://biztoc.com/x/af4ace093c2325d1) (Published: 2025-09-27)
 - [Podcast #837 – NVIDIA and Intel Partnership, New Radeon GPU, LaCie Rugged SSD4 Review, Arc, Internet History, 250w of PCIe & MORE!](https://pcper.com/2025/09/podcast-837/) (Published: 2025-09-27)
