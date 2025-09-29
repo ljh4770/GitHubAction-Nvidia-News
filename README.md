@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-29 11:17:38**_
+_Last updated: **2025-09-29 11:29:41**_
 
 - [Nvidia’s $100 billion OpenAI investment raises eyebrows and a key question: How much of the AI boom is just Nvidia’s cash being recycled?](https://fortune.com/2025/09/28/nvidia-openai-circular-financing-ai-bubble/) (Published: 2025-09-28)
 - [Nvidia’s $100 billion OpenAI investment raises eyebrows and a key question: How much of the AI boom is just Nvidia’s cash being recycled?](https://finance.yahoo.com/news/nvidia-100-billion-openai-investment-110000256.html) (Published: 2025-09-28)
