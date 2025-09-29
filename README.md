@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-29 14:35:13**_
+_Last updated: **2025-09-29 14:46:44**_
 
+- [Intel quietly makes aggressive move to repair recent failures](https://biztoc.com/x/b3d3dcf2415bb2fd) (Published: 2025-09-28)
+- [Canada Joins The Global Push For Sovereign AI With TELUS AI Factory](https://www.forbes.com/sites/ronschmelzer/2025/09/28/canada-joins-the-global-push-for-sovereign-ai-with-telus-ai-factory/) (Published: 2025-09-28)
 - [5 big analyst AI moves: Nvidia target upped to $240, Oracle gets a Sell rating](https://biztoc.com/x/1d562e36ad9574a8) (Published: 2025-09-28)
 - [5 big analyst AI moves: Nvidia target upped to $240, Oracle gets a Sell rating - Investing.com](https://slashdot.org/firehose.pl?op=view&amp;id=179569828) (Published: 2025-09-28)
 - [My Absolute Favorite Picks For The $4 Trillion AI Infrastructure Boom](https://biztoc.com/x/abbaeaea98aa2278) (Published: 2025-09-28)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-29 14:35:13**_
 - [AI stock pickers just got an important reminder](https://finance.yahoo.com/news/ai-stock-pickers-just-got-an-important-reminder-123045495.html) (Published: 2025-09-28)
 - [What Does 'RTX' Actually Mean On An Nvidia Graphics Card?](https://www.bgr.com/1976331/what-nvidia-gpu-graphics-card-rtx-means/) (Published: 2025-09-28)
 - [A look at OpenAI's tangled web of dealmaking](https://www.cnbc.com/2025/09/28/a-look-at-openais-tangled-web-of-dealmaking.html) (Published: 2025-09-28)
-- [Acer Predator XB273K V5 27-inch 4K gaming monitor review: Vivid color and dual refresh rate capable](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-xb273k-v5-27-inch-4k-gaming-monitor-review) (Published: 2025-09-28)
-- [Top Wall Street analysts favor these 3 stocks for their robust growth outlook](https://www.cnbc.com/2025/09/28/top-wall-street-analysts-favor-these-3-stocks-for-robust-growth.html) (Published: 2025-09-28)
