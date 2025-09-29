@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-29 06:56:15**_
+_Last updated: **2025-09-29 07:21:40**_
 
+- [This $349 16 GB AI workstation card runs Cyberpunk 2077 at 85 FPS with just 50 W power draw](https://www.notebookcheck.net/This-349-16-GB-AI-workstation-card-runs-Cyberpunk-2077-at-85-FPS-with-just-50-W-power-draw.1126040.0.html) (Published: 2025-09-28)
 - [New update brings Nvidia GeForce Now app to the Abxylute One Pro](https://www.notebookcheck.net/New-update-brings-Nvidia-GeForce-Now-app-to-the-Abxylute-One-Pro.1125364.0.html) (Published: 2025-09-28)
 - [IBM Intellistation 185 AIX workstation](http://www.ibmfiles.com/pages/intellipower185.htm) (Published: 2025-09-28)
 - [Earnings To Watch: Carnival (CCL) Reports Q3 Results Tomorrow](https://finance.yahoo.com/news/earnings-watch-carnival-ccl-reports-030049895.html) (Published: 2025-09-28)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-29 06:56:15**_
 - [ASUS ROG NUC (2025) Mini Gaming PC](https://thegadgetflow.com/product/asus-rog-nuc-2025-mini-gaming-pc/) (Published: 2025-09-28)
 - [Articles On: Brussels, Great Firewall, Robot Army, Atlantic Alliance, Nvidia, EV Makers, and Deterrence](https://www.hoover.org/research/articles-brussels-great-firewall-robot-army-atlantic-alliance-nvidia-ev-makers-and) (Published: 2025-09-28)
 - [Intel Stock Rockets: Here’s What Top Analyst Ruben Roy Says Comes Next](https://biztoc.com/x/2be97b2d6d4a94a5) (Published: 2025-09-27)
-- [Seen as Key AI Beneficiary Despite Risks Tied to OpenAI Funding](https://biztoc.com/x/a5712c9ac2cb68f6) (Published: 2025-09-27)
