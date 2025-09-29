@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-29 07:56:51**_
+_Last updated: **2025-09-29 08:33:04**_
 
+- [Intel’s Top Granite Rapids Xeon Workstation CPU Leaked: 86 Cores & 172 Threads On The W890 Platform](https://wccftech.com/intel-granite-rapids-xeon-workstation-cpu-leak-86-cores-172-threads-w890-platform/) (Published: 2025-09-28)
+- [China is ‘nanoseconds behind’ US in chips, says Nvidia’s Jensen Huang](https://biztoc.com/x/ffa973165c083a51) (Published: 2025-09-28)
+- [nvfuser-cu128 0.2.34.dev20250928](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20250928/) (Published: 2025-09-28)
+- [nvfuser-cu126 0.2.34.dev20250928](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20250928/) (Published: 2025-09-28)
+- [nvfuser-cu129 0.2.34.dev20250928](https://pypi.org/project/nvfuser-cu129/0.2.34.dev20250928/) (Published: 2025-09-28)
 - [Why YouTube is key to Google's success in AI, with YouTube's AI enhancements making video content more monetizable than text-based content in Search (Ben Thompson/Stratechery)](https://mediagazer.com/250928/p1) (Published: 2025-09-28)
 - [Should you buy a Windows mini PC in 2025? My verdict after a week of testing](https://www.zdnet.com/article/should-you-buy-a-windows-mini-pc-in-2025-my-verdict-after-a-week-of-testing/) (Published: 2025-09-28)
 - [This $349 16 GB AI workstation card runs Cyberpunk 2077 at 85 FPS with just 50 W power draw](https://www.notebookcheck.net/This-349-16-GB-AI-workstation-card-runs-Cyberpunk-2077-at-85-FPS-with-just-50-W-power-draw.1126040.0.html) (Published: 2025-09-28)
 - [New update brings Nvidia GeForce Now app to the Abxylute One Pro](https://www.notebookcheck.net/New-update-brings-Nvidia-GeForce-Now-app-to-the-Abxylute-One-Pro.1125364.0.html) (Published: 2025-09-28)
 - [IBM Intellistation 185 AIX workstation](http://www.ibmfiles.com/pages/intellipower185.htm) (Published: 2025-09-28)
-- [Earnings To Watch: Carnival (CCL) Reports Q3 Results Tomorrow](https://finance.yahoo.com/news/earnings-watch-carnival-ccl-reports-030049895.html) (Published: 2025-09-28)
-- [Silent Hill f is already 25% off US MSRP less than a week after launch thanks to a UK-based retailer](https://www.notebookcheck.net/Silent-Hill-f-is-already-25-off-MSRP-less-than-a-week-after-launch-thanks-to-a-UK-based-retailer.1126312.0.html) (Published: 2025-09-28)
-- [White House may give Intel a huge gift](https://www.thestreet.com/technology/white-house-may-give-intel-a-huge-gift-) (Published: 2025-09-28)
-- [Nvidia GeForce RTX 5060 Ti 16GB Dual Fans GPU $370 at Micro Center - YMMV](https://slickdeals.net/f/18640396-nvidia-geforce-rtx-5060-ti-16gb-dual-fans-gpu-370-at-micro-center-ymmv) (Published: 2025-09-28)
-- [ASUS ROG NUC (2025) Mini Gaming PC](https://thegadgetflow.com/product/asus-rog-nuc-2025-mini-gaming-pc/) (Published: 2025-09-28)
