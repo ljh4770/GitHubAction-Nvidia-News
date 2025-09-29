@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-29 07:36:24**_
+_Last updated: **2025-09-29 07:46:39**_
 
 - [Should you buy a Windows mini PC in 2025? My verdict after a week of testing](https://www.zdnet.com/article/should-you-buy-a-windows-mini-pc-in-2025-my-verdict-after-a-week-of-testing/) (Published: 2025-09-28)
 - [This $349 16 GB AI workstation card runs Cyberpunk 2077 at 85 FPS with just 50 W power draw](https://www.notebookcheck.net/This-349-16-GB-AI-workstation-card-runs-Cyberpunk-2077-at-85-FPS-with-just-50-W-power-draw.1126040.0.html) (Published: 2025-09-28)
