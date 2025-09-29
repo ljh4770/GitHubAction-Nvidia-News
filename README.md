@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-29 18:44:07**_
+_Last updated: **2025-09-29 18:55:20**_
 
+- [Come sta andando l’industria del videogioco?](https://www.infodata.ilsole24ore.com/2025/09/28/come-sta-andando-lindustria-del-videogioco/) (Published: 2025-09-28)
 - [Meet the Monster Quantum Computing Stock That Continues to Crush Nvidia, Oracle, and Palantir](https://biztoc.com/x/7f03ba931f1242ea) (Published: 2025-09-28)
 - [TSMC says Intel didn’t ask for investments — denies existence of talks for partnership, joint venture](https://www.tomshardware.com/tech-industry/big-tech/tsmc-says-intel-didnt-ask-for-investments-denies-existence-of-talks-for-partnership-joint-venture) (Published: 2025-09-28)
 - [How JD Vance played a key role in the TikTok US deal, amid concerns about the VP acting as a corporate dealmaker in the forced spin-off of a private company](https://biztoc.com/x/f669e200519ba876) (Published: 2025-09-28)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-29 18:44:07**_
 - [How much of the AI boom is underpinned by Nvidia's own balance sheet? Investors increasingly are asking. - Fortune](https://slashdot.org/firehose.pl?op=view&amp;id=179571822) (Published: 2025-09-28)
 - [The billion-dollar infrastructure deals powering the AI boom | TechCrunch](https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/) (Published: 2025-09-28)
 - [Will a Government Shutdown Nix the Jobs Report? Plus, Nike, Carnival, Paychex, and More Stocks to Watch](https://biztoc.com/x/96ac9d00264a8617) (Published: 2025-09-28)
-- [Eric Adams Suspends NYC Mayoral Campaign](https://biztoc.com/x/73f5c487952446fe) (Published: 2025-09-28)
