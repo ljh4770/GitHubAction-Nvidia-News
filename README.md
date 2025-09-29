@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-29 21:33:52**_
+_Last updated: **2025-09-29 21:44:04**_
 
+- [Reeves Seeks to Sway Labour That Fiscal Restraint Can Win Votes](https://biztoc.com/x/2f0f415c3f623f2c) (Published: 2025-09-28)
+- [Steelers backup quarterback Skylar Thompson robbed in Dublin, report says](https://biztoc.com/x/ce510ee1f3a880ea) (Published: 2025-09-28)
+- [UK to Lay Out Tougher Requirements for Settlement Rights](https://biztoc.com/x/1bfd2d64e21b1b43) (Published: 2025-09-28)
 - [Netanyahu to Meet Trump as US Intensifies Gaza Ceasefire Push](https://biztoc.com/x/fe0626be34e9ebf8) (Published: 2025-09-28)
 - [The billion-dollar infrastructure deals powering the AI boom](https://biztoc.com/x/38484477d151838f) (Published: 2025-09-28)
 - [Trump Says Oval Office Gold Accents 'Highest Quality'](https://biztoc.com/x/cffe35ce17152e46) (Published: 2025-09-28)
@@ -8,6 +11,3 @@ _Last updated: **2025-09-29 21:33:52**_
 - [New World’s Distress Is Cautionary Tale for Hong Kong’s Billionaire Families](https://biztoc.com/x/f409a2bbf8cc177d) (Published: 2025-09-28)
 - [Sen. Klobuchar: Now Is the Time to Address Healthcare Premium Subsidies](https://biztoc.com/x/8a1208dfd9332b90) (Published: 2025-09-28)
 - [The last thing the stock market wants right now is a government shutdown. Here’s why](https://biztoc.com/x/4fb04b675b23011b) (Published: 2025-09-28)
-- [New Zealand’s Synlait Agrees $177M Asset Sales to Reduce Debt](https://biztoc.com/x/81131ee4e42ce142) (Published: 2025-09-28)
-- [AMD’s FSR 4 could save the Asus Xbox Ally from being a poor Steam Deck imitation](https://www.xda-developers.com/amds-fsr-4-could-save-the-asus-xbox-ally/) (Published: 2025-09-28)
-- [German AI start-up in funding talks at $4bn valuation](https://biztoc.com/x/bea25aa934f25bdb) (Published: 2025-09-28)
