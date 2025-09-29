@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-29 17:41:34**_
+_Last updated: **2025-09-29 17:52:19**_
 
 - [Nvidia CEO Jensen Huang Once Offered To Cry With Masayoshi Son Over A Missed Fortune, But That's Not Their Only Regret](https://biztoc.com/x/be993a9ab78c1a29) (Published: 2025-09-28)
 - [Who Can Beat Hyperliquid? Ex-NAGA Founder Bets On AI Coaching](https://www.forbes.com/sites/boazsobrado/2025/09/28/who-can-beat-hyperliquid-ex-naga-founder-bets-on-ai-coaching/) (Published: 2025-09-28)
