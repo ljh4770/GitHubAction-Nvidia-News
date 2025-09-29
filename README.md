@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-29 20:25:11**_
+_Last updated: **2025-09-29 20:38:11**_
 
+- [Warner Bros. Notches Another Box Office Win. ‘One Battle After Another’ Tops Sales](https://biztoc.com/x/90dc8192a160b6af) (Published: 2025-09-28)
+- [A list of notable shooting attacks on houses of worship in the US in the past 20 years](https://biztoc.com/x/9af06462c34f35e5) (Published: 2025-09-28)
 - [Peso Crisis Drives Mortgage Rates to 15%, Upending Milei Agenda](https://biztoc.com/x/158f3e97bb981845) (Published: 2025-09-28)
 - [The AI hype is starting to fade on Wall Street. What investors need to know](https://biztoc.com/x/91ec0bae63dec1f9) (Published: 2025-09-28)
 - [CPA or MBA, Which Is Better for Your Career? CFOs Discuss](https://biztoc.com/x/c16204b697a12d1f) (Published: 2025-09-28)
@@ -9,5 +11,3 @@ _Last updated: **2025-09-29 20:25:11**_
 - [Forget Labubus: We’re Collecting Semi-Cured Gel Nail Strips](https://biztoc.com/x/f4280df0efee5d64) (Published: 2025-09-28)
 - [US sanctions on Serbia's Russian-owned oil company NIS postponed, Tanjug news agency reports](https://biztoc.com/x/88e4f2dbda0e72c7) (Published: 2025-09-28)
 - [Algeria Set for Inaugural $2.3 Billion Sovereign Sukuk Issuance](https://biztoc.com/x/40d776857efc9ab6) (Published: 2025-09-28)
-- [Australia Set to Hold Key Rate as Scope for Further Easing Slims](https://biztoc.com/x/656c9b383b129008) (Published: 2025-09-28)
-- [Here are 3 planets where humans might survive (spoiler: don’t start packing yet!). #TEDTalks](https://biztoc.com/x/b0eff0737c93d1bd) (Published: 2025-09-28)
