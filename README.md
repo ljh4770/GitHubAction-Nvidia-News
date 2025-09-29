@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-29 16:53:20**_
+_Last updated: **2025-09-29 17:13:31**_
 
 - [AMD’s Instinct MI450X Has Reportedly ‘Forced’ NVIDIA to Make Changes With the Rubin AI Chip, Including Higher TGPs & Memory Bandwidth](https://wccftech.com/amd-instinct-mi450x-has-forced-nvidia-to-make-changes-with-the-rubin-ai-chip/) (Published: 2025-09-28)
 - [Jensen Huang says China is ‘nanoseconds behind’ the US in chipmaking, calls for reducing US export restrictions on Nvidia's AI chips](https://www.tomshardware.com/jensen-huang-says-china-is-nanoseconds-behind-in-chips) (Published: 2025-09-28)
