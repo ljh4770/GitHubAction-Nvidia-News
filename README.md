@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-30 16:42:47**_
+_Last updated: **2025-09-30 16:54:34**_
 
 - [Broadcom and Nvidia Executives Cash Out Shares After Big Rally](https://finance.yahoo.com/news/broadcom-nvidia-executives-cash-shares-163612199.html) (Published: 2025-09-29)
 - [Trump’s $100,000 H-1B Visa Miscalculation](http://foreignpolicy.com/2025/09/29/h1b-work-visa-trump-immigration-tech-workers-india-reform/) (Published: 2025-09-29)
