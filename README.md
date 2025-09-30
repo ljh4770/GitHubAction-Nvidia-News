@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-30 15:10:02**_
+_Last updated: **2025-09-30 15:29:36**_
 
+- [MSI Stealth A16 AI+ review: thin, light, and hot](https://www.techradar.com/computing/gaming-laptops/msi-stealth-a16-ai-review-thin-light-and-hot) (Published: 2025-09-29)
+- [Chip Stocks Keep Charging Higher. What the Charts Say About Nvidia, Broadcom, Applied Materials](https://biztoc.com/x/8a153209a3a44bcc) (Published: 2025-09-29)
+- [What's That Weird Smell Coming From Nvidia](https://biztoc.com/x/32a21e27f26dbdfa) (Published: 2025-09-29)
+- [Streamline Robot Learning with Whole-Body Control and Enhanced Teleoperation in NVIDIA Isaac Lab 2.3](https://developer.nvidia.com/blog/streamline-robot-learning-with-whole-body-control-and-enhanced-teleoperation-in-nvidia-isaac-lab-2-3/) (Published: 2025-09-29)
+- [Here’s Why NVIDIA Corporation (NVDA) is on Detectors’ List of Baird Chautauqua International Growth Fund](https://biztoc.com/x/fbb396610f368660) (Published: 2025-09-29)
+- [Stock Market Today: Dow Jones Wavers With Trump Set For Shutdown Talks; Nvidia, EA, Tesla Rally (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=179582956) (Published: 2025-09-29)
+- [OpenAI President teases 10 billion GPU future — says always-working AI future calls for 'every person to have their own dedicated GPU'](https://www.tomshardware.com/tech-industry/openai-cto-teases-10-billion-gpu-future-says-always-working-ai-future-calls-for-every-person-to-have-their-own-dedicated-gpu) (Published: 2025-09-29)
+- [Julie Sweet and tech leaders sound the alarm: $100K H-1B fee threatens to drain talent](https://timesofindia.indiatimes.com/education/news/julie-sweet-and-tech-leaders-sound-the-alarm-100k-h-1b-fee-threatens-to-drain-talent/articleshow/124216172.cms) (Published: 2025-09-29)
 - [Keychron mechanical keyboards are up to 62 percent off](https://www.theverge.com/tech/787159/keychron-mechanical-keyboard-nvidia-5060-ti-gpu-deal-sale) (Published: 2025-09-29)
 - [Skytech King95 Gaming Desktop: Ryzen 9 9900X, RTX 5070 Ti, 32GB DDR5, 2TB SSD $1599.99](https://slickdeals.net/f/18644188-skytech-king95-gaming-desktop-ryzen-9-9900x-rtx-5070-ti-32gb-ddr5-2tb-ssd-1599-99) (Published: 2025-09-29)
-- ['Much of the value creation in the semiconductor industry is occurring outside the EU' says EU member states, and they want a fresh plan to claw some chips back](https://www.pcgamer.com/hardware/much-of-the-value-creation-in-the-semiconductor-industry-is-occurring-outside-the-eu-says-eu-member-states-and-they-want-a-fresh-plan-to-claw-some-chips-back/) (Published: 2025-09-29)
-- [Performance Comparison: NVIDIA And Competitors In Semiconductors & Semiconductor Equipment Industry](https://biztoc.com/x/f79a7085d40310bf) (Published: 2025-09-29)
-- [Elon Musk's xAI Sues OpenAI Alleging Theft of Trade Secrets with Insider Help](https://www.breitbart.com/tech/2025/09/29/elon-musks-xai-sues-openai-alleging-theft-of-trade-secrets-with-insider-help/) (Published: 2025-09-29)
-- [NVIDIA Accelerates Robotics Research and Development With New Open Models and Simulation Libraries](http://nvidianews.nvidia.com/news/nvidia-accelerates-robotics-research-and-development-with-new-open-models-and-simulation-libraries) (Published: 2025-09-29)
-- [Windows 10 Support Ending for 3 Monster Hunter Games](https://www.siliconera.com/windows-10-support-ending-for-3-monster-hunter-games/) (Published: 2025-09-29)
-- [NVIDIA Accelerates Robotics Research and Development With New Open Models and Simulation Libraries](https://www.globenewswire.com/news-release/2025/09/29/3157918/0/en/NVIDIA-Accelerates-Robotics-Research-and-Development-With-New-Open-Models-and-Simulation-Libraries.html) (Published: 2025-09-29)
-- [Train a Quadruped Locomotion Policy and Simulate Cloth Manipulation with NVIDIA Isaac Lab and Newton](https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/) (Published: 2025-09-29)
-- [GeForce RTX 50 Super seriesの登場は3～5月になるかもしれない](https://northwood.blog.fc2.com/blog-entry-12856.html) (Published: 2025-09-29)
