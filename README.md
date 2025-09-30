@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-30 05:50:27**_
+_Last updated: **2025-09-30 06:13:59**_
 
 - [The TikTok Deal Is America’s White Flag in the Tech War With China](http://foreignpolicy.com/2025/09/29/tik-tok-deal-tech-war-china/) (Published: 2025-09-29)
 - [AI groups bet on world models in race for ‘superintelligence’](https://biztoc.com/x/e3585fa964fbc790) (Published: 2025-09-29)
