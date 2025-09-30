@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-30 09:16:11**_
+_Last updated: **2025-09-30 09:33:56**_
 
 - [Chip lab imec names new CEO in AI-focused transition](https://www.channelnewsasia.com/business/chip-lab-imec-names-new-ceo-in-ai-focused-transition-5375361) (Published: 2025-09-29)
 - [Jensen Huang Fires Back At Wall Street 'Flatlining' Nvidia Forecasts, Says AI Demand Will Crush Long-Term Expectations](https://biztoc.com/x/732ae851abcc12de) (Published: 2025-09-29)
