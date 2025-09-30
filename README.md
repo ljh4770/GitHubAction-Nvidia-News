@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-30 11:26:34**_
+_Last updated: **2025-09-30 11:39:22**_
 
+- [EU pushes for Chips Act 2.0 investment as it looks set to miss global silicon production targets by a wide margin — seeks quadrupling of semiconductor investment as $50 billion initiative flounders](https://www.tomshardware.com/tech-industry/semiconductors/eu-pushes-for-chips-act-2-0-investment-as-it-looks-set-to-miss-global-silicon-production-targets-by-a-wide-margin-seeks-quadrupling-of-semiconductor-investment-as-usd50-billion-initiative-flounders) (Published: 2025-09-29)
+- [What to Expect From Bank of New York Mellon’s Next Quarterly Earnings Report](https://biztoc.com/x/ec272d872d4d6e16) (Published: 2025-09-29)
+- [Low-Cost Iceland Carrier Play Shuts Down, Stranding Passengers](https://biztoc.com/x/5135cb9747fd5a2b) (Published: 2025-09-29)
+- [Chile Investors Turn to Corporate Bonds in Search for Yield](https://biztoc.com/x/15cc51bb0642f3e2) (Published: 2025-09-29)
+- [Corn Nears One-Week Low on Favorable US Harvest Conditions](https://biztoc.com/x/1ebb0fec03c1c037) (Published: 2025-09-29)
+- [China urges Japan to stop putting Chinese firms on export control list](https://biztoc.com/x/8fba6662747dd789) (Published: 2025-09-29)
+- [Earnings Preview: What to Expect From U.S. Bancorp’s Report](https://biztoc.com/x/e315d7a2f7d92176) (Published: 2025-09-29)
+- [Sony Group Lists $9.5 Billion Financial Business to Focus on Entertainment](https://biztoc.com/x/ded710a5784f8dcf) (Published: 2025-09-29)
 - [China’s Copper Smelters Are Stuck Between Past Habits and Present Pain](https://biztoc.com/x/befb6345a9cc87cd) (Published: 2025-09-29)
 - [Barrick Says CEO Bristow Departs, Names Hill as Interim Boss](https://biztoc.com/x/8c8f36fa77c40071) (Published: 2025-09-29)
-- [Levi Strauss & Co. launches initiative to boost renewable energy in India](https://biztoc.com/x/4928aaedf46f61ea) (Published: 2025-09-29)
-- [3 Growth Stocks Down 40% to Buy Right Now](https://biztoc.com/x/46fd291632a4502c) (Published: 2025-09-29)
-- [AI could give Silicon Valley financiers a run for their money](https://biztoc.com/x/fe522d4749324b61) (Published: 2025-09-29)
-- [PPG Industries’ Q3 2025 Earnings: What to Expect](https://biztoc.com/x/7632969de2437a7a) (Published: 2025-09-29)
-- [TD’s US Investment-Banking Ambitions Risk Leaving Canada Behind](https://biztoc.com/x/4da1a0b233819585) (Published: 2025-09-29)
-- [US to See $350 Billion Nuclear Boom to Power AI, Report Says](https://biztoc.com/x/ca70b6f9daea51ab) (Published: 2025-09-29)
-- [Moelis Hires Former BlackRock Innovation Head for Privates Push](https://biztoc.com/x/2624a50ae43bd7be) (Published: 2025-09-29)
-- [OpenAI launches new ChatGPT parental safety controls for users aged 13 to 18, including parental and law enforcement alerts for chats about self-harm or suicide](https://biztoc.com/x/7e53fe69a8f330a1) (Published: 2025-09-29)
