@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-30 11:49:56**_
+_Last updated: **2025-09-30 12:00:23**_
 
 - [Brevan Howard hires ex-BlueCrest portfolio manager Terence Hsu](https://biztoc.com/x/af8f27a5981f866b) (Published: 2025-09-29)
 - [This Dutch Drugmaker’s Stock Is Jumping 38%. Here’s Why It’s Being Acquired](https://biztoc.com/x/c179a06891a0f908) (Published: 2025-09-29)
