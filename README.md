@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-30 04:47:26**_
+_Last updated: **2025-09-30 04:58:00**_
 
+- [The TikTok Deal Is America’s White Flag in the Tech War With China](http://foreignpolicy.com/2025/09/29/tik-tok-deal-tech-war-china/) (Published: 2025-09-29)
 - [AI groups bet on world models in race for ‘superintelligence’](https://biztoc.com/x/e3585fa964fbc790) (Published: 2025-09-29)
 - [megatron-fsdp 0.1.0rc4](https://pypi.org/project/megatron-fsdp/0.1.0rc4/) (Published: 2025-09-29)
 - [Magnificent Seven is passe, but what can take its place?](https://www.japantimes.co.jp/business/2025/09/29/tech/magnificent-7-ai-stocks/) (Published: 2025-09-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-30 04:47:26**_
 - [HPE tees up the technology for the first AI-enabled Ryder Cup](https://siliconangle.com/2025/09/28/hpe-tees-technology-first-ai-enabled-ryder-cup/) (Published: 2025-09-29)
 - [Jensen Huang Calls OpenAI The Next Multi-Trillion-Dollar Hyperscaler As Nvidia Pledges $100 Billion: 'This Is Some Of The Smartest Investment...'](https://biztoc.com/x/182e488d6fbb2746) (Published: 2025-09-29)
 - [RBI expected to hold policy rate, but surprise cut possible](https://biztoc.com/x/d1fc7ccdcdb08abb) (Published: 2025-09-29)
-- [Australian telco Optus suffers fresh emergency call outage](https://biztoc.com/x/e1c94854d90cc4dd) (Published: 2025-09-29)
