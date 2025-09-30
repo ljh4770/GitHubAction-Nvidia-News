@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-30 17:32:04**_
+_Last updated: **2025-09-30 17:43:14**_
 
 - [Saudis, Jared Kushner Part Of Record $55 Billion Deal To Acquire Electronic Arts](https://brobible.com/sports/article/saudis-acquire-electronic-arts/) (Published: 2025-09-29)
 - [NVIDIA Advances Robotics Development at CoRL 2025 with New Models, Systems, and Simulation Tools](https://www.storagereview.com/news/nvidia-advances-robotics-development-at-corl-2025-with-new-models-systems-and-simulation-tools) (Published: 2025-09-29)
