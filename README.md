@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-30 07:38:10**_
+_Last updated: **2025-09-30 07:48:57**_
 
+- [Jensen Huang says Trump's H-1B change is 'a great start' — but the $100K price tag for new visas is too high](https://biztoc.com/x/d8ed35de0d5713dc) (Published: 2025-09-29)
 - [Jensen Huang says Trump's H-1B change is 'a great start' — but the $100K price tag for new visas is too high](https://www.businessinsider.com/jensen-huang-nvidia-trump-100k-h1b-visa-price-high-immigration-2025-9) (Published: 2025-09-29)
 - [Rigetti Computing: Enormous Potential, But Equally Substantial Risks](https://biztoc.com/x/30136b5f2e85e482) (Published: 2025-09-29)
 - [Promising Large Cap Stocks To Consider – September 27th](https://www.etfdailynews.com/2025/09/29/promising-large-cap-stocks-to-consider-september-27th/) (Published: 2025-09-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-09-30 07:38:10**_
 - [HP Spectre X360 16 Inch 2-in-1 Laptop w/ RTX 4050 GPU - $2208 @Hp.com.au (w/SB @12%)](https://www.ozbargain.com.au/node/926240) (Published: 2025-09-29)
 - [nvidia-dali-weekly-cuda130 1.52.0.dev20250928](https://pypi.org/project/nvidia-dali-weekly-cuda130/1.52.0.dev20250928/) (Published: 2025-09-29)
 - [Momenta Reportedly in Talks to Raise Funds at Around $6B Valuation](http://technode.com/2025/09/29/momenta-reportedly-in-talks-to-raise-funds-at-around-6b-valuation/) (Published: 2025-09-29)
-- [Novian’s Revenue for the First Half of 2025 Reached EUR 12.5 Million](https://www.globenewswire.com/news-release/2025/09/29/3157440/0/en/Novian-s-Revenue-for-the-First-Half-of-2025-Reached-EUR-12-5-Million.html) (Published: 2025-09-29)
