@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-09-30 07:59:12**_
+_Last updated: **2025-09-30 08:36:03**_
 
+- [Capital Advantage Inc. Reduces Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/29/capital-advantage-inc-reduces-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-29)
+- [Silver Oak Securities Incorporated Has $17.76 Million Stock Holdings in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/29/silver-oak-securities-incorporated-has-17-76-million-stock-holdings-in-nvidia-corporation-nvda/) (Published: 2025-09-29)
+- [Taiwan Must Help US to Make Half its Chips, Commerce Chief Says](https://finance.yahoo.com/news/taiwan-must-help-us-half-082254871.html) (Published: 2025-09-29)
+- [nvfuser-cu126 0.2.34.dev20250929](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20250929/) (Published: 2025-09-29)
+- [nvfuser-cu128 0.2.34.dev20250929](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20250929/) (Published: 2025-09-29)
+- [nvfuser-cu129 0.2.34.dev20250929](https://pypi.org/project/nvfuser-cu129/0.2.34.dev20250929/) (Published: 2025-09-29)
+- [Ryzen AI Max+ With Framework Desktop, File-System Tests & EPYC 4005 Dominated Q3](https://www.phoronix.com/news/2025-Q3-Linux-Hardware-Recap) (Published: 2025-09-29)
 - [NVIDIA Corporation $NVDA Shares Sold by Wedge Capital Management L L P NC](https://www.etfdailynews.com/2025/09/29/nvidia-corporation-nvda-shares-sold-by-wedge-capital-management-l-l-p-nc/) (Published: 2025-09-29)
 - [WealthBridge Investment Counsel Inc. Acquires New Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/29/wealthbridge-investment-counsel-inc-acquires-new-position-in-nvidia-corporation-nvda/) (Published: 2025-09-29)
 - [Jensen Huang says Trump's H-1B change is 'a great start' — but the $100K price tag for new visas is too high](https://biztoc.com/x/d8ed35de0d5713dc) (Published: 2025-09-29)
-- [Jensen Huang says Trump's H-1B change is 'a great start' — but the $100K price tag for new visas is too high](https://www.businessinsider.com/jensen-huang-nvidia-trump-100k-h1b-visa-price-high-immigration-2025-9) (Published: 2025-09-29)
-- [Rigetti Computing: Enormous Potential, But Equally Substantial Risks](https://biztoc.com/x/30136b5f2e85e482) (Published: 2025-09-29)
-- [Promising Large Cap Stocks To Consider – September 27th](https://www.etfdailynews.com/2025/09/29/promising-large-cap-stocks-to-consider-september-27th/) (Published: 2025-09-29)
-- [8 Companies Poised to Soar From Nvidia and OpenAI’s $100 Billion Alliance](https://biztoc.com/x/3c805ae7ab29035f) (Published: 2025-09-29)
-- [UMB Bank n.a. Decreases Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/29/umb-bank-n-a-decreases-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-29)
-- [Windsor Capital Management LLC Makes New Investment in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/29/windsor-capital-management-llc-makes-new-investment-in-nvidia-corporation-nvda/) (Published: 2025-09-29)
-- [HP Spectre X360 16 Inch 2-in-1 Laptop w/ RTX 4050 GPU - $2208 @Hp.com.au (w/SB @12%)](https://www.ozbargain.com.au/node/926240) (Published: 2025-09-29)
