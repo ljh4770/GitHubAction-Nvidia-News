@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 09:32:21**_
+_Last updated: **2025-10-01 09:45:37**_
 
+- [TSMC Fast-Tracks Production of Cutting-Edge Nodes in The US, With A16 (1.6nm) To Now Debut a Year Earlier Amid US-Taiwan Parity Pressure](https://wccftech.com/tsmc-fast-tracks-production-of-cutting-edge-nodes-in-the-us/) (Published: 2025-09-30)
 - [Ullmann Wealth Partners Group LLC Acquires 3,852 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/30/ullmann-wealth-partners-group-llc-acquires-3852-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-30)
 - [Matrix Trust Co Acquires 351 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/30/matrix-trust-co-acquires-351-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-30)
 - [Colorado Capital Management Inc. Decreases Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/30/colorado-capital-management-inc-decreases-position-in-nvidia-corporation-nvda/) (Published: 2025-09-30)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-01 09:32:21**_
 - [JVNDB-2025-014775:NVIDIA の triton inference server における境界外書き込みに関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-014775_AD_1.html) (Published: 2025-09-30)
 - [JVNDB-2024-028274:NVIDIA の triton inference server における脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2024-028274_AD_1.html) (Published: 2025-09-30)
 - [5 top ASX ETFs to buy in October](https://www.fool.com.au/2025/09/30/5-top-asx-etfs-to-buy-in-october-2025/) (Published: 2025-09-30)
-- [Here's How Much ChatGPT-Maker OpenAI Made In First Half Of 2025](https://www.ndtvprofit.com/technology/here-is-how-much-artificial-intelligence-chatbot-chatgpt-maker-openai-made-in-first-half-of-2025) (Published: 2025-09-30)
