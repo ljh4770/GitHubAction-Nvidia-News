@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 06:15:01**_
+_Last updated: **2025-10-01 06:44:55**_
 
+- [Durable desktop for modern work](https://www.thestar.com.my/news/nation/2025/09/30/durable-desktop-for-modern-work) (Published: 2025-09-30)
+- [CNBC Daily Open: Fed's path ahead could be clouded if U.S. government shuts down](https://www.cnbc.com/2025/09/30/cnbc-daily-open-feds-path-ahead-could-be-clouded-if-us-government-shuts-down.html) (Published: 2025-09-30)
 - [Programming AI Accelerators with Triton](https://www.digitalocean.com/community/tutorials/introduction-to-triton-programming) (Published: 2025-09-30)
 - [Enterprise AI: It's all about the proprietary data | Constellation Research Inc.](https://www.constellationr.com/blog-news/insights/enterprise-ai-its-all-about-proprietary-data) (Published: 2025-09-30)
 - [jetson-stats-customized 4.2.7.7](https://pypi.org/project/jetson-stats-customized/4.2.7.7/) (Published: 2025-09-30)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-01 06:15:01**_
 - [Taiwan should only produce half of America’s chips, says U.S. Commerce Secretary Howard Lutnick](https://www.cnbc.com/2025/09/30/taiwan-should-only-produce-half-of-americas-chips-says-us-commerce-chief.html) (Published: 2025-09-30)
 - [OpenAI's first-half revenue rises 16% to about $4.3 billion, The Information reports](https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-first-half-revenue-rises-16-to-about-4-3-billion-the-information-reports/articleshow/124225480.cms) (Published: 2025-09-30)
 - [Cloudian launches object storage AI platform at corporate LLM](https://www.computerweekly.com/news/366632045/Cloudian-launches-object-storage-AI-platform-at-corporate-LLM) (Published: 2025-09-30)
-- [エンタープライズエコシステム全体にわたりAIの未来を保護するクラウドストライク](https://prtimes.jp/main/html/rd/p/000000126.000031049.html) (Published: 2025-09-30)
-- [Is Bitcoin Topped: Why The Real Top May Still Be Ahead](https://www.forbes.com/sites/clorischen/2025/09/29/is-bitcoin-topped-why-the-real-top-may-still-be-ahead/) (Published: 2025-09-30)
