@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 04:47:31**_
+_Last updated: **2025-10-01 04:58:06**_
 
 - [Taiwan should only produce half of America’s chips, says U.S. Commerce Secretary Howard Lutnick](https://www.cnbc.com/2025/09/30/taiwan-should-only-produce-half-of-americas-chips-says-us-commerce-chief.html) (Published: 2025-09-30)
 - [OpenAI's first-half revenue rises 16% to about $4.3 billion, The Information reports](https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-first-half-revenue-rises-16-to-about-4-3-billion-the-information-reports/articleshow/124225480.cms) (Published: 2025-09-30)
