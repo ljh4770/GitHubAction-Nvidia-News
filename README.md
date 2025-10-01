@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 23:44:45**_
+_Last updated: **2025-10-01 23:54:54**_
 
 - [Meta strikes expanded $14.2B AI infrastructure deal with CoreWeave](https://siliconangle.com/2025/09/30/meta-strikes-expanded-14-2b-ai-infrastructure-deal-coreweave/) (Published: 2025-09-30)
 - [While Tesla Is Warning Trump, These Two Rivals Are Quietly Hitting Fresh Highs On Wall Street As EPA Seeks To Repeal 2009 Endangerment Finding](https://finance.yahoo.com/news/while-tesla-warning-trump-two-233046658.html) (Published: 2025-09-30)
