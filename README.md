@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 18:36:49**_
+_Last updated: **2025-10-01 18:52:10**_
 
 - [HEUR:Trojan-PSW.Script.Generic warning and other infection signs](https://www.bleepingcomputer.com/forums/t/810989/heurtrojan-pswscriptgeneric-warning-and-other-infection-signs/) (Published: 2025-09-30)
 - [Nvidia gets a price target hike from Citi on AI infrastructure growth, OpenAI deal - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=179604914) (Published: 2025-09-30)
