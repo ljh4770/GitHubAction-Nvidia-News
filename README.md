@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 09:10:52**_
+_Last updated: **2025-10-01 09:32:21**_
 
+- [Ullmann Wealth Partners Group LLC Acquires 3,852 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/30/ullmann-wealth-partners-group-llc-acquires-3852-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-30)
+- [Matrix Trust Co Acquires 351 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/30/matrix-trust-co-acquires-351-shares-of-nvidia-corporation-nvda/) (Published: 2025-09-30)
+- [Colorado Capital Management Inc. Decreases Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/30/colorado-capital-management-inc-decreases-position-in-nvidia-corporation-nvda/) (Published: 2025-09-30)
+- [NVIDIA Corporation $NVDA Stake Raised by Palacios Wealth Management LLC](https://www.etfdailynews.com/2025/09/30/nvidia-corporation-nvda-stake-raised-by-palacios-wealth-management-llc/) (Published: 2025-09-30)
+- [NVIDIA Corporation $NVDA Shares Purchased by Quantum Financial Advisors LLC](https://www.etfdailynews.com/2025/09/30/nvidia-corporation-nvda-shares-purchased-by-quantum-financial-advisors-llc/) (Published: 2025-09-30)
+- [Local LLMs vs Cloud AI : How Local LLMs Are Changing AI Workflows](https://www.geeky-gadgets.com/benefits-of-running-ai-models-locally/) (Published: 2025-09-30)
 - [JVNDB-2025-014775:NVIDIA の triton inference server における境界外書き込みに関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-014775_AD_1.html) (Published: 2025-09-30)
 - [JVNDB-2024-028274:NVIDIA の triton inference server における脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2024-028274_AD_1.html) (Published: 2025-09-30)
 - [5 top ASX ETFs to buy in October](https://www.fool.com.au/2025/09/30/5-top-asx-etfs-to-buy-in-october-2025/) (Published: 2025-09-30)
 - [Here's How Much ChatGPT-Maker OpenAI Made In First Half Of 2025](https://www.ndtvprofit.com/technology/here-is-how-much-artificial-intelligence-chatbot-chatgpt-maker-openai-made-in-first-half-of-2025) (Published: 2025-09-30)
-- [Sterling Group Wealth Management LLC Trims Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/30/sterling-group-wealth-management-llc-trims-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-30)
-- [Reports claim Intel approached Apple for collaboration and investment - I predict that the rest of the Magnificent 7 will get the same call before the end of the year](https://www.techradar.com/pro/reports-claim-intel-approached-apple-for-collaboration-and-investment-i-predict-that-the-rest-of-the-magnificent-7-will-get-the-same-call-before-the-end-of-the-year) (Published: 2025-09-30)
-- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Down as Government Shutdown Nears; Dollar Falls; Bitcoin Prices Recover; China Data; Wolfspeed Stock, Intel, Nvidia and More Movers](https://biztoc.com/x/30e44d3fa686ff85) (Published: 2025-09-30)
-- [Agentic AI in Digital Engineering Market Report 2025, with Profiles of Adept AI Labs, Anthropic, Beam AI, Blue Yonder, Coupa Software, DevCom, DevSquad, EffectiveSoft, INORU, OpenAI, UiPath, & More](https://www.globenewswire.com/news-release/2025/09/30/3158320/28124/en/Agentic-AI-in-Digital-Engineering-Market-Report-2025-with-Profiles-of-Adept-AI-Labs-Anthropic-Beam-AI-Blue-Yonder-Coupa-Software-DevCom-DevSquad-EffectiveSoft-INORU-OpenAI-UiPath-M.html) (Published: 2025-09-30)
-- [Cloudian and NVIDIA Partner to Deliver On-Premises AI Server with Cloud-Scale Performance](https://www.storagereview.com/news/cloudian-and-nvidia-partner-to-deliver-on-premises-ai-server-with-cloud-scale-performance) (Published: 2025-09-30)
-- [Resident Evil Requiem Devs Were Surprised at How Well It Runs on the Nintendo Switch 2](https://wccftech.com/resident-evil-requiem-devs-surprised-how-well-it-runs-switch-2/) (Published: 2025-09-30)
