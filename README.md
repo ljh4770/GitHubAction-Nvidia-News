@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 07:57:28**_
+_Last updated: **2025-10-01 08:32:01**_
 
+- [Reports claim Intel approached Apple for collaboration and investment - I predict that the rest of the Magnificent 7 will get the same call before the end of the year](https://www.techradar.com/pro/reports-claim-intel-approached-apple-for-collaboration-and-investment-i-predict-that-the-rest-of-the-magnificent-7-will-get-the-same-call-before-the-end-of-the-year) (Published: 2025-09-30)
+- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Down as Government Shutdown Nears; Dollar Falls; Bitcoin Prices Recover; China Data; Wolfspeed Stock, Intel, Nvidia and More Movers](https://biztoc.com/x/30e44d3fa686ff85) (Published: 2025-09-30)
+- [Agentic AI in Digital Engineering Market Report 2025, with Profiles of Adept AI Labs, Anthropic, Beam AI, Blue Yonder, Coupa Software, DevCom, DevSquad, EffectiveSoft, INORU, OpenAI, UiPath, & More](https://www.globenewswire.com/news-release/2025/09/30/3158320/28124/en/Agentic-AI-in-Digital-Engineering-Market-Report-2025-with-Profiles-of-Adept-AI-Labs-Anthropic-Beam-AI-Blue-Yonder-Coupa-Software-DevCom-DevSquad-EffectiveSoft-INORU-OpenAI-UiPath-M.html) (Published: 2025-09-30)
+- [Cloudian and NVIDIA Partner to Deliver On-Premises AI Server with Cloud-Scale Performance](https://www.storagereview.com/news/cloudian-and-nvidia-partner-to-deliver-on-premises-ai-server-with-cloud-scale-performance) (Published: 2025-09-30)
+- [Resident Evil Requiem Devs Were Surprised at How Well It Runs on the Nintendo Switch 2](https://wccftech.com/resident-evil-requiem-devs-surprised-how-well-it-runs-switch-2/) (Published: 2025-09-30)
+- [Bank & Trust Co Has $1.13 Million Stake in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/09/30/bank-trust-co-has-1-13-million-stake-in-nvidia-corporation-nvda/) (Published: 2025-09-30)
+- [Nvidia CEO Jensen Huang outlines AI industry shifts and Nvidia's strategic vision in detailed podcast interview](https://www.digitimes.com/news/a20250930PD239/nvidia-jensen-huang-ai-infrastructure-openai.html) (Published: 2025-09-30)
 - [Ambitious Wee Beastie Project Aims To Put Desktop NVIDIA RTX 4070 GPU Into 4.75 L Chassis](https://www.madshrimps.be/news/ambitious-wee-beastie-project-aims-to-put-desktop-nvidia-rtx-4070-gpu-into-4-75-l-chassis/) (Published: 2025-09-30)
 - [How to turn spare change into serious wealth on the ASX](https://www.fool.com.au/2025/09/30/how-to-turn-spare-change-into-serious-wealth-on-the-asx/) (Published: 2025-09-30)
 - [日立が「CEATEC 2025」に出展、AIによる現場の革新を提案](https://prtimes.jp/main/html/rd/p/000000505.000067590.html) (Published: 2025-09-30)
-- [Best pc for gamming](https://www.bleepingcomputer.com/forums/t/810972/best-pc-for-gamming/) (Published: 2025-09-30)
-- [Bitcoin Reclaims $114K as Crypto Market Recovers — Maxi Doge Presale Heats Up](http://www.newsbtc.com/news/bitcoin-bounces-past-114k-market-turns-green-maxi-doge-pumps/) (Published: 2025-09-30)
-- [Orange Pi AI Studio Pro – A Huawei Ascend 310 AI mini PC with up to 352 TOPS, 192GB RAM](https://www.cnx-software.com/2025/09/30/orange-pi-ai-studio-pro-huawei-ascend-310-ai-mini-pc-with-up-to-352-tops-192gb-ram/) (Published: 2025-09-30)
-- [Microsoft Surface Book 3 (2020) 13.5" i7 1.3GHz 32GB RAM 512GB SSD (Refurbished) for $789](https://www.stacksocial.com/sales/microsoft-surface-book-3-13-5-2020-i7-1-3ghz-32gb-ram-512gb-ssd-refurbished?aid=) (Published: 2025-09-30)
-- [Microsoft Surface Book 3 (2020) 13.5" i7 1.3GHz 32GB RAM 512GB SSD (Refurbished) for $789](https://www.stacksocial.com/sales/microsoft-surface-book-3-13-5-2020-i7-1-3ghz-32gb-ram-512gb-ssd-refurbished) (Published: 2025-09-30)
-- [Microsoft Surface Book 3 (2020) 13.5" i7 1.3GHz 32GB RAM 512GB SSD (Refurbished) for $789](https://www.stacksocial.com/sales/microsoft-surface-book-3-13-5-2020-i7-1-3ghz-32gb-ram-512gb-ssd-refurbished?utm_content=&amp;utm_campaign=microsoft-surface-book-3-13-5-2020-i7-1-3ghz-32gb-ram-512gb-ssd-refurbished&amp;utm_medium=dealfeed&amp;utm_source=) (Published: 2025-09-30)
-- [Microsoft Surface Book 3 (2020) 13.5" i7 1.3GHz 32GB RAM 512GB SSD (Refurbished) for $789](https://www.stacksocial.com/sales/microsoft-surface-book-3-13-5-2020-i7-1-3ghz-32gb-ram-512gb-ssd-refurbished?utm_source=androidguys&amp;aid=&amp;utm_campaign=feed&amp;utm_medium=RSS) (Published: 2025-09-30)
