@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 22:59:45**_
+_Last updated: **2025-10-01 23:22:31**_
 
+- [‘Sora 2’ Launches From OpenAI: Here’s The Latest In The AI Arms Race](https://www.forbes.com/sites/antoniopequenoiv/2025/09/30/sora-2-launches-from-openai-heres-the-latest-in-the-ai-arms-race/) (Published: 2025-09-30)
+- [AI Juggernaut Nvidia Pops To Another Record High; Leads 9 Top Stocks To Watch Onto The IBD 50, Big Cap 20, More](https://biztoc.com/x/cf3765716595bf8d) (Published: 2025-09-30)
 - [South Korean president to meet with OpenAI CEO on Wednesday](https://www.yahoo.com/news/articles/south-korean-president-meet-openai-224924676.html) (Published: 2025-09-30)
 - [Nvidia falters in China; Huawei moves to fill AI chip vacuum](https://www.digitimes.com/news/a20250930PD248/ai-chip-china-huawei-ascend-nvidia.html) (Published: 2025-09-30)
 - [Big Tech's AI Spending—and Borrowing—Will Be Even Higher Next Year, Says Citi](https://www.investopedia.com/big-tech-s-ai-spending-and-borrowing-will-be-even-higher-next-year-says-citi-11821812) (Published: 2025-09-30)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-01 22:59:45**_
 - [Balchunas says tokenized stocks unlikely to disrupt ETFs as SEC gears up for rule change](https://cryptoslate.com/balchunas-says-tokenized-stocks-unlikely-to-disrupt-etfs-as-sec-gears-up-for-rule-change/) (Published: 2025-09-30)
 - [From Workloads to Factories: Rethinking the Data Center for AI](https://blogs.cisco.com/datacenter/from-workloads-to-factories-rethinking-the-data-center-for-ai) (Published: 2025-09-30)
 - [How Taipei Should Handle Washington](http://foreignpolicy.com/2025/09/30/taiwan-china-trump-independence-tsmc-semiconductor/) (Published: 2025-09-30)
-- [MSI Thin: 15.6" FHD 144Hz IPS, i5-13420H, RTX 4050, 16GB DDR4, 512GB SSD $549](https://slickdeals.net/f/18648961-msi-thin-15-6-fhd-144hz-ips-i5-13420h-rtx-4050-16gb-ddr4-512gb-ssd-549) (Published: 2025-09-30)
-- [Why This Top Trade Representative Doesn’t See ‘Any Problems From Tariffs’](https://biztoc.com/x/b0d566b6af50e67d) (Published: 2025-09-30)
