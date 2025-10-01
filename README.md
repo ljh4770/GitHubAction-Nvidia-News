@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 10:51:28**_
+_Last updated: **2025-10-01 11:09:33**_
 
 - [Here's JPMorgan Chase's blueprint to become the world’s first fully AI-powered megabank](https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html) (Published: 2025-09-30)
 - [DeepMind Release Gemini Robotics-ER 1.5 for Embodied Reasoning](https://www.infoq.com/news/2025/09/deepmind-gemini-robotics/) (Published: 2025-09-30)
