@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 13:58:08**_
+_Last updated: **2025-10-01 14:26:47**_
 
+- [Fogwise AIRbox Q900 – $599 Qualcomm IQ-9075 AI Box delivers up to 200 TOPS of AI performance](https://www.cnx-software.com/2025/09/30/fogwise-airbox-q900-599-qualcomm-iq-9075-ai-box-delivers-up-to-200-tops-of-ai-performance/) (Published: 2025-09-30)
+- [CoreWeave stock surges as reported $14 billion Meta deal signals 'limitless' AI demand](https://finance.yahoo.com/news/coreweave-stock-surges-as-reported-14-billion-meta-deal-signals-limitless-ai-demand-142356584.html) (Published: 2025-09-30)
+- [Asus ROG Zephyrus G16 (2025, Intel)](https://uk.pcmag.com/laptops/160354/asus-rog-zephyrus-g16-2025-intel) (Published: 2025-09-30)
+- [Asus ROG Zephyrus G16 (2025, Intel)](https://me.pcmag.com/en/laptops/32540/asus-rog-zephyrus-g16-2025-intel) (Published: 2025-09-30)
+- [NVIDIA driver 580.95.05 released as the latest recommended for Linux](https://www.gamingonlinux.com/2025/09/nvidia-driver-580-95-05-released-as-the-latest-recommended-for-linux/.) (Published: 2025-09-30)
+- [(PR) NVIDIA DLSS 4 With Multi Frame Gen Comes to Alien: Rogue Incursion, X4: Foundations, and FBC: Firebreak - Breakpoint](https://www.techpowerup.com/341497/nvidia-dlss-4-with-multi-frame-gen-comes-to-alien-rogue-incursion-x4-foundations-and-fbc-firebreak-breakpoint) (Published: 2025-09-30)
+- [Seafarer: The Ship Sim Confirms New Early Access Launch Date](https://bleedingcool.com/games/seafarer-the-ship-sim-confirms-new-early-access-launch-date/) (Published: 2025-09-30)
+- [Nvidia Stock Edges Up. Can It Keep Its Lead Over AMD?](https://biztoc.com/x/3117c25ef592c136) (Published: 2025-09-30)
+- [A graph neural network-based spatial multi-omics data integration method for deciphering spatial domains](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013546) (Published: 2025-09-30)
 - [CoreWeave Extends Hot Streak With Meta's $14 Billion Cloud Deal](https://finance.yahoo.com/news/coreweave-extends-hot-streak-metas-135527689.html) (Published: 2025-09-30)
-- [Nvidia Stock Heading to $250? Is This Target Realistic?](https://biztoc.com/x/8348a7f496c15c60) (Published: 2025-09-30)
-- [US Stock Markets Today: S&P 500, Nasdaq Open In Red Amid Government Shutdown Indications](https://www.ndtvprofit.com/markets/us-stock-markets-today-sp-500-nasdaq-open-in-red-amid-government-shutdown-indications) (Published: 2025-09-30)
-- [This German A.I. Startup Is Nearing $4B Valuation and Winning Over Silicon Valley](https://observer.com/2025/09/german-ai-startup-black-forest-labs-4b-valuation/) (Published: 2025-09-30)
-- [Here's How IonQ is Paving its Profitability Path in the Quantum Race](https://finance.yahoo.com/news/heres-ionq-paving-profitability-path-133000725.html) (Published: 2025-09-30)
-- [This HP OMEN 14-inch RTX 5070 3K OLED gaming laptop delivers serious value today at $440 off](http://9to5toys.com/2025/09/30/hp-omen-14-inch-rtx-5070-3k-oled-gaming-laptop-at-440-off/) (Published: 2025-09-30)
-- [(PR) Corsair Announces Leveled-Up VOID v2 MAX WIRELESS Gaming Headsets](https://www.techpowerup.com/341495/corsair-announces-leveled-up-void-v2-max-wireless-gaming-headsets) (Published: 2025-09-30)
-- [VAST Data and SDS Partner to Build One of Israel’s Largest Sovereign AI Cloud](https://www.globenewswire.com/news-release/2025/09/30/3158695/0/en/VAST-Data-and-SDS-Partner-to-Build-One-of-Israel-s-Largest-Sovereign-AI-Cloud.html) (Published: 2025-09-30)
-- [AI chip company Cerebras raises $1 billion in pre-IPO funding round](https://biztoc.com/x/e5b52325f3e29539) (Published: 2025-09-30)
-- [AI chip firm Cerebras raises $1.1 billion, adds Trump-linked 1789 Capital as investor](https://economictimes.indiatimes.com/tech/funding/ai-chip-firm-cerebras-raises-1-1-billion-adds-trump-linked-1789-capital-as-investor/articleshow/124236284.cms) (Published: 2025-09-30)
