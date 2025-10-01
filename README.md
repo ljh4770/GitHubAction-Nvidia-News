@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 22:24:58**_
+_Last updated: **2025-10-01 22:38:54**_
 
+- ['$1 Trillion Club' ETF Gives Investors Exposure to Tech Giants—And Bitcoin](https://decrypt.co/342342/1-trillion-club-etf-gives-investors-exposure-to-tech-giants-and-bitcoin) (Published: 2025-09-30)
+- [Qualcomm promises it can be an AI winner. What does it know that Nvidia and Intel don’t?](https://biztoc.com/x/f4b81fbd766411b5) (Published: 2025-09-30)
 - [Balchunas says tokenized stocks unlikely to disrupt ETFs as SEC gears up for rule change](https://cryptoslate.com/balchunas-says-tokenized-stocks-unlikely-to-disrupt-etfs-as-sec-gears-up-for-rule-change/) (Published: 2025-09-30)
 - [From Workloads to Factories: Rethinking the Data Center for AI](https://blogs.cisco.com/datacenter/from-workloads-to-factories-rethinking-the-data-center-for-ai) (Published: 2025-09-30)
 - [How Taipei Should Handle Washington](http://foreignpolicy.com/2025/09/30/taiwan-china-trump-independence-tsmc-semiconductor/) (Published: 2025-09-30)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-01 22:24:58**_
 - [HP ZBook Ultra G1a 14](https://me.pcmag.com/en/laptops/32552/hp-zbook-ultra-g1a-14) (Published: 2025-09-30)
 - [HP ZBook Ultra G1a 14](https://uk.pcmag.com/laptops/160368/hp-zbook-ultra-g1a-14) (Published: 2025-09-30)
 - [How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing](https://blogs.nvidia.com/blog/how-quantum-computings-biggest-challenges-solved-accelerated-computing/) (Published: 2025-09-30)
-- [2 big stock moves showcase the new world investors are living in](https://www.businessinsider.com/coreweave-pfizer-stock-crwv-pfe-trumprx-meta-deal-ai-2025-9) (Published: 2025-09-30)
-- [Repligen, BrightSpring Health Services, Danaher, Thermo Fisher, and Amgen Shares Skyrocket, What You Need To Know](https://finance.yahoo.com/news/repligen-brightspring-health-services-danaher-200540066.html) (Published: 2025-09-30)
