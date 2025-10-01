@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-01 19:36:19**_
+_Last updated: **2025-10-01 19:46:59**_
 
+- [Automation foundation is key to turning AI pilots into ROI: UiPath Fusion insights from theCUBE](https://siliconangle.com/2025/09/30/automation-foundation-key-turning-ai-pilots-roi-uipathfusion/) (Published: 2025-09-30)
 - [PyCoder’s Weekly: Issue #702: django.tasks, MCP, Asyncio Without the GIL, and More (Sept. 30, 2025)](https://pycoders.com/issues/702) (Published: 2025-09-30)
 - [This $350 Thunderbolt 5 eGPU dock boosts Cyberpunk 2077 at 4K Ultra settings to 90 FPS without DLSS](https://www.notebookcheck.net/This-350-Thunderbolt-5-eGPU-dock-boosts-Cyberpunk-2077-at-4K-Ultra-settings-to-90-FPS-without-DLSS.1128371.0.html) (Published: 2025-09-30)
 - [You Might Want to Ditch Your AI Investments Now That Jim Cramer Says No Bubble Is Coming](https://futurism.com/artificial-intelligence/jim-cramer-ai-bubble) (Published: 2025-09-30)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-01 19:36:19**_
 - [AI models are already as good as experts at half of tasks, a new OpenAI benchmark suggests](https://fortune.com/2025/09/30/ai-models-are-already-as-good-as-experts-at-half-of-tasks-a-new-openai-benchmark-gdpval-suggests/) (Published: 2025-09-30)
 - [Nvidia invests $100 billion in OpenAI for massive AI infrastructure project](https://techpinions.com/nvidia-invests-100-billion-in-openai-for-massive-ai-infrastructure-project/) (Published: 2025-09-30)
 - [HEUR:Trojan-PSW.Script.Generic warning and other infection signs](https://www.bleepingcomputer.com/forums/t/810989/heurtrojan-pswscriptgeneric-warning-and-other-infection-signs/) (Published: 2025-09-30)
-- [Nvidia gets a price target hike from Citi on AI infrastructure growth, OpenAI deal - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=179604914) (Published: 2025-09-30)
