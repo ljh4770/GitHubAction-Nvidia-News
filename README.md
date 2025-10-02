@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-02 22:00:00**_
+_Last updated: **2025-10-02 22:24:05**_
 
 - [Periodic Labs raises $300M to accelerate scientific research with AI](https://siliconangle.com/2025/10/01/periodic-labs-raises-300m-accelerate-scientific-research-ai/) (Published: 2025-10-01)
 - [Amazon’s new Alexa feature impacts Nvidia](https://biztoc.com/x/9f7f13bc68fd34f4) (Published: 2025-10-01)
