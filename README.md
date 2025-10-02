@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-02 20:18:23**_
+_Last updated: **2025-10-02 20:35:02**_
 
+- [Obscure EU AI startup outs massive chip with 16,384 SIMD processors and 1TB of memory that's even faster than Nvidia's HBM - Euclyd's UBM has 8PB/s bandwidth, 32PF FP4 compute performance, and some iconic backers](https://www.techradar.com/pro/obscure-eu-ai-startup-outs-massive-chip-that-has-16-384-simd-processors-and-1tb-of-memory-thats-even-faster-than-nvidias-hbm-euclyds-ubm-has-8pb-s-bandwidth-32pf-fp4-compute-performance-and-some-iconic-backers) (Published: 2025-10-01)
+- [Private jobs sink in September, but Morgan Stanley wary of bets on jumbo rate cut](https://finance.yahoo.com/news/private-jobs-sink-september-morgan-202615347.html) (Published: 2025-10-01)
+- [Activists say Israeli navy has begun intercepting a Gaza-bound aid flotilla](https://biztoc.com/x/82edc202beca40a4) (Published: 2025-10-01)
+- [Hudson Bay Wins Dismissal of Bed Bath Trading Gains Lawsuit](https://biztoc.com/x/6f39a508012bbbf7) (Published: 2025-10-01)
+- [This Tiny Penny Stock Is Soaring on Crypto News. Should You Buy Shares Now?](https://biztoc.com/x/b4600d5ac56e5925) (Published: 2025-10-01)
+- [Biotechnology firm Galapagos receives offers for cell-therapy business](https://biztoc.com/x/bbb07a4f8e112501) (Published: 2025-10-01)
+- [S&P 500 Gains and Losses Today: AES and Pharma Stocks Soar; Corteva Drops](https://www.investopedia.com/s-and-p-500-gains-and-losses-today-aes-and-pharma-stocks-soar-corteva-drops-11822426) (Published: 2025-10-01)
+- [nvidia-dali-nightly-cuda130 1.52.0.dev20251001](https://pypi.org/project/nvidia-dali-nightly-cuda130/1.52.0.dev20251001/) (Published: 2025-10-01)
+- [Is Xbox Game Pass Still the Best Deal in Gaming After the New Price Hike?](https://gizmodo.com/is-xbox-game-pass-still-the-best-deal-in-gaming-after-the-new-price-hike-2000666373) (Published: 2025-10-01)
 - [Jim Cramer Was Right About Meta Platforms (META)](https://finance.yahoo.com/news/jim-cramer-meta-platforms-meta-201628463.html) (Published: 2025-10-01)
-- [The Shutdown Will Make the Fed’s Decisions Harder](https://biztoc.com/x/0732f4fd05f0035c) (Published: 2025-10-01)
-- [U.S. Markets Closed Up Wednesday; AST SpaceMobile Climbed Highest](https://biztoc.com/x/9cbbdf861f11dbf5) (Published: 2025-10-01)
-- [Utah-based leasing giant challenges First Brands rescue loan](https://biztoc.com/x/0566c3a3796830fb) (Published: 2025-10-01)
-- [Private jobs sink in September, but Morgan Stanley wary of bets on jumbo rate cut](https://biztoc.com/x/3b1bd51d4777b835) (Published: 2025-10-01)
-- [Dow, S&P 500 carve out new record closing highs despite government shutdown](https://biztoc.com/x/90cd051471fee6b3) (Published: 2025-10-01)
-- [White House Says New Pick to Lead BLS Coming Very Soon](https://biztoc.com/x/d79789e7731fdf80) (Published: 2025-10-01)
-- [This Top S&P 500 AI Stock Is Even Beating Palantir in 2025. Should You Buy It Here?](https://biztoc.com/x/0943f3fd4da5039e) (Published: 2025-10-01)
-- [AI Poised to Gut Your Retirement Fund, Analysts Warn](https://futurism.com/future-society/ai-bubble-retirement-401k) (Published: 2025-10-01)
-- [Relief for Fed From Supreme Court’s Cook Order May Be Fleeting](https://biztoc.com/x/37f2a351ff4d7979) (Published: 2025-10-01)
