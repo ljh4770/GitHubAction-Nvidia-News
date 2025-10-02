@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-02 09:37:04**_
+_Last updated: **2025-10-02 09:47:06**_
 
 - [AI PC Research Report 2025-2035: Market to Reach $992 Billion by 2035 at a CAGR of 32.16%, Driven by NVIDIA, Apple, AMD, Lenovo, Microsoft, Dell, HP, Fujitsu, ASUSTeK, Intel, and Huawei](https://www.globenewswire.com/news-release/2025/10/01/3159281/28124/en/AI-PC-Research-Report-2025-2035-Market-to-Reach-992-Billion-by-2035-at-a-CAGR-of-32-16-Driven-by-NVIDIA-Apple-AMD-Lenovo-Microsoft-Dell-HP-Fujitsu-ASUSTeK-Intel-and-Huawei.html) (Published: 2025-10-01)
 - [These Stocks Are Moving the Most Today: Nvidia, Nike, Occidental, AppLovin, AES, Lithium Americas, and More](https://biztoc.com/x/ba54d0b7a30acb3f) (Published: 2025-10-01)
