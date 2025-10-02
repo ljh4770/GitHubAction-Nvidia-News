@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-02 14:49:18**_
+_Last updated: **2025-10-02 14:59:36**_
 
 - [This Nvidia-Backed AI Stock Rallied Hard After Inking a $14B Cloud Deal With Meta Platforms](https://www.ibtimes.com/this-nvidia-backed-ai-stock-rallied-hard-after-inking-14b-cloud-deal-meta-platforms-3785059) (Published: 2025-10-01)
 - [Apparently the most popular clip on OpenAI's new AI video app Sora depicts Sam Altman stealing graphics cards](https://www.pcgamer.com/software/ai/apparently-the-most-popular-clip-on-openais-new-ai-video-app-sora-depicts-sam-altman-stealing-graphics-cards/) (Published: 2025-10-01)
