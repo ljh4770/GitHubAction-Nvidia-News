@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-02 03:42:08**_
+_Last updated: **2025-10-02 03:52:29**_
 
 - [Nvidia's 'Jensen Math' Of $50 Billion Revenue Per GW Gets A Reality Check: Here's What Barclays Analysts Project For NVDA](https://finance.yahoo.com/news/nvidias-jensen-math-50-billion-033104538.html) (Published: 2025-10-01)
 - [OpenAI's first-half revenue rises 16% to about $4.3 billion: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-first-half-revenue-rises-16-to-about-4-3-billion-report/articleshow/124246782.cms) (Published: 2025-10-01)
