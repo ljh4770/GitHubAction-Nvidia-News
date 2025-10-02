@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-02 19:21:49**_
+_Last updated: **2025-10-02 19:33:32**_
 
 - [AMD in early talks to make chips at Intel Foundry, report says](https://www.tomshardware.com/pc-components/cpus/amd-in-early-talks-to-make-chips-at-intel-foundry-report-says) (Published: 2025-10-01)
 - [Intel Arc B580 Receives Huge Performance Gains In Some Titles As New Drivers Migitate CPU Overhead To A Good Extent](https://wccftech.com/intel-arc-b580-receives-huge-performance-gains-in-some-titles-as-new-drivers-migitate-cpu-overhead-to-a-good-extent/) (Published: 2025-10-01)
