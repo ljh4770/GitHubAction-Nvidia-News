@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-02 07:36:17**_
+_Last updated: **2025-10-02 07:46:48**_
 
+- [nvidia-dali-nightly-cuda130 1.52.0.dev20250930](https://pypi.org/project/nvidia-dali-nightly-cuda130/1.52.0.dev20250930/) (Published: 2025-10-01)
 - [(PR) SK hynix Showcases Innovative AiM Solution for Accelerating AI at AI Infra Summit 2025](https://www.techpowerup.com/341520/sk-hynix-showcases-innovative-aim-solution-for-accelerating-ai-at-ai-infra-summit-2025) (Published: 2025-10-01)
 - [Farmers & Merchants Investments Inc. Raises Position in NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/10/01/farmers-merchants-investments-inc-raises-position-in-nvidia-corporation-nvda/) (Published: 2025-10-01)
 - [CNBC Daily Open: The U.S. government shuts down after stocks end September buzzing](https://www.cnbc.com/2025/10/01/cnbc-daily-open-the-us-government-shuts-down-after-stocks-end-september-buzzing.html) (Published: 2025-10-01)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-02 07:36:17**_
 - [Jefferies Financial Group Reiterates “Buy” Rating for NVIDIA (NASDAQ:NVDA)](https://www.etfdailynews.com/2025/10/01/jefferies-financial-group-reiterates-buy-rating-for-nvidia-nasdaqnvda/) (Published: 2025-10-01)
 - [Top Technology Stocks To Follow Today – September 29th](https://www.etfdailynews.com/2025/10/01/top-technology-stocks-to-follow-today-september-29th/) (Published: 2025-10-01)
 - [Arm's CEO said he learned a key leadership lesson working under Jensen Huang](https://www.businessinsider.com/arm-ceo-rene-haas-leadership-lesson-nvidia-jensen-huang-2025-10) (Published: 2025-10-01)
-- [How OpenAI and Stripe’s latest move could blow up online shopping as we know it - Fortune](https://slashdot.org/firehose.pl?op=view&amp;id=179609768) (Published: 2025-10-01)
