@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-02 06:50:13**_
+_Last updated: **2025-10-02 07:01:10**_
 
 - [CNBC Daily Open: The U.S. government shuts down after stocks end September buzzing](https://www.cnbc.com/2025/10/01/cnbc-daily-open-the-us-government-shuts-down-after-stocks-end-september-buzzing.html) (Published: 2025-10-01)
 - [NVIDIA (NASDAQ:NVDA) Stock Price Down 89.8% Following Insider Selling](https://www.etfdailynews.com/2025/10/01/nvidia-nasdaqnvda-stock-price-down-89-8-following-insider-selling/) (Published: 2025-10-01)
