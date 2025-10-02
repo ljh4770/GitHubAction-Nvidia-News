@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-02 23:32:30**_
+_Last updated: **2025-10-02 23:43:01**_
 
+- [Thinking Machines launches Tinker language model fine-tuning service](https://siliconangle.com/2025/10/01/thinking-machines-launches-tinker-language-model-fine-tuning-service/) (Published: 2025-10-01)
 - [Marjorie Taylor Greene Loads Up On Six-Figure Treasury Bill— Diversifies Portfolio With Bitcoin ETF, Tech Stocks](https://finance.yahoo.com/news/marjorie-taylor-greene-loads-six-233046635.html) (Published: 2025-10-01)
 - [Cramer says that Q3 winners may keep inching higher but the biggest gains may 'have already been made'](https://www.cnbc.com/2025/10/01/cramer-says-that-q3-winners-may-keep-inching-higher-but-the-biggest-gains-may-have-already-been-made.html) (Published: 2025-10-01)
 - [Stock market today: S&P 500, Nasdaq futures rise as AI optimism grows, while Dow stalls amid US shutdown](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-as-ai-optimism-blots-out-us-shutdown-230340381.html) (Published: 2025-10-01)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-02 23:32:30**_
 - [Periodic Labs raises $300M to accelerate scientific research with AI](https://siliconangle.com/2025/10/01/periodic-labs-raises-300m-accelerate-scientific-research-ai/) (Published: 2025-10-01)
 - [Amazon’s new Alexa feature impacts Nvidia](https://biztoc.com/x/9f7f13bc68fd34f4) (Published: 2025-10-01)
 - [Trump Plans to Use Shutdown to Fire Federal Workers](https://biztoc.com/x/76b37aa571f1db82) (Published: 2025-10-01)
-- [Sources: Apple has shelved development of a cheaper, lighter Vision Pro variant planned for 2027 to prioritize smart glasses that can rival products from Meta](https://biztoc.com/x/5b319fb34fecb9b1) (Published: 2025-10-01)
