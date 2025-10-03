@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-03 11:32:43**_
+_Last updated: **2025-10-03 11:43:12**_
 
 - [Nvidia, AMD Stocks Rise. How OpenAI is Driving the AI Chip Rally](https://biztoc.com/x/204c6b015fd13a6a) (Published: 2025-10-02)
 - [People Are Making AI Videos of Sam Altman Stealing Content on Sora 2](https://petapixel.com/2025/10/02/people-are-making-ai-videos-of-sam-altman-stealing-content-on-sora-2/) (Published: 2025-10-02)
