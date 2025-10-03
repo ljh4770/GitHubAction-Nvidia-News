@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-03 07:36:29**_
+_Last updated: **2025-10-03 07:46:48**_
 
+- [Nscale bags $433m in SAFE round days after historic $1.1bn Series B](https://biztoc.com/x/4d90d468a43fec50) (Published: 2025-10-02)
 - [OpenAI Valuation Soars To $500 Billion, Topping Musk's SpaceX](https://www.ndtvprofit.com/business/openai-valuation-soars-to-500-billion-topping-musks-spacex) (Published: 2025-10-02)
 - [Intel bets its future on Nvidia's CUDA](https://www.digitimes.com/news/a20251002PD235/intel-partnership-x86-cuda-packaging.html) (Published: 2025-10-02)
 - [Intel Foundry could manufacture future AMD chips](https://www.notebookcheck.net/Intel-Foundry-could-manufacture-future-AMD-chips.1129816.0.html) (Published: 2025-10-02)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-03 07:36:29**_
 - [T-Rex 2X Long NVIDIA Daily Target ETF Sees Unusually Large Options Volume (BATS:NVDX)](https://www.etfdailynews.com/2025/10/02/t-rex-2x-long-nvidia-daily-target-etf-sees-unusually-large-options-volume-batsnvdx/) (Published: 2025-10-02)
 - [Wallets, not brokers: How tokenized stocks are putting wall street on a 24/7 clock](https://cryptoslate.com/wallets-not-brokers-how-tokenized-stocks-are-putting-wall-street-on-a-24-7-clock/) (Published: 2025-10-02)
 - [Where is Europe’s economic drone wall?](https://www.euractiv.com/opinion/where-is-europes-economic-drone-wall/) (Published: 2025-10-02)
-- [JVNDB-2024-028302:NVIDIA の triton inference server における境界外読み取りに関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2024-028302_AD_1.html) (Published: 2025-10-02)
