@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-03 04:55:42**_
+_Last updated: **2025-10-03 05:18:34**_
 
+- [T-Rex 2X Long NVIDIA Daily Target ETF Sees Unusually Large Options Volume (BATS:NVDX)](https://www.etfdailynews.com/2025/10/02/t-rex-2x-long-nvidia-daily-target-etf-sees-unusually-large-options-volume-batsnvdx/) (Published: 2025-10-02)
+- [Wallets, not brokers: How tokenized stocks are putting wall street on a 24/7 clock](https://cryptoslate.com/wallets-not-brokers-how-tokenized-stocks-are-putting-wall-street-on-a-24-7-clock/) (Published: 2025-10-02)
 - [Where is Europe’s economic drone wall?](https://www.euractiv.com/opinion/where-is-europes-economic-drone-wall/) (Published: 2025-10-02)
 - [JVNDB-2024-028302:NVIDIA の triton inference server における境界外読み取りに関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2024-028302_AD_1.html) (Published: 2025-10-02)
 - [The Dollar Is Declining So Fast That It Will Bring Even More Inflation, Says Market Analyst: 'Position Yourself Accordingly'](https://finance.yahoo.com/news/dollar-declining-fast-bring-even-023127482.html) (Published: 2025-10-02)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-03 04:55:42**_
 - [This chip uses light to supercharge AI and cut energy use](https://newatlas.com/materials/light-based-chip-ai-power-efficiency/) (Published: 2025-10-02)
 - [This Nvidia move has sparked criticism, but it could help the stock, one analyst says](https://biztoc.com/x/ea08f4d197867458) (Published: 2025-10-02)
 - [Government Shutdown A 'Pointless Spectacle,' Says Wolfers As El-Erian Warns of 'DOGE 2.0': What Economists Are Saying](https://finance.yahoo.com/news/government-shutdown-pointless-spectacle-says-003109738.html) (Published: 2025-10-02)
-- [Donald Trump's Pfizer deal could change how governments tackle medicine prices](https://www.livemint.com/opinion/columns/donald-trumps-pfizer-deal-could-change-how-governments-tackle-medicine-prices-11759325580936.html) (Published: 2025-10-02)
-- [Merge tag 'devicetree-for-6.18' of git://git.kernel.org/pub/scm/linux/kernel/git/robh/linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9792d660a4e91d31a6b1af105ae3f1c29107e94b) (Published: 2025-10-01)
