@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-03 07:46:48**_
+_Last updated: **2025-10-03 07:57:15**_
 
 - [Nscale bags $433m in SAFE round days after historic $1.1bn Series B](https://biztoc.com/x/4d90d468a43fec50) (Published: 2025-10-02)
 - [OpenAI Valuation Soars To $500 Billion, Topping Musk's SpaceX](https://www.ndtvprofit.com/business/openai-valuation-soars-to-500-billion-topping-musks-spacex) (Published: 2025-10-02)
