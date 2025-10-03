@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-03 04:45:07**_
+_Last updated: **2025-10-03 04:55:42**_
 
 - [Where is Europe’s economic drone wall?](https://www.euractiv.com/opinion/where-is-europes-economic-drone-wall/) (Published: 2025-10-02)
 - [JVNDB-2024-028302:NVIDIA の triton inference server における境界外読み取りに関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2024-028302_AD_1.html) (Published: 2025-10-02)
