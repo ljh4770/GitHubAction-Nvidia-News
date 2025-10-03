@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-03 22:47:30**_
+_Last updated: **2025-10-03 22:57:49**_
 
 - [Nvidia CEO sells $42.1M in common stock as part of option exercise](https://thefly.com/permalinks/entry.php/id4207135/NVDA-Nvidia-CEO-sells-M-in-common-stock-as-part-of-option-exercise) (Published: 2025-10-02)
 - [Stock market today: Live updates](https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html) (Published: 2025-10-02)
