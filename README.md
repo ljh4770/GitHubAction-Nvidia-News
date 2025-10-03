@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-03 05:18:34**_
+_Last updated: **2025-10-03 05:35:16**_
 
+- [Intel Is Pursuing AMD To Secure It As a Foundry Customer, Implying that Team Blue Is ‘Heavily Confident’ With Upcoming 18A & 14A Nodes](https://wccftech.com/intel-is-pursuing-amd-to-secure-it-as-a-foundry-customer/) (Published: 2025-10-02)
 - [T-Rex 2X Long NVIDIA Daily Target ETF Sees Unusually Large Options Volume (BATS:NVDX)](https://www.etfdailynews.com/2025/10/02/t-rex-2x-long-nvidia-daily-target-etf-sees-unusually-large-options-volume-batsnvdx/) (Published: 2025-10-02)
 - [Wallets, not brokers: How tokenized stocks are putting wall street on a 24/7 clock](https://cryptoslate.com/wallets-not-brokers-how-tokenized-stocks-are-putting-wall-street-on-a-24-7-clock/) (Published: 2025-10-02)
 - [Where is Europe’s economic drone wall?](https://www.euractiv.com/opinion/where-is-europes-economic-drone-wall/) (Published: 2025-10-02)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-03 05:18:34**_
 - [nemo-evaluator 0.1.8](https://pypi.org/project/nemo-evaluator/0.1.8/) (Published: 2025-10-02)
 - [This chip uses light to supercharge AI and cut energy use](https://newatlas.com/materials/light-based-chip-ai-power-efficiency/) (Published: 2025-10-02)
 - [This Nvidia move has sparked criticism, but it could help the stock, one analyst says](https://biztoc.com/x/ea08f4d197867458) (Published: 2025-10-02)
-- [Government Shutdown A 'Pointless Spectacle,' Says Wolfers As El-Erian Warns of 'DOGE 2.0': What Economists Are Saying](https://finance.yahoo.com/news/government-shutdown-pointless-spectacle-says-003109738.html) (Published: 2025-10-02)
