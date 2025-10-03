@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-03 05:45:41**_
+_Last updated: **2025-10-03 05:55:46**_
 
 - [Intel Is Pursuing AMD To Secure It As a Foundry Customer, Implying that Team Blue Is ‘Heavily Confident’ With Upcoming 18A & 14A Nodes](https://wccftech.com/intel-is-pursuing-amd-to-secure-it-as-a-foundry-customer/) (Published: 2025-10-02)
 - [T-Rex 2X Long NVIDIA Daily Target ETF Sees Unusually Large Options Volume (BATS:NVDX)](https://www.etfdailynews.com/2025/10/02/t-rex-2x-long-nvidia-daily-target-etf-sees-unusually-large-options-volume-batsnvdx/) (Published: 2025-10-02)
