@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-03 13:45:07**_
+_Last updated: **2025-10-03 13:55:40**_
 
 - [Intel in negotiations to make AMD’s chips, according to insiders](https://www.pcworld.com/article/2928109/intel-in-negotiations-to-make-amds-chips-according-to-insiders.html) (Published: 2025-10-02)
 - [TSMC Stock Rises as Taiwan Rejects Trump's 50-50 Chip Plan](https://finance.yahoo.com/news/tsmc-stock-rises-taiwan-rejects-134018538.html) (Published: 2025-10-02)
