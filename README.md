@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-03 03:41:11**_
+_Last updated: **2025-10-03 03:52:01**_
 
 - [JVNDB-2024-028302:NVIDIA の triton inference server における境界外読み取りに関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2024-028302_AD_1.html) (Published: 2025-10-02)
 - [The Dollar Is Declining So Fast That It Will Bring Even More Inflation, Says Market Analyst: 'Position Yourself Accordingly'](https://finance.yahoo.com/news/dollar-declining-fast-bring-even-023127482.html) (Published: 2025-10-02)
