@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-04 04:47:33**_
+_Last updated: **2025-10-04 04:57:44**_
 
 - [Nvidia's Taiwan HQ faces hurdles as Acer and Asus founders see US-Taiwan science park potential](https://www.digitimes.com/news/a20251003PD213/taiwan-nvidia-acer-science-park-government.html) (Published: 2025-10-03)
 - [GIP Nears $40 Billion Deal to Buy Aligned Data Centers in Bet on AI](https://finance.yahoo.com/news/gip-nears-40-billion-deal-041951129.html) (Published: 2025-10-03)
