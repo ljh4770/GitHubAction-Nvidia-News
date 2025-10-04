@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-04 09:50:35**_
+_Last updated: **2025-10-04 10:07:45**_
 
-- [JVNDB-2025-015031:NVIDIA の triton inference server におけるアクセス制御に関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-015031_AD_1.html) (Published: 2025-10-03)
-- [JVNDB-2025-015030:NVIDIA の triton inference server における脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-015030_AD_1.html) (Published: 2025-10-03)
-- [JVNDB-2024-028396:NVIDIA の triton inference server における不適切なログ出力の無効化に関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2024-028396_AD_1.html) (Published: 2025-10-03)
-- [Weather forecasting is getting harder. DeepMind’s AI just passed a real test](https://fortune.com/2025/10/03/weather-forecasting-ai-google-deepmind-hurricanes-nvidia-huawei/) (Published: 2025-10-03)
-- [Sell Alibaba Stock After 2x Surge This Year?](https://www.forbes.com/sites/greatspeculations/2025/10/03/sell-alibaba-stock-after-2x-surge-this-year/) (Published: 2025-10-03)
-- [Nvidia and Fujitsu agree to work together on AI robots and other technology](https://abcnews.go.com/Technology/wireStory/nvidia-fujitsu-agree-work-ai-robots-technology-126173402) (Published: 2025-10-03)
-- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Record Highs; Government Shutdown; Bitcoin Price Rises; Tesla, Nvidia, SoFi, Applied Materials and More Movers](https://biztoc.com/x/5465823df0c60d0c) (Published: 2025-10-03)
-- [Mira Murati’s Thinking Machines Lab Unveils New AI Tinker Product Which Is Useful But Not A Big-Time Blockbuster](https://www.forbes.com/sites/lanceeliot/2025/10/03/mira-muratis-thinking-machines-lab-unveils-new-ai-tinker-product-which-is-useful-but-not-a-big-time-blockbuster/) (Published: 2025-10-03)
-- [nvfuser-cu128 0.2.34.dev20251003](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20251003/) (Published: 2025-10-03)
+- [Next-Generation Chips Strategic Intelligence Report 2025: Lucrative Opportunities in Sectors Like AI, Premium Electronics, Automotive, Defense, Telecoms, and Healthcare](https://www.globenewswire.com/news-release/2025/10/03/3160854/28124/en/Next-Generation-Chips-Strategic-Intelligence-Report-2025-Lucrative-Opportunities-in-Sectors-Like-AI-Premium-Electronics-Automotive-Defense-Telecoms-and-Healthcare.html) (Published: 2025-10-03)
+- [Meet Mira Murati, the 36-year-old tech prodigy who shot to fame at OpenAI and now runs a startup that’s a poaching target for Mark Zuckerberg](https://finance.yahoo.com/news/meet-mira-murati-36-old-100500868.html) (Published: 2025-10-03)
+- [Meet Mira Murati, the 36-year-old tech prodigy who shot to fame at OpenAI and now runs a startup that’s a poaching target for Mark Zuckerberg](https://fortune.com/2025/10/03/mira-murati-career-ai-thinking-machines-goldman-sachs-tesla-leap-openai/) (Published: 2025-10-03)
+- [Harvard Business School Is Most Coveted Among MBAs Globally](https://biztoc.com/x/b4384c8bbe6b7833) (Published: 2025-10-03)
+- [Why America’s Fridges Are Overflowing With Sauce](https://biztoc.com/x/87596bed35764e38) (Published: 2025-10-03)
+- [Colombia’s Petro Keeps Showing How Not to Handle the US](https://biztoc.com/x/47baa8c91f3ddd3d) (Published: 2025-10-03)
+- [When Famine Raises Your Risk of Diabetes](https://biztoc.com/x/34a5ad9a35832f4b) (Published: 2025-10-03)
+- [ECB’s Lagarde Calls for Non-Banks to Face Tougher Scrutiny](https://biztoc.com/x/44b06b3363d13ebe) (Published: 2025-10-03)
+- [This Czech Election Carries Unwelcome Fallout for Ukraine](https://biztoc.com/x/dbe073fa570bba73) (Published: 2025-10-03)
+- [What the Cowboy Boot Boom Says About America](https://biztoc.com/x/ba4613f55ccb4e47) (Published: 2025-10-03)
