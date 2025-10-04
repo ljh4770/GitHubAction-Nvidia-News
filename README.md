@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-04 15:39:02**_
+_Last updated: **2025-10-04 15:49:34**_
 
+- [U.S. stocks surge to record highs: Dow, S&P 500, Nasdaq hit all-time highs on AI momentum](https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-today-surges-to-record-highs-dow-sp-500-nasdaq-hit-all-time-highs-on-ai-momentum-heres-top-stocks-to-watch/articleshow/124294075.cms) (Published: 2025-10-03)
 - [Smarter Anomaly Detection in Semiconductor Manufacturing with NVIDIA NV-Tesseract and NVIDIA NIM](https://developer.nvidia.com/blog/smarter-anomaly-detection-in-semiconductor-manufacturing-with-nvidia-nv-tesseract-and-nvidia-nim/) (Published: 2025-10-03)
 - [Palantir stock pops 147% in 2025; Why PLTR is skyrocketing and could be the next Nvidia as government contracts and AI growth drive its rally](https://economictimes.indiatimes.com/news/international/us/palantir-stock-pops-147-in-2025-why-pltr-is-skyrocketing-and-could-be-the-next-nvidia-as-government-contracts-and-ai-growth-drive-its-rally/articleshow/124293847.cms) (Published: 2025-10-03)
 - [AMD Stands ‘Unfazed’ By the Intel-NVIDIA Partnership, with Executive Claiming that the Firm Will Continue to Provide ‘Disruptive’ Technology](https://wccftech.com/amd-stands-unfazed-by-the-intel-nvidia-partnership/) (Published: 2025-10-03)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-04 15:39:02**_
 - [Microsoft hikes Xbox Game Pass prices again, but promises gamers more value](https://economictimes.indiatimes.com/news/international/us/microsoft-hikes-xbox-game-pass-prices-again-but-promises-gamers-more-value/articleshow/124293258.cms) (Published: 2025-10-03)
 - [Canadian General Investments: Investment Update - Unaudited](https://www.globenewswire.com/news-release/2025/10/03/3161039/0/en/Canadian-General-Investments-Investment-Update-Unaudited.html) (Published: 2025-10-03)
 - [AMD and Intel are in 'early-stage talks' about signing a foundry commitment, a win that the struggling chip giant and US government would both love](https://www.pcgamer.com/hardware/amd-and-intel-are-in-early-stage-talks-about-signing-a-foundry-commitment-a-win-that-the-struggling-chip-giant-and-us-government-would-both-love/) (Published: 2025-10-03)
-- [(PR) Fujitsu Expands Strategic Collaboration with NVIDIA to Deliver Full-Stack AI Infrastructure](https://www.techpowerup.com/341591/fujitsu-expands-strategic-collaboration-with-nvidia-to-deliver-full-stack-ai-infrastructure) (Published: 2025-10-03)
