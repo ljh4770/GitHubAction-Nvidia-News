@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-04 05:21:30**_
+_Last updated: **2025-10-04 05:35:48**_
 
 - [Microsoft Strikes $17B Deal With Nebius to Power AI Ambitions](https://finance.yahoo.com/news/microsoft-strikes-17b-deal-nebius-051909894.html) (Published: 2025-10-03)
 - [$200 Billion Chip Frenzy: AI Mania Sends Stocks Into Overdrive](https://finance.yahoo.com/news/200-billion-chip-frenzy-ai-051826508.html) (Published: 2025-10-03)
