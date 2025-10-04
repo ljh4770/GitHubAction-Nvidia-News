@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-04 08:29:10**_
+_Last updated: **2025-10-04 08:44:06**_
 
 - [nvfuser-cu128 0.2.34.dev20251003](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20251003/) (Published: 2025-10-03)
 - [nvfuser-cu129 0.2.34.dev20251003](https://pypi.org/project/nvfuser-cu129/0.2.34.dev20251003/) (Published: 2025-10-03)
@@ -10,4 +10,3 @@ _Last updated: **2025-10-04 08:29:10**_
 - [Nvidia and Fujitsu agree to work together on AI robots and other technology](https://financialpost.com/pmn/nvidia-and-fujitsu-agree-to-work-together-on-ai-robots-and-other-technology) (Published: 2025-10-03)
 - [nvidia-safety-harness 25.9](https://pypi.org/project/nvidia-safety-harness/25.9/) (Published: 2025-10-03)
 - [Optimize Production with PyTorch/TF, ONNX, TensorRT & LiteRT](https://www.digitalocean.com/community/tutorials/ai-model-deployment-optimization) (Published: 2025-10-03)
-- [Nvidia and Fujitsu agree to work together on AI robots and other technology](https://finance.yahoo.com/news/nvidia-fujitsu-agree-together-ai-073114124.html) (Published: 2025-10-03)
