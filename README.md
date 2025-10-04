@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-04 15:27:43**_
+_Last updated: **2025-10-04 15:39:02**_
 
+- [Smarter Anomaly Detection in Semiconductor Manufacturing with NVIDIA NV-Tesseract and NVIDIA NIM](https://developer.nvidia.com/blog/smarter-anomaly-detection-in-semiconductor-manufacturing-with-nvidia-nv-tesseract-and-nvidia-nim/) (Published: 2025-10-03)
 - [Palantir stock pops 147% in 2025; Why PLTR is skyrocketing and could be the next Nvidia as government contracts and AI growth drive its rally](https://economictimes.indiatimes.com/news/international/us/palantir-stock-pops-147-in-2025-why-pltr-is-skyrocketing-and-could-be-the-next-nvidia-as-government-contracts-and-ai-growth-drive-its-rally/articleshow/124293847.cms) (Published: 2025-10-03)
 - [AMD Stands ‘Unfazed’ By the Intel-NVIDIA Partnership, with Executive Claiming that the Firm Will Continue to Provide ‘Disruptive’ Technology](https://wccftech.com/amd-stands-unfazed-by-the-intel-nvidia-partnership/) (Published: 2025-10-03)
 - [Two NVIDIA DLSS Types Are Available on Nintendo Switch 2, Including a “Light” Version Used to Upscale Beyond 1080p Resolution](https://wccftech.com/two-nvidia-dlss-types-nintendo-switch-2/) (Published: 2025-10-03)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-04 15:27:43**_
 - [Canadian General Investments: Investment Update - Unaudited](https://www.globenewswire.com/news-release/2025/10/03/3161039/0/en/Canadian-General-Investments-Investment-Update-Unaudited.html) (Published: 2025-10-03)
 - [AMD and Intel are in 'early-stage talks' about signing a foundry commitment, a win that the struggling chip giant and US government would both love](https://www.pcgamer.com/hardware/amd-and-intel-are-in-early-stage-talks-about-signing-a-foundry-commitment-a-win-that-the-struggling-chip-giant-and-us-government-would-both-love/) (Published: 2025-10-03)
 - [(PR) Fujitsu Expands Strategic Collaboration with NVIDIA to Deliver Full-Stack AI Infrastructure](https://www.techpowerup.com/341591/fujitsu-expands-strategic-collaboration-with-nvidia-to-deliver-full-stack-ai-infrastructure) (Published: 2025-10-03)
-- [BC-Most Active Stocks](https://finance.yahoo.com/news/bc-most-active-stocks-143018325.html) (Published: 2025-10-03)
