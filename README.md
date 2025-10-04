@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-04 09:29:10**_
+_Last updated: **2025-10-04 09:39:52**_
 
 - [JVNDB-2025-015031:NVIDIA の triton inference server におけるアクセス制御に関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-015031_AD_1.html) (Published: 2025-10-03)
 - [JVNDB-2025-015030:NVIDIA の triton inference server における脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-015030_AD_1.html) (Published: 2025-10-03)
