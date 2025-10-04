@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-04 07:39:15**_
+_Last updated: **2025-10-04 07:49:24**_
 
 - [Nvidia and Fujitsu agree to work together on AI robots and other technology](https://financialpost.com/pmn/nvidia-and-fujitsu-agree-to-work-together-on-ai-robots-and-other-technology) (Published: 2025-10-03)
 - [nvidia-safety-harness 25.9](https://pypi.org/project/nvidia-safety-harness/25.9/) (Published: 2025-10-03)
