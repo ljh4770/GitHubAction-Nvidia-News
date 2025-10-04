@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-04 13:00:21**_
+_Last updated: **2025-10-04 13:25:40**_
 
+- [Nvidia CEO Jensen Huang frustrated by UAE AI chip delay, claims report — White House said to be pressing nation to finalize U.S. investments before chip deliveries are authorized](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-frustrated-by-uae-ai-chip-delay-claims-report-white-house-said-to-be-pressing-nation-to-finalize-u-s-investments-before-chip-deliveries-are-authorized) (Published: 2025-10-03)
+- [FO° Exclusive: A Round-up of What Mattered Most in September 2025](https://www.fairobserver.com/world-news/fo-exclusive-a-round-up-of-what-mattered-most-in-september-2025/) (Published: 2025-10-03)
+- [Legendary investor James Anderson warns Nvidia-OpenAI deal sparks Dot-Com style bubble fears](https://economictimes.indiatimes.com/news/international/us/legendary-investor-james-anderson-warns-nvidia-openai-deal-sparks-dot-com-style-bubble-fears/articleshow/124291359.cms) (Published: 2025-10-03)
+- [Sam Altman on AI bubble: ‘People make some dumb capital allocations’ from time to time](https://fortune.com/2025/10/03/sam-altman-on-ai-bubble-people-make-some-dumb-capital-allocations-from-time-to-time/) (Published: 2025-10-03)
+- [NVIDIA’s ‘Ambitious’ Plans to Build a Taiwan HQ Reportedly Stalled by Political Disputes & Ownership Concerns](https://wccftech.com/nvidia-ambitious-plans-to-develop-a-hq-in-taiwan-has-come-to-a-stall/) (Published: 2025-10-03)
+- [Nvidia UAE Chip Deal Stalls, Testing Patience of CEO Huang](https://finance.yahoo.com/news/nvidia-uae-chip-deal-stalls-130717580.html) (Published: 2025-10-03)
+- [Samsung’s absurdly huge OLED ultrawide monitor just hit its best price](https://www.pcworld.com/article/2928928/samsungs-absurdly-huge-oled-ultrawide-monitor-just-hit-its-best-price.html) (Published: 2025-10-03)
 - [Path Tracing Took 6 Months to Implement in DOOM: The Dark Ages; id Software Dev Thinks the Tech Will Spread Further](https://wccftech.com/path-tracing-took-six-months-to-implement-doom-the-dark-ages/) (Published: 2025-10-03)
 - [MSFT: Microsoft Inks Multi-Billion Nebius Deal to Secure 100,000 Nvidia AI Chips](https://finance.yahoo.com/news/msft-microsoft-inks-multi-billion-125705192.html) (Published: 2025-10-03)
 - [Markets Rally On Rate Cut Hopes As AI And Credit Stocks Surge](https://www.forbes.com/sites/jjkinahan/2025/10/03/markets-rally-on-rate-cut-hopes-as-ai-and-credit-stocks-surge/) (Published: 2025-10-03)
-- [nvidia-dali-nightly-cuda130 1.52.0.dev20251003](https://pypi.org/project/nvidia-dali-nightly-cuda130/1.52.0.dev20251003/) (Published: 2025-10-03)
-- [We love this Alienware RTX 5070 laptop with this insane $400 discount](https://www.pcworld.com/article/2928961/we-love-this-alienware-rtx-5070-laptop-with-its-insane-400-discount.html) (Published: 2025-10-03)
-- [The World’s Largest 3D Object Library is Here : Created By Microsoft & NVIDIA](https://www.geeky-gadgets.com/worlds-largest-3d-object-library/) (Published: 2025-10-03)
-- [Nvidia CEO Huang: H-1B visa changes a 'great start' but $100K fee could hurt US tech](https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-huang-h-1b-visa-changes-a-great-start-but-100k-fee-could-hurt-us-tech/articleshow/124291832.cms) (Published: 2025-10-03)
-- [Canadian robotics supplier Vention says Trump's new tariffs miss the mark](https://financialpost.com/technology/canadian-robotics-supplier-vention-trump-tariffs-miss-mark) (Published: 2025-10-03)
-- [Robotics Supplier to Hershey, 3M Says Trump’s New Tariffs Miss the Mark](https://financialpost.com/pmn/business-pmn/robotics-supplier-to-hershey-3m-says-trumps-new-tariffs-miss-the-mark) (Published: 2025-10-03)
-- [KraneShares KSTR ETF Offers U.S. Investors Exposure to Cambricon, “China's answer to Nvidia,” Amid 2025 Rally](https://www.globenewswire.com/news-release/2025/10/03/3160944/0/en/KraneShares-KSTR-ETF-Offers-U-S-Investors-Exposure-to-Cambricon-China-s-answer-to-Nvidia-Amid-2025-Rally.html) (Published: 2025-10-03)
