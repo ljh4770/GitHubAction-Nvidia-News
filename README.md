@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 18:50:03**_
+_Last updated: **2025-10-05 19:00:15**_
 
 - [Skytech Eclipse Lite 2 Desktop: Ryzen 7 9800X3D, RTX 5080, 32GB RAM, 2TB SSD $2181 + Free Shipping](https://slickdeals.net/f/18661510-skytech-eclipse-lite-2-ryzen-7-9800x3d-rtx-5080-32gb-ddr5-2tb-ssd-2180-99) (Published: 2025-10-04)
 - [I reviewed the ZBook Ultra G1a 14 - and somehow HP forced a mobile workstation into an ultrabook chassis](https://www.techradar.com/pro/hp-zbook-ultra-g1a-14-mobile-workstation-review) (Published: 2025-10-04)
