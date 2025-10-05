@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 07:40:04**_
+_Last updated: **2025-10-05 07:50:16**_
 
 - [Sen. Sheldon Whitehouse Sells Apple Inc. (NASDAQ:AAPL) Stock](https://www.etfdailynews.com/2025/10/04/sen-sheldon-whitehouse-sells-apple-inc-nasdaqaapl-stock/) (Published: 2025-10-04)
 - [Big Tech's AI Debt Spiral, Nvidia's Stalled UAE Deal And Oracle's Extortion Woes: Weekend Tech Roundup](https://biztoc.com/x/bd8c147510f8825d) (Published: 2025-10-04)
