@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 00:41:18**_
+_Last updated: **2025-10-05 02:21:35**_
 
+- ['The system is rigged': Founders and VCs weigh in on the UK's ambition deficit](https://www.cnbc.com/2025/10/04/founders-and-vcs-weigh-in-on-the-uks-ambition-deficit.html) (Published: 2025-10-04)
+- [Tokyo University of Technology Unveils AI-Focused Supercomputer](https://newsonjapan.com/article/147142.php) (Published: 2025-10-04)
 - [Fujitsu and Nvidia Expand Partnership to Accelerate AI Implementation](https://newsonjapan.com/article/147141.php) (Published: 2025-10-04)
 - [Nvidia's stronghold on PC gaming and AMD's failure to save us](https://www.xda-developers.com/nvidia-is-making-pc-gaming-worse-amd-isnt-saving-us-either/) (Published: 2025-10-04)
 - [Could Nvidia become a $10 trillion company? These analysts see a path](https://biztoc.com/x/c321bd55aaf3d422) (Published: 2025-10-03)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-05 00:41:18**_
 - [If Gaming Is in Your DNA, This Samsung G9 49″ OLED Curved Monitor Is $700+ Off on Amazon](https://kotaku.com/if-gaming-is-in-your-dna-this-samsung-g9-49-oled-curved-monitor-is-700-off-on-amazon-2000631621) (Published: 2025-10-03)
 - [Medicine Waits for Evidence Before AI Scales Unlike Other Industries](http://www.pymnts.com/artificial-intelligence-2/2025/medicine-waits-for-evidence-before-ai-scales-unlike-other-industries/) (Published: 2025-10-03)
 - [Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z](https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/) (Published: 2025-10-03)
-- [Three insights you might have missed from theCUBE’s coverage of CrowdStrike Fal.Con](https://siliconangle.com/2025/10/03/crowdstrike-bets-autonomous-cybersecurity-fal-con-crowdstrikefalcon/) (Published: 2025-10-03)
-- [BlackRock’s $40 Billion Bet on a Lesser-Known Data Center Firm](https://www.livemint.com/companies/company-results/blackrocks-40-billion-bet-on-a-lesser-known-data-center-firm-11759526257917.html) (Published: 2025-10-03)
