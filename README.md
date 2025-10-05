@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 16:58:43**_
+_Last updated: **2025-10-05 17:19:42**_
 
+- [What's the biggest nerd con? The truth about India’s quiz obsession](https://economictimes.indiatimes.com/opinion/et-commentary/whats-the-biggest-nerd-con-the-truth-about-indias-quiz-obsession/articleshow/124310550.cms) (Published: 2025-10-04)
 - [Here’s How Stock Losses Can Boost Your Tax Refund](https://finance.yahoo.com/news/stock-losses-boost-tax-refund-165358640.html) (Published: 2025-10-04)
 - [This Promise Of 70% Dividends From These ETFs Is Totally Bogus](https://www.forbes.com/sites/michaelfoster/2025/10/04/this-promise-of-70-dividends-from-these-etfs-is-totally-bogus/) (Published: 2025-10-04)
 - [Prediction: 1 Artificial Intelligence (AI) Stock Will Be Worth More Than Alphabet and Amazon Combined by 2030 (Hint: Not Nvidia)](https://biztoc.com/x/91bd16377a195a73) (Published: 2025-10-04)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-05 16:58:43**_
 - [Buy, Sell or Hold: Nvidia Stock At $190](https://biztoc.com/x/0f732b1c29007d49) (Published: 2025-10-04)
 - [HP Launches ZGX Nano G1n AI Workstation, Powered By NVIDIA’s GB10 Superchip](https://wccftech.com/hp-launches-zgx-nano-g1n-ai-workstation-powered-by-nvidias-gb10-superchip/) (Published: 2025-10-04)
 - [Fujitsu expands strategic collaboration with NVIDIA to deliver full-stack AI infrastructure](https://www.prnewswire.co.uk/news-releases/fujitsu-expands-strategic-collaboration-with-nvidia-to-deliver-full-stack-ai-infrastructure-302575245.html) (Published: 2025-10-04)
-- [The War Over Defense Tech](http://www.nybooks.com/online/2025/10/04/the-war-over-defense-tech/) (Published: 2025-10-04)
