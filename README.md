@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 22:40:55**_
+_Last updated: **2025-10-05 22:51:16**_
 
 - [NSA and IETF: Can an attacker purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html) (Published: 2025-10-04)
 - [Microsoft's CTO Hopes to Swap Most AMD and NVIDIA GPUs for In-House Chips](https://hardware.slashdot.org/story/25/10/04/2142243/microsofts-cto-hopes-to-swap-most-amd-and-nvidia-gpus-for-in-house-chips) (Published: 2025-10-04)
