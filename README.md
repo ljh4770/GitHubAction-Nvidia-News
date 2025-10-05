@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 06:47:19**_
+_Last updated: **2025-10-05 06:57:29**_
 
 - [AMDがIntelのファウンドリへの生産委託に関して初期の話し合いへ](https://northwood.blog.fc2.com/blog-entry-12862.html) (Published: 2025-10-04)
 - [CoreWeave's Valuation Soars on Meta Partnership, But Is It Overheating?](https://biztoc.com/x/d30024f6f7889ebb) (Published: 2025-10-04)
