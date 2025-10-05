@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 20:38:03**_
+_Last updated: **2025-10-05 20:48:53**_
 
 - [Microsoft 365 Copilot is a commercial failure](https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure) (Published: 2025-10-04)
 - [Emperor Jensen? Nvidia's CEO is so powerful in AI that even Google and Amazon inform him of their own in-house AI chip efforts, as Huang doesn't apparently like surprises](https://www.techradar.com/pro/emperor-jensen-nvidias-ceo-is-so-powerful-in-ai-that-even-google-and-amazon-inform-him-of-their-own-in-house-ai-chip-efforts-as-huang-doesnt-apparently-like-surprises) (Published: 2025-10-04)
