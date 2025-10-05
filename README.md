@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 20:59:13**_
+_Last updated: **2025-10-05 21:20:34**_
 
+- [Citi Lifts PT on NVIDIA (NVDA) Stock](https://finance.yahoo.com/news/citi-lifts-pt-nvidia-nvda-211549259.html) (Published: 2025-10-04)
 - [Microsoft 365 Copilot is a commercial failure](https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure) (Published: 2025-10-04)
 - [Emperor Jensen? Nvidia's CEO is so powerful in AI that even Google and Amazon inform him of their own in-house AI chip efforts, as Huang doesn't apparently like surprises](https://www.techradar.com/pro/emperor-jensen-nvidias-ceo-is-so-powerful-in-ai-that-even-google-and-amazon-inform-him-of-their-own-in-house-ai-chip-efforts-as-huang-doesnt-apparently-like-surprises) (Published: 2025-10-04)
 - [Installation of Ubuntu with hardware-backed full disk encryption (TPM) fails with ClientError](https://askubuntu.com/questions/1556937/installation-of-ubuntu-with-hardware-backed-full-disk-encryption-tpm-fails-wit) (Published: 2025-10-04)
@@ -8,4 +9,3 @@ _Last updated: **2025-10-05 20:59:13**_
 - [I reviewed the ZBook Ultra G1a 14 - and somehow HP forced a mobile workstation into an ultrabook chassis](https://www.techradar.com/pro/hp-zbook-ultra-g1a-14-mobile-workstation-review) (Published: 2025-10-04)
 - [OCuLink outpaces Thunderbolt 5 in Nvidia RTX 5070 Ti tests — latter up to 14% slower on average in gaming benchmarks](https://www.tomshardware.com/pc-components/gpus/oculink-outpaces-thunderbolt-5-in-nvidia-rtx-5070-ti-tests-latter-up-to-14-percent-slower-on-average-in-gaming-benchmarks) (Published: 2025-10-04)
 - [What's the biggest nerd con? The truth about India’s quiz obsession](https://economictimes.indiatimes.com/opinion/et-commentary/whats-the-biggest-nerd-con-the-truth-about-indias-quiz-obsession/articleshow/124310550.cms) (Published: 2025-10-04)
-- [Here’s How Stock Losses Can Boost Your Tax Refund](https://finance.yahoo.com/news/stock-losses-boost-tax-refund-165358640.html) (Published: 2025-10-04)
