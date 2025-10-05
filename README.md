@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 13:17:16**_
+_Last updated: **2025-10-05 13:32:03**_
 
+- [DC’s shutdown hasn't stopped the stock market. Here’s what may](https://abcnews.go.com/Business/wireStory/dcs-shutdown-stopped-stock-market-heres-126214384) (Published: 2025-10-04)
 - [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/) (Published: 2025-10-04)
 - [DC’s shutdown hasn’t stopped the stock market. Here’s what may](https://financialpost.com/pmn/dcs-shutdown-hasnt-stopped-the-stock-market-heres-what-may) (Published: 2025-10-04)
 - [Why Fears of a Trillion-Dollar AI Bubble Are Growing](https://finance.yahoo.com/news/why-fears-trillion-dollar-ai-130008034.html) (Published: 2025-10-04)
@@ -9,4 +10,3 @@ _Last updated: **2025-10-05 13:17:16**_
 - [October Prime Day Laptop Deals: Save Up to $950 on Apple MacBooks, Lenovo, HP and Others](https://www.cnet.com/deals/best-prime-day-laptop-deals-2025-10-04/) (Published: 2025-10-04)
 - [Dow Jones Futures: Rally At Highs With Nvidia In Buy Zone, Palantir A Sell; Tesla FSD v14 Due](https://biztoc.com/x/7a37ccf2aea31561) (Published: 2025-10-04)
 - [Maxsun Intros Powerful AI Workstation PC, Featuring Up To Four Intel Arc Pro B60 48G Turbo GPUs, Bringing A Massive 192 GB VRAM Capacity](https://wccftech.com/maxsun-intros-powerful-ai-workstation-pc-featuring-up-to-four-intel-arc-pro-b60-48g-turbo-gpus/) (Published: 2025-10-04)
-- [Hell freezes over: AMD may team up with Intel to produce chips - but I don't expect Intel foundries to push out Ryzen CPUs anytime soon](https://www.techradar.com/pro/hell-freezes-over-amd-may-team-up-with-intel-to-produce-chips-but-i-dont-expect-intel-foundries-to-push-out-ryzen-cpus-anytime-soon) (Published: 2025-10-04)
