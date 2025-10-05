@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 16:48:39**_
+_Last updated: **2025-10-05 16:58:43**_
 
+- [Here’s How Stock Losses Can Boost Your Tax Refund](https://finance.yahoo.com/news/stock-losses-boost-tax-refund-165358640.html) (Published: 2025-10-04)
 - [This Promise Of 70% Dividends From These ETFs Is Totally Bogus](https://www.forbes.com/sites/michaelfoster/2025/10/04/this-promise-of-70-dividends-from-these-etfs-is-totally-bogus/) (Published: 2025-10-04)
 - [Prediction: 1 Artificial Intelligence (AI) Stock Will Be Worth More Than Alphabet and Amazon Combined by 2030 (Hint: Not Nvidia)](https://biztoc.com/x/91bd16377a195a73) (Published: 2025-10-04)
 - [Can't start "Settings" application - some conflict in logs](https://askubuntu.com/questions/1556932/cant-start-settings-application-some-conflict-in-logs) (Published: 2025-10-04)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-05 16:48:39**_
 - [HP Launches ZGX Nano G1n AI Workstation, Powered By NVIDIA’s GB10 Superchip](https://wccftech.com/hp-launches-zgx-nano-g1n-ai-workstation-powered-by-nvidias-gb10-superchip/) (Published: 2025-10-04)
 - [Fujitsu expands strategic collaboration with NVIDIA to deliver full-stack AI infrastructure](https://www.prnewswire.co.uk/news-releases/fujitsu-expands-strategic-collaboration-with-nvidia-to-deliver-full-stack-ai-infrastructure-302575245.html) (Published: 2025-10-04)
 - [The War Over Defense Tech](http://www.nybooks.com/online/2025/10/04/the-war-over-defense-tech/) (Published: 2025-10-04)
-- [Asus’ excellent ROG G700 gaming desktop changed my mind on prebuilt PCs](https://mobilesyrup.com/2025/10/04/asus-excellent-rog-g700-gaming-desktop-changed-my-mind-on-prebuilt-pcs/) (Published: 2025-10-04)
