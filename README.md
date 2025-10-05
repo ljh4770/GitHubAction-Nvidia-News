@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 19:18:22**_
+_Last updated: **2025-10-05 19:28:28**_
 
 - [Installation of Ubuntu with hardware-backed full disk encryption (TPM) fails with ClientError](https://askubuntu.com/questions/1556937/installation-of-ubuntu-with-hardware-backed-full-disk-encryption-tpm-fails-wit) (Published: 2025-10-04)
 - [Skytech Eclipse Lite 2 Desktop: Ryzen 7 9800X3D, RTX 5080, 32GB RAM, 2TB SSD $2181 + Free Shipping](https://slickdeals.net/f/18661510-skytech-eclipse-lite-2-ryzen-7-9800x3d-rtx-5080-32gb-ddr5-2tb-ssd-2180-99) (Published: 2025-10-04)
