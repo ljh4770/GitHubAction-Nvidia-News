@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 14:49:41**_
+_Last updated: **2025-10-05 14:59:54**_
 
 - [nvidia-dali-nightly-cuda120 1.52.0.dev20251003](https://pypi.org/project/nvidia-dali-nightly-cuda120/1.52.0.dev20251003/) (Published: 2025-10-04)
 - [DC’s shutdown hasn't stopped the stock market. Here’s what may](https://apnews.com/article/stock-market-rates-records-shutdown-earnings-ai-251fefd075ac658ce498c9d1953efc70) (Published: 2025-10-04)
