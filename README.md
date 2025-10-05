@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-05 15:34:14**_
+_Last updated: **2025-10-05 15:44:37**_
 
 - [Fujitsu expands strategic collaboration with NVIDIA to deliver full-stack AI infrastructure](https://www.prnewswire.co.uk/news-releases/fujitsu-expands-strategic-collaboration-with-nvidia-to-deliver-full-stack-ai-infrastructure-302575245.html) (Published: 2025-10-04)
 - [The War Over Defense Tech](http://www.nybooks.com/online/2025/10/04/the-war-over-defense-tech/) (Published: 2025-10-04)
