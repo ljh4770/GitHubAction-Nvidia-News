@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-06 04:10:33**_
+_Last updated: **2025-10-06 04:33:23**_
 
 - [Weekly Market Wrap: Intel, Nvidia and Electronic Arts made major news](https://www.thestreet.com/markets/weekly-market-wrap-intel-nvidia-and-electronic-arts-made-the-most-news) (Published: 2025-10-05)
 - [Little Werewolf : Blender+Houdini Simple Character Transformation Animation Tutorial - Blender＆Houdiniを使用したモフモフ可愛いカートゥーンキャラクター制作解説コース！Wingfoxにて取り扱い開始！](http://3dnchu.com/archives/little-werewolf-wingfox/) (Published: 2025-10-05)
