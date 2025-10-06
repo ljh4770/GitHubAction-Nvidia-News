@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-06 13:49:35**_
+_Last updated: **2025-10-06 13:59:47**_
 
 - [Linux 6.18 DRM Pull Includes New Tyr & Rocket Drivers, More AMD & Intel GPU Enhancements](https://www.phoronix.com/news/Linux-6.18-DRM) (Published: 2025-10-05)
 - [Wall Street, crypto industry say tokenization will reshape global markets: 'It’s going to eat the entire financial system'](https://finance.yahoo.com/news/wall-street-crypto-industry-say-tokenization-will-reshape-global-markets-its-going-to-eat-the-entire-financial-system-133005463.html) (Published: 2025-10-05)
