@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-06 11:15:37**_
+_Last updated: **2025-10-06 11:28:50**_
 
 - [Show HN: I made an OSS tool to remove Sora 2 Watermark in less than 72h released](https://github.com/Kuberwastaken/sweeta) (Published: 2025-10-05)
 - [Show HN: Nomad task driver for Cloud Hypervisor](https://github.com/volantvm/nomad-driver-ch) (Published: 2025-10-05)
