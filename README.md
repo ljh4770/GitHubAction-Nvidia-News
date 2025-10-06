@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-06 17:34:57**_
+_Last updated: **2025-10-06 17:45:11**_
 
 - [Samsung will collaborate with OpenAI to develop floating data centers and power plants as Sam Altman rushes to compete with his firm's own partners](https://www.techradar.com/pro/samsung-will-collaborate-with-openai-to-develop-floating-data-centers-and-power-plants-as-sam-altman-rushes-to-compete-with-his-firms-own-partners) (Published: 2025-10-05)
 - [NVIDIA Might Switch Up Cooling Solutions With Next-Gen Rubin Ultra as It Battles Thermal Constraints](https://wccftech.com/nvidia-might-switch-cooling-solutions-with-rubin-ultra/) (Published: 2025-10-05)
