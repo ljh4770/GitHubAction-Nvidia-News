@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-06 14:45:05**_
+_Last updated: **2025-10-06 14:55:22**_
 
 - [Nintendo Switch 2 supports two different types of Nvidia DLSS — A second, 'light' version for upscaling beyond 1080p, along with the standard, PC-like CNN model](https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-supports-two-different-types-of-nvidia-dlss-a-second-light-version-for-upscaling-beyond-1080p-along-with-the-standard-pc-like-cnn-model) (Published: 2025-10-05)
 - [‘Eventually, We Will Hit a Wall’](https://biztoc.com/x/e1a513ff92884f26) (Published: 2025-10-05)
