@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-06 10:45:00**_
+_Last updated: **2025-10-06 10:55:10**_
 
 - [Show HN: Nomad task driver for Cloud Hypervisor](https://github.com/volantvm/nomad-driver-ch) (Published: 2025-10-05)
 - [Meet Lisa Su: CEO and president of Advanced Micro Devices, the main competitor to Nvidia](https://biztoc.com/x/ccf28a26f3aecc1a) (Published: 2025-10-05)
