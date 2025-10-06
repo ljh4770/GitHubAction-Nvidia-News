@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-06 11:51:07**_
+_Last updated: **2025-10-06 12:19:29**_
 
+- [This Meta alum has spent 10 months leading OpenAI's nationwide hunt for its Stargate data centers](https://www.cnbc.com/2025/10/05/openai-stargate-data-center-buildout-infrastructure-lead-keith-heyde.html) (Published: 2025-10-05)
 - [Show HN: I made an OSS tool to remove Sora 2 Watermark in less than 72h released](https://github.com/Kuberwastaken/sweeta) (Published: 2025-10-05)
 - [Show HN: Nomad task driver for Cloud Hypervisor](https://github.com/volantvm/nomad-driver-ch) (Published: 2025-10-05)
 - [Meet Lisa Su: CEO and president of Advanced Micro Devices, the main competitor to Nvidia](https://biztoc.com/x/ccf28a26f3aecc1a) (Published: 2025-10-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-06 11:51:07**_
 - [nvidia-nat-all 1.3.0a20251005](https://pypi.org/project/nvidia-nat-all/1.3.0a20251005/) (Published: 2025-10-05)
 - [nvidia-nat-weave 1.3.0a20251005](https://pypi.org/project/nvidia-nat-weave/1.3.0a20251005/) (Published: 2025-10-05)
 - [nvidia-nat-zep-cloud 1.3.0a20251005](https://pypi.org/project/nvidia-nat-zep-cloud/1.3.0a20251005/) (Published: 2025-10-05)
-- [nvidia-nat-mcp 1.3.0a20251005](https://pypi.org/project/nvidia-nat-mcp/1.3.0a20251005/) (Published: 2025-10-05)
