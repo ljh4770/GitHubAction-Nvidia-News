@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-06 06:53:35**_
+_Last updated: **2025-10-06 07:15:29**_
 
 - [The Nintendo Switch 2 reportedly supports two different versions of Nvidia's DLSS offering](https://www.notebookcheck.net/The-Nintendo-Switch-2-reportedly-supports-two-different-versions-of-Nvidia-s-DLSS-offering.1131627.0.html) (Published: 2025-10-05)
 - [GenMol: A Drug Discovery Generalist with Discrete Diffusion](https://research.nvidia.com/publication/2025-07_genmol-drug-discovery-generalist-discrete-diffusion) (Published: 2025-10-05)
