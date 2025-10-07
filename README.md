@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 07:30:41**_
+_Last updated: **2025-10-07 07:41:24**_
 
 - [Cora Capital Advisors LLC Sells 105 Shares of NVIDIA Corporation $NVDA](https://www.etfdailynews.com/2025/10/06/cora-capital-advisors-llc-sells-105-shares-of-nvidia-corporation-nvda/) (Published: 2025-10-06)
 - [NVIDIA Corporation $NVDA Position Increased by BostonPremier Wealth LLC](https://www.etfdailynews.com/2025/10/06/nvidia-corporation-nvda-position-increased-by-bostonpremier-wealth-llc/) (Published: 2025-10-06)
