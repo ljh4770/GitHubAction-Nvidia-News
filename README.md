@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 22:24:52**_
+_Last updated: **2025-10-07 22:38:17**_
 
+- [Brad Gerstner on OpenAI's dealmaking with AMD, Nvidia: 'The best chips will win' - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=179685648) (Published: 2025-10-06)
+- [The AI boom's reliance on circular deals is raising fears of a bubble](https://www.nbcnews.com/business/economy/openai-nvidia-amd-deals-risks-rcna234806) (Published: 2025-10-06)
+- [OpenAI, AMD sign massive chips deal](https://biztoc.com/x/6916b4e29e016c37) (Published: 2025-10-06)
+- [Brad Gerstner on OpenAI's dealmaking with AMD, Nvidia: 'The best chips will win'](https://biztoc.com/x/9062125acf2095da) (Published: 2025-10-06)
+- [Gold set to become Australia’s second-biggest resource earner](https://biztoc.com/x/9b70e27290e7a7f0) (Published: 2025-10-06)
+- [Cboe Gets Nod to List Firms in Australia in Threat to ASX](https://biztoc.com/x/22a65a0f14c979bb) (Published: 2025-10-06)
+- [Vote on Democrat's Funding Bill Fails](https://biztoc.com/x/65dc827bd6f72ada) (Published: 2025-10-06)
+- [Trump Seems to Turn Page on Bolsonaro in ‘Very Good’ Lula Call](https://biztoc.com/x/80e18cccd1ea2564) (Published: 2025-10-06)
 - [OpenAI: Here's Why Spending Billions on GPUs Makes Sense](https://me.pcmag.com/en/ai/32666/openai-heres-why-spending-billions-on-gpus-makes-sense) (Published: 2025-10-06)
 - [OpenAI: Here's Why Spending Billions on GPUs Makes Sense](https://uk.pcmag.com/ai/160473/openai-heres-why-spending-billions-on-gpus-makes-sense) (Published: 2025-10-06)
-- [Cotton Slips Back on Monday](https://biztoc.com/x/749946c0590d6b43) (Published: 2025-10-06)
-- [Japan Faces High-Stakes Bond Sale as Takaichi Win Rattles Market](https://biztoc.com/x/5d3d40f8e8aec638) (Published: 2025-10-06)
-- [AppLovin has been one of the year’s hottest stocks. Here’s why it’s tumbling](https://biztoc.com/x/ac3b8dd0f24c9d52) (Published: 2025-10-06)
-- [Rush to fill 'English kindergartens' sparks controversy in South Korea](https://biztoc.com/x/b9aafbfe37e7d6f8) (Published: 2025-10-06)
-- [Hogs Close Mixed on Monday](https://biztoc.com/x/45d00511f62a40df) (Published: 2025-10-06)
-- [Rush to fill 'English kindergartens' sparks controversy in South Korea](https://biztoc.com/x/b9aafbfe37e7d6f8) (Published: 2025-10-06)
-- [New Zealand Firms’ Gloomy Outlook Raises Risk of Recession](https://biztoc.com/x/92a0a9b9feede348) (Published: 2025-10-06)
-- [This Miner Soared 140% After the Federal Government Invested](https://biztoc.com/x/081ebbd1ad8cdb55) (Published: 2025-10-06)
