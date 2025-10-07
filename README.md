@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 16:49:14**_
+_Last updated: **2025-10-07 16:59:30**_
 
 - [The AI bubble is 17 times the size of the dot-com frenzy and four times subprime](https://www.morningstar.com/news/marketwatch/20251003175/the-ai-bubble-is-17-times-the-size-of-the-dot-com-frenzy-and-four-times-subprime-this-analyst-argues) (Published: 2025-10-06)
 - [Intel stock skyrockets 88% in just six months, outpacing the semiconductor industry’s growth – is Intel a must-buy now, or just an illusion?](https://economictimes.indiatimes.com/news/international/us/intel-stock-skyrockets-88-in-just-six-months-outpacing-the-semiconductor-industrys-growth-is-intel-a-must-buy-now-or-just-an-illusion/articleshow/124344458.cms) (Published: 2025-10-06)
