@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 19:25:24**_
+_Last updated: **2025-10-07 19:37:27**_
 
+- [Bungie pushes the indefinitely delayed Marathon back on stage, announcing a closed test for this month and promising a "public update" on its development coming soon](https://www.gamesradar.com/games/fps/bungie-pushes-the-indefinitely-delayed-marathon-back-on-stage-announcing-a-closed-test-for-this-month-and-promising-a-public-update-on-its-development-coming-soon/) (Published: 2025-10-06)
 - [OpenAI to buy $10B+ worth of AMD hardware, stock through new partnership](https://siliconangle.com/2025/10/06/openai-buy-10b-worth-amd-hardware-stock-new-partnership/) (Published: 2025-10-06)
 - [Beelink mini PC with Ryzen 7, Radeon graphics, 32 GB RAM, and 1 TB storage down to all-time low in Amazon deal](https://www.notebookcheck.net/Beelink-mini-PC-with-Ryzen-7-Radeon-graphics-32-GB-RAM-and-1-TB-storage-down-to-all-time-low-in-Amazon-deal.1132813.0.html) (Published: 2025-10-06)
 - [OpenAI Is Now Moving Markets Like Apple and Nvidia despite Being a Private Firm](https://biztoc.com/x/7d7f809148a3055b) (Published: 2025-10-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-07 19:25:24**_
 - [XAI Using $18 Billion to Get 300,000 More Nvidia B200 Chips](https://www.nextbigfuture.com/2025/10/xai-using-18-billion-to-get-300000-more-nvidia-b200-chips.html) (Published: 2025-10-06)
 - [IBM Granite 4.0: Efficient, Open-Weight LLMs Target Enterprise-Grade Performance, Cost, and Governance](https://www.storagereview.com/news/ibm-granite-4-0-efficient-open-weight-llms-target-enterprise-grade-performance-cost-and-governance) (Published: 2025-10-06)
 - [Gigabyte's Aorus Thunderbolt 5 External GPU Box With RTX 5090 Is Now Available](https://hothardware.com/news/gigabyte-aorus-thunderbolt-5-egpu-with-geforce-rtx-5090-available-for-2999) (Published: 2025-10-06)
-- [Fujitsu and NVIDIA Expand Strategic Collaboration to Deliver Full-Stack, Agentic AI Infrastructure](https://www.storagereview.com/news/fujitsu-and-nvidia-expand-strategic-collaboration-to-deliver-full-stack-agentic-ai-infrastructure) (Published: 2025-10-06)
