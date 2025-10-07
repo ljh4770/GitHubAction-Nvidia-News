@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 05:21:12**_
+_Last updated: **2025-10-07 05:37:02**_
 
+- [LongCat-Flash-Chat: Powerful Open-Source AI for 2025](https://www.digitalocean.com/community/tutorials/longcat-flash-chat-2025) (Published: 2025-10-06)
 - [Fujitsu Expands Strategic Collaboration with NVIDIA to Deliver Full-Stack AI Infrastructure](https://www.madshrimps.be/news/fujitsu-expands-strategic-collaboration-with-nvidia-to-deliver-full-stack-ai-infrastructure/) (Published: 2025-10-06)
 - [How Much Longer Can the AI Bubble Last? Inside Wall Street’s Great Debate](https://biztoc.com/x/b28f76ae45fed766) (Published: 2025-10-06)
 - [Lenovo LOQ: 15.6" FHD IPS 144Hz, Ryzen 5 7235HS, RTX 4050, 12GB DDR5, 512GB SSD $549.99 (1 replies)](https://slickdeals.net/f/18665779-lenovo-loq-15-6-fhd-ips-144hz-ryzen-5-7235hs-rtx-4050-12gb-ddr5-512gb-ssd-549-99) (Published: 2025-10-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-07 05:21:12**_
 - [China's chip challenge: the race to match US tech](https://economictimes.indiatimes.com/tech/technology/chinas-chip-challenge-the-race-to-match-us-tech/articleshow/124329459.cms) (Published: 2025-10-06)
 - [JVNDB-2025-015074:NVIDIA の nvidia container toolkit および nvidia gpu operator における Time-of-check Time-of-use (TOCTOU) 競合状態の脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-015074_AD_1.html) (Published: 2025-10-06)
 - [China's Chip Challenge: The Race To Match US Tech](https://www.ibtimes.com/chinas-chip-challenge-race-match-us-tech-3785667) (Published: 2025-10-06)
-- [Nvidia Partner Hon Hai’s Sales Rise 11% After Strong AI Demand](https://www.livemint.com/companies/news/nvidia-partner-hon-hai-s-sales-rise-11-after-strong-ai-demand-11759717461098.html) (Published: 2025-10-06)
