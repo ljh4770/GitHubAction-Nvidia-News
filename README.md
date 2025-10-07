@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 21:49:04**_
+_Last updated: **2025-10-07 21:59:58**_
 
+- [Debt Collectors Are Cashing In On Dormant Second Mortgages](https://biztoc.com/x/e8d60adccf0d0f94) (Published: 2025-10-06)
+- [OpenAI, AMD Announce Massive Computing Deal, Marking New Phase of AI Boom](https://biztoc.com/x/c6536e3dcc200dfc) (Published: 2025-10-06)
+- [Citadel’s Griffin Calls Rush to Gold as Safer Asset ‘Concerning’](https://biztoc.com/x/b21e0fbe54acef43) (Published: 2025-10-06)
+- [The U.S. Is In Recession: 1 Million Layoffs In 2025 And LEI Data Says It All](https://biztoc.com/x/994ad07c4d9b8d01) (Published: 2025-10-06)
+- [Constellation Brands reiterates lower full-year guidance](https://biztoc.com/x/1abbe5741e60f7e7) (Published: 2025-10-06)
+- [Biomea's diabetes drug shows promise, may work for those responding to GLP-1](https://biztoc.com/x/6dbb307842798e0a) (Published: 2025-10-06)
+- [Tesla Plans to Unveil Cheaper Version of the Model Y on Tuesday](https://biztoc.com/x/ebd4e33ee0a367e5) (Published: 2025-10-06)
+- [AMD's Blockbuster OpenAI Deal Triggers Explosive Rally](https://biztoc.com/x/a2d42a0ba086869b) (Published: 2025-10-06)
+- [AMD Inks Huge Compute Power Deal With OpenAI, Mirroring Nvidia’s Move](https://biztoc.com/x/212d47cb7f142fbc) (Published: 2025-10-06)
 - [AMD Inks Huge Compute Power Deal With OpenAI, Mirroring Nvidia’s Move](https://observer.com/2025/10/amd-compute-power-deal-openai/) (Published: 2025-10-06)
-- [OpenAI signs multi-billion dollar chip deal with AMD](https://japantoday.com/category/tech/openai-signs-multi-billion-dollar-chip-deal-with-amd) (Published: 2025-10-06)
-- [Sam Altman is spreading OpenAI's money far and wide to keep the AI race alive](https://biztoc.com/x/809e328350ed1483) (Published: 2025-10-06)
-- [Meta may spend billions to acquire promising AI accelerator startup to loosen reliance on Nvidia by supercharging its own MTIA AI chip - but what will Jensen say?](https://www.techradar.com/pro/meta-may-spend-billions-to-acquire-promising-ai-accelerator-startup-to-loosen-reliance-on-nvidia-by-supercharging-its-own-mtia-ai-chip-but-what-will-jensen-say) (Published: 2025-10-06)
-- [Unreal mastermind Cliff Bleszinski really likes this fan-made Redux remaster: 'Time for a new generation to learn that Unreal isn't just an engine'](https://www.pcgamer.com/games/fps/unreal-mastermind-cliff-bleszinski-really-likes-this-fan-made-redux-remaster-time-for-a-new-generation-to-learn-that-unreal-isnt-just-an-engine/) (Published: 2025-10-06)
-- [Sam Altman is spreading OpenAI's money far and wide to keep the AI race alive](https://www.businessinsider.com/openai-chip-diversity-amd-nvidia-deals-2025-10) (Published: 2025-10-06)
-- [AMD’s shares surge on deal to supply AI chips to OpenAI](https://www.aljazeera.com/economy/2025/10/6/amds-shares-surge-on-deal-to-supply-ai-chips-to-openai) (Published: 2025-10-06)
-- [Is The Giant OpenAI-AMD Deal Another Sign of an AI Bubble?](https://www.forbes.com/sites/cortneyharding/2025/10/06/is-the-giant-openai-amd-deal-another-sign-of-an-ai-bubble/) (Published: 2025-10-06)
-- [Brad Gerstner on OpenAI's dealmaking with AMD, Nvidia: 'The best chips will win'](https://biztoc.com/x/b358b52804b2ecd6) (Published: 2025-10-06)
-- [Sam Altman Is Trying to Manifest a New Nvidia](http://nymag.com/intelligencer/article/sam-altman-open-ai-amd-nvidia.html) (Published: 2025-10-06)
