@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 04:56:57**_
+_Last updated: **2025-10-07 05:21:12**_
 
+- [Fujitsu Expands Strategic Collaboration with NVIDIA to Deliver Full-Stack AI Infrastructure](https://www.madshrimps.be/news/fujitsu-expands-strategic-collaboration-with-nvidia-to-deliver-full-stack-ai-infrastructure/) (Published: 2025-10-06)
+- [How Much Longer Can the AI Bubble Last? Inside Wall Street’s Great Debate](https://biztoc.com/x/b28f76ae45fed766) (Published: 2025-10-06)
+- [Lenovo LOQ: 15.6" FHD IPS 144Hz, Ryzen 5 7235HS, RTX 4050, 12GB DDR5, 512GB SSD $549.99 (1 replies)](https://slickdeals.net/f/18665779-lenovo-loq-15-6-fhd-ips-144hz-ryzen-5-7235hs-rtx-4050-12gb-ddr5-512gb-ssd-549-99) (Published: 2025-10-06)
+- [Technology Stocks To Consider – October 4th](https://www.etfdailynews.com/2025/10/06/technology-stocks-to-consider-october-4th/) (Published: 2025-10-06)
 - [megatron-fsdp 0.1.0rc5](https://pypi.org/project/megatron-fsdp/0.1.0rc5/) (Published: 2025-10-06)
 - [Competition heats up to challenge Nvidia's AI chip dominance](https://economictimes.indiatimes.com/tech/technology/competition-heats-up-to-challenge-nvidias-ai-chip-dominance/articleshow/124329646.cms) (Published: 2025-10-06)
 - [China's chip challenge: the race to match US tech](https://economictimes.indiatimes.com/tech/technology/chinas-chip-challenge-the-race-to-match-us-tech/articleshow/124329459.cms) (Published: 2025-10-06)
 - [JVNDB-2025-015074:NVIDIA の nvidia container toolkit および nvidia gpu operator における Time-of-check Time-of-use (TOCTOU) 競合状態の脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-015074_AD_1.html) (Published: 2025-10-06)
 - [China's Chip Challenge: The Race To Match US Tech](https://www.ibtimes.com/chinas-chip-challenge-race-match-us-tech-3785667) (Published: 2025-10-06)
 - [Nvidia Partner Hon Hai’s Sales Rise 11% After Strong AI Demand](https://www.livemint.com/companies/news/nvidia-partner-hon-hai-s-sales-rise-11-after-strong-ai-demand-11759717461098.html) (Published: 2025-10-06)
-- [Nvidia Partner Hon Hai’s Sales Rise 11% in Boost for AI Outlook](https://www.livemint.com/companies/news/nvidia-partner-hon-hai-s-sales-rise-11-in-boost-for-ai-outlook-11759717461438.html) (Published: 2025-10-06)
-- [Competition heats up to challenge Nvidia's AI chip dominance](https://biztoc.com/x/7bd8cd2b64651b04) (Published: 2025-10-06)
-- [Nvidia Partner Hon Hai’s Sales Rise 11% in Boost for AI Outlook](https://finance.yahoo.com/news/nvidia-partner-hon-hai-meets-075225125.html) (Published: 2025-10-06)
-- [nemo-evaluator 0.1.9](https://pypi.org/project/nemo-evaluator/0.1.9/) (Published: 2025-10-06)
