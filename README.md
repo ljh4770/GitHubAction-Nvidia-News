@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 11:09:20**_
+_Last updated: **2025-10-07 11:25:24**_
 
+- [(PR) OpenAI will Buy AMD GPUs, AMD Offers $30+ Billion in Stock to Sweeten the Deal](https://www.techpowerup.com/341628/openai-will-buy-amd-gpus-amd-offers-usd-30-billion-in-stock-to-sweeten-the-deal) (Published: 2025-10-06)
+- [OpenAI and AMD announce multibillion-dollar partnership — AMD to supply 6 gigawatts in chips, OpenAI could get up to 10% of AMD shares in return](https://www.tomshardware.com/tech-industry/openai-and-amd-announce-multibillion-dollar-partnership-amd-to-supply-6-gigawatts-in-chips-openai-could-get-up-to-10-percent-of-amd-shares-in-return) (Published: 2025-10-06)
+- [Nvidia's Sky-High AI Ambitions Under Fire: Goldman Sachs Flags 'Circular Revenue' Risk As Wall Street Questions 'Jensen's Math'](https://biztoc.com/x/e8d04afd8a770eda) (Published: 2025-10-06)
+- [Can anything shut down the Gold rally?](https://finance.yahoo.com/news/anything-shut-down-gold-rally-111916005.html) (Published: 2025-10-06)
+- [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-to-take-a-10-stake/articleshow/124338460.cms) (Published: 2025-10-06)
+- [OpenAI just gave AMD a big boost in the AI chip wars](https://www.businessinsider.com/openai-amd-chips-deal-nvidia-ai-2025-10) (Published: 2025-10-06)
+- [Pundi AI Joins Circle Alliance, Integrating USDC for Seamless On-Chain AI Services](https://www.globenewswire.com/news-release/2025/10/06/3161604/0/en/Pundi-AI-Joins-Circle-Alliance-Integrating-USDC-for-Seamless-On-Chain-AI-Services.html) (Published: 2025-10-06)
+- [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.thehindubusinessline.com/info-tech/amd-signs-ai-chip-supply-deal-with-openai-gives-it-option-to-take-a-10-stake/article70131002.ece) (Published: 2025-10-06)
+- [PNY EPIC-X RGB GeForce RTX 5070 Ti OC $1249, ASRock Radeon Steel Legend White RX 9070 XT $1079 Delivered ($0 C&C) @ Centre Com](https://www.ozbargain.com.au/node/927212) (Published: 2025-10-06)
 - [Save Up to $950 With These Awesome Prime Day Deals on 20+ Laptops From Apple, Lenovo and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2025-10-06/) (Published: 2025-10-06)
-- [OpenAI looks to take 10% stake in AMD through AI chip deal](https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html) (Published: 2025-10-06)
-- [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://www.channelnewsasia.com/business/amd-signs-ai-chip-supply-deal-openai-gives-it-option-take-10-stake-5386646) (Published: 2025-10-06)
-- [AMD signs AI chip-supply deal with OpenAI, shares surge over 34%](https://www.channelnewsasia.com/business/amd-signs-ai-chip-supply-deal-openai-shares-surge-over-34-5386646) (Published: 2025-10-06)
-- [AMD signs AI chip-supply deal with OpenAI, gives it option to take a 10% stake](https://finance.yahoo.com/news/amd-signs-ai-chip-supply-105442489.html) (Published: 2025-10-06)
-- [AI chipmaker Cerebras withdraws plans for US stock market debut](https://biztoc.com/x/ea8705edbc76b498) (Published: 2025-10-06)
-- [This Underrated Growth Opportunity Could Send Nvidia Stock Soaring Over the Next 5 Years](https://biztoc.com/x/36454a64fd93fea2) (Published: 2025-10-06)
-- [1 Jaw-Dropping Projection That Makes Nvidia a Screaming Buy](https://biztoc.com/x/e2b01baf7cff2f7e) (Published: 2025-10-06)
-- [MSI PRO MP275Q review: A 1440p budget monitor that’s all about the office](https://www.pcworld.com/article/2928458/msi-pro-mp275q-review.html) (Published: 2025-10-06)
-- [AI chipmaker Cerebras withdraws plans for US stock market debut](https://www.verdict.co.uk/ai-chipmaker-cerebras-withdraws-stock-market/) (Published: 2025-10-06)
