@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 19:47:53**_
+_Last updated: **2025-10-07 19:58:05**_
 
 - [Pruning and Distilling LLMs Using NVIDIA TensorRT Model Optimizer](https://developer.nvidia.com/blog/pruning-and-distilling-llms-using-nvidia-tensorrt-model-optimizer/) (Published: 2025-10-06)
 - [Bungie pushes the indefinitely delayed Marathon back on stage, announcing a closed test for this month and promising a "public update" on its development coming soon](https://www.gamesradar.com/games/fps/bungie-pushes-the-indefinitely-delayed-marathon-back-on-stage-announcing-a-closed-test-for-this-month-and-promising-a-public-update-on-its-development-coming-soon/) (Published: 2025-10-06)
