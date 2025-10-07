@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 09:17:46**_
+_Last updated: **2025-10-07 09:35:10**_
 
+- [Altman says Sora could spark creativity. But is it just another addiction machine?](https://www.livemint.com/opinion/online-views/openai-sam-altman-sora-india-launch-generative-ai-video-generator-tiktok-social-media-text-to-video-technology-nvidia-11759638210290.html) (Published: 2025-10-06)
 - [Nvidia price target raised by $10 at Goldman Sachs, here's why](https://thefly.com/permalinks/entry.php/id4207734/NVDA-Nvidia-price-target-raised-by--at-Goldman-Sachs-heres-why) (Published: 2025-10-06)
 - [AI robotics has a big data problem. This startup raised $405 million to fix it in surprising ways](https://biztoc.com/x/75346eb611f43f02) (Published: 2025-10-06)
 - [AI robotics has a big data problem. This startup raised $405 million to fix it in surprising ways.](https://www.businessinsider.com/ai-robotics-data-problem-fieldai-surprising-fix-ali-agha-2025-9) (Published: 2025-10-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-07 09:17:46**_
 - [Chamath Palihapitiya Warns AI Push By GOOGL, META, MSFT And AMZN Using NVDA Chips Could Double Electricity Rates](https://biztoc.com/x/0111dbf678eba6b7) (Published: 2025-10-06)
 - [nvfuser-cu126 0.2.34.dev20251006](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20251006/) (Published: 2025-10-06)
 - [nvfuser-cu128 0.2.34.dev20251006](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20251006/) (Published: 2025-10-06)
-- [nvfuser-cu129 0.2.34.dev20251006](https://pypi.org/project/nvfuser-cu129/0.2.34.dev20251006/) (Published: 2025-10-06)
