@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 04:33:56**_
+_Last updated: **2025-10-07 04:46:22**_
 
 - [megatron-fsdp 0.1.0rc5](https://pypi.org/project/megatron-fsdp/0.1.0rc5/) (Published: 2025-10-06)
 - [Competition heats up to challenge Nvidia's AI chip dominance](https://economictimes.indiatimes.com/tech/technology/competition-heats-up-to-challenge-nvidias-ai-chip-dominance/articleshow/124329646.cms) (Published: 2025-10-06)
