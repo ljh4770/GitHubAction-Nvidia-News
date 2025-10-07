@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 05:47:46**_
+_Last updated: **2025-10-07 05:58:09**_
 
+- [The Best Trillion-Dollar AI Stock to Buy Now, According to Wall Street (Hint: Not Nvidia)](https://biztoc.com/x/e16b9daaa1839385) (Published: 2025-10-06)
 - [Cisco unveils agentic capabilities for next-generation collaboration](https://www.computerweekly.com/news/366632280/Cisco-unveils-agentic-capabilities-for-next-generation-collaboration) (Published: 2025-10-06)
 - [LongCat-Flash-Chat: Powerful Open-Source AI for 2025](https://www.digitalocean.com/community/tutorials/longcat-flash-chat-2025) (Published: 2025-10-06)
 - [Fujitsu Expands Strategic Collaboration with NVIDIA to Deliver Full-Stack AI Infrastructure](https://www.madshrimps.be/news/fujitsu-expands-strategic-collaboration-with-nvidia-to-deliver-full-stack-ai-infrastructure/) (Published: 2025-10-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-07 05:47:46**_
 - [megatron-fsdp 0.1.0rc5](https://pypi.org/project/megatron-fsdp/0.1.0rc5/) (Published: 2025-10-06)
 - [Competition heats up to challenge Nvidia's AI chip dominance](https://economictimes.indiatimes.com/tech/technology/competition-heats-up-to-challenge-nvidias-ai-chip-dominance/articleshow/124329646.cms) (Published: 2025-10-06)
 - [China's chip challenge: the race to match US tech](https://economictimes.indiatimes.com/tech/technology/chinas-chip-challenge-the-race-to-match-us-tech/articleshow/124329459.cms) (Published: 2025-10-06)
-- [JVNDB-2025-015074:NVIDIA の nvidia container toolkit および nvidia gpu operator における Time-of-check Time-of-use (TOCTOU) 競合状態の脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-015074_AD_1.html) (Published: 2025-10-06)
