@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 21:38:27**_
+_Last updated: **2025-10-07 21:49:04**_
 
+- [AMD Inks Huge Compute Power Deal With OpenAI, Mirroring Nvidia’s Move](https://observer.com/2025/10/amd-compute-power-deal-openai/) (Published: 2025-10-06)
 - [OpenAI signs multi-billion dollar chip deal with AMD](https://japantoday.com/category/tech/openai-signs-multi-billion-dollar-chip-deal-with-amd) (Published: 2025-10-06)
 - [Sam Altman is spreading OpenAI's money far and wide to keep the AI race alive](https://biztoc.com/x/809e328350ed1483) (Published: 2025-10-06)
 - [Meta may spend billions to acquire promising AI accelerator startup to loosen reliance on Nvidia by supercharging its own MTIA AI chip - but what will Jensen say?](https://www.techradar.com/pro/meta-may-spend-billions-to-acquire-promising-ai-accelerator-startup-to-loosen-reliance-on-nvidia-by-supercharging-its-own-mtia-ai-chip-but-what-will-jensen-say) (Published: 2025-10-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-07 21:38:27**_
 - [Is The Giant OpenAI-AMD Deal Another Sign of an AI Bubble?](https://www.forbes.com/sites/cortneyharding/2025/10/06/is-the-giant-openai-amd-deal-another-sign-of-an-ai-bubble/) (Published: 2025-10-06)
 - [Brad Gerstner on OpenAI's dealmaking with AMD, Nvidia: 'The best chips will win'](https://biztoc.com/x/b358b52804b2ecd6) (Published: 2025-10-06)
 - [Sam Altman Is Trying to Manifest a New Nvidia](http://nymag.com/intelligencer/article/sam-altman-open-ai-amd-nvidia.html) (Published: 2025-10-06)
-- [Advanced Micro Devices Surges 35% as OpenAI Takes 10% Stake in Chipmaker](https://finance.yahoo.com/news/advanced-micro-devices-surges-35-211917642.html) (Published: 2025-10-06)
