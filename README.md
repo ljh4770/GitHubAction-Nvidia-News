@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 17:59:16**_
+_Last updated: **2025-10-07 18:37:40**_
 
+- [OpenAI’s ChatGPT Now Connects With Third-Party Apps Like Spotify And Zillow: Here’s The Latest In The AI Arms Race](https://www.forbes.com/sites/antoniopequenoiv/2025/10/06/openais-chatgpt-now-connects-with-third-party-apps-like-spotify-and-zillow-heres-the-latest-in-the-ai-arms-race/) (Published: 2025-10-06)
+- [AMD Stock Skyrockets on OpenAI Bet to Loosen Nvidia’s Grip on the AI Chip Market](https://decrypt.co/343068/amd-stock-skyrockets-openai-bet-loosen-nvidia-grip-ai-chip-market) (Published: 2025-10-06)
+- [OpenAI's new chip deals raise a tough question: Where will all the power come from?](https://biztoc.com/x/1a484fb9d8f49329) (Published: 2025-10-06)
+- [OpenAI Raises the Stakes for AMD’s Race to Catch Nvidia](https://biztoc.com/x/9e94753cd25c2107) (Published: 2025-10-06)
+- [OpenAI's Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI](https://www.wired.com/story/openai-amd-deal-data-center-chips/) (Published: 2025-10-06)
+- [OpenAI's new chip deals raise a tough question: Where will all the power come from?](https://www.businessinsider.com/openai-amd-deal-highlights-ai-strain-on-power-grid-2025-10) (Published: 2025-10-06)
+- [Marathon closed technical test set for October 22 to 28](https://www.gematsu.com/2025/10/marathon-closed-technical-test-set-for-october-22-to-28) (Published: 2025-10-06)
+- [Super Micro Stock Soars After AMD's Big AI Deal With OpenAI](https://finance.yahoo.com/news/super-micro-stock-soars-amds-181042838.html) (Published: 2025-10-06)
+- [AI Enters A New Era: AMD OpenAI Partnership Will Fuel More Growth](https://www.forbes.com/sites/karlfreund/2025/10/06/ai-enters-a-new-era-amd-openai-partnership-will-fuel-more-growth/) (Published: 2025-10-06)
 - [Inside the Week’s Big AI Funding Rounds](http://www.pymnts.com/artificial-intelligence-2/2025/inside-the-weeks-big-ai-funding-rounds/) (Published: 2025-10-06)
-- [Micron's Record Run Isn't Over Yet, According to These Wall Street Bulls](https://www.investopedia.com/micron-shares-will-rise-say-these-wall-street-bulls-11824707) (Published: 2025-10-06)
-- [nvidia-dali-weekly-cuda130 1.52.0.dev20251005](https://pypi.org/project/nvidia-dali-weekly-cuda130/1.52.0.dev20251005/) (Published: 2025-10-06)
-- [OpenAI's president breaks down the AMD deal: 'We need as much computing power as we can possibly get'](https://www.businessinsider.com/openai-amd-deal-greg-brockman-compute-power-needed-2025-10) (Published: 2025-10-06)
-- [The Case For Balancing AI Optimism With Gold Realism](https://www.forbes.com/sites/greatspeculations/2025/10/06/the-case-for-balancing-ai-optimism-with-gold-realism/) (Published: 2025-10-06)
-- [This more affordable AMD Ryzen 7 version is still a winner: HP EliteBook 8 G1a 14 laptop review](https://www.notebookcheck.net/This-more-affordable-AMD-Ryzen-7-version-is-still-a-winner-HP-EliteBook-8-G1a-14-laptop-review.1060764.0.html) (Published: 2025-10-06)
-- [OpenAI And AMD Will Share In The Future of AI](https://pcper.com/2025/10/openai-and-amd-will-share-in-the-future-of-ai/) (Published: 2025-10-06)
-- [Zeroday Cloud hacking contest offers $4.5 million in bounties](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-contest-offers-45-million-in-bounties/) (Published: 2025-10-06)
-- [Meta Llama: Everything you need to know about the open generative AI model](https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/) (Published: 2025-10-06)
-- [HP OMEN 16 Slim: 16" FHD+ 165Hz, Intel Ultra 7 255H, RTX 5070, 32GB DDR5, 1TB SSD $1099.99](https://slickdeals.net/f/18667774-hp-omen-16-slim-16-fhd-165hz-intel-ultra-7-255h-rtx-5070-32gb-ddr5-1tb-ssd-1099-99) (Published: 2025-10-06)
