@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-07 13:57:08**_
+_Last updated: **2025-10-07 14:24:40**_
 
-- [OpenAI and AMD Announce Massive AI Partnership, Sending AMD Shares Soaring](https://biztoc.com/x/4e14c56cf8689da2) (Published: 2025-10-06)
-- [2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade](https://biztoc.com/x/79a8096c50aa9720) (Published: 2025-10-06)
-- [US stocks hang near their records as tech keeps climbing](https://www.bostonherald.com/2025/10/06/stock-market-tech-fueling-rise/) (Published: 2025-10-06)
-- [OpenAI Gobbles Up a Stake in AMD as Its Spending Spree Shows No Sign of Stopping](https://gizmodo.com/openai-gobbles-up-a-stake-in-amd-as-its-spending-spree-shows-no-sign-of-stopping-2000668016) (Published: 2025-10-06)
-- [Goldman Sachs tweaks Nvidia's stock price target with a twist](https://biztoc.com/x/1767ac7a51818822) (Published: 2025-10-06)
-- [AMD signs AI chip-supply deal with OpenAI](https://www.rte.ie/news/business/2025/1006/1537105-amd-signs-ai-chip-supply-deal-with-openai/) (Published: 2025-10-06)
-- [What's next for esports cos; IT deal renewals hit](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/whats-next-for-esports-cos-it-deal-renewals-hit/articleshow/124341316.cms) (Published: 2025-10-06)
-- [Jim Cramer: Nvidia's next act will be bigger than gaming or AI](https://biztoc.com/x/578c6efa605d1812) (Published: 2025-10-06)
-- [AMD to supply 6GW of compute capacity to OpenAI in chip deal worth tens of billions | TechCrunch](https://techcrunch.com/2025/10/06/amd-to-supply-6gw-of-compute-capacity-to-openai-in-chip-deal-worth-tens-of-billions/) (Published: 2025-10-06)
+- [Stock Market Today: AMD Soars After Announcing Big Deal with OpenAI](https://www.thestreet.com/markets/stock-market-today-october-6-2025) (Published: 2025-10-06)
+- [Hitachi Vantara: Cementing the building blocks of ‘physical AI’](https://www.computerweekly.com/blog/CW-Developer-Network/Hitachi-Vantara-Cementing-the-building-blocks-of-physical-AI) (Published: 2025-10-06)
+- [This Crypto and AI Stock Just Got a Massive New Street-High Price Target That Implies Shares Could Double in the Next Year](https://www.barchart.com/story/news/35255871/this-crypto-and-ai-stock-just-got-a-massive-new-street-high-price-target-that-implies-shares-could-double-in-the-next-year) (Published: 2025-10-06)
+- [OpenAI signs deal for AMD chips after Nvidia agreement](https://biztoc.com/x/c7b0919e571c7bd1) (Published: 2025-10-06)
+- [[Prime] ASUS ROG Zephyrus G16 2025 (Intel Core U9 285H, Nvidia RTX 5070 8GB, 32GB RAM, 2TB SSD $3999 Delivered @ Amazon AU](https://www.ozbargain.com.au/node/927256) (Published: 2025-10-06)
+- [OpenAI and AMD link arms for AI buildout: It's a power-for-equity swap](https://biztoc.com/x/2d80e5b8d23d2d2d) (Published: 2025-10-06)
+- [OpenAI and AMD link arms for AI buildout: It's a power-for-equity swap](https://www.theregister.com/2025/10/06/openai_and_amd_join_forces/) (Published: 2025-10-06)
+- [Morgan Stanley’s Wilson says U.S. valuations supported as earnings recovery builds](https://finance.yahoo.com/news/morgan-stanley-wilson-says-u-140639982.html) (Published: 2025-10-06)
+- [AI gold rush: Why experts fear a massive trillion-dollar crash could be coming](https://economictimes.indiatimes.com/news/international/us/ai-gold-rush-why-experts-fear-a-massive-trillion-dollar-crash-could-be-coming/articleshow/124341802.cms) (Published: 2025-10-06)
+- [Nvidia Stock Down: Here's recent trends, opportunities, revenue projections, growth potential, circular revenue concerns, investor outlook, analyst updates](https://economictimes.indiatimes.com/news/international/us/nvidia-stock-down-what-investors-need-to-know-about-ai-and-pc-gpu-growth-heres-recent-trends-opportunities-revenue-projections-growth-potential-circular-revenue-concerns-investor-outlook-analyst-updates-investors-review-data-centers-wall-street-consensus-infrastructure-supporting-sectors/articleshow/124342191.cms) (Published: 2025-10-06)
