@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-08 16:39:39**_
+_Last updated: **2025-10-08 16:53:30**_
 
+- [A Lucky Buyer Has Managed to Hit a ‘Walmart Jackpot’, Snagging NVIDIA’s GeForce RTX 5090 For Just $1,400](https://wccftech.com/a-lucky-buyer-has-managed-to-hit-a-walmart-jackpot-snagging-nvidia-rtx-5090-for-just-1400/) (Published: 2025-10-07)
+- [Nvidia to continue sponsoring H-1B visas, Business Insider reports](https://www.channelnewsasia.com/business/nvidia-continue-sponsoring-h-1b-visas-business-insider-reports-5388486) (Published: 2025-10-07)
+- [Nvidia CEO Huang says chipmaker will continue to sponsor H-1B visas: Report](https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-huang-says-chipmaker-will-continue-to-sponsor-h-1b-visas-report/articleshow/124368378.cms) (Published: 2025-10-07)
+- [SpongeBob SquarePants Cooking Meth and Fake JFK Speeches: How the Sora 2 Launch Went Sideways](http://www.rollingstone.com/culture/culture-features/sora-2-openai-video-rollout-copyright-1235441430/) (Published: 2025-10-07)
+- [Ray Dalio compares today's market to the 1970s, and urges investors to do this](https://economictimes.indiatimes.com/news/international/us/ray-dalio-compares-todays-market-to-the-1970s-and-urges-investors-to-do-this/articleshow/124368304.cms) (Published: 2025-10-07)
+- [OpenAI's Computing Deals Top $1 Trillion](https://slashdot.org/story/25/10/07/1556256/openais-computing-deals-top-1-trillion) (Published: 2025-10-07)
+- [Nvdia app 11.0.5 details officially revealed](https://www.notebookcheck.net/Nvdia-app-11-0-5-details-officially-revealed.1133568.0.html) (Published: 2025-10-07)
+- [NVIDIA app 11.0.5 details officially revealed](https://www.notebookcheck.net/NVIDIA-app-11-0-5-details-officially-revealed.1133568.0.html) (Published: 2025-10-07)
+- [Nvidia CEO Jensen Huang says the company will continue to sponsor H-1B visas and cover fees. Read his memo to staff](https://biztoc.com/x/9e10c6f3ec233dcb) (Published: 2025-10-07)
 - [Nvidia CEO Jensen Huang says the company will continue to sponsor H-1B visas and cover fees. Read his memo to staff.](https://www.businessinsider.com/jensen-huang-nvidia-ceo-sponsor-h1bs-memo-2025-10) (Published: 2025-10-07)
-- [How Value-Creating Principles Balance Short- And Long-Term Outcomes](https://www.forbes.com/sites/stevedenning/2025/10/07/how-value-creating-principles-balance-shortand-long-term-outcomes/) (Published: 2025-10-07)
-- [Nvidia's Market Dominance Now Dwarfs Japan, China, Germany, UK](https://biztoc.com/x/88e3600b6bce36f7) (Published: 2025-10-07)
-- [Internal Oracle Data Show Financial Challenge of Renting Out Nvidia Chips](https://biztoc.com/x/37796f64e26ebe8e) (Published: 2025-10-07)
-- [Oracle Sinks on Report Its Cloud Margins Are Worse Than Expected](https://financialpost.com/pmn/business-pmn/oracle-sinks-on-report-its-cloud-margins-are-worse-than-expected) (Published: 2025-10-07)
-- [Oracle Sinks on Report Its Cloud Margins Are Worse Than Expected](https://www.livemint.com/companies/news/oracle-sinks-on-report-its-cloud-margins-are-worse-than-expected-11759854482872.html) (Published: 2025-10-07)
-- [Oracle stock slips 5% on report company is seeing thin cloud margins from Nvidia chips](https://biztoc.com/x/95bacd388fa74371) (Published: 2025-10-07)
-- [This $549 laptop deal is a great way to get into PC gaming — I'm recommending it to all my console friends](https://www.windowscentral.com/hardware/lenovo/lenovo-loq-156-best-buy-techtober-deal) (Published: 2025-10-07)
-- [If you can’t wait for the RTX 50 Supers, Amazon US have $50 off the RTX 5060 Ti 16GB right now](https://www.rockpapershotgun.com/if-you-cant-wait-for-the-rtx-50-supers-amazon-us-have-50-off-the-rtx-5060-ti-16gb-right-now) (Published: 2025-10-07)
-- [We put together a great 1440p gaming PC completely built with parts on sale at Amazon's Prime Day sale](https://www.tomshardware.com/pc-components/gpus/we-put-together-a-great-1440p-gaming-pc-completely-built-with-parts-on-sale-at-amazons-prime-day-sale) (Published: 2025-10-07)
