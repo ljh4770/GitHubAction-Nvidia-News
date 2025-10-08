@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-08 04:50:06**_
+_Last updated: **2025-10-08 05:00:25**_
 
 - [OpenAI's computing deals with Nvidia, AMD, Oracle, and others have topped $1T, commitments that dwarf its revenue and raise questions about how it can fund them](https://biztoc.com/x/cbd6d3bedf58e677) (Published: 2025-10-07)
 - [Arm CEO Rene Haas recalls Nvidia's bold exit from Intel chip support during his time working with Jensen Huang](https://www.digitimes.com/news/a20251007PD215/arm-ceo-nvidia-jensen-huang-intel.html) (Published: 2025-10-07)
