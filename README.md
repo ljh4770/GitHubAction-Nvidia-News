@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-08 20:13:51**_
+_Last updated: **2025-10-08 20:32:49**_
 
+- [The AI Bubble Is Here. Why You Can Still Play the Stocks](https://biztoc.com/x/2fdb0bad1fcf7ee7) (Published: 2025-10-07)
 - [OpenAI, Nividia Fuel $1 Trillion AI Market With Web of Circular Deals](https://biztoc.com/x/8e2e0a6aa38cf777) (Published: 2025-10-07)
 - [Mira Murati’s Thinking Machines Lab Unveils New AI Tinker Product Which Is Useful But Not A Big-Time Blockbuster](https://freerepublic.com/focus/f-news/4344940/posts) (Published: 2025-10-07)
 - [IREN Announces Proposed Convertible Notes Offering](https://www.globenewswire.com/news-release/2025/10/07/3162931/0/en/IREN-Announces-Proposed-Convertible-Notes-Offering.html) (Published: 2025-10-07)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-08 20:13:51**_
 - [Nvidia, IBD Stock Of The Day, Seen Unscathed By OpenAI's AMD Deal](https://biztoc.com/x/da91497ef272a1c0) (Published: 2025-10-07)
 - [NVIDIA’s Jensen Huang Sees OpenAI as Next Trillion-Dollar Company—Is He Right?](https://biztoc.com/x/65efee7074f2611d) (Published: 2025-10-07)
 - [One of my favorite Dell laptops from 2025 is $850 off](https://www.zdnet.com/article/one-of-my-favorite-dell-laptops-from-2025-is-850-off/) (Published: 2025-10-07)
-- [NVIDIA RTX PRO 6000 Workstation GPU Review: Blackwell Architecture and 96 GB for Pro Workflows](https://www.storagereview.com/review/nvidia-rtx-pro-6000-workstation-gpu-review-blackwell-architecture-and-96-gb-for-pro-workflows) (Published: 2025-10-07)
