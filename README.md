@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-08 17:13:19**_
+_Last updated: **2025-10-08 17:31:33**_
 
+- [Jensen Huang Articulates An Incredibly Humanitarian American Dream](https://www.forbes.com/sites/johntamny/2025/10/07/jensen-huang-articulates-an-incredibly-humanitarian-american-dream/) (Published: 2025-10-07)
+- [2025 Hackaday Supercon: More Wonderful Speakers](https://hackaday.com/2025/10/07/2025-hackaday-supercon-more-wonderful-speakers/) (Published: 2025-10-07)
+- [OpenAI builds apps into ChatGPT, in a bold bid to make AI the ‘universal interface’ to our digital lives](https://fortune.com/2025/10/07/openais-chatgpt-apps-universal-interface-platform-shift-amd-deal-eye-on-ai/) (Published: 2025-10-07)
+- [OpenAI builds apps into ChatGPT, in a bold bid to make AI the ‘universal interface’ to our digital lives](https://finance.yahoo.com/news/openai-builds-apps-chatgpt-bold-172128403.html) (Published: 2025-10-07)
+- [ASUS ProArt and GoPro Launch AI-Powered StoryCube: First Windows App to Integrate 360° Video Workflows](https://www.yankodesign.com/2025/10/07/asus-proart-and-gopro-launch-ai-powered-storycube-first-windows-app-to-integrate-360-video-workflows/) (Published: 2025-10-07)
+- [10 Prime Day Gaming Laptop and Desktop Deals at Some of the Lowest Prices Yet](https://uk.pcmag.com/desktop-pcs/160517/10-prime-day-gaming-laptop-and-desktop-deals-at-some-of-the-lowest-prices-yet) (Published: 2025-10-07)
+- [Dot-com fears rise with tech stocks seeing $100 billion swings](https://fortune.com/2025/10/07/ai-bubble-dotcom-fears-100-billion-swings-stocks-amd-openai/) (Published: 2025-10-07)
+- [Without data centers, GDP growth was 0.1% in the first half of 2025, Harvard economist says](https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/) (Published: 2025-10-07)
 - [After a Second Price Drop in Three Days, the 2025 ROG Strix G15 Has Just Reached a New Record Low](https://kotaku.com/after-a-second-price-drop-in-three-days-the-2025-rog-strix-g15-has-just-reached-a-new-record-low-2000632593) (Published: 2025-10-07)
 - [S&P 500 heads for first fall in 8 days - top reasons for the downfall](https://economictimes.indiatimes.com/news/international/us/sp-500-heads-for-first-fall-in-8-days-top-reasons-for-the-downfall/articleshow/124368266.cms) (Published: 2025-10-07)
-- [Jim Cramer Says Nvidia's Next Decade Could Be Even More Life-Changing Than the Last](https://finance.yahoo.com/news/jim-cramer-says-nvidias-next-170732588.html) (Published: 2025-10-07)
-- [HP OMEN MAX: 16" QHD+ 240Hz IPS, Ryzen AI 9 HX 375, RTX 5080, 32GB DDR5, 1TB SSD $1799.99](https://slickdeals.net/f/18675322-hp-omen-max-16-qhd-240hz-ips-ryzen-ai-9-hx-375-rtx-5080-32gb-ddr5-1tb-ssd-1799-99) (Published: 2025-10-07)
-- [Bitcoin miner IREN secures more multi-year cloud contracts, including NVIDIA GPU deployments](https://biztoc.com/x/f6f1f52b353e6913) (Published: 2025-10-07)
-- [Nvidia to continue sponsoring H-1B visas, Business Insider reports](https://biztoc.com/x/3ca30b500f7d5502) (Published: 2025-10-07)
-- [Oracle Stock Is Tumbling Tuesday: Here's Why](https://biztoc.com/x/7b542dce766e2f8a) (Published: 2025-10-07)
-- [A Lucky Buyer Has Managed to Hit a ‘Walmart Jackpot’, Snagging NVIDIA’s GeForce RTX 5090 For Just $1,400](https://wccftech.com/a-lucky-buyer-has-managed-to-hit-a-walmart-jackpot-snagging-nvidia-rtx-5090-for-just-1400/) (Published: 2025-10-07)
-- [Nvidia to continue sponsoring H-1B visas, Business Insider reports](https://www.channelnewsasia.com/business/nvidia-continue-sponsoring-h-1b-visas-business-insider-reports-5388486) (Published: 2025-10-07)
-- [Nvidia CEO Huang says chipmaker will continue to sponsor H-1B visas: Report](https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-huang-says-chipmaker-will-continue-to-sponsor-h-1b-visas-report/articleshow/124368378.cms) (Published: 2025-10-07)
