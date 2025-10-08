@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-08 14:56:46**_
+_Last updated: **2025-10-08 15:24:08**_
 
+- [Europe Should Support U.S. Democracy](http://foreignpolicy.com/2025/10/07/europe-america-trump-democracy-nato/) (Published: 2025-10-07)
+- [Tesla unveils new full self-driving tech ahead of new model reveal announcement](https://economictimes.indiatimes.com/news/international/us/tesla-unveils-new-full-self-driving-tech-ahead-of-new-model-reveal-announcement/articleshow/124365920.cms) (Published: 2025-10-07)
+- [Oracle data shows challenge of renting out Nvidia chips, The Information says](https://thefly.com/permalinks/entry.php/id4209155/ORCL;NVDA-Oracle-data-shows-challenge-of-renting-out-Nvidia-chips-The-Information-says) (Published: 2025-10-07)
+- [AMD Wins OpenAI's Chip Deal to Supply AI Processors to ChatGPT-Maker—No More NVIDIA GPUs?](https://www.ibtimes.com/amd-wins-openais-chip-deal-supply-ai-processors-chatgpt-makerno-more-nvidia-gpus-3785955) (Published: 2025-10-07)
+- [Prime Day Laptop Deals: Save Up To 40% On Tech Editor-Approved Models](https://www.forbes.com/sites/forbes-personal-shopper/2025/10/07/prime-day-laptop-deals/) (Published: 2025-10-07)
+- [LG’s 45-inch ultrawide OLED gaming monitor with 240Hz refresh rate and smart TV features gets a hefty $700 discount](https://www.notebookcheck.net/LG-s-45-inch-ultrawide-OLED-gaming-monitor-with-240Hz-refresh-rate-and-smart-TV-features-gets-a-hefty-700-discount.1132701.0.html) (Published: 2025-10-07)
+- [Watch These AMD Price Levels as Stock Continues Surging on OpenAI Deal](https://www.investopedia.com/watch-these-amd-price-levels-as-stock-continues-surging-after-openai-chip-deal-11825430) (Published: 2025-10-07)
 - [BlackRock’s New Bets Stick Firm in Middle of AI, Energy Fray](https://financialpost.com/pmn/business-pmn/blackrocks-new-bets-stick-firm-in-middle-of-ai-energy-fray) (Published: 2025-10-07)
 - [OpenAI has now done $1 trillion of computing deals this year](https://www.businessinsider.com/openai-computing-deals-1-trillion-nvda-amd-orcl-crwv-ai-2025-10) (Published: 2025-10-07)
 - [Newegg is putting Prime Day GPU deals to shame with this RTX 5070 offer, but I'd stick with Amazon for its AMD rival](https://www.gamesradar.com/hardware/desktop-pc/newegg-is-putting-prime-day-gpu-deals-to-shame-with-this-rtx-5070-offer-but-id-stick-with-amazon-for-its-amd-rival/) (Published: 2025-10-07)
-- [Fund manager resets forecast for what happens to stocks next](https://www.thestreet.com/markets/fund-manager-resets-forecast-for-what-happens-to-stocks-next) (Published: 2025-10-07)
-- [NVDA: Nvidia Deals Ignite Iris Energy Stock Rally With Double-Digit Surge](https://finance.yahoo.com/news/nvda-nvidia-deals-ignite-iris-143245180.html) (Published: 2025-10-07)
-- [First device based on 'optical thermodynamics' can route light without switches](https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html) (Published: 2025-10-07)
-- [Download the free CryEngine Community Edition](https://www.cgchannel.com/2025/10/download-the-free-cryengine-community-edition/) (Published: 2025-10-07)
-- [A new challenger has entered the AI hardware game](https://www.phonearena.com/news/a-new-challenger-has-entered-the-ai-hardware-game_id174684) (Published: 2025-10-07)
-- [AMD’s CEO Walks a Fine Line on Potential Intel Partnership, Highlighting TSMC Commitment While Avoiding an Outright Rejection](https://wccftech.com/amd-ceo-walks-a-fine-line-on-potential-intel-partnership/) (Published: 2025-10-07)
-- [What’s up with… Deutsche Telekom, 6G R&D, AMD and OpenAI](https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-deutsche-telekom-6g-r-d-amd-and-openai-53984/) (Published: 2025-10-07)
