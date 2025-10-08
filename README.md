@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-08 20:55:40**_
+_Last updated: **2025-10-08 21:17:36**_
 
+- [Top analyst ‘very concerned’ about Nvidia fueling an AI bubble and a ‘Cisco moment’ like the dotcom crash: ‘We’re a lot closer to the seventh inning than the first or second inning’](https://fortune.com/2025/10/07/ai-bubble-cisco-moment-dotcom-crash-nvidia-jensen-huang-top-analyst/) (Published: 2025-10-07)
+- [Top analyst ‘very concerned’ about Nvidia fueling an AI bubble and a ‘Cisco moment’ like the dotcom crash: ‘We’re a lot closer to the seventh inning than the first or second inning’](https://finance.yahoo.com/news/top-analyst-very-concerned-nvidia-211320554.html) (Published: 2025-10-07)
+- [Oracle Stock Slides On Report Its Cloud Business Is Seeing Lower Margins On Nvidia Chips](https://biztoc.com/x/556c27a0a4cdacfb) (Published: 2025-10-07)
+- [Dizzying deal delirium: How the AI bubble bursts](https://biztoc.com/x/2244353f7303ff74) (Published: 2025-10-07)
+- [Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases  | TechCrunch](https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/) (Published: 2025-10-07)
+- [5 Reasons AI-Driven Business Need Dedicated Servers](https://www.smartdatacollective.com/reasons-ai-driven-business-need-dedicated-servers/) (Published: 2025-10-07)
+- [Announcing GPU Droplets accelerated by NVIDIA HGX H100 in the EU](https://www.digitalocean.com/blog/now-available-gpu-droplets-nvidia-h100s-ams) (Published: 2025-10-07)
 - [Dizzying deal delirium: How the AI bubble bursts](https://fortune.com/2025/10/07/how-will-the-ai-bubble-burst-nvidia-openai-dotcom-circular/) (Published: 2025-10-07)
 - [Dizzying deal delirium: How the AI bubble bursts](https://finance.yahoo.com/news/dizzying-deal-delirium-ai-bubble-205337503.html) (Published: 2025-10-07)
 - [Supersized: The no-limit AI data center build-out](https://theweek.com/tech/ai-data-centers) (Published: 2025-10-07)
-- [Big Tech is ‘donating’ to Trump’s ‘nonprofits’](https://www.theverge.com/column/794975/big-tech-trump-nonprofits-donations-regulator) (Published: 2025-10-07)
-- [Without Data Centers, GDP Growth Was 0.1% in the First Half of 2025, Harvard Economist Says](https://slashdot.org/story/25/10/07/2012240/without-data-centers-gdp-growth-was-01-in-the-first-half-of-2025-harvard-economist-says) (Published: 2025-10-07)
-- [IREN Declines 6% on $875M Convertible Note Offering](https://www.coindesk.com/markets/2025/10/07/iren-declines-6-on-usd875m-convertible-note-offering) (Published: 2025-10-07)
-- [Excellent Lenovo Legion 5 Gen 10 OLED gaming laptop with RTX 5060 is now $300 cheaper](https://www.notebookcheck.net/Excellent-Lenovo-Legion-5-Gen-10-OLED-gaming-laptop-with-RTX-5060-is-now-300-cheaper.1133318.0.html) (Published: 2025-10-07)
-- [Bitcoin sells off, but BTC derivatives data points to $150K by year’s end](https://cointelegraph.com/news/bitcoin-sells-off-but-btc-derivatives-data-points-to-150k-by-year-s-end) (Published: 2025-10-07)
-- [Nvidia CEO: U.S. must win AI race with China so the future is built on American technology](https://biztoc.com/x/d382addbef317faf) (Published: 2025-10-07)
-- [The AI Bubble Is Here. Why You Can Still Play the Stocks](https://biztoc.com/x/2fdb0bad1fcf7ee7) (Published: 2025-10-07)
