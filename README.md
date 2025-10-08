@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-08 11:40:32**_
+_Last updated: **2025-10-08 11:51:14**_
 
-- [PRIME DAY 2025: Gaming Computers, Laptops, Video Cards, Processors, and More!](https://www.geeksaresexy.net/2025/10/07/prime-day-2025-gaming-computers-laptops-video-cards-processors-and-more/) (Published: 2025-10-07)
-- [UiPath (PATH) Jumps 12.56% as AI Frenzy Sparks Rosy Prospects](https://finance.yahoo.com/news/uipath-path-jumps-12-56-112342218.html) (Published: 2025-10-07)
-- [How low can you go? 31+ Walmart deals to check out during Prime Big Deal Days](https://nypost.com/shopping/walmart-deals-october-2025/) (Published: 2025-10-07)
-- [The 37 Best Discounts on Laptops This Prime Day: Score Hundreds off a New Computer From Apple, Lenovo, HP and Others](https://www.cnet.com/deals/best-prime-day-laptop-deals-2025-10-07/) (Published: 2025-10-07)
-- [RX 9070 XT reportedly outsold RTX 5070 Ti by over 200% in Australia while RX 9060 XT draws 100% lead over RTX 5060 Ti](https://www.notebookcheck.net/RX-9070-XT-reportedly-outsold-RTX-5070-Ti-by-over-200-in-Australia-while-RX-9060-XT-draws-100-lead-over-RTX-5060-Ti.1133126.0.html) (Published: 2025-10-07)
-- [Broadcom's Big AI Move In Japan Could Slash Data Center Power Use By Half](https://finance.yahoo.com/news/broadcoms-big-ai-move-japan-103258751.html) (Published: 2025-10-07)
-- [Global markets mostly advance, with Japan's market inching to another record](https://abcnews.go.com/Business/wireStory/global-markets-advance-japans-market-inching-record-126279505) (Published: 2025-10-07)
-- [The stakes of OpenAI's dealmaking](https://biztoc.com/x/e72f56a2da1e9836) (Published: 2025-10-07)
-- [Nvidia Stock Rises After AMD Hit. Why the Chip Maker Could Get a China Boost Soon](https://biztoc.com/x/b98b86984ae0e0eb) (Published: 2025-10-07)
+- [Lithium Americas Analysts Sour as US Stake Sparks 175% Rally](https://biztoc.com/x/07b167c189058c3c) (Published: 2025-10-07)
+- [This $749 laptop is an all-in-one beast for play and productivity](https://www.xda-developers.com/acer-nitro-v16-is-the-perfect-laptop-for-gaming-at-749/) (Published: 2025-10-07)
+- [Netflix Stock Catches an Upgrade. Why the Streamer Could Climb Another 19%](https://biztoc.com/x/ef4ab56e978d4a09) (Published: 2025-10-07)
+- [Infrastructure Boom Propels $5.5 Billion Fundraise for Manulife](https://biztoc.com/x/3f263e847e993910) (Published: 2025-10-07)
+- [Soars 34% as Crypto Firm Optimistic for Ethereum 10-15 Year Growth Prospects](https://biztoc.com/x/075fd00aa2630124) (Published: 2025-10-07)
+- [As Growth Decouples From Employment, the Fed Faces a Trilemma by Mohamed A. El-Erian](https://biztoc.com/x/578064fa623bf3ac) (Published: 2025-10-07)
+- [New satellite plant to open in Italy to boost production capacity](https://biztoc.com/x/db72963914b9a7a0) (Published: 2025-10-07)
+- [International Business Machines Stock Jumps on Anthropic AI Partnership. What We Know](https://biztoc.com/x/e5b18012de6afaa3) (Published: 2025-10-07)
+- [EU Eyes Sanctions on Fake Flags Used by Russia Shadow Oil Fleet](https://biztoc.com/x/afcf4189c99d8018) (Published: 2025-10-07)
+- [OpenAI's recent deals with Oracle, Nvidia, Samsung, AMD, SK Hynix, and others, plus its DevDay announcements, show it is making a play to be the Windows of AI (Ben Thompson/Stratechery)](https://www.techmeme.com/251007/p11) (Published: 2025-10-07)
