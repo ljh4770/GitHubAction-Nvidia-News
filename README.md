@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-08 22:31:41**_
+_Last updated: **2025-10-08 22:43:18**_
 
+- [Stocks Fall After Report Raises Concerns About AI Profitability - The Wall Street Journal](https://slashdot.org/firehose.pl?op=view&amp;id=179700728) (Published: 2025-10-07)
 - [Nvidia CEO sells $42.1M in common stock as part of option exercise](https://thefly.com/permalinks/entry.php/id4209416/NVDA-Nvidia-CEO-sells-M-in-common-stock-as-part-of-option-exercise) (Published: 2025-10-07)
 - [As the market pulls back, Jim Cramer explains how to handle sell-offs](https://www.cnbc.com/2025/10/07/-jim-cramer-how-to-handle-sell-offs.html) (Published: 2025-10-07)
 - [CyberLink PowerDirector Ultimate 2026 v24.0.1003](https://post.rlsbb.to/cyberlink-powerdirector-ultimate-2026-v24-0-1003/) (Published: 2025-10-07)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-08 22:31:41**_
 - [Top analyst ‘very concerned’ about Nvidia fueling an AI bubble and a ‘Cisco moment’ like the dotcom crash: ‘We’re a lot closer to the seventh inning than the first or second inning’](https://biztoc.com/x/15226c59afbde278) (Published: 2025-10-07)
 - [Top analyst ‘very concerned’ about Nvidia fueling an AI bubble and a ‘Cisco moment’ like the dotcom crash: ‘We’re a lot closer to the seventh inning than the first or second inning’](https://fortune.com/2025/10/07/ai-bubble-cisco-moment-dotcom-crash-nvidia-jensen-huang-top-analyst/) (Published: 2025-10-07)
 - [Top analyst ‘very concerned’ about Nvidia fueling an AI bubble and a ‘Cisco moment’ like the dotcom crash: ‘We’re a lot closer to the seventh inning than the first or second inning’](https://finance.yahoo.com/news/top-analyst-very-concerned-nvidia-211320554.html) (Published: 2025-10-07)
-- [Oracle Stock Slides On Report Its Cloud Business Is Seeing Lower Margins On Nvidia Chips](https://biztoc.com/x/556c27a0a4cdacfb) (Published: 2025-10-07)
