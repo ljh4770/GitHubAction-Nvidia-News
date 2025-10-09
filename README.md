@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-09 03:09:33**_
+_Last updated: **2025-10-09 03:42:09**_
 
+- [Tether Might Be Your Plumber’s Preferred Payment Soon](https://biztoc.com/x/2d11f5fcfed911dc) (Published: 2025-10-08)
+- [Ransomware Gang Qilin Claims Hack That Crippled Beermaker Asahi](https://biztoc.com/x/315de1b6239e291e) (Published: 2025-10-08)
+- [Boom or bubble: OpenAI's US$500 billion alliances will face make-or-break moment in 2H26](https://www.digitimes.com/news/a20251008PD200/openai-infrastructure-2026-microsoft-nvidia.html) (Published: 2025-10-08)
+- [Intel to reveal tech details on forthcoming PC chip, sources say](https://economictimes.indiatimes.com/tech/technology/intel-to-reveal-tech-details-on-forthcoming-pc-chip-sources-say/articleshow/124375845.cms) (Published: 2025-10-08)
+- [Commentary: The rising concerns surrounding AMD's alliance with OpenAI](https://www.digitimes.com/news/a20251008PD208/amd-openai-nvidia-ai-chip-market.html) (Published: 2025-10-08)
+- [U.S. Stocks Drop as Gold Soars](https://biztoc.com/x/203ac7398ad4fd43) (Published: 2025-10-08)
+- [Gold Tops $4,000 For First Time As Traders Pile Into Safe Haven](https://www.ibtimes.com/gold-tops-4000-first-time-traders-pile-safe-haven-3786108) (Published: 2025-10-08)
+- [Musk's xAI nears $20 billion capital raise tied to Nvidia chips, Bloomberg News reports](https://economictimes.indiatimes.com/tech/artificial-intelligence/musks-xai-nears-20-billion-capital-raise-tied-to-nvidia-chips-bloomberg-news-reports/articleshow/124375666.cms) (Published: 2025-10-08)
 - [Risky Bank Debt Is Rationally Exuberant](https://biztoc.com/x/034d15f88d05c986) (Published: 2025-10-08)
 - [Indian Investors Eye UK Trade Talks During Starmer Visit](https://biztoc.com/x/7eac303c8293c0e2) (Published: 2025-10-08)
-- [Musk’s xAI may be the next AI firm to do a creative financing deal with Nvidia](https://biztoc.com/x/d08046697ff82da7) (Published: 2025-10-08)
-- [Copper Declines as Fed Officials Urge Caution on Rate Cuts](https://biztoc.com/x/7ab01340f3edb580) (Published: 2025-10-08)
-- [Nvidia Reportedly Bets $2 Billion On Elon Musk's xAI — And Its Own GPUs Will Fuel 'Colossus 2' Gigawatt-Scale AI Supercluster](https://biztoc.com/x/b776d9b0adf4914d) (Published: 2025-10-08)
-- [National Guard members from Texas are in Illinois in Trump's latest move to send troops to cities](https://biztoc.com/x/f7b234c165cd5052) (Published: 2025-10-08)
-- [Data streaming software maker Confluent explores sale, sources say](https://biztoc.com/x/386c018587e7d1c0) (Published: 2025-10-08)
-- [Gold vaults over $4,000 on rush to safety and Fed easing bets](https://biztoc.com/x/d9c5becc530c91ce) (Published: 2025-10-08)
-- [Trump Administration Now Holds Stakes In 5 Public Companies: Here's A List—INTC, MP, LAC And More](https://finance.yahoo.com/news/trump-administration-now-holds-stakes-023008085.html) (Published: 2025-10-08)
-- [Nvidia to invest in Musk’s xAI as part of US$20 billion funding](https://biztoc.com/x/909a17df97fab37b) (Published: 2025-10-08)
