@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-09 10:44:24**_
+_Last updated: **2025-10-09 10:54:47**_
 
 - [NVIDIA to Fund Musk's xAI Chips in $20 Billion Investment Round](https://www.techpowerup.com/341700/nvidia-to-fund-musks-xai-chips-in-usd-20-billion-investment-round) (Published: 2025-10-08)
 - [Nvidia reportedly to invest up to $2bn in Elon Musk’s xAI](https://biztoc.com/x/e1fc7338b7144d0b) (Published: 2025-10-08)
