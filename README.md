@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-09 11:51:23**_
+_Last updated: **2025-10-09 12:20:23**_
 
+- [Breakout Watch: Top Funds Fire Up This AI Infrastructure Stock](https://biztoc.com/x/904691782c14f08a) (Published: 2025-10-08)
+- [Nvidia reportedly signs another blockbuster AI supply deal, this time with Elon Musk's xAI — investment will support $20 billion Colossus 2 Memphis project](https://www.tomshardware.com/pc-components/gpus/nvidia-backs-20-billion-xai-chip-deal) (Published: 2025-10-08)
+- [Hoth Therapeutics selects Nvidia AI enterprise platform](https://thefly.com/permalinks/entry.php/id4209794/HOTH;NVDA-Hoth-Therapeutics-selects-Nvidia-AI-enterprise-platform) (Published: 2025-10-08)
+- [Nvidia Forms First Direct Partnership With OpenAI](https://finance.yahoo.com/news/nvidia-forms-first-direct-partnership-120217274.html) (Published: 2025-10-08)
+- [Meet the Low-Cost Vanguard ETF That Has 20% of Its Holdings in Nvidia, Broadcom, and AMD](https://biztoc.com/x/7bade7618ccbbfe1) (Published: 2025-10-08)
+- [ORCL: Oracle Stock Plunges After Report Exposes Weak AI Cloud Margins](https://finance.yahoo.com/news/orcl-oracle-stock-plunges-report-120121188.html) (Published: 2025-10-08)
+- [UiPath Pushes Into Agentic AI: Buy The Stock?](https://www.forbes.com/sites/greatspeculations/2025/10/08/uipath-pushes-into-agentic-ai-buy-the-stock/) (Published: 2025-10-08)
+- [How Incumbents Can React to Disruption](https://bradenkelley.com/2025/10/how-incumbents-can-react-to-disruption/) (Published: 2025-10-08)
+- [Markets face 'sharp correction' if mood sours on AI or Fed freedom, Bank of England says](https://finance.yahoo.com/news/markets-face-sharp-correction-mood-115507072.html) (Published: 2025-10-08)
 - [OpenAI, Nvidia And Oracle Building A High-Tech House Of Cards? Expert Warns 'Infinite Money Glitch' Could Trigger AI-Led Job Losses And Market Chaos](https://biztoc.com/x/0dcc1c1df4a00311) (Published: 2025-10-08)
-- [Trump Economy: What State Capitalism Means For Nvidia, Intel And The U.S](https://biztoc.com/x/3334e82e46024c92) (Published: 2025-10-08)
-- [U.S. government shutdown to last into next week, but not beyond: analyst](https://finance.yahoo.com/news/u-government-shutdown-last-next-114448952.html) (Published: 2025-10-08)
-- [Elon Musk's xAI Set For $20B Cash Surge — Nvidia Chips At The Heart Of His AI Dream](https://www.ibtimes.com/elon-musks-xai-set-20b-cash-surge-nvidia-chips-heart-his-ai-dream-3786148) (Published: 2025-10-08)
-- [Don’t Miss Walmart’s Anti-Prime Day Sale: Save Big on Tech, Home, Kitchen, Health, Fitness and More](https://www.cnet.com/deals/walmart-anti-prime-day-deals-2025-10-08/) (Published: 2025-10-08)
-- [Predictive AI in the Stock Market 2025-2029: Growth Trends and Revenue Outlook for Algorithmic Trading, Portfolio Management, Risk Management, Sentiment Analysis, and Other Applications](https://www.globenewswire.com/news-release/2025/10/08/3163226/28124/en/Predictive-AI-in-the-Stock-Market-2025-2029-Growth-Trends-and-Revenue-Outlook-for-Algorithmic-Trading-Portfolio-Management-Risk-Management-Sentiment-Analysis-and-Other-Applications.html) (Published: 2025-10-08)
-- [(PR) ASUS ProArt and GoPro Join Forces to Streamline Creator Workflows with AI](https://www.techpowerup.com/341703/asus-proart-and-gopro-join-forces-to-streamline-creator-workflows-with-ai) (Published: 2025-10-08)
-- [Nvidia Invests in Musk’s xAI as Part of $20 Billion Funding](https://biztoc.com/x/23ca4cfa69308784) (Published: 2025-10-08)
-- [Voice AI Infrastructure Markets 2025-2029: Growth Outlook for Virtual Assistants, Conversational AI & Chatbots, Voice Biometrics & Authentication, Real-Time Speech Translation and More](https://www.globenewswire.com/news-release/2025/10/08/3163200/28124/en/Voice-AI-Infrastructure-Markets-2025-2029-Growth-Outlook-for-Virtual-Assistants-Conversational-AI-Chatbots-Voice-Biometrics-Authentication-Real-Time-Speech-Translation-and-More.html) (Published: 2025-10-08)
-- [AI in Transportation Market Sizing, Analysis and Industry Outlook 2025-2029 for Autonomous Vehicles, Traffic Management, Freight Management, Predictive Maintenance, and Other Applications](https://www.globenewswire.com/news-release/2025/10/08/3163199/28124/en/AI-in-Transportation-Market-Sizing-Analysis-and-Industry-Outlook-2025-2029-for-Autonomous-Vehicles-Traffic-Management-Freight-Management-Predictive-Maintenance-and-Other-Applicatio.html) (Published: 2025-10-08)
