@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-09 23:27:56**_
+_Last updated: **2025-10-09 23:39:34**_
 
+- [Jensen Huang said his family wouldn't have been able to afford the $100K H-1B visa fee when they immigrated to the US](https://www.businessinsider.com/jensen-huang-family-not-afford-h1b-visa-fee-american-dream-2025-10) (Published: 2025-10-08)
 - [SoftBank-owned Graphcore to invest $1.3 billion in India, set up AI research hub in Bengaluru](https://www.bloomberg.com/news/articles/2025-10-08/softbank-s-graphcore-plans-1-billion-chip-investment-in-india) (Published: 2025-10-08)
 - [Stock market today: Dow, S&P 500, Nasdaq futures regroup after record-setting rally](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-regroup-after-record-setting-rally-231749159.html) (Published: 2025-10-08)
 - [Refurb: PNY GeForce RTX 5070 OC 12GB GDDR7 Graphics Card $453 + Free Shipping](https://slickdeals.net/f/18682291-refurb-pny-geforce-rtx-5070-oc-12gb-gddr7-graphics-card-453-free-shipping) (Published: 2025-10-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-09 23:27:56**_
 - [Even after Stargate, Oracle, Nvidia and AMD, OpenAI has more big deals coming soon, Sam Altman says | TechCrunch](https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/) (Published: 2025-10-08)
 - [China's humanoid robot industry grows, but core processors remain foreign-controlled](https://www.digitimes.com/news/a20251007PD225/china-humanoid-robot-robotics-intel-nvidia.html) (Published: 2025-10-08)
 - [CoreWeave CEO pushes back against circular investment concerns](https://www.cnbc.com/2025/10/08/coreweave-ceo-pushes-back-against-circular-investment-concerns-.html) (Published: 2025-10-08)
-- [Jim Cramer breaks down three major sectors of this economy](https://www.cnbc.com/2025/10/08/jim-cramer-breaks-down-major-sectors-economy.html) (Published: 2025-10-08)
