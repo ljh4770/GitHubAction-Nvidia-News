@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-09 11:14:57**_
+_Last updated: **2025-10-09 11:28:43**_
 
+- [(PR) ASUS ProArt and GoPro Join Forces to Streamline Creator Workflows with AI](https://www.techpowerup.com/341703/asus-proart-and-gopro-join-forces-to-streamline-creator-workflows-with-ai) (Published: 2025-10-08)
+- [Nvidia Invests in Musk’s xAI as Part of $20 Billion Funding](https://biztoc.com/x/23ca4cfa69308784) (Published: 2025-10-08)
 - [Voice AI Infrastructure Markets 2025-2029: Growth Outlook for Virtual Assistants, Conversational AI & Chatbots, Voice Biometrics & Authentication, Real-Time Speech Translation and More](https://www.globenewswire.com/news-release/2025/10/08/3163200/28124/en/Voice-AI-Infrastructure-Markets-2025-2029-Growth-Outlook-for-Virtual-Assistants-Conversational-AI-Chatbots-Voice-Biometrics-Authentication-Real-Time-Speech-Translation-and-More.html) (Published: 2025-10-08)
 - [AI in Transportation Market Sizing, Analysis and Industry Outlook 2025-2029 for Autonomous Vehicles, Traffic Management, Freight Management, Predictive Maintenance, and Other Applications](https://www.globenewswire.com/news-release/2025/10/08/3163199/28124/en/AI-in-Transportation-Market-Sizing-Analysis-and-Industry-Outlook-2025-2029-for-Autonomous-Vehicles-Traffic-Management-Freight-Management-Predictive-Maintenance-and-Other-Applicatio.html) (Published: 2025-10-08)
 - [Morning News: October 8, 2025](https://www.crossingwallstreet.com/archives/2025/10/morning-news-october-8-2025.html) (Published: 2025-10-08)
@@ -8,5 +10,3 @@ _Last updated: **2025-10-09 11:14:57**_
 - [Nvidia reportedly to invest up to $2bn in Elon Musk’s xAI](https://biztoc.com/x/e1fc7338b7144d0b) (Published: 2025-10-08)
 - [Dow Jones Futures: Stocks Weather Oracle News; Tesla Skids On Cheap Model Y](https://biztoc.com/x/0baaa86f2d96e8dc) (Published: 2025-10-08)
 - [Nvidia and Intel could win the AI PC war with this secret weapon](https://www.pcworld.com/article/2928599/nvidia-and-intel-could-win-the-ai-pc-war-with-this-secret-weapon.html) (Published: 2025-10-08)
-- [Left 4 Dead 2 RTX NTD Remakes the No Mercy Campaign with RTX Remix](https://wccftech.com/left-4-dead-2-rtx-ntd-remakes-no-mercy-campaign-rtx-remix/) (Published: 2025-10-08)
-- [U.S. stock futures today, October 8, 2025: Dow, S&P 500, Nasdaq flat amid AI bubble fears as gold surges past $4,000 — check which stocks are surging and sinking now](https://economictimes.indiatimes.com/news/international/us/u-s-stock-futures-today-october-8-2025-dow-sp-500-nasdaq-flat-amid-ai-bubble-fears-as-gold-surges-past-4000-check-which-stocks-are-surging-and-sinking-now/articleshow/124383646.cms) (Published: 2025-10-08)
