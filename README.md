@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-09 19:25:27**_
+_Last updated: **2025-10-09 19:37:34**_
 
+- [Harvard economist's dire warning: Without data centers, US GDP grew only 0.1% in H1 2025](https://economictimes.indiatimes.com/news/international/us/harvard-economists-dire-warning-without-data-centers-us-gdp-grew-only-0-1-in-h1-2025/articleshow/124396579.cms) (Published: 2025-10-08)
+- [Rogers and Lumen Shares Are Soaring, What You Need To Know](https://finance.yahoo.com/news/rogers-lumen-shares-soaring-know-192554264.html) (Published: 2025-10-08)
 - [Jensen Huang says Trump's H-1B changes would've prevented his family from immigrating (Jaures Yip/CNBC)](https://www.memeorandum.com/251008/p99) (Published: 2025-10-08)
 - [This Is How the AI Bubble Bursts](https://insights.som.yale.edu/insights/this-is-how-the-ai-bubble-bursts) (Published: 2025-10-08)
 - [Save 20% Off the Google Streamer 4K for October Prime Day (The Best Android Streaming Device Under $100)](https://www.ign.com/articles/google-streamer-4k-deal-for-october-prime-day) (Published: 2025-10-08)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-09 19:25:27**_
 - [Financial institutions sound warning about an AI bubble](https://apnews.com/article/ai-bubble-warnings-bank-of-england-imf-b15e54f6d06992371ee39b27f4e6da3a) (Published: 2025-10-08)
 - [Jamie Dimon has blunt call on the stock market](https://www.thestreet.com/investing/jamie-dimon-has-blunt-call-on-the-stock-market-) (Published: 2025-10-08)
 - [Jensen Huang says Trump's H-1B changes would've prevented his family from immigrating](https://www.cnbc.com/2025/10/08/jensen-huang-h1b-immigration-trump.html) (Published: 2025-10-08)
-- [Nvidia CEO drops bombshell on 68-year-old chip giant](https://biztoc.com/x/682421a1f5a0640f) (Published: 2025-10-08)
-- [Is there an AI bubble? Financial institutions sound a warning](https://abcnews.go.com/Technology/wireStory/ai-bubble-financial-institutions-sound-warning-126337473) (Published: 2025-10-08)
