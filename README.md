@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-09 04:50:28**_
+_Last updated: **2025-10-09 05:09:02**_
 
+- [Dollar Tiptoes Toward Two-Month High as Global Fiscal Woes Mount](https://biztoc.com/x/fa2c76d9f2d8332c) (Published: 2025-10-08)
+- [ECB’s Rehn Warns of Looming Downside Risks to Inflation Outlook](https://biztoc.com/x/204b2ddfa6f529aa) (Published: 2025-10-08)
+- [The European IT platform for AI-enabled defence and resilience](https://biztoc.com/x/db3e3d221256a581) (Published: 2025-10-08)
+- [How OpenAI’s AMD bet raises the stakes in GPU dominance](https://www.computerweekly.com/news/366632437/How-OpenAIS-AMD-bet-raises-the-stakes-in-GPU-dominance) (Published: 2025-10-08)
+- [He Helped Pioneer Short Activism. Now He’s Betting Against AI](https://biztoc.com/x/71ee528125e644c5) (Published: 2025-10-08)
+- [Morning Bid: Gold at $4K - Be afraid, be very afraid](https://biztoc.com/x/fd034c821ee316db) (Published: 2025-10-08)
+- [DBS CEO Tan Su Shan is Fortune’s most powerful woman in Asia; Josephine Teo among most influential](https://www.straitstimes.com/business/companies-markets/dbs-ceo-tan-su-shan-is-fortunes-most-powerful-woman-in-asia-josephine-teo-among-most-influential) (Published: 2025-10-08)
 - [Senate OKs Trump Envoy to Singapore After Contentious Vetting](https://biztoc.com/x/480100de00651fae) (Published: 2025-10-08)
 - [The recent wave of circular deals and partnerships involving Nvidia and OpenAI is escalating concerns that they are artificially propping up the $1T AI market](https://biztoc.com/x/2059bb5d8ba68a05) (Published: 2025-10-08)
 - [Sources: $TRUMP issuer, Fight Fight Fight LLC, is working to raise at least $200M to create a digital asset treasury company to accumulate the struggling token](https://biztoc.com/x/f7e40a7280249be3) (Published: 2025-10-08)
-- [Oracle's cloud business reportedly posts just 14% gross margin despite AI demand](https://www.digitimes.com/news/a20251008PD224/oracle-cloud-computing-business-gross-margin-revenue.html) (Published: 2025-10-08)
-- [How investors buy gold and what drives the market](https://biztoc.com/x/7be9dfad7dbb7f3d) (Published: 2025-10-08)
-- [Hubris at the Top Could Start a Major War](https://biztoc.com/x/a720a0c1fd7ec23f) (Published: 2025-10-08)
-- [Taiwan says private refiners willing to stop buying Russian naphtha](https://biztoc.com/x/2f2f06b47fd2e75d) (Published: 2025-10-08)
-- [Anthropic Opening Its First India Office to Tap AI Talent](https://biztoc.com/x/ab3a119c444468fa) (Published: 2025-10-08)
-- [Tech Earnings Are Around the Corner. What to Look for This Time](https://biztoc.com/x/acd1044a00d8a823) (Published: 2025-10-08)
-- [Death toll climbs to 15 after landslide hits bus in India's Himachal Pradesh](https://biztoc.com/x/01c432081f2b9d77) (Published: 2025-10-08)
