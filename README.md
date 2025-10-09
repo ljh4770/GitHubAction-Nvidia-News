@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-09 22:42:23**_
+_Last updated: **2025-10-09 22:52:55**_
 
+- [China's humanoid robot industry grows, but core processors remain foreign-controlled](https://www.digitimes.com/news/a20251007PD225/china-humanoid-robot-robotics-intel-nvidia.html) (Published: 2025-10-08)
 - [CoreWeave CEO pushes back against circular investment concerns](https://www.cnbc.com/2025/10/08/coreweave-ceo-pushes-back-against-circular-investment-concerns-.html) (Published: 2025-10-08)
 - [Jim Cramer breaks down three major sectors of this economy](https://www.cnbc.com/2025/10/08/jim-cramer-breaks-down-major-sectors-economy.html) (Published: 2025-10-08)
 - [Hitachi taps Nvidia AI for elevator inspections, reducing staffing needs](https://biztoc.com/x/da4ce980b3cecbe9) (Published: 2025-10-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-09 22:42:23**_
 - [PNY NVIDIA GeForce RTX 5080 EPIC-X RGB Overclocked Triple Fan 16GB GDDR7 + Arc Raiders Deluxe $979.99 (5 replies)](https://slickdeals.net/f/18682561-pny-nvidia-geforce-rtx-5080-epic-x-rgb-overclocked-triple-fan-16gb-gddr7-arc-raiders-deluxe-979-99) (Published: 2025-10-08)
 - [Gold’s rally could be the hedge investors need against big bets on AI: Macquarie](https://finance.yahoo.com/news/gold-rally-could-hedge-investors-220337575.html) (Published: 2025-10-08)
 - [‘Don’t be Stupid’: Why Grant Cardone Says Bitcoiners Shouldn’t Chase Gold’s Historic Rally](https://decrypt.co/343442/dont-be-stupid-why-grant-cardone-says-bitcoiners-shouldnt-chase-golds-historic-rally) (Published: 2025-10-08)
-- [U.S. Eyes New Chip Export Limits After $38 Billion China Sales Surge](https://finance.yahoo.com/news/u-eyes-chip-export-limits-215657186.html) (Published: 2025-10-08)
