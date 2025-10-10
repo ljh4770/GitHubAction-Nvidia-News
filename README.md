@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-10 19:13:44**_
+_Last updated: **2025-10-10 19:26:40**_
 
+- [Moderately bullish activity in NVIDIA with shares up 2.16%](https://thefly.com/permalinks/entry.php/id4211045/NVDA-Moderately-bullish-activity-in-NVIDIA-with-shares-up-) (Published: 2025-10-09)
+- [NVDA: Nvidia Stock Breaks New Record After Cantor Hikes Price Target to $300](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d4de039a-832d-4306-b28e-1fac23a6cf1a) (Published: 2025-10-09)
+- [New York Again Sues Meta, TikTok, and Other Platforms in Fight Over Social Media](https://biztoc.com/x/960a6960f24ccca6) (Published: 2025-10-09)
+- [US companies' profit growth seen softer, spotlight on AI spending](https://biztoc.com/x/56baf1d86863c18c) (Published: 2025-10-09)
+- [Instagram Is ‘Exploring’ a Dedicated TV App in Video Push](https://biztoc.com/x/dc3e5d65d7e19415) (Published: 2025-10-09)
+- [Nvidia Gets US Approval to Ship Chips to the UAE. Should You Buy NVDA Stock Here?](https://biztoc.com/x/62a42dc7ab1d46e4) (Published: 2025-10-09)
+- [Trump Gave Lithium Americas His ‘Magic Touch.’ This Analyst Still Says It’s Time to ‘Sell’ LAC Stock ASAP](https://biztoc.com/x/875b98f207564518) (Published: 2025-10-09)
 - [Intel Launches Breakthrough 18A PC Chip, Marking a New Era in Semiconductor Innovation](https://finance.yahoo.com/news/intel-launches-breakthrough-18a-pc-191143629.html) (Published: 2025-10-09)
 - [MercadoLibre Works With Brazil Regulators in a Push for Pharma](https://biztoc.com/x/50faa8bc480cac6d) (Published: 2025-10-09)
 - [The Takaichi Trade Isn’t Abenomics 2.0, and That’s OK](https://biztoc.com/x/8cf492d5d95ca2ce) (Published: 2025-10-09)
-- [Ex-Fed Official Sees Secular ‘Shocks’ Ahead From Extreme Weather](https://biztoc.com/x/b4caa251334eadf7) (Published: 2025-10-09)
-- [The US and China are more alike than you think](https://biztoc.com/x/b756839935c537ed) (Published: 2025-10-09)
-- [Nuveen CIO Says Odds In Favor of S&P 500 Rallying Into Year-End](https://biztoc.com/x/4b89f1ae36e1b435) (Published: 2025-10-09)
-- [Shares of This Food-Delivery Robot Maker Are Soaring. What DoorDash Has to Do With It](https://biztoc.com/x/59a9a116f5ac78c1) (Published: 2025-10-09)
-- [Japan's LDP could lose 20% of single-member seats without Komeito](https://biztoc.com/x/440c235d163f2553) (Published: 2025-10-09)
-- [(PR) Microsoft Azure Unveils World's First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI](https://www.techpowerup.com/341752/microsoft-azure-unveils-worlds-first-nvidia-gb300-nvl72-supercomputing-cluster-for-openai) (Published: 2025-10-09)
-- [Bessent Says $20 Billion US-Argentina Currency Swap Finalized](https://biztoc.com/x/a40ca683e9364a5f) (Published: 2025-10-09)
