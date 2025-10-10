@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-10 21:48:20**_
+_Last updated: **2025-10-10 21:58:45**_
 
+- [Nvidia backs $180M round for workflow automation startup n8n](https://siliconangle.com/2025/10/09/nvidia-backs-180m-round-workflow-automation-startup-n8n/) (Published: 2025-10-09)
 - [Israel Implements Ceasefire After Hostage Deal With Hamas](https://biztoc.com/x/7427b09cb00ede78) (Published: 2025-10-09)
 - [Starmer Sees No Future Role in UK Government for Peter Mandelson](https://biztoc.com/x/6b9e2b8e0c975da8) (Published: 2025-10-09)
 - [France’s Power Brokers Jockey as Macron Tries to Forge Coalition](https://biztoc.com/x/421b406f9594bf1f) (Published: 2025-10-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-10 21:48:20**_
 - [Planet Labs is using AI & Nvidia chips to power new satellite images](https://finance.yahoo.com/video/planet-labs-using-ai-nvidia-212648298.html) (Published: 2025-10-09)
 - [IAEA: process started to restore external power to Ukraine's Zaporizhzhia nuclear plant](https://biztoc.com/x/d418a85185d6b8ef) (Published: 2025-10-09)
 - [Can OnlyFans Finally Go Mainstream?](https://biztoc.com/x/8c5fd436c829a6b6) (Published: 2025-10-09)
-- [Show HN: I Built Claude Code for CUDA in 18 Hours (Open Source)](https://github.com/RightNow-AI/rightnow-cli) (Published: 2025-10-09)
