@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-10 14:51:59**_
+_Last updated: **2025-10-10 15:11:43**_
 
+- [S&P 500 Fluctuates as Traders Weigh Earnings From Delta, PepsiCo](https://financialpost.com/pmn/business-pmn/sp-500-fluctuates-as-traders-weigh-earnings-from-delta-pepsico) (Published: 2025-10-09)
+- [Nvidia-backed Reflection AI raises $2 billion in funding, boosts valuation to $8 billion](https://biztoc.com/x/60cbf44db7560545) (Published: 2025-10-09)
+- [Nvidia-backed Reflection AI raises $2 billion in funding, boosts valuation to $8 billion](https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-backed-reflection-ai-raises-2-billion-in-funding-boosts-valuation-to-8-billion/articleshow/124424065.cms) (Published: 2025-10-09)
+- [Nvidia-backed Reflection AI raises $2 billion in funding, boosts valuation to $8 billion](https://economictimes.indiatimes.com/tech/funding/nvidia-backed-reflection-ai-raises-2-billion-in-funding-boosts-valuation-to-8-billion/articleshow/124423959.cms) (Published: 2025-10-09)
+- [Battlefield 6 review](https://www.rockpapershotgun.com/battlefield-6-review) (Published: 2025-10-09)
+- [(2025.10.10) (various)](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2025/10.html#20251010_various) (Published: 2025-10-09)
+- [Nvidia-backed Reflection AI raises $2 billion in funding, boosts valuation to $8 billion](https://finance.yahoo.com/news/nvidia-backed-reflection-ai-raises-145954729.html) (Published: 2025-10-09)
+- [Intel talks gaming on new Panther Lake integrated 12-core GPUs](https://www.pcworld.com/article/2936598/intel-talks-gaming-on-new-panther-lake-integrated-12-core-gpus.html) (Published: 2025-10-09)
+- [Jim Cramer on NVIDIA’s CEO: “Why the Heck Wouldn’t I Believe Him”](https://finance.yahoo.com/news/jim-cramer-nvidia-ceo-why-145805114.html) (Published: 2025-10-09)
 - [AMD could beat Nvidia to launching AI GPUs on the cutting-edge 2nm node — Instinct MI450 is officially the first AMD GPU to launch with TSMC's finest tech](https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-could-beat-nvidia-to-launching-ai-gpus-on-the-cutting-edge-2nm-node-instinct-mi450-is-officially-the-first-amd-gpu-to-launch-with-tsmcs-finest-tech) (Published: 2025-10-09)
-- [Nvidia Corporation (NVDA) Rated as ‘Overweight’ at KeyBanc amid Booming Business](https://finance.yahoo.com/news/nvidia-corporation-nvda-rated-overweight-144817756.html) (Published: 2025-10-09)
-- [AMD stock today: Up 43% so far this month — Could shares hit $450 soon? Should investors rush in now or is this AI-driven surge just a mirage?](https://economictimes.indiatimes.com/news/international/us/amd-stock-today-up-43-so-far-this-month-could-amd-shares-really-hit-450-soon-should-investors-jump-in-now-or-is-this-surge-an-ai-bubble-mirage/articleshow/124421115.cms) (Published: 2025-10-09)
-- [Intel Expands U.S. Manufacturing With Fab 52, Reveals Panther Lake Platform](https://www.storagereview.com/news/intel-expands-u-s-manufacturing-with-fab-52-reveals-panther-lake-platform) (Published: 2025-10-09)
-- [20VC + SaaStr is Back!! OpenAI’s Power Move: How Sam Altman Extracted 10% of AMD, Why $5B Pre-Money Rounds Make Sense, and the New Math of Going Public](https://www.saastr.com/20vc-saastr-is-back-openais-power-move-how-sam-altman-extracted-10-of-amd-why-5b-pre-money-rounds-make-sense-and-the-new-math-of-going-public/) (Published: 2025-10-09)
-- [Intel gives first look at next-gen chips, says Arizona fab is fully operational](https://www.cnbc.com/2025/10/09/intel-chips-panther-lake-clearwater-forest.html) (Published: 2025-10-09)
-- [Nvidia RTX 5090s keep melting power connections despite colored plugs](https://www.pcworld.com/article/2936663/rtx-5090-cards-keep-melting-power-connections-despite-colored-plugs.html) (Published: 2025-10-09)
-- [Intel's Xe3 graphics architecture breaks cover — Panther Lake's 12 Xe Core iGPU promises 50+% better performance than Lunar Lake](https://www.tomshardware.com/pc-components/gpus/intels-xe3-graphics-architecture-breaks-cover-panther-lakes-12-xe-core-igpu-promises-50-percent-better-performance-than-lunar-lake) (Published: 2025-10-09)
-- [Gold And Silver: Where Next For Precious Metals?](https://www.forbes.com/sites/digital-assets/2025/10/09/gold-and-silver-where-next-for-precious-metals/) (Published: 2025-10-09)
-- [Prediction: While Nvidia Leads, This Lesser-Known AI Stock Could Catch Up](https://biztoc.com/x/5d95f91749fee85b) (Published: 2025-10-09)
