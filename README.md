@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-10 23:42:38**_
+_Last updated: **2025-10-10 23:53:03**_
 
 - [YMMV: HP OMEN - 35L Gaming Desktop - AMD Ryzen 7 8700F - 32GB DDR5 Memory - NVIDIA GeForce RTX 5070 - 1TB SSD - Panda Metal - Open Box $1325.99 (0 replies)](https://slickdeals.net/f/18686512-ymmv-hp-omen-35l-gaming-desktop-amd-ryzen-7-8700f-32gb-ddr5-memory-nvidia-geforce-rtx-5070-1tb-ssd-panda-metal-open-box-1325-99) (Published: 2025-10-09)
 - [NVIDIA Blackwell Leads on SemiAnalysis InferenceMAX™ v1 Benchmarks](https://developer.nvidia.com/blog/nvidia-blackwell-leads-on-new-semianalysis-inferencemax-benchmarks/) (Published: 2025-10-09)
