@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-10 11:28:12**_
+_Last updated: **2025-10-10 11:40:00**_
 
+- [U.S. finally grants Nvidia license to ship AI GPUs to UAE: 500,000 Blackwell GPUs coming to the Gulf region](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region) (Published: 2025-10-09)
 - [China and Global Robot Controllers (Brain & Cerebellum) Research Report 2025: Brain-Cerebellum Integration Becomes a Trend, and Automotive-Grade Chips Migrate to Robots](https://www.globenewswire.com/news-release/2025/10/09/3164034/28124/en/China-and-Global-Robot-Controllers-Brain-Cerebellum-Research-Report-2025-Brain-Cerebellum-Integration-Becomes-a-Trend-and-Automotive-Grade-Chips-Migrate-to-Robots.html) (Published: 2025-10-09)
 - [Morgan Stanley's Lisa Shalett Says Nvidia At the Center Of A Possible 'Cisco Moment' For AI In 24 Months: 'Not Going To Be Pretty'](https://biztoc.com/x/660007ca4db7dee8) (Published: 2025-10-09)
 - [Gaza ceasefire plan advances and the two cities fighting Trump's troop orders: Morning Rundown](https://www.nbcnews.com/news/us-news/gaza-ceasefire-plan-advances-two-cities-fighting-trumps-troop-orders-m-rcna236576) (Published: 2025-10-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-10 11:28:12**_
 - [(PR) Amkor Technology Starts Construction on $7 Billion Arizona Advanced Packaging Facility](https://www.techpowerup.com/341736/amkor-technology-starts-construction-on-usd-7-billion-arizona-advanced-packaging-facility) (Published: 2025-10-09)
 - [Gigabyte Gaming A16 review](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-gaming-a16-gaming-laptop-review/) (Published: 2025-10-09)
 - [US stock futures: Dow, S&P 500, Nasdaq steady after record highs as gold nears $4,100, Nvidia gains export boost, TSMC revenue surges 30% — is a Fed rate cut next?](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-today-dow-sp-500-nasdaq-steady-after-record-highs-as-gold-nears-4100-nvidia-gains-export-boost-tsmc-revenue-surges-30-is-a-fed-rate-cut-next/articleshow/124412319.cms) (Published: 2025-10-09)
-- [nsys2prv 0.6.0.dev2510091](https://pypi.org/project/nsys2prv/0.6.0.dev2510091/) (Published: 2025-10-09)
