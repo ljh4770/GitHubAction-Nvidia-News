@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-10 15:43:06**_
+_Last updated: **2025-10-10 15:53:42**_
 
-- [Netflix Is Adding Lego, Pictionary, and Tetris Party Games to Play on Your TV](https://me.pcmag.com/en/game-streaming-services/32788/netflix-is-adding-lego-pictionary-and-tetris-party-games-to-play-on-your-tv) (Published: 2025-10-09)
-- [Netflix Is Adding Lego, Pictionary, and Tetris Party Games to Play on Your TV](https://uk.pcmag.com/game-streaming-services/160625/netflix-is-adding-lego-pictionary-and-tetris-party-games-to-play-on-your-tv) (Published: 2025-10-09)
-- [Nvidia stock climbs amid reported UAE export approval, Wall Street price target raise: 'This is not a bubble'](https://finance.yahoo.com/news/nvidia-stock-climbs-amid-reported-uae-export-approval-wall-street-price-target-raise-this-is-not-a-bubble-154018275.html) (Published: 2025-10-09)
-- [Nvidia Gains As US Greenlights Major AI Deal With UAE](https://biztoc.com/x/3376540356885452) (Published: 2025-10-09)
-- [Top AI Stocks You Should Buy to Rejuvenate Your Portfolio](https://finance.yahoo.com/news/top-ai-stocks-buy-rejuvenate-153600347.html) (Published: 2025-10-09)
-- [Gartner warns agentic AI startups: Prepare to be consolidated](https://www.theregister.com/2025/10/09/gartner_agentic_ai_correction/) (Published: 2025-10-09)
-- [Here Are Some Of The Biggest Winners Of This Year’s AI Infrastructure Boom](https://biztoc.com/x/9de8feb200f96a12) (Published: 2025-10-09)
-- [Jim Cramer on NVIDIA’s CEO: “Why the Heck Wouldn’t I Believe Him”](https://biztoc.com/x/bbf0859b1b1694c1) (Published: 2025-10-09)
-- [Rated as ‘Overweight’ at KeyBanc amid Booming Business](https://biztoc.com/x/d409cb2503a58646) (Published: 2025-10-09)
+- [Radeon RX 9070 XT Demolishes RTX 5070 Ti In Call Of Duty: Black Ops 7; Delivers 31% Higher Performance At 1440p](https://wccftech.com/radeon-rx-9070-xt-demolishes-rtx-5070-ti-in-call-of-duty-black-ops-7/) (Published: 2025-10-09)
+- [Nvidia stock climbs amid reported UAE export approval, Wall Street price target raise: 'This is not a bubble'](https://biztoc.com/x/047aea634e5454eb) (Published: 2025-10-09)
+- [Germany to Spend €3 Billion Earmarked for Chip Industry on Roads](https://biztoc.com/x/6b3cba624f18323b) (Published: 2025-10-09)
+- [Once Mocked, Gold’s True Believers Are Having Their Big Moment](https://biztoc.com/x/00b17a17b0655687) (Published: 2025-10-09)
+- [Updates From Bloomberg Screentime 2025](https://biztoc.com/x/ce632aeb9d8d0c2a) (Published: 2025-10-09)
+- [Why Wall Street Analysts Say We’re Not in an AI Bubble… Yet](https://biztoc.com/x/dfb3dc38c5e2969a) (Published: 2025-10-09)
+- [What’s Ahead for the US Electric Vehicle Industry After Hitting a Massive Speed Bump?](https://biztoc.com/x/59cfb34c4defa03c) (Published: 2025-10-09)
+- [Is Nvidia Stock a Buy as AI Demand Soars?](https://biztoc.com/x/eaa67b1739eeade3) (Published: 2025-10-09)
+- [Nvidia CEO Is Surprised by AMD’s OpenAI Equity Move: What’s in Store for NVDA Stock?](https://biztoc.com/x/16a3796834038972) (Published: 2025-10-09)
+- [Treasury's Bessent signals support for lifting deposit insurance limits](https://biztoc.com/x/4e59255466845aff) (Published: 2025-10-09)
