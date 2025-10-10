@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-10 04:38:58**_
+_Last updated: **2025-10-10 04:50:02**_
 
+- [US approves some Nvidia UAE sales, Bloomberg News reports](https://economictimes.indiatimes.com/tech/technology/us-approves-some-nvidia-uae-sales-bloomberg-news-reports/articleshow/124405043.cms) (Published: 2025-10-09)
 - [US approves some Nvidia UAE sales, Bloomberg News reports](https://finance.yahoo.com/news/us-approves-nvidia-uae-sales-043216841.html) (Published: 2025-10-09)
 - [The Intersection of Cryptocurrency Regulation and Foreign Policy Is Testing Conflict-of-Interest Rules](https://clsbluesky.law.columbia.edu/2025/10/09/the-intersection-of-cryptocurrency-regulation-and-foreign-policy-is-testing-conflict-of-interest-rules/) (Published: 2025-10-09)
 - [SoftBank’s Graphcore plans $1.3 billion chip investment in India](https://economictimes.indiatimes.com/tech/technology/softbanks-graphcore-plans-1-3-billion-chip-investment-in-india/articleshow/124404096.cms) (Published: 2025-10-09)
@@ -9,4 +10,3 @@ _Last updated: **2025-10-10 04:38:58**_
 - [Asia Defies Slowdown Fears as AMRO Lifts Economic Growth Outlook](https://biztoc.com/x/a9abc850ff8c0164) (Published: 2025-10-09)
 - [First Brands creditor warns as much as $2.3bn has ‘simply vanished’](https://biztoc.com/x/0d52b00ddae138e0) (Published: 2025-10-09)
 - [US Approves Some Nvidia UAE Sales In Step of Trump AI Diplomacy](https://biztoc.com/x/94d766648149c23c) (Published: 2025-10-09)
-- [Franco-Nevada plans to expand gold business in Australia, CEO says](https://biztoc.com/x/a4779a76d07fc8f7) (Published: 2025-10-09)
