@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-10 20:41:40**_
+_Last updated: **2025-10-10 20:52:21**_
 
+- [Trump’s Drive to Broker a Gaza Ceasefire Pays Off](https://biztoc.com/x/6e5cf2a03c348425) (Published: 2025-10-09)
+- [IRS makes changes that will affect your taxes this year and next](https://biztoc.com/x/535f36eaad5d6bc4) (Published: 2025-10-09)
+- [Federal Prosecutors Are Looking Into First Brands Collapse](https://biztoc.com/x/15c219ca26878d6f) (Published: 2025-10-09)
+- [Stocks Falter as Higher Bond Yields Spark Long Liquidation](https://biztoc.com/x/fef57ee8593630c9) (Published: 2025-10-09)
+- [BP wins arbitration case against Venture Global over LNG cargoes](https://biztoc.com/x/d1cf726dff27686e) (Published: 2025-10-09)
+- [Stocks, Gold Pull Back as Shutdown Uncertainty Persists](https://biztoc.com/x/cfd3c1e2fcb43dec) (Published: 2025-10-09)
+- [Mexico to discuss tariff hikes with China and others before making law](https://biztoc.com/x/2e9884f78a77124b) (Published: 2025-10-09)
+- [How Nick Kavallieratos Helps Clients Navigate Life Changes](https://biztoc.com/x/8a911362a1e3a911) (Published: 2025-10-09)
+- [Levi Raises Full-Year Outlook Despite Rising Tariff Impact](https://biztoc.com/x/2c789783754e30fa) (Published: 2025-10-09)
 - [China Moves to Limit Rare Earth Exports. These Mining Stocks Are Gaining](https://biztoc.com/x/093a2ca8c153f036) (Published: 2025-10-09)
-- ['Elizabeth Warren Protégé' Katie Porter Branded Crypto Hater By Tyler Winklevoss](https://finance.yahoo.com/news/elizabeth-warren-prot-g-katie-203106937.html) (Published: 2025-10-09)
-- [Aegon’s Junk Debt Chief Braces for Credit Pain as Cracks Spread](https://biztoc.com/x/8b9ad59f474e8379) (Published: 2025-10-09)
-- [Levi Strauss lifts annual sales, profit forecasts on resilient denim demand](https://biztoc.com/x/3ec04153a45472f6) (Published: 2025-10-09)
-- [Codelco Posts Worst Monthly Copper Output in Decades on Accident](https://biztoc.com/x/0a60b1a0544d30a8) (Published: 2025-10-09)
-- [Raymond James Recruits Ex-Commonwealth Advisors Who Managed $1.7 Billion](https://biztoc.com/x/bdf2ba101df6b418) (Published: 2025-10-09)
-- [4 High-Reward, Low-Risk Ways to Profit From the Record Rally in Gold Prices](https://biztoc.com/x/3470c22ccc4b0502) (Published: 2025-10-09)
-- [Sabalenka's Wuhan winning streak reaches 19 matches. Swiatek and Gauff also advance](https://biztoc.com/x/39f775d91f1dfa21) (Published: 2025-10-09)
-- [YouTube launches a pilot program to give terminated creators a “second chance” by letting them apply to create a new channel](https://biztoc.com/x/83c5bb01a679835d) (Published: 2025-10-09)
-- [Trump floats dropping Spain from NATO alliance](https://biztoc.com/x/23ead7efa0b7805e) (Published: 2025-10-09)
