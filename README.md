@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-10 21:10:38**_
+_Last updated: **2025-10-10 21:26:33**_
 
-- [5 Best Dividend Stocks To Buy Now In October 2025](https://www.forbes.com/sites/investor-hub/article/5-best-dividend-stocks-to-buy-now-in-october-2025/) (Published: 2025-10-09)
-- [Venture Global Suffers Defeat in BP’s LNG Arbitration](https://biztoc.com/x/57c853808fbb951b) (Published: 2025-10-09)
-- [Sources: crypto investor Roger Ver, aka “Bitcoin Jesus”, has reached a tentative agreement with the US DOJ to pay ~$48M to end a 2024 criminal tax fraud case](https://biztoc.com/x/b09f8082b7638a8f) (Published: 2025-10-09)
-- [Warren Asks Hedge Fund Group If It Played Argentina Bailout Role](https://biztoc.com/x/307882677481c389) (Published: 2025-10-09)
-- [Peru’s Largest Congressional Bloc Backs Ousting Boluarte](https://biztoc.com/x/fc1e539be5cdb1d5) (Published: 2025-10-09)
-- [Trump Floats Throwing Spain Out of NATO Over Defense Spending](https://biztoc.com/x/6fbe228803423bd0) (Published: 2025-10-09)
-- [Brazil's Petrobras set to deliver 20% of country's total demand for nitrogen fertilizers, CEO says](https://biztoc.com/x/a1abc00865895d1c) (Published: 2025-10-09)
-- [ICE Wants to Buy More Buildings in Chicago as Crackdown Expands](https://biztoc.com/x/30710ab5b63dc5b5) (Published: 2025-10-09)
-- [Wendy’s Has a Plan to Reignite Growth. Investors Are on the Sidelines](https://biztoc.com/x/4ddca181f6cd19a8) (Published: 2025-10-09)
+- [IAEA: process started to restore external power to Ukraine's Zaporizhzhia nuclear plant](https://biztoc.com/x/d418a85185d6b8ef) (Published: 2025-10-09)
+- [Can OnlyFans Finally Go Mainstream?](https://biztoc.com/x/8c5fd436c829a6b6) (Published: 2025-10-09)
+- [Show HN: I Built Claude Code for CUDA in 18 Hours (Open Source)](https://github.com/RightNow-AI/rightnow-cli) (Published: 2025-10-09)
+- [Lilbits: Intel shifts strategy on open source contributions, Ubuntu 25.10 released, and TiVo exits the DVR business](https://liliputing.com/lilbits-intel-shifts-strategy-on-open-source-contributions-ubuntu-25-10-released-and-tivo-exits-the-dvr-business/) (Published: 2025-10-09)
+- [Can Anything Stop Vietnam’s Turbocharged Growth?](https://biztoc.com/x/76180c4a6adf6df9) (Published: 2025-10-09)
+- [Taylor Swift’s new album is her novelty Oreo play](https://biztoc.com/x/6f2a690cd0465e28) (Published: 2025-10-09)
+- [Debasement Trade Devotees Face a Unique Risk When it Comes to Bitcoin](https://biztoc.com/x/57bc90a8559dbbba) (Published: 2025-10-09)
+- [IRS No Longer Says Furloughed Workers Will Get Back Pay](https://biztoc.com/x/05ed258042180cab) (Published: 2025-10-09)
+- [Texas Oil Driller Taps Trump’s Team to Save California Crude Project](https://biztoc.com/x/845c49c1749a46bf) (Published: 2025-10-09)
+- [Japan's Takaichi faces fiscal policy tightrope in economy revival quest](https://biztoc.com/x/388ce123b2853620) (Published: 2025-10-09)
