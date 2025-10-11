@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-11 20:31:09**_
+_Last updated: **2025-10-11 20:41:53**_
 
+- [Stocks slump after Trump threatens to hit China with more tariffs](https://www.cbsnews.com/news/stocks-today-trump-china-tariffs-dow-nasdaq-s-p-500/) (Published: 2025-10-10)
 - [Will Trump Win The Nobel Peace Prize? Crypto Bettors Don't Think So, Favor Venezuela's María Corina Machado Instead](https://finance.yahoo.com/news/trump-win-nobel-peace-prize-203020094.html) (Published: 2025-10-10)
 - [AI export control bill passes Senate as NDAA amendment](https://www.nextgov.com/artificial-intelligence/2025/10/ai-export-control-bill-passes-senate-ndaa-amendment/408762/) (Published: 2025-10-10)
 - [Lenovo Legion 7i Gen 10](https://thegadgetflow.com/product/lenovo-legion-7i-gen-10-16-inch-intel-gaming-laptop/) (Published: 2025-10-10)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-11 20:31:09**_
 - [Is this the best smart monitor for home entertainment? My verdict after a week of testing](https://www.zdnet.com/home-and-office/is-this-the-best-smart-monitor-for-home-entertainment-my-verdict-after-a-week-of-testing/) (Published: 2025-10-10)
 - [Nvidia is giving away two free RTX 5080 GPUs signed by CEO Jensen Huang](https://www.notebookcheck.net/Nvidia-is-giving-away-two-free-RTX-5080-GPUs-signed-by-CEO-Jensen-Huang.1135807.0.html) (Published: 2025-10-10)
 - [Intel's 50% Rebound: Trump, Nvidia, and Apple Just Flipped the Script](https://finance.yahoo.com/news/intels-50-rebound-trump-nvidia-193811011.html) (Published: 2025-10-10)
-- [Stock Market Warning Signs That I’m Trying to Ignore, from AI Polyamory to a Meme Fund Rebirth](https://biztoc.com/x/4a29b47cfb6c6191) (Published: 2025-10-10)
