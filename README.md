@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-11 19:23:03**_
+_Last updated: **2025-10-11 19:34:42**_
 
+- [This DIY Icy PC Gaming Build Will Give You Serious Chills](https://hothardware.com/news/this-diy-icy-pc-gaming-build-will-give-you-serious-chills) (Published: 2025-10-10)
+- [Nvidia, Microsoft, and OpenAI: This Chart Captures AI’s ‘Circular Financing.’](https://biztoc.com/x/dbb51ff953e373a2) (Published: 2025-10-10)
+- [Gavin Newsom Stares Down LA Revolt in California Housing Fight](https://biztoc.com/x/d856bdcdc1848ac9) (Published: 2025-10-10)
+- [Investors pour record $3.5 billion into space as investors look beyond big names, report says](https://biztoc.com/x/7a76edca4281457c) (Published: 2025-10-10)
+- [Fed should 'tread with caution' on rate cuts, Musalem says](https://biztoc.com/x/8843601b0eec7e1c) (Published: 2025-10-10)
+- [Education Department begins layoffs amid government shutdown](https://biztoc.com/x/5aeff1ee0396d545) (Published: 2025-10-10)
+- [Investors See Peru’s Star Economy Unscathed by Political Chaos](https://biztoc.com/x/0120cfca0347a5c4) (Published: 2025-10-10)
+- [Nat-Gas Prices Decline on Ample Storage and Warmer US Weather](https://biztoc.com/x/f157fdb6e0bdc67f) (Published: 2025-10-10)
+- [Blast at a Tennessee explosives plant leaves multiple people dead and missing, sheriff says](https://biztoc.com/x/e3eafce462ac6fb1) (Published: 2025-10-10)
 - [Battlefield 6 PC Performance Benchmarks: Wreck Havoc & Break Stuff With Solid Performance On All GPUs](https://wccftech.com/battlefield-6-pc-performance-benchmarks-wreck-havoc-break-stuff-with-solid-performance-on-all-gpus/) (Published: 2025-10-10)
-- [Beyond gold: How to invest in Silver, Platinum and Palladium - the trio that could supercharge your portfolio](https://economictimes.indiatimes.com/news/international/us/beyond-gold-how-to-invest-in-silver-platinum-and-palladium-the-trio-that-could-supercharge-your-portfolio/articleshow/124462399.cms) (Published: 2025-10-10)
-- [InferenceMax AI benchmark tests software stacks, efficiency, and TCO — vendor-neutral suite runs nightly and tracks performance changes over time](https://www.tomshardware.com/tech-industry/inferencemax-ai-benchmark-tests-software-stacks-efficiency-and-tco-vendor-neutral-suite-runs-nightly-and-tracks-performance-changes-over-time) (Published: 2025-10-10)
-- [The Challenges of Fusion-Based Electricity for AI Datacenters](http://cacm.acm.org/news/the-challenges-of-fusion-based-electricity-for-ai-datacenters/) (Published: 2025-10-10)
-- [Gold’s Rally Reflects the U.S. Deficit. Neither Is Ending Soon](https://biztoc.com/x/2030648465d35c82) (Published: 2025-10-10)
-- [AI Isn’t the Dot-Com Bubble, but That Won’t Stop It From Ending Badly](https://biztoc.com/x/4493fc655da93d86) (Published: 2025-10-10)
-- [Should You Buy POM Stock After the PomDoctor IPO?](https://biztoc.com/x/e45be538092bd9f5) (Published: 2025-10-10)
-- [Dow shedding 650 points as stocks sell off on Trump's China tariff threat — live](https://biztoc.com/x/3eedc1771e088440) (Published: 2025-10-10)
-- [Trump-Linked Dominari Partners With Firm Backed by Binance Founder’s Family Office](https://biztoc.com/x/523aaef722913f33) (Published: 2025-10-10)
-- [The global trade war just came roaring back. Trump is playing with economic fire](https://biztoc.com/x/d7462cb1356f2b89) (Published: 2025-10-10)
