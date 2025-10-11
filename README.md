@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-11 03:34:12**_
+_Last updated: **2025-10-11 03:46:42**_
 
 - [Even after Stargate, Oracle, Nvidia, and AMD, OpenAI has more big deals coming soon, Sam Altman says - TechCrunch](https://slashdot.org/firehose.pl?op=view&amp;id=179737458) (Published: 2025-10-10)
 - [Anthony Scaramucci Says Republicans Will Control Country For A Generation If Democrats Keep Acting Like Bitcoin Critic Katie Porter](https://finance.yahoo.com/news/anthony-scaramucci-says-republicans-control-033109119.html) (Published: 2025-10-10)
