@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 21:42:32**_
+_Last updated: **2025-10-12 21:53:15**_
 
 - [Weekly Market Wrap: Pepsi, Tilray and Nvidia](https://biztoc.com/x/eb7b932f6bedc36b) (Published: 2025-10-11)
 - [Stacy Rasgon Says Nvidia (NVDA)-Open AI Deal Shows There’s ‘Shortage of Compute’ – ‘Customers Are Lining Up Years in Advance’](https://biztoc.com/x/d071bd423c956310) (Published: 2025-10-11)
