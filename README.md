@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 15:30:06**_
+_Last updated: **2025-10-12 15:40:54**_
 
 - [Stocks’ worst swoon since fallout from Liberation Day: Trump Truth Social post on ‘massive increase of tariffs’ shatters calm](https://fortune.com/2025/10/11/stocks-worst-day-since-april-sp-500-liberation-day-trade-war/) (Published: 2025-10-11)
 - [MSI MPG 271QR X50 QD-OLED Gaming Monitor Review: 500Hz & 80 Gbps Support With Built-In NPU Powered OLED Care 3.0](https://wccftech.com/review/msi-mpg-271qr-x50-qd-oled-gaming-monitor-review-500hz-80-gbps-support-with-built-in-npu-powered-oled-care-3-0/) (Published: 2025-10-11)
