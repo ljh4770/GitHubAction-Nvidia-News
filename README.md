@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 19:50:07**_
+_Last updated: **2025-10-12 20:00:16**_
 
 - [Nvidia, AMD Stocks Tumble as U.S. Senate Targets AI Chip Exports to China](https://finance.yahoo.com/news/nvidia-amd-stocks-tumble-u-194847523.html) (Published: 2025-10-11)
 - [Meta hires Thinking Machines Lab cofounder Andrew Tulloch](https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-hires-thinking-machines-lab-cofounder-andrew-tulloch/articleshow/124489605.cms) (Published: 2025-10-11)
