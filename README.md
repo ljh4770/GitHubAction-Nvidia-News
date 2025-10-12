@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 10:31:10**_
+_Last updated: **2025-10-12 10:42:21**_
 
 - [nvidia-nat-opentelemetry 1.4.0a20251011](https://pypi.org/project/nvidia-nat-opentelemetry/1.4.0a20251011/) (Published: 2025-10-11)
 - [nvidia-nat-phoenix 1.4.0a20251011](https://pypi.org/project/nvidia-nat-phoenix/1.4.0a20251011/) (Published: 2025-10-11)
