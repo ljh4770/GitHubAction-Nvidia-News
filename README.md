@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 20:39:02**_
+_Last updated: **2025-10-12 20:49:40**_
 
 - [nvidia-dali-nightly-cuda130 1.52.0.dev20251007](https://pypi.org/project/nvidia-dali-nightly-cuda130/1.52.0.dev20251007/) (Published: 2025-10-11)
 - [Lenovo LOQ (2025): 17.3" FHD IPS 165Hz, i5-13450HX, RTX 5050, 16GB DDR5, 1TB SSD $766.09 (3 replies)](https://slickdeals.net/f/18691603-lenovo-loq-2025-17-3-fhd-ips-165hz-i5-13450hx-rtx-5050-16gb-ddr5-1tb-ssd-766-09) (Published: 2025-10-11)
