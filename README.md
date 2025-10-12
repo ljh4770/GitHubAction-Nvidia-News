@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 22:30:54**_
+_Last updated: **2025-10-12 22:41:43**_
 
+- [Cantor Fitzgerald Reiterates Overweight on NVIDIA (NVDA), Says AI Demand Proves It’s “Not a Bubble”](https://biztoc.com/x/1fa64c55a9173e9d) (Published: 2025-10-11)
 - [AMD Stock Target Lifted to $270 by TD Cowen After Landmark OpenAI Deal](https://finance.yahoo.com/news/amd-stock-target-lifted-270-222412291.html) (Published: 2025-10-11)
 - [Cantor Fitzgerald Reiterates Overweight on NVIDIA (NVDA), Says AI Demand Proves It’s “Not a Bubble”](https://finance.yahoo.com/news/cantor-fitzgerald-reiterates-overweight-nvidia-222126853.html) (Published: 2025-10-11)
 - [Will Centuria Industrial REIT’s (ASX:CIP) Buy-Backs Reshape Its Capital Allocation Priorities?](https://finance.yahoo.com/news/centuria-industrial-reit-asx-cip-220938442.html) (Published: 2025-10-11)
