@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 17:29:39**_
+_Last updated: **2025-10-12 17:40:14**_
 
+- [What’s Next for Stocks and Treasuries After Trump’s Latest China Tariffs](https://biztoc.com/x/583b1129d6084535) (Published: 2025-10-11)
 - [Prescription drug coverage options are shrinking for Medicare shoppers](https://biztoc.com/x/2a877c4daff111c5) (Published: 2025-10-11)
 - [New tariff threats crush stocks during a big week for Nvidia and key portfolio moves](https://biztoc.com/x/0bf30becea4b7fa5) (Published: 2025-10-11)
 - [How Trump's Mass Transit Cuts Hit the Climate: Green Daily](https://biztoc.com/x/56454459e34d7211) (Published: 2025-10-11)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-12 17:29:39**_
 - [Behind the Collapse of an Auto-Parts Giant: a $2 Billion Hole and a Mysterious CEO](https://biztoc.com/x/64d7d3a24bba7c3d) (Published: 2025-10-11)
 - [Magnitude 5.7 earthquake strikes Ethiopia, GFZ Says](https://biztoc.com/x/6fde2c896a7c33c7) (Published: 2025-10-11)
 - [How TBPN's daily livestream became the preferred news show of tech insiders, as it taps into the “who's up, who's down” part of Silicon Valley culture](https://biztoc.com/x/7b60844e302bd334) (Published: 2025-10-11)
-- [Lenovo Legion Pro 7 OLED Gaming Laptop; Ultra 9 275HX, RTX 5070 Ti, 32GB RAM, 2TB SSD, Win 11 Pro; $1799.99 Microcenter $800 Off the Sale Price, $200 off previous lowest price](https://slickdeals.net/f/18691267-lenovo-legion-pro-7-oled-gaming-laptop-ultra-9-275hx-rtx-5070-ti-32gb-ram-2tb-ssd-win-11-pro-1799-99-microcenter-800-off-the-sale-price-200-off-previous-lowest-price) (Published: 2025-10-11)
