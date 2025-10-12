@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 17:40:14**_
+_Last updated: **2025-10-12 17:50:52**_
 
+- [PowerSpec G240 Gaming Desktop: i5-14400F, RTX 5060, 16GB DDR5-6000, 1TB SSD $799.99](https://slickdeals.net/f/18691393-powerspec-g240-gaming-desktop-i5-14400f-rtx-5060-16gb-ddr5-6000-1tb-ssd-799-99) (Published: 2025-10-11)
 - [What’s Next for Stocks and Treasuries After Trump’s Latest China Tariffs](https://biztoc.com/x/583b1129d6084535) (Published: 2025-10-11)
 - [Prescription drug coverage options are shrinking for Medicare shoppers](https://biztoc.com/x/2a877c4daff111c5) (Published: 2025-10-11)
 - [New tariff threats crush stocks during a big week for Nvidia and key portfolio moves](https://biztoc.com/x/0bf30becea4b7fa5) (Published: 2025-10-11)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-12 17:40:14**_
 - [Trump fires back at China’s rare earth mineral restrictions by threatening 100% tariffs | TechCrunch](https://techcrunch.com/2025/10/11/trump-fires-back-at-chinas-rare-earth-mineral-restrictions-by-threatening-100-tariffs/) (Published: 2025-10-11)
 - [Behind the Collapse of an Auto-Parts Giant: a $2 Billion Hole and a Mysterious CEO](https://biztoc.com/x/64d7d3a24bba7c3d) (Published: 2025-10-11)
 - [Magnitude 5.7 earthquake strikes Ethiopia, GFZ Says](https://biztoc.com/x/6fde2c896a7c33c7) (Published: 2025-10-11)
-- [How TBPN's daily livestream became the preferred news show of tech insiders, as it taps into the “who's up, who's down” part of Silicon Valley culture](https://biztoc.com/x/7b60844e302bd334) (Published: 2025-10-11)
