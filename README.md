@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 09:31:17**_
+_Last updated: **2025-10-12 09:41:21**_
 
 - [China's lesson for the US: it takes more than chips to win the AI race](https://finance.yahoo.com/news/chinas-lesson-us-takes-more-093000938.html) (Published: 2025-10-11)
 - [Exec at $270 billion Cisco started his career making $4/hour waiting tables—he says the experience ‘wires you differently’ and is a must for Gen Z](https://fortune.com/2025/10/11/cisco-chief-product-officer-jeetu-patel-rags-to-riches-service-industry-job-helped-rise-to-c-suite-lesson-for-gen-z/) (Published: 2025-10-11)
