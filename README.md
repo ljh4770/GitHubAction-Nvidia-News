@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 14:46:00**_
+_Last updated: **2025-10-12 14:56:00**_
 
 - [‘RIFs have begun’: Trump’s budget office escalates government shutdown with mass firings of federal workers](https://fortune.com/2025/10/11/mass-firings-federal-workers-government-shutdown-trump-vought/) (Published: 2025-10-11)
 - [Jim Cramer Says “I’ve Been Telling People to Just Buy NVIDIA”](https://biztoc.com/x/b46256294b034521) (Published: 2025-10-11)
