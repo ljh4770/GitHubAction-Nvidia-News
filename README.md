@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 02:17:50**_
+_Last updated: **2025-10-12 03:12:24**_
 
 - [What Is the One Trait That Makes for a Great Manager? You Might Be Surprised](https://biztoc.com/x/e791a6aa0051a479) (Published: 2025-10-11)
 - [Wall Street tumbles to its worst day since April after Trump threatens more tariffs on China](https://economictimes.indiatimes.com/news/international/global-trends/wall-street-tumbles-to-its-worst-day-since-april-after-trump-threatens-more-tariffs-on-china/articleshow/124469693.cms) (Published: 2025-10-11)
