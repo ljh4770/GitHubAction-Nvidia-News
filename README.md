@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 08:47:06**_
+_Last updated: **2025-10-12 08:57:16**_
 
 - [Who gets a Mac at work? Here's how companies decide](https://www.theregister.com/2025/10/11/who_gets_mac_at_work/) (Published: 2025-10-11)
 - [Inside Intel’s big bet to save US chipmaking – and itself](https://www.irishtimes.com/business/2025/10/11/inside-intels-big-bet-to-save-us-chipmaking-and-itself/) (Published: 2025-10-11)
