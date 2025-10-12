@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 04:37:42**_
+_Last updated: **2025-10-12 04:48:22**_
 
+- [Fear and vigilance rise as attacks on houses of worship intensify worldwide](https://biztoc.com/x/cb57f901cd5028fc) (Published: 2025-10-11)
 - [Google is the first company designated under the UK CMA's new powers; the designation is not a finding of wrongdoing and does not trigger any immediate changes](https://biztoc.com/x/b2662207349c1d94) (Published: 2025-10-11)
 - [Skytech Aqua Gaming Desktop: Ryzen 7 9800X3D, RTX 5070 Ti, 32GB DDR5, 2TB SSD $1789.97](https://slickdeals.net/f/18690136-skytech-aqua-gaming-desktop-ryzen-7-9800x3d-rtx-5070-ti-32gb-ddr5-2tb-ssd-1789-97) (Published: 2025-10-11)
 - [HSBC’s $14 Billion Deal Supercharges Exuberant Year in Hong Kong](https://biztoc.com/x/6c27f47c3eb35437) (Published: 2025-10-11)
@@ -9,4 +10,3 @@ _Last updated: **2025-10-12 04:37:42**_
 - [What Is the One Trait That Makes for a Great Manager? You Might Be Surprised](https://biztoc.com/x/e791a6aa0051a479) (Published: 2025-10-11)
 - [Wall Street tumbles to its worst day since April after Trump threatens more tariffs on China](https://economictimes.indiatimes.com/news/international/global-trends/wall-street-tumbles-to-its-worst-day-since-april-after-trump-threatens-more-tariffs-on-china/articleshow/124469693.cms) (Published: 2025-10-11)
 - [Wall Street tumbles to its worst day since April after Trump threatens more tariffs on China](https://economictimes.indiatimes.com/news/international/global-trends/wall-street-tumbles-to-its-worst-day-since-april-after-trump-threatens-more-tariffs-on-china/articleshow/124468559.cms) (Published: 2025-10-11)
-- [NFL is reviewing how concussion protocol was followed for Giants rookie QB Jaxson Dart](https://biztoc.com/x/3c3c825c6c3d3bd2) (Published: 2025-10-11)
