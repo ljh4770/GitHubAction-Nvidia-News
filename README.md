@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 19:18:29**_
+_Last updated: **2025-10-12 19:28:58**_
 
+- [Meta hires Thinking Machines Lab cofounder Andrew Tulloch](https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-hires-thinking-machines-lab-cofounder-andrew-tulloch/articleshow/124489605.cms) (Published: 2025-10-11)
 - [Trump’s dealmaking diplomacy grows fragile as China fires back](https://economictimes.indiatimes.com/news/international/global-trends/trumps-dealmaking-diplomacy-grows-fragile-as-china-fires-back/articleshow/124489246.cms) (Published: 2025-10-11)
 - [I got to see Intel Panther Lake up close this month, and it is the most important product Intel has ever produced](https://www.techradar.com/computing/i-got-to-see-intel-panther-lake-up-close-this-month-and-it-might-be-the-most-important-product-intel-has-ever-produced) (Published: 2025-10-11)
 - [Why Battlefield 6 Is Getting Rave Reviews And Is A Huge Hit On Steam](https://hothardware.com/news/why-battlefield-6-is-getting-rave-reviews-and-is-a-huge-hit-on-steam) (Published: 2025-10-11)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-12 19:18:29**_
 - [TSMC Could Be Barred From Selling Chips To the U.S. Under China’s Newest ‘Rare Earth’ Export Control Measures, Disrupting the AI Industry](https://wccftech.com/tsmc-could-be-barred-from-selling-chips-to-the-us-under-china-rare-earths-export-control/) (Published: 2025-10-11)
 - [PowerSpec G240 Gaming Desktop: i5-14400F, RTX 5060, 16GB DDR5-6000, 1TB SSD $799.99](https://slickdeals.net/f/18691393-powerspec-g240-gaming-desktop-i5-14400f-rtx-5060-16gb-ddr5-6000-1tb-ssd-799-99) (Published: 2025-10-11)
 - [What’s Next for Stocks and Treasuries After Trump’s Latest China Tariffs](https://biztoc.com/x/583b1129d6084535) (Published: 2025-10-11)
-- [Prescription drug coverage options are shrinking for Medicare shoppers](https://biztoc.com/x/2a877c4daff111c5) (Published: 2025-10-11)
