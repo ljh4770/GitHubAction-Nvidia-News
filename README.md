@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-12 13:28:35**_
+_Last updated: **2025-10-12 13:40:06**_
 
 - [Sam Altman-backed college startup Campus acquires Sizzle AI; hires Meta’s exec as technology head](https://economictimes.indiatimes.com/tech/startups/sam-altman-backed-college-startup-campus-acquires-sizzle-ai-hires-metas-exec-as-technology-head/articleshow/124479611.cms) (Published: 2025-10-11)
 - [Tariffs and AI Spending in Focus as Traders Brace For Earnings](https://financialpost.com/pmn/business-pmn/tariffs-and-ai-spending-in-focus-as-traders-brace-for-earnings) (Published: 2025-10-11)
