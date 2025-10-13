@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-13 11:16:32**_
+_Last updated: **2025-10-13 11:29:47**_
 
 - [Cerebras CEO Andrew Feldman says you can't 'build something extraordinary' working 38 hours a week](https://biztoc.com/x/ef6146d2ffe9f9d2) (Published: 2025-10-12)
 - [Cerebras CEO Andrew Feldman says you can't 'build something extraordinary' working 38 hours a week](https://www.businessinsider.com/ai-tech-ceo-work-life-balance-cerebras-ceo-andrew-feldman-2025-10) (Published: 2025-10-12)
