@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-13 22:36:16**_
+_Last updated: **2025-10-13 22:46:41**_
 
+- [India roundup: AI firms accelerate R&D expansion in India](https://www.digitimes.com/news/a20251009VL204/india-roundup-anthropic-expansion-graphcore-investment-market.html) (Published: 2025-10-12)
 - [From Adrenalin to Zoetrope: Albin Merle Mashes Up IWC Schaffhausen and Formula 1](https://www.stashmedia.tv/from-adrenalin-to-zoetrope-albin-merle-mashes-up-iwc-schaffhausen-and-formula-1/) (Published: 2025-10-12)
 - [Oracle’s AI empire runs on Nvidia, but the numbers don’t add up](https://biztoc.com/x/e53c79449ae41b87) (Published: 2025-10-12)
 - [What Does 'GTX' Mean On Nvidia Graphics Cards?](https://www.bgr.com/1988916/what-nvidia-gpu-graphics-card-gtx-means/) (Published: 2025-10-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-13 22:36:16**_
 - [China Markets Under Threat From Risk of Renewed US Trade War](https://finance.yahoo.com/news/china-markets-under-threat-risk-081845406.html) (Published: 2025-10-12)
 - [Markets Eye Stock Futures Trading After Trump’s Latest China Remarks](https://biztoc.com/x/f41901aefcf49570) (Published: 2025-10-12)
 - [After the AI boom: what might we be left with?](https://blog.robbowley.net/2025/10/12/after-the-ai-boom-what-might-we-be-left-with/) (Published: 2025-10-12)
-- [What to Know About the Battle for a Casino License in New York City](https://biztoc.com/x/829885b084860538) (Published: 2025-10-12)
