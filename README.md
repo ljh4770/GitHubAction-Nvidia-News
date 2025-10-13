@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-13 16:15:01**_
+_Last updated: **2025-10-13 16:41:06**_
 
 - [Did AMD Just Say Checkmate to Nvidia?](https://biztoc.com/x/261736edaeac5d05) (Published: 2025-10-12)
 - [Beijing blames US for raising trade tensions, defends rare earth curbs](https://www.yahoo.com/news/articles/beijing-blames-us-raising-trade-154355878.html) (Published: 2025-10-12)
