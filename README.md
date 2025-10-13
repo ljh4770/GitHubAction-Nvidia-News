@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-13 07:43:07**_
+_Last updated: **2025-10-13 07:53:28**_
 
+- [Bling it up: Dhanteras sales on the rise despite soaring prices](https://timesofindia.indiatimes.com/entertainment/events/bling-it-up-dhanteras-sales-on-the-rise-despite-soaring-prices/articleshow/124497111.cms) (Published: 2025-10-12)
 - [AMD’s Missing (Ultra Accelerator) Link (NASDAQ:AMD) - Seeking Alpha](https://slashdot.org/firehose.pl?op=view&amp;id=179760306) (Published: 2025-10-12)
 - [US-China trade war has a surprise victim — Jensen Huang's Nvidia; why is the leading AI chipmaker involved?](https://www.livemint.com/companies/news/uschina-trade-war-has-a-surprise-victim-jensen-huangs-nvidia-why-is-the-leading-ai-chipmaker-involved-11760248890743.html) (Published: 2025-10-12)
 - [Battlefield 6 runs at up to 80 FPS on this $200 GPU from 2019, without FSR or XeSS](https://www.notebookcheck.net/Battlefield-6-runs-at-up-to-80-FPS-on-this-200-GPU-from-2019-without-FSR-or-XeSS.1136494.0.html) (Published: 2025-10-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-13 07:43:07**_
 - [mlx-nanocodec added to PyPI](https://pypi.org/project/mlx-nanocodec/) (Published: 2025-10-12)
 - [Sources: xAI is building world models for use in gaming and robotics, and has hired two AI researchers, Zeeshan Patel and Ethan He, from Nvidia to work on them](https://biztoc.com/x/b1285bd74e0adc75) (Published: 2025-10-12)
 - [A mystery CEO and billions in sales: Is China buying banned Nvidia chips?](https://indianexpress.com/article/technology/tech-news-technology/a-mystery-ceo-and-billions-in-sales-is-china-buying-banned-nvidia-chips-10302088/) (Published: 2025-10-12)
-- [Musk’s xAI joins race to build ‘world models’ to power video games](https://biztoc.com/x/15399bc363b4f47e) (Published: 2025-10-12)
