@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-13 04:59:46**_
+_Last updated: **2025-10-13 05:27:50**_
 
 - [Sources: xAI is building world models for use in gaming and robotics, and has hired two AI researchers, Zeeshan Patel and Ethan He, from Nvidia to work on them](https://biztoc.com/x/b1285bd74e0adc75) (Published: 2025-10-12)
 - [A mystery CEO and billions in sales: Is China buying banned Nvidia chips?](https://indianexpress.com/article/technology/tech-news-technology/a-mystery-ceo-and-billions-in-sales-is-china-buying-banned-nvidia-chips-10302088/) (Published: 2025-10-12)
