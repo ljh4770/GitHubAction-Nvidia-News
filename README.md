@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-13 08:47:03**_
+_Last updated: **2025-10-13 08:58:43**_
 
 - [4x faster LLM inference (Flash Attention guy's company)](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas) (Published: 2025-10-12)
 - [nvfuser-cu126 0.2.34.dev20251012](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20251012/) (Published: 2025-10-12)
