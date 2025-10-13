@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-13 21:57:24**_
+_Last updated: **2025-10-13 22:21:20**_
 
 - [Oracle’s AI empire runs on Nvidia, but the numbers don’t add up](https://biztoc.com/x/e53c79449ae41b87) (Published: 2025-10-12)
 - [What Does 'GTX' Mean On Nvidia Graphics Cards?](https://www.bgr.com/1988916/what-nvidia-gpu-graphics-card-gtx-means/) (Published: 2025-10-12)
