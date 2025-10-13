@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-13 15:41:49**_
+_Last updated: **2025-10-13 15:52:19**_
 
+- [Beijing blames US for raising trade tensions, defends rare earth curbs](https://www.yahoo.com/news/articles/beijing-blames-us-raising-trade-154355878.html) (Published: 2025-10-12)
 - [Nvidia’s AI empire: A look at its top startup investments](https://biztoc.com/x/c7371853a41ec747) (Published: 2025-10-12)
 - [Nvidia's AI empire: A look at its top startup investments | TechCrunch](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) (Published: 2025-10-12)
 - [Did AMD Just Say Checkmate to Nvidia?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b135a24-0a59-4f22-b3c4-9c4bee888fd7) (Published: 2025-10-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-13 15:41:49**_
 - [Maingear’s Apex Rush Gaming Desktop Makes Laziness Feel So, So Good](https://gizmodo.com/maingear-apex-rush-desktop-pc-review-gaming-benchmarks-2000670460) (Published: 2025-10-12)
 - [5 High Yield CEFs With Steep Discounts Right Now](https://www.forbes.com/sites/brettowens/2025/10/12/5-high-yield-cefs-with-steep-discounts-right-now/) (Published: 2025-10-12)
 - [Exclusive - Rise and Fall: Arjun Bijlani's wife Neha Swami: Watching him on the show has been incredibly inspiring](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-rise-and-fall-arjun-bijlanis-wife-neha-swami-watching-him-on-the-show-has-been-incredibly-inspiring/articleshow/124501848.cms) (Published: 2025-10-12)
-- [Weekend Tech Roundup: China Targets Nvidia, Meta's AI Glass Ambitions, AMD's Bet And More](https://biztoc.com/x/4464dd746214ba7b) (Published: 2025-10-12)
