@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-13 07:30:40**_
+_Last updated: **2025-10-13 07:43:07**_
 
 - [AMD’s Missing (Ultra Accelerator) Link (NASDAQ:AMD) - Seeking Alpha](https://slashdot.org/firehose.pl?op=view&amp;id=179760306) (Published: 2025-10-12)
 - [US-China trade war has a surprise victim — Jensen Huang's Nvidia; why is the leading AI chipmaker involved?](https://www.livemint.com/companies/news/uschina-trade-war-has-a-surprise-victim-jensen-huangs-nvidia-why-is-the-leading-ai-chipmaker-involved-11760248890743.html) (Published: 2025-10-12)
