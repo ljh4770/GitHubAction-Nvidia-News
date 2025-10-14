@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-14 10:17:07**_
+_Last updated: **2025-10-14 10:39:43**_
 
-- [Retaliation or escalation? Trust between the U.S. and China is fading fast, analysts say](https://www.cnbc.com/2025/10/13/retaliation-or-escalation-trust-between-us-and-china-is-fading-fast.html) (Published: 2025-10-13)
-- [These Stocks Are Moving the Most Today: MP Materials, Nvidia, AMD, Tesla, Alibaba, AstraZeneca, and More](https://biztoc.com/x/10e816e1451ba3a1) (Published: 2025-10-13)
-- [I ditched Android emulators for this open-source app, and I can’t imagine ever going back](https://www.androidauthority.com/waydroid-vs-android-emulators-3605675/) (Published: 2025-10-13)
-- [Inside the AI accelerator arms race: AMD, Nvidia, and hyperscalers commit to annual releases through the decade](https://www.tomshardware.com/tech-industry/artificial-intelligence/inside-the-ai-accelerator-arms-race-amd-nvidia-and-hyperscalers-commit-to-annual-releases-through-the-decade) (Published: 2025-10-13)
-- [cufile-python 0.2.0](https://pypi.org/project/cufile-python/0.2.0/) (Published: 2025-10-13)
-- [3 Reasons to Buy Nvidia Stock Like There's No Tomorrow](https://biztoc.com/x/4912d847bcdb0ecc) (Published: 2025-10-13)
-- [The best budget gamer? HP Omen 16 laptop review](https://www.notebookcheck.net/The-best-budget-gamer-HP-Omen-16-laptop-review.1135455.0.html) (Published: 2025-10-13)
-- [We're all going to be paying AI's Godzilla-sized power bills](https://www.theregister.com/2025/10/13/ai_power_bills/) (Published: 2025-10-13)
-- [Altimeter Capital CEO Brad Gerstner Breaks Down AMD-OpenAI GPU Bet, Says Lisa Su Is Betting The Farm To Catch Up To Rival Nvidia](https://biztoc.com/x/edc85afef3e551c1) (Published: 2025-10-13)
+- [Why Are Nvidia and Uber Backing This Tiny $900 Million Artificial Intelligence (AI) Company?](https://biztoc.com/x/857f2e7a8b5bf213) (Published: 2025-10-13)
+- [U.S. Stock Futures Rise As Trump Softens Tone On China After 100% Tariff Threat](https://www.forbes.com/sites/siladityaray/2025/10/13/us-stock-futures-rise-as-trump-softens-tone-on-china-after-100-tariff-threat/) (Published: 2025-10-13)
+- [nvidia-nat-opentelemetry 1.4.0a20251013](https://pypi.org/project/nvidia-nat-opentelemetry/1.4.0a20251013/) (Published: 2025-10-13)
+- [nvidia-nat-phoenix 1.4.0a20251013](https://pypi.org/project/nvidia-nat-phoenix/1.4.0a20251013/) (Published: 2025-10-13)
+- [nvidia-nat-mem0ai 1.4.0a20251013](https://pypi.org/project/nvidia-nat-mem0ai/1.4.0a20251013/) (Published: 2025-10-13)
+- [nvidia-nat-mysql 1.4.0a20251013](https://pypi.org/project/nvidia-nat-mysql/1.4.0a20251013/) (Published: 2025-10-13)
+- [nvidia-nat-crewai 1.4.0a20251013](https://pypi.org/project/nvidia-nat-crewai/1.4.0a20251013/) (Published: 2025-10-13)
+- [cordatus-jtop 4.3.2.1](https://pypi.org/project/cordatus-jtop/4.3.2.1/) (Published: 2025-10-13)
+- [cordatus-jtop added to PyPI](https://pypi.org/project/cordatus-jtop/) (Published: 2025-10-13)
+- [nvidia-nat-agno 1.4.0a20251013](https://pypi.org/project/nvidia-nat-agno/1.4.0a20251013/) (Published: 2025-10-13)
