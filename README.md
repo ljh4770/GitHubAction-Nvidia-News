@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-14 18:44:07**_
+_Last updated: **2025-10-14 18:54:26**_
 
+- [Vertiv, Nvidia Unite To Revolutionize AI Factory Power Systems](https://biztoc.com/x/958f432c2d6bbfb2) (Published: 2025-10-13)
 - [HCLTech Delivers Robust Performance in Q2FY26 with Revenue Growth of 4.6%](https://financialpost.com/pmn/business-wire-news-releases-pmn/hcltech-delivers-robust-performance-in-q2fy26-with-revenue-growth-of-4-6) (Published: 2025-10-13)
 - [$1,000 off: Acer Predator Helios 18 AI with RTX 5090 and mini-LED display is now on sale](https://www.notebookcheck.net/1-000-off-Acer-Predator-Helios-18-AI-with-RTX-5090-and-mini-LED-display-is-now-on-sale.1137471.0.html) (Published: 2025-10-13)
 - [AMD "Sound Wave" Arm-Powered APU Appears in Shipping Manifests](https://www.techpowerup.com/341848/amd-sound-wave-arm-powered-apu-appears-in-shipping-manifests) (Published: 2025-10-13)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-14 18:44:07**_
 - [Oracle CEO Magouyrk: 'Of course' OpenAI can pay $60 billion per year](https://www.cnbc.com/2025/10/13/oracle-ceo-magouyrk-of-course-openai-can-pay-60-billion-per-year.html) (Published: 2025-10-13)
 - [Nvidia, Broadcom Highlighted As Sector Leaders Drive AI Growth Despite Buildout Risks: Analyst](https://biztoc.com/x/e391042d0f392ba4) (Published: 2025-10-13)
 - [(PR) NVIDIA Spectrum-X Ethernet Switches Speed Up Networks for Meta and Oracle](https://www.techpowerup.com/341846/nvidia-spectrum-x-ethernet-switches-speed-up-networks-for-meta-and-oracle) (Published: 2025-10-13)
-- [ABB to develop next-generation AI data centres with Nvidia](https://economictimes.indiatimes.com/tech/artificial-intelligence/abb-to-develop-next-generation-ai-data-centres-with-nvidia/articleshow/124533433.cms) (Published: 2025-10-13)
