@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-14 11:37:59**_
+_Last updated: **2025-10-14 11:48:32**_
 
+- [These Stocks Are Moving the Most Today: MP Materials, Nvidia, AMD, Tesla, Alibaba, Fastenal, and More](https://biztoc.com/x/601ce35c4f39c65c) (Published: 2025-10-13)
+- [If You'd Invested $10,000 Each in Nvidia and Palantir 5 Years Ago Here's How Much You Would Have Now](https://biztoc.com/x/c414df3d9cf22ad1) (Published: 2025-10-13)
+- [Nvidia price target raised by $20 at Mizuho, here's why](https://thefly.com/permalinks/entry.php/id4212185/NVDA-Nvidia-price-target-raised-by--at-Mizuho-heres-why) (Published: 2025-10-13)
 - [EBC Financial launches bitcoin CFDs](https://www.finextra.com/pressarticle/107468/ebc-financial-launches-bitcoin-cfds) (Published: 2025-10-13)
 - [Fortune’s Most Powerful Women Asia 2025 list includes top CFOs from Huawei, ByteDance, Sony, Temasek](https://fortune.com/2025/10/13/fortune-most-powerful-women-asia-2025-cfo-huawei-bytedance-sony-temasek/) (Published: 2025-10-13)
 - [Cerebras aims to deploy AI infrastructure for massive Stargate UAE data centre hub](https://economictimes.indiatimes.com/tech/technology/cerebras-aims-to-deploy-ai-infrastructure-for-massive-stargate-uae-data-centre-hub/articleshow/124525934.cms) (Published: 2025-10-13)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-14 11:37:59**_
 - [Nvidia Stock Rises. What U.S.-China Trade Tensions Mean for the Chip Maker](https://biztoc.com/x/b65d02ec9c4218df) (Published: 2025-10-13)
 - [Cerebras aims to deploy AI infrastructure for massive Stargate UAE data centre hub](https://finance.yahoo.com/news/cerebras-aims-deploy-ai-infrastructure-112206562.html) (Published: 2025-10-13)
 - [Microsoft, SoftBank in talks for $2 billion investment in UK's Wayve, FT reports](https://www.thehindubusinessline.com/info-tech/microsoft-softbank-in-talks-for-2-billion-investment-in-uks-wayve-ft-reports/article70158275.ece) (Published: 2025-10-13)
-- [Why Oracle Stock Rose 122% In 6 Months](https://www.forbes.com/sites/greatspeculations/2025/10/13/why-oracle-stock-rose-122-in-6-months/) (Published: 2025-10-13)
-- [Mobilicom Launches Secured AutonomyTM: Industry’s First Comprehensive Cybersecurity Framework for Autonomous Drones and Robotics](https://www.globenewswire.com/news-release/2025/10/13/3165424/0/en/Mobilicom-Launches-Secured-AutonomyTM-Industry-s-First-Comprehensive-Cybersecurity-Framework-for-Autonomous-Drones-and-Robotics.html) (Published: 2025-10-13)
-- [cordatus-jtop-service 4.3.2.2](https://pypi.org/project/cordatus-jtop-service/4.3.2.2/) (Published: 2025-10-13)
