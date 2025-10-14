@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-14 04:39:48**_
+_Last updated: **2025-10-14 04:50:20**_
 
 - [Asian shares skid after Wall Street tumbles to its worst day since April as China trade woes worsen](https://finance.yahoo.com/news/asian-shares-skid-wall-street-043707654.html) (Published: 2025-10-13)
 - [Risk rises as market highs again powered by the magnificent seven tech stocks](https://www.irishtimes.com/your-money/2025/10/13/risk-rises-as-market-highs-again-powered-by-the-magnificent-seven-tech-stocks/) (Published: 2025-10-13)
