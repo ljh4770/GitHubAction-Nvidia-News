@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-14 17:30:13**_
+_Last updated: **2025-10-14 17:41:30**_
 
+- [Nvidia, Broadcom Highlighted As Sector Leaders Drive AI Growth Despite Buildout Risks: Analyst](https://biztoc.com/x/e391042d0f392ba4) (Published: 2025-10-13)
+- [(PR) NVIDIA Spectrum-X Ethernet Switches Speed Up Networks for Meta and Oracle](https://www.techpowerup.com/341846/nvidia-spectrum-x-ethernet-switches-speed-up-networks-for-meta-and-oracle) (Published: 2025-10-13)
 - [ABB to develop next-generation AI data centres with Nvidia](https://economictimes.indiatimes.com/tech/artificial-intelligence/abb-to-develop-next-generation-ai-data-centres-with-nvidia/articleshow/124533433.cms) (Published: 2025-10-13)
 - [OpenAI Partners With Broadcom To Build Custom Chips For Future AI Models](https://wccftech.com/openai-broadcom-ai-chips-partnership/) (Published: 2025-10-13)
 - [America's future could hinge on whether AI slightly disappoints](https://www.noahpinion.blog/p/americas-future-could-hinge-on-whether) (Published: 2025-10-13)
@@ -9,4 +11,3 @@ _Last updated: **2025-10-14 17:30:13**_
 - [ABB and Nvidia Collaborate to Develop Next-Generation Data Centers](https://biztoc.com/x/e8f3ed27c76b2f0a) (Published: 2025-10-13)
 - [Dell Pro Max mini-PC announced for AI workloads with Nvidia GB10 SoC](https://www.notebookcheck.net/Dell-Pro-Max-mini-PC-announced-for-AI-workloads-with-Nvidia-GB10-SoC.1137684.0.html) (Published: 2025-10-13)
 - [Heron Power Reinvents the Power Foundation for Gigascale AI](https://www.globenewswire.com/news-release/2025/10/13/3165715/0/en/Heron-Power-Reinvents-the-Power-Foundation-for-Gigascale-AI.html) (Published: 2025-10-13)
-- [Broadcom Stock Surges On OpenAI Chip Deal](https://biztoc.com/x/64b005f45d0367a7) (Published: 2025-10-13)
