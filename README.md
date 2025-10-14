@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-14 20:43:34**_
+_Last updated: **2025-10-14 20:54:19**_
 
 - [Navitas Supports 800 VDC Power Architecture for NVIDIA’s Next-Generation AI Factory Computing Platforms](https://www.globenewswire.com/news-release/2025/10/13/3165822/0/en/Navitas-Supports-800-VDC-Power-Architecture-for-NVIDIA-s-Next-Generation-AI-Factory-Computing-Platforms.html) (Published: 2025-10-13)
 - [S&P 500 Gains & Losses Today: Broadcom Stock, Chipmaker Shares Surge; Casino Stocks Fall](https://www.investopedia.com/s-and-p-500-gains-and-losses-today-broadcom-stock-chipmaker-shares-surge-casino-stocks-fall-11829038) (Published: 2025-10-13)
