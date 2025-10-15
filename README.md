@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 08:48:15**_
+_Last updated: **2025-10-15 08:58:56**_
 
 - [What Is NVIDIA DGX Spark: The World's Smallest AI Supercomputer Delivered To Elon Musk](https://www.ndtvprofit.com/technology/what-is-nvidia-dgx-spark-the-worlds-smallest-ai-supercomputer-delivered-to-elon-musk) (Published: 2025-10-14)
 - [Nvidia's DGX Spark, A Personal 'AI Supercomputer,' Will Debut This Week At $3,999: 'I Hand-Delivered The First System To Elon,' Jensen Huang Recalls](https://biztoc.com/x/92c74bf7191c5126) (Published: 2025-10-14)
