@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 21:34:46**_
+_Last updated: **2025-10-15 21:45:30**_
 
 - [Inside Nvidia's org chart: See 36 leaders who report to CEO Jensen Huang at the world's most valuable company](https://www.businessinsider.com/nvidia-org-chart-leaders-report-to-ceo-jensen-huang-2025-10) (Published: 2025-10-14)
 - [BlackRock's CEO Says Crypto Will Grow 'Rapidly' — Here's How](https://finance.yahoo.com/news/blackrocks-ceo-says-crypto-grow-213120122.html) (Published: 2025-10-14)
