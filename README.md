@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 11:12:33**_
+_Last updated: **2025-10-15 11:28:08**_
 
+- [Nvidia Stock Slips. This Is Hurting the AI Chip Maker](https://biztoc.com/x/3e5b5535dbc08da9) (Published: 2025-10-14)
+- ['Imagine delivering the smallest supercomputer next to the biggest rocket': Jensen delivers a DGX Spark to Musk at SpaceX facility but some think the Nvidia launch is little more than a 'PR stunt'](https://www.pcgamer.com/hardware/processors/imagine-delivering-the-smallest-supercomputer-next-to-the-biggest-rocket-jensen-delivers-a-dgx-spark-to-musk-at-spacex-facility-but-some-think-the-nvidia-launch-is-little-more-than-a-pr-stunt/) (Published: 2025-10-14)
+- [How China's rare earth restrictions could disrupt the U.S. defense industry and reignite a trade war](https://www.cnbc.com/2025/10/14/china-trump-xi-rare-earth-defense-critical-mineral-trade-war-tariffs.html) (Published: 2025-10-14)
+- [Broadcom to launch new networking chip, as battle with Nvidia intensifies](https://economictimes.indiatimes.com/tech/technology/broadcom-to-launch-new-networking-chip-as-battle-with-nvidia-intensifies/articleshow/124551063.cms) (Published: 2025-10-14)
+- [France Colocation Data Center Portfolio Report 2025: Detailed Analysis of 152 Existing Data Centers, 20 Upcoming Data Centers, and 65 Major Operators/Investors](https://www.globenewswire.com/news-release/2025/10/14/3166046/28124/en/France-Colocation-Data-Center-Portfolio-Report-2025-Detailed-Analysis-of-152-Existing-Data-Centers-20-Upcoming-Data-Centers-and-65-Major-Operators-Investors.html) (Published: 2025-10-14)
 - [Broadcom to launch new networking chip, as battle with Nvidia intensifies](https://biztoc.com/x/4f026c2370f926a5) (Published: 2025-10-14)
 - [NVIDIA Unveils Development On ‘Kyber’ Rack-Scale Generation, Scaling Up To 576 Rubin Ultra GPUs In One Platform By 2027 To Bring Immense AI Power](https://wccftech.com/nvidia-unveils-development-on-kyber-scaling-up-to-576-rubin-ultra-gpus-by-2027/) (Published: 2025-10-14)
 - [Exclusive-Broadcom to launch new networking chip, as battle with Nvidia intensifies](https://www.channelnewsasia.com/business/exclusive-broadcom-launch-new-networking-chip-battle-nvidia-intensifies-5401196) (Published: 2025-10-14)
 - [September review: Stability, strength & new trends in European tech investments](https://www.retailbankerinternational.com/comment/stability-strength-new-trends-in-european-tech-investments/) (Published: 2025-10-14)
 - [US stock market futures crash today: Dow, S&P 500, Nasdaq futures drop over 1% as China retaliates; shipping sanctions jolt traders, crypto loses $150B, silver hits record high, Powell speech in focus](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-crash-today-dow-sp-500-nasdaq-futures-drop-over-1-as-china-retaliates-shipping-sanctions-jolt-traders-crypto-loses-150b-silver-hits-record-high-powell-speech-in-focus/articleshow/124550118.cms) (Published: 2025-10-14)
-- [AI lab Lila Sciences tops $1.3 billion valuation with new Nvidia backing](https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-lab-lila-sciences-tops-1-3-billion-valuation-with-new-nvidia-backing/articleshow/124550448.cms) (Published: 2025-10-14)
-- [Exclusive-AI lab Lila Sciences tops $1.3 billion valuation with new Nvidia backing](https://biztoc.com/x/4e9cf22175721e7a) (Published: 2025-10-14)
-- [(PR) ASRock Rack Unveils NVIDIA HGX B300 Servers with Waterless Liquid Cooling Solution](https://www.techpowerup.com/341867/asrock-rack-unveils-nvidia-hgx-b300-servers-with-waterless-liquid-cooling-solution) (Published: 2025-10-14)
-- [Morning Bid: Volatility builds as AI jockeys with trade](https://finance.yahoo.com/news/morning-bid-volatility-builds-ai-103908786.html) (Published: 2025-10-14)
-- [Exclusive-AI lab Lila Sciences tops $1.3 billion valuation with new Nvidia backing](https://biztoc.com/x/72665086d78644bd) (Published: 2025-10-14)
