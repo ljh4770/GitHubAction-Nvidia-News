@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 20:59:15**_
+_Last updated: **2025-10-15 21:22:49**_
 
+- [18 zettaFLOPS of new AI compute coming online from Oracle late next year](https://biztoc.com/x/4065c7d334334018) (Published: 2025-10-14)
+- [18 zettaFLOPS of new AI compute coming online from Oracle late next year](https://www.theregister.com/2025/10/14/oracle_amd_nvidia/) (Published: 2025-10-14)
 - [TSX soars on gains in basic materials stocks as U.S.-China trade tensions escalate](https://financialpost.com/pmn/tsx-soars-on-gains-in-basic-materials-stocks-as-u-s-china-trade-tensions-escalate) (Published: 2025-10-14)
 - [Red Day on Wall Street: China Trade Spat Sends Dow and Nasdaq Tumbling](https://www.ibtimes.com/red-day-wall-street-china-trade-spat-sends-dow-nasdaq-tumbling-3787000) (Published: 2025-10-14)
 - [Big tech is faking revenue](https://www.osnews.com/story/143538/big-tech-is-faking-revenue/) (Published: 2025-10-14)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-15 20:59:15**_
 - [Elizabeth Warren: Leftism for thee but not for me](https://www.wnd.com/2025/10/elizabeth-warren-leftism-thee-not-me/) (Published: 2025-10-14)
 - [Stocks Wobble Amid US-China Trade Tensions](https://www.newser.com/story/376851/stocks-wobble-amid-us-china-trade-tensions.html) (Published: 2025-10-14)
 - [Nvidia is giving away an RTX 5090 to celebrate Battlefield 6's launch, but entries close soon](https://www.notebookcheck.net/Nvidia-is-giving-away-an-RTX-5090-to-celebrate-Battlefield-6-s-launch-but-entries-close-soon.1138378.0.html) (Published: 2025-10-14)
-- [Trump threatens China trade retaliation over soybean purchases](https://finance.yahoo.com/news/trump-threatens-china-trade-retaliation-201536057.html) (Published: 2025-10-14)
-- [Walmart stock hits all-time high after announcing partnership with OpenAI](https://finance.yahoo.com/news/walmart-stock-hits-all-time-high-after-announcing-partnership-with-openai-201032798.html) (Published: 2025-10-14)
