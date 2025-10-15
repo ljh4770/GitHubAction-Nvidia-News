@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 06:51:49**_
+_Last updated: **2025-10-15 07:12:20**_
 
+- [Robert Walters shows slight improvement in Q3 despite revenue drop](https://finance.yahoo.com/news/robert-walters-shows-slight-improvement-070807059.html) (Published: 2025-10-14)
+- [Samsung turned its pain into gain in this very crucial business segment](https://www.sammobile.com/news/samsung-turned-its-pain-into-gain-in-this-very-crucial-business-segment/) (Published: 2025-10-14)
 - [CNBC Daily Open: A chance for peace in the Middle East and the U.S.-China trade war](https://www.cnbc.com/2025/10/14/cnbc-daily-open-a-chance-for-peace-in-the-middle-east-and-the-us-china-trade-war.html) (Published: 2025-10-14)
 - [‘Avinatan has come home’: Jensen Huang celebrates Nvidia employee’s release from Hamas custody](https://www.livemint.com/companies/news/avinatan-has-come-home-jensen-huang-celebrates-nvidia-employee-s-release-from-hamas-custody-11760422603985.html) (Published: 2025-10-14)
 - [Nvidia DGX Spark compact desktop featuring one petaflop of performance, arrives for AI model training and development](https://www.notebookcheck.net/Nvidia-DGX-Spark-compact-desktop-featuring-one-petaflop-of-performance-arrives-for-AI-model-training-and-development.1138010.0.html) (Published: 2025-10-14)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-15 06:51:49**_
 - [NVIDIA DGX Spark Arrives for World’s AI Developers](https://www.madshrimps.be/news/nvidia-dgx-spark-arrives-for-worlds-ai-developers/) (Published: 2025-10-14)
 - [MSI to Showcase NVIDIA MGX Servers and EdgeXpert Desktop AI Supercomputer at OCP 2025](https://www.madshrimps.be/news/msi-to-showcase-nvidia-mgx-servers-and-edgexpert-desktop-ai-supercomputer-at-ocp-2025/) (Published: 2025-10-14)
 - [ASUS Announces Availability of ASUS Ascent GX10 Personal AI Supercomputer](https://www.madshrimps.be/news/asus-announces-availability-of-asus-ascent-gx10-personal-ai-supercomputer/) (Published: 2025-10-14)
-- [GIGABYTE Announces Personal AI Supercomputer AI TOP ATOM Global Availability](https://www.madshrimps.be/news/gigabyte-announces-personal-ai-supercomputer-ai-top-atom-global-availability/) (Published: 2025-10-14)
-- [Giga Computing Joins OCP Global Summit and Debuts New OCP-based GIGABYTE Server](https://www.madshrimps.be/news/giga-computing-joins-ocp-global-summit-and-debuts-new-ocp-based-gigabyte-server/) (Published: 2025-10-14)
