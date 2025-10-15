@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 11:40:16**_
+_Last updated: **2025-10-15 11:50:58**_
 
+- [When will the AI bubble burst? As OpenAI signs yet another megabucks deal with Broadcom, can anyone make sense of the trillions of dollars involved?](https://www.pcgamer.com/software/ai/when-will-the-ai-bubble-burst-as-openai-signs-yet-another-megabucks-deal-with-broadcom-can-anyone-make-sense-of-the-trillions-of-dollars-involved/) (Published: 2025-10-14)
+- [OCP Launches AI Data Center Initiative to Standardize Power and Cooling](https://www.techpowerup.com/341875/ocp-launches-ai-data-center-initiative-to-standardize-power-and-cooling) (Published: 2025-10-14)
+- [Former Intel CEO Pat Gelsinger confirms the industry is in an AI bubble, but that a pop could be several years away — 'We’re displacing all of the internet and the service provider industry as we think about it today'](https://www.tomshardware.com/tech-industry/artificial-intelligence/former-intel-ceo-pat-gelsinger-confirms-the-industry-is-in-an-ai-bubble-but-that-a-pop-could-be-several-years-away-were-displacing-all-of-the-internet-and-the-service-provider-industry-as-we-think-about-it-today) (Published: 2025-10-14)
 - [‘Make or break’: Why the next few years will be crucial for this Canadian company and quantum computing](https://financialpost.com/technology/xanadu-canadian-quantum-computing) (Published: 2025-10-14)
 - [Elizabeth Warren: Leftism for Thee But Not Me](https://www.realclearinvestigations.com/articles/2025/10/14/elizabeth_warren_socialism_for_thee_but_not_me_1140775.html) (Published: 2025-10-14)
 - [Nvidia Stock Slips. This Is Hurting the AI Chip Maker](https://biztoc.com/x/3e5b5535dbc08da9) (Published: 2025-10-14)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-15 11:40:16**_
 - [How China's rare earth restrictions could disrupt the U.S. defense industry and reignite a trade war](https://www.cnbc.com/2025/10/14/china-trump-xi-rare-earth-defense-critical-mineral-trade-war-tariffs.html) (Published: 2025-10-14)
 - [Broadcom to launch new networking chip, as battle with Nvidia intensifies](https://economictimes.indiatimes.com/tech/technology/broadcom-to-launch-new-networking-chip-as-battle-with-nvidia-intensifies/articleshow/124551063.cms) (Published: 2025-10-14)
 - [France Colocation Data Center Portfolio Report 2025: Detailed Analysis of 152 Existing Data Centers, 20 Upcoming Data Centers, and 65 Major Operators/Investors](https://www.globenewswire.com/news-release/2025/10/14/3166046/28124/en/France-Colocation-Data-Center-Portfolio-Report-2025-Detailed-Analysis-of-152-Existing-Data-Centers-20-Upcoming-Data-Centers-and-65-Major-Operators-Investors.html) (Published: 2025-10-14)
-- [Broadcom to launch new networking chip, as battle with Nvidia intensifies](https://biztoc.com/x/4f026c2370f926a5) (Published: 2025-10-14)
-- [NVIDIA Unveils Development On ‘Kyber’ Rack-Scale Generation, Scaling Up To 576 Rubin Ultra GPUs In One Platform By 2027 To Bring Immense AI Power](https://wccftech.com/nvidia-unveils-development-on-kyber-scaling-up-to-576-rubin-ultra-gpus-by-2027/) (Published: 2025-10-14)
-- [Exclusive-Broadcom to launch new networking chip, as battle with Nvidia intensifies](https://www.channelnewsasia.com/business/exclusive-broadcom-launch-new-networking-chip-battle-nvidia-intensifies-5401196) (Published: 2025-10-14)
