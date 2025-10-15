@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 23:29:03**_
+_Last updated: **2025-10-15 23:40:19**_
 
 - [Musk's Manhattan Project For xAI Bets Big On 'World Models' That NVidia Says Could Rival 'Global Economy'](https://biztoc.com/x/250a1fe8a251ae90) (Published: 2025-10-14)
 - [Stock market today: Dow, S&P 500, Nasdaq futures climb as strong bank earnings, rate-cut hopes soothe US-China jitters](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-strong-bank-earnings-rate-cut-hopes-soothe-us-china-jitters-231143129.html) (Published: 2025-10-14)
