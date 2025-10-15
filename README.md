@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 07:31:20**_
+_Last updated: **2025-10-15 07:43:38**_
 
+- [NVIDIA Spectrum-X イーサーネット スイッチが Meta と Oracle のネットワークを高速化](https://prtimes.jp/main/html/rd/p/000000562.000012662.html) (Published: 2025-10-14)
 - [First 200 MW from UAE's Stargate AI campus to come online next year](https://www.yahoo.com/news/articles/first-200-mw-uaes-stargate-072308544.html) (Published: 2025-10-14)
 - [Foxconn partners with Nvidia to deploy 800V DC architecture](https://www.digitimes.com/news/a20251014PD232/foxconn-nvidia-partnership-data-design.html) (Published: 2025-10-14)
 - [Robert Walters shows slight improvement in Q3 despite revenue drop](https://finance.yahoo.com/news/robert-walters-shows-slight-improvement-070807059.html) (Published: 2025-10-14)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-15 07:31:20**_
 - [Nvidia DGX Spark compact desktop featuring one petaflop of performance, arrives for AI model training and development](https://www.notebookcheck.net/Nvidia-DGX-Spark-compact-desktop-featuring-one-petaflop-of-performance-arrives-for-AI-model-training-and-development.1138010.0.html) (Published: 2025-10-14)
 - [NVIDIA’s Jensen Huang Hand-Delivers the “World’s Smallest Supercomputer,” the DGX Spark, to Elon Musk, Right Alongside Its Retail Launch](https://wccftech.com/nvidia-jensen-huang-hand-delivers-dgx-spark-to-elon-musk/) (Published: 2025-10-14)
 - [What could burst the AI bubble?](https://www.rte.ie/brainstorm/2025/1014/1538409-ai-tech-firms-valuations-bubble-open-ai-anthropic/) (Published: 2025-10-14)
-- [NVIDIA DGX Spark Arrives for World’s AI Developers](https://www.madshrimps.be/news/nvidia-dgx-spark-arrives-for-worlds-ai-developers/) (Published: 2025-10-14)
