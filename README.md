@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 06:32:07**_
+_Last updated: **2025-10-15 06:51:49**_
 
+- [CNBC Daily Open: A chance for peace in the Middle East and the U.S.-China trade war](https://www.cnbc.com/2025/10/14/cnbc-daily-open-a-chance-for-peace-in-the-middle-east-and-the-us-china-trade-war.html) (Published: 2025-10-14)
+- [‘Avinatan has come home’: Jensen Huang celebrates Nvidia employee’s release from Hamas custody](https://www.livemint.com/companies/news/avinatan-has-come-home-jensen-huang-celebrates-nvidia-employee-s-release-from-hamas-custody-11760422603985.html) (Published: 2025-10-14)
 - [Nvidia DGX Spark compact desktop featuring one petaflop of performance, arrives for AI model training and development](https://www.notebookcheck.net/Nvidia-DGX-Spark-compact-desktop-featuring-one-petaflop-of-performance-arrives-for-AI-model-training-and-development.1138010.0.html) (Published: 2025-10-14)
 - [NVIDIA’s Jensen Huang Hand-Delivers the “World’s Smallest Supercomputer,” the DGX Spark, to Elon Musk, Right Alongside Its Retail Launch](https://wccftech.com/nvidia-jensen-huang-hand-delivers-dgx-spark-to-elon-musk/) (Published: 2025-10-14)
 - [What could burst the AI bubble?](https://www.rte.ie/brainstorm/2025/1014/1538409-ai-tech-firms-valuations-bubble-open-ai-anthropic/) (Published: 2025-10-14)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-15 06:32:07**_
 - [ASUS Announces Availability of ASUS Ascent GX10 Personal AI Supercomputer](https://www.madshrimps.be/news/asus-announces-availability-of-asus-ascent-gx10-personal-ai-supercomputer/) (Published: 2025-10-14)
 - [GIGABYTE Announces Personal AI Supercomputer AI TOP ATOM Global Availability](https://www.madshrimps.be/news/gigabyte-announces-personal-ai-supercomputer-ai-top-atom-global-availability/) (Published: 2025-10-14)
 - [Giga Computing Joins OCP Global Summit and Debuts New OCP-based GIGABYTE Server](https://www.madshrimps.be/news/giga-computing-joins-ocp-global-summit-and-debuts-new-ocp-based-gigabyte-server/) (Published: 2025-10-14)
-- [NVIDIA Spectrum-X Ethernet Switches Speed Up Networks for Meta and Oracle](https://www.madshrimps.be/news/nvidia-spectrum-x-ethernet-switches-speed-up-networks-for-meta-and-oracle/) (Published: 2025-10-14)
-- [NVIDIA Moves to 800 Volt DC Power Infrastructure to Drive Gigawatt-Scale AI](https://www.madshrimps.be/news/nvidia-moves-to-800-volt-dc-power-infrastructure-to-drive-gigawatt-scale-ai/) (Published: 2025-10-14)
