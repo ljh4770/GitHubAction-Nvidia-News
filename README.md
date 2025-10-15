@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 17:14:30**_
+_Last updated: **2025-10-15 17:32:07**_
 
+- [CoreWeave stock has one big hurdle to overcome](https://biztoc.com/x/3931514a058328c0) (Published: 2025-10-14)
+- [Jim Cramer on Taiwan Semiconductor’s Earnings: “I Expect a Very Rosy Picture”](https://finance.yahoo.com/news/jim-cramer-taiwan-semiconductor-earnings-172207811.html) (Published: 2025-10-14)
+- [Nvidia Introduces DGX Spark Book-Sized Supercomputer, Hand-Delivers One to Elon Musk](https://www.cnet.com/tech/services-and-software/nvidia-introduces-dgx-spark-book-sized-supercomputer-hand-delivers-one-to-elon-musk/) (Published: 2025-10-14)
 - [This Dreame vacuum mop and robot is the AI power we want taking our jobs](https://nypost.com/shopping/dreame-aqua-10-ultra-roller-robot-vacuum-mop-review/) (Published: 2025-10-14)
 - [CoreWeave stock has one big hurdle to overcome](https://www.thestreet.com/markets/coreweave-stock-has-one-big-hurdle-to-overcome) (Published: 2025-10-14)
 - [Stock Market Today: Stocks recoup after China retaliates against Trump](https://www.thestreet.com/investing/earnings/stocks-slump-as-china-retaliates-against-trump) (Published: 2025-10-14)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-15 17:14:30**_
 - [Top Stock Movers Now: Walmart, Intel, Domino's Pizza, Arista Networks, and More](https://www.investopedia.com/top-stock-movers-now-arista-networks-tesla-domino-s-pizza-walmart-and-more-11829349) (Published: 2025-10-14)
 - [Intel reveals new data center AI chip as turnaround effort continues](https://finance.yahoo.com/news/intel-reveals-new-data-center-ai-chip-as-turnaround-effort-continues-170039560.html) (Published: 2025-10-14)
 - [Intel Crescent Island GPU Unveiled: Features Next-Gen Xe3P Graphics Architecture, 160 GB LPDDR5X For AI Inference](https://wccftech.com/intel-crescent-island-gpu-next-gen-xe3p-graphics-160-gb-lpddr5x-ai-inference/) (Published: 2025-10-14)
-- [Intel Announces "Crescent Island" Inference-Optimized Xe3P Graphics Card With 160GB vRAM](https://www.phoronix.com/review/intel-crescent-island) (Published: 2025-10-14)
-- [Bank of America updates Nvidia stock outlook on AI bubble fears](https://biztoc.com/x/0fe6b783c602edc6) (Published: 2025-10-14)
-- [Up your game with this AMD Ryzen 5 7600X CPU, now only $150](https://www.androidheadlines.com/2025/10/up-your-game-with-this-amd-ryzen-5-7600x-cpu-now-only-150.html) (Published: 2025-10-14)
