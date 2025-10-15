@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-15 22:17:26**_
+_Last updated: **2025-10-15 22:33:06**_
 
 - [AI Deals Are Scaling to Massive Valuations. But In Many Cases—Also Massive Dilution. See e.g., OpenAI](https://www.saastr.com/ai-deals-are-scaling-to-massive-valuations-but-in-many-cases-also-massive-dilution-see-e-g-openai/) (Published: 2025-10-14)
 - [Trade Wars, Spycraft, and Weaponized Silk](https://dailyreckoning.com/trade-wars-spycraft-and-weaponized-silk/) (Published: 2025-10-14)
