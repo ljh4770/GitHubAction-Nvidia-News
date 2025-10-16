@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-16 04:53:34**_
+_Last updated: **2025-10-16 05:14:47**_
 
 - [Nvidia CEO Jensen Huang Hails Release of Israeli Engineer Avinatan Or After Two Years in Hamas Captivity: 'Close Of A Painful Chapter'](https://biztoc.com/x/05bab7910cd1af2d) (Published: 2025-10-15)
 - [OMEN Gaming Laptop 16", AMD Ryzenâ¢ AI 9, 32GB RAM, 1TB SSD, NVIDIAÂ® GeForce RTXâ¢ 5070 $1189.99 (2 replies)](https://slickdeals.net/f/18701470-omen-gaming-laptop-16-amd-ryzen-ai-9-32gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-1189-99) (Published: 2025-10-15)
