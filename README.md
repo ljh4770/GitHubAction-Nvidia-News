@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-16 22:41:19**_
+_Last updated: **2025-10-16 22:52:05**_
 
+- [Oliver Curtis’ Firmus inks $73.3b ‘AI factory’ plan with Nvidia, CDC](https://www.afr.com/technology/oliver-curtis-firmus-inks-73-3b-ai-factory-plan-with-nvidia-cdc-20251015-p5n2sg) (Published: 2025-10-15)
+- [Tech giants' circular investments raise concerns of financial imbalances in AI sector](https://www.digitimes.com/news/a20251014PD204/ai-funding-investment-2025-nvidia-openai.html) (Published: 2025-10-15)
 - [AI buildout spend is justified even if there are 'casualties,' Jim Cramer says](https://www.cnbc.com/2025/10/15/ai-buildout-spend-justified-jim-cramer.html) (Published: 2025-10-15)
 - [Stock market today: Live updates](https://www.cnbc.com/2025/10/15/stock-market-today-live-updates.html) (Published: 2025-10-15)
 - [Nvidia, Microsoft, and BlackRock Just Struck a Massive AI Data Center Deal](https://biztoc.com/x/6e49f589f26093e3) (Published: 2025-10-15)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-16 22:41:19**_
 - [Core Scientific's board asks shareholders to vote for CoreWeave deal](https://www.channelnewsasia.com/business/core-scientifics-board-asks-shareholders-vote-coreweave-deal-5405151) (Published: 2025-10-15)
 - [Core Scientific's board urges shareholders to vote for CoreWeave deal](https://finance.yahoo.com/news/core-scientifics-board-urges-shareholders-210925163.html) (Published: 2025-10-15)
 - [This Semiconductor Stock Soared 26% Tuesday After Launching Devices for Nvidia's AI Factory Architecture](https://www.ibtimes.com/this-semiconductor-stock-soared-26-tuesday-after-launching-devices-nvidias-ai-factory-3787212) (Published: 2025-10-15)
-- [Billionaire Investor David Tepper's $180M Investment in Intel in Q2 is Already Up 58%](https://www.ibtimes.com/billionaire-investor-david-teppers-180m-investment-intel-q2-already-58-3787213) (Published: 2025-10-15)
-- [OpenAI's ChatGPT is so popular that almost no one will pay for it](https://www.theregister.com/2025/10/15/openais_chatgpt_popular_few_pay/) (Published: 2025-10-15)
