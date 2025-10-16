@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-16 08:58:15**_
+_Last updated: **2025-10-16 09:29:04**_
 
+- [NVIDIA DLSS support in progress for NVK, the open source Vulkan driver for NVIDIA GPUs](https://www.gamingonlinux.com/2025/10/nvidia-dlss-support-in-progress-for-nvk-the-open-source-vulkan-driver-for-nvidia-gpus/.) (Published: 2025-10-15)
+- [OpenAI’s Secret Weapon : New Custom AI Chips That Could Change Everything](https://www.geeky-gadgets.com/openai-broadcom-partnership-ai-chip-development/) (Published: 2025-10-15)
+- [Apple Was TSMC’s Biggest Customer In 2024, Accounting For 24% Of Revenue, But It Might Lose That Position Due To Increased HPC Orders In 2025](https://wccftech.com/apple-might-not-be-biggest-tsmc-customer-in-2025/) (Published: 2025-10-15)
+- [Jensen Huang name-checks 6 AI companies — and says 100% of Nvidia engineers use one of them](https://biztoc.com/x/6cf374915290e507) (Published: 2025-10-15)
+- [After Big Rally, What's Next For Applied Digital Stock?](https://www.forbes.com/sites/greatspeculations/2025/10/15/after-big-rally-whats-next-for-applied-digital-stock/) (Published: 2025-10-15)
+- [Jensen Huang hand-delivers Nvidia DGX Spark to Elon Musk](https://www.digitimes.com/news/a20251014PD243/nvidia-elon-musk-jensen-huang-software-supercomputer.html) (Published: 2025-10-15)
 - [Jensen Huang name-checks 6 AI companies — and says 100% of Nvidia engineers use one of them](https://www.businessinsider.com/jensen-huang-hot-ai-startups-nvidia-vibe-coding-cursor-openai-2025-10) (Published: 2025-10-15)
 - [Broadcom joins AI accelerator race with major OpenAI deal](https://www.digitimes.com/news/a20251015PD214/broadcom-openai-nvidia-market-amd.html) (Published: 2025-10-15)
 - [How deals with OpenAI have led to share surges for its partners](https://economictimes.indiatimes.com/tech/artificial-intelligence/how-deals-with-openai-have-led-to-share-surges-for-its-partners/articleshow/124572759.cms) (Published: 2025-10-15)
 - [nvfuser-cu126 0.2.34.dev20251015](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20251015/) (Published: 2025-10-15)
-- [nvfuser-cu128 0.2.34.dev20251015](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20251015/) (Published: 2025-10-15)
-- [nvfuser-cu129 0.2.34.dev20251015](https://pypi.org/project/nvfuser-cu129/0.2.34.dev20251015/) (Published: 2025-10-15)
-- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; MP Materials, Plug Power, Nvidia, Tesla, More Movers; Trump China Trade Threats; Fed Rate Cut Hope](https://biztoc.com/x/ed07031c2ed007ed) (Published: 2025-10-15)
-- [UK-based AI startup Nscale expands deal with Microsoft](https://biztoc.com/x/0975d0d67b402b41) (Published: 2025-10-15)
-- [UK's Nscale signs deal with Microsoft to supply 200,000 Nvidia AI chips](https://economictimes.indiatimes.com/tech/artificial-intelligence/uks-nscale-signs-deal-with-microsoft-to-supply-200000-nvidia-ai-chips/articleshow/124572431.cms) (Published: 2025-10-15)
-- [UK's Nscale signs deal with Microsoft to supply 200,000 Nvidia AI chips](https://www.channelnewsasia.com/business/uks-nscale-signs-deal-microsoft-supply-200000-nvidia-ai-chips-5403686) (Published: 2025-10-15)
