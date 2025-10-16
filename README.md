@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-16 21:33:09**_
+_Last updated: **2025-10-16 21:43:49**_
 
 - [Here's How Much $100 Invested In NVIDIA 15 Years Ago Would Be Worth Today](https://biztoc.com/x/5faff43cc3c88b3f) (Published: 2025-10-15)
 - [Core Scientific's board asks shareholders to vote for CoreWeave deal](https://www.channelnewsasia.com/business/core-scientifics-board-asks-shareholders-vote-coreweave-deal-5405151) (Published: 2025-10-15)
