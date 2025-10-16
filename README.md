@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-16 20:39:41**_
+_Last updated: **2025-10-16 20:50:00**_
 
+- [BlackRock, Nvidia-backed group buys Aligned Data Centers for $40 billion](https://biztoc.com/x/171870ee3259fc4c) (Published: 2025-10-15)
 - [Apple leads Interbrand’s 2025 Best Global Brands ranking, despite brand valuation dip](https://9to5mac.com/2025/10/15/interbrand-best-global-brands-2025/) (Published: 2025-10-15)
 - [Microsoft’s Head of Cloud Predicts an ‘Explosion’ of AI Use. How Agents Could Change the Game](https://biztoc.com/x/a02a53d326b07622) (Published: 2025-10-15)
 - [MARK MINNELLA: Is NVIDIA Having A Dylan Mulvaney Moment?](https://dailycaller.com/2025/10/15/opinion-is-nvidia-having-a-dylan-mulvaney-moment-mark-minnella/) (Published: 2025-10-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-16 20:39:41**_
 - [Nvidia Stock Wavers After Latest Data Center Deal](https://biztoc.com/x/fcc2cd7413d89658) (Published: 2025-10-15)
 - [NVIDIA’s New DGX Spark Brings Cloud-level AI Power To Your Desk](https://www.greenbot.com/nvidia-dgx-spark-ai-supercomputer/) (Published: 2025-10-15)
 - [‘The Smartest Investments We Can Possibly Imagine’: Nvidia CEO Jensen Huang Says OpenAI Will Be Worth Trillions, Rivaling Amazon and Meta](https://biztoc.com/x/9bff86176dda4d85) (Published: 2025-10-15)
-- [Market Close Stock Round-Up October 15, 2025: S&P, NASDAQ See Modest Lifts](https://www.ibtimes.com/market-close-stock-round-october-15-2025-sp-nasdaq-see-modest-lifts-3787154) (Published: 2025-10-15)
