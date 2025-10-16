@@ -1,15 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-16 18:35:13**_
+_Last updated: **2025-10-16 18:52:21**_
 
-- [Dimon’s Cockroach Barb Ruptures Uneasy Truce With Private Credit](https://biztoc.com/x/7b382e747f14984c) (Published: 2025-10-15)
-- [Fed’s Beige Book Finds US Economic Activity Little Changed](https://biztoc.com/x/74f0fbfbef46e038) (Published: 2025-10-15)
-- [Brown-Forman Tempers Growth Ambitions as Spirits Demand Softens](https://biztoc.com/x/65ea47008bfebc8b) (Published: 2025-10-15)
-- [Stock Market Today: Dow Gives Up Gains; Trade War Turns To Soybean Oil (Live Coverage)](https://biztoc.com/x/378b877df0902d31) (Published: 2025-10-15)
-- [Demand Concerns and Ample Supplies Pressure Cocoa Prices](https://biztoc.com/x/b0ec627a487abef0) (Published: 2025-10-15)
-- [Video
-Meet the 100-year-old barista who never retired
-1:34](https://biztoc.com/x/127b5bd43c93823c) (Published: 2025-10-15)
-- [China rare earth curbs put pressure on US to build domestic supply](https://biztoc.com/x/d2c487c919d5010e) (Published: 2025-10-15)
-- [Tesla has big robotaxi ambitions, and now Waymo may be shifting its approach](https://biztoc.com/x/44ba90d9421dd934) (Published: 2025-10-15)
-- [Nvidia’s CEO Is Confident Oracle Will Be ‘Wonderfully Profitable.’ Should You Buy ORCL Stock Now?](https://biztoc.com/x/caf2ae1d6b6e42ec) (Published: 2025-10-15)
-- [Volatility Shares files for the first ever potential 5X leveraged ETF in the US](https://biztoc.com/x/f8dc106688563fed) (Published: 2025-10-15)
+- [Navi Mumbai: 40 investors duped of Rs 1.16 crore in chit fund scam, woman arrested](https://timesofindia.indiatimes.com/city/mumbai/navi-mumbai-40-investors-duped-of-rs-1-16-crore-in-chit-fund-scam-woman-arrested/articleshow/124588358.cms) (Published: 2025-10-15)
+- [Morgan Stanley revamps Broadcom’s price target with a twist](https://www.thestreet.com/technology/morgan-stanley-revamps-broadcoms-price-target-with-a-twist) (Published: 2025-10-15)
+- [Chinese paddlers sweep both team titles at Asian meet](https://timesofindia.indiatimes.com/city/bhubaneswar/chinese-paddlers-sweep-both-team-titles-at-asian-meet/articleshow/124588304.cms) (Published: 2025-10-15)
+- [Justice, respect for terror victims’ kin top priority: LG Sinha](https://timesofindia.indiatimes.com/city/srinagar/justice-respect-for-terror-victims-kin-top-priority-lg-sinha/articleshow/124588328.cms) (Published: 2025-10-15)
+- [Prediction Markets Can Solve The Fed's Data Problem](https://biztoc.com/x/5ee91e876a9dfcf5) (Published: 2025-10-15)
+- [Factory Towns Revive as Defense Tech Makers Arrive](https://biztoc.com/x/6b37f6d2ac1c72ce) (Published: 2025-10-15)
+- [Nvidia Has Been Investing Heavily in AI Startups. Here are 3 to Watch](https://biztoc.com/x/7a5a5446af6d9b72) (Published: 2025-10-15)
+- [Hegseth Plane Forced to Land After Reporting Cracked Windshield](https://biztoc.com/x/667577153cd161fa) (Published: 2025-10-15)
+- [Veteran trader who bought Nvidia stock at $13 revamps price target](https://biztoc.com/x/44b50eb1fa57ff54) (Published: 2025-10-15)
+- [Nuclear Startup Deep Fission Has 12.5 GW Pipeline, CEO Says](https://biztoc.com/x/d008621866872a0c) (Published: 2025-10-15)
