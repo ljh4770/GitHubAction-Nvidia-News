@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-16 23:24:57**_
+_Last updated: **2025-10-16 23:37:00**_
 
+- [Stock market today: Dow, S&P 500, Nasdaq futures rise as TSMC's stellar earnings eclipse trade-war jitters](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-tsmcs-stellar-earnings-eclipse-trade-war-jitters-232657775.html) (Published: 2025-10-15)
 - [jax-cuda13-plugin 0.8.0](https://pypi.org/project/jax-cuda13-plugin/0.8.0/) (Published: 2025-10-15)
 - [Arm CEO says moving some AI workloads from the cloud will make it more sustainable](https://www.cnbc.com/2025/10/15/arm-holdings-ceo-move-ai-workloads-from-cloud-reduce-power-consumption-energy-.html) (Published: 2025-10-15)
 - [Oliver Curtis’ Firmus inks $73.3b ‘AI factory’ plan with Nvidia, CDC](https://www.afr.com/technology/oliver-curtis-firmus-inks-73-3b-ai-factory-plan-with-nvidia-cdc-20251015-p5n2sg) (Published: 2025-10-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-16 23:24:57**_
 - [Nvidia, Microsoft, and BlackRock Just Struck a Massive AI Data Center Deal](https://biztoc.com/x/6e49f589f26093e3) (Published: 2025-10-15)
 - [Salesforce CEO targets giant rival with new product](https://www.thestreet.com/technology/salesforce-ceos-next-move-could-rattle-22-year-old-software-giant) (Published: 2025-10-15)
 - [Here's How Much $100 Invested In NVIDIA 15 Years Ago Would Be Worth Today](https://biztoc.com/x/5faff43cc3c88b3f) (Published: 2025-10-15)
-- [Core Scientific's board asks shareholders to vote for CoreWeave deal](https://www.channelnewsasia.com/business/core-scientifics-board-asks-shareholders-vote-coreweave-deal-5405151) (Published: 2025-10-15)
