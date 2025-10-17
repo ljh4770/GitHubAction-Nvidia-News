@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 13:47:12**_
+_Last updated: **2025-10-17 13:57:26**_
 
+- [Infosys' strong Q2; Eternal triples revenue](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/infosys-strong-q2-eternal-triples-revenue/articleshow/124606784.cms) (Published: 2025-10-16)
+- [Infosys, Wipro Q2 results; Eternal, Razorpay results](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/infosys-wipro-q2-results-eternal-razorpay-results/articleshow/124606784.cms) (Published: 2025-10-16)
 - [Chip stocks rise after TSMC's rosy outlook on strong AI demand](https://finance.yahoo.com/news/chip-stocks-rise-tsmcs-rosy-133923357.html) (Published: 2025-10-16)
 - [Chip stocks rise after TSMC's rosy outlook on strong AI demand](https://www.channelnewsasia.com/business/chip-stocks-rise-after-tsmcs-rosy-outlook-strong-ai-demand-5406941) (Published: 2025-10-16)
 - [AI boom delivers record net profit for Taiwan’s TSMC](https://www.digitaljournal.com/business/ai-boom-delivers-record-net-profit-for-taiwans-tsmc/article) (Published: 2025-10-16)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-17 13:47:12**_
 - [Stock market today: Dow, S&P 500, Nasdaq rise as TSMC's stellar earnings eclipse trade-war jitters](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-tsmcs-stellar-earnings-eclipse-trade-war-jitters-232657093.html) (Published: 2025-10-16)
 - [Infosys lifts growth floor amid steady deal wins](https://finance.yahoo.com/news/infosys-lifts-growth-floor-amid-132659811.html) (Published: 2025-10-16)
 - [6 AI startups Jensen Huang and Nvidia engineers have bet on: You will want to know what they are building](https://economictimes.indiatimes.com/news/international/us/6-ai-startups-jensen-huang-and-nvidia-engineers-have-bet-on-you-will-want-to-know-what-they-are-building/articleshow/124606172.cms) (Published: 2025-10-16)
-- [The remarkable rise of AppLovin](https://biztoc.com/x/211d22d440a51813) (Published: 2025-10-16)
-- [From pilots to powering sustainable growth: the C-suite blueprint for physical AI](https://fortune.com/2025/10/16/ey-raj-sharma-c-suite-blueprint-for-physical-ai/) (Published: 2025-10-16)
