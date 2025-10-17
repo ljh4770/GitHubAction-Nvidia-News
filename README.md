@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 05:25:43**_
+_Last updated: **2025-10-17 05:40:13**_
 
 - [Foxconn teams up with Nvidia on AI factory infrastructure development](https://economictimes.indiatimes.com/tech/artificial-intelligence/foxconn-teams-up-with-nvidia-on-ai-factory-infrastructure-development/articleshow/124596085.cms) (Published: 2025-10-16)
 - [NZ sharemarket rises in late trading as Infratil rallies on data centre deal – Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-rises-in-late-trading-as-infratil-rallies-on-data-centre-deal-market-close/A4VZUZJDJBGSNDV56PI5OHBR54/) (Published: 2025-10-16)
