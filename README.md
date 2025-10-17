@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 19:12:53**_
+_Last updated: **2025-10-17 19:25:34**_
 
 - [India holds limited leverage in its tariff negotiations with the United States, says Uday Kotak](https://economictimes.indiatimes.com/news/india/india-holds-limited-leverage-in-its-tariff-negotiations-with-the-united-states-says-uday-kotak/articleshow/124613793.cms) (Published: 2025-10-16)
 - [Faster, higher, further thanks to OC: Lenovo LOQ 17 RTX 5070 gaming laptop review](https://www.notebookcheck.net/Faster-higher-further-thanks-to-OC-Lenovo-LOQ-17-RTX-5070-gaming-laptop-review.1139998.0.html) (Published: 2025-10-16)
