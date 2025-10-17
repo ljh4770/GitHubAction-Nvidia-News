@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 08:56:09**_
+_Last updated: **2025-10-17 09:23:06**_
 
 - [(PR) Frore Systems introduces LiquidJet, Coldplate for AI Data Centers](https://www.techpowerup.com/341958/frore-systems-introduces-liquidjet-coldplate-for-ai-data-centers) (Published: 2025-10-16)
 - [TSMC posts strongest-ever quarterly profit, lifts 2025 growth outlook to mid-30 per cent range](https://economictimes.indiatimes.com/news/international/us/tsmc-posts-strongest-ever-profit-lifts-2025-growth-outlook-to-mid-30-per-cent-range/articleshow/124600212.cms) (Published: 2025-10-16)
