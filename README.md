@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 22:38:41**_
+_Last updated: **2025-10-17 22:49:17**_
 
 - [Stock Market Today: Dow, S&P 500, Nasdaq Fall; TSMC, Nvidia, AMD, Tesla, More Movers; Trump, China Trade Fears - Barron's](https://slashdot.org/firehose.pl?op=view&amp;id=179810352) (Published: 2025-10-16)
 - [Oracle’s stock rises as Wall Street’s AI profitability concerns are put to rest - MarketWatch](https://slashdot.org/firehose.pl?op=view&amp;id=179810350) (Published: 2025-10-16)
