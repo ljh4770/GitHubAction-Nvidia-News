@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 17:53:56**_
+_Last updated: **2025-10-17 18:20:29**_
 
+- [Is AI a Boom or a Bubble?](https://hbr.org/2025/10/is-ai-a-boom-or-a-bubble) (Published: 2025-10-16)
+- [Wall Street drifts lower in mixed trading](https://www.whio.com/news/business/wall-street-falls/PM2A3XX3O4ZOJOVUOZW7J4SCJE/) (Published: 2025-10-16)
+- [Ascent GX10: Asus packs 128GB RAM and Nvidia GB10 into mini PC with 1,000 TFLOPS](https://www.notebookcheck.net/Ascent-GX10-Asus-packs-128GB-RAM-and-Nvidia-GB10-into-mini-PC-with-1-000-TFLOPS.1140248.0.html) (Published: 2025-10-16)
+- [Consortium led by BlackRock, Nvidia spearheads massive $40B data center acquisition](https://biztoc.com/x/fe33f22e85b20233) (Published: 2025-10-16)
+- [This 26-year-old’s TikTok-like AI app makes playful, creative short videos from just a few words—it’s built for Gen Z](https://fortune.com/2025/10/16/this-26-year-olds-tiktok-like-ai-app-makes-playful-creative-short-videos-from-just-a-few-words-its-built-for-gen-z/) (Published: 2025-10-16)
+- [Musk’s xAI pursuing $20 billion Nvidia chips lease deal](https://finance.yahoo.com/news/musk-xai-pursuing-20-billion-180400834.html) (Published: 2025-10-16)
+- [Cisco Trades Near 52-Week High: Is the CSCO Stock Still a Buy?](https://finance.yahoo.com/news/cisco-trades-near-52-week-180300346.html) (Published: 2025-10-16)
+- [Asus launches ROG NUC mini gaming PC with AMD Ryzen 9 9955HX3D and RTX 5070](https://liliputing.com/asus-launches-rog-nuc-mini-gaming-pc-with-amd-ryzen-9-9955hx3d-and-rtx-5070/) (Published: 2025-10-16)
+- [Experts warn AI could trigger next global stock market crash — here’s what might happen](https://economictimes.indiatimes.com/news/international/us/experts-warn-ai-could-trigger-next-global-stock-market-crash-heres-what-might-happen/articleshow/124611839.cms) (Published: 2025-10-16)
 - [Lenovo ThinkCentre Neo Ultra](https://me.pcmag.com/en/old-desktop-pcs/32944/lenovo-thinkcentre-neo-ultra) (Published: 2025-10-16)
-- [Lenovo ThinkCentre Neo Ultra](https://uk.pcmag.com/desktop-pcs/160770/lenovo-thinkcentre-neo-ultra) (Published: 2025-10-16)
-- [Samsung’s HBM4E Set to Deliver 3.25 TB/s Bandwidth; Nearly 2.5× Faster Than HBM3E, Driving AI Computing to New Levels](https://wccftech.com/samsung-hbm4e-set-to-deliver-a-significant-bandwidth/) (Published: 2025-10-16)
-- [European stocks and euro inch higher as France passes test](https://www.irishtimes.com/business/2025/10/16/european-stocks-and-euro-inch-higher-as-france-passes-test/) (Published: 2025-10-16)
-- [DocuSign CEO says OpenAI’s speed of development is forcing companies to move faster](https://finance.yahoo.com/news/docusign-ceo-says-openais-speed-of-development-is-forcing-companies-to-move-faster-173127967.html) (Published: 2025-10-16)
-- [As Broadcom becomes its latest major ally, this graph shows how OpenAI made itself too big to fail by securing hundreds of billions from the world's largest tech companies](https://www.techradar.com/pro/as-broadcom-becomes-its-latest-ally-this-graph-shows-how-openai-made-itself-too-big-to-fail-by-securing-hundreds-of-billions-from-the-worlds-largest-tech-companies) (Published: 2025-10-16)
-- [How CIOs Can Comply With International Data Privacy Laws](https://www.forbes.com/sites/cio/2025/10/16/how-cios-can-comply-with-international-data-privacy-laws/) (Published: 2025-10-16)
-- [Stocks drift higher, led by Nvidia, TSMC](https://biztoc.com/x/7fa127e83fb05c78) (Published: 2025-10-16)
-- [xAI said to be raising $20B for Nvidia chips deal](https://biztoc.com/x/a14707192197399d) (Published: 2025-10-16)
-- [If You Were Bankrolling OpenAI, the Percent of ChatGPT Users Willing to Pay for It Might Make You Break Out in a Cold Sweat](https://futurism.com/artificial-intelligence/openai-percent-chatgpt-users-pay) (Published: 2025-10-16)
