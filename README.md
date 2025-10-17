@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 15:55:11**_
+_Last updated: **2025-10-17 16:22:55**_
 
+- [QQQ vs. VTI: Which ETF Deserves to Anchor Your Portfolio?](https://biztoc.com/x/2b738140f081e0e9) (Published: 2025-10-16)
+- [What Is Going On With Nvidia, Broadcom Stocks On Thursday?](https://biztoc.com/x/ecb5bd3fc282e079) (Published: 2025-10-16)
 - [Asus’ latest gaming NUC mini PC is powered by a Ryzen X3D chip](https://www.pcworld.com/article/2944244/asus-latest-gaming-nuc-mini-pc-is-powered-by-a-ryzen-x3d-chip.html) (Published: 2025-10-16)
 - [Intel, AMD equity giveaways send stocks soaring despite share dilution](https://financialpost.com/investing/intel-amd-stocks-soaring-despite-share-dilution) (Published: 2025-10-16)
 - [Apple Remains the World's Most Valuable Brand in 2025](https://www.macrumors.com/2025/10/16/apple-remains-worlds-most-valuable-brand-2025/) (Published: 2025-10-16)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-17 15:55:11**_
 - [Navitas Up 2x: What’s Next For NVTS Stock?](https://www.forbes.com/sites/greatspeculations/2025/10/16/navitas-up-2x-whats-next-for-nvts-stock/) (Published: 2025-10-16)
 - [TSMC’s Results Add Another Feather in the Hat of AI Bulls—What You Need to Know](https://www.investopedia.com/tsmc-results-add-another-feather-in-the-hat-of-ai-bulls-what-you-need-to-know-11830920) (Published: 2025-10-16)
 - [Dear Taiwan Semi Stock Fans, Today's Earnings Could Change Everything](https://www.barchart.com/story/news/35500279/dear-taiwan-semi-stock-fans-today-s-earnings-could-change-everything) (Published: 2025-10-16)
-- [China's latest round of rare-earth export controls gives the country dominion over precious resources — regulations have far-reaching implications for the semiconductor industry](https://www.tomshardware.com/tech-industry/semiconductors/chinas-latest-round-of-rare-earth-export-controls-gives-the-country-dominion-over-precious-resources-regulations-have-far-reaching-implications-for-the-semiconductor-industry) (Published: 2025-10-16)
-- [Two Nvidia DGX Spark systems combined with M3 Ultra Mac Studio to create blistering LLM system — EXO Labs demonstrates disaggregated AI inference and achieves a 2.8× benchmark boost](https://www.tomshardware.com/software/two-nvidia-dgx-spark-systems-combined-with-m3-ultra-mac-studio-to-create-blistering-llm-system-exo-labs-demonstrates-disaggregated-ai-inference-and-achieves-a-2-8-benchmark-boost) (Published: 2025-10-16)
