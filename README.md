@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 11:40:21**_
+_Last updated: **2025-10-17 11:50:55**_
 
+- [Earnings live: TSMC profit surges amid 'strong' AI demand, Charles Schwab stock rises, United slips premarket](https://finance.yahoo.com/news/live/earnings-live-tsmc-profit-surges-amid-strong-ai-demand-charles-schwab-stock-rises-united-slips-premarket-115013246.html) (Published: 2025-10-16)
+- [Futures: AI Chip Giant Due; 3 Titans Hit Buy Points, Diverge](https://biztoc.com/x/12bd1455f0f091aa) (Published: 2025-10-16)
 - [Dutch Nexperia takeover saga partly driven by CEO misappropriating $200 million to rescue failing private interests, court records show — U.S. diplomatic pressure may also have played a role](https://www.tomshardware.com/tech-industry/dutch-nexperia-takeover-saga-partly-driven-by-ceo-misappropriating-usd200-million-to-rescue-failing-private-interests-court-records-show-u-s-diplomatic-pressure-may-also-have-played-a-role) (Published: 2025-10-16)
 - [Nvidia Stock Gains. Taiwan Semiconductor Gives the AI Boom Another Boost](https://biztoc.com/x/66b75233b5390495) (Published: 2025-10-16)
 - [US stock futures: Dow gains 200 points, S&P and Nasdaq rally on AI, Tech earnings — but Trump confirms US-China trade war underway, risks on the radar — here’s top stock movers](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-climb-today-dow-jones-gains-200-points-sp-500-and-nasdaq-rally-on-ai-tech-earnings-but-trump-confirms-us-china-trade-war-underway-risks-on-the-radar-heres-top-stock-movers-today/articleshow/124602525.cms) (Published: 2025-10-16)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-17 11:40:21**_
 - [AI Chip Boom Propels Chairman Of Korean Circuit Board Maker Into The Billionaire Ranks](https://www.forbes.com/sites/johnkang/2025/10/16/ai-chip-boom-propels-chairman-of-korean-circuit-board-maker-into-the-billionaire-ranks/) (Published: 2025-10-16)
 - [Links 10/16/2025](https://www.nakedcapitalism.com/2025/10/links-10-16-2025.html) (Published: 2025-10-16)
 - [AYN Thor Review : Dual Screens, Retro Vibes and Modern Power](https://www.geeky-gadgets.com/ayn-thor-handheld-gaming-console/) (Published: 2025-10-16)
-- [Nintendo Switch 2 Continues To Impress Thanks To NVIDIA DLSS and Solid Performance In ROG Xbox Ally X Comparison](https://wccftech.com/nintendo-switch-2-nvidia-dlss-impress-rog-ally-x-comparison/) (Published: 2025-10-16)
-- [“Our Competitor Is Also Our Very Good Customer,” TSMC CEO Says, Throwing Subtle Shade at the Attention Around Intel](https://wccftech.com/our-competitor-is-also-our-very-good-customer-tsmc-ceo-says-throwing-subtle-shade-at-intel/) (Published: 2025-10-16)
