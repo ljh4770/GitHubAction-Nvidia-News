@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 15:31:41**_
+_Last updated: **2025-10-17 15:44:28**_
 
+- [US stock market today: Dow, S&P 500, and Nasdaq advance despite US-China trade tensions — top gainers Nvidia, TSMC, Salesforce, and big banks lift Wall Street](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-october-16-2025-dow-sp-500-and-nasdaq-advance-despite-us-china-trade-tensions-top-gainers-nvidia-tsmc-salesforce-and-big-banks-lift-wall-street/articleshow/124608675.cms) (Published: 2025-10-16)
+- [Navitas Up 2x: What’s Next For NVTS Stock?](https://www.forbes.com/sites/greatspeculations/2025/10/16/navitas-up-2x-whats-next-for-nvts-stock/) (Published: 2025-10-16)
+- [TSMC’s Results Add Another Feather in the Hat of AI Bulls—What You Need to Know](https://www.investopedia.com/tsmc-results-add-another-feather-in-the-hat-of-ai-bulls-what-you-need-to-know-11830920) (Published: 2025-10-16)
 - [Dear Taiwan Semi Stock Fans, Today's Earnings Could Change Everything](https://www.barchart.com/story/news/35500279/dear-taiwan-semi-stock-fans-today-s-earnings-could-change-everything) (Published: 2025-10-16)
 - [China's latest round of rare-earth export controls gives the country dominion over precious resources — regulations have far-reaching implications for the semiconductor industry](https://www.tomshardware.com/tech-industry/semiconductors/chinas-latest-round-of-rare-earth-export-controls-gives-the-country-dominion-over-precious-resources-regulations-have-far-reaching-implications-for-the-semiconductor-industry) (Published: 2025-10-16)
 - [Two Nvidia DGX Spark systems combined with M3 Ultra Mac Studio to create blistering LLM system — EXO Labs demonstrates disaggregated AI inference and achieves a 2.8× benchmark boost](https://www.tomshardware.com/software/two-nvidia-dgx-spark-systems-combined-with-m3-ultra-mac-studio-to-create-blistering-llm-system-exo-labs-demonstrates-disaggregated-ai-inference-and-achieves-a-2-8-benchmark-boost) (Published: 2025-10-16)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-17 15:31:41**_
 - [Like Bill Gates, this sports billionaire says a 3-day work week is on the horizon thanks to AI—but you won’t be bored doing nothing at home](https://fortune.com/2025/10/16/sports-entertainment-billionaire-ari-emanuel-three-day-work-week-thanks-to-ai-like-bill-gates-work-life-balance/) (Published: 2025-10-16)
 - [Like Bill Gates, this sports billionaire says a 3-day work week is on the horizon thanks to AI—but you won’t be bored doing nothing at home](https://finance.yahoo.com/news/bill-gates-sports-billionaire-says-151413744.html) (Published: 2025-10-16)
 - [Left 4 Dead 2 RTX NDT Looks Stunning, But Performance Hit Is Massive On An RTX 5080](https://wccftech.com/left-4-dead-2-rtx-ndt-massive-performance-hit-rtx-5080/) (Published: 2025-10-16)
-- [5x leveraged single stock ETFs could be coming](https://www.thestreet.com/investing/5x-leveraged-single-stock-etfs-could-be-coming) (Published: 2025-10-16)
-- [Assessing NVIDIA's Performance Against Competitors In Semiconductors & Semiconductor Equipment Industry](https://biztoc.com/x/0a6cfbc188c72c9e) (Published: 2025-10-16)
-- [A Backdoor AI Play With No Tariff Risk And 11.9% Return Potential](https://www.forbes.com/sites/brettowens/2025/10/16/a-backdoor-ai-play-with-no-tariff-risk-and-119-return-potential/) (Published: 2025-10-16)
