@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 03:37:02**_
+_Last updated: **2025-10-17 03:52:18**_
 
+- [Gaming PC: R7-9800X3D, RTX 5070 Ti, 32GB 6000Mhz RAM, 1TB NVME + Arc Raiders redemption: $2348 + Delivery @ TechFast](https://www.ozbargain.com.au/node/928927) (Published: 2025-10-16)
 - [Pico Prism proves 99.6% of ETH blocks in real time: 10K TPS gets closer](https://cointelegraph.com/news/pico-prism-proves-99-eth-blocks-real-time-10k-tps-on-l1-comes-closer) (Published: 2025-10-16)
 - [Larry Ellison calls AI a ‘remarkable electronic brain’ to empower humans, not replace them](https://www.thehindubusinessline.com/info-tech/oracle-ai-world-larry-ellison-calls-ai-a-remarkable-electronic-brain-to-empower-humans-not-replace-them/article70169759.ece) (Published: 2025-10-16)
 - [OCP Summit: Arm expands ecosystem to support AI workloads and chiplet integration](https://www.digitimes.com/news/a20251016VL209/arm-design-ai-applications-nvidia-asic.html) (Published: 2025-10-16)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-17 03:37:02**_
 - [Top Stocks: Walmart, Bunge Global, and AMD](https://www.thestreet.com/markets/top-stocks-walmart-bunge-global-and-amd) (Published: 2025-10-16)
 - [Jensen Huang reveals 6 AI model names that all Nvidia employees use at work; here's the full list](https://www.livemint.com/companies/people/jensen-huang-reveals-6-ai-model-openai-cursor-replit-lovable-harvey-openevidence-all-nvidia-employees-use-work-full-list-11760575968859.html) (Published: 2025-10-16)
 - [Why does a Local AI Voice Agent Running on a Super-Cheap Soc Matter?](https://petewarden.com/2025/10/16/why-does-a-local-ai-voice-agent-running-on-a-super-cheap-soc-matter/) (Published: 2025-10-16)
-- [‘Don’t Take the Shot Just Yet,’ Says Top Investor About Nvidia Stock](https://biztoc.com/x/7c400e87170df696) (Published: 2025-10-16)
