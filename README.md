@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 11:50:55**_
+_Last updated: **2025-10-17 12:18:38**_
 
+- [Why Nvidia Discontinued The 'GTX' Graphics Card Line](https://www.bgr.com/1992256/why-nvidia-discontinued-gtx-graphics-card-reason/) (Published: 2025-10-16)
+- [TSMC reports 39% year-over-year profit increase in Q3](https://qz.com/tsmc-earnings-profits-increase-39-percent-ai-bubble) (Published: 2025-10-16)
+- [Why we should all be worried about the AI bubble](https://www.computerweekly.com/opinion/Why-we-should-all-be-worried-about-the-AI-bubble) (Published: 2025-10-16)
 - [Earnings live: TSMC profit surges amid 'strong' AI demand, Charles Schwab stock rises, United slips premarket](https://finance.yahoo.com/news/live/earnings-live-tsmc-profit-surges-amid-strong-ai-demand-charles-schwab-stock-rises-united-slips-premarket-115013246.html) (Published: 2025-10-16)
 - [Futures: AI Chip Giant Due; 3 Titans Hit Buy Points, Diverge](https://biztoc.com/x/12bd1455f0f091aa) (Published: 2025-10-16)
 - [Dutch Nexperia takeover saga partly driven by CEO misappropriating $200 million to rescue failing private interests, court records show — U.S. diplomatic pressure may also have played a role](https://www.tomshardware.com/tech-industry/dutch-nexperia-takeover-saga-partly-driven-by-ceo-misappropriating-usd200-million-to-rescue-failing-private-interests-court-records-show-u-s-diplomatic-pressure-may-also-have-played-a-role) (Published: 2025-10-16)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-17 11:50:55**_
 - [US stock futures: Dow gains 200 points, S&P and Nasdaq rally on AI, Tech earnings — but Trump confirms US-China trade war underway, risks on the radar — here’s top stock movers](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-climb-today-dow-jones-gains-200-points-sp-500-and-nasdaq-rally-on-ai-tech-earnings-but-trump-confirms-us-china-trade-war-underway-risks-on-the-radar-heres-top-stock-movers-today/articleshow/124602525.cms) (Published: 2025-10-16)
 - [Webscale & AI Compute Energy & Sustainability Tracker 2025 | AI Compute Expansion Pushes Webscale Sector Energy Use to 190.8 TWh in 2024](https://www.globenewswire.com/news-release/2025/10/16/3167793/28124/en/Webscale-AI-Compute-Energy-Sustainability-Tracker-2025-AI-Compute-Expansion-Pushes-Webscale-Sector-Energy-Use-to-190-8-TWh-in-2024.html) (Published: 2025-10-16)
 - [This Lenovo 2-in-1 is great for multitasking (and is over 50% off)](https://www.zdnet.com/article/this-lenovo-2-in-1-is-great-for-multitasking-and-is-over-50-off/) (Published: 2025-10-16)
-- [AI Chip Boom Propels Chairman Of Korean Circuit Board Maker Into The Billionaire Ranks](https://www.forbes.com/sites/johnkang/2025/10/16/ai-chip-boom-propels-chairman-of-korean-circuit-board-maker-into-the-billionaire-ranks/) (Published: 2025-10-16)
-- [Links 10/16/2025](https://www.nakedcapitalism.com/2025/10/links-10-16-2025.html) (Published: 2025-10-16)
-- [AYN Thor Review : Dual Screens, Retro Vibes and Modern Power](https://www.geeky-gadgets.com/ayn-thor-handheld-gaming-console/) (Published: 2025-10-16)
