@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 10:44:25**_
+_Last updated: **2025-10-17 10:54:37**_
 
 - [AYN Thor Review : Dual Screens, Retro Vibes and Modern Power](https://www.geeky-gadgets.com/ayn-thor-handheld-gaming-console/) (Published: 2025-10-16)
 - [Nintendo Switch 2 Continues To Impress Thanks To NVIDIA DLSS and Solid Performance In ROG Xbox Ally X Comparison](https://wccftech.com/nintendo-switch-2-nvidia-dlss-impress-rog-ally-x-comparison/) (Published: 2025-10-16)
