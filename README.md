@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 19:47:59**_
+_Last updated: **2025-10-17 19:58:09**_
 
+- [Spatial-temporal reasoning startup General Intuition closes $133.7M investment](https://siliconangle.com/2025/10/16/spatial-temporal-reasoning-startup-general-intuition-closes-133-7m-investment/) (Published: 2025-10-16)
 - [This Nvidia GPU has finally gotten its deserved price — All thanks to this rare discount, making it $50 cheaper than its steep MSRP for a limited time](https://www.windowscentral.com/hardware/gpus/this-nvidia-gpu-has-finally-gotten-its-deserved-price-all-thanks-to-this-rare-discount-making-it-usd50-cheaper-than-its-steep-msrp-for-a-limited-time) (Published: 2025-10-16)
 - [India holds limited leverage in its tariff negotiations with the United States, says Uday Kotak](https://economictimes.indiatimes.com/news/india/india-holds-limited-leverage-in-its-tariff-negotiations-with-the-united-states-says-uday-kotak/articleshow/124613793.cms) (Published: 2025-10-16)
 - [Faster, higher, further thanks to OC: Lenovo LOQ 17 RTX 5070 gaming laptop review](https://www.notebookcheck.net/Faster-higher-further-thanks-to-OC-Lenovo-LOQ-17-RTX-5070-gaming-laptop-review.1139998.0.html) (Published: 2025-10-16)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-17 19:47:59**_
 - [Who Benefits From AI Spending? JP Morgan's Top Picks](https://biztoc.com/x/e82cebfaa8be332e) (Published: 2025-10-16)
 - [‘Tougher world outside India’: Uday Kotak's strong advice to Indians in Diwali message amid US tariffs, global tensions](https://www.livemint.com/companies/people/tougher-world-outside-india-uday-kotaks-strong-advice-to-indians-in-diwali-message-amid-us-tariffs-global-tensions-11760633147668.html) (Published: 2025-10-16)
 - [Is AI a Boom or a Bubble?](https://hbr.org/2025/10/is-ai-a-boom-or-a-bubble) (Published: 2025-10-16)
-- [Wall Street drifts lower in mixed trading](https://www.whio.com/news/business/wall-street-falls/PM2A3XX3O4ZOJOVUOZW7J4SCJE/) (Published: 2025-10-16)
