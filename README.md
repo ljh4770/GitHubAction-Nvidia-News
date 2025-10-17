@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 19:37:26**_
+_Last updated: **2025-10-17 19:47:59**_
 
 - [This Nvidia GPU has finally gotten its deserved price — All thanks to this rare discount, making it $50 cheaper than its steep MSRP for a limited time](https://www.windowscentral.com/hardware/gpus/this-nvidia-gpu-has-finally-gotten-its-deserved-price-all-thanks-to-this-rare-discount-making-it-usd50-cheaper-than-its-steep-msrp-for-a-limited-time) (Published: 2025-10-16)
 - [India holds limited leverage in its tariff negotiations with the United States, says Uday Kotak](https://economictimes.indiatimes.com/news/india/india-holds-limited-leverage-in-its-tariff-negotiations-with-the-united-states-says-uday-kotak/articleshow/124613793.cms) (Published: 2025-10-16)
