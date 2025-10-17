@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 17:16:24**_
+_Last updated: **2025-10-17 17:32:27**_
 
+- [DocuSign CEO says OpenAI’s speed of development is forcing companies to move faster](https://finance.yahoo.com/news/docusign-ceo-says-openais-speed-of-development-is-forcing-companies-to-move-faster-173127967.html) (Published: 2025-10-16)
+- [As Broadcom becomes its latest major ally, this graph shows how OpenAI made itself too big to fail by securing hundreds of billions from the world's largest tech companies](https://www.techradar.com/pro/as-broadcom-becomes-its-latest-ally-this-graph-shows-how-openai-made-itself-too-big-to-fail-by-securing-hundreds-of-billions-from-the-worlds-largest-tech-companies) (Published: 2025-10-16)
+- [How CIOs Can Comply With International Data Privacy Laws](https://www.forbes.com/sites/cio/2025/10/16/how-cios-can-comply-with-international-data-privacy-laws/) (Published: 2025-10-16)
+- [Stocks drift higher, led by Nvidia, TSMC](https://biztoc.com/x/7fa127e83fb05c78) (Published: 2025-10-16)
+- [xAI said to be raising $20B for Nvidia chips deal](https://biztoc.com/x/a14707192197399d) (Published: 2025-10-16)
 - [If You Were Bankrolling OpenAI, the Percent of ChatGPT Users Willing to Pay for It Might Make You Break Out in a Cold Sweat](https://futurism.com/artificial-intelligence/openai-percent-chatgpt-users-pay) (Published: 2025-10-16)
 - [Black Myth: Wukong gets a big performance update out now](https://www.gamingonlinux.com/2025/10/black-myth-wukong-gets-a-big-performance-update-out-now/.) (Published: 2025-10-16)
 - [KENNETH RAPOZA: The US–China Trade War Isn’t Cooling; It’s Just Getting Started](https://dailycaller.com/2025/10/16/opinion-the-u-s-china-trade-war-isnt-cooling-its-just-getting-started-kenneth-rapoza/) (Published: 2025-10-16)
 - [Microsoft Joins Big Tech Giants Looking to Exit China Operations](https://gizmodo.com/microsoft-joins-big-tech-giants-looking-to-exit-china-operations-2000673066) (Published: 2025-10-16)
 - [The Crypto Industry's Rush To Tokenize Stocks Is Setting Off Alarm Bells—And Wall Street Wants Regulators To Pump The Brakes](https://finance.yahoo.com/news/crypto-industrys-rush-tokenize-stocks-170114880.html) (Published: 2025-10-16)
-- [5 key takeaways after testing AI gaming assistants — How does Copilot for Gaming compare to NVIDIA Project G-Assist?](https://www.windowscentral.com/artificial-intelligence/copilot-for-gaming-vs-nvidia-project-g-assist) (Published: 2025-10-16)
-- [Pixnapping: Side-Channel Vulnerability Allows Android Apps to Capture Sensitive Screen Data](https://www.infoq.com/news/2025/10/pixnapping-android-attack/) (Published: 2025-10-16)
-- [Stock Market Today: Nasdaq Up, Snowflake Tests Entry; NuScale Leads Nukes (Live Coverage)](https://biztoc.com/x/b4f87cdde4b84d38) (Published: 2025-10-16)
-- [One of the most refined Windows 11 PCs I've tested this year is not what you think](https://www.zdnet.com/article/one-of-the-most-refined-windows-11-pcs-ive-tested-this-year-is-not-what-you-think/) (Published: 2025-10-16)
-- [nvidia-dali-nightly-cuda130 1.53.0.dev20251016](https://pypi.org/project/nvidia-dali-nightly-cuda130/1.53.0.dev20251016/) (Published: 2025-10-16)
