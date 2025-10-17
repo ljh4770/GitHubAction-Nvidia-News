@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-17 10:54:37**_
+_Last updated: **2025-10-17 11:14:30**_
 
+- [US stock futures: Dow gains 200 points, S&P and Nasdaq rally on AI, Tech earnings — but Trump confirms US-China trade war underway, risks on the radar — here’s top stock movers](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-climb-today-dow-jones-gains-200-points-sp-500-and-nasdaq-rally-on-ai-tech-earnings-but-trump-confirms-us-china-trade-war-underway-risks-on-the-radar-heres-top-stock-movers-today/articleshow/124602525.cms) (Published: 2025-10-16)
+- [Webscale & AI Compute Energy & Sustainability Tracker 2025 | AI Compute Expansion Pushes Webscale Sector Energy Use to 190.8 TWh in 2024](https://www.globenewswire.com/news-release/2025/10/16/3167793/28124/en/Webscale-AI-Compute-Energy-Sustainability-Tracker-2025-AI-Compute-Expansion-Pushes-Webscale-Sector-Energy-Use-to-190-8-TWh-in-2024.html) (Published: 2025-10-16)
+- [This Lenovo 2-in-1 is great for multitasking (and is over 50% off)](https://www.zdnet.com/article/this-lenovo-2-in-1-is-great-for-multitasking-and-is-over-50-off/) (Published: 2025-10-16)
+- [AI Chip Boom Propels Chairman Of Korean Circuit Board Maker Into The Billionaire Ranks](https://www.forbes.com/sites/johnkang/2025/10/16/ai-chip-boom-propels-chairman-of-korean-circuit-board-maker-into-the-billionaire-ranks/) (Published: 2025-10-16)
+- [Links 10/16/2025](https://www.nakedcapitalism.com/2025/10/links-10-16-2025.html) (Published: 2025-10-16)
 - [AYN Thor Review : Dual Screens, Retro Vibes and Modern Power](https://www.geeky-gadgets.com/ayn-thor-handheld-gaming-console/) (Published: 2025-10-16)
 - [Nintendo Switch 2 Continues To Impress Thanks To NVIDIA DLSS and Solid Performance In ROG Xbox Ally X Comparison](https://wccftech.com/nintendo-switch-2-nvidia-dlss-impress-rog-ally-x-comparison/) (Published: 2025-10-16)
 - [“Our Competitor Is Also Our Very Good Customer,” TSMC CEO Says, Throwing Subtle Shade at the Attention Around Intel](https://wccftech.com/our-competitor-is-also-our-very-good-customer-tsmc-ceo-says-throwing-subtle-shade-at-intel/) (Published: 2025-10-16)
 - [Gene Munster Calls $40 Billion Texas Data Center Involving Nvidia, xAI, Microsoft And BlackRock Proof That 'We're Still Early In AI'](https://biztoc.com/x/14c45092936d2639) (Published: 2025-10-16)
 - [SoftBank, NVIDIA Join OpenAI in 200 Trillion Yen AI Investment Surge](https://newsonjapan.com/article/147300.php) (Published: 2025-10-16)
-- [Upgrading your Windows 10 PC? I answered the toughest question about buying laptops for you](https://www.zdnet.com/article/upgrading-your-windows-10-pc-i-answered-the-toughest-question-about-buying-laptops-for-you/) (Published: 2025-10-16)
-- [Need a new GPU? Amazon drops the Nvidia RTX 5070 to its lowest price ever – but there's a catch](https://www.techradar.com/computing/gpu/need-a-new-gpu-amazon-drops-the-nvidia-rtx-5070-to-its-lowest-price-ever-but-theres-a-catch) (Published: 2025-10-16)
-- [Up 80% This Year, Sell Intel Stock Ahead Of Earnings?](https://www.forbes.com/sites/greatspeculations/2025/10/16/up-80-this-year-sell-intel-stock-ahead-of-earnings/) (Published: 2025-10-16)
-- [I tried a budget Lenovo laptop that beat Apple’s M4 Air in tests](https://www.creativebloq.com/tech/laptops/i-tried-a-budget-lenovo-laptop-that-beat-apples-m4-air-in-tests) (Published: 2025-10-16)
-- [IBM Cloud Code Engine Serverless Fleets with GPUs for High-Performance AI and Parallel Computing](https://www.infoq.com/news/2025/10/ibm-cloud-code-engine-serverless/) (Published: 2025-10-16)
