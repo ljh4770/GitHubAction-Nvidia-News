@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 22:31:03**_
+_Last updated: **2025-10-18 22:42:00**_
 
 - [The US has a new roadmap for fusion energy, without the funds to back it up](https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap) (Published: 2025-10-17)
 - [$500 purple cables put this little-known company in the middle of the AI boom](https://www.cnbc.com/2025/10/17/500-purple-cables-put-credo-in-middle-of-the-ai-boom.html) (Published: 2025-10-17)
