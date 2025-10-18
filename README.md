@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 07:30:15**_
+_Last updated: **2025-10-18 07:40:26**_
 
 - [스튜디오메타케이, 중기부 ‘스케일업 팁스’ 선정](https://www.venturesquare.net/1009281) (Published: 2025-10-17)
 - [Sneak peek: GPU-accelerated smoke and fire in NeXus](https://www.cgchannel.com/2025/10/insydium-previews-gpu-accelerated-smoke-and-fire-in-nexus/) (Published: 2025-10-17)
