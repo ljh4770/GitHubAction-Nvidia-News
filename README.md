@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 13:46:32**_
+_Last updated: **2025-10-18 13:57:08**_
 
+- [OpenAI’s Deals With Broadcom and AMD Show How Big AI Market Can Be](https://finance.yahoo.com/news/openai-deals-broadcom-amd-show-134707466.html) (Published: 2025-10-17)
 - [Investor Insanity? The Degenerate Economy Index Up 130%](https://www.forbes.com/sites/boazsobrado/2025/10/17/investor-insanity-the-degenerate-economy-index-up-130/) (Published: 2025-10-17)
 - [nvidia-compute-eval 25.9](https://pypi.org/project/nvidia-compute-eval/25.9/) (Published: 2025-10-17)
 - [nvidia-compute-eval added to PyPI](https://pypi.org/project/nvidia-compute-eval/) (Published: 2025-10-17)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-18 13:46:32**_
 - [Nvidia Targets AI Data Centers And All-Renewable Electricity](https://biztoc.com/x/e165b4b36bb91780) (Published: 2025-10-17)
 - [Vampire: The Masquerade – Bloodlines 2 Review – Greatly Uneven But Still Worth a Look](https://wccftech.com/review/vampire-the-masquerade-bloodlines-2-greatly-uneven-but-still-worth-a-look/) (Published: 2025-10-17)
 - [Supermicro's Blackwell-Powered Servers Spark 200% Rally -- Is SMCI Still a Buy?](https://finance.yahoo.com/news/supermicros-blackwell-powered-servers-spark-125424950.html) (Published: 2025-10-17)
-- [Getac readies rugged laptops powered by AMD Krackan Point and Intel Lunar Lake CPUs](https://www.notebookcheck.net/Getac-readies-rugged-laptops-powered-by-AMD-Krackan-Point-and-Intel-Lunar-Lake-CPUs.1140756.0.html) (Published: 2025-10-17)
