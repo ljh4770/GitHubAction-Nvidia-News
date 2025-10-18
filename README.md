@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 04:55:57**_
+_Last updated: **2025-10-18 05:18:24**_
 
 - [Nvidia Packs Data Center AI Into A Desktop Box](https://www.forbes.com/sites/janakirammsv/2025/10/17/nvidia-packs-data-center-ai-into-a-desktop-box/) (Published: 2025-10-17)
 - [Nine Years After Delivering 1st DGX, Nvidia's Jensen Huang Hand-Delivers New DGX Spark To Elon Musk](https://biztoc.com/x/b7de0af7e6720e52) (Published: 2025-10-17)
