@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 03:40:47**_
+_Last updated: **2025-10-18 03:51:17**_
 
+- [Gold market cap soars to $30T, dwarfing Bitcoin and tech giants](https://cointelegraph.com/news/gold-market-cap-soars-30-trillion-dwarfing-bitcoin-and-tech-giants) (Published: 2025-10-17)
 - [Scott Bessent Says US Investment Boom 'Sustainable' Under Trump: 'The Only Thing Slowing Us Down...'](https://finance.yahoo.com/news/scott-bessent-says-us-investment-023111948.html) (Published: 2025-10-17)
 - [nvidia-eff-tao-encryption 0.1.10](https://pypi.org/project/nvidia-eff-tao-encryption/0.1.10/) (Published: 2025-10-17)
 - [Jeff Bezos Touts Data Centers In Space As Samsung And OpenAI Plan Floating Data Centers In The Ocean](https://finance.yahoo.com/news/jeff-bezos-touts-data-centers-013131234.html) (Published: 2025-10-17)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-18 03:40:47**_
 - [Bio-inspired neutrosophic-enzyme intelligence framework for pediatric dental disease detection using multi-modal clinical data](https://www.nature.com/articles/s41598-025-21923-5) (Published: 2025-10-17)
 - [Google’s DeepMind and CFS are building an AI plasma control system for nuclear fusion](https://siliconangle.com/2025/10/16/googles-deepmind-cfs-building-ai-plasma-control-system-nuclear-fusion/) (Published: 2025-10-16)
 - [Tom Lee Just Declared 'A Bubble Burst'—Will BitMine And Strategy Be Ok?](https://finance.yahoo.com/news/tom-lee-just-declared-bubble-233105803.html) (Published: 2025-10-16)
-- [Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://blog.exolabs.net/nvidia-dgx-spark) (Published: 2025-10-16)
