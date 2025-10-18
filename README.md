@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 06:57:15**_
+_Last updated: **2025-10-18 07:19:37**_
 
 - ['Non-Productive' Gold Zooms to $30T Market Cap, Leaving Bitcoin, Nvidia, Apple, Google Far Behind](https://biztoc.com/x/3dfb158f3f8f94d1) (Published: 2025-10-17)
 - [Source: OpenAI expects to spend 20% to 30% less on AI chips co-developed with Broadcom than on chips from Nvidia, which is notoriously backlogged on GPU orders](https://biztoc.com/x/da783830c4d99b7c) (Published: 2025-10-17)
