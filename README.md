@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 10:22:51**_
+_Last updated: **2025-10-18 10:37:54**_
 
+- [Will the AI Bubble Trigger a Financial Crisis?](https://www.project-syndicate.org/commentary/ai-bubble-will-it-cause-a-financial-crisis-by-hilary-j-allen-2025-10) (Published: 2025-10-17)
+- [Asus ROG Strix XG27AQDPG review: This monitor just solved motion clarity](https://www.pcworld.com/article/2941203/asus-rog-strix-xg27aqdpg-review.html) (Published: 2025-10-17)
 - [AI can't justify its massive buildout — but doesn't have to, yet](https://finance.yahoo.com/news/ai-cant-justify-its-massive-buildout--but-doesnt-have-to-yet-100018131.html) (Published: 2025-10-17)
 - [Mini-Brains: The Future of Computing?](https://nep123.com/mini-brains-the-future-of-computing/) (Published: 2025-10-17)
 - [Singapore director of Megaspeed probed over Nvidia chips](https://www.straitstimes.com/business/the-megaspeed-mystery-whos-the-singaporean-behind-firm-at-centre-of-nvidia-chips-probe) (Published: 2025-10-17)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-18 10:22:51**_
 - [Design of a Standard-Compliant Real-Time Neural Receiver for 5G NR](https://research.nvidia.com/publication/2025-05_design-standard-compliant-real-time-neural-receiver-5g-nr) (Published: 2025-10-17)
 - [China's secret weapon in chip battle with US: intense city rivalry](https://finance.yahoo.com/news/chinas-secret-weapon-chip-battle-093000681.html) (Published: 2025-10-17)
 - [Zohran Mamdani, the Power Breaker](http://nymag.com/intelligencer/article/zohran-mamdani-nyc-mayor-race-democratic-party-frank-rich.html) (Published: 2025-10-17)
-- [Fears of an AI bubble are growing, but some on Wall Street aren't worried just yet](https://www.nbcnews.com/business/markets/fears-ai-bubble-are-growing-wall-street-arent-worried-just-yet-rcna238076) (Published: 2025-10-17)
-- [AIP, MGX, BlackRock’s GIP consortium to buy Aligned for $40bn](https://www.verdict.co.uk/aip-mgx-blackrocks-gip-aligned/) (Published: 2025-10-17)
