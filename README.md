@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 19:18:26**_
+_Last updated: **2025-10-18 19:29:08**_
 
 - [MSI’s Vector 16 HX AI Gaming Laptop Still Holds The ‘Price To Performance’ Crown With Its RTX 5070 Ti Configuration Available For $1,749, But Limited Units Remain](https://wccftech.com/msi-vector-16-hx-ai-rtx-5070-ti-gaming-laptop-best-price-to-performance-machine-for-1749/) (Published: 2025-10-17)
 - [“Our Market Share Dropped From 95% to 0%,” Says NVIDIA CEO Jensen Huang in a ‘Temporary Goodbye’ to China’s AI Market](https://wccftech.com/our-market-share-dropped-from-95-to-0-in-china-says-nvidia-ceo/) (Published: 2025-10-17)
