@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 09:57:31**_
+_Last updated: **2025-10-18 10:22:51**_
 
+- [AI can't justify its massive buildout — but doesn't have to, yet](https://finance.yahoo.com/news/ai-cant-justify-its-massive-buildout--but-doesnt-have-to-yet-100018131.html) (Published: 2025-10-17)
 - [Mini-Brains: The Future of Computing?](https://nep123.com/mini-brains-the-future-of-computing/) (Published: 2025-10-17)
 - [Singapore director of Megaspeed probed over Nvidia chips](https://www.straitstimes.com/business/the-megaspeed-mystery-whos-the-singaporean-behind-firm-at-centre-of-nvidia-chips-probe) (Published: 2025-10-17)
 - [Nvidia Stock Falls. What’s Dragging on the AI Chip Maker](https://biztoc.com/x/2473c54af2058f85) (Published: 2025-10-17)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-18 09:57:31**_
 - [Zohran Mamdani, the Power Breaker](http://nymag.com/intelligencer/article/zohran-mamdani-nyc-mayor-race-democratic-party-frank-rich.html) (Published: 2025-10-17)
 - [Fears of an AI bubble are growing, but some on Wall Street aren't worried just yet](https://www.nbcnews.com/business/markets/fears-ai-bubble-are-growing-wall-street-arent-worried-just-yet-rcna238076) (Published: 2025-10-17)
 - [AIP, MGX, BlackRock’s GIP consortium to buy Aligned for $40bn](https://www.verdict.co.uk/aip-mgx-blackrocks-gip-aligned/) (Published: 2025-10-17)
-- [Research insight: Nvidia's push into 'Physical AI' signals a new era for autonomous vehicles](https://www.digitimes.com/news/a20251015PD232/nvidia-2025-data-automakers-vehicle.html) (Published: 2025-10-17)
