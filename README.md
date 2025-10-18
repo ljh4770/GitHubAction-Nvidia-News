@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 03:51:17**_
+_Last updated: **2025-10-18 04:11:51**_
 
+- [Analysis-AI boom rippling across to Britain's pound, Swedish crown](https://finance.yahoo.com/news/analysis-ai-boom-rippling-across-040317512.html) (Published: 2025-10-17)
+- [Foxconn chairman confirms meeting with OpenAI CEO, plans talks with Nvidia CEO](https://www.digitimes.com/news/a20251017PD218.html) (Published: 2025-10-17)
 - [Gold market cap soars to $30T, dwarfing Bitcoin and tech giants](https://cointelegraph.com/news/gold-market-cap-soars-30-trillion-dwarfing-bitcoin-and-tech-giants) (Published: 2025-10-17)
 - [Scott Bessent Says US Investment Boom 'Sustainable' Under Trump: 'The Only Thing Slowing Us Down...'](https://finance.yahoo.com/news/scott-bessent-says-us-investment-023111948.html) (Published: 2025-10-17)
 - [nvidia-eff-tao-encryption 0.1.10](https://pypi.org/project/nvidia-eff-tao-encryption/0.1.10/) (Published: 2025-10-17)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-18 03:51:17**_
 - [If You Were Bankrolling OpenAI, the Percent of ChatGPT Users Willing to Pay for It Might Make You Break Out in a Cold Sweat](https://biztoc.com/x/3cc7f935bf17c32e) (Published: 2025-10-17)
 - [nvidia-eff 0.6.7](https://pypi.org/project/nvidia-eff/0.6.7/) (Published: 2025-10-17)
 - [Bio-inspired neutrosophic-enzyme intelligence framework for pediatric dental disease detection using multi-modal clinical data](https://www.nature.com/articles/s41598-025-21923-5) (Published: 2025-10-17)
-- [Google’s DeepMind and CFS are building an AI plasma control system for nuclear fusion](https://siliconangle.com/2025/10/16/googles-deepmind-cfs-building-ai-plasma-control-system-nuclear-fusion/) (Published: 2025-10-16)
-- [Tom Lee Just Declared 'A Bubble Burst'—Will BitMine And Strategy Be Ok?](https://finance.yahoo.com/news/tom-lee-just-declared-bubble-233105803.html) (Published: 2025-10-16)
