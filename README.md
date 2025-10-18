@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 15:40:12**_
+_Last updated: **2025-10-18 15:50:18**_
 
 - [Mark Benioff pitches Salesforce’s agentic dreams as AI factories boom](https://siliconangle.com/2025/10/17/mark-benioff-pitches-salesforces-agentic-dreams-ai-factories-boom/) (Published: 2025-10-17)
 - [Micron to exit server chips business in China after ban, sources say](https://economictimes.indiatimes.com/tech/technology/micron-to-exit-server-chips-business-in-china-after-ban-sources-say/articleshow/124635957.cms) (Published: 2025-10-17)
