@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 08:35:27**_
+_Last updated: **2025-10-18 08:48:48**_
 
 - [Gold valued now at 7 times NVIDIA amid US-China tensions, becomes first asset in history to surpass $30 trillion market cap](https://economictimes.indiatimes.com/news/international/us/gold-valued-now-at-7-times-nvidia-amid-us-china-tensions-becomes-first-asset-in-history-to-surpass-30-trillion-market-cap/articleshow/124624626.cms) (Published: 2025-10-17)
 - [Sionna Research Kit: A GPU-Accelerated Research Platform for AI-RAN](https://research.nvidia.com/publication/2025-05_sionna-research-kit-gpu-accelerated-research-platform-ai-ran) (Published: 2025-10-17)
