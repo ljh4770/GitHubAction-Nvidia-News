@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 22:13:11**_
+_Last updated: **2025-10-18 22:31:03**_
 
+- [The US has a new roadmap for fusion energy, without the funds to back it up](https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap) (Published: 2025-10-17)
 - [$500 purple cables put this little-known company in the middle of the AI boom](https://www.cnbc.com/2025/10/17/500-purple-cables-put-credo-in-middle-of-the-ai-boom.html) (Published: 2025-10-17)
 - [$500 purple cables put this little-known company in the middle of the AI boom](https://biztoc.com/x/ff4e30346bf69dd3) (Published: 2025-10-17)
 - [A $5 billion deal key to CoreWeave's AI empire just lost another investor's support](https://www.businessinsider.com/core-scientific-shareholder-oppose-coreweave-takeover-bid-2025-10) (Published: 2025-10-17)
@@ -9,4 +10,3 @@ _Last updated: **2025-10-18 22:13:11**_
 - [New XRP ETF Filing Set To Hit The Books With Another Major Twist](https://bitcoinist.com/new-xrp-etf-filing-coming/) (Published: 2025-10-17)
 - [Dell Pro Max 16 Plus improves upon almost everything about the Precision 7680](https://www.notebookcheck.net/Dell-Pro-Max-16-Plus-improves-upon-almost-everything-about-the-Precision-7680.1138375.0.html) (Published: 2025-10-17)
 - [TSMC accelerates 2 nm chip production and U.S. expansion as the global race for next-gen AI processors heats up](https://www.notebookcheck.net/TSMC-accelerates-2-nm-chip-production-and-U-S-expansion-as-the-global-race-for-next-gen-AI-processors-heats-up.1141018.0.html) (Published: 2025-10-17)
-- [Newsmax Stock Pops As Company Plans To Buy Bitcoin, Trump Coin](https://finance.yahoo.com/news/newsmax-stock-pops-company-plans-203208200.html) (Published: 2025-10-17)
