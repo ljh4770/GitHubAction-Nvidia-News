@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 19:59:46**_
+_Last updated: **2025-10-18 20:26:09**_
 
+- [Nvidia and TSMC unveil the first Blackwell chip wafer made in the US, which will eventually become Blackwell chips (Megan Morrone/Axios)](https://www.techmeme.com/251017/p31) (Published: 2025-10-17)
+- [Free Steam playtest for upcoming extraction shooter kicks off with a bang — runs on Linux despite Easy Anti-Cheat](https://www.notebookcheck.net/Free-Steam-playtest-for-upcoming-extraction-shooter-kicks-off-with-a-bang-runs-on-Linux-despite-Easy-Anti-Cheat.1141002.0.html) (Published: 2025-10-17)
+- [Nvidia unveils first Blackwell chip wafer made with TSMC in US](https://www.channelnewsasia.com/business/nvidia-unveils-first-blackwell-chip-wafer-made-tsmc-in-us-5410241) (Published: 2025-10-17)
+- [Lila Sciences, which uses AI to develop novel drugs and materials, raised $115M at a $1.3B valuation, bringing its Series A to $350M and total funding to $550M](https://biztoc.com/x/0dc3d2d3ae0ce143) (Published: 2025-10-17)
+- [Platformonomics TGIF #104: October 17, 2025](https://platformonomics.com/2025/10/platformonomics-tgif-104-october-17-2025/) (Published: 2025-10-17)
+- [Nvidia and TSMC unveil first Blackwell chip wafer made in US, Axios reports](https://finance.yahoo.com/news/nvidia-tsmc-unveil-first-blackwell-200512383.html) (Published: 2025-10-17)
+- [Your AI tools run on fracked gas and bulldozed Texas land | TechCrunch](https://techcrunch.com/2025/10/17/your-ai-tools-run-on-fracked-gas-and-bulldozed-texas-land/) (Published: 2025-10-17)
+- [Lila Sciences, which uses AI to develop novel drugs and materials, raised $115M at a $1.3B valuation, bringing its Series A to $350M and total funding to $550M (Krystal Hu/Reuters)](https://www.techmeme.com/251017/p30) (Published: 2025-10-17)
 - [The Lenovo Legion Pro 5 RTX 5070 Ti Gaming Laptop with OLED Display Drops to $1,700](https://www.ign.com/articles/lenovo-legion-pro-5-rtx-5070-ti-gaming-laptop-with-oled-display-drops-to-1700) (Published: 2025-10-17)
 - [Talking About The Legacy Of AI](https://www.forbes.com/sites/johnwerner/2025/10/17/talking-about-the-legacy-of-ai/) (Published: 2025-10-17)
-- [Dell Pro Max 14 Premium Review: Potent Portable](https://www.storagereview.com/review/dell-pro-max-14-premium-review-potent-portable) (Published: 2025-10-17)
-- [5 ways women leaders are defining the AI semiconductor revolution](https://siliconangle.com/2025/10/17/ai-era-silicon-drives-next-semiconductor-revolution-gsawomeninleadership/) (Published: 2025-10-17)
-- [Save $200 on the 2025 Acer Nitro V - a budget gaming laptop that boasts serious power](https://www.zdnet.com/article/save-200-on-the-2025-acer-nitro-v-a-budget-gaming-laptop-that-boasts-serious-power/) (Published: 2025-10-17)
-- [MSI’s Vector 16 HX AI Gaming Laptop Still Holds The ‘Price To Performance’ Crown With Its RTX 5070 Ti Configuration Available For $1,749, But Limited Units Remain](https://wccftech.com/msi-vector-16-hx-ai-rtx-5070-ti-gaming-laptop-best-price-to-performance-machine-for-1749/) (Published: 2025-10-17)
-- [“Our Market Share Dropped From 95% to 0%,” Says NVIDIA CEO Jensen Huang in a ‘Temporary Goodbye’ to China’s AI Market](https://wccftech.com/our-market-share-dropped-from-95-to-0-in-china-says-nvidia-ceo/) (Published: 2025-10-17)
-- [Enterprise AI Agents Clock In On The Factory Floor](https://www.forbes.com/sites/moorinsights/2025/10/17/enterprise-ai-agents-clock-in-on-the-factory-floor/) (Published: 2025-10-17)
-- [Are high-end Windows laptops worth buying? I tested one from Dell, and it made a statement](https://www.zdnet.com/article/are-high-end-windows-laptops-worth-buying-i-tested-one-from-dell-and-it-made-a-statement/) (Published: 2025-10-17)
-- [VTI Offers Broader Diversification Than QQQ But Tech-Heavy QQQ Delivers Higher Returns](https://biztoc.com/x/c11b23196ffa949f) (Published: 2025-10-17)
