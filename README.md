@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 18:49:25**_
+_Last updated: **2025-10-18 18:59:44**_
 
+- [Enterprise AI Agents Clock In On The Factory Floor](https://www.forbes.com/sites/moorinsights/2025/10/17/enterprise-ai-agents-clock-in-on-the-factory-floor/) (Published: 2025-10-17)
 - [Are high-end Windows laptops worth buying? I tested one from Dell, and it made a statement](https://www.zdnet.com/article/are-high-end-windows-laptops-worth-buying-i-tested-one-from-dell-and-it-made-a-statement/) (Published: 2025-10-17)
 - [VTI Offers Broader Diversification Than QQQ But Tech-Heavy QQQ Delivers Higher Returns](https://biztoc.com/x/c11b23196ffa949f) (Published: 2025-10-17)
 - [Is Broadcom Stock Overvalued in October 2025?](https://www.barchart.com/story/news/35532691/is-broadcom-stock-overvalued-in-october-2025) (Published: 2025-10-17)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-18 18:49:25**_
 - [I replaced my daily Windows laptop with the Dell 14 Premium - and I don't miss it one bit](https://www.zdnet.com/article/i-replaced-my-daily-windows-laptop-with-the-dell-14-premium-and-i-dont-miss-it-one-bit/) (Published: 2025-10-17)
 - [Lenovo's Most Powerful Legion Gaming PC with RTX 5090 GPU Drops Below $4K for the First Time Ever](https://www.ign.com/articles/lenovo-legion-tower-7-gaming-pc-deal-with-rtx-5090-graphics-card-drops-below-4k) (Published: 2025-10-17)
 - [Creating Digital Replicas of History with AI](http://cacm.acm.org/news/creating-digital-replicas-of-history-with-ai/) (Published: 2025-10-17)
-- ['This Bitcoin Bear Market Will Be Brutal', Peter Schiff Claims As Gold Hits $4,290](https://finance.yahoo.com/news/bitcoin-bear-market-brutal-peter-180117239.html) (Published: 2025-10-17)
