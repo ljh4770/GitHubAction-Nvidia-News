@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-18 23:49:18**_
+_Last updated: **2025-10-18 23:59:27**_
 
 - [Nvidia begins volume production of Blackwell chips in TSMC’s Arizona fab](https://siliconangle.com/2025/10/17/nvidia-begins-volume-production-blackwell-chips-tsmcs-arizona-fab/) (Published: 2025-10-17)
 - [Ripple Labs Is Leading A $1 Billion Fundraise To Establish XRP-Centered Treasury: Report](https://finance.yahoo.com/news/ripple-labs-leading-1-billion-233115961.html) (Published: 2025-10-17)
