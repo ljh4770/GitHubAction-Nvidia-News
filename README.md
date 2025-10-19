@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 14:41:15**_
+_Last updated: **2025-10-19 14:51:47**_
 
+- [Nvidia and TSMC produce the first Blackwell wafer made in the U.S. — chips still need to be shipped back to Taiwan to complete the final product](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-and-tsmc-produce-the-first-blackwell-wafer-made-in-the-u-s-chips-still-need-to-be-shipped-back-to-taiwan-to-complete-the-final-product) (Published: 2025-10-18)
 - [American-made Nvidia AI chips are now taped out by TSMC in US onshoring push](https://www.notebookcheck.net/American-made-Nvidia-AI-chips-are-now-taped-out-by-TSMC-in-US-onshoring-push.1141728.0.html) (Published: 2025-10-18)
 - [Gen X Mom Says 'We Owe Our Kids An Apology' After Realizing Pushing Them To Get A 4-Year Degree Instead Of Pursuing Skilled Trade Was A 'HUGE Disservice'](https://www.yahoo.com/lifestyle/articles/gen-x-mom-says-owe-140129767.html) (Published: 2025-10-18)
 - [Why the price of gold is rising while Bitcoin is struggling](https://cryptoslate.com/gold-price-outshines-bitcoin-as-geopolitical-tensions-spike/) (Published: 2025-10-18)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-19 14:41:15**_
 - [IonQ: Is It Too Late to Buy After Its 1,200% Gain?](https://biztoc.com/x/fdac06cecd503d39) (Published: 2025-10-18)
 - [선거의 수학과 물리](https://ryueyes11.tistory.com/511937) (Published: 2025-10-18)
 - [Chief investor urges people to quit chasing AI, says it’s not a matter of if but when it 'breaks’ — how to prepare](https://finance.yahoo.com/news/chief-investor-urges-people-quit-130000135.html) (Published: 2025-10-18)
-- [Gold surpasses 'magnificent seven stocks': Is Yellow metal now more precious than Apple, Microsoft, Alphabet, Amazon, Meta Platforms, Nvidia, Tesla?](https://economictimes.indiatimes.com/news/international/us/gold-surpasses-magnificent-seven-stocks-is-yellow-metal-now-more-precious-than-apple-microsoft-alphabet-amazon-meta-platforms-nvidia-tesla/articleshow/124667130.cms) (Published: 2025-10-18)
