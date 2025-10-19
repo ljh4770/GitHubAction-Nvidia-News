@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 13:32:06**_
+_Last updated: **2025-10-19 13:42:43**_
 
 - [선거의 수학과 물리](https://ryueyes11.tistory.com/511937) (Published: 2025-10-18)
 - [Chief investor urges people to quit chasing AI, says it’s not a matter of if but when it 'breaks’ — how to prepare](https://finance.yahoo.com/news/chief-investor-urges-people-quit-130000135.html) (Published: 2025-10-18)
