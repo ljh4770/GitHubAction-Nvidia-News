@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 15:09:40**_
+_Last updated: **2025-10-19 15:27:16**_
 
 - [Nvidia and TSMC produce the first Blackwell wafer made in the U.S. — chips still need to be shipped back to Taiwan to complete the final product](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-and-tsmc-produce-the-first-blackwell-wafer-made-in-the-u-s-chips-still-need-to-be-shipped-back-to-taiwan-to-complete-the-final-product) (Published: 2025-10-18)
 - [American-made Nvidia AI chips are now taped out by TSMC in US onshoring push](https://www.notebookcheck.net/American-made-Nvidia-AI-chips-are-now-taped-out-by-TSMC-in-US-onshoring-push.1141728.0.html) (Published: 2025-10-18)
