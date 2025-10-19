@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 07:32:16**_
+_Last updated: **2025-10-19 07:42:53**_
 
+- [Jensen Huang Says Nvidia Went From 95% Market Share To 0% In China: 'I Think It's A Mistake For US Not To...'](https://biztoc.com/x/14bac785af91cbb4) (Published: 2025-10-18)
 - [Why this analyst says the AI bubble is 17 times bigger than the dot-com bust](https://www.cnn.com/2025/10/18/business/ai-bubble-analyst-nightcap) (Published: 2025-10-18)
 - [KeyBanc Raises FY26 Estimates, Keeps Synopsys, Inc. (SNPS) at Overweight](https://finance.yahoo.com/news/keybanc-raises-fy26-estimates-keeps-061306262.html) (Published: 2025-10-18)
 - [Analysts Raise Broadcom Inc. (AVGO)’s Price Targets Following OpenAI Partnership](https://finance.yahoo.com/news/analysts-raise-broadcom-inc-avgo-055646954.html) (Published: 2025-10-18)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-19 07:32:16**_
 - [Nvidia unveils first Blackwell chip wafer made with TSMC in US](https://biztoc.com/x/95ab7acd29f14910) (Published: 2025-10-18)
 - [Denver Nuggets fall 94-91 to Oklahoma City Thunder in tense preseason showdown](https://timesofindia.indiatimes.com/sports/nba/top-stories/denver-nuggets-fall-94-91-to-oklahoma-city-thunder-in-tense-preseason-showdown/articleshow/124654485.cms) (Published: 2025-10-18)
 - [Samsung will make chips for most Hyundai cars](https://www.sammobile.com/news/samsung-make-chips-hyundai-cars/) (Published: 2025-10-18)
-- [It will be a relaxed Diwali for us: Cheteshwar Pujara & Puja Pabari](https://timesofindia.indiatimes.com/sports/cricket/news/it-will-be-a-relaxed-diwali-for-us-cheteshwar-pujara-puja-pabari/articleshow/124654413.cms) (Published: 2025-10-18)
