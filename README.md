@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 23:23:45**_
+_Last updated: **2025-10-19 23:35:28**_
 
+- [UK Clean Energy Plan Estimates 400,000 Extra Jobs by 2030](https://biztoc.com/x/98eb2bf9747b9e6b) (Published: 2025-10-18)
+- [NVIDIA shows off its first Blackwell wafer manufactured in the US](https://biztoc.com/x/75b29a72e5dfab8d) (Published: 2025-10-18)
 - [UK launches drive to meet growing demand for clean energy workers](https://biztoc.com/x/82a6b777709612ef) (Published: 2025-10-18)
 - [DHS purchase of business jets during shutdown draws Democrats’ ire](https://biztoc.com/x/a02ce15360e4ada6) (Published: 2025-10-18)
 - [Jensen Huang Says Nvidia Went From 95% Market Share To 0% In China: 'I Think It's A Mistake For US Not To...'](https://biztoc.com/x/a33fb65689b9c935) (Published: 2025-10-18)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-19 23:23:45**_
 - [Billionaire Steven Cohen Sold 100% of Point72's Stake in SoundHound AI and Is Piling Into This Supercharged Stock-Split Stock](https://biztoc.com/x/449915250d98fe05) (Published: 2025-10-18)
 - [HSBC: NVIDIA’s (NVDA) AI GPU Market to Keep Expanding Beyond Hyperscalers](https://finance.yahoo.com/news/hsbc-nvidia-nvda-ai-gpu-223106827.html) (Published: 2025-10-18)
 - [US Warns of ‘Imminent’ Attack by Hamas Against Palestinians](https://biztoc.com/x/f388f79391dadef6) (Published: 2025-10-18)
-- [Kering nears sale of beauty unit to L'Oreal, sources say](https://biztoc.com/x/b14def64fdd1c834) (Published: 2025-10-18)
-- [What’s next for AI: Researchers at Nvidia, Apple, Google and Stanford envision the next leap forward](https://siliconangle.com/2025/10/18/whats-next-ai-researchers-nvidia-apple-google-stanford-envision-next-leap-forward/) (Published: 2025-10-18)
