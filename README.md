@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 21:27:56**_
+_Last updated: **2025-10-19 21:39:30**_
 
 - [Nvidia just scored a massive AI win, but Jensen Huang has regrets](https://biztoc.com/x/e370d10c4f43a0a3) (Published: 2025-10-18)
 - [The Biggest Winners from AMD’s (Nasdaq: AMD) Massive OpenAI Data Center Deal](https://biztoc.com/x/3e1eac0c4099ece0) (Published: 2025-10-18)
