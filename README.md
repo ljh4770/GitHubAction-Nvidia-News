@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 22:50:05**_
+_Last updated: **2025-10-19 23:00:10**_
 
 - [HSBC: NVIDIA’s (NVDA) AI GPU Market to Keep Expanding Beyond Hyperscalers](https://biztoc.com/x/b56b0a6703699971) (Published: 2025-10-18)
 - [Samsung will help Nvidia build custom non-x86 CPUs and XPUs in a bid to stave off competition from OpenAI, Google, AWS, Broadcom, Meta, and its other key partners](https://www.techradar.com/pro/samsung-will-help-nvidia-build-custom-non-x86-cpu-and-xpu-in-a-bid-to-stave-off-competition-from-openai-google-aws-broadcom-meta-and-its-other-key-partners) (Published: 2025-10-18)
