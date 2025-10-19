@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 17:30:21**_
+_Last updated: **2025-10-19 17:40:34**_
 
 - [nvidia-dali-nightly-cuda120 1.53.0.dev20251017](https://pypi.org/project/nvidia-dali-nightly-cuda120/1.53.0.dev20251017/) (Published: 2025-10-18)
 - [Where Will Nvidia Be 24 Months After the Blackwell Launch? Here's What History Says.](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e258ccc3-da12-4acf-8ace-76958374d55d) (Published: 2025-10-18)
