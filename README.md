@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 03:30:05**_
+_Last updated: **2025-10-19 03:57:53**_
 
+- [Carson Beck’s turnovers haunt Miami as Hurricanes stumble out of the gate against Louisville](https://timesofindia.indiatimes.com/sports/nfl/news/carson-becks-turnovers-haunt-miami-as-hurricanes-stumble-out-of-the-gate-against-louisville/articleshow/124654365.cms) (Published: 2025-10-18)
+- [‘Assault on dignity of teachers’: DU forms inquiry panel after DUSU joint secretary slaps professor at Ambedkar College](https://timesofindia.indiatimes.com/education/news/assault-on-dignity-of-teachers-du-forms-inquiry-panel-after-dusu-joint-secretary-slaps-professor-at-ambedkar-college/articleshow/124653896.cms) (Published: 2025-10-18)
+- [NBA shares major throwback moments starring Rihanna, Drake and Selena Gomez with their favorite jersey ahead of upcoming season](https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-shares-major-throwback-moments-starring-rihanna-drake-and-selena-gomez-with-their-favorite-jersey-ahead-of-upcoming-season/articleshow/124654068.cms) (Published: 2025-10-18)
+- [Christian McCaffrey's wife Olivia Culpo shines in Abercrombie & Fitch's NFL-inspired campaign, sparking heartfelt praise from Haley Cavinder](https://timesofindia.indiatimes.com/sports/nfl/news/nfl-star-christian-mccaffreys-wife-olivia-culpo-shines-in-abercrombie-fitchs-nfl-inspired-campaign-sparking-heartfelt-praise-from-haley-cavinder/articleshow/124653899.cms) (Published: 2025-10-18)
+- [CM Conrad Sangma launches ProBites at St. Anthony’s, outlines Meghalaya’s Rs 85,000 Crore economic target](https://www.syllad.com/cm-conrad-sangma-launches-probites-at-st-anthonys-outlines-meghalayas-rs-85000-crore-economic-target/) (Published: 2025-10-18)
+- [Micron to exit server chips business in China after ban, sources say](https://indianexpress.com/article/technology/tech-news-technology/micron-to-exit-server-chips-business-in-china-after-ban-sources-say-10313854/) (Published: 2025-10-18)
 - [Horoscope Tomorrow, October 19, 2025: These Zodiac Signs May Need to Let Go Before Moving Ahead!](https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-tomorrow-october-19-2025-these-zodiac-signs-may-need-to-let-go-before-moving-ahead/articleshow/124594594.cms) (Published: 2025-10-18)
 - [Samsung Electronics family to sell $1.2 billion stake amid share rally](https://economictimes.indiatimes.com/tech/technology/samsung-electronics-family-to-sell-1-2-billion-stake-amid-share-rally/articleshow/124653540.cms) (Published: 2025-10-18)
 - [Alibaba Cloud claims to slash Nvidia GPU use by 82% with new pooling system](https://biztoc.com/x/2ca51681a03d5be3) (Published: 2025-10-18)
 - [Nvidia unveils first Blackwell chip wafer made with TSMC in US](https://economictimes.indiatimes.com/tech/technology/nvidia-unveils-first-blackwell-chip-wafer-made-with-tsmc-in-us/articleshow/124652470.cms) (Published: 2025-10-18)
-- [Samsung Electronics family to sell $1.2 billion stake amid share rally](https://www.channelnewsasia.com/business/samsung-electronics-family-sell-12-billion-stake-amid-share-rally-5410471) (Published: 2025-10-18)
-- [Samsung Electronics family to sell $1.2 billion stake amid share rally](https://finance.yahoo.com/news/samsung-electronics-family-sell-1-013711903.html) (Published: 2025-10-18)
-- ['Mr. Wonderful' Kevin O'Leary Warns Crypto Investors About Ethereum's Scalability Issues After Transaction Fees Spike To Nine-Month Highs](https://finance.yahoo.com/news/mr-wonderful-kevin-oleary-warns-013113084.html) (Published: 2025-10-18)
-- [Google’s $15 billion AI investment in Andhra Pradesh: A boost, a beginning](https://indianexpress.com/article/opinion/editorials/googles-15-billion-ai-investment-andhra-pradesh-boost-beginning-10313626/) (Published: 2025-10-18)
-- [Is AI a Boom or a Bubble?](https://biztoc.com/x/ba95f5090dab0f7f) (Published: 2025-10-18)
-- [4K OLED, up to 64GB RAM and RTX 4080: Lenovo ThinkPad P1 and P16s get steep discounts](https://www.notebookcheck.net/4K-OLED-up-to-64GB-RAM-and-RTX-4080-Lenovo-ThinkPad-P1-and-P16s-get-steep-discounts.1140261.0.html) (Published: 2025-10-18)
