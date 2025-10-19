@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 07:42:53**_
+_Last updated: **2025-10-19 07:53:27**_
 
 - [Jensen Huang Says Nvidia Went From 95% Market Share To 0% In China: 'I Think It's A Mistake For US Not To...'](https://biztoc.com/x/14bac785af91cbb4) (Published: 2025-10-18)
 - [Why this analyst says the AI bubble is 17 times bigger than the dot-com bust](https://www.cnn.com/2025/10/18/business/ai-bubble-analyst-nightcap) (Published: 2025-10-18)
