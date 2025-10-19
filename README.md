@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 14:29:57**_
+_Last updated: **2025-10-19 14:41:15**_
 
 - [American-made Nvidia AI chips are now taped out by TSMC in US onshoring push](https://www.notebookcheck.net/American-made-Nvidia-AI-chips-are-now-taped-out-by-TSMC-in-US-onshoring-push.1141728.0.html) (Published: 2025-10-18)
 - [Gen X Mom Says 'We Owe Our Kids An Apology' After Realizing Pushing Them To Get A 4-Year Degree Instead Of Pursuing Skilled Trade Was A 'HUGE Disservice'](https://www.yahoo.com/lifestyle/articles/gen-x-mom-says-owe-140129767.html) (Published: 2025-10-18)
