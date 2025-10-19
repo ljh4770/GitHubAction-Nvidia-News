@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 05:46:28**_
+_Last updated: **2025-10-19 05:56:39**_
 
 - [HSBC Upgrades NVIDIA Corporation (NVDA) To Buy, Lifts Price Target to $320](https://finance.yahoo.com/news/hsbc-upgrades-nvidia-corporation-nvda-054141044.html) (Published: 2025-10-18)
 - [Samsung Electronics family to sell $1.2 billion stake amid share rally](https://www.thehindubusinessline.com/companies/samsung-electronics-family-to-sell-12-billion-stake-amid-share-rally/article70178186.ece) (Published: 2025-10-18)
