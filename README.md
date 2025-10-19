@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 06:31:27**_
+_Last updated: **2025-10-19 06:48:19**_
 
 - [KeyBanc Raises FY26 Estimates, Keeps Synopsys, Inc. (SNPS) at Overweight](https://finance.yahoo.com/news/keybanc-raises-fy26-estimates-keeps-061306262.html) (Published: 2025-10-18)
 - [Analysts Raise Broadcom Inc. (AVGO)’s Price Targets Following OpenAI Partnership](https://finance.yahoo.com/news/analysts-raise-broadcom-inc-avgo-055646954.html) (Published: 2025-10-18)
