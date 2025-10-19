@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-19 12:46:08**_
+_Last updated: **2025-10-19 13:12:19**_
 
+- [Chief investor urges people to quit chasing AI, says it’s not a matter of if but when it 'breaks’ — how to prepare](https://finance.yahoo.com/news/chief-investor-urges-people-quit-130000135.html) (Published: 2025-10-18)
+- [Gold surpasses 'magnificent seven stocks': Is Yellow metal now more precious than Apple, Microsoft, Alphabet, Amazon, Meta Platforms, Nvidia, Tesla?](https://economictimes.indiatimes.com/news/international/us/gold-surpasses-magnificent-seven-stocks-is-yellow-metal-now-more-precious-than-apple-microsoft-alphabet-amazon-meta-platforms-nvidia-tesla/articleshow/124667130.cms) (Published: 2025-10-18)
 - [More Than Half Of American Workers Are Putting In More Hours Than They Did Six Months Ago To Stabilize Their Finances](https://finance.yahoo.com/news/more-half-american-workers-putting-123145803.html) (Published: 2025-10-18)
 - [Do Nvidia Graphics Cards Work With AMD FreeSync?](https://www.bgr.com/1994267/do-nvidia-gpus-work-amd-freesync-explained/) (Published: 2025-10-18)
 - [Jensen Huang personally delivers DGX Spark Mini PCs to Elon Musk and Sam Altman — separately](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-personally-delivers-dgx-spark-mini-pcs-to-elon-musk-and-sam-altman-separately) (Published: 2025-10-18)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-19 12:46:08**_
 - [LACT 0.8.2 Released For Multi-Vendor Linux GPU Control GUI](https://www.phoronix.com/news/LACT-0.8.2-Released) (Published: 2025-10-18)
 - [Is Bitcoin At $106,000 'Cheap'? Here's How You Can Tell](https://finance.yahoo.com/news/bitcoin-106-000-cheap-heres-094739418.html) (Published: 2025-10-18)
 - [Learn about Diwali, the Festival of Lights](https://biztoc.com/x/3a5bc64d3d39c69a) (Published: 2025-10-18)
-- [HDFC Bank’s Profit Tops Estimates on Healthy Loan Growth](https://biztoc.com/x/84abbd90c30e5ee2) (Published: 2025-10-18)
-- [Italy wins rating upgrade in boost for prime minister Meloni](https://biztoc.com/x/233431580baa0408) (Published: 2025-10-18)
