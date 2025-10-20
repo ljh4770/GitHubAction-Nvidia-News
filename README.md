@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 17:01:03**_
+_Last updated: **2025-10-20 17:25:14**_
 
+- [“Some of These AI Deals Seem a Little Bit Fishy”: Anthropic CEO Dario Amodei Says Companies May Be “Double Counting” Investments](https://wccftech.com/some-of-these-ai-deals-seem-a-little-bit-fishy-says-anthropic-ceo/) (Published: 2025-10-19)
+- [CoreWeave’s $5 billion gamble hits a wall](https://www.thestreet.com/technology/coreweaves-5-billion-gamble-hits-a-wall) (Published: 2025-10-19)
+- [Nvidia CEO Jensen Huang to attend APEC CEO Summit in South Korea](https://biztoc.com/x/1c46cba4021c96ad) (Published: 2025-10-19)
+- [This AI Stock With A Difference Builds Bullish Base, Eyes Entry Amid 83% Rally](https://biztoc.com/x/ecac758e825a18ad) (Published: 2025-10-19)
+- [Nvidia's Huang Says on Track to Make Half-Trillion Dollars of AI Technology By 2029](https://biztoc.com/x/36b7c3f0c1c2dec9) (Published: 2025-10-19)
 - [Jensen Huang Knows Economic Growth, Which Means He’s Right About China](https://www.forbes.com/sites/johntamny/2025/10/19/jensen-huang-knows-economic-growth-which-means-hes-right-about-china/) (Published: 2025-10-19)
 - [Invesco QQQ vs. Vanguard Information Technology ETF: Which Is Better for Tech Investors?](https://biztoc.com/x/10021f521b0d0f28) (Published: 2025-10-19)
 - [TSMC gives an ultra-rare video look inside its fabs — 'Silver Highway' and fab tools revealed in flyby video of company's US Arizona Fab 21](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-an-ultra-rare-video-look-inside-its-fabs-silver-highway-and-fab-tools-revealed-in-flyby-video-of-companys-us-arizona-fab-21) (Published: 2025-10-19)
 - [NVIDIA’s $100 Billion OpenAI Deal In Focus: Are We In an AI Bubble?](https://biztoc.com/x/c71a354ceb4ba8a5) (Published: 2025-10-19)
 - [Nvidia's Big Tech customers might also be its biggest competitive threat](https://finance.yahoo.com/news/nvidias-big-tech-customers-might-also-be-its-biggest-competitive-threat-153032596.html) (Published: 2025-10-19)
-- [Tesla And SpaceX Veterans Back India's Airbound With $8.65 Million To Build The World's Fastest One-Cent Drone Deliveries](https://finance.yahoo.com/news/tesla-spacex-veterans-back-indias-151738970.html) (Published: 2025-10-19)
-- [Analyst Explains Why Meta Platforms (META) Signed Data Center Deal With Coreweave](https://finance.yahoo.com/news/analyst-explains-why-meta-platforms-151722421.html) (Published: 2025-10-19)
-- [‘So Freaking Cool’: First reviews of Nvidia DGX Spark leave absolutely no doubt this may be Nvidia’s Apple Mac moment](https://www.techradar.com/pro/so-freaking-cool-first-reviews-of-nvidia-dgx-spark-leave-absolutely-no-doubt-this-may-be-nvidias-apple-mac-moment) (Published: 2025-10-19)
-- [Analyst Says Oracle (ORCL) ‘Classic Example’ of ‘Euphoria’](https://finance.yahoo.com/news/analyst-says-oracle-orcl-classic-143719664.html) (Published: 2025-10-19)
-- [Intel’s CEO Lip-Bu Tan Meets Saudi Official For a Potential Chip Partnership — Can Gulf Capital Power Team Blue’s Semiconductor Comeback?](https://wccftech.com/intel-ceo-lip-bu-tan-meets-saudi-official-for-a-potential-chip-partnership/) (Published: 2025-10-19)
