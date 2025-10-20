@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 15:37:48**_
+_Last updated: **2025-10-20 15:48:28**_
 
 - [NVIDIA’s $100 Billion OpenAI Deal In Focus: Are We In an AI Bubble?](https://biztoc.com/x/c71a354ceb4ba8a5) (Published: 2025-10-19)
 - [Nvidia's Big Tech customers might also be its biggest competitive threat](https://finance.yahoo.com/news/nvidias-big-tech-customers-might-also-be-its-biggest-competitive-threat-153032596.html) (Published: 2025-10-19)
