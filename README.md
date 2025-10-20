@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 16:50:13**_
+_Last updated: **2025-10-20 17:01:03**_
 
+- [Jensen Huang Knows Economic Growth, Which Means He’s Right About China](https://www.forbes.com/sites/johntamny/2025/10/19/jensen-huang-knows-economic-growth-which-means-hes-right-about-china/) (Published: 2025-10-19)
+- [Invesco QQQ vs. Vanguard Information Technology ETF: Which Is Better for Tech Investors?](https://biztoc.com/x/10021f521b0d0f28) (Published: 2025-10-19)
 - [TSMC gives an ultra-rare video look inside its fabs — 'Silver Highway' and fab tools revealed in flyby video of company's US Arizona Fab 21](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-an-ultra-rare-video-look-inside-its-fabs-silver-highway-and-fab-tools-revealed-in-flyby-video-of-companys-us-arizona-fab-21) (Published: 2025-10-19)
 - [NVIDIA’s $100 Billion OpenAI Deal In Focus: Are We In an AI Bubble?](https://biztoc.com/x/c71a354ceb4ba8a5) (Published: 2025-10-19)
 - [Nvidia's Big Tech customers might also be its biggest competitive threat](https://finance.yahoo.com/news/nvidias-big-tech-customers-might-also-be-its-biggest-competitive-threat-153032596.html) (Published: 2025-10-19)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-20 16:50:13**_
 - [‘So Freaking Cool’: First reviews of Nvidia DGX Spark leave absolutely no doubt this may be Nvidia’s Apple Mac moment](https://www.techradar.com/pro/so-freaking-cool-first-reviews-of-nvidia-dgx-spark-leave-absolutely-no-doubt-this-may-be-nvidias-apple-mac-moment) (Published: 2025-10-19)
 - [Analyst Says Oracle (ORCL) ‘Classic Example’ of ‘Euphoria’](https://finance.yahoo.com/news/analyst-says-oracle-orcl-classic-143719664.html) (Published: 2025-10-19)
 - [Intel’s CEO Lip-Bu Tan Meets Saudi Official For a Potential Chip Partnership — Can Gulf Capital Power Team Blue’s Semiconductor Comeback?](https://wccftech.com/intel-ceo-lip-bu-tan-meets-saudi-official-for-a-potential-chip-partnership/) (Published: 2025-10-19)
-- [Ozempic at Costco? Discount Giant Expands Into $100 Billion Weight-Loss Drug Market](https://finance.yahoo.com/news/ozempic-costco-discount-giant-expands-141652487.html) (Published: 2025-10-19)
-- [Weekend Round-Up: AI Takes Center Stage As Nvidia, Microsoft, Blackrock, Intel And Apple Make Big Moves](https://biztoc.com/x/d3b800771a4154b6) (Published: 2025-10-19)
