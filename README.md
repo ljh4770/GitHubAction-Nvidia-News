@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 20:47:53**_
+_Last updated: **2025-10-20 20:58:20**_
 
+- [Chief investor urges people to quit chasing AI, says it’s not a matter of if but when it 'breaks’ — how to prepare - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=179831626) (Published: 2025-10-19)
 - [Jefferies Reiterates Buy Rating on NVIDIA (NVDA), Says Ecosystem Is “Chasing NVDA”](https://biztoc.com/x/09b0b693d327fcac) (Published: 2025-10-19)
 - [Jefferies Reiterates Buy Rating on NVIDIA (NVDA), Says Ecosystem Is “Chasing NVDA”](https://finance.yahoo.com/news/jefferies-reiterates-buy-rating-nvidia-203735115.html) (Published: 2025-10-19)
 - [Oracle claims to have the largest AI supercomputer in the cloud with 16 zettaFLOPS of peak performance, 800,000 Nvidia GPUs](https://www.techradar.com/pro/oracle-claims-to-have-the-largest-ai-supercomputer-in-the-cloud-with-16-zettaflops-of-peak-performance-800-000-nvidia-gpus) (Published: 2025-10-19)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-20 20:47:53**_
 - [Veteran analyst resets Big Tech ‘buy’ list for rest of 2025](https://www.thestreet.com/technology/veteran-analyst-resets-big-tech-buy-list-for-rest-of-2025) (Published: 2025-10-19)
 - [OpenAI's Broadcom deal shows how the AI startup is diversifying its chip suppliers, including Nvidia chips for training and Broadcom chips for inference](https://biztoc.com/x/b1369258ba7e4de3) (Published: 2025-10-19)
 - [PepsiCo is fixing what broke, but shoppers may not care](https://www.thestreet.com/investing/pepsico-is-fixing-what-broke-but-shoppers-may-not-care) (Published: 2025-10-19)
-- [Why Nvidia's AI Graphics Cards Are Now Banned In China](https://www.bgr.com/1996593/why-china-banned-nvidia-ai-graphics-card-reason/) (Published: 2025-10-19)
