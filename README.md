@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 08:22:20**_
+_Last updated: **2025-10-20 08:44:38**_
 
+- [What is the effect of AI capital expenditures on the US GDP growth trajectory](https://biztoc.com/x/da6b0a1b31bb5851) (Published: 2025-10-19)
+- [GOP's immigration pitch to New Jersey Latinos aims for some distance from Trump in governor’s race](https://biztoc.com/x/c2026889f2929887) (Published: 2025-10-19)
 - [Alibaba Cloud's New System Cuts Nvidia GPU Usage By 82%, Amid Trump's Flip Flop On AI Chip Ban On China](https://biztoc.com/x/4c50238d4d46bc40) (Published: 2025-10-19)
 - [Electricity Prices Are Soaring. Six Stocks to Fix the Problem](https://biztoc.com/x/4f6053bd7ca643e0) (Published: 2025-10-19)
 - [Daily Tech News 19 October 2025](https://acecomments.mu.nu/?post=416940) (Published: 2025-10-19)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-20 08:22:20**_
 - [Navitas Semiconductor (NVTS) Announces New Products for Nvidia’s AI Factory Architecture](https://finance.yahoo.com/news/navitas-semiconductor-nvts-announces-products-070925355.html) (Published: 2025-10-19)
 - [AI: is the bubble about to burst?](https://theweek.com/tech/ai-is-the-bubble-about-to-burst) (Published: 2025-10-19)
 - [Trade War: China Thinks Trump Will Blink First—Will the Market Prove Them Right?](https://freerepublic.com/focus/f-news/4347247/posts) (Published: 2025-10-19)
-- [Nvidia CEO Jensen Huang to attend APEC CEO Summit in South Korea](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-attend-030314645.html) (Published: 2025-10-19)
-- [Weekly Stock Market Update: Apple, Taiwan Semiconductor and Novo Nordisk](https://www.thestreet.com/investing/stocks/weekly-stock-market-update-apple-taiwan-semiconductor-and-novo-nordisk) (Published: 2025-10-19)
