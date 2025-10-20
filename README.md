@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 19:41:12**_
+_Last updated: **2025-10-20 19:52:02**_
 
 - [5 big analyst AI moves: Nvidia, AMD upgraded; ASML seen on €1,000 path](https://biztoc.com/x/57bd61f3f393c302) (Published: 2025-10-19)
 - [Veteran analyst resets Big Tech ‘buy’ list for rest of 2025](https://www.thestreet.com/technology/veteran-analyst-resets-big-tech-buy-list-for-rest-of-2025) (Published: 2025-10-19)
