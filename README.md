@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 09:53:07**_
+_Last updated: **2025-10-20 10:16:17**_
 
+- [nvfuser-cu128 0.2.34.dev20251019](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20251019/) (Published: 2025-10-19)
 - [NVIDIA and TSMC Celebrate First NVIDIA Blackwell Wafer Produced in the US](https://biztoc.com/x/72f7e36a8c49c51c) (Published: 2025-10-19)
 - [AI Video Upscaler Pro 1.2.7](https://post.rlsbb.to/ai-video-upscaler-pro-1-2-7/) (Published: 2025-10-19)
 - [The Risk That Built America](https://biztoc.com/x/30447d6ce87ee63b) (Published: 2025-10-19)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-20 09:53:07**_
 - [Electricity Prices Are Soaring. Six Stocks to Fix the Problem](https://biztoc.com/x/4f6053bd7ca643e0) (Published: 2025-10-19)
 - [Daily Tech News 19 October 2025](https://acecomments.mu.nu/?post=416940) (Published: 2025-10-19)
 - [“Our Market Share Dropped From 95% to 0%,” Says NVIDIA CEO Jensen Huang in a ‘Temporary Goodbye’ to China’s AI Market](https://biztoc.com/x/e34ddcf668248d42) (Published: 2025-10-19)
-- [Nvidia's Market Share In China Drops To Zero From 95%: CEO Jensen Huang Flags 'US Trade Restrictions'](https://www.ndtvprofit.com/markets/nvidias-market-share-in-china-drops-to-zero-from-95-ceo-jensen-huang-flags-us-trade-restrictions) (Published: 2025-10-19)
