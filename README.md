@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 03:54:11**_
+_Last updated: **2025-10-20 04:22:49**_
 
 - [Trade War: China Thinks Trump Will Blink First—Will the Market Prove Them Right?](https://freerepublic.com/focus/f-news/4347247/posts) (Published: 2025-10-19)
 - [Nvidia CEO Jensen Huang to attend APEC CEO Summit in South Korea](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-attend-030314645.html) (Published: 2025-10-19)
