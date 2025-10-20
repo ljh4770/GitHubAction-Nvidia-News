@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 11:40:26**_
+_Last updated: **2025-10-20 11:51:05**_
 
 - [Only 4 brands sell laptops with Intel's fastest ever mobile CPU, the Ultra 9 285 HX - and shockingly, two are already massively discounted](https://www.techradar.com/pro/only-4-brands-sell-laptops-with-intels-fastest-ever-mobile-cpu-the-ultra-9-285-hx-and-shockingly-two-are-already-massively-discounted) (Published: 2025-10-19)
 - [Carvana - Insiders are already selling](https://finance.yahoo.com/news/carvana-insiders-already-selling-110902325.html) (Published: 2025-10-19)
