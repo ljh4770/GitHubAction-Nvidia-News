@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 16:33:08**_
+_Last updated: **2025-10-20 16:50:13**_
 
 - [TSMC gives an ultra-rare video look inside its fabs — 'Silver Highway' and fab tools revealed in flyby video of company's US Arizona Fab 21](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-an-ultra-rare-video-look-inside-its-fabs-silver-highway-and-fab-tools-revealed-in-flyby-video-of-companys-us-arizona-fab-21) (Published: 2025-10-19)
 - [NVIDIA’s $100 Billion OpenAI Deal In Focus: Are We In an AI Bubble?](https://biztoc.com/x/c71a354ceb4ba8a5) (Published: 2025-10-19)
