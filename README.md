@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 23:45:03**_
+_Last updated: **2025-10-20 23:55:37**_
 
 - [Bank of Japan’s Ueda keeps cards close to chest ahead of October meeting](https://biztoc.com/x/7914a98dc13d5b6d) (Published: 2025-10-19)
 - [Jensen Huang says Nvidia went from 95% market share in China to 0%](https://biztoc.com/x/c1f061f0ae5375b1) (Published: 2025-10-19)
