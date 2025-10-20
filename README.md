@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 23:23:02**_
+_Last updated: **2025-10-20 23:34:54**_
 
 - [Jensen Huang says Nvidia went from 95% market share in China to 0%](https://biztoc.com/x/c1f061f0ae5375b1) (Published: 2025-10-19)
 - [China’s Q3 GDP growth set to slow to one-year low as property slump, trade tensions sap demand](https://biztoc.com/x/f46fb4a117e0db91) (Published: 2025-10-19)
