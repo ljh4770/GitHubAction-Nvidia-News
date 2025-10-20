@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 19:16:43**_
+_Last updated: **2025-10-20 19:29:19**_
 
 - [Veteran analyst resets Big Tech ‘buy’ list for rest of 2025](https://www.thestreet.com/technology/veteran-analyst-resets-big-tech-buy-list-for-rest-of-2025) (Published: 2025-10-19)
 - [OpenAI's Broadcom deal shows how the AI startup is diversifying its chip suppliers, including Nvidia chips for training and Broadcom chips for inference](https://biztoc.com/x/b1369258ba7e4de3) (Published: 2025-10-19)
