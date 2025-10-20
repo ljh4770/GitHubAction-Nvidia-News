@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 13:50:23**_
+_Last updated: **2025-10-20 14:01:11**_
 
 - [Patagonia Founder Hated Being Called a Billionaire – So He Gave His Fortune Away](https://finance.yahoo.com/news/patagonia-founder-hated-being-called-134630332.html) (Published: 2025-10-19)
 - [Palantir chief takes a jab at Nvidia CEO Jensen Huang, says people decrying ‘China hawks’ are 'useful idiots' — 'The first step to ending our dependence on China is admitting we have a problem'](https://www.tomshardware.com/tech-industry/big-tech/palantir-chief-takes-a-jab-at-nvidia-ceo-jensen-huang-says-people-decrying-china-hawks-are-useful-idiots-the-first-step-to-ending-our-dependence-on-china-is-admitting-we-have-a-problem) (Published: 2025-10-19)
