@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 20:13:47**_
+_Last updated: **2025-10-20 20:35:06**_
 
+- [Oracle claims to have the largest AI supercomputer in the cloud with 16 zettaFLOPS of peak performance, 800,000 Nvidia GPUs](https://www.techradar.com/pro/oracle-claims-to-have-the-largest-ai-supercomputer-in-the-cloud-with-16-zettaflops-of-peak-performance-800-000-nvidia-gpus) (Published: 2025-10-19)
 - [Asus TUF Gaming T500](https://uk.pcmag.com/desktop-pcs/160813/asus-tuf-gaming-t500) (Published: 2025-10-19)
 - [Asus TUF Gaming T500](https://me.pcmag.com/en/old-desktop-pcs/32988/asus-tuf-gaming-t500) (Published: 2025-10-19)
 - [5 big analyst AI moves: Nvidia, AMD upgraded; ASML seen on €1,000 path](https://biztoc.com/x/57bd61f3f393c302) (Published: 2025-10-19)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-20 20:13:47**_
 - [Why Nvidia's AI Graphics Cards Are Now Banned In China](https://www.bgr.com/1996593/why-china-banned-nvidia-ai-graphics-card-reason/) (Published: 2025-10-19)
 - [GCP Professional ML Engineer Certification Exam Dump and Braindump](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GCP-Professional-ML-Engineer-Certification-Exam-Dump-and-Braindump) (Published: 2025-10-19)
 - [Jensen Huang Just Announced Bad News for Nvidia's Rivals](https://biztoc.com/x/2f5608d850e0cf26) (Published: 2025-10-19)
-- [Compact 14-inch workstation with professional RTX – HP ZBook 8 G1i 14 review](https://www.notebookcheck.net/Compact-14-inch-workstation-with-professional-RTX-HP-ZBook-8-G1i-14-review.1141584.0.html) (Published: 2025-10-19)
