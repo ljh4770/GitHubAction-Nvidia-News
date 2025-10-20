@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 15:59:11**_
+_Last updated: **2025-10-20 16:33:08**_
 
+- [TSMC gives an ultra-rare video look inside its fabs — 'Silver Highway' and fab tools revealed in flyby video of company's US Arizona Fab 21](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-an-ultra-rare-video-look-inside-its-fabs-silver-highway-and-fab-tools-revealed-in-flyby-video-of-companys-us-arizona-fab-21) (Published: 2025-10-19)
 - [NVIDIA’s $100 Billion OpenAI Deal In Focus: Are We In an AI Bubble?](https://biztoc.com/x/c71a354ceb4ba8a5) (Published: 2025-10-19)
 - [Nvidia's Big Tech customers might also be its biggest competitive threat](https://finance.yahoo.com/news/nvidias-big-tech-customers-might-also-be-its-biggest-competitive-threat-153032596.html) (Published: 2025-10-19)
 - [Tesla And SpaceX Veterans Back India's Airbound With $8.65 Million To Build The World's Fastest One-Cent Drone Deliveries](https://finance.yahoo.com/news/tesla-spacex-veterans-back-indias-151738970.html) (Published: 2025-10-19)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-20 15:59:11**_
 - [Intel’s CEO Lip-Bu Tan Meets Saudi Official For a Potential Chip Partnership — Can Gulf Capital Power Team Blue’s Semiconductor Comeback?](https://wccftech.com/intel-ceo-lip-bu-tan-meets-saudi-official-for-a-potential-chip-partnership/) (Published: 2025-10-19)
 - [Ozempic at Costco? Discount Giant Expands Into $100 Billion Weight-Loss Drug Market](https://finance.yahoo.com/news/ozempic-costco-discount-giant-expands-141652487.html) (Published: 2025-10-19)
 - [Weekend Round-Up: AI Takes Center Stage As Nvidia, Microsoft, Blackrock, Intel And Apple Make Big Moves](https://biztoc.com/x/d3b800771a4154b6) (Published: 2025-10-19)
-- [Patagonia Founder Hated Being Called a Billionaire – So He Gave His Fortune Away](https://finance.yahoo.com/news/patagonia-founder-hated-being-called-134630332.html) (Published: 2025-10-19)
