@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 07:32:03**_
+_Last updated: **2025-10-20 07:43:15**_
 
 - [Navitas Semiconductor (NVTS) Announces New Products for Nvidia’s AI Factory Architecture](https://finance.yahoo.com/news/navitas-semiconductor-nvts-announces-products-070925355.html) (Published: 2025-10-19)
 - [AI: is the bubble about to burst?](https://theweek.com/tech/ai-is-the-bubble-about-to-burst) (Published: 2025-10-19)
