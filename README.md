@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-20 21:36:47**_
+_Last updated: **2025-10-20 21:47:16**_
 
+- [Meta joins Nvidia, OpenAI, and AMD to launch Ethernet for Scale Up Network - ESUN competes with InfiniBand but will work with Ultra Ethernet Consortium](https://www.techradar.com/pro/meta-joins-nvidia-openai-and-amd-to-launch-ethernet-for-scale-up-network-esun-competes-with-infiniband-but-will-work-with-ultra-ethernet-consortium) (Published: 2025-10-19)
 - [Jensen Huang says Nvidia went from 95% market share in China to 0% — ‘I can’t imagine any policymaker thinking that that’s a good idea’](https://biztoc.com/x/c1686c7437ed4eed) (Published: 2025-10-19)
 - [Jensen Huang says Nvidia went from 95% market share in China to 0% — ‘I can’t imagine any policymaker thinking that that’s a good idea’](https://fortune.com/2025/10/19/jensen-huang-nvidia-china-market-share-ai-chips-trump-trade-war/) (Published: 2025-10-19)
 - [Jensen Huang says Nvidia went from 95% market share in China to 0% — ‘I can’t imagine any policymaker thinking that that’s a good idea’](https://finance.yahoo.com/news/jensen-huang-says-nvidia-went-211703977.html) (Published: 2025-10-19)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-20 21:36:47**_
 - [Oracle claims to have the largest AI supercomputer in the cloud with 16 zettaFLOPS of peak performance, 800,000 Nvidia GPUs](https://www.techradar.com/pro/oracle-claims-to-have-the-largest-ai-supercomputer-in-the-cloud-with-16-zettaflops-of-peak-performance-800-000-nvidia-gpus) (Published: 2025-10-19)
 - [Asus TUF Gaming T500](https://uk.pcmag.com/desktop-pcs/160813/asus-tuf-gaming-t500) (Published: 2025-10-19)
 - [Asus TUF Gaming T500](https://me.pcmag.com/en/old-desktop-pcs/32988/asus-tuf-gaming-t500) (Published: 2025-10-19)
-- [5 big analyst AI moves: Nvidia, AMD upgraded; ASML seen on €1,000 path](https://biztoc.com/x/57bd61f3f393c302) (Published: 2025-10-19)
