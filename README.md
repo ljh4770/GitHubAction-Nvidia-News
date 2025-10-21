@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 07:40:25**_
+_Last updated: **2025-10-21 07:51:13**_
 
+- [Nscale founding director exits AI infrastructure provider in wake of $1.1bn investment round](https://www.computerweekly.com/news/366633039/Nscale-founding-director-exits-AI-infrastructure-provider-in-wake-of-11bn-investment-round) (Published: 2025-10-20)
 - [cordatus-jtop-service 4.3.2.3](https://pypi.org/project/cordatus-jtop-service/4.3.2.3/) (Published: 2025-10-20)
 - [Why is Sam Altman’s ChatGPT flirting with erotica? The answer reveals an uncomfortable truth about AI today](https://www.livemint.com/opinion/online-views/ai-monetization-strategy-chatgpt-erotica-sam-altman-criticism-openai-business-model-sex-bot-chatbot-adult-content-porn-11760871090841.html) (Published: 2025-10-20)
 - [What if Hyperbitcoinization is really about to start?](https://cryptoslate.com/what-if-hyperbitcoinization-is-really-about-to-start/) (Published: 2025-10-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-21 07:40:25**_
 - [3 Unpopular Stocks That Concern Us](https://finance.yahoo.com/news/3-unpopular-stocks-concern-us-044028267.html) (Published: 2025-10-20)
 - [3 Reasons to Sell SIRI and 1 Stock to Buy Instead](https://finance.yahoo.com/news/3-reasons-sell-siri-1-040046632.html) (Published: 2025-10-20)
 - [Weekly news roundup: Nvidia rises as TSMC's top customer; Netherlands seizes Nexperia; Google considers MediaTek for next Pixel](https://www.digitimes.com/news/a20251020VL204/digitimes-asia-weekly-news-roundup-tsmc-nexperia-mediatek-nvidia.html) (Published: 2025-10-20)
-- [Waste Connections (WCN) To Report Earnings Tomorrow: Here Is What To Expect](https://finance.yahoo.com/news/waste-connections-wcn-report-earnings-030705666.html) (Published: 2025-10-20)
