@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 08:15:34**_
+_Last updated: **2025-10-21 08:43:40**_
 
+- [NVIDIA’s ‘Cutting-Edge’ Vera Rubin AI Servers Are Already in Development by Foxconn; Mass Production to Begin in H2 2026](https://wccftech.com/nvidia-vera-rubin-ai-servers-are-already-in-development-by-foxconn/) (Published: 2025-10-20)
 - [Samsung will now help NVIDIA make custom CPUs for AI domination](https://www.sammobile.com/news/samsung-will-now-help-nvidia-make-custom-cpus-for-ai-domination/) (Published: 2025-10-20)
 - [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Nvidia, Tesla, MP Materials, Palantir, More Mover; Trump, China Trade Hope](https://biztoc.com/x/3e6971652ca0c59d) (Published: 2025-10-20)
 - [Nscale founding director exits AI infrastructure provider in wake of $1.1bn investment round](https://www.computerweekly.com/news/366633039/Nscale-founding-director-exits-AI-infrastructure-provider-in-wake-of-11bn-investment-round) (Published: 2025-10-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-21 08:15:34**_
 - [Nvidia is ‘100% out of China’ — Jensen Huang warns what harms Beijing can often harm US ‘even in worse ways’](https://www.livemint.com/companies/news/nvidia-is-100-out-of-china-jensen-huang-warns-what-harms-beijing-can-often-harm-us-even-in-worse-ways-11760930364663.html) (Published: 2025-10-20)
 - [Nvidia has produced the first Blackwell wafer entirely on US soil](https://biztoc.com/x/eb5397dab77a9d52) (Published: 2025-10-20)
 - [AI mania pulling global capital away, but India’s next rally hinges on industrials: Pashupati Advani](https://economictimes.indiatimes.com/markets/expert-view/ai-mania-pulling-global-capital-away-but-indias-next-rally-hinges-on-industrials-pashupati-advani/articleshow/124699583.cms) (Published: 2025-10-20)
-- [3 Unpopular Stocks That Concern Us](https://finance.yahoo.com/news/3-unpopular-stocks-concern-us-044028267.html) (Published: 2025-10-20)
