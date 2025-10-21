@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 19:59:03**_
+_Last updated: **2025-10-21 20:30:14**_
 
-- [The 4K monitor that effectively changed how I work and consume content at the office](https://www.zdnet.com/home-and-office/the-4k-monitor-that-effectively-changed-how-i-work-and-consume-content-at-the-office/) (Published: 2025-10-20)
-- [Nvidia-backed Cohere to offer secondary sale of employee shares](https://financialpost.com/news/cohere-offer-sale-employee-shares) (Published: 2025-10-20)
-- [This $250 pocket-sized eGPU boosts Cyberpunk 2077 from 45 FPS to 80 FPS at 1080p while consuming only 25 W](https://www.notebookcheck.net/This-250-pocket-sized-eGPU-boosts-Cyberpunk-2077-from-45-FPS-to-80-FPS-at-1080p-while-consuming-only-25-W.1142711.0.html) (Published: 2025-10-20)
-- [Lenovo LOQ 17 squeezes everything out of the RTX 5070](https://www.notebookcheck.net/Lenovo-LOQ-17-squeezes-everything-out-of-the-RTX-5070.1142712.0.html) (Published: 2025-10-20)
-- [World's Most Advanced AI Chips Now Being Made In America Due To Trump's Policies: Nvidia Chief](https://biztoc.com/x/a8b34c3a6bd9cce3) (Published: 2025-10-20)
-- [How the future might look: The 2025 AI superpowers](https://www.digitaljournal.com/tech-science/how-the-future-might-look-the-2025-ai-superpowers/article) (Published: 2025-10-20)
-- [NetApp and Nvidia say data — not bigger models — is the key to unlocking AI ROI](https://siliconangle.com/2025/10/20/netapp-nvidia-look-unlock-ai-roi-netappinsight/) (Published: 2025-10-20)
-- [Suspicion of a Trojan](https://www.bleepingcomputer.com/forums/t/811408/suspicion-of-a-trojan/) (Published: 2025-10-20)
-- [Nvidia-Backed Cohere to Offer Secondary Sale of Employee Shares](https://biztoc.com/x/0d7674fe458e15f1) (Published: 2025-10-20)
+- [Yay! Intel has a new AI GPU with 160GB of LPDDR5X - Crescent Island does inference only, uses cheaper memory, and targets value air-cooled enterprise servers](https://www.techradar.com/pro/yay-intel-has-a-new-ai-gpu-with-160gb-of-lpddr5x-crescent-island-does-inference-only-uses-cheaper-memory-and-targets-value-air-cooled-enterprise-servers) (Published: 2025-10-20)
+- [Apple’s new iPhone 17 outsells old model in US, China – boosting stock to all-time high](https://nypost.com/2025/10/20/business/apples-new-iphone-17-outsells-old-model-in-us-china-boosting-stock-to-all-time-high/) (Published: 2025-10-20)
+- [Apple shares hit new all-time intraday and closing highs](https://macdailynews.com/2025/10/20/apple-shares-hit-new-all-time-intraday-and-closing-highs-87/) (Published: 2025-10-20)
+- [OpenAI builds $300B bubble machine: The feedback loop rewiring Wall Street finance](https://cryptoslate.com/openai-builds-300b-bubble-machine-the-feedback-loop-rewiring-wall-street-finance/) (Published: 2025-10-20)
+- [RX 9070 vs RTX 5070 with FSR 4 and DLSS 4: RX 9070 is reportedly even faster now than at launch](https://www.notebookcheck.net/RX-9070-vs-RTX-5070-with-FSR-4-and-DLSS-4-RX-9070-is-reportedly-even-faster-now-than-at-launch.1142592.0.html) (Published: 2025-10-20)
+- [RX 9070 vs RTX 5070 with FSR 4 and DLSS 4: RX 9070 is reportedly even faster now than launch](https://www.notebookcheck.net/RX-9070-vs-RTX-5070-with-FSR-4-and-DLSS-4-RX-9070-is-reportedly-even-faster-now-than-launch.1142592.0.html) (Published: 2025-10-20)
+- [Apple Tops Microsoft As World’s Second-Most Valuable Company After Stock Rally](https://www.forbes.com/sites/antoniopequenoiv/2025/10/20/apple-tops-microsoft-as-worlds-second-most-valuable-company-after-stock-rally/) (Published: 2025-10-20)
+- [Nvidia CEO Says Company Went from 95% to 0 Market Share in China](https://tech.slashdot.org/story/25/10/20/1934203/nvidia-ceo-says-company-went-from-95-to-0-market-share-in-china) (Published: 2025-10-20)
+- [The Samsung S95F is our TV of the year – here’s how Samsung beat elite OLED and mini-LED TVs from the likes of LG and Sony](https://www.techradar.com/televisions/the-samsung-s95f-is-our-tv-of-the-year) (Published: 2025-10-20)
