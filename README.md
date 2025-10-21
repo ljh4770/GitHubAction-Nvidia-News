@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 07:51:13**_
+_Last updated: **2025-10-21 08:15:34**_
 
+- [Samsung will now help NVIDIA make custom CPUs for AI domination](https://www.sammobile.com/news/samsung-will-now-help-nvidia-make-custom-cpus-for-ai-domination/) (Published: 2025-10-20)
+- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Nvidia, Tesla, MP Materials, Palantir, More Mover; Trump, China Trade Hope](https://biztoc.com/x/3e6971652ca0c59d) (Published: 2025-10-20)
 - [Nscale founding director exits AI infrastructure provider in wake of $1.1bn investment round](https://www.computerweekly.com/news/366633039/Nscale-founding-director-exits-AI-infrastructure-provider-in-wake-of-11bn-investment-round) (Published: 2025-10-20)
 - [cordatus-jtop-service 4.3.2.3](https://pypi.org/project/cordatus-jtop-service/4.3.2.3/) (Published: 2025-10-20)
 - [Why is Sam Altman’s ChatGPT flirting with erotica? The answer reveals an uncomfortable truth about AI today](https://www.livemint.com/opinion/online-views/ai-monetization-strategy-chatgpt-erotica-sam-altman-criticism-openai-business-model-sex-bot-chatbot-adult-content-porn-11760871090841.html) (Published: 2025-10-20)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-21 07:51:13**_
 - [Nvidia has produced the first Blackwell wafer entirely on US soil](https://biztoc.com/x/eb5397dab77a9d52) (Published: 2025-10-20)
 - [AI mania pulling global capital away, but India’s next rally hinges on industrials: Pashupati Advani](https://economictimes.indiatimes.com/markets/expert-view/ai-mania-pulling-global-capital-away-but-indias-next-rally-hinges-on-industrials-pashupati-advani/articleshow/124699583.cms) (Published: 2025-10-20)
 - [3 Unpopular Stocks That Concern Us](https://finance.yahoo.com/news/3-unpopular-stocks-concern-us-044028267.html) (Published: 2025-10-20)
-- [3 Reasons to Sell SIRI and 1 Stock to Buy Instead](https://finance.yahoo.com/news/3-reasons-sell-siri-1-040046632.html) (Published: 2025-10-20)
-- [Weekly news roundup: Nvidia rises as TSMC's top customer; Netherlands seizes Nexperia; Google considers MediaTek for next Pixel](https://www.digitimes.com/news/a20251020VL204/digitimes-asia-weekly-news-roundup-tsmc-nexperia-mediatek-nvidia.html) (Published: 2025-10-20)
