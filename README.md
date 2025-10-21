@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 05:44:23**_
+_Last updated: **2025-10-21 05:54:32**_
 
 - [Nvidia is ‘100% out of China’ — Jensen Huang warns what harms Beijing can often harm US ‘even in worse ways’](https://www.livemint.com/companies/news/nvidia-is-100-out-of-china-jensen-huang-warns-what-harms-beijing-can-often-harm-us-even-in-worse-ways-11760930364663.html) (Published: 2025-10-20)
 - [Nvidia has produced the first Blackwell wafer entirely on US soil](https://biztoc.com/x/eb5397dab77a9d52) (Published: 2025-10-20)
