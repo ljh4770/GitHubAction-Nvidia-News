@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 23:41:12**_
+_Last updated: **2025-10-21 23:51:23**_
 
 - [Purpose Investments Inc. Announces October 2025 Distributions](https://financialpost.com/globe-newswire/purpose-investments-inc-announces-october-2025-distributions) (Published: 2025-10-20)
 - ['From 95% to 0%': Nvidia CEO Jensen Huang Sounds Alarm Over US Tech Sanctions on China](https://www.ibtimes.com/95-0-nvidia-ceo-jensen-huang-sounds-alarm-over-us-tech-sanctions-china-3787736) (Published: 2025-10-20)
