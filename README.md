@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 17:33:16**_
+_Last updated: **2025-10-21 17:45:08**_
 
 - [Nvidia and TSMC Making Blackwell GPU Chips in the USA](https://www.nextbigfuture.com/2025/10/nvidia-and-tsmc-making-blackwell-gpu-chips-in-the-usa.html) (Published: 2025-10-20)
 - [GMKtec M6 Ultra “AMD Ryzen 5 7640HS” Mini PC Review – Mainstream Coverage Under $400](https://wccftech.com/review/gmktec-m6-ultra-amd-ryzen-5-7640hs-mini-pc-review-mainstream-coverage-under-400/) (Published: 2025-10-20)
