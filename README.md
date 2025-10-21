@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 19:38:39**_
+_Last updated: **2025-10-21 19:48:54**_
 
+- [Lenovo LOQ 17 squeezes everything out of the RTX 5070](https://www.notebookcheck.net/Lenovo-LOQ-17-squeezes-everything-out-of-the-RTX-5070.1142712.0.html) (Published: 2025-10-20)
+- [World's Most Advanced AI Chips Now Being Made In America Due To Trump's Policies: Nvidia Chief](https://biztoc.com/x/a8b34c3a6bd9cce3) (Published: 2025-10-20)
 - [How the future might look: The 2025 AI superpowers](https://www.digitaljournal.com/tech-science/how-the-future-might-look-the-2025-ai-superpowers/article) (Published: 2025-10-20)
 - [NetApp and Nvidia say data — not bigger models — is the key to unlocking AI ROI](https://siliconangle.com/2025/10/20/netapp-nvidia-look-unlock-ai-roi-netappinsight/) (Published: 2025-10-20)
 - [Suspicion of a Trojan](https://www.bleepingcomputer.com/forums/t/811408/suspicion-of-a-trojan/) (Published: 2025-10-20)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-21 19:38:39**_
 - [Nvidia-Backed Cohere to Offer Secondary Sale of Employee Shares](https://finance.yahoo.com/news/nvidia-backed-cohere-offer-secondary-185909812.html) (Published: 2025-10-20)
 - [OnlyFans surpasses Apple, NVIDIA in revenue per employee, Barchart analysis shows](https://economictimes.indiatimes.com/news/international/us/onlyfans-surpasses-apple-nvidia-in-revenue-per-employee-barchart-analysis-shows/articleshow/124709581.cms) (Published: 2025-10-20)
 - [nvidia-nat-llama-index 1.1.0a20251020](https://pypi.org/project/nvidia-nat-llama-index/1.1.0a20251020/) (Published: 2025-10-20)
-- [nvidia-nat-all 1.1.0a20251020](https://pypi.org/project/nvidia-nat-all/1.1.0a20251020/) (Published: 2025-10-20)
-- [nvidia-nat-weave 1.1.0a20251020](https://pypi.org/project/nvidia-nat-weave/1.1.0a20251020/) (Published: 2025-10-20)
