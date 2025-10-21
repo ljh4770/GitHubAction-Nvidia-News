@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 04:51:26**_
+_Last updated: **2025-10-21 05:11:09**_
 
+- [Nvidia has produced the first Blackwell wafer entirely on US soil](https://biztoc.com/x/eb5397dab77a9d52) (Published: 2025-10-20)
 - [AI mania pulling global capital away, but India’s next rally hinges on industrials: Pashupati Advani](https://economictimes.indiatimes.com/markets/expert-view/ai-mania-pulling-global-capital-away-but-indias-next-rally-hinges-on-industrials-pashupati-advani/articleshow/124699583.cms) (Published: 2025-10-20)
 - [3 Unpopular Stocks That Concern Us](https://finance.yahoo.com/news/3-unpopular-stocks-concern-us-044028267.html) (Published: 2025-10-20)
 - [3 Reasons to Sell SIRI and 1 Stock to Buy Instead](https://finance.yahoo.com/news/3-reasons-sell-siri-1-040046632.html) (Published: 2025-10-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-21 04:51:26**_
 - [OpenAI big chip orders dwarf its revenues — for now](https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-big-chip-orders-dwarf-its-revenues-for-now/articleshow/124698503.cms) (Published: 2025-10-20)
 - [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/) (Published: 2025-10-20)
 - [Exclusive: TSMC tightens China orders after US sanctions; Huawei proxy Sophgo cut off, Bitmain halved](https://www.digitimes.com/news/a20251020PD201/tsmc-china-huawei-revenue-2025.html) (Published: 2025-10-20)
-- [MSI Thin 15.6 inch FHD 144Hz Gaming Laptop Intel Core i5-13420H NVIDIA GeForce RTX 3050 - 16GB DDR4 512GB SSD Gray (2024) $504 FS @ Walmart](https://slickdeals.net/f/18714352-msi-thin-15-6-inch-fhd-144hz-gaming-laptop-intel-core-i5-13420h-nvidia-geforce-rtx-3050-16gb-ddr4-512gb-ssd-gray-2024-504-fs-walmart) (Published: 2025-10-20)
