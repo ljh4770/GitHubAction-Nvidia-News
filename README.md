@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 09:44:32**_
+_Last updated: **2025-10-21 09:54:47**_
 
 - [Nvidia, TSMC Unveil The First US-Made Blackwell Wafer, But Analyst Ming-Chi Kuo Flags This Overlooked Detail](https://biztoc.com/x/035fd4fa548c8420) (Published: 2025-10-20)
 - [AMD’s Lisa Su and HP’s Enrique Lores describe how they went from ho-hum to high-end](https://fortune.com/2025/10/20/amds-lisa-su-and-hps-enrique-lores-describe-how-they-went-from-ho-hum-to-high-end/) (Published: 2025-10-20)
