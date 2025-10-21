@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-21 08:43:40**_
+_Last updated: **2025-10-21 08:58:06**_
 
+- [What Nvidia Can Teach Doctors About Strategy, Survival](https://www.forbes.com/sites/robertpearl/2025/10/20/what-nvidia-can-teach-doctors-about-strategy-survival/) (Published: 2025-10-20)
 - [NVIDIA’s ‘Cutting-Edge’ Vera Rubin AI Servers Are Already in Development by Foxconn; Mass Production to Begin in H2 2026](https://wccftech.com/nvidia-vera-rubin-ai-servers-are-already-in-development-by-foxconn/) (Published: 2025-10-20)
 - [Samsung will now help NVIDIA make custom CPUs for AI domination](https://www.sammobile.com/news/samsung-will-now-help-nvidia-make-custom-cpus-for-ai-domination/) (Published: 2025-10-20)
 - [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Nvidia, Tesla, MP Materials, Palantir, More Mover; Trump, China Trade Hope](https://biztoc.com/x/3e6971652ca0c59d) (Published: 2025-10-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-21 08:43:40**_
 - [What if Hyperbitcoinization is really about to start?](https://cryptoslate.com/what-if-hyperbitcoinization-is-really-about-to-start/) (Published: 2025-10-20)
 - [Nvidia is ‘100% out of China’ — Jensen Huang warns what harms Beijing can often harm US ‘even in worse ways’](https://www.livemint.com/companies/news/nvidia-is-100-out-of-china-jensen-huang-warns-what-harms-beijing-can-often-harm-us-even-in-worse-ways-11760930364663.html) (Published: 2025-10-20)
 - [Nvidia has produced the first Blackwell wafer entirely on US soil](https://biztoc.com/x/eb5397dab77a9d52) (Published: 2025-10-20)
-- [AI mania pulling global capital away, but India’s next rally hinges on industrials: Pashupati Advani](https://economictimes.indiatimes.com/markets/expert-view/ai-mania-pulling-global-capital-away-but-indias-next-rally-hinges-on-industrials-pashupati-advani/articleshow/124699583.cms) (Published: 2025-10-20)
