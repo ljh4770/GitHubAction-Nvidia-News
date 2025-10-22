@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-22 23:26:21**_
+_Last updated: **2025-10-22 23:38:05**_
 
 - [How We Test Graphics Cards](https://me.pcmag.com/en/graphics-cards/33027/how-we-test-graphics-cards) (Published: 2025-10-21)
 - [nvidia-nccl-cu12 2.28.7](https://pypi.org/project/nvidia-nccl-cu12/2.28.7/) (Published: 2025-10-21)
