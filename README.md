@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-22 11:10:35**_
+_Last updated: **2025-10-22 11:28:19**_
 
 - [U.S. stock market futures today, 21 October, 2025: Dow, S&P 500, and Nasdaq futures dip as Wall Street awaits Netflix, Tesla, and Coca-Cola earnings — market rally pauses after peak gains, investors eye Fed rate cuts and tech results](https://m.economictimes.com/news/international/us/u-s-stock-market-futures-today-21-october-2025-dow-sp-500-and-nasdaq-futures-dip-as-wall-street-awaits-netflix-tesla-and-coca-cola-earnings-market-rally-pauses-after-peak-gains-investors-eye-fed-rate-cuts-and-tech-results/articleshow/124719983.cms) (Published: 2025-10-21)
 - [Frank Chimero · Beyond the Machine](https://frankchimero.com/blog/2025/beyond-the-machine/) (Published: 2025-10-21)
