@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-22 07:45:36**_
+_Last updated: **2025-10-22 07:56:21**_
 
 - [Intel Core Ultra X7 358H "Panther Lake" 16-Core Xe3 iGPU Tested](https://www.techpowerup.com/342072/intel-core-ultra-x7-358h-panther-lake-16-core-xe3-igpu-tested) (Published: 2025-10-21)
 - [Intel Core Ultra X7 358H "Panther Lake" 12-Core Xe3 iGPU Tested](https://www.techpowerup.com/342072/intel-core-ultra-x7-358h-panther-lake-12-core-xe3-igpu-tested) (Published: 2025-10-21)
