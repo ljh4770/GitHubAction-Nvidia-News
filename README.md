@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-22 22:41:02**_
+_Last updated: **2025-10-22 22:51:48**_
 
 - [Ubuntu 25.10 Audio Problems [closed]](https://askubuntu.com/questions/1557645/ubuntu-25-10-audio-problems) (Published: 2025-10-21)
 - [Laptop slow](https://www.bleepingcomputer.com/forums/t/811485/laptop-slow/) (Published: 2025-10-21)
