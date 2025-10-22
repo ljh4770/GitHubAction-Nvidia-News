@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-22 22:51:48**_
+_Last updated: **2025-10-22 23:09:37**_
 
+- [Server maker sees no AI bubble amid rising AI computing demand](https://www.digitimes.com/news/a20251021PD231/asrock-demand-pegatron-market-subsidiary.html) (Published: 2025-10-21)
+- [Jim Cramer says strong earnings from 'actual businesses' are driving the 'real economy'](https://www.cnbc.com/2025/10/21/jim-cramer-earnings-real-economy.html) (Published: 2025-10-21)
 - [Ubuntu 25.10 Audio Problems [closed]](https://askubuntu.com/questions/1557645/ubuntu-25-10-audio-problems) (Published: 2025-10-21)
 - [Laptop slow](https://www.bleepingcomputer.com/forums/t/811485/laptop-slow/) (Published: 2025-10-21)
 - [Fulton Financial (NASDAQ:FULT) Surprises With Strong Q3](https://finance.yahoo.com/news/fulton-financial-nasdaq-fult-surprises-213313109.html) (Published: 2025-10-21)
@@ -8,5 +10,3 @@ _Last updated: **2025-10-22 22:51:48**_
 - [The 3 Best Growth Stocks To Buy For November 2025](https://www.forbes.com/sites/investor-hub/article/3-best-growth-stocks-buy-november-2025/) (Published: 2025-10-21)
 - [Create Your Own Bash Computer Use Agent with NVIDIA Nemotron in One Hour](https://developer.nvidia.com/blog/create-your-own-bash-computer-use-agent-with-nvidia-nemotron-in-one-hour/) (Published: 2025-10-21)
 - [US oil futures little changed after API reports draw in crude inventories](https://finance.yahoo.com/news/us-oil-futures-little-changed-212309120.html) (Published: 2025-10-21)
-- [Are we in an AI bubble? Here's what analysts and experts are saying](https://www.cnbc.com/2025/10/21/are-we-in-an-ai-bubble.html) (Published: 2025-10-21)
-- ['One-of-a-kind mobile workstation': first review of Nvidia's RTX Pro 5000 Blackwell GPU shows that it is still slower than an RTX 5090 in games, but Pros won't care](https://www.techradar.com/pro/one-of-a-kind-mobile-workstation-first-review-of-nvidias-rtx-pro-5000-blackwell-gpu-shows-that-it-is-still-slower-than-an-rtx-5090-in-games-but-pros-wont-care) (Published: 2025-10-21)
