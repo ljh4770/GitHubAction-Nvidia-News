@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-22 03:31:45**_
+_Last updated: **2025-10-22 03:56:52**_
 
 - [To secure vast compute for OpenAI, Sam Altman's deal spree pits Silicon Valley giants against each other as they race to cash in, making OpenAI too big to fail](https://biztoc.com/x/18b9f71113bd18bf) (Published: 2025-10-21)
 - [Samsung's HBM4 business shows promise as 1c DRAM yield nears 80%](https://www.digitimes.com/news/a20251021PD210/samsung-dram-hbm4-production.html) (Published: 2025-10-21)
