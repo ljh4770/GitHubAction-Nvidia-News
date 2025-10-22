@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-22 05:38:48**_
+_Last updated: **2025-10-22 05:49:38**_
 
 - [NVIDIA’s CEO Jensen Huang ‘Scrambled’ To Rescue a Stalled Deal From Collapse With OpenAI After the AI Giant Considered Turning to Google TPU Chips](https://wccftech.com/nvidia-ceo-scrambled-to-rescue-a-stalled-deal-from-collapse-with-openai/) (Published: 2025-10-21)
 - [Google Cloud G4 VMs With NVIDIA RTX PRO 6000 Blackwell GPU Now Generally Available](https://www.madshrimps.be/news/google-cloud-g4-vms-with-nvidia-rtx-pro-6000-blackwell-gpu-now-generally-available/) (Published: 2025-10-21)
