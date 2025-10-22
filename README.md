@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-22 18:39:20**_
+_Last updated: **2025-10-22 18:55:19**_
 
 - [(PR) NVIDIA DLSS 4 Available This Week In The Outer Worlds 2, Vampire: The Masquerade - Bloodlines 2 and Jurassic World Evolution 3](https://www.techpowerup.com/342106/nvidia-dlss-4-available-this-week-in-the-outer-worlds-2-vampire-the-masquerade-bloodlines-2-and-jurassic-world-evolution-3) (Published: 2025-10-21)
 - [OpenAI launches ChatGPT Atlas web browser in latest strike at Google's online dominance](https://finance.yahoo.com/news/openai-launches-chatgpt-atlas-web-browser-in-latest-strike-at-googles-online-dominance-183549431.html) (Published: 2025-10-21)
