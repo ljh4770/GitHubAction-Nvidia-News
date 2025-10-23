@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 20:54:07**_
+_Last updated: **2025-10-23 21:14:13**_
 
+- [Lam Research shares jump as Q1 results, guidance top expectations](https://finance.yahoo.com/news/lam-research-shares-jump-q1-205511549.html) (Published: 2025-10-22)
 - [Show HN: ProxyBridge redirect any Windows TCP/UDP traffic to HTTP/SOCKS5 proxies](https://github.com/InterceptSuite/ProxyBridge) (Published: 2025-10-22)
 - [‘The Next Generation of Compute Is Driving AI,’ Technology Leader Says at NVIDIA AI Day Sydney](https://blogs.nvidia.com/blog/ai-day-sydney/) (Published: 2025-10-22)
 - [Wall Street's sleeping on Nvidia, AMD, and Broadcom? A major investment bank says yes](https://www.thestreet.com/investing/wall-streets-sleeping-on-nvidia-amd-and-broadcom-a-major-investment-bank-says-yes) (Published: 2025-10-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-23 20:54:07**_
 - [At The Money: How Big Can Active ETFS Get?](https://ritholtz.com/2025/10/atm-how-big-can-active-etfs-get/) (Published: 2025-10-22)
 - [Tesla Investors Pivot to Dreams of AI Future as EV Sales to Slow](https://finance.yahoo.com/news/tesla-investors-pivot-dreams-ai-183005048.html) (Published: 2025-10-22)
 - [Tesla's $1.5 Trillion Mirage: AI Dreams, Crashing Profits, and Musk's High-Stakes Reality Check](https://finance.yahoo.com/news/teslas-1-5-trillion-mirage-182822910.html) (Published: 2025-10-22)
-- [Beyond Meat Soars After MEME ETF Inclusion Sparks Short Squeeze](https://finance.yahoo.com/news/beyond-meat-soars-meme-etf-180109997.html) (Published: 2025-10-22)
