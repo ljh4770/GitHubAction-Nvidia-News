@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 15:34:26**_
+_Last updated: **2025-10-23 15:44:39**_
 
+- [NVIDIA’s AI Chips Blast Off to Space, Aiming to Harness Unlimited Solar Power and Use the Deep-Space Vacuum as a ‘Celestial’ Heatsink](https://wccftech.com/nvidia-ai-chips-blast-off-to-space-aiming-to-harness-unlimited-solar-power/) (Published: 2025-10-22)
 - [Trump Wanted Clean Energy Dead—It's Crushing Nvidia And AI Instead](https://biztoc.com/x/9eafab3364f08807) (Published: 2025-10-22)
 - [Micron Unveils New Memory Tech For AI Data Centers, Nvidia Team Up](https://biztoc.com/x/b9ae29c4304fd6d1) (Published: 2025-10-22)
 - [NextSilicon Claims Its Maverick-2 Outperforms NVIDIA GPUs, Unveils New RISC-V Chip](https://www.techpowerup.com/342139/nextsilicon-claims-its-maverick-2-outperforms-nvidia-gpus-unveils-new-risc-v-chip) (Published: 2025-10-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-23 15:34:26**_
 - [Analyst Explains Why He Likes Advanced Micro Devices (AMD) – Says There Are ‘Other Options’ Beyond Nvidia](https://biztoc.com/x/76ca2f9838af17db) (Published: 2025-10-22)
 - [Here’s are Some of Wednesday’s Biggest Analyst Calls: NFLX, DELL, APP AMZN](https://biztoc.com/x/b6956c72ef01a3fa) (Published: 2025-10-22)
 - [GM Plans Eyes-Off Driving For 2028, Gemini AI In 2026](https://www.forbes.com/sites/samabuelsamid/2025/10/22/gm-plans-eyes-off-driving-for-2028-gemini-ai-in-2026/) (Published: 2025-10-22)
-- [The S&P 500 is more concentrated with AI than ever. Here's how to manage your risk](https://www.cnbc.com/2025/10/22/your-portfolio-may-be-more-tech-heavy-than-you-think.html) (Published: 2025-10-22)
