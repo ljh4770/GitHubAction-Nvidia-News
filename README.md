@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 04:24:09**_
+_Last updated: **2025-10-23 04:42:06**_
 
 - [Zeekr 7X facelift revealed – 900V architecture, 6C DC charging, 802 km CLTC, 795 PS, 0-100 km/h 2.98 secs](https://paultan.org/2025/10/22/zeekr-7x-facelift-revealed-900v-architecture-6c-dc-charging-802-km-cltc-795-ps-0-100-km-h-2-98-secs/) (Published: 2025-10-22)
 - [DeepSeek unveils AI model that uses visual perception to compress text input](https://www.thestar.com.my/tech/tech-news/2025/10/22/deepseek-unveils-ai-model-that-uses-visual-perception-to-compress-text-input) (Published: 2025-10-22)
