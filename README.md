@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 14:53:05**_
+_Last updated: **2025-10-23 15:15:07**_
 
+- [Micron Unveils New Memory Tech For AI Data Centers, Nvidia Team Up](https://biztoc.com/x/b9ae29c4304fd6d1) (Published: 2025-10-22)
+- [NextSilicon Claims Its Maverick-2 Outperforms NVIDIA GPUs, Unveils New RISC-V Chip](https://www.techpowerup.com/342139/nextsilicon-claims-its-maverick-2-outperforms-nvidia-gpus-unveils-new-risc-v-chip) (Published: 2025-10-22)
+- [Assessing NVIDIA's Performance Against Competitors In Semiconductors & Semiconductor Equipment Industry](https://biztoc.com/x/25f697a0622e1c52) (Published: 2025-10-22)
+- [GM unveils 'eyes off' self driving, 'conversational' Google AI for its cars at tech event](https://finance.yahoo.com/news/gm-unveils-eyes-off-self-driving-conversational-google-ai-for-its-cars-at-tech-event-151049822.html) (Published: 2025-10-22)
+- [Meta Platforms (NASDAQ: META) Price Prediction and Forecast 2025-2030 for October 22](https://biztoc.com/x/f23d74e392b402d2) (Published: 2025-10-22)
+- [Analyst Explains Why He Likes Advanced Micro Devices (AMD) – Says There Are ‘Other Options’ Beyond Nvidia](https://biztoc.com/x/76ca2f9838af17db) (Published: 2025-10-22)
+- [Here’s are Some of Wednesday’s Biggest Analyst Calls: NFLX, DELL, APP AMZN](https://biztoc.com/x/b6956c72ef01a3fa) (Published: 2025-10-22)
+- [GM Plans Eyes-Off Driving For 2028, Gemini AI In 2026](https://www.forbes.com/sites/samabuelsamid/2025/10/22/gm-plans-eyes-off-driving-for-2028-gemini-ai-in-2026/) (Published: 2025-10-22)
+- [The S&P 500 is more concentrated with AI than ever. Here's how to manage your risk](https://www.cnbc.com/2025/10/22/your-portfolio-may-be-more-tech-heavy-than-you-think.html) (Published: 2025-10-22)
 - [Microsoft CEO Satya Nadella’s pay hits a record $96.5 million—he got a 22% pay raise mirroring the $4 trillion tech giant’s skyrocketing shares](https://fortune.com/2025/10/22/microsoft-ceo-satya-nadella-pay-hits-a-record-96-5-million-dollars-usd-he-got-a-22-percent-pay-rise-mirroring-the-4-trillion-tech-giants-skyrocketing-shares/) (Published: 2025-10-22)
-- [Analyst Explains Why He Likes Advanced Micro Devices (AMD) – Says There Are ‘Other Options’ Beyond Nvidia](https://finance.yahoo.com/news/analyst-explains-why-likes-advanced-145127899.html) (Published: 2025-10-22)
-- [Dropping Nvidia for Amazon's custom chips helped gene therapy startup Metagenomi cut AI bill 56%](https://biztoc.com/x/b4bb32efbc0481ee) (Published: 2025-10-22)
-- [Show HN: UHOP – An Open Hardware Optimization Platform for GPUs](https://github.com/sevenloops/uhop) (Published: 2025-10-22)
-- [Dropping Nvidia for Amazon's custom chips helped gene therapy startup Metagenomi cut AI bill 56%](https://www.theregister.com/2025/10/22/aws_metagenomi_ai_inferentia/) (Published: 2025-10-22)
-- [Nvidia’s Blackwell Wafer: The First Step Toward Onshored AI Chipmaking](https://techreport.com/news/nvidia-us-made-blackwell-wafer-ai-milestone/) (Published: 2025-10-22)
-- [Blockbuster $40b AI Investment Is Only 10% of What’s Coming (NVDA, MSFT, META, BLK)](https://247wallst.com/investing/2025/10/22/blockbuster-40b-ai-investment-is-only-10-of-whats-coming-nvda-msft-meta-blk-big-40-billion-bet-in-ai/) (Published: 2025-10-22)
-- [Prediction: 1 Artificial Intelligence (AI) Stock Will Be Worth More Than Amazon and Palantir Combined by 2030 (Hint: It's Not Nvidia)](https://biztoc.com/x/36037068503d46c1) (Published: 2025-10-22)
-- [Nvidia signs AI partnership with Dominican Republic](https://biztoc.com/x/2dd01de42b083e0d) (Published: 2025-10-22)
-- [UK data centre spend to soar to £10 billion a year - Barbour ABI](https://finance.yahoo.com/news/uk-data-centre-spend-soar-142702869.html) (Published: 2025-10-22)
