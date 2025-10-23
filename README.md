@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 23:45:19**_
+_Last updated: **2025-10-23 23:55:43**_
 
+- [Broadcom and Marvell land major AI accelerator orders, TSMC remains key manufacturer](https://www.digitimes.com/news/a20251022PD236/accelerator-aws-google-broadcom-marvell.html) (Published: 2025-10-22)
 - [Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building](https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/) (Published: 2025-10-22)
 - [Jim Cramer Corrects The Narrative For Arm Holdings (ARM)](https://finance.yahoo.com/news/jim-cramer-corrects-narrative-arm-232423864.html) (Published: 2025-10-22)
 - [Tesla earnings call: Elon Musk reveals updates on AI, Robotaxis, & vehicle production plans - what investors need to know](https://economictimes.indiatimes.com/news/international/us/tsla-tesla-earnings-call-elon-musk-reveals-updates-on-ai-robotaxis-vehicle-production-plans-what-investors-need-to-know/articleshow/124749967.cms) (Published: 2025-10-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-23 23:45:19**_
 - [Nvidia GPU Heads Into Orbit on a Mission to Test Data Centers in Space](https://uk.pcmag.com/ai/160870/nvidia-gpu-heads-into-orbit-on-a-mission-to-test-data-centers-in-space) (Published: 2025-10-22)
 - [NextSilicon reveals new processor chip in challenge to Intel, AMD](https://finance.yahoo.com/news/nextsilicon-reveals-processor-chip-challenge-222057649.html) (Published: 2025-10-22)
 - [NextSilicon reveals new processor chip in challenge to Intel, AMD](https://finance.yahoo.com/news/nextsilicon-reveals-processor-chip-challenge-222057772.html) (Published: 2025-10-22)
-- [Jurassic World Evolution 3 lets you design a custom park and fill it with macro beasts – but at the cost of bit too much micromanagement](https://www.techradar.com/gaming/jurassic-world-evolution-3-review) (Published: 2025-10-22)
