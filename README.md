@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 13:39:01**_
+_Last updated: **2025-10-23 13:53:10**_
 
 - [New affordable AMD Ryzen gaming laptop with Nvidia RTX graphics: Lenovo releases LOQ Essential 15ARP10](https://www.notebookcheck.net/New-affordable-AMD-Ryzen-gaming-laptop-with-Nvidia-RTX-graphics-Lenovo-releases-LOQ-Essential-15ARP10.1144419.0.html) (Published: 2025-10-22)
 - [Security updates for Wednesday](https://lwn.net/Articles/1042911/) (Published: 2025-10-22)
