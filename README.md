@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 10:51:29**_
+_Last updated: **2025-10-23 11:09:27**_
 
+- [Could This Underrated Stock Become the Next Nebius Group?](https://biztoc.com/x/7b53f0374d844865) (Published: 2025-10-22)
+- [Nvidia Stock Gains. The AI Chip Maker Needs This From Big Tech Earnings](https://biztoc.com/x/1a4d03cba49e7258) (Published: 2025-10-22)
+- [Huge AI data centers are turning local elections into fights over the future of energy](https://fortune.com/2025/10/22/ai-data-centers-politics-elections-energy/) (Published: 2025-10-22)
 - [Wedgewood Partners Trimmed Taiwan Semiconductor Manufacturing Company (TSM) in Q3 as It Re-Rated Higher](https://finance.yahoo.com/news/wedgewood-partners-trimmed-taiwan-semiconductor-104608634.html) (Published: 2025-10-22)
 - [nvidia-nat-opentelemetry 1.4.0a20251022](https://pypi.org/project/nvidia-nat-opentelemetry/1.4.0a20251022/) (Published: 2025-10-22)
 - [nvidia-nat-phoenix 1.4.0a20251022](https://pypi.org/project/nvidia-nat-phoenix/1.4.0a20251022/) (Published: 2025-10-22)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-23 10:51:29**_
 - [nvidia-nat-mem0ai 1.4.0a20251022](https://pypi.org/project/nvidia-nat-mem0ai/1.4.0a20251022/) (Published: 2025-10-22)
 - [nvidia-nat-mysql 1.4.0a20251022](https://pypi.org/project/nvidia-nat-mysql/1.4.0a20251022/) (Published: 2025-10-22)
 - [nvidia-nat-crewai 1.4.0a20251022](https://pypi.org/project/nvidia-nat-crewai/1.4.0a20251022/) (Published: 2025-10-22)
-- [nvidia-nat-agno 1.4.0a20251022](https://pypi.org/project/nvidia-nat-agno/1.4.0a20251022/) (Published: 2025-10-22)
-- [Inside Superstar Investor Cathie Wood's AI Stock-Fueled Comeback](https://www.forbes.com/sites/hanktucker/2025/10/22/inside-superstar-investor-cathie-woods-ai-stock-fueled-comeback/) (Published: 2025-10-22)
-- [Nvidia's homegrown memory design is almost standardized and ready for everyone to use — JEDEC says SOCAMM2 compact DRAM module for AI servers boasts higher speeds and broader compatibility](https://www.tomshardware.com/pc-components/ram/nvidias-homegrown-memory-design-is-nearly-complete-and-standardized-jedec-says-socamm2-will-replace-the-bespoke-socamm1-standard-that-nvidia-created) (Published: 2025-10-22)
