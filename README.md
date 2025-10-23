@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 04:52:30**_
+_Last updated: **2025-10-23 05:13:01**_
 
+- [OpenAI diversifies chip suppliers to challenge Nvidia's infrastructure dominance](https://www.digitimes.com/news/a20251022PD205/openai-nvidia-amd-broadcom-infrastructure.html) (Published: 2025-10-22)
 - [Zeekr 7X facelift revealed – 900V architecture, 6C DC charging, 802 km CLTC, 795 PS, 0-100 km/h 2.98 secs](https://paultan.org/2025/10/22/zeekr-7x-facelift-revealed-900v-architecture-6c-dc-charging-802-km-cltc-795-ps-0-100-km-h-2-98-secs/) (Published: 2025-10-22)
 - [DeepSeek unveils AI model that uses visual perception to compress text input](https://www.thestar.com.my/tech/tech-news/2025/10/22/deepseek-unveils-ai-model-that-uses-visual-perception-to-compress-text-input) (Published: 2025-10-22)
 - [ChatGPT maker OpenAI releases first web browser, Atlas – with Kiwi Ben Goodger at spearhead: Tech Insider](https://www.nzherald.co.nz/business/companies/telecommunications/chatgpt-maker-openai-releases-its-first-web-browser-atlas-with-kiwi-ben-goodger-at-spearhead-tech-insider/DVENNXZ2INGXFJMQPUOXMQXY3U/) (Published: 2025-10-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-23 04:52:30**_
 - [nvidia-nat-opentelemetry 1.3.0rc6](https://pypi.org/project/nvidia-nat-opentelemetry/1.3.0rc6/) (Published: 2025-10-22)
 - [nvidia-nat-phoenix 1.3.0rc6](https://pypi.org/project/nvidia-nat-phoenix/1.3.0rc6/) (Published: 2025-10-22)
 - [nvidia-nat-mem0ai 1.3.0rc6](https://pypi.org/project/nvidia-nat-mem0ai/1.3.0rc6/) (Published: 2025-10-22)
-- [nvidia-nat-mysql 1.3.0rc6](https://pypi.org/project/nvidia-nat-mysql/1.3.0rc6/) (Published: 2025-10-22)
