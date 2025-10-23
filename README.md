@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 20:28:43**_
+_Last updated: **2025-10-23 20:43:21**_
 
 - [Show HN: ProxyBridge redirect any Windows TCP/UDP traffic to HTTP/SOCKS5 proxies](https://github.com/InterceptSuite/ProxyBridge) (Published: 2025-10-22)
 - [‘The Next Generation of Compute Is Driving AI,’ Technology Leader Says at NVIDIA AI Day Sydney](https://blogs.nvidia.com/blog/ai-day-sydney/) (Published: 2025-10-22)
