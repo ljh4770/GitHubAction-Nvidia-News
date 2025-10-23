@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 19:12:41**_
+_Last updated: **2025-10-23 19:27:15**_
 
+- [AI hype is real, but a Nobel-winning economist warns profits aren't guaranteed](https://finance.yahoo.com/news/ai-hype-is-real-but-a-nobel-winning-economist-warns-profits-arent-guaranteed-192514082.html) (Published: 2025-10-22)
+- [Talk about VIP service - Elon Musk and Sam Altman have their DGX Spark mini PCs hand-delivered by Nvidia CEO Jensen Huang](https://www.techradar.com/pro/talk-about-vip-service-elon-musk-and-sam-altman-have-their-dgx-spark-mini-pcs-hand-delivered-by-nvidia-ceo-jensen-huang) (Published: 2025-10-22)
 - [China Targets Texas Instruments in Chip Crackdown: 37-Day Countdown Begins](https://finance.yahoo.com/news/china-targets-texas-instruments-chip-190935803.html) (Published: 2025-10-22)
 - [At The Money: How Big Can Active ETFS Get?](https://ritholtz.com/2025/10/atm-how-big-can-active-etfs-get/) (Published: 2025-10-22)
 - [Tesla Investors Pivot to Dreams of AI Future as EV Sales to Slow](https://finance.yahoo.com/news/tesla-investors-pivot-dreams-ai-183005048.html) (Published: 2025-10-22)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-23 19:12:41**_
 - [NVIDIA Shows DLSS 4, Path Tracing, and RTX Mega Geometry with New Downloadable Bonsai Diorama Demo](https://wccftech.com/nvidia-shows-dlss4-path-tracing-rtx-mega-geometry-new-downloadable-demo/) (Published: 2025-10-22)
 - [Take Back Tesla urges pension funds to vote ‘no’ on Musk’s $1 trillion pay day](http://electrek.co/2025/10/22/take-back-tesla-urges-pension-funds-to-vote-no-on-musks-1-trillion-pay-day/) (Published: 2025-10-22)
 - [NVIDIA H100 Makes Its Cosmic Debut as the First AI Accelerator in Space](https://www.techpowerup.com/342141/nvidia-h100-makes-its-cosmic-debut-as-the-first-ai-accelerator-in-space) (Published: 2025-10-22)
-- [Next Silicon’s Dataflow Chip Could Disrupt The Processor Landscape](https://www.forbes.com/sites/davealtavilla/2025/10/22/next-silicons-dataflow-chip-could-disrupt-the-processor-landscape/) (Published: 2025-10-22)
-- [A 29-Year-Old Asks For Help With Managing A $120,000 Debt, And That Doesn't Even Include The Mortgage](https://finance.yahoo.com/news/29-old-asks-help-managing-173107923.html) (Published: 2025-10-22)
