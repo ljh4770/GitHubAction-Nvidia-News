@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 21:38:08**_
+_Last updated: **2025-10-23 21:48:36**_
 
 - [NextSilicon Maverick-2 promises to blow away the HPC market Nvidia left behind](https://www.theregister.com/2025/10/22/nextsilicon_maverick2_fill_nvidia_hpc_void/) (Published: 2025-10-22)
 - [Lenovo goes tiny as it embraces AMD-based Ryzen mini PCs - including one offering venerable VGA and COM ports for legacy applications](https://www.techradar.com/pro/lenovo-goes-tiny-as-it-embraces-amd-based-ryzen-mini-pcs-including-one-that-offers-the-venerable-vga-and-com-ports-for-legacy-applications) (Published: 2025-10-22)
