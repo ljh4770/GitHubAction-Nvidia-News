@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 09:43:54**_
+_Last updated: **2025-10-23 09:54:33**_
 
 - [Show HN: Confidential AI browser extension – alternative to OpenAI Atlas](https://github.com/edgelesssys/privatemode-for-chrome-demo) (Published: 2025-10-22)
 - [NVIDIA DLSS 4 Available This Week In The Outer Worlds 2, Vampire: The Masquerade – Bloodlines 2 and Jurassic World Evolution 3](https://www.madshrimps.be/news/nvidia-dlss-4-available-this-week-in-the-outer-worlds-2-vampire-the-masquerade-bloodlines-2-and-jurassic-world-evolution-3/) (Published: 2025-10-22)
