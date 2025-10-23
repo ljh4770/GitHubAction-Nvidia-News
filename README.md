@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 05:45:12**_
+_Last updated: **2025-10-23 05:55:52**_
 
 - [NZ sharemarket falls as Fisher & Paykel Healthcare, Infratil and a2 Milk slide – Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-falls-as-fisher-paykel-healthcare-infratil-and-a2-milk-slide-market-close/VPGH2XYVIRHG7JA2N46F54YW5M/) (Published: 2025-10-22)
 - [OpenAI diversifies chip suppliers to challenge Nvidia's infrastructure dominance](https://www.digitimes.com/news/a20251022PD205/openai-nvidia-amd-broadcom-infrastructure.html) (Published: 2025-10-22)
