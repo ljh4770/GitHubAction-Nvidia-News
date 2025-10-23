@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 07:31:08**_
+_Last updated: **2025-10-23 07:42:38**_
 
 - [Volvo ES90 launched in Thailand – high-riding electric sedan coming to Malaysia in 2026, CKD in Shah Alam](https://paultan.org/2025/10/22/volvo-es90-launched-in-thailand-high-riding-electric-sedan-coming-to-malaysia-in-2026-ckd-in-shah-alam/) (Published: 2025-10-22)
 - [TSMC strengthens foundry 2.0 leadership, backed by robust AI chip packaging demand](https://www.digitimes.com/news/a20251022PD229/tsmc-investment-ai-chip-packaging-demand.html) (Published: 2025-10-22)
