@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-23 19:39:42**_
+_Last updated: **2025-10-23 19:50:09**_
 
 - [Wall Street's sleeping on Nvidia, AMD, and Broadcom? A major investment bank says yes](https://www.thestreet.com/investing/wall-streets-sleeping-on-nvidia-amd-and-broadcom-a-major-investment-bank-says-yes) (Published: 2025-10-22)
 - [AI hype is real, but a Nobel-winning economist warns profits aren't guaranteed](https://finance.yahoo.com/news/ai-hype-is-real-but-a-nobel-winning-economist-warns-profits-arent-guaranteed-192514082.html) (Published: 2025-10-22)
