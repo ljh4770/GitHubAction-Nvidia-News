@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-24 11:47:36**_
+_Last updated: **2025-10-24 11:57:55**_
 
+- [Epic Games Store prepares for Halloween with new free game giveaway for stealth horror fans on PC and Mac](https://www.notebookcheck.net/Epic-Games-Store-prepares-for-Halloween-with-new-free-game-giveaway-for-stealth-horror-fans-on-PC-and-Mac.1145201.0.html) (Published: 2025-10-23)
 - [Unofficial NVIDIA Reflex 2 Tech Demo Reportedly Works On All RTX GPUs, Including RTX 20 Series](https://wccftech.com/unofficial-nvidia-reflex-2-tech-demo-reportedly-works-on-all-rtx-gpus-including/) (Published: 2025-10-23)
 - [Tesla earnings showed the company needs Elon Musk's full attention as it pivots to AI](https://www.businessinsider.com/tesla-q3-earnings-analysis-elon-musk-pay-package-engagement-level-2025-10) (Published: 2025-10-23)
 - [How to watch The Traitors Canada season 3 — it's *FREE*](https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-the-traitors-canada-season-3-its-free) (Published: 2025-10-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-24 11:47:36**_
 - [Regression vs Transformers: Key Differences and When to Use Each Model](https://www.digitalocean.com/community/tutorials/regression-vs-transformers) (Published: 2025-10-23)
 - [5 Quantum computing stocks surge as Trump eyes investment](https://rollingout.com/2025/10/23/5-quantum-computing-stocks-surge-trump/) (Published: 2025-10-23)
 - [Nvidia Stock Rises. Watch These Figures for the Next Rally](https://biztoc.com/x/c30a06635f33eb00) (Published: 2025-10-23)
-- [Links 10/23/2025](https://www.nakedcapitalism.com/2025/10/links-10-23-2025.html) (Published: 2025-10-23)
