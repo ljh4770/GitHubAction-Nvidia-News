@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-24 17:09:08**_
+_Last updated: **2025-10-24 17:29:53**_
 
+- [Meet the CEO of China's version of Nvidia, who's had a great week in the stock market](https://biztoc.com/x/237b677c1ae8717d) (Published: 2025-10-23)
+- [Why Molina Healthcare (MOH) Shares Are Falling Today](https://finance.yahoo.com/news/why-molina-healthcare-moh-shares-172050532.html) (Published: 2025-10-23)
+- [Why Kratos (KTOS) Stock Is Trading Up Today](https://finance.yahoo.com/news/why-kratos-ktos-stock-trading-172049427.html) (Published: 2025-10-23)
+- [Samsung Ramps Up Chip Production to Feed AI's Endless Hunger](https://www.androidheadlines.com/2025/10/samsung-foundry-billions-ai-chip-production-demand.html) (Published: 2025-10-23)
+- [Super assistant or apex predator? AI brings renewed scrutiny on jobs, data centers and future research](https://siliconangle.com/2025/10/23/super-assistant-apex-predator-ai-brings-renewed-scrutiny-jobs-data-centers-future-research/) (Published: 2025-10-23)
 - [AMD Ryzen 7 7800X3D gaming PC with RX 9070 XT GPU is on sale for just $1,529, cheaper than DIY — save $670 when you get this pre-built on Newegg](https://www.tomshardware.com/pc-components/amd-ryzen-7-7800x3d-gaming-pc-with-rx-9070-xt-gpu-is-on-sale-for-just-usd1-529-cheaper-than-diy-save-usd670-when-you-get-this-pre-built-on-newegg) (Published: 2025-10-23)
 - [Elon Musk claims Tesla's new AI5 chip is 40x more performant than previous-gen AI5 — Next-gen custom silicon for vehicle AI to now be built by Samsung & TSMC](https://www.tomshardware.com/tech-industry/elon-musk-claims-teslas-new-ai5-chip-is-40x-more-performant-than-previous-gen-ai5-next-gen-custom-silicon-for-vehicle-ai-to-now-be-built-by-samsung-and-tsmc) (Published: 2025-10-23)
 - [Earnings news keeps European shares in the green](https://www.irishtimes.com/business/2025/10/23/earnings-news-keeps-european-shares-in-the-green/) (Published: 2025-10-23)
 - ['It Shouldn't Be This Difficult To Be Successful' — Worker Earning $240K Says The U.S. Economy Is 'Failing The Middle Class'](https://finance.yahoo.com/news/shouldnt-difficult-successful-worker-earning-163104023.html) (Published: 2025-10-23)
 - [Exclusive - Anupamaa fame Nishi Saxena to enter popular television show 'Vasudha'](https://timesofindia.indiatimes.com/tv/news/hindi/anupamaa-fame-nishi-saxena-to-enter-popular-television-show-vasudha/articleshow/124766648.cms) (Published: 2025-10-23)
-- [Former Biden Adviser Explains What Concerns Him About NVIDIA (NVDA)-Led AI ‘Bubble’](https://biztoc.com/x/6e9749c19b490297) (Published: 2025-10-23)
-- [Intel faces high earnings bar as stock soars and cash pours in](https://biztoc.com/x/43ce484a42db588b) (Published: 2025-10-23)
-- [Krafton is now an 'AI-first company,' will spend $70 million on a GPU cluster to 'serve as the foundation for accelerating the implementation of agentic AI'](https://www.pcgamer.com/software/ai/krafton-is-now-an-ai-first-company-will-spend-usd70-million-on-a-gpu-cluster-to-serve-as-the-foundation-for-accelerating-the-implementation-of-agentic-ai/) (Published: 2025-10-23)
-- ['It's a hit list for people': How Charlie Kirk’s TPUSA Professor Watchlist is impacting academia](https://timesofindia.indiatimes.com/education/news/its-a-hit-list-for-people-how-charlie-kirks-tpusa-professor-watchlist-is-impacting-academia/articleshow/124765669.cms) (Published: 2025-10-23)
-- [Sydney woman’s remark on Diwali celebrations draws flak](https://timesofindia.indiatimes.com/etimes/trending/sydney-womans-remark-on-diwali-celebrations-draws-flak/articleshow/124766285.cms) (Published: 2025-10-23)
