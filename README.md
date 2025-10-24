@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-24 07:29:48**_
+_Last updated: **2025-10-24 07:42:02**_
 
 - [AI, XR, digital twins set to transform robotics](https://www.computerweekly.com/feature/AI-XR-digital-twins-set-to-transform-robotics) (Published: 2025-10-23)
 - [AI startup Uniphore raises $260 million in Series F from Nvidia, AMD, Snowflake, Databricks](https://www.livemint.com/companies/start-ups/ai-startup-uniphore-raises-260-milllion-global-investors-11761196184270.html) (Published: 2025-10-23)
