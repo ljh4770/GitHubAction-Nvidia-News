@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-24 19:28:21**_
+_Last updated: **2025-10-24 19:40:43**_
 
 - [Pushing boundaries: Yale-affiliated projects are winners in climate solutions/AI challenge](https://news.yale.edu/2025/10/23/pushing-boundaries-yale-affiliated-projects-are-winners-climate-solutionsai-challenge) (Published: 2025-10-23)
 - [Solve Linear Programs Using the GPU-Accelerated Barrier Method in NVIDIA cuOpt](https://developer.nvidia.com/blog/solve-linear-programs-using-the-gpu-accelerated-barrier-method-in-nvidia-cuopt/) (Published: 2025-10-23)
