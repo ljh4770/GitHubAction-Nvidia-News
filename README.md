@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-24 04:44:32**_
+_Last updated: **2025-10-24 04:54:57**_
 
+- [Chennai start-up Uniphore raises $260 mn from Nvidia, AMD, NEA among others](https://www.thehindubusinessline.com/companies/chennai-start-up-uniphore-raises-260-mn-from-nvidia-amd-nea-among-others/article70192182.ece) (Published: 2025-10-23)
 - [tahoex added to PyPI](https://pypi.org/project/tahoex/) (Published: 2025-10-23)
 - [Tesla stock price continues to show resilience despite sales ‘falling off a cliff’](https://www.independent.ie/business/technology/tesla-stock-price-continues-to-show-resilience-despite-sales-falling-off-a-cliff/a868970709.html) (Published: 2025-10-23)
 - [LG 48" OLED B5 AI UHD 4K Smart TV (2025) $1185 + Delivery ($0 to Select Areas/ NSW C&C/ In-Store) @ Appliance Central (Exc. TAS)](https://www.ozbargain.com.au/node/929867) (Published: 2025-10-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-24 04:44:32**_
 - [『ソニックランブル』2025年11月5日（水）に正式サービス開始　事前登録でゲーム内報酬をプレゼント！新キービジュアルも公開！](https://prtimes.jp/main/html/rd/p/000006880.000005397.html) (Published: 2025-10-23)
 - [Brasada Capital Third Quarter Of 2025 Quarterly Update](https://seekingalpha.com/article/4832202-brasada-capital-third-quarter-of-2025-quarterly-update) (Published: 2025-10-23)
 - [NextSilicon reveals new processor chip in challenge to Intel, AMD](https://economictimes.indiatimes.com/tech/technology/nextsilicon-reveals-new-processor-chip-in-challenge-to-intel-amd/articleshow/124752270.cms) (Published: 2025-10-23)
-- [Tesla's Q3 Results Divides Analysts: Tom Nash Says Stock Is Going To $900 In 12 Months 'At Most'](https://finance.yahoo.com/news/teslas-q3-results-divides-analysts-033108508.html) (Published: 2025-10-23)
