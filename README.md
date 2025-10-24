@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-24 05:17:55**_
+_Last updated: **2025-10-24 05:36:42**_
 
+- [T Q3 CY2025 Deep Dive: Fiber Expansion, Convergence Strategy, and Margin Focus Define Quarter](https://finance.yahoo.com/news/t-q3-cy2025-deep-dive-053146745.html) (Published: 2025-10-23)
+- [Musk says Samsung is taking bigger role in making Tesla chips](https://www.bloomberg.com/news/articles/2025-10-22/tesla-s-musk-says-samsung-is-taking-bigger-role-making-its-chips) (Published: 2025-10-23)
 - [Chennai start-up Uniphore raises $260 mn from Nvidia, AMD, NEA among others](https://www.thehindubusinessline.com/companies/chennai-start-up-uniphore-raises-260-mn-from-nvidia-amd-nea-among-others/article70192182.ece) (Published: 2025-10-23)
 - [tahoex added to PyPI](https://pypi.org/project/tahoex/) (Published: 2025-10-23)
 - [Tesla stock price continues to show resilience despite sales ‘falling off a cliff’](https://www.independent.ie/business/technology/tesla-stock-price-continues-to-show-resilience-despite-sales-falling-off-a-cliff/a868970709.html) (Published: 2025-10-23)
@@ -8,5 +10,3 @@ _Last updated: **2025-10-24 05:17:55**_
 - [Bezos Fund Believes AI Can Save the Planet. Nvidia, Google Are All-In](https://biztoc.com/x/80649b8912c304ab) (Published: 2025-10-23)
 - [Intel results to show if barrage of investments in chipmaker paying off](https://economictimes.indiatimes.com/tech/technology/intel-results-to-show-if-barrage-of-investments-in-chipmaker-paying-off/articleshow/124752573.cms) (Published: 2025-10-23)
 - [‘Strategy without execution is hallucination’: Cisco’s Aruna Ravichandran on AI and work](http://digiday.com/marketing/strategy-without-execution-is-hallucination-ciscos-aruna-ravichandran-on-ai-and-work/) (Published: 2025-10-23)
-- [『ソニックランブル』2025年11月5日（水）に正式サービス開始　事前登録でゲーム内報酬をプレゼント！新キービジュアルも公開！](https://prtimes.jp/main/html/rd/p/000006880.000005397.html) (Published: 2025-10-23)
-- [Brasada Capital Third Quarter Of 2025 Quarterly Update](https://seekingalpha.com/article/4832202-brasada-capital-third-quarter-of-2025-quarterly-update) (Published: 2025-10-23)
