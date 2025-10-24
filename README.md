@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-24 16:51:04**_
+_Last updated: **2025-10-24 17:09:08**_
 
+- [AMD Ryzen 7 7800X3D gaming PC with RX 9070 XT GPU is on sale for just $1,529, cheaper than DIY — save $670 when you get this pre-built on Newegg](https://www.tomshardware.com/pc-components/amd-ryzen-7-7800x3d-gaming-pc-with-rx-9070-xt-gpu-is-on-sale-for-just-usd1-529-cheaper-than-diy-save-usd670-when-you-get-this-pre-built-on-newegg) (Published: 2025-10-23)
 - [Elon Musk claims Tesla's new AI5 chip is 40x more performant than previous-gen AI5 — Next-gen custom silicon for vehicle AI to now be built by Samsung & TSMC](https://www.tomshardware.com/tech-industry/elon-musk-claims-teslas-new-ai5-chip-is-40x-more-performant-than-previous-gen-ai5-next-gen-custom-silicon-for-vehicle-ai-to-now-be-built-by-samsung-and-tsmc) (Published: 2025-10-23)
 - [Earnings news keeps European shares in the green](https://www.irishtimes.com/business/2025/10/23/earnings-news-keeps-european-shares-in-the-green/) (Published: 2025-10-23)
 - ['It Shouldn't Be This Difficult To Be Successful' — Worker Earning $240K Says The U.S. Economy Is 'Failing The Middle Class'](https://finance.yahoo.com/news/shouldnt-difficult-successful-worker-earning-163104023.html) (Published: 2025-10-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-24 16:51:04**_
 - [Krafton is now an 'AI-first company,' will spend $70 million on a GPU cluster to 'serve as the foundation for accelerating the implementation of agentic AI'](https://www.pcgamer.com/software/ai/krafton-is-now-an-ai-first-company-will-spend-usd70-million-on-a-gpu-cluster-to-serve-as-the-foundation-for-accelerating-the-implementation-of-agentic-ai/) (Published: 2025-10-23)
 - ['It's a hit list for people': How Charlie Kirk’s TPUSA Professor Watchlist is impacting academia](https://timesofindia.indiatimes.com/education/news/its-a-hit-list-for-people-how-charlie-kirks-tpusa-professor-watchlist-is-impacting-academia/articleshow/124765669.cms) (Published: 2025-10-23)
 - [Sydney woman’s remark on Diwali celebrations draws flak](https://timesofindia.indiatimes.com/etimes/trending/sydney-womans-remark-on-diwali-celebrations-draws-flak/articleshow/124766285.cms) (Published: 2025-10-23)
-- [Sigma BF review: Beautiful, and foolishly proud of it](https://timesofindia.indiatimes.com/technology/reviews/sigma-bf-review-beautiful-and-foolishly-proud-of-it/articleshow/124716087.cms) (Published: 2025-10-23)
