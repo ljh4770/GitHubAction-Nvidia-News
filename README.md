@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-25 07:12:44**_
+_Last updated: **2025-10-25 07:28:14**_
 
 - [AI chip challenger Groq eyes APAC expansion](https://www.computerweekly.com/news/366633487/AI-chip-challenger-Groq-eyes-APAC-expansion) (Published: 2025-10-24)
 - [The Acer Predator Triton 14 proves good things come in small packages](https://www.creativebloq.com/tech/laptops/acer-predator-triton-14-ai-review-good-things-come-in-small-packages) (Published: 2025-10-24)
