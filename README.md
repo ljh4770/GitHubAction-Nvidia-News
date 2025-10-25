@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-25 11:47:19**_
+_Last updated: **2025-10-25 11:57:39**_
 
 - [Join the brands, marketers and innovators defining B2B at The Drum’s B2B World Fest 2025](https://www.thedrum.com/news/2025/10/24/join-the-brands-marketers-and-innovators-defining-b2b-the-drum-s-b2b-world-fest-2025) (Published: 2025-10-24)
 - [Nvidia partnership sends Uber shares climbing high](https://rollingout.com/2025/10/24/uber-stock-rises-nvidia-vehicle/) (Published: 2025-10-24)
