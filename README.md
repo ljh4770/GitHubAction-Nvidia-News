@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-25 18:40:04**_
+_Last updated: **2025-10-25 18:51:25**_
 
+- [What's Going On With The Rise In Nvidia Stock Today?](https://biztoc.com/x/f7b9ebe8e9186f58) (Published: 2025-10-24)
+- [Platformonomics TGIF #105: October 24, 2025](https://platformonomics.com/2025/10/platformonomics-tgif-105-october-24-2025/) (Published: 2025-10-24)
 - [nvidia-tao-core 6.25.10](https://pypi.org/project/nvidia-tao-core/6.25.10/) (Published: 2025-10-24)
 - [The Outer Worlds 2-TENOKE](https://post.rlsbb.to/the-outer-worlds-2-tenoke/) (Published: 2025-10-24)
 - [3 takeaways from Intel earnings: Cash flow, foundry progress and hardware surprise](https://www.cnbc.com/2025/10/24/intel-earnings-q3-stock-trump.html) (Published: 2025-10-24)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-25 18:40:04**_
 - [Anthropic Has Turned Up the Heat on NVIDIA with the Latest Google TPU Deal — Integrating the ASICs Jensen Probably Fears Most](https://wccftech.com/anthropic-has-turned-up-the-heat-on-nvidia-with-the-latest-google-tpu-deal/) (Published: 2025-10-24)
 - [Anthropic signs multi-billion dollar Google deal that gives it access to a million TPUs](https://www.techradar.com/pro/anthropic-signs-multibillion-dollar-google-deal-that-gives-it-access-to-a-million-tpus) (Published: 2025-10-24)
 - [Elon Musk’s Plans To Build A “Robot Army”](https://www.shtfplan.com/headline-news/elon-musks-plans-to-build-a-robot-army) (Published: 2025-10-24)
-- [Want to upskill in AI? This is what a former Nvidia engineer recommends](https://biztoc.com/x/f4460feb7665262e) (Published: 2025-10-24)
-- [Neocloud Crusoe Scores Funding, Oracle Debt Offering, CoreWeave Deal Drama](https://www.investors.com/news/technology/neoclouds-crusoe-coreweave-stock-oracle-banks/) (Published: 2025-10-24)
