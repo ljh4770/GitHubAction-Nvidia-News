@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-25 06:42:30**_
+_Last updated: **2025-10-25 06:53:03**_
 
+- [Intel beats third-quarter profit estimates as cost cuts pay off](https://www.irishtimes.com/business/2025/10/24/intel-beats-third-quarter-profit-estimates-as-cost-cuts-pay-off/) (Published: 2025-10-24)
 - [Lip-Bu Tan Was Really 'Upset' About The Balance Sheet: Intel CFO Reveals Plan For Liquidity From Trump, Nvidia Investments](https://biztoc.com/x/184b21a588815361) (Published: 2025-10-24)
 - [AI data centre startup Crusoe raising $1.38 billion in latest funding round](https://economictimes.indiatimes.com/tech/technology/ai-data-centre-startup-crusoe-raising-1-38-billion-in-latest-funding-round/articleshow/124778557.cms) (Published: 2025-10-24)
 - [Intel shares up nearly 10% after third quarter profit beat](https://finance.yahoo.com/news/intel-shares-nearly-10-third-061922195.html) (Published: 2025-10-24)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-25 06:42:30**_
 - [Volvo ES90 brings calm, quiet Scandi sophistication to the electric saloon car market](https://www.wallpaper.com/transportation/volvo-es90-review) (Published: 2025-10-24)
 - [AI TOP PRO 6000 Workstation: Ultra 9 285K, 128GB DDR5, 2TB SSD RTX PRO 6000 1600W PSU $14,999 + $39 Del ($0 VIC C&C) @ Galapower](https://www.ozbargain.com.au/node/930047) (Published: 2025-10-24)
 - [Anthropic to use Google’s AI chips to train Claude chatbot](https://www.thehindubusinessline.com/info-tech/anthropic-to-use-googles-ai-chips-to-train-claude-chatbot/article70196608.ece) (Published: 2025-10-24)
-- [Supermicro warns it will miss revenue forecast by a lazy billion bucks or more](https://www.theregister.com/2025/10/24/supermicro_revenue_warning/) (Published: 2025-10-24)
