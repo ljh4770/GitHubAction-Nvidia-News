@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-25 16:45:50**_
+_Last updated: **2025-10-25 16:56:28**_
 
 - [Power Stocks Stumble as Investors See Cracks in AI-Fueled Rally](https://financialpost.com/pmn/business-pmn/power-stocks-stumble-as-investors-see-cracks-in-ai-fueled-rally) (Published: 2025-10-24)
 - [Google TPUs find sweet spot of AI demand, a decade after chip’s debut](https://biztoc.com/x/d458b3117f255a26) (Published: 2025-10-24)
