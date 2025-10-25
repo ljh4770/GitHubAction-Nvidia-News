@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-25 09:41:54**_
+_Last updated: **2025-10-25 09:52:34**_
 
+- [$37.6 million per head! This UK-based firm crushes Nvidia, Apple, Microsoft, Google and Meta combined](https://www.livemint.com/companies/news/onlyfans-employees-geenrate-37-6-million-revenue-per-head-uk-firm-crushes-nvidia-apple-microsoft-google-meta-combined-11761296243075.html) (Published: 2025-10-24)
 - [Intel posts return to growth and profitability in Q3 2025, but significant challenges remain — achieves $13.7 billion revenue with $4.1 billion operating profit](https://www.tomshardware.com/pc-components/cpus/intel-posts-surprise-return-to-growth-and-profitability-in-q3-2025-but-significant-challenges-remain-posts-usd13-7-billion-revenue-with-operating-profit) (Published: 2025-10-24)
 - [pyorbbecsdk2 2.0.15](https://pypi.org/project/pyorbbecsdk2/) (Published: 2025-10-24)
 - [Firefly EC-AGXOrin – Jetson AGX Orin 64GB AI inference system supports up to 8 GMSL2 cameras](https://www.cnx-software.com/2025/10/24/firefly-ec-agxorin-jetson-agx-orin-64gb-ai-inference-system-supports-up-to-8-gmsl2-cameras/) (Published: 2025-10-24)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-25 09:41:54**_
 - [Intel reports net profit of $4.1bn in Q3 2025](https://www.verdict.co.uk/intel-net-profit-q3-2025/) (Published: 2025-10-24)
 - [Intel Beats Q3 Profit Targets as Cost Cuts and Strategic Investments Take Effect](https://www.madshrimps.be/news/intel-beats-q3-profit-targets-as-cost-cuts-and-strategic-investments-take-effect/) (Published: 2025-10-24)
 - [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Intel, Ford, Nvidia, More Movers; Trump Canada Tariff Fears; CPI Inflation Report](https://biztoc.com/x/6b3ae3ccea4de3ec) (Published: 2025-10-24)
-- [nvidia-nat-llama-index 1.3.0a20251024](https://pypi.org/project/nvidia-nat-llama-index/1.3.0a20251024/) (Published: 2025-10-24)
