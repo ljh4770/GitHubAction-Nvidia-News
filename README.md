@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-25 04:40:22**_
+_Last updated: **2025-10-25 04:51:01**_
 
 - [Intel posts profit even as it struggles to regain market share](https://economictimes.indiatimes.com/tech/technology/intel-posts-profit-even-as-it-struggles-to-regain-market-share/articleshow/124776310.cms) (Published: 2025-10-24)
 - [Trump says tech leaders and mayor changed his mind about using federal force in San Francisco](https://financialpost.com/pmn/trump-says-tech-leaders-and-mayor-changed-his-mind-about-using-federal-force-in-san-francisco) (Published: 2025-10-24)
