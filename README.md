@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-25 05:30:18**_
+_Last updated: **2025-10-25 05:42:20**_
 
 - [Supermicro warns it will miss revenue forecast by a lazy billion bucks or more](https://www.theregister.com/2025/10/24/supermicro_revenue_warning/) (Published: 2025-10-24)
 - [Analysis-Investors use dotcom era playbook to dodge AI bubble risks](https://finance.yahoo.com/news/analysis-investors-dotcom-era-playbook-050404210.html) (Published: 2025-10-24)
