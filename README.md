@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-25 16:56:28**_
+_Last updated: **2025-10-25 17:17:11**_
 
+- [Neocloud Crusoe Scores Funding, Oracle Debt Offering, CoreWeave Deal Drama](https://www.investors.com/news/technology/neoclouds-crusoe-coreweave-stock-oracle-banks/) (Published: 2025-10-24)
+- [3 Tech Stocks Beating Nvidia This Year That Still Look Cheap](https://biztoc.com/x/a1939d58ea63441f) (Published: 2025-10-24)
+- [SuperX Invests In MicroInference To Strengthen Nvidia-Based AI Supply Chain](https://biztoc.com/x/f8e2c5250670d317) (Published: 2025-10-24)
+- [Want to upskill in AI? This is what a former Nvidia engineer recommends](https://www.businessinsider.com/ai-researcher-chip-huyen-advice-upskilling-software-engineers-2025-10) (Published: 2025-10-24)
+- [Wall Street Indices Hit Fresh Record As Inflation Data Boosts Fed Rate Cut Bets](https://www.ndtvprofit.com/markets/us-stock-markets-today-sp-500-dow-jones-surge-as-inflation-data-boosts-fed-rate-cut-bets) (Published: 2025-10-24)
+- [How the U.S. National Science Foundation Enabled Software-Defined Networking](http://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/) (Published: 2025-10-24)
+- [Dow Jones hits fresh record after 500-point jump, best single-day performance since June 2024 — Why Dow is roaring today?](https://economictimes.indiatimes.com/news/international/us/dow-jones-hits-fresh-record-after-500-point-jump-best-single-day-performance-since-june-2024-why-dow-is-roaring-today/articleshow/124789826.cms) (Published: 2025-10-24)
+- [Enjoy next-level gaming with this Ryzen 7 9800X3D, RTX 5070 Ti gaming PC for under $1,900 — save $400 off the list price](https://www.tomshardware.com/desktops/gaming-pcs/enjoy-next-level-gaming-with-this-ryzen-7-9800x3d-rtx-5070-ti-gaming-pc-for-under-usd1-900-save-usd400-off-the-list-price) (Published: 2025-10-24)
 - [Power Stocks Stumble as Investors See Cracks in AI-Fueled Rally](https://financialpost.com/pmn/business-pmn/power-stocks-stumble-as-investors-see-cracks-in-ai-fueled-rally) (Published: 2025-10-24)
 - [Google TPUs find sweet spot of AI demand, a decade after chip’s debut](https://biztoc.com/x/d458b3117f255a26) (Published: 2025-10-24)
-- [An investigation into rigged poker games and illegal sports gambling has the NBA on the ropes](https://www.businessinsider.com/nba-scandal-illegal-sports-gambling-rigged-poker-games-2025-10) (Published: 2025-10-24)
-- [US stocks scale record high as cool inflation data fuels rate cut bets](https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-scale-record-high-as-cool-inflation-data-fuels-rate-cut-bets/articleshow/124789573.cms) (Published: 2025-10-24)
-- [Unlocking Tensor Core Performance with Floating Point Emulation in cuBLAS](https://developer.nvidia.com/blog/unlocking-tensor-core-performance-with-floating-point-emulation-in-cublas/) (Published: 2025-10-24)
-- [Supermicro Launches Data Center Building Block Solutions (DCBBS) for Faster, Higher-Quality Builds](https://www.storagereview.com/news/supermicro-launches-data-center-building-block-solutions-dcbbs-for-faster-higher-quality-builds) (Published: 2025-10-24)
-- [This deal on Lenovo’s RTX 5070 Ti Legion gaming PC is too good to pass up at a whopping $1,084 off today](http://9to5toys.com/2025/10/24/lenovo-rtx-5070-ti-legion-gaming-pc-deal-too-good-to-pass-up/) (Published: 2025-10-24)
-- [Quantum computing might get a morsel of the financial love the Trump administration gave Intel, as the US government reportedly considers becoming a shareholder in several companies](https://www.pcgamer.com/hardware/quantum-computing-might-get-a-morsel-of-the-financial-love-the-trump-administration-gave-intel-as-the-us-government-reportedly-considers-becoming-a-shareholder-in-several-companies/) (Published: 2025-10-24)
-- [AI Image Object Remover Pro 1.0.1](https://post.rlsbb.to/ai-image-object-remover-pro-1-0-1/) (Published: 2025-10-24)
-- [CyberLink PowerDirector Ultimate 2026 v24.0.1022](https://post.rlsbb.to/cyberlink-powerdirector-ultimate-2026-v24-0-1022/) (Published: 2025-10-24)
