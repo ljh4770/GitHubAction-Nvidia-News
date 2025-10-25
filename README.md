@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-25 21:29:25**_
+_Last updated: **2025-10-25 21:40:18**_
 
 - [nvidia-tao-ds 6.25.10](https://pypi.org/project/nvidia-tao-ds/6.25.10/) (Published: 2025-10-24)
 - [Upcoming Kwin changes extend battery life](https://www.osnews.com/story/143629/upcoming-kwin-changes-extend-battery-life/) (Published: 2025-10-24)
