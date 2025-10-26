@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 03:16:10**_
+_Last updated: **2025-10-26 03:48:53**_
 
+- [Ford CEO Jim Farley Predicts EV Adoption In US Will Only Be About 5% As Company Pauses F-150 Lightning Production](https://finance.yahoo.com/news/ford-ceo-jim-farley-predicts-033138695.html) (Published: 2025-10-25)
 - [Big Tech makes California state its AI training ground](https://economictimes.indiatimes.com/tech/technology/big-tech-makes-california-state-its-ai-training-ground/articleshow/124798063.cms) (Published: 2025-10-25)
 - [Trump says tech leaders and mayor changed his mind about using federal force in San Francisco](https://economictimes.indiatimes.com/tech/technology/trump-says-tech-leaders-and-mayor-changed-his-mind-about-using-federal-force-in-san-francisco/articleshow/124798011.cms) (Published: 2025-10-25)
 - [Ethereum Taps $4,000 As Analyst Predicts 'Final Rally' Ahead Of 2026 Downturn](https://finance.yahoo.com/news/ethereum-taps-4-000-analyst-023104967.html) (Published: 2025-10-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-26 03:16:10**_
 - ['Pet Rock' No More: JPMorgan To Accept Bitcoin, Ethereum As Collateral](https://finance.yahoo.com/news/pet-rock-no-more-jpmorgan-013104388.html) (Published: 2025-10-25)
 - [Up 145% in 2025, This AI Infrastructure Stock Is Still Deeply Discounted](https://biztoc.com/x/d97047c0ff48ccc0) (Published: 2025-10-25)
 - [Fidelity Launches Fidelity Trader+, A New Trading Platform for Active Traders](https://finance.yahoo.com/news/fidelity-launches-fidelity-trader-trading-010131149.html) (Published: 2025-10-25)
-- [Donald Trump's New White House Ballroom Attracts Funds From Ripple, Coinbase, Tether, Gemini](https://finance.yahoo.com/news/donald-trumps-white-house-ballroom-003132649.html) (Published: 2025-10-25)
