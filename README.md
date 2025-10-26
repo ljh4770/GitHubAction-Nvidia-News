@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 05:34:38**_
+_Last updated: **2025-10-26 05:44:41**_
 
+- [Investors use dotcom era playbook to dodge AI bubble risks](https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-use-dotcom-era-playbook-to-dodge-ai-bubble-risks/articleshow/124799868.cms) (Published: 2025-10-25)
 - [What does nearly $6,000 of gaming laptop get you?](https://www.theverge.com/tech/806052/msi-titan-18-ai-rtx-5090-gaming-laptop-review) (Published: 2025-10-25)
 - [Apple heads into earnings with optimism and lofty valuation](https://www.irishtimes.com/your-money/2025/10/25/apple-heads-into-earnings-with-optimism-and-lofty-valuation/) (Published: 2025-10-25)
 - [US stocks hit record high after soft CPI, led by tech mega-cap gains](https://www.bloomberg.com/news/articles/2025-10-24/s-p-500-rallies-after-soft-cpi-intel-soars-on-healthy-earnings) (Published: 2025-10-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-26 05:34:38**_
 - [Ethereum Taps $4,000 As Analyst Predicts 'Final Rally' Ahead Of 2026 Downturn](https://finance.yahoo.com/news/ethereum-taps-4-000-analyst-023104967.html) (Published: 2025-10-25)
 - [Looking For Yields: Comcast, HP, And MAA Are Consistent Moneymakers](https://finance.yahoo.com/news/looking-yields-comcast-hp-maa-020105281.html) (Published: 2025-10-25)
 - [Top tech and startup stories this week](https://economictimes.indiatimes.com/tech/newsletters/ettech-unwrapped/top-tech-and-startup-stories-this-week/articleshow/124797449.cms) (Published: 2025-10-25)
-- [Who Wants to be a CEO? Fewer and Fewer People are Interested in the Top Job.](https://www.thestreet.com/latest-news/who-wants-to-be-a-ceo-fewer-and-fewer-people-are-interested-in-the-top-job) (Published: 2025-10-25)
