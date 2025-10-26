@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 09:00:18**_
+_Last updated: **2025-10-26 09:24:19**_
 
 - [OpenAI, AMD, Broadcom unite behind Ethernet to reshape AI infrastructure](https://www.digitimes.com/news/a20251023PD227/ethernet-broadcom-amd-infrastructure-openai.html) (Published: 2025-10-25)
 - [Intel reaffirms 14A, deepens Nvidia alliance](https://www.digitimes.com/news/a20251025VL204/intel-nvidia-partnership-roadmap-technology.html) (Published: 2025-10-25)
