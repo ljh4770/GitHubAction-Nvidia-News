@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 14:57:13**_
+_Last updated: **2025-10-26 15:21:33**_
 
+- [AirTags and cheap gaming laptops headline our favorite deals this week](https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale) (Published: 2025-10-25)
+- [After a Massive 207.5% Run-Up, Is This AI Stock Still a Buy?](https://www.barchart.com/story/news/35677525/after-a-massive-207-5-run-up-is-this-ai-stock-still-a-buy) (Published: 2025-10-25)
 - [The Windows PC I recommend to professionals and creators alike is not the one you're thinking of](https://www.zdnet.com/article/the-windows-pc-i-recommend-to-professionals-and-creators-alike-is-not-the-one-youre-thinking-of/) (Published: 2025-10-25)
 - [The Blockchain Revolution Is Quietly Remaking Commercial Real Estate—And It Could Unlock Trillions In New Value](https://finance.yahoo.com/news/blockchain-revolution-quietly-remaking-commercial-144607438.html) (Published: 2025-10-25)
 - ['This fight is far from over': Intel’s key business is nowhere near a turnaround](https://finance.yahoo.com/news/this-fight-is-far-from-over-intels-key-business-is-nowhere-near-a-turnaround-143041684.html) (Published: 2025-10-25)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-26 14:57:13**_
 - [xFusion FusionXSpark AI mini-PC unveiled with Nvidia GB10 SoC](https://www.notebookcheck.net/xFusion-FusionXSpark-AI-mini-PC-unveiled-with-Nvidia-GB10-SoC.1146995.0.html) (Published: 2025-10-25)
 - [Does Your Nest Egg Make You Rich? Here's What You Need To Be In The Top 3% —And It's Probably A Lot Less Than You Think](https://finance.yahoo.com/news/does-nest-egg-rich-heres-140111431.html) (Published: 2025-10-25)
 - [This Week’s Awesome Tech Stories From Around the Web (Through October 25)](https://singularityhub.com/2025/10/25/this-weeks-awesome-tech-stories-from-around-the-web-through-october-25/) (Published: 2025-10-25)
-- [‘This Is Not My First Bubble’: Nvidia’s Bear Stands His Ground](https://biztoc.com/x/5ec62dfa593f8902) (Published: 2025-10-25)
-- [Firefly unveils new mini PC with 275 TOPS of computing power and NVIDIA Jetson AGX Orin](https://www.notebookcheck.net/Firefly-unveils-new-mini-PC-with-275-TOPS-of-computing-power-and-NVIDIA-Jetson-AGX-Orin.1146834.0.html) (Published: 2025-10-25)
