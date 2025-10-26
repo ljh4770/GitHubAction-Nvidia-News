@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 04:54:48**_
+_Last updated: **2025-10-26 05:17:01**_
 
+- [Apple heads into earnings with optimism and lofty valuation](https://www.irishtimes.com/your-money/2025/10/25/apple-heads-into-earnings-with-optimism-and-lofty-valuation/) (Published: 2025-10-25)
 - [US stocks hit record high after soft CPI, led by tech mega-cap gains](https://www.bloomberg.com/news/articles/2025-10-24/s-p-500-rallies-after-soft-cpi-intel-soars-on-healthy-earnings) (Published: 2025-10-25)
 - [Ford CEO Jim Farley Predicts EV Adoption In US Will Only Be About 5% As Company Pauses F-150 Lightning Production](https://finance.yahoo.com/news/ford-ceo-jim-farley-predicts-033138695.html) (Published: 2025-10-25)
 - [Big Tech makes California state its AI training ground](https://economictimes.indiatimes.com/tech/technology/big-tech-makes-california-state-its-ai-training-ground/articleshow/124798063.cms) (Published: 2025-10-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-26 04:54:48**_
 - [Top tech and startup stories this week](https://economictimes.indiatimes.com/tech/newsletters/ettech-unwrapped/top-tech-and-startup-stories-this-week/articleshow/124797449.cms) (Published: 2025-10-25)
 - [Who Wants to be a CEO? Fewer and Fewer People are Interested in the Top Job.](https://www.thestreet.com/latest-news/who-wants-to-be-a-ceo-fewer-and-fewer-people-are-interested-in-the-top-job) (Published: 2025-10-25)
 - ['Pet Rock' No More: JPMorgan To Accept Bitcoin, Ethereum As Collateral](https://finance.yahoo.com/news/pet-rock-no-more-jpmorgan-013104388.html) (Published: 2025-10-25)
-- [Up 145% in 2025, This AI Infrastructure Stock Is Still Deeply Discounted](https://biztoc.com/x/d97047c0ff48ccc0) (Published: 2025-10-25)
