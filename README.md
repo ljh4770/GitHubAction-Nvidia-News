@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 09:36:06**_
+_Last updated: **2025-10-26 09:46:34**_
 
 - ['Little Dragon' Deep Robotics scrambles for top talent amid China's quest for dominance](https://finance.yahoo.com/news/little-dragon-deep-robotics-scrambles-093000174.html) (Published: 2025-10-25)
 - [OpenAI, AMD, Broadcom unite behind Ethernet to reshape AI infrastructure](https://www.digitimes.com/news/a20251023PD227/ethernet-broadcom-amd-infrastructure-openai.html) (Published: 2025-10-25)
