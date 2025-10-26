@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 18:51:52**_
+_Last updated: **2025-10-26 19:08:31**_
 
 - [Meet the mini PC taking the fight to the Mac Studio - Zotac Zbox Magnus packs an Nvidia RTX 5060 and Intel Core Ulta 7, but can easily fit into your jacket pocket](https://www.techradar.com/pro/meet-the-mini-pc-taking-the-fight-to-the-mac-studio-zotac-zbox-magnus-packs-an-nvidia-rtx-5060-and-intel-core-ulta-7-but-will-fit-into-your-pocket) (Published: 2025-10-25)
 - [Is Broadcom Stock the Next Nvidia?](https://biztoc.com/x/2fcbda0f5a33bf9f) (Published: 2025-10-25)
