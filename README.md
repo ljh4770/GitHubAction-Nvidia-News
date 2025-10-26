@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 09:24:19**_
+_Last updated: **2025-10-26 09:36:06**_
 
+- ['Little Dragon' Deep Robotics scrambles for top talent amid China's quest for dominance](https://finance.yahoo.com/news/little-dragon-deep-robotics-scrambles-093000174.html) (Published: 2025-10-25)
 - [OpenAI, AMD, Broadcom unite behind Ethernet to reshape AI infrastructure](https://www.digitimes.com/news/a20251023PD227/ethernet-broadcom-amd-infrastructure-openai.html) (Published: 2025-10-25)
 - [Intel reaffirms 14A, deepens Nvidia alliance](https://www.digitimes.com/news/a20251025VL204/intel-nvidia-partnership-roadmap-technology.html) (Published: 2025-10-25)
 - [As Trump lavishes money and praise on Argentina, more Americans ask: Why?](https://www.cbc.ca/news/politics/trump-argentina-farmers-trade-9.6950426) (Published: 2025-10-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-26 09:24:19**_
 - [Apple heads into earnings with optimism and lofty valuation](https://www.irishtimes.com/your-money/2025/10/25/apple-heads-into-earnings-with-optimism-and-lofty-valuation/) (Published: 2025-10-25)
 - [US stocks hit record high after soft CPI, led by tech mega-cap gains](https://www.bloomberg.com/news/articles/2025-10-24/s-p-500-rallies-after-soft-cpi-intel-soars-on-healthy-earnings) (Published: 2025-10-25)
 - [Ford CEO Jim Farley Predicts EV Adoption In US Will Only Be About 5% As Company Pauses F-150 Lightning Production](https://finance.yahoo.com/news/ford-ceo-jim-farley-predicts-033138695.html) (Published: 2025-10-25)
-- [Big Tech makes California state its AI training ground](https://economictimes.indiatimes.com/tech/technology/big-tech-makes-california-state-its-ai-training-ground/articleshow/124798063.cms) (Published: 2025-10-25)
