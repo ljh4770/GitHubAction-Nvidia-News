@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 21:44:31**_
+_Last updated: **2025-10-26 21:54:53**_
 
+- [FBI reveals Kylie Jenner and Travis Scott’s involvement in the NBA betting scandal](https://timesofindia.indiatimes.com/sports/nba/top-stories/fbi-reveals-kylie-jenner-and-travis-scotts-involvement-in-the-nba-betting-scandal/articleshow/124818665.cms) (Published: 2025-10-25)
+- [Mackenzie Dern net worth in 2025: UFC earnings, career, lifestyle, endorsements and more](https://timesofindia.indiatimes.com/sports/international-sports/mackenzie-dern-net-worth-in-2025-ufc-earnings-career-lifestyle-endorsements-and-more/articleshow/124818779.cms) (Published: 2025-10-25)
 - [pycuda-gml 2025.1.2.post1](https://pypi.org/project/pycuda-gml/2025.1.2.post1/) (Published: 2025-10-25)
 - [High core temperatures prevent the HP ZBook X G1i 16 from performing even faster](https://www.notebookcheck.net/High-core-temperatures-prevent-the-HP-ZBook-X-G1i-16-from-performing-even-faster.1147059.0.html) (Published: 2025-10-25)
 - [Judges mustn't yield to lawyers' pressure: Gujarat HC](https://timesofindia.indiatimes.com/india/judges-mustnt-yield-to-lawyers-pressure-gujarat-hc/articleshow/124818511.cms) (Published: 2025-10-25)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-26 21:44:31**_
 - [Puka Nacua vs Arch Manning salary in 2025: Who is richer, NFL career, status and more](https://timesofindia.indiatimes.com/sports/nfl/news/puka-nacua-vs-arch-manning-salary-in-2025-who-is-richer-nfl-career-status-and-more/articleshow/124818428.cms) (Published: 2025-10-25)
 - [Rich Campbell makes Twitch return with test stream, fans react to comeback](https://timesofindia.indiatimes.com/world/us-streamers/rich-campbell-makes-twitch-return-with-test-stream-fans-react-to-comeback/articleshow/124818404.cms) (Published: 2025-10-25)
 - [Watching Ram temple telecast not unlawful assembly: Madras HC](https://timesofindia.indiatimes.com/india/watching-ram-temple-telecast-not-unlawful-assembly-madras-hc/articleshow/124818396.cms) (Published: 2025-10-25)
-- [AI factories: Data centers of the future](https://siliconangle.com/2025/10/25/ai-factories-data-centers-future/) (Published: 2025-10-25)
-- [Why Nvidia Discontinued The 'Titan' Graphics Card Line](https://www.bgr.com/2002683/why-nvidia-discontinued-titan-graphics-cards-reason/) (Published: 2025-10-25)
