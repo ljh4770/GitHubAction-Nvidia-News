@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 16:51:23**_
+_Last updated: **2025-10-26 17:08:40**_
 
+- [Big Tech makes Cal state its AI training ground](https://economictimes.indiatimes.com/tech/artificial-intelligence/big-tech-makes-cal-state-its-ai-training-ground/articleshow/124811188.cms) (Published: 2025-10-25)
+- [Is ESG Investing Losing Its Shine? ESG Stocks Continue To Underperform The S&P 500](https://finance.yahoo.com/news/esg-investing-losing-shine-esg-170114071.html) (Published: 2025-10-25)
+- [Top Nigerian environmentalist sees little coming out of COP30](https://timesofindia.indiatimes.com/home/environment/top-nigerian-environmentalist-sees-little-coming-out-of-cop30/articleshow/124810240.cms) (Published: 2025-10-25)
 - [IREN Ltd. (IREN) Jumps 12.6% on Renewed AI Frenzy, Upcoming Earnings](https://finance.yahoo.com/news/iren-ltd-iren-jumps-12-164614243.html) (Published: 2025-10-25)
 - [AI spending is boosting the economy, but many businesses are in survival mode](https://biztoc.com/x/64006b59f529174e) (Published: 2025-10-25)
 - [Philadelphia, the Birthplace of the USA, to celebrate nation's 250th anniversary](https://timesofindia.indiatimes.com/life-style/travel/destinations/philadelphia-the-birthplace-of-the-usa-to-celebrate-nations-250th-anniversary/articleshow/124809902.cms) (Published: 2025-10-25)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-26 16:51:23**_
 - [ACB to question two more IAS officers in Jharkhand liquor scam case](https://timesofindia.indiatimes.com/city/ranchi/acb-to-question-two-more-ias-officers-in-jharkhand-liquor-scam-case/articleshow/124805352.cms) (Published: 2025-10-25)
 - [“Daddy, you were ignoring me!”-Draymond Green’s daughter calls him out for an adorable reason during Golden State Warriors game against Denver Nuggets](https://timesofindia.indiatimes.com/sports/nba/top-stories/daddy-you-were-ignoring-me-draymond-greens-daughter-calls-him-out-for-an-adorable-reason-during-golden-state-warriors-game-against-denver-nuggets/articleshow/124809777.cms) (Published: 2025-10-25)
 - [Bombay high court directs MMRCL to deposit 250cr arbitral award with registry in 8 weeks to stay its execution](https://timesofindia.indiatimes.com/city/mumbai/bombay-high-court-directs-mmrcl-to-deposit-250cr-arbitral-award-with-registry-in-8-weeks-to-stay-its-execution/articleshow/124809792.cms) (Published: 2025-10-25)
-- [Could your state survive a zombie apocalypse? Study ranks the safest and most dangerous US states](https://timesofindia.indiatimes.com/etimes/trending/could-your-state-survive-a-zombie-apocalypse-study-ranks-the-safest-and-most-dangerous-us-states/articleshow/124808995.cms) (Published: 2025-10-25)
-- [Residents protest against conversion of temporary garbage transfer station into permanent dumping ground in Thane](https://timesofindia.indiatimes.com/city/mumbai/residents-protest-against-conversion-of-temporary-garbage-transfer-station-into-permanent-dumping-ground-in-thane/articleshow/124809602.cms) (Published: 2025-10-25)
-- [Ensure uninterrupted power supply to medical college, Madras HC tells TN](https://timesofindia.indiatimes.com/city/chennai/ensure-uninterrupted-power-supply-to-medical-college-madras-hc-tells-tn/articleshow/124809489.cms) (Published: 2025-10-25)
