@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 10:47:25**_
+_Last updated: **2025-10-26 10:57:39**_
 
 - [NVIDIA Starts Posting Open-Source Nova Driver Patches To Prep For Next-Gen GPUs](https://www.phoronix.com/news/NVIDIA-Nova-Next-Gen-Boot42) (Published: 2025-10-25)
 - [Intel’s New ASIC Business to “Serve a Broad Range of External Customers”, Signaling the Next Big Opportunity for Its Foundry & x86 Ecosystem](https://wccftech.com/intel-new-asic-business-to-serve-a-broad-range-of-external-customers/) (Published: 2025-10-25)
