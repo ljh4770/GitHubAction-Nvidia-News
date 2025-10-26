@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 21:34:09**_
+_Last updated: **2025-10-26 21:44:31**_
 
+- [pycuda-gml 2025.1.2.post1](https://pypi.org/project/pycuda-gml/2025.1.2.post1/) (Published: 2025-10-25)
 - [High core temperatures prevent the HP ZBook X G1i 16 from performing even faster](https://www.notebookcheck.net/High-core-temperatures-prevent-the-HP-ZBook-X-G1i-16-from-performing-even-faster.1147059.0.html) (Published: 2025-10-25)
 - [Judges mustn't yield to lawyers' pressure: Gujarat HC](https://timesofindia.indiatimes.com/india/judges-mustnt-yield-to-lawyers-pressure-gujarat-hc/articleshow/124818511.cms) (Published: 2025-10-25)
 - [Fact Check: Have the Portland Trail Blazers fired Chauncey Billups? Shockwaves hit the NBA as the coach and team face an unexpected storm](https://timesofindia.indiatimes.com/sports/nba/top-stories/fact-check-have-the-portland-trail-blazers-fired-chauncey-billups-shockwaves-hit-the-nba-as-the-coach-and-team-face-an-unexpected-storm/articleshow/124818496.cms) (Published: 2025-10-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-26 21:34:09**_
 - [Watching Ram temple telecast not unlawful assembly: Madras HC](https://timesofindia.indiatimes.com/india/watching-ram-temple-telecast-not-unlawful-assembly-madras-hc/articleshow/124818396.cms) (Published: 2025-10-25)
 - [AI factories: Data centers of the future](https://siliconangle.com/2025/10/25/ai-factories-data-centers-future/) (Published: 2025-10-25)
 - [Why Nvidia Discontinued The 'Titan' Graphics Card Line](https://www.bgr.com/2002683/why-nvidia-discontinued-titan-graphics-cards-reason/) (Published: 2025-10-25)
-- [pycuda-gml 2025.1.2](https://pypi.org/project/pycuda-gml/2025.1.2/) (Published: 2025-10-25)
