@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 13:48:53**_
+_Last updated: **2025-10-26 13:59:00**_
 
 - [‘This Is Not My First Bubble’: Nvidia’s Bear Stands His Ground](https://biztoc.com/x/5ec62dfa593f8902) (Published: 2025-10-25)
 - [Firefly unveils new mini PC with 275 TOPS of computing power and NVIDIA Jetson AGX Orin](https://www.notebookcheck.net/Firefly-unveils-new-mini-PC-with-275-TOPS-of-computing-power-and-NVIDIA-Jetson-AGX-Orin.1146834.0.html) (Published: 2025-10-25)
