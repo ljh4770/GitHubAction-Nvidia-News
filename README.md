@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 14:36:51**_
+_Last updated: **2025-10-26 14:47:01**_
 
+- [The Blockchain Revolution Is Quietly Remaking Commercial Real Estate—And It Could Unlock Trillions In New Value](https://finance.yahoo.com/news/blockchain-revolution-quietly-remaking-commercial-144607438.html) (Published: 2025-10-25)
 - ['This fight is far from over': Intel’s key business is nowhere near a turnaround](https://finance.yahoo.com/news/this-fight-is-far-from-over-intels-key-business-is-nowhere-near-a-turnaround-143041684.html) (Published: 2025-10-25)
 - [Next-gen PlayStation and Xbox consoles may use much stronger hardware, and I'm worried we'll get premium prices without a premium experience](https://www.techradar.com/gaming/consoles-pc/next-gen-playstation-and-xbox-consoles-may-use-much-stronger-hardware-and-im-worried-well-get-premium-prices-without-a-premium-experience) (Published: 2025-10-25)
 - [I’ve driven Volvo’s latest ES90 electric fastback – and it’s almost too clever for its own good](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/ive-driven-volvos-latest-es90-electric-fastback-and-its-almost-too-clever-for-its-own-good) (Published: 2025-10-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-26 14:36:51**_
 - [‘This Is Not My First Bubble’: Nvidia’s Bear Stands His Ground](https://biztoc.com/x/5ec62dfa593f8902) (Published: 2025-10-25)
 - [Firefly unveils new mini PC with 275 TOPS of computing power and NVIDIA Jetson AGX Orin](https://www.notebookcheck.net/Firefly-unveils-new-mini-PC-with-275-TOPS-of-computing-power-and-NVIDIA-Jetson-AGX-Orin.1146834.0.html) (Published: 2025-10-25)
 - [New stablecoin connects crypto investors to real-world Nvidia AI GPUs that earn money by renting out compute power to AI devs — USD.AI lets crypto investors make bank off AI compute rentals](https://www.tomshardware.com/tech-industry/cryptocurrency/new-stablecoin-connects-crypto-investors-to-real-world-nvidia-ai-gpus-that-earn-money-by-renting-out-compute-power-to-ai-devs-usd-ai-lets-crypto-investors-make-bank-off-ai-compute-rentals) (Published: 2025-10-25)
-- ['There Are A Million Ways' To Replace Rental Income: Suze Orman Shares Advice For Retirees Selling Property](https://finance.yahoo.com/news/million-ways-replace-rental-income-131645287.html) (Published: 2025-10-25)
