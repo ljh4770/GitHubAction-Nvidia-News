@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 21:54:53**_
+_Last updated: **2025-10-26 22:16:22**_
 
 - [FBI reveals Kylie Jenner and Travis Scott’s involvement in the NBA betting scandal](https://timesofindia.indiatimes.com/sports/nba/top-stories/fbi-reveals-kylie-jenner-and-travis-scotts-involvement-in-the-nba-betting-scandal/articleshow/124818665.cms) (Published: 2025-10-25)
 - [Mackenzie Dern net worth in 2025: UFC earnings, career, lifestyle, endorsements and more](https://timesofindia.indiatimes.com/sports/international-sports/mackenzie-dern-net-worth-in-2025-ufc-earnings-career-lifestyle-endorsements-and-more/articleshow/124818779.cms) (Published: 2025-10-25)
