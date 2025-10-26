@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 09:56:39**_
+_Last updated: **2025-10-26 10:20:47**_
 
+- [I've never been a gaming PC guy, but this laptop changed my perspective for the better](https://www.zdnet.com/article/ive-never-been-a-gaming-pc-guy-but-this-laptop-changed-my-perspective-for-the-better/) (Published: 2025-10-25)
+- [Sam Altman Now Has the Power to “Crash the Global Economy,” Financial Analyst Warns](http://futurism.com/artificial-intelligence/sam-altman-openai-economy-crash) (Published: 2025-10-25)
+- [Saying goodbye to Nvidia's GeForce GTX 1080 Ti as it rides into the sunset - we benchmark 2017's hottest graphics card against some modern GPUs](https://www.tomshardware.com/pc-components/gpus/saying-goodbye-to-nvidias-geforce-gtx-1080-ti-as-it-rides-into-the-sunset-we-benchmark-2017s-hottest-card-compared-to-modern-gpus) (Published: 2025-10-25)
 - ['Little Dragon' Deep Robotics scrambles for top talent amid China's quest for dominance](https://finance.yahoo.com/news/little-dragon-deep-robotics-scrambles-093000174.html) (Published: 2025-10-25)
 - [OpenAI, AMD, Broadcom unite behind Ethernet to reshape AI infrastructure](https://www.digitimes.com/news/a20251023PD227/ethernet-broadcom-amd-infrastructure-openai.html) (Published: 2025-10-25)
 - [Intel reaffirms 14A, deepens Nvidia alliance](https://www.digitimes.com/news/a20251025VL204/intel-nvidia-partnership-roadmap-technology.html) (Published: 2025-10-25)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-26 09:56:39**_
 - [Gold prices could SURGE to $10,000, JPMorgan CEO Jamie Dimon warns](https://www.naturalnews.com/2025-10-25-gold-prices-could-surge-jpmorgan-ceo-warns.html) (Published: 2025-10-25)
 - [Investors use dotcom era playbook to dodge AI bubble risks](https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-use-dotcom-era-playbook-to-dodge-ai-bubble-risks/articleshow/124799868.cms) (Published: 2025-10-25)
 - [What does nearly $6,000 of gaming laptop get you?](https://www.theverge.com/tech/806052/msi-titan-18-ai-rtx-5090-gaming-laptop-review) (Published: 2025-10-25)
-- [Apple heads into earnings with optimism and lofty valuation](https://www.irishtimes.com/your-money/2025/10/25/apple-heads-into-earnings-with-optimism-and-lofty-valuation/) (Published: 2025-10-25)
-- [US stocks hit record high after soft CPI, led by tech mega-cap gains](https://www.bloomberg.com/news/articles/2025-10-24/s-p-500-rallies-after-soft-cpi-intel-soars-on-healthy-earnings) (Published: 2025-10-25)
-- [Ford CEO Jim Farley Predicts EV Adoption In US Will Only Be About 5% As Company Pauses F-150 Lightning Production](https://finance.yahoo.com/news/ford-ceo-jim-farley-predicts-033138695.html) (Published: 2025-10-25)
