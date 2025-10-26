@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 11:40:08**_
+_Last updated: **2025-10-26 11:50:31**_
 
+- [NVIDIA Prepares For Next-Gen GPUs; Begins Nova Driver Transition From Boot0 To Boot42](https://wccftech.com/nvidia-prepares-for-next-gen-gpus-begins-nova-driver-transition-from-boot0-to-boot42/) (Published: 2025-10-25)
 - [I tested the JBL Bar 1000MK2 soundbar for two weeks, and it’s Dolby Atmos surround sound with a unique wireless twist](https://www.techradar.com/televisions/soundbars/jbl-bar-1000mk2-soundbar-review) (Published: 2025-10-25)
 - [AMD Ryzen 9 9950X3D vs. Intel Core Ultra 9 285K: Which Is the Best Desktop Processor For You?](https://me.pcmag.com/en/processors/33098/amd-ryzen-9-9950x3d-vs-intel-core-ultra-9-285k-which-is-the-best-desktop-processor-for-you) (Published: 2025-10-25)
 - [AMD Ryzen 9 9950X3D vs. Intel Core Ultra 9 285K: Which Is the Best Desktop Processor For You?](https://uk.pcmag.com/processors/160912/amd-ryzen-9-9950x3d-vs-intel-core-ultra-9-285k-which-is-the-best-desktop-processor-for-you) (Published: 2025-10-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-26 11:40:08**_
 - [I've never been a gaming PC guy, but this laptop changed my perspective for the better](https://www.zdnet.com/article/ive-never-been-a-gaming-pc-guy-but-this-laptop-changed-my-perspective-for-the-better/) (Published: 2025-10-25)
 - [Sam Altman Now Has the Power to “Crash the Global Economy,” Financial Analyst Warns](http://futurism.com/artificial-intelligence/sam-altman-openai-economy-crash) (Published: 2025-10-25)
 - [Saying goodbye to Nvidia's GeForce GTX 1080 Ti as it rides into the sunset - we benchmark 2017's hottest graphics card against some modern GPUs](https://www.tomshardware.com/pc-components/gpus/saying-goodbye-to-nvidias-geforce-gtx-1080-ti-as-it-rides-into-the-sunset-we-benchmark-2017s-hottest-card-compared-to-modern-gpus) (Published: 2025-10-25)
-- ['Little Dragon' Deep Robotics scrambles for top talent amid China's quest for dominance](https://finance.yahoo.com/news/little-dragon-deep-robotics-scrambles-093000174.html) (Published: 2025-10-25)
