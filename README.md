@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 18:10:47**_
+_Last updated: **2025-10-26 18:38:58**_
 
+- [Meet the mini PC taking the fight to the Mac Studio - Zotac Zbox Magnus packs an Nvidia RTX 5060 and Intel Core Ulta 7, but can easily fit into your jacket pocket](https://www.techradar.com/pro/meet-the-mini-pc-taking-the-fight-to-the-mac-studio-zotac-zbox-magnus-packs-an-nvidia-rtx-5060-and-intel-core-ulta-7-but-will-fit-into-your-pocket) (Published: 2025-10-25)
 - [Is Broadcom Stock the Next Nvidia?](https://biztoc.com/x/2fcbda0f5a33bf9f) (Published: 2025-10-25)
 - [Big Tech makes Cal state its AI training ground](https://economictimes.indiatimes.com/tech/artificial-intelligence/big-tech-makes-cal-state-its-ai-training-ground/articleshow/124811188.cms) (Published: 2025-10-25)
 - [Is ESG Investing Losing Its Shine? ESG Stocks Continue To Underperform The S&P 500](https://finance.yahoo.com/news/esg-investing-losing-shine-esg-170114071.html) (Published: 2025-10-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-26 18:10:47**_
 - [Philadelphia, the Birthplace of the USA, to celebrate nation's 250th anniversary](https://timesofindia.indiatimes.com/life-style/travel/destinations/philadelphia-the-birthplace-of-the-usa-to-celebrate-nations-250th-anniversary/articleshow/124809902.cms) (Published: 2025-10-25)
 - [NBA gambling scandal update: Former league referee’s chilling warning hints at deeper storm brewing behind the latest controversy](https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-gambling-scandal-update-former-league-referees-chilling-warning-hints-at-deeper-storm-brewing-behind-the-latest-controversy/articleshow/124808602.cms) (Published: 2025-10-25)
 - [ACB to question two more IAS officers in Jharkhand liquor scam case](https://timesofindia.indiatimes.com/city/ranchi/acb-to-question-two-more-ias-officers-in-jharkhand-liquor-scam-case/articleshow/124805352.cms) (Published: 2025-10-25)
-- [“Daddy, you were ignoring me!”-Draymond Green’s daughter calls him out for an adorable reason during Golden State Warriors game against Denver Nuggets](https://timesofindia.indiatimes.com/sports/nba/top-stories/daddy-you-were-ignoring-me-draymond-greens-daughter-calls-him-out-for-an-adorable-reason-during-golden-state-warriors-game-against-denver-nuggets/articleshow/124809777.cms) (Published: 2025-10-25)
