@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 16:40:26**_
+_Last updated: **2025-10-26 16:51:23**_
 
+- [IREN Ltd. (IREN) Jumps 12.6% on Renewed AI Frenzy, Upcoming Earnings](https://finance.yahoo.com/news/iren-ltd-iren-jumps-12-164614243.html) (Published: 2025-10-25)
+- [AI spending is boosting the economy, but many businesses are in survival mode](https://biztoc.com/x/64006b59f529174e) (Published: 2025-10-25)
 - [Philadelphia, the Birthplace of the USA, to celebrate nation's 250th anniversary](https://timesofindia.indiatimes.com/life-style/travel/destinations/philadelphia-the-birthplace-of-the-usa-to-celebrate-nations-250th-anniversary/articleshow/124809902.cms) (Published: 2025-10-25)
 - [NBA gambling scandal update: Former league referee’s chilling warning hints at deeper storm brewing behind the latest controversy](https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-gambling-scandal-update-former-league-referees-chilling-warning-hints-at-deeper-storm-brewing-behind-the-latest-controversy/articleshow/124808602.cms) (Published: 2025-10-25)
 - [ACB to question two more IAS officers in Jharkhand liquor scam case](https://timesofindia.indiatimes.com/city/ranchi/acb-to-question-two-more-ias-officers-in-jharkhand-liquor-scam-case/articleshow/124805352.cms) (Published: 2025-10-25)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-26 16:40:26**_
 - [Could your state survive a zombie apocalypse? Study ranks the safest and most dangerous US states](https://timesofindia.indiatimes.com/etimes/trending/could-your-state-survive-a-zombie-apocalypse-study-ranks-the-safest-and-most-dangerous-us-states/articleshow/124808995.cms) (Published: 2025-10-25)
 - [Residents protest against conversion of temporary garbage transfer station into permanent dumping ground in Thane](https://timesofindia.indiatimes.com/city/mumbai/residents-protest-against-conversion-of-temporary-garbage-transfer-station-into-permanent-dumping-ground-in-thane/articleshow/124809602.cms) (Published: 2025-10-25)
 - [Ensure uninterrupted power supply to medical college, Madras HC tells TN](https://timesofindia.indiatimes.com/city/chennai/ensure-uninterrupted-power-supply-to-medical-college-madras-hc-tells-tn/articleshow/124809489.cms) (Published: 2025-10-25)
-- [‘Our focus is on development, not lies’](https://timesofindia.indiatimes.com/city/patna/our-focus-is-on-development-not-lies/articleshow/124809452.cms) (Published: 2025-10-25)
-- [Ex-Mumbai allrounder Shubham Ranjane gets maiden call-up to USA squad](https://timesofindia.indiatimes.com/sports/cricket/news/ex-mumbai-allrounder-shubham-ranjane-gets-maiden-call-up-to-usa-squad/articleshow/124809341.cms) (Published: 2025-10-25)
