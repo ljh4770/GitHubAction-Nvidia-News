@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-27 06:31:39**_
+_Last updated: **2025-10-27 06:55:58**_
 
 - [Inside the "Dreamforce of healthcare," where AI hype and fear were hand in hand](https://www.businessinsider.com/hlth-the-dreamforce-of-healthcare-ai-hype-met-fear-2025-10) (Published: 2025-10-26)
 - [Xe3は“Battlemage”なのか“Celestial”なのか](https://northwood.blog.fc2.com/blog-entry-12885.html) (Published: 2025-10-26)
