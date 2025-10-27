@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-27 15:49:57**_
+_Last updated: **2025-10-27 15:59:57**_
 
 - [Is the Term 'AI Factories' Necessary and Illuminating - or Marketing Hogwash?](https://slashdot.org/story/25/10/25/0612233/is-the-term-ai-factories-necessary-and-illuminating---or-marketing-hogwash) (Published: 2025-10-26)
 - [AMD quietly cracks open quantum opportunity](https://www.thestreet.com/technology/amd-quietly-cracks-open-quantum-opportunity) (Published: 2025-10-26)
