@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-27 15:19:26**_
+_Last updated: **2025-10-27 15:38:45**_
 
+- [Is the Term 'AI Factories' Necessary and Illuminating - or Marketing Hogwash?](https://slashdot.org/story/25/10/25/0612233/is-the-term-ai-factories-necessary-and-illuminating---or-marketing-hogwash) (Published: 2025-10-26)
+- [AMD quietly cracks open quantum opportunity](https://www.thestreet.com/technology/amd-quietly-cracks-open-quantum-opportunity) (Published: 2025-10-26)
 - [Bitcoin 'just doesn’t cut it anymore': Miners' pivot to AI sends stocks soaring](https://finance.yahoo.com/news/bitcoin-just-doesnt-cut-it-anymore-miners-pivot-to-ai-sends-stocks-soaring-150018229.html) (Published: 2025-10-26)
 - [Chipmakers like Nvidia and Broadcom are using a classic Silicon Valley tactic to retain their most valuable employees](https://biztoc.com/x/9357749d9375763e) (Published: 2025-10-26)
 - [PC Repair Specialist Calls NVIDIA RTX 5090 Founders Edition One Of The”Worst Designs Ever”](https://wccftech.com/northridgefix-calls-rtx-5090-fe-worst-design/) (Published: 2025-10-26)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-27 15:19:26**_
 - [Call of Duty Black Ops 7 PC requirements — are they surprisingly low... or a graphics card killer?](https://www.windowscentral.com/gaming/call-of-duty-black-ops-7-pc-requirements) (Published: 2025-10-26)
 - [Dogs of the QQQ: 2 Battered Bargains to Bottom-Fish In Right Now](https://biztoc.com/x/faaa714e2dac431e) (Published: 2025-10-26)
 - [AI spending is boosting the economy, but many businesses are in survival mode (Ashley Capoot/CNBC)](https://www.memeorandum.com/251026/p12) (Published: 2025-10-26)
-- [Inside the $22 trillion world of private capital, an asset class so big it would be the world’s second-largest economy](https://fortune.com/2025/10/26/what-is-private-capital-credit-22-trillion-industry-equity-debt/) (Published: 2025-10-26)
-- [The AI Gold Rush Is Cover for a Class War](https://jacobin.com/2025/10/artificial-intelligence-big-tech-labor/) (Published: 2025-10-26)
