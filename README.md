@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-27 21:31:05**_
+_Last updated: **2025-10-27 21:41:47**_
 
 - [These Tech CEOs Campaign to Stop Donald Trump From Sending Troops to San Francisco](https://biztoc.com/x/6199baea7374eaf2) (Published: 2025-10-26)
 - [AI and tech are potentially the biggest equalizers Africa has ever seen, former Nvidia exec says](https://biztoc.com/x/ee177960fed22ef9) (Published: 2025-10-26)
