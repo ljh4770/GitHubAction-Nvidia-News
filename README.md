@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-27 14:43:58**_
+_Last updated: **2025-10-27 14:56:40**_
 
 - [Chipmakers like Nvidia and Broadcom are using a classic Silicon Valley tactic to retain their most valuable employees](https://biztoc.com/x/9357749d9375763e) (Published: 2025-10-26)
 - [PC Repair Specialist Calls NVIDIA RTX 5090 Founders Edition One Of The”Worst Designs Ever”](https://wccftech.com/northridgefix-calls-rtx-5090-fe-worst-design/) (Published: 2025-10-26)
