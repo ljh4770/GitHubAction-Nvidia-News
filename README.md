@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-27 16:53:14**_
+_Last updated: **2025-10-27 17:13:02**_
 
+- [SaaStr AI App of the Week: Higgsfield — The Video AI Platform That’s Crushing It Where Everyone Else Is Still Prompting](https://www.saastr.com/saastr-ai-app-of-the-week-higgsfield-the-video-ai-platform-thats-crushing-it-where-everyone-else-is-still-prompting/) (Published: 2025-10-26)
 - [TSMC Says in the ‘NVIDIA vs ASIC War’, It Will Always Win as Customers From Both Sides Turn to the Chip Giant for Foundry Orders](https://wccftech.com/tsmc-says-in-the-nvidia-vs-asic-war-it-will-always-win/) (Published: 2025-10-26)
 - [Is the Term 'AI Factories' Necessary and Illuminating - or Marketing Hogwash?](https://slashdot.org/story/25/10/25/0612233/is-the-term-ai-factories-necessary-and-illuminating---or-marketing-hogwash) (Published: 2025-10-26)
 - [AMD quietly cracks open quantum opportunity](https://www.thestreet.com/technology/amd-quietly-cracks-open-quantum-opportunity) (Published: 2025-10-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-27 16:53:14**_
 - [Huge week and risks face stocks this week](https://www.thestreet.com/investing/huge-week-and-risks-face-stocks-this-week) (Published: 2025-10-26)
 - [RTX 3050 Ti not detected � possibly fake or dead GPU in STGAubron prebuilt (need](https://www.bleepingcomputer.com/forums/t/811538/rtx-3050-ti-not-detected-possibly-fake-or-dead-gpu-in-stgaubron-prebuilt-need/) (Published: 2025-10-26)
 - [Call of Duty Black Ops 7 PC requirements — are they surprisingly low... or a graphics card killer?](https://www.windowscentral.com/gaming/call-of-duty-black-ops-7-pc-requirements) (Published: 2025-10-26)
-- [Dogs of the QQQ: 2 Battered Bargains to Bottom-Fish In Right Now](https://biztoc.com/x/faaa714e2dac431e) (Published: 2025-10-26)
