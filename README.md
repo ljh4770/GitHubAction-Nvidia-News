@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-27 09:32:22**_
+_Last updated: **2025-10-27 09:47:24**_
 
 - [Are there systemic risks in the private credit market? Capital Economics weighs in](https://finance.yahoo.com/news/systemic-risks-private-credit-market-093004632.html) (Published: 2025-10-26)
 - [Chipmakers Nvidia, AMD, and Broadcom are slapping 'golden handcuffs' on workers to meet demand for the AI boom](https://biztoc.com/x/c8d1ad9d0132bfc8) (Published: 2025-10-26)
