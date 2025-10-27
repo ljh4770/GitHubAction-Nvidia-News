@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-27 10:58:39**_
+_Last updated: **2025-10-27 11:23:11**_
 
 - [FFmpeg Introduces Vulkan Acceleration For Apple ProRes Video Decoding](https://www.phoronix.com/news/Vulkan-Apple-ProRes-Decode) (Published: 2025-10-26)
 - [The AI boom is keeping employees well paid. It's also not letting them go anywhere.](https://www.businessinsider.com/ai-boom-employee-pay-restricting-golden-handcuffs-big-tech-2025-10) (Published: 2025-10-26)
