@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-26 23:52:28**_
+_Last updated: **2025-10-27 01:05:09**_
 
+- [Multimodal prototypical network for interpretable sentiment classification](https://www.nature.com/articles/s41598-025-19850-6) (Published: 2025-10-26)
 - [the outer worlds 2 proper-voices38](https://post.rlsbb.to/__trashed-32_6/) (Published: 2025-10-25)
 - [ThinkCareBelieve: Week 40 of The Trump Presidency](https://www.globenewswire.com/news-release/2025/10/25/3174196/0/en/ThinkCareBelieve-Week-40-of-The-Trump-Presidency.html) (Published: 2025-10-25)
 - [Show HN: Stylish Customizable Aluminum Enclosure for Nvidia Jetson Nano](https://www.getubo.com/post/stylish-customizable-aluminum-enclosure-for-nvidia-jetson-nano) (Published: 2025-10-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-26 23:52:28**_
 - [Mackenzie Dern net worth in 2025: UFC earnings, career, lifestyle, endorsements and more](https://timesofindia.indiatimes.com/sports/international-sports/mackenzie-dern-net-worth-in-2025-ufc-earnings-career-lifestyle-endorsements-and-more/articleshow/124818779.cms) (Published: 2025-10-25)
 - [pycuda-gml 2025.1.2.post1](https://pypi.org/project/pycuda-gml/2025.1.2.post1/) (Published: 2025-10-25)
 - [High core temperatures prevent the HP ZBook X G1i 16 from performing even faster](https://www.notebookcheck.net/High-core-temperatures-prevent-the-HP-ZBook-X-G1i-16-from-performing-even-faster.1147059.0.html) (Published: 2025-10-25)
-- [Judges mustn't yield to lawyers' pressure: Gujarat HC](https://timesofindia.indiatimes.com/india/judges-mustnt-yield-to-lawyers-pressure-gujarat-hc/articleshow/124818511.cms) (Published: 2025-10-25)
