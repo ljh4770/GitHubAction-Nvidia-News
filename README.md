@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-28 23:19:58**_
+_Last updated: **2025-10-28 23:32:58**_
 
+- [[Next-Generation Communications Leadership Interview ④] Ushering in the 6G Era With AI Innovation and Global Partnerships](https://news.samsung.com/global/next-generation-communications-leadership-interview-%e2%91%a3-ushering-in-the-6g-era-with-ai-innovation-and-global-partnerships) (Published: 2025-10-27)
 - [Latest US-China "framework"; EU's rare earths stress; 80th Anniversary of Taiwan’s Restoration; Financial Street Forum; PLA; B30A chips](https://sinocism.com/p/latest-us-china-framework-eus-rare) (Published: 2025-10-27)
 - [Qualcomm shares soar 20% on new AI server chip launch](https://www.nzherald.co.nz/business/qualcomm-shares-soar-20-on-new-ai-server-chip-launch/V6JDMCQHUFBZJO35Y5MTXEZOTM/) (Published: 2025-10-27)
 - [Manning & Napier Group, LLC's Strategic Moves: Albemarle Corp Takes Center Stage](https://finance.yahoo.com/news/manning-napier-group-llcs-strategic-230339205.html) (Published: 2025-10-27)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-28 23:19:58**_
 - [JPMorgan Chase could be the next company to hit $1 trillion in market cap, Jim Cramer says](https://www.cnbc.com/2025/10/27/jim-cramer-jpmorgan-trillion-market-cap.html) (Published: 2025-10-27)
 - [GlobalFoundries finance chief John Hollister departs, Sam Franklin named interim CFO](https://finance.yahoo.com/news/globalfoundries-finance-chief-john-hollister-222750804.html) (Published: 2025-10-27)
 - [GlobalFoundries finance chief John Hollister departs, Sam Franklin named interim CFO](https://www.channelnewsasia.com/business/globalfoundries-finance-chief-john-hollister-departs-sam-franklin-named-interim-cfo-5428571) (Published: 2025-10-27)
-- [3 AI Stocks I like Better Than Nvidia](https://biztoc.com/x/60e3e27eced96a3d) (Published: 2025-10-27)
