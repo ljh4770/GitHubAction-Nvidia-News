@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-28 05:35:17**_
+_Last updated: **2025-10-28 05:47:44**_
 
+- [Papers, patents, and tenders show China's military is integrating DeepSeek and Qwen models in weapons like AI-powered drones, and continues to use Nvidia chips](https://biztoc.com/x/bd749d81c690a7db) (Published: 2025-10-27)
 - [Show HN: HN reader with "Page Down" for mobile and other QoL tweaks](https://hn.leftium.com) (Published: 2025-10-27)
 - [Robot dogs and AI drone swarms: How China could use DeepSeek for an era of war](https://www.yahoo.com/news/articles/robot-dogs-ai-drone-swarms-051723301.html) (Published: 2025-10-27)
 - [NVIDIA Orders AIC Partners to Prioritize 16 GB RTX 5060 Ti as Gamers Reject 8 GB Model](https://www.techpowerup.com/342264/nvidia-orders-aic-partners-to-prioritize-16-gb-rtx-5060-ti-as-gamers-reject-8-gb-model) (Published: 2025-10-27)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-28 05:35:17**_
 - [NeoGenomics (NEO) Reports Earnings Tomorrow: What To Expect](https://finance.yahoo.com/news/neogenomics-neo-reports-earnings-tomorrow-031535131.html) (Published: 2025-10-27)
 - [Robot dogs and AI drone swarms: How China could use DeepSeek for an era of war](https://economictimes.indiatimes.com/tech/artificial-intelligence/robot-dogs-and-ai-drone-swarms-how-china-could-use-deepseek-for-an-era-of-war/articleshow/124838668.cms) (Published: 2025-10-27)
 - [Robot dogs and AI drone swarms: How China could use DeepSeek for an era of war](https://ca.news.yahoo.com/robot-dogs-ai-drone-swarms-030245194.html) (Published: 2025-10-27)
-- [Robot dogs and AI drone swarms: How China could use DeepSeek for an era of war](https://www.yahoo.com/news/articles/robot-dogs-ai-drone-swarms-030116238.html) (Published: 2025-10-27)
