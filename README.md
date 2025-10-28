@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-28 08:35:33**_
+_Last updated: **2025-10-28 08:53:41**_
 
 - [CAIA turns to federated learning, AI agents for cancer research](https://www.techtarget.com/healthtechanalytics/feature/CAIA-turns-to-federated-learning-AI-agents-for-cancer-research) (Published: 2025-10-27)
 - [Is Valkyrae quitting streaming? YouTube star calls Twitch “gross” and hints at leaving for good](https://timesofindia.indiatimes.com/world/us-streamers/is-valkyrae-quitting-streaming-youtube-star-calls-twitch-gross-and-hints-at-leaving-for-good/articleshow/124843101.cms) (Published: 2025-10-27)
