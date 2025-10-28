@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-28 09:49:00**_
+_Last updated: **2025-10-28 09:59:05**_
 
 - [Nvidia's D.C. moment](https://biztoc.com/x/48c51f5cfe7c5cae) (Published: 2025-10-27)
 - [CAIA turns to federated learning, AI agents for cancer research](https://www.techtarget.com/healthtechanalytics/feature/CAIA-turns-to-federated-learning-AI-agents-for-cancer-research) (Published: 2025-10-27)
