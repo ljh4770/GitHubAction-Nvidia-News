@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-28 16:45:39**_
+_Last updated: **2025-10-28 16:59:23**_
 
+- [I'd choose this Windows gaming PC over other pro laptops for work - here's why](https://www.zdnet.com/article/id-choose-this-windows-gaming-pc-over-other-pro-laptops-for-work-heres-why/) (Published: 2025-10-27)
+- [Data Center Chip Market Report 2025 | Hyperscale Data Centers Drive Growth in Chip Market, Reaching $32.97 Billion by 2029](https://www.globenewswire.com/news-release/2025/10/27/3174862/28124/en/Data-Center-Chip-Market-Report-2025-Hyperscale-Data-Centers-Drive-Growth-in-Chip-Market-Reaching-32-97-Billion-by-2029.html) (Published: 2025-10-27)
+- [Qualcomm Stock Is Soaring Today After Chipmaker Makes a Big AI Move](https://biztoc.com/x/90c87e4f7f6b914a) (Published: 2025-10-27)
+- [Qualcomm shares soar 20% on new AI chip launch](https://economictimes.indiatimes.com/markets/stocks/news/qualcomm-shares-soar-20-on-new-ai-chip-launch/articleshow/124854015.cms) (Published: 2025-10-27)
+- [China's autonomous military combat drone powered by DeepSeek highlights Nvidia reliance — investigation reveals People's Liberation Army, supporting institutions continue to use restricted H100 chips](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-autonomous-military-combat-drone-powered-by-deepseek-highlights-nvidia-reliance-investigation-reveals-peoples-liberation-army-supporting-institutions-continue-to-use-restricted-h100-chips) (Published: 2025-10-27)
+- [NVIDIA’s AI GPU Performance Can Be Increased To Bring Payback To The Order Of “Single Digit Months,” Says Phononic Chief Product Officer](https://wccftech.com/nvidias-ai-gpu-performance-can-be-increased-to-bring-payback-to-the-order-of-single-digit-months-says-phononic-chief-product-officer/) (Published: 2025-10-27)
+- [I just found an obscure Linux distro that's outstanding on old hardware](https://www.zdnet.com/article/i-just-found-an-obscure-linux-distro-thats-outstanding-on-old-hardware/) (Published: 2025-10-27)
+- [What Does 'DLSS' Mean On An Nvidia Graphics Card?](https://www.bgr.com/2003330/what-nvidia-gpu-graphics-card-dlss-means/) (Published: 2025-10-27)
 - [S&P 500 surges to record high today: Why is S&P 500 rising and US stock market rallying to all-time highs?](https://economictimes.indiatimes.com/news/international/us/sp-500-surges-to-record-high-today-why-is-sp-500-rising-and-us-stock-market-rallying-to-all-time-highs/articleshow/124853571.cms) (Published: 2025-10-27)
 - [Qualcomm Stock Is Soaring Today After Chipmaker Makes a Big AI Move](https://www.investopedia.com/qualcomm-stock-is-soaring-today-as-chipmaker-makes-big-ai-move-11837482) (Published: 2025-10-27)
-- [Qualcomm Shares Soar After Taking Aim At Nvidia With New AI Chips](https://www.ndtvprofit.com/markets/qualcomm-share-price-soars-after-taking-aim-at-nvidia-with-new-ai-chips) (Published: 2025-10-27)
-- [One of the Best Dow Stocks to Buy?](https://biztoc.com/x/b3a415957e3a97d8) (Published: 2025-10-27)
-- [Nvidia Rises While AI Rival Soars On New Data Center Chip; Is Nvidia A Buy Now?](https://biztoc.com/x/743f4a986577dde7) (Published: 2025-10-27)
-- [CyberLink PowerDirector Ultimate 2026 v24.0.1027](https://post.rlsbb.to/cyberlink-powerdirector-ultimate-2026-v24-0-1027/) (Published: 2025-10-27)
-- [Forget Mac Mini, Ryzen 7 PRO Gaming Mini PC Drops to Its Lowest Price Yet on Amazon](https://kotaku.com/this-mini-gaming-pc-from-gmktec-dropped-by-over-100-2000637792) (Published: 2025-10-27)
-- [Dow jumps 200 points on promising China trade news](https://rollingout.com/2025/10/27/dow-jumps-200-points-on-china-trade-news/) (Published: 2025-10-27)
-- [AMD Lands Major U.S. Government AI Deal to Power Next-Gen Supercomputers, Featuring Instinct MI355X & the Newer MI430 AI Chips](https://wccftech.com/amd-lands-major-us-government-ai-deal-to-power-next-gen-supercomputers/) (Published: 2025-10-27)
-- [Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia](https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus) (Published: 2025-10-27)
