@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-28 20:53:32**_
+_Last updated: **2025-10-28 21:13:59**_
 
 - [The Outer Worlds 2 PC system requirements aren't bad, but oof — that file size makes my SSD weep, and the recommended specs are nothing to scoff at, either](https://www.windowscentral.com/gaming/the-outer-worlds-2-pc-system-requirements-arent-bad-but-oof-that-file-size-makes-my-ssd-weep-and-the-recommended-specs-are-nothing-to-scoff-at-either) (Published: 2025-10-27)
 - ['If they took it away, I'd have a heart attack': Award-winning filmmaker waxes lyrical about Asus’s $8000 8K rival to Apple’s Mac Pro display](https://www.techradar.com/pro/if-they-took-it-away-id-have-a-heart-attack-award-winning-filmmaker-is-wax-lyrical-about-asuss-usd8000-8k-rival-apple-mac-pro-display) (Published: 2025-10-27)
