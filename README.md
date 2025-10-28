@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-28 23:32:58**_
+_Last updated: **2025-10-28 23:43:47**_
 
 - [[Next-Generation Communications Leadership Interview ④] Ushering in the 6G Era With AI Innovation and Global Partnerships](https://news.samsung.com/global/next-generation-communications-leadership-interview-%e2%91%a3-ushering-in-the-6g-era-with-ai-innovation-and-global-partnerships) (Published: 2025-10-27)
 - [Latest US-China "framework"; EU's rare earths stress; 80th Anniversary of Taiwan’s Restoration; Financial Street Forum; PLA; B30A chips](https://sinocism.com/p/latest-us-china-framework-eus-rare) (Published: 2025-10-27)
