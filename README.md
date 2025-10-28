@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-28 05:58:20**_
+_Last updated: **2025-10-28 06:40:01**_
 
+- [NVIDIA's Quarterly Earnings Preview: What You Need to Know](https://biztoc.com/x/8c3a8affb4ac1f36) (Published: 2025-10-27)
+- [NVIDIA's Quarterly Earnings Preview: What You Need to Know](https://www.barchart.com/story/news/35690175/nvidia-s-quarterly-earnings-preview-what-you-need-to-know) (Published: 2025-10-27)
+- [NVIDIA Prepares New Driver Era for "Rubin" GPUs in 2026](https://www.techpowerup.com/342265/nvidia-prepares-new-driver-era-for-rubin-gpus-in-2026) (Published: 2025-10-27)
 - [Papers, patents, and tenders show China's military is integrating DeepSeek and Qwen models in weapons like AI-powered drones, and continues to use Nvidia chips](https://biztoc.com/x/bd749d81c690a7db) (Published: 2025-10-27)
 - [Show HN: HN reader with "Page Down" for mobile and other QoL tweaks](https://hn.leftium.com) (Published: 2025-10-27)
 - [Robot dogs and AI drone swarms: How China could use DeepSeek for an era of war](https://www.yahoo.com/news/articles/robot-dogs-ai-drone-swarms-051723301.html) (Published: 2025-10-27)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-28 05:58:20**_
 - [What the history of tech bubbles can tell us about AI](https://www.euractiv.com/opinion/what-the-history-of-tech-bubbles-can-tell-us-about-ai/) (Published: 2025-10-27)
 - [3 Reasons APP Has Explosive Upside Potential](https://finance.yahoo.com/news/3-reasons-app-explosive-upside-040314710.html) (Published: 2025-10-27)
 - [Robot dogs and AI drone swarms: How China could use DeepSeek for an era of war](https://www.yahoo.com/news/articles/robot-dogs-ai-drone-swarms-033828646.html) (Published: 2025-10-27)
-- [NeoGenomics (NEO) Reports Earnings Tomorrow: What To Expect](https://finance.yahoo.com/news/neogenomics-neo-reports-earnings-tomorrow-031535131.html) (Published: 2025-10-27)
-- [Robot dogs and AI drone swarms: How China could use DeepSeek for an era of war](https://economictimes.indiatimes.com/tech/artificial-intelligence/robot-dogs-and-ai-drone-swarms-how-china-could-use-deepseek-for-an-era-of-war/articleshow/124838668.cms) (Published: 2025-10-27)
-- [Robot dogs and AI drone swarms: How China could use DeepSeek for an era of war](https://ca.news.yahoo.com/robot-dogs-ai-drone-swarms-030245194.html) (Published: 2025-10-27)
