@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-27 23:51:31**_
+_Last updated: **2025-10-28 00:51:55**_
 
+- [Wall Street: A make-or-break week with big tech earnings](https://economictimes.indiatimes.com/markets/stocks/news/wall-street-a-make-or-break-week-with-big-tech-earnings/articleshow/124837231.cms) (Published: 2025-10-27)
+- [NVIDIA Contributes to Open Frameworks for Next-Generation Robotics Development](https://blogs.nvidia.com/blog/roscon-2025-open-framework-robotics/) (Published: 2025-10-27)
 - [If I Could Buy Only 1 "Magnificent Seven" Stock Over the Next 10 Years, This Would Be It (Hint: Not Nvidia)](https://biztoc.com/x/4232df5f72f86611) (Published: 2025-10-26)
 - [Stock market today: Dow, S&P 500, Nasdaq head toward records as Trump stokes hopes US-China trade deal is near](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-head-toward-records-as-trump-stokes-hopes-us-china-trade-deal-is-near-225050682.html) (Published: 2025-10-26)
 - [Could This Semiconductor Leader Become the New Face of Artificial Intelligence (AI)?](https://biztoc.com/x/accf76768bc269d9) (Published: 2025-10-26)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-27 23:51:31**_
 - [Prediction: This Artificial Intelligence (AI) Stock Will Join Nvidia, Microsoft, Apple, and Alphabet in the $3 Trillion Club by 2027](https://biztoc.com/x/4c943560903d6d15) (Published: 2025-10-26)
 - [stringzillas-cuda 4.2.2](https://pypi.org/project/stringzillas-cuda/4.2.2/) (Published: 2025-10-26)
 - [These Tech CEOs Campaign to Stop Donald Trump From Sending Troops to San Francisco](https://biztoc.com/x/6199baea7374eaf2) (Published: 2025-10-26)
-- [AI and tech are potentially the biggest equalizers Africa has ever seen, former Nvidia exec says](https://biztoc.com/x/ee177960fed22ef9) (Published: 2025-10-26)
-- [AI and tech are potentially the biggest equalizers Africa has ever seen, former Nvidia exec says](https://fortune.com/2025/10/26/african-economy-ai-tech-investment-data-computing-infrastructure/) (Published: 2025-10-26)
