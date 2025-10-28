@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-28 05:47:44**_
+_Last updated: **2025-10-28 05:58:20**_
 
 - [Papers, patents, and tenders show China's military is integrating DeepSeek and Qwen models in weapons like AI-powered drones, and continues to use Nvidia chips](https://biztoc.com/x/bd749d81c690a7db) (Published: 2025-10-27)
 - [Show HN: HN reader with "Page Down" for mobile and other QoL tweaks](https://hn.leftium.com) (Published: 2025-10-27)
