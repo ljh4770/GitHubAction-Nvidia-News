@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-28 07:47:43**_
+_Last updated: **2025-10-28 07:58:25**_
 
+- [Throwback to when Mahhi Vij reacted to divorce rumours with Jay Bhanushali](https://timesofindia.indiatimes.com/tv/news/hindi/throwback-to-when-mahhi-vij-reacted-to-divorce-rumours-with-jay-bhanushali/articleshow/124843825.cms) (Published: 2025-10-27)
+- [Delhi shocker: Son steals Rs 26L from father’s account over business dispute; used fake UPI ID, stolen SIM, held](https://timesofindia.indiatimes.com/city/delhi/man-steals-26-lakh-from-fathers-bank-account-arrested/articleshow/124831089.cms) (Published: 2025-10-27)
+- [Aravind Srinivas or Sundar Pichai: Which tech leader’s education journey is more impressive?](https://timesofindia.indiatimes.com/education/news/aravind-srinivas-or-sundar-pichai-which-tech-leaders-education-journey-is-more-impressive/articleshow/124843695.cms) (Published: 2025-10-27)
 - [Japan's Nikkei tops 50,000 mark for first time on stimulus euphoria](https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-tops-50000-mark-for-first-time-on-stimulus-euphoria/articleshow/124843582.cms) (Published: 2025-10-27)
 - [Who is Justice Surya Kant, recommended as next CJI? A look at his journey from classroom to courtroom](https://timesofindia.indiatimes.com/education/news/who-is-justice-surya-kant-recommended-as-next-cji-a-look-at-his-journey-from-classroom-to-courtroom/articleshow/124843490.cms) (Published: 2025-10-27)
 - [MSI THIN A15: 15.6" FHD 144Hz, Ryzen 5 7535HS, RTX 4050, 8GB DDR5, 512GB SSD $549.99](https://slickdeals.net/f/18736564-msi-thin-a15-15-6-fhd-144hz-ryzen-5-7535hs-rtx-4050-8gb-ddr5-512gb-ssd-549-99) (Published: 2025-10-27)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-28 07:47:43**_
 - [NVIDIA's Quarterly Earnings Preview: What You Need to Know](https://biztoc.com/x/8c3a8affb4ac1f36) (Published: 2025-10-27)
 - [NVIDIA's Quarterly Earnings Preview: What You Need to Know](https://www.barchart.com/story/news/35690175/nvidia-s-quarterly-earnings-preview-what-you-need-to-know) (Published: 2025-10-27)
 - [NVIDIA Prepares New Driver Era for "Rubin" GPUs in 2026](https://www.techpowerup.com/342265/nvidia-prepares-new-driver-era-for-rubin-gpus-in-2026) (Published: 2025-10-27)
-- [Papers, patents, and tenders show China's military is integrating DeepSeek and Qwen models in weapons like AI-powered drones, and continues to use Nvidia chips](https://biztoc.com/x/bd749d81c690a7db) (Published: 2025-10-27)
-- [Show HN: HN reader with "Page Down" for mobile and other QoL tweaks](https://hn.leftium.com) (Published: 2025-10-27)
-- [Robot dogs and AI drone swarms: How China could use DeepSeek for an era of war](https://www.yahoo.com/news/articles/robot-dogs-ai-drone-swarms-051723301.html) (Published: 2025-10-27)
