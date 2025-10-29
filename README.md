@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-29 19:27:26**_
+_Last updated: **2025-10-29 19:39:37**_
 
+- [CrowdStrike Stock Climbing After NVIDIA Partnership Announcement](https://biztoc.com/x/e764f81433da4322) (Published: 2025-10-28)
+- [It's Better to Train Employees Who Leave Than Keep Untrained Ones: Why AI Augmentation Will Win](https://www.ibtimes.com/its-better-train-employees-who-leave-keep-untrained-ones-why-ai-augmentation-will-win-3788674) (Published: 2025-10-28)
+- [Inside the Dell–Nvidia alliance powering enterprise AI at scale](https://siliconangle.com/2025/10/28/dell-nvidia-aim-deliver-swiss-army-knife-enterprise-ai-adoption-dellpoweredgeandnvidia/) (Published: 2025-10-28)
+- [Nvidia’s Huang works to convince investors there’s no AI bubble](https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-huang-works-to-convince-investors-theres-no-ai-bubble/articleshow/124882207.cms) (Published: 2025-10-28)
+- [NVIDIA GTC DC25: Operational AI with Palantir, AI-Native 6G, Nokia AI-RAN with ARC-Pro, Hyperion 10 for AVs, and IGX Thor at the Edge](https://www.storagereview.com/news/nvidia-gtc-dc25-operational-ai-with-palantir-ai-native-6g-nokia-ai-ran-with-arc-pro-hyperion-10-for-avs-and-igx-thor-at-the-edge) (Published: 2025-10-28)
+- [The Real Winner of Nvidia’s $1B Nokia Deal? T-Mobile Just Jumped to the Front of the 6G Race](https://biztoc.com/x/261ce323b4446c81) (Published: 2025-10-28)
+- [NVIDIA and Partners Build America’s AI Infrastructure and Create Blueprint to Power the Next Industrial Revolution](https://biztoc.com/x/b4749767249165f1) (Published: 2025-10-28)
+- [Stock market today: Dow, S&P 500, Nasdaq eye fresh records Nvidia provides lift ahead of earnings, Fed tests](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-eye-fresh-records-nvidia-provides-lift-ahead-of-earnings-fed-tests-133435567.html) (Published: 2025-10-28)
+- [Stellantis ties up with Nvidia, Uber to advance robotaxi development](https://biztoc.com/x/ee6b04c1619fc8c9) (Published: 2025-10-28)
 - [Stellantis ties up with Nvidia, Uber to advance robotaxi development](https://www.channelnewsasia.com/business/stellantis-ties-up-nvidia-uber-advance-robotaxi-development-5430926) (Published: 2025-10-28)
-- [Canonical and NVIDIA BlueField-4: a foundation for zero-trust high performance infrastructure](https://ubuntu.com/blog/canonical-and-nvidia-bluefield-4-a-foundation-for-zero-trust-high-performance-infrastructure) (Published: 2025-10-28)
-- [Nvidia CEO drops 3 major GTC surprises that amaze investors](https://rollingout.com/2025/10/28/nvidia-ceo-drops-3-majorgtc-surprises/) (Published: 2025-10-28)
-- [As OpenAI restructures, Microsoft locks in long-term gains](https://fortune.com/2025/10/28/openai-restructure-for-profit-microsoft-pbc-long-term-gains-agi/) (Published: 2025-10-28)
-- [Tech stocks stoke further rally on global markets](https://www.irishtimes.com/business/markets/2025/10/28/tech-stocks-stoke-further-rally-on-global-markets/) (Published: 2025-10-28)
-- [Nvidia will build AI supercomputers for US Energy Department, announces total bookings of $500 billion](https://finance.yahoo.com/news/nvidia-build-ai-supercomputers-us-191932227.html) (Published: 2025-10-28)
-- [Lucid targets first Level 4 self-driving EV with Nvidia](https://biztoc.com/x/0d0cbeed56e65595) (Published: 2025-10-28)
-- [Is the AI Economy a Bubble?](http://foreignpolicy.com/2025/10/28/ai-economy-boom-bubble/) (Published: 2025-10-28)
-- [Lucid Wants To Be First Brand Offering Level 4 Autonomy To Consumers, Teases Upcoming Cheaper Crossover](https://www.jalopnik.com/2010246/lucid-level-4-autonomy-nvidia-partnership-crossover-teaser/) (Published: 2025-10-28)
-- [Cisco unveils N9100, first Nvidia partner-developed data center switch](https://thefly.com/permalinks/entry.php/id4222951/CSCO;NVDA-Cisco-unveils-N-first-Nvidia-partnerdeveloped-data-center-switch) (Published: 2025-10-28)
