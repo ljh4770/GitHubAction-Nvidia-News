@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-29 05:51:27**_
+_Last updated: **2025-10-29 06:17:47**_
 
+- [Semiconductor Market Size to Worth USD 1880.79 Billion by 2032, expanding at 13.86% CAGR | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/10/28/3175098/0/en/Semiconductor-Market-Size-to-Worth-USD-1880-79-Billion-by-2032-expanding-at-13-86-CAGR-Research-by-SNS-Insider.html) (Published: 2025-10-28)
 - [AGYS Q3 Deep Dive: Subscription Momentum and AI Drive Hospitality Software Growth](https://finance.yahoo.com/news/agys-q3-deep-dive-subscription-053142927.html) (Published: 2025-10-28)
 - [Hyperscale Stock Surges 33% After-Hours As Investors Cheer Bitcoin Mining Fleet Upgrade, Nvidia GPU Cloud Launch](https://biztoc.com/x/79061a0e482bb044) (Published: 2025-10-28)
 - [2 Software Stocks with Exciting Potential and 1 We Avoid](https://finance.yahoo.com/news/2-software-stocks-exciting-potential-043414874.html) (Published: 2025-10-28)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-29 05:51:27**_
 - [Trump turns a blind eye to US's AI power grid problem](https://www.digitimes.com/news/a20251028PD212/data-infrastructure-ceo-electricity-jensen-huang.html) (Published: 2025-10-28)
 - [Intel's ASIC play fails to impress chipmakers](https://www.digitimes.com/news/a20251028PD210/intel-asic-market-x86-business.html) (Published: 2025-10-28)
 - [Qualcomm's Entry Into The AI Race Splits Analysts: 'Still Early,' But The Stock's Rally Is A Potential 'Fade,' Says BoFA](https://biztoc.com/x/189a5be7d82a8868) (Published: 2025-10-28)
-- [Elizabeth Warren And Adam Schiff Introduce Senate Resolution Condemning Trump's Pardon Of Changpeng Zhao](https://finance.yahoo.com/news/elizabeth-warren-adam-schiff-introduce-023113160.html) (Published: 2025-10-28)
