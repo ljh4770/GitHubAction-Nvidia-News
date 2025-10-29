@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-29 14:57:04**_
+_Last updated: **2025-10-29 15:27:15**_
 
-- [Apple Hits $4 Trillion Market Value, Becoming The Third Company To Do So](https://www.bgr.com/2009744/apple-4-trillion-market-value/) (Published: 2025-10-28)
-- [Wedbush Raises PT on Advanced Micro Devices (AMD) Stock](https://finance.yahoo.com/news/wedbush-raises-pt-advanced-micro-144650464.html) (Published: 2025-10-28)
-- [NVIDIA (NVDA) is Partnering with Australian startup Firmus Technologies Ltd., Reports Bloomberg](https://finance.yahoo.com/news/nvidia-nvda-partnering-australian-startup-144640537.html) (Published: 2025-10-28)
-- [BofA Maintains Buy Rating on Microsoft (MSFT) Stock](https://finance.yahoo.com/news/bofa-maintains-buy-rating-microsoft-144637794.html) (Published: 2025-10-28)
-- [nvidia-dali-tf-plugin-cuda130 1.52.0](https://pypi.org/project/nvidia-dali-tf-plugin-cuda130/1.52.0/) (Published: 2025-10-28)
-- [Warren Buffett Shares The Latest Opportunities In The Stock Market And Where He Just Invested $1B](https://finance.yahoo.com/news/warren-buffett-shares-latest-opportunities-144607440.html) (Published: 2025-10-28)
-- [ASUS 2025 TUF F16 Gaming Laptop (NVIDIA RTX 5060) Drops Over 50%, Skipping the Black Friday Madness Altogether](https://kotaku.com/asus-2025-tuf-f16-gaming-laptop-nvidia-rtx-5060-drops-over-50-skipping-the-black-friday-madness-altogether-2000639405) (Published: 2025-10-28)
-- [Apple touches $4 trillion market value](https://macdailynews.com/2025/10/28/apple-touches-4-trillion-market-value/) (Published: 2025-10-28)
-- [Text2SQL is dead – long live text2SQL](https://www.exasol.com/blog/text-to-sql-governance/) (Published: 2025-10-28)
+- [Battlefield RedSec FAQ: Release date, cross-play, file size, and other questions about this new Battle Royale mode answered](https://www.windowscentral.com/gaming/battlefield-redsec-faq) (Published: 2025-10-28)
+- [Qualcomm Just Entered AI Chip Race. Can it Catch AMD and Nvidia?](https://biztoc.com/x/066d3b9a2fbcbbc5) (Published: 2025-10-28)
+- [Big Tech has to 'walk the line' with AI spending this earnings season](https://finance.yahoo.com/news/big-tech-has-to-walk-the-line-with-ai-spending-this-earnings-season-151904142.html) (Published: 2025-10-28)
+- [AI is More Than Stock Market. It’s Economic ‘Stimulus’](https://www.forbes.com/sites/danrunkevicius/2025/10/28/ai-is-more-than-stock-market-its--economic-stimulus/) (Published: 2025-10-28)
+- [is Partnering with Australian startup Firmus Technologies Ltd., Reports Bloomberg](https://biztoc.com/x/5d8cb8d1569b26f9) (Published: 2025-10-28)
+- [Investigating NVIDIA's Standing In Semiconductors & Semiconductor Equipment Industry Compared To Competitors](https://biztoc.com/x/3afa7272d119f558) (Published: 2025-10-28)
+- [AMD swoops in to help as John Carmack slams Nvidia's $4,000 DGX Spark, says it doesn't hit performance claims, overheats, and maxes out at 100W power draw — developer forums inundated with crashing and shutdown reports](https://www.tomshardware.com/tech-industry/semiconductors/users-question-dgx-spark-performance) (Published: 2025-10-28)
+- [Apple share price: Apple tops $4 trillion market value for first time after Nvidia, Microsoft. How are Apple stocks performing?](https://economictimes.indiatimes.com/news/international/us/apple-share-price-apple-tops-4-trillion-market-value-for-first-time-after-nvidia-microsoft-how-are-apple-stocks-performing/articleshow/124876532.cms) (Published: 2025-10-28)
+- [Mixed options sentiment in NVIDIA with shares up 0.97%](https://thefly.com/permalinks/entry.php/id4222802/NVDA-Mixed-options-sentiment-in-NVIDIA-with-shares-up-) (Published: 2025-10-28)
+- [Wall Street Price Prediction: Tesla’s Share Price Forecast for 2025](https://biztoc.com/x/ca1f0ef6d666fcc5) (Published: 2025-10-28)
