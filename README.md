@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-29 05:22:03**_
+_Last updated: **2025-10-29 05:41:00**_
 
+- [AGYS Q3 Deep Dive: Subscription Momentum and AI Drive Hospitality Software Growth](https://finance.yahoo.com/news/agys-q3-deep-dive-subscription-053142927.html) (Published: 2025-10-28)
+- [Hyperscale Stock Surges 33% After-Hours As Investors Cheer Bitcoin Mining Fleet Upgrade, Nvidia GPU Cloud Launch](https://biztoc.com/x/79061a0e482bb044) (Published: 2025-10-28)
 - [2 Software Stocks with Exciting Potential and 1 We Avoid](https://finance.yahoo.com/news/2-software-stocks-exciting-potential-043414874.html) (Published: 2025-10-28)
 - [How retail execs will evaluate ChatGPT checkout this holiday season](http://digiday.com/media-buying/how-retail-execs-will-evaluate-chatgpt-checkout-this-holiday-season/) (Published: 2025-10-28)
 - [Foxconn to invest up to $1.37 billion in AI compute cluster, supercomputing centre](https://economictimes.indiatimes.com/tech/artificial-intelligence/foxconn-to-invest-up-to-1-37-billion-in-ai-compute-cluster-supercomputing-centre/articleshow/124863426.cms) (Published: 2025-10-28)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-29 05:22:03**_
 - [Intel's ASIC play fails to impress chipmakers](https://www.digitimes.com/news/a20251028PD210/intel-asic-market-x86-business.html) (Published: 2025-10-28)
 - [Qualcomm's Entry Into The AI Race Splits Analysts: 'Still Early,' But The Stock's Rally Is A Potential 'Fade,' Says BoFA](https://biztoc.com/x/189a5be7d82a8868) (Published: 2025-10-28)
 - [Elizabeth Warren And Adam Schiff Introduce Senate Resolution Condemning Trump's Pardon Of Changpeng Zhao](https://finance.yahoo.com/news/elizabeth-warren-adam-schiff-introduce-023113160.html) (Published: 2025-10-28)
-- [Qualcomm Challenges Nvidia And AMD With Data Center AI Chips](https://www.forbes.com/sites/janakirammsv/2025/10/27/qualcomm-challenges-nvidia-and-amd-with-data-center-ai-chips/) (Published: 2025-10-28)
-- [Skytech Azure 2 Desktop: Ryzen 7 9800X3D, RTX 5080, 32GB RAM, 2TB SSD $2227.99](https://slickdeals.net/f/18739990-skytech-azure-2-desktop-ryzen-7-9800x3d-rtx-5080-32gb-ram-2tb-ssd-2227-99) (Published: 2025-10-28)
