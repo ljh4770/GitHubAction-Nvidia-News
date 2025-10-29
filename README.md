@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-29 07:41:06**_
+_Last updated: **2025-10-29 07:51:26**_
 
+- [China’s Cheap Air Fares Hurt Profit Recovery for State Carriers](https://biztoc.com/x/85bbc02aa5c19143) (Published: 2025-10-28)
+- [Saudi Wealth Fund’s Boss Touts Vision 2030 Progress Amid Strains](https://biztoc.com/x/193d24368d4ec893) (Published: 2025-10-28)
+- [Goldman Joins Peers Deepening Saudi Ties Despite Fiscal Strains](https://biztoc.com/x/222c68db4f99fd62) (Published: 2025-10-28)
+- [Swiss Franc Draws Record Bearish Bets From Japan Margin Traders](https://biztoc.com/x/4033d8d1c1ef5788) (Published: 2025-10-28)
+- [Top Indian Commodity Bourse Halts Trading After Technical Glitch](https://biztoc.com/x/d82ff9a254b9411f) (Published: 2025-10-28)
+- [US firm Long Path to buy UK's Idox for $438 million](https://biztoc.com/x/9bd3b5a6ab20ab56) (Published: 2025-10-28)
+- [HSBC has completed planned job reductions, CFO says](https://biztoc.com/x/5311d4e36e4205d0) (Published: 2025-10-28)
 - [CNBC Daily Open: Hopes of a U.S.-China deal spark a rally](https://www.cnbc.com/2025/10/28/cnbc-daily-open-hopes-of-a-us-china-deal-sparks-rally.html) (Published: 2025-10-28)
 - [NVIDIA Introduces OmniVinci, a Research-Only LLM for Cross-Modal Understanding](https://www.infoq.com/news/2025/10/nvidia-omnivinci/) (Published: 2025-10-28)
 - [How To Install and Use Docker Compose on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-22-04) (Published: 2025-10-28)
-- [MSI Launches NVIDIA GeForce RTX 5050 Inspire Dual-Slot GPU for SFF PC Builds](https://www.madshrimps.be/news/msi-launches-nvidia-geforce-rtx-5050-inspire-dual-slot-gpu-for-sff-pc-builds/) (Published: 2025-10-28)
-- [Foxconn to invest up to $1.37 billion to expand cloud compute services and accelerate AI development](https://www.livemint.com/companies/news/foxconn-to-invest-up-to-1-37-billion-to-expand-cloud-compute-services-and-accelerate-ai-development-11761626625675.html) (Published: 2025-10-28)
-- [Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia](https://biztoc.com/x/c49765a74a83c9af) (Published: 2025-10-28)
-- [Semiconductor Market Size to Worth USD 1880.79 Billion by 2032, expanding at 13.86% CAGR | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/10/28/3175098/0/en/Semiconductor-Market-Size-to-Worth-USD-1880-79-Billion-by-2032-expanding-at-13-86-CAGR-Research-by-SNS-Insider.html) (Published: 2025-10-28)
-- [AGYS Q3 Deep Dive: Subscription Momentum and AI Drive Hospitality Software Growth](https://finance.yahoo.com/news/agys-q3-deep-dive-subscription-053142927.html) (Published: 2025-10-28)
-- [Hyperscale Stock Surges 33% After-Hours As Investors Cheer Bitcoin Mining Fleet Upgrade, Nvidia GPU Cloud Launch](https://biztoc.com/x/79061a0e482bb044) (Published: 2025-10-28)
-- [2 Software Stocks with Exciting Potential and 1 We Avoid](https://finance.yahoo.com/news/2-software-stocks-exciting-potential-043414874.html) (Published: 2025-10-28)
