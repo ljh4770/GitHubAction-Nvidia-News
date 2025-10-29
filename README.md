@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-29 11:52:57**_
+_Last updated: **2025-10-29 12:30:42**_
 
+- [Here’s the 2025 Dell pre-Black Friday ad: Deals on gaming PCs, laptops, more from just $60 now live](http://9to5toys.com/2025/10/28/2025-dell-pre-black-friday-ad/) (Published: 2025-10-28)
+- [Nvidia Inches Higher. What Qualcomm’s AI Chip Entry Means for the Stock](https://biztoc.com/x/fd4bc3cb2844f9ee) (Published: 2025-10-28)
+- [Saudi AI firm Humain eyes dual listing on Saudi, NASDAQ exchanges within four years](https://finance.yahoo.com/news/saudi-ai-firm-humain-eyes-122733945.html) (Published: 2025-10-28)
+- [Amazon layoffs, Qualcomm's AI chips, Airbnb cracks down on Halloween and more in Morning Squawk](https://www.cnbc.com/2025/10/28/5-things-to-know-before-the-stock-market-opens.html) (Published: 2025-10-28)
+- [Analyst Says ASML Holding (ASML) an ‘Exciting’ AI Investment – Here’s Why](https://finance.yahoo.com/news/analyst-says-asml-holding-asml-122137704.html) (Published: 2025-10-28)
+- [Despite mass layoffs and a previous pay cut, Microsoft's CEO is taking home nearly $100 million this year](https://www.pcgamer.com/hardware/despite-mass-layoffs-and-a-previous-pay-cut-microsofts-ceo-is-taking-home-nearly-usd100-million-this-year/) (Published: 2025-10-28)
+- [Intel CEO Says U.S. Government Stake Was a “Deliberate” Move to Drive a Comeback, Comparing It to How Taiwan Supports TSMC](https://wccftech.com/intel-ceo-says-us-government-stake-was-a-deliberate-move/) (Published: 2025-10-28)
+- [WeRide Announces CEO’s Voluntary Lock-Up to Reinforce Long-Term Commitment as Company Launches Hong Kong IPO](https://www.globenewswire.com/news-release/2025/10/28/3175307/0/en/WeRide-Announces-CEO-s-Voluntary-Lock-Up-to-Reinforce-Long-Term-Commitment-as-Company-Launches-Hong-Kong-IPO.html) (Published: 2025-10-28)
 - [OG Doom legend John Carmack says his Nvidia DGX Spark box has thermal throttling issues, raising doubts over the viability of Nvidia's AI APU for laptop PCs](https://www.pcgamer.com/hardware/graphics-cards/og-doom-legend-john-carmack-says-his-nvidia-dgx-spark-box-has-thermal-throttling-issues-raising-doubts-over-the-viability-of-nvidias-ai-apu-for-laptop-pcs/) (Published: 2025-10-28)
 - [RPCS3 Removes AMD RX 400/500 And NVIDIA GTX 900/1000 Series From Recommended GPU Requirements](https://wccftech.com/rpcs3-removes-amd-rx-400-500-and-nvidia-gtx-900-1000-series-from-recommended-gpu-requirements/) (Published: 2025-10-28)
-- [Trump to meet with Nvidia's Huang tomorrow](https://biztoc.com/x/31c0de7efc2627d9) (Published: 2025-10-28)
-- [Amazon To Cut Up To 30,000 Jobs, Largest Layoff In Company History](https://finance.yahoo.com/news/amazon-cut-30-000-jobs-113104121.html) (Published: 2025-10-28)
-- [The stock market is staring down a chaotic mix of its 4 most important catalysts this week](https://www.businessinsider.com/stock-market-facing-chaotic-mix-4-important-catalysts-this-week-2025-10) (Published: 2025-10-28)
-- [Saudi AI firm Humain eyes dual listing on Saudi, NASDAQ exchanges within four years](https://www.channelnewsasia.com/business/saudi-ai-firm-humain-eyes-dual-listing-saudi-nasdaq-exchanges-within-four-years-5429841) (Published: 2025-10-28)
-- [D.R. Horton shares dip on Q4 earnings miss, soft 2026 guidance](https://finance.yahoo.com/news/d-r-horton-shares-dip-111239686.html) (Published: 2025-10-28)
-- [Is IonQ or Nvidia the Better AI Computing Stock to Buy Now?](https://biztoc.com/x/5e4f47ef38064532) (Published: 2025-10-28)
-- [Nvidia Inches Lower. What Qualcomm’s AI Chip Entry Means for the Stock](https://biztoc.com/x/c509e32363fc1560) (Published: 2025-10-28)
