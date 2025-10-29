@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-29 13:10:34**_
+_Last updated: **2025-10-29 13:44:58**_
 
-- [lx-anonymizer 0.8.7](https://pypi.org/project/lx-anonymizer/) (Published: 2025-10-28)
-- [Transcript: Liz Ann Sonders, Chief Investment Strategist at Charles Schwab](https://ritholtz.com/2025/10/transcript-liz-ann-sonders-schwab/) (Published: 2025-10-28)
-- [Trade News Takes Markets To Record](https://www.forbes.com/sites/jjkinahan/2025/10/28/trade-news-takes-markets-to-record/) (Published: 2025-10-28)
-- [Electrified Flight, Expanded Regional Commuter Networks, AI Powered By Palantir: Surf Air Mobility's Vision For The Next Wave Of Transportation](https://biztoc.com/x/e0f8568551a3214b) (Published: 2025-10-28)
-- [nvfuser-cu128 0.2.34.dev20251028](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20251028/) (Published: 2025-10-28)
-- [nvfuser-cu126 0.2.34.dev20251028](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20251028/) (Published: 2025-10-28)
-- [nvfuser-cu130 0.2.34.dev20251028](https://pypi.org/project/nvfuser-cu130/0.2.34.dev20251028/) (Published: 2025-10-28)
-- [Terminator, Governor, and Now, Billionaire. A Friendship With Warren Buffet and 'Incredible Investments' Puts Arnold Schwarzenegger In Exclusive Club.](https://finance.yahoo.com/news/terminator-governor-now-billionaire-friendship-123108103.html) (Published: 2025-10-28)
-- [Here’s the 2025 Dell pre-Black Friday ad: Deals on gaming PCs, laptops, more from just $60 now live](http://9to5toys.com/2025/10/28/2025-dell-pre-black-friday-ad/) (Published: 2025-10-28)
+- [Apple hits $4trn amid market rally and hot iPhone 17 sales](https://qz.com/apple-hits-4-trillion-market-cap-amid-wall-street-rally-and-strong-early-iphone-17-sales) (Published: 2025-10-28)
+- [Apple's market cap touches $4 trillion on positive iPhone 17 sales momentum](https://finance.yahoo.com/news/apples-market-cap-touches-4-trillion-on-positive-iphone-17-sales-momentum-133959373.html) (Published: 2025-10-28)
+- [Apple's market cap hits $4 trillion on positive iPhone 17 sales momentum](https://finance.yahoo.com/news/apples-market-cap-hits-4-trillion-on-positive-iphone-17-sales-momentum-133959873.html) (Published: 2025-10-28)
+- [What is the Next NVIDIA (NVDA)? Brad Gerstner Answers](https://finance.yahoo.com/news/next-nvidia-nvda-brad-gerstner-133924443.html) (Published: 2025-10-28)
+- [Apple races past $4 trillion market value as latest models revitalize iPhone sales](https://economictimes.indiatimes.com/markets/stocks/news/apple-races-past-4-trillion-market-value-as-latest-models-revitalize-iphone-sales/articleshow/124875163.cms) (Published: 2025-10-28)
+- [Apple races past $4 trillion market value as latest models revitalize iPhone sales](https://finance.yahoo.com/news/apple-races-past-4-trillion-133246794.html) (Published: 2025-10-28)
+- [Nvidia investors look to D.C. ‘Super Bowl’ to juice sluggish stock](https://financialpost.com/technology/nvidia-investors-look-to-juice-stock) (Published: 2025-10-28)
+- [Corporate America is offering clues about how it sees its workforce meshing with AI](https://www.businessinsider.com/corporate-america-shares-clues-on-how-ai-will-impact-workforce-2025-10) (Published: 2025-10-28)
+- [Analyst Explains Why Micron Technology (MU) ‘One of the Cheapest’ AI Stocks](https://finance.yahoo.com/news/analyst-explains-why-micron-technology-132129837.html) (Published: 2025-10-28)
+- [Thiel-Backed Chip Startup Named Substrate Is Seeking to Crack ASML’s Dominance](https://financialpost.com/pmn/business-pmn/thiel-backed-chip-startup-named-substrate-is-seeking-to-crack-asmls-dominance) (Published: 2025-10-28)
