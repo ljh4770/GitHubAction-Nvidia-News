@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-29 15:45:59**_
+_Last updated: **2025-10-29 15:57:19**_
 
+- [Apple hits $4 trillion market cap, joins Nvidia and Microsoft to reach milestone](https://www.livemint.com/companies/news/apple-shares-rise-market-cap-cros-4-trillion-value-third-stock-history-nvidia-microsoft-milestone-iphone-17-demand-sale-11761666441773.html) (Published: 2025-10-28)
+- [Watch: Jensen Huang delivers keynote speech for Nvidia GTC](https://www.cnbc.com/2025/10/28/jensen-huang-speech-nvidia-gtc-ai.html) (Published: 2025-10-28)
+- [Nokia says Nvidia to invest $1 billion, take 2.9% stake](https://economictimes.indiatimes.com/tech/technology/nokia-says-nvidia-to-invest-1-billion-take-2-9-stake/articleshow/124877254.cms) (Published: 2025-10-28)
+- [Nvidia takes $1 billion stake in Nokia](https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html) (Published: 2025-10-28)
+- [Nvidia plans to invest $1B in Nokia for a 2.9% stake in the company, an apparent vindication of the Finnish company's pivot from mobile networking to AI](https://biztoc.com/x/cc539817afbb8ae9) (Published: 2025-10-28)
+- [OpenAI unrolls commerce deals with Microsoft, PayPal](https://www.upi.com/Top_News/US/2025/10/28/Microsoft-OpenAI-PayPal-artificial-intelligence-AI-commerce-economy/2491761660012/) (Published: 2025-10-28)
+- [Nokia jumps 21% to $7.64 after Nvidia takes 2.9% stake](https://thefly.com/permalinks/entry.php/id4222831/NOK;NVDA-Nokia-jumps--to--after-Nvidia-takes--stake) (Published: 2025-10-28)
+- [Grant Cardone Claims A $7 Trillion Opportunity That Can Lift Stocks, Crypto, And Real Estate To New Highs](https://finance.yahoo.com/news/grant-cardone-claims-7-trillion-154607569.html) (Published: 2025-10-28)
 - [John Carmack: DGX Spark Offers Half the Power, Performance Promised by Nvidia](https://uk.pcmag.com/ai/160962/john-carmack-dgx-spark-offers-half-the-power-performance-promised-by-nvidia) (Published: 2025-10-28)
 - [John Carmack: DGX Spark Offers Half the Power, Performance Promised by Nvidia](https://me.pcmag.com/en/ai/33148/john-carmack-dgx-spark-offers-half-the-power-performance-promised-by-nvidia) (Published: 2025-10-28)
-- [Nokia shares hit near 10-year high after Nvidia invests $1 billion in AI push](https://www.channelnewsasia.com/business/nokia-shares-hit-near-10-year-high-after-nvidia-invests-1-billion-in-ai-push-5430486) (Published: 2025-10-28)
-- [Nvidia to make $1 billion investment in Finland's Nokia](https://finance.yahoo.com/news/nvidia-1-billion-investment-finlands-154452903.html) (Published: 2025-10-28)
-- [Nvidia's $1 billion stake sends Nokia to decade-high on AI hopes](https://www.channelnewsasia.com/business/nvidias-1-billion-stake-sends-nokia-decade-high-ai-hopes-5430486) (Published: 2025-10-28)
-- [Nvidia's $1 billion stake buy sends Nokia shares to decade-high](https://www.channelnewsasia.com/business/nvidias-1-billion-stake-buy-sends-nokia-shares-decade-high-5430486) (Published: 2025-10-28)
-- [Arista, Ciena move lower after Nvidia takes stake in Nokia](https://thefly.com/permalinks/entry.php/id4222825/ANET;CIEN;NVDA;NOK-Arista-Ciena-move-lower-after-Nvidia-takes-stake-in-Nokia) (Published: 2025-10-28)
-- [Apple Passes $4 Trillion Market Value—Joining Microsoft And Nvidia](https://www.forbes.com/sites/tylerroush/2025/10/28/apple-passes-4-trillion-market-value-joining-microsoft-and-nvidia/) (Published: 2025-10-28)
-- [President Trump to Meet NVIDIA’s CEO Jensen Huang at a Time When the U.S. & China Have Agreed on the Framework for a Trade Deal](https://wccftech.com/president-trump-to-meet-nvidia-ceo-jensen-huang/) (Published: 2025-10-28)
-- [Saudi AI firm Humain eyes dual listing on Saudi, NASDAQ exchanges within four years](https://finance.yahoo.com/news/saudi-ai-firm-humain-eyes-153743129.html) (Published: 2025-10-28)
