@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-30 05:43:00**_
+_Last updated: **2025-10-30 05:53:38**_
 
 - [Asia Market Open: Crypto Rally Stalls as Bitcoin Sinks Below $113K Ahead of Fed Rate Call](https://cryptonews.com/news/asia-market-open-crypto-rally-stalls-as-bitcoin-sinks-below-113k-ahead-of-fed-rate-call/) (Published: 2025-10-29)
 - [NZ sharemarket edges higher as NZME lifts earnings guidance – Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-edges-higher-as-nzme-lifts-earnings-guidance-market-close/TKEBRIDSXFAYNGHGTX6LWGTUPQ/) (Published: 2025-10-29)
