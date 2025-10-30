@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-30 11:53:33**_
+_Last updated: **2025-10-30 12:32:27**_
 
-- [US government allowed and even helped US firms sell tech used for surveillance in China, AP finds](https://www.bostonherald.com/2025/10/29/us-role-china-surveillance-state/) (Published: 2025-10-29)
-- [Trump says he will discuss Nvidia Blackwell with China’s Xi](https://biztoc.com/x/22c38663e30a0533) (Published: 2025-10-29)
-- [PitchBook: Nvidia invested in 59 AI startups in 2025 so far, including 10 in the past two months, surpassing 55 investments in 2024 and 12 investments in 2022](https://biztoc.com/x/a3914f96f6750d32) (Published: 2025-10-29)
-- [Forbes Daily: OpenAI Creates $500 Billion For-Profit Arm](https://www.forbes.com/sites/daniellechemtob/2025/10/29/forbes-daily-openai-creates-500-billion-for-profit-arm/) (Published: 2025-10-29)
-- [How to choose the best Dell laptop for you: Alienware, Premium, Pro, Pro Max, and more](https://www.windowscentral.com/hardware/dell/how-to-choose-the-best-dell-laptop-for-you) (Published: 2025-10-29)
-- [NVIDIA Corporation Nears $5 Trillion Valuation As AI Hype Fuels US Equity Rally](https://www.ibtimes.com/nvidia-corporation-nears-5-trillion-valuation-ai-hype-fuels-us-equity-rally-3788821) (Published: 2025-10-29)
-- [Chipmaker Nvidia on track to become first $5 trillion company](https://economictimes.indiatimes.com/tech/technology/chipmaker-nvidia-on-track-to-become-first-5-trillion-company/articleshow/124899299.cms) (Published: 2025-10-29)
-- [Chipmaker Nvidia on track to become first $5 trillion company](https://finance.yahoo.com/news/chipmaker-nvidia-track-become-first-113902066.html) (Published: 2025-10-29)
-- [Chipmaker Nvidia on track to become first $5 trillion company](https://finance.yahoo.com/news/chipmaker-nvidia-track-become-first-113902699.html) (Published: 2025-10-29)
+- [Sovereignty for sale](https://mondediplo.com/2025/11/03tech) (Published: 2025-10-29)
+- [Uber plans to offer autonomous taxi rides in San Francisco starting next year](https://abcnews.go.com/Business/wireStory/uber-plans-offer-autonomous-taxi-rides-san-francisco-126972005) (Published: 2025-10-29)
+- [Stellantis teams up with NVIDIA and Uber to beat Tesla at driverless taxi game](https://www.autoexpress.co.uk/news/368184/stellantis-teams-nvidia-and-uber-beat-tesla-driverless-taxi-game) (Published: 2025-10-29)
+- [Top Funds Keep Loving This AI Stock Alongside Palantir, Nvidia](https://biztoc.com/x/c14a8dd0538db12f) (Published: 2025-10-29)
+- [Nvidia Reaches ‘Unimaginable’ $5 Trillion Valuation](https://www.pymnts.com/artificial-intelligence-2/2025/nvidia-reaches-unimaginable-5-trillion-valuation/) (Published: 2025-10-29)
+- [Nvidia on Pace to Hit ‘Unimaginable’ $5 Trillion Valuation](https://www.pymnts.com/artificial-intelligence-2/2025/nvidia-on-pace-to-hit-unimaginable-5-trillion-valuation/) (Published: 2025-10-29)
+- [Nvidia crosses $5 trillion market cap in premarket session, as BATMMAAN stocks dominate the market](https://biztoc.com/x/19ae5d8eeb33908d) (Published: 2025-10-29)
+- [Nvidia nears $5 trillion in valuation on AI boom](https://www.rte.ie/news/business/2025/1029/1541121-nvidia-nears-5-trillion-in-valuation-on-ai-boom/) (Published: 2025-10-29)
+- [5 Things to Know Before the Stock Market Opens](https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-october-29-2025-11839117) (Published: 2025-10-29)
+- [Nvidia's day of deals, the Fed decision, Boeing earnings and more in Morning Squawk](https://www.cnbc.com/2025/10/29/5-things-to-know-before-the-stock-market-opens.html) (Published: 2025-10-29)
