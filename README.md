@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-30 08:35:00**_
+_Last updated: **2025-10-30 08:52:17**_
 
 - [Nvidia nears historic $5 trillion valuation in fresh AI-fueled rally](https://economictimes.indiatimes.com/tech/technology/nvidia-nears-historic-5-trillion-valuation-in-fresh-ai-fueled-rally/articleshow/124894741.cms) (Published: 2025-10-29)
 - [Nvidia CEO Jensen Huang starts a key trip to South Korea — here's what he might be up to](https://biztoc.com/x/dbb0c5dc5f8ea69c) (Published: 2025-10-29)
