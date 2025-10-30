@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-30 09:14:12**_
+_Last updated: **2025-10-30 09:34:51**_
 
+- [Nvidia CEO ‘proud and delighted’ to support Trump ballroom](https://biztoc.com/x/05d5a3785015461e) (Published: 2025-10-29)
+- [Saudi Arabia’s HUMAIN sharpens AI playbook](https://www.semafor.com/article/10/29/2025/saudi-arabias-humain-sharpens-ai-playbook) (Published: 2025-10-29)
+- [Nvidia Set to Become First $5 Trillion Firm as AI Rally Extends](https://biztoc.com/x/0248843d19071aab) (Published: 2025-10-29)
+- [CAPE Valuations: Does Nvidia Overstate Its Ominous Warning?](https://realinvestmentadvice.com/resources/blog/cape-valuation-does-nvidia-overstate-its-ominous-warning/) (Published: 2025-10-29)
+- [Exclusive-Saudi Arabia plans to refocus $925 billion fund after gigaproject delays, source says](https://biztoc.com/x/5297e61d81f415e3) (Published: 2025-10-29)
+- [These Stocks Are Moving the Most Today: Nvidia, Microsoft, Alphabet, Meta, Bloom Energy, Enphase, Teradyne, and More](https://biztoc.com/x/d22a79292fc5f9f2) (Published: 2025-10-29)
+- [Nikkei crosses 51,000 for first time on tech optimism](https://www.rte.ie/news/business/2025/1029/1541086-nikkei-crosses-51-000-for-first-time-on-tech-optimism/) (Published: 2025-10-29)
+- [NVIDIA secures exclusive access to TSMC’s A16 process, Apple surprisingly absent](http://technode.com/2025/10/29/nvidia-secures-exclusive-access-to-tsmcs-a16-process-apple-surprisingly-absent/) (Published: 2025-10-29)
+- [Trump says he may speak to China's Xi about Nvidia's 'super-duper' Blackwell chip](https://www.channelnewsasia.com/world/trump-xi-nvidia-superduper-blackwell-chip-5432276) (Published: 2025-10-29)
 - [Nvidia shares pop 3% in premarket as tech giant nears historic $5 trillion valuation](https://biztoc.com/x/3112c07851c75b05) (Published: 2025-10-29)
-- [Nvidia price target raised by $40 at BofA, here's why](https://thefly.com/permalinks/entry.php/id4223262/NVDA-Nvidia-price-target-raised-by--at-BofA-heres-why) (Published: 2025-10-29)
-- [Nvidia price target raised by $40 at DA Davidson, here's why](https://thefly.com/permalinks/entry.php/id4223257/NVDA-Nvidia-price-target-raised-by--at-DA-Davidson-heres-why) (Published: 2025-10-29)
-- [Nvidia shares pop 3% in premarket as tech giant nears historic $5 trillion valuation](https://www.cnbc.com/2025/10/29/nvidia-on-track-to-hit-historic-5-trillion-valuation-amid-ai-rally.html) (Published: 2025-10-29)
-- [Trump's team touts 'deal framework' with China. It's unclear what China will demand in return.](https://finance.yahoo.com/news/trumps-team-touts-deal-framework-with-china-its-unclear-what-china-will-demand-in-return-090012132.html) (Published: 2025-10-29)
-- [CMR Surgical Adopts NVIDIA IGX THOR for AI-Powered, Next Generation Surgical Robotics](https://www.globenewswire.com/news-release/2025/10/29/3176164/0/en/CMR-Surgical-Adopts-NVIDIA-IGX-THOR-for-AI-Powered-Next-Generation-Surgical-Robotics.html) (Published: 2025-10-29)
-- [Nvidia nears historic $5 trillion valuation in fresh AI-fueled rally](https://economictimes.indiatimes.com/tech/technology/nvidia-nears-historic-5-trillion-valuation-in-fresh-ai-fueled-rally/articleshow/124894741.cms) (Published: 2025-10-29)
-- [Nvidia CEO Jensen Huang starts a key trip to South Korea — here's what he might be up to](https://biztoc.com/x/dbb0c5dc5f8ea69c) (Published: 2025-10-29)
-- [Nvidia bets on AI-native 5G, 6G with $1bn stake in Nokia](https://biztoc.com/x/36f638d5be33f2af) (Published: 2025-10-29)
-- [Nvidia CEO Jensen Huang starts a key trip to South Korea — here's what he might be up to](https://www.cnbc.com/2025/10/29/nvidia-ceo-jensen-huang-south-korea-trip-what-to-expect.html) (Published: 2025-10-29)
