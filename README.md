@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-30 05:27:18**_
+_Last updated: **2025-10-30 05:43:00**_
 
+- [Asia Market Open: Crypto Rally Stalls as Bitcoin Sinks Below $113K Ahead of Fed Rate Call](https://cryptonews.com/news/asia-market-open-crypto-rally-stalls-as-bitcoin-sinks-below-113k-ahead-of-fed-rate-call/) (Published: 2025-10-29)
 - [NZ sharemarket edges higher as NZME lifts earnings guidance – Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-edges-higher-as-nzme-lifts-earnings-guidance-market-close/TKEBRIDSXFAYNGHGTX6LWGTUPQ/) (Published: 2025-10-29)
 - [Trump says may speak to China's Xi about Nvidia's 'super-duper' Blackwell chip](https://economictimes.indiatimes.com/tech/technology/trump-says-may-speak-to-chinas-xi-about-nvidias-super-duper-blackwell-chip/articleshow/124889766.cms) (Published: 2025-10-29)
 - [Palantir announces a partnership to use Nvidia's chips and software to help its customers speed up decision-making in complex fields such as logistics](https://biztoc.com/x/053fbe7a870b78a5) (Published: 2025-10-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-30 05:27:18**_
 - [Taiwan third-quarter economic growth likely slowed on tariff impact: Reuters poll](https://www.channelnewsasia.com/business/taiwan-third-quarter-economic-growth-likely-slowed-tariff-impact-reuters-poll-5431911) (Published: 2025-10-29)
 - [NVIDIA と Nokia 、6G 向けの AI プラットフォームを先駆的に開発し、通信分野における米国のリーダーシップ復帰を推進](https://prtimes.jp/main/html/rd/p/000000566.000012662.html) (Published: 2025-10-29)
 - [Nvidia–Nokia partnership marks new phase in global tech collaboration](https://m.economictimes.com/markets/stocks/news/nvidianokia-partnership-marks-new-phase-in-global-tech-collaboration/nvidia-buys-2-9-stake-in-nokia-for-1-billion/slideshow/124889180.cms) (Published: 2025-10-29)
-- [Battlefield Launches RedSec Free-to-Play Battle Royale Spin-Off With up to 100-Player Matches](https://www.techpowerup.com/342341/battlefield-launches-redsec-free-to-play-battle-royale-spin-off-with-up-to-100-player-matches) (Published: 2025-10-29)
