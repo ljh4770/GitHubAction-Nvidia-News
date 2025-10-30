@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-30 07:49:25**_
+_Last updated: **2025-10-30 07:59:38**_
 
+- [Trump says he may speak to China's Xi about Nvidia's 'super-duper' Blackwell chip](https://www.thehindubusinessline.com/info-tech/trump-says-he-may-speak-to-chinas-xi-about-nvidias-super-duper-blackwell-chip/article70215966.ece) (Published: 2025-10-29)
 - [Outokumpu misses earnings forecast, to invest $45 million in pilot plant in US](https://biztoc.com/x/34526b99f3e605af) (Published: 2025-10-29)
 - [Peter Thiel-Backed Startup Secures $100 Million to Make Chips in U.S](https://biztoc.com/x/d1a22ed5b0e5befb) (Published: 2025-10-29)
 - [Santander UK withholds third-quarter results amid motor finance scrutiny](https://biztoc.com/x/26bd761767d80ad2) (Published: 2025-10-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-10-30 07:49:25**_
 - [Ford recalls nearly 175,000 vehicles in US for moonroof defect, NHTSA says](https://biztoc.com/x/9986419364e67691) (Published: 2025-10-29)
 - [Looking to Lower Your Tax Bill? Consider This Options Strategy](https://biztoc.com/x/92e9f2aedf498e07) (Published: 2025-10-29)
 - [Trump says he may speak to China's Xi about Nvidia's 'super-duper' Blackwell chip](https://www.yahoo.com/news/articles/trump-says-may-speak-chinas-073432698.html) (Published: 2025-10-29)
-- [CNBC Daily Open: Rallies and tech 'revolution' — all powered by AI](https://www.cnbc.com/2025/10/29/cnbc-daily-open-rallies-and-tech-revolution-all-powered-by-ai.html) (Published: 2025-10-29)
