@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-30 06:49:00**_
+_Last updated: **2025-10-30 06:59:25**_
 
+- [Big Layoffs Look Scary. Why The Job Market Is Still Holding Up](https://biztoc.com/x/8dfb560268a0227f) (Published: 2025-10-29)
+- [Indian Oil to team up with Vitol in global trading push, source says](https://biztoc.com/x/5d1d56305b59b126) (Published: 2025-10-29)
 - [Trump Touts Lowering Fentanyl Tariff Ahead of Xi Meeting](https://biztoc.com/x/c990f8ebc3123638) (Published: 2025-10-29)
 - [Adidas brand's North American sales up 8% in Q3](https://biztoc.com/x/1dd290115fc9c9f5) (Published: 2025-10-29)
 - [Here's What to Expect From News Corp.'s Next Earnings Report](https://biztoc.com/x/18bcf605632ee3f6) (Published: 2025-10-29)
@@ -9,5 +11,3 @@ _Last updated: **2025-10-30 06:49:00**_
 - [Supermicro Expands NVIDIA Collaboration, Focuses on U.S.-Made AI Systems for Government Use](https://www.madshrimps.be/news/supermicro-expands-nvidia-collaboration-focuses-on-u-s-made-ai-systems-for-government-use/) (Published: 2025-10-29)
 - [NVIDIA’s next move in autonomous driving is a partnership with Uber, Stellantis, Lucid and Mercedes-Benz](https://www.madshrimps.be/news/nvidias-next-move-in-autonomous-driving-is-a-partnership-with-uber-stellantis-lucid-and-mercedes-benz/) (Published: 2025-10-29)
 - [Giga Computing Showcases Scalable Next-Gen AI and Visualization Solutions at NVIDIA GTC DC 2025](https://www.madshrimps.be/news/giga-computing-showcases-scalable-next-gen-ai-and-visualization-solutions-at-nvidia-gtc-dc-2025/) (Published: 2025-10-29)
-- [ASUS IoT Announces PE3000N Based On NVIDIA Jetson Thor](https://www.madshrimps.be/news/asus-iot-announces-pe3000n-based-on-nvidia-jetson-thor/) (Published: 2025-10-29)
-- [NVIDIA IGX Thor Robotics Processor Brings Real-Time Physical AI to the Industrial and Medical Edge](https://www.madshrimps.be/news/nvidia-igx-thor-robotics-processor-brings-real-time-physical-ai-to-the-industrial-and-medical-edge/) (Published: 2025-10-29)
