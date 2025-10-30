@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-30 04:10:52**_
+_Last updated: **2025-10-30 04:35:08**_
 
+- [Nvidia–Nokia partnership marks new phase in global tech collaboration](https://m.economictimes.com/markets/stocks/news/nvidianokia-partnership-marks-new-phase-in-global-tech-collaboration/nvidia-buys-2-9-stake-in-nokia-for-1-billion/slideshow/124889180.cms) (Published: 2025-10-29)
+- [Battlefield Launches RedSec Free-to-Play Battle Royale Spin-Off With up to 100-Player Matches](https://www.techpowerup.com/342341/battlefield-launches-redsec-free-to-play-battle-royale-spin-off-with-up-to-100-player-matches) (Published: 2025-10-29)
+- [2025 HP Omen 17 with AMD Zen 5 runs cooler and quieter than the average gaming laptop](https://www.notebookcheck.net/2025-HP-Omen-17-with-AMD-Zen-5-runs-cooler-and-quieter-than-the-average-gaming-laptop.1148274.0.html) (Published: 2025-10-29)
+- [New iPhone lineup revives Apple’s growth story across key markets](https://m.economictimes.com/markets/stocks/news/new-iphone-lineup-revives-apples-growth-story-across-key-markets/apple-hits-4-trillion-milestone/slideshow/124888606.cms) (Published: 2025-10-29)
 - [Nvidia GTC DC: The rise of AI factories and a push for US leadership](https://siliconangle.com/2025/10/29/nvidia-gtc-dc-rise-ai-factories-push-us-leadership/) (Published: 2025-10-29)
 - [Bloom Energy offers 800V DC power solutions for AI data centers](https://www.digitimes.com/news/a20251028PD211/data-data-center-nvidia-fuel-efficiency.html) (Published: 2025-10-29)
 - [Commentary: With new AI chips, Qualcomm joins race to challenge Nvidia in the cloud](https://www.digitimes.com/news/a20251029PD200/qualcomm-chips-accelerator-nvidia-market.html) (Published: 2025-10-29)
 - [Asia stocks join Wall Street records as tech bull run quickens](https://www.channelnewsasia.com/asia/asia-stocks-join-wall-street-records-tech-bull-run-quickens-5431736) (Published: 2025-10-29)
 - [South Korea Plans to Gift Trump Replica Gold Crown During Visit](https://biztoc.com/x/82edc1efb160b69e) (Published: 2025-10-29)
 - [Foxconn says it plans to deploy Nvidia's Isaac GR00T N model of humanoid robots at its factory in Houston, Texas, which produces AI servers for Nvidia](https://biztoc.com/x/1a8460cd2ff03a32) (Published: 2025-10-29)
-- [Rivian CFO Says EV Maker Won’t Tap US Government Loan Until 2028](https://biztoc.com/x/82b1bfa86add0d5e) (Published: 2025-10-29)
-- [Trump Says He’s Happy With Tariff Truce Extension With Mexico](https://biztoc.com/x/39907308d67b421d) (Published: 2025-10-29)
-- [India conducts cloud-seeding trial to clear New Delhi's smog](https://biztoc.com/x/9c1cbdb924407a47) (Published: 2025-10-29)
-- [AI server liquid cooling demand surges, heat dissipation firms race to expand capacity](https://www.digitimes.com/news/a20251028PD234/liquid-cooling-nvidia-capacity-demand-rubin.html) (Published: 2025-10-29)
