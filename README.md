@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-31 23:23:59**_
+_Last updated: **2025-10-31 23:34:44**_
 
+- [Japan Awaits Two-Year Bond Auction After BOJ’s Cautious Tone](https://biztoc.com/x/2f3bf2b185e46454) (Published: 2025-10-30)
+- [Trump sets 7,500 annual limit for refugees entering US. It'll be mostly white South Africans](https://biztoc.com/x/3edc421ac98c94bb) (Published: 2025-10-30)
+- [Post-Quantum Cryptography Market Surges to $2.84 billion by 2030 - Dominated by NXP Semiconductor (Netherlands), Patero (US), Thales (France)](https://www.globenewswire.com/news-release/2025/10/30/3178045/0/en/Post-Quantum-Cryptography-Market-Surges-to-2-84-billion-by-2030-Dominated-by-NXP-Semiconductor-Netherlands-Patero-US-Thales-France.html) (Published: 2025-10-30)
+- [세부 사항 부족과 미중 합의 확실성](https://ryueyes11.tistory.com/511955) (Published: 2025-10-30)
 - [Western Digital Surges in After Hours on Strong FY26 Q1 Earnings](https://biztoc.com/x/d482fbbfc1caa3f4) (Published: 2025-10-30)
 - [Accelerates Revenue Growth as Losses Vanish](https://biztoc.com/x/67794eaac8511135) (Published: 2025-10-30)
 - [Beats Estimates Again Despite Sky-High Expectations](https://biztoc.com/x/614e8b603ab8db8a) (Published: 2025-10-30)
 - [Monolithic Power Systems (MPWR) Dips 3% After Earnings After Massive Run](https://biztoc.com/x/70c8af01def4a0df) (Published: 2025-10-30)
 - [AI Frenzy Fueling Tech Dominance Rewrites Asia’s Market Playbook](https://biztoc.com/x/19fb50d56bbadd45) (Published: 2025-10-30)
 - [MSI GeForce RTX 5070 12G 2X OC 12GB GDDR7 Graphics Card (VENTUS or SHADOW) $450 + Free Shipping](https://slickdeals.net/f/18749896-msi-geforce-rtx-5070-12g-2x-oc-12gb-gddr7-graphics-card-ventus-or-shadow-450-free-shipping) (Published: 2025-10-30)
-- [Stock market today: S&P 500, Nasdaq rebound as Amazon earnings revive faith in Big Tech](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rebound-as-amazon-earnings-revive-faith-in-big-tech-232027753.html) (Published: 2025-10-30)
-- [Best Graphics Settings For Arc Raiders On PC](https://www.gamespot.com/articles/best-graphics-settings-for-arc-raiders-on-pc/1100-6535840/) (Published: 2025-10-30)
-- [Stryker raises lower end of annual profit forecast](https://biztoc.com/x/41ed2fce7345a5fd) (Published: 2025-10-30)
-- [King Charles III strips Prince Andrew of titles and evicts him from royal residence](https://biztoc.com/x/7039413f723336e5) (Published: 2025-10-30)
