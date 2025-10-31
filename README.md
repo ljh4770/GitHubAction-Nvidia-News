@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-31 13:50:49**_
+_Last updated: **2025-10-31 14:09:58**_
 
-- [NVIDIA, Oracle Partner to Power Global Sovereign AI, Government Digital Transformation](https://biztoc.com/x/5cd8baa46c502eca) (Published: 2025-10-30)
-- [Cigna Plunges on Expected Pressure in Pharmacy Benefit Segment](https://biztoc.com/x/b62b22164ac8440c) (Published: 2025-10-30)
-- [5 Top Artificial Intelligence Stocks to Buy Right Now](https://biztoc.com/x/fa52db8beb23d5af) (Published: 2025-10-30)
-- [ECB Holds Rates With Inflation Near 2% and Economy Expanding](https://biztoc.com/x/dacfed5595271593) (Published: 2025-10-30)
-- [SPACs Are Booming Again. Here’s How They Work](https://biztoc.com/x/4172e27aab5add24) (Published: 2025-10-30)
-- [Oil Prices Underestimate Russia Sanctions Impact, Total CEO Says](https://biztoc.com/x/fb39e95f9e752dc1) (Published: 2025-10-30)
-- [Hurricane Melissa Approaches Bermuda After Leaving Deadly Trail](https://biztoc.com/x/d73f529f7b370991) (Published: 2025-10-30)
-- [Nexperia’s Chinese Owner Demands Reinstatement of Ousted CEO](https://biztoc.com/x/a3be280982ccf426) (Published: 2025-10-30)
-- [German Inflation Slows, Backing Case for ECB to Maintain Rates](https://biztoc.com/x/002ed2eda97d60a1) (Published: 2025-10-30)
-- [A detail in this photo of Jensen Huang having fried chicken with the heads of Samsung and Hyundai shows the extent of his tech celebrity](https://www.businessinsider.com/photo-jensen-huang-nvidia-fried-chicken-samsung-hyundai-crowd-fame-2025-10) (Published: 2025-10-30)
+- [Chinese airlines return to profit on summer surge, but challenges persist](https://biztoc.com/x/62a7cfdcc5c051a1) (Published: 2025-10-30)
+- [US mineral stocks soar on lack of full rollback of China’s rare earth export curbs](https://biztoc.com/x/88a7924cb1c89beb) (Published: 2025-10-30)
+- [Japan finance minister distances herself from past yen comments](https://biztoc.com/x/899b418bbdf5542d) (Published: 2025-10-30)
+- [Meta stock is collapsing: Why is Meta crashing after reporting earnings — is the bubble finally bursting?](https://economictimes.indiatimes.com/news/international/us/meta-stock-today-is-collapsing-why-is-meta-crashing-after-reporting-earnings-is-the-bubble-finally-bursting/articleshow/124955628.cms) (Published: 2025-10-30)
+- [Meta Shares Drop 12% After Trump’s Megabill Casts $16 Billion Tax Charge](https://www.forbes.com/sites/tylerroush/2025/10/30/meta-shares-drop-12-after-trumps-megabill-casts-16-billion-tax-charge/) (Published: 2025-10-30)
+- [Snag it quick! This Lenovo RTX 5050 laptop is only $800 today](https://www.pcworld.com/article/2957095/snag-it-quick-this-lenovo-rtx-5050-laptop-is-only-800-today.html) (Published: 2025-10-30)
+- [Don’t hang it up yet: 3 key reasons to delay your 2026 retirement](https://economictimes.indiatimes.com/news/international/us/dont-hang-it-up-yet-3-key-reasons-to-delay-your-2026-retirement/articleshow/124954609.cms) (Published: 2025-10-30)
+- [Inside the Architectures Powering Modern AI Systems: QCon San Francisco 2025](https://www.infoq.com/news/2025/10/qcon-sf-2025-sessions/) (Published: 2025-10-30)
+- [Nvidia Effect: Key Suppliers Have Already Sold Out AI Memory Chips For 2025](https://biztoc.com/x/69c3ebdb46ba747e) (Published: 2025-10-30)
