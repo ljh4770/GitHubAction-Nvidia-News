@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-31 14:09:58**_
+_Last updated: **2025-10-31 14:34:55**_
 
-- [Chinese airlines return to profit on summer surge, but challenges persist](https://biztoc.com/x/62a7cfdcc5c051a1) (Published: 2025-10-30)
-- [US mineral stocks soar on lack of full rollback of China’s rare earth export curbs](https://biztoc.com/x/88a7924cb1c89beb) (Published: 2025-10-30)
-- [Japan finance minister distances herself from past yen comments](https://biztoc.com/x/899b418bbdf5542d) (Published: 2025-10-30)
-- [Meta stock is collapsing: Why is Meta crashing after reporting earnings — is the bubble finally bursting?](https://economictimes.indiatimes.com/news/international/us/meta-stock-today-is-collapsing-why-is-meta-crashing-after-reporting-earnings-is-the-bubble-finally-bursting/articleshow/124955628.cms) (Published: 2025-10-30)
-- [Meta Shares Drop 12% After Trump’s Megabill Casts $16 Billion Tax Charge](https://www.forbes.com/sites/tylerroush/2025/10/30/meta-shares-drop-12-after-trumps-megabill-casts-16-billion-tax-charge/) (Published: 2025-10-30)
-- [Snag it quick! This Lenovo RTX 5050 laptop is only $800 today](https://www.pcworld.com/article/2957095/snag-it-quick-this-lenovo-rtx-5050-laptop-is-only-800-today.html) (Published: 2025-10-30)
-- [Don’t hang it up yet: 3 key reasons to delay your 2026 retirement](https://economictimes.indiatimes.com/news/international/us/dont-hang-it-up-yet-3-key-reasons-to-delay-your-2026-retirement/articleshow/124954609.cms) (Published: 2025-10-30)
-- [Inside the Architectures Powering Modern AI Systems: QCon San Francisco 2025](https://www.infoq.com/news/2025/10/qcon-sf-2025-sessions/) (Published: 2025-10-30)
-- [Nvidia Effect: Key Suppliers Have Already Sold Out AI Memory Chips For 2025](https://biztoc.com/x/69c3ebdb46ba747e) (Published: 2025-10-30)
+- [Roblox Quarterly Loss Widens, but Bookings Surge; Lifts Revenue Forecast](https://biztoc.com/x/2695a6b6649ac821) (Published: 2025-10-30)
+- [Oil Futures Give Back Gains After U.S.-China Deal](https://biztoc.com/x/e159d822c36e1fd3) (Published: 2025-10-30)
+- [Core Scientific Investors Spurn CoreWeave Takeover Bid in Vote](https://biztoc.com/x/972a5296d165e5b4) (Published: 2025-10-30)
+- [Morgan Stanley Leads as Banks Buy Startups and Each Other](https://biztoc.com/x/415907a4f3d5122c) (Published: 2025-10-30)
+- [Flutterwave Plans Pan-African Crossborder Payments in Stablecoin](https://biztoc.com/x/3b9314c99c315ea6) (Published: 2025-10-30)
+- [Convertible Bond Boom Delivers Hedge Fund LMR’s Traders 30% Gain](https://biztoc.com/x/d0edf4b53816d13f) (Published: 2025-10-30)
+- [US Stocks Drop as Tech Capex Stokes Concern, Fed Stays Cautious](https://biztoc.com/x/d51a4ebc4a2f1d64) (Published: 2025-10-30)
+- [Adler Pelzer’s Bondholders Sign NDAs as Debt Talks Step Up](https://biztoc.com/x/70df08d1910e1a3c) (Published: 2025-10-30)
+- [Google partners with Reliance to offer free AI Pro access to Jio 5G users in India for 18 months; Perplexity has a similar deal with Bharti Airtel](https://biztoc.com/x/c496620bd2e99426) (Published: 2025-10-30)
+- [Treasury Yields, Dollar Rise as Markets Digest Powell's Hawkishness](https://biztoc.com/x/3db512c5a3cfe565) (Published: 2025-10-30)
