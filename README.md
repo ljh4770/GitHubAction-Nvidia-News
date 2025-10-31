@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-31 23:34:44**_
+_Last updated: **2025-10-31 23:45:23**_
 
+- [PayPal Is Paying Its First-Ever Dividend. Should You Snap Up PYPL Stock Now?](https://biztoc.com/x/c80c5a3346c8ad4c) (Published: 2025-10-30)
+- [Apple isn't playing the same AI capex game as the rest of the megacaps](https://www.cnbc.com/2025/10/30/apple-isnt-playing-the-same-ai-capex-game-as-the-rest-of-the-megacaps.html) (Published: 2025-10-30)
+- [Bank of America revamps Nvidia stock price after meeting with CFO](https://www.thestreet.com/investing/stocks/bank-of-america-revamps-nvidia-stock-price-after-meeting-with-cfo) (Published: 2025-10-30)
 - [Japan Awaits Two-Year Bond Auction After BOJ’s Cautious Tone](https://biztoc.com/x/2f3bf2b185e46454) (Published: 2025-10-30)
 - [Trump sets 7,500 annual limit for refugees entering US. It'll be mostly white South Africans](https://biztoc.com/x/3edc421ac98c94bb) (Published: 2025-10-30)
 - [Post-Quantum Cryptography Market Surges to $2.84 billion by 2030 - Dominated by NXP Semiconductor (Netherlands), Patero (US), Thales (France)](https://www.globenewswire.com/news-release/2025/10/30/3178045/0/en/Post-Quantum-Cryptography-Market-Surges-to-2-84-billion-by-2030-Dominated-by-NXP-Semiconductor-Netherlands-Patero-US-Thales-France.html) (Published: 2025-10-30)
@@ -8,6 +11,3 @@ _Last updated: **2025-10-31 23:34:44**_
 - [Western Digital Surges in After Hours on Strong FY26 Q1 Earnings](https://biztoc.com/x/d482fbbfc1caa3f4) (Published: 2025-10-30)
 - [Accelerates Revenue Growth as Losses Vanish](https://biztoc.com/x/67794eaac8511135) (Published: 2025-10-30)
 - [Beats Estimates Again Despite Sky-High Expectations](https://biztoc.com/x/614e8b603ab8db8a) (Published: 2025-10-30)
-- [Monolithic Power Systems (MPWR) Dips 3% After Earnings After Massive Run](https://biztoc.com/x/70c8af01def4a0df) (Published: 2025-10-30)
-- [AI Frenzy Fueling Tech Dominance Rewrites Asia’s Market Playbook](https://biztoc.com/x/19fb50d56bbadd45) (Published: 2025-10-30)
-- [MSI GeForce RTX 5070 12G 2X OC 12GB GDDR7 Graphics Card (VENTUS or SHADOW) $450 + Free Shipping](https://slickdeals.net/f/18749896-msi-geforce-rtx-5070-12g-2x-oc-12gb-gddr7-graphics-card-ventus-or-shadow-450-free-shipping) (Published: 2025-10-30)
