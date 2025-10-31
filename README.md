@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-31 18:38:11**_
+_Last updated: **2025-10-31 18:53:55**_
 
-- [TCL 25G64: 25-inch mini-LED monitor with 300Hz is very affordable](https://www.notebookcheck.net/TCL-25G64-25-inch-mini-LED-monitor-with-300Hz-is-very-affordable.1151345.0.html) (Published: 2025-10-30)
-- [megatron-fsdp 0.2.0.dev114399](https://pypi.org/project/megatron-fsdp/0.2.0.dev114399/) (Published: 2025-10-30)
-- [Trump boasts after ‘amazing’ meeting with Xi, but China suggests trade deal isn’t done](https://fortune.com/2025/10/30/trump-meeting-with-xi-but-china-suggests-trade-deal-isnt-done/) (Published: 2025-10-30)
-- [Brazil's Petrobras studying logistics base in Amapa, says state's governor](https://biztoc.com/x/c7fa9bd4cd588433) (Published: 2025-10-30)
-- [Canadian dollar weakens as Fed re-pricing runs its course](https://biztoc.com/x/cc1f0405cc6037b6) (Published: 2025-10-30)
-- [Bullish options plays set to boost S&P 500 gyrations around 7,000 level](https://biztoc.com/x/9c73a739863e5371) (Published: 2025-10-30)
-- [General Atlantic Leads $2 Billion Shutterfly Private Credit Deal](https://biztoc.com/x/69db97d35effd12c) (Published: 2025-10-30)
-- [Britain's Wood Group posts profit drop amid audit delays](https://biztoc.com/x/04beefbed8caa9b8) (Published: 2025-10-30)
-- [Chipotle Stock Is Plunging. Should You Buy the Dip Today?](https://biztoc.com/x/84e8bdb51388347f) (Published: 2025-10-30)
-- [SK hynix sells out its DRAM, NAND, and HBM chip supply to Nvidia through 2026 as AI demand outpaces Samsung and Micron's capacity](https://www.notebookcheck.net/SK-hynix-sells-out-its-DRAM-NAND-and-HBM-chip-supply-to-Nvidia-through-2026-as-AI-demand-outpaces-Samsung-and-Micron-s-capacity.1151402.0.html) (Published: 2025-10-30)
+- [Cramer upgrades Microsoft; says Starbucks CEO tells him what he has been waiting to hear - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=179917188) (Published: 2025-10-30)
+- [2 Defensive ETFs Beating the VTI This Year](https://biztoc.com/x/15a1f6e34846f88e) (Published: 2025-10-30)
+- [Live: NVIDIA Down 1.5% Thursday Despite Good News from Meta Platforms, Microsoft](https://biztoc.com/x/ec30fb62653b7dca) (Published: 2025-10-30)
+- [The ICC plans to switch from Microsoft Office to Open Desk, a European open source alternative, amid concerns about public bodies' reliance on US tech companies](https://biztoc.com/x/695cf55b075df2fc) (Published: 2025-10-30)
+- [When Will Congress Finally Admit Obamacare Failed?](https://biztoc.com/x/bab53201a0549380) (Published: 2025-10-30)
+- [Bitcoin Plunges Below Critical 200-Day Average as Dollar Surges to 3-Month High](https://biztoc.com/x/5dc72d50abe3c2e5) (Published: 2025-10-30)
+- [Chinese Stocks Have Rallied. Why They’re Not Done Yet](https://biztoc.com/x/a614957dadb7eaba) (Published: 2025-10-30)
+- [Small Businesses: Trump's Tariffs Are Worse Than COVID](https://biztoc.com/x/5a56864520292c76) (Published: 2025-10-30)
+- [Decentralized crypto exchange dYdX plans for US market entry by year-end](https://biztoc.com/x/6cf8c52ba7673ed9) (Published: 2025-10-30)
