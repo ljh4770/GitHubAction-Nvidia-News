@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 01:46:25**_
+_Last updated: **2025-11-01 03:03:11**_
 
-- [MEG Energy adjourns shareholder vote on Cenovus offer citing regulatory inquiry](https://biztoc.com/x/9bff131cc1fda2af) (Published: 2025-10-31)
-- [Apple delivers strong quarter despite trade war challenges and ongoing artificial technology issues](https://economictimes.indiatimes.com/markets/stocks/earnings/apple-delivers-strong-quarter-despite-trade-war-challenges-and-ongoing-artificial-technology-issues/articleshow/124979671.cms) (Published: 2025-10-31)
-- [Trump says Nvidia chip talks with Xi didn’t cover Blackwell](https://www.japantimes.co.jp/business/2025/10/31/tech/trump-xi-nvidia-blackwell-chip/) (Published: 2025-10-31)
-- [Japan finance minister warns against forex volatility after yen plunge](https://biztoc.com/x/f60c5dc776131f80) (Published: 2025-10-31)
-- [Amazon Shares Surge on 13% Revenue Jump, Strong Cloud Sales](https://biztoc.com/x/3e0d87561a701ab0) (Published: 2025-10-31)
-- [Do Wall Street Analysts Like RTX Corporation Stock?](https://biztoc.com/x/e6ee9f13c619e7d9) (Published: 2025-10-31)
-- [CNBC Daily Open: Trick or treat for markets this Halloween?](https://www.cnbc.com/2025/10/31/cnbc-daily-open-trick-or-treat-for-markets-this-halloween.html) (Published: 2025-10-31)
-- [Dollar at three-month high as markets puzzle over outlook](https://biztoc.com/x/2c5471f73c7e4975) (Published: 2025-10-31)
-- [Apple’s iPhone revenue misses expectations, but Tim Cook promises an immediate turnaround](https://siliconangle.com/2025/10/30/apples-iphone-revenue-misses-expectations-tim-cook-promises-immediate-turnaround/) (Published: 2025-10-31)
+- [Xi Calls for Stable Supply Chains After Sealing Truce With Trump](https://biztoc.com/x/dc1e47634986f117) (Published: 2025-10-31)
+- [Nvidia CEO Huang’s Outing Heats Up Korea’s Fried Chicken Stocks](https://biztoc.com/x/c86709f3cbe0f93b) (Published: 2025-10-31)
+- [Toyota, Honda Brace for Weaker Profits in Wake of Nissan’s $1.8 Billion Warning](https://biztoc.com/x/648fe77e5cab1e25) (Published: 2025-10-31)
+- [Founders Set for $1.9 Billion Boost in India Groww IPO](https://biztoc.com/x/a1e46bcfa75f37fd) (Published: 2025-10-31)
+- [Taiwan does not want China's 'one country, two systems', president says](https://biztoc.com/x/9181e7bf607cfabe) (Published: 2025-10-31)
+- [US and Malaysia Boost Security Partnership in South China Sea](https://biztoc.com/x/4753e90cf69e2538) (Published: 2025-10-31)
+- [Amazon’s stock soars toward its best day since 2022: ‘AI narrative has flipped'](https://biztoc.com/x/b2a31cb8d09572c5) (Published: 2025-10-31)
+- [A Top Trump Official Had to Sell His Stock. He May Have Saved Millions](https://biztoc.com/x/b1da95acb57b4017) (Published: 2025-10-31)
+- [Stocks Regain Momentum as Amazon, Apple Lift Mood: Markets Wrap](https://www.ndtvprofit.com/markets/stocks-regain-momentum-as-amazon-apple-lift-mood-markets-wrap) (Published: 2025-10-31)
+- [Samsung and Nvidia to build an AI Megafactory to transform semiconductor manufacturing](https://siliconangle.com/2025/10/30/samsung-nvidia-build-ai-megafactory-transform-semiconductor-manufacturing/) (Published: 2025-10-31)
