@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 20:51:33**_
+_Last updated: **2025-11-01 21:08:19**_
 
 - [nvidia-nvvm-cu13 added to PyPI](https://pypi.org/project/nvidia-nvvm-cu13/) (Published: 2025-10-31)
 - [nvidia-nvvm-cu13 0.0.1](https://pypi.org/project/nvidia-nvvm-cu13/0.0.1/) (Published: 2025-10-31)
