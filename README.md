@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 13:38:35**_
+_Last updated: **2025-11-01 13:48:57**_
 
+- [ROG XG Mobile 2025: Asus finally releases first TB5 eGPU globally with up to Nvidia GeForce RTX 5090](https://www.notebookcheck.net/ROG-XG-Mobile-2025-Asus-finally-releases-first-TB5-eGPU-globally-with-up-to-Nvidia-GeForce-RTX-5090.1152108.0.html) (Published: 2025-10-31)
+- [Stocks Are Rising. Amazon and Apple Provide a Lift](https://biztoc.com/x/99687955581fca17) (Published: 2025-10-31)
+- [Perplexity launches a free AI-powered patent research tool in beta to let users search for patents using natural language queries](https://biztoc.com/x/705819eae862eb87) (Published: 2025-10-31)
+- [Dow, S&P 500 and Nasdaq open higher as stocks look to end October with a bounce](https://biztoc.com/x/e1d66cade71b13b2) (Published: 2025-10-31)
+- [Russia plans to issue debut sovereign yuan-denominated bonds, sources say](https://biztoc.com/x/339a72627b1ccd47) (Published: 2025-10-31)
+- [Fed’s Logan says this week’s rate cut was not needed, opposes one in December](https://biztoc.com/x/67bccbe5602f8f16) (Published: 2025-10-31)
+- [Is Wall Street Bullish or Bearish on Delta Air Lines Stock?](https://biztoc.com/x/6d1c9e76557e7da8) (Published: 2025-10-31)
 - [Tech's $380 billion splurge: This quarter's winners and losers of the AI spending boom](https://www.cnbc.com/2025/10/31/tech-ai-google-meta-amazon-microsoft-spend.html) (Published: 2025-10-31)
 - [Nvidia expands AI ties with Hyundai, Samsung, SK, Naver | TechCrunch](https://techcrunch.com/2025/10/31/nvidia-expands-ai-ties-with-hyundai-samsung-sk-naver/) (Published: 2025-10-31)
 - [This Has Been a Stellar Year So Far for Stocks](https://biztoc.com/x/3f88985221b89939) (Published: 2025-10-31)
-- [Nvidia CEO Jensen Huang 'Optimistic' About Resuming Blackwell Chip Sales To China: 'There Is No Replacing Them'](https://biztoc.com/x/e22107a6d849be49) (Published: 2025-10-31)
-- [The World’s Secret Electricity Superusers Revealed](https://biztoc.com/x/c39016333f152bef) (Published: 2025-10-31)
-- [Nvidia expands AI ties with Hyundai, Samsung, SK, Naver](https://biztoc.com/x/95194db3e71983da) (Published: 2025-10-31)
-- [Fed's Logan says this week's rate cut was not needed, opposes one in December](https://biztoc.com/x/a41794d42cdd3a37) (Published: 2025-10-31)
-- [Fed’s Logan Says Didn’t Want Rate Cut With Inflation High](https://biztoc.com/x/5b8c5cf090aeba72) (Published: 2025-10-31)
-- [King Charles Destroys His Brother Over Epstein. America Dithers](https://biztoc.com/x/b6c1e5cbdc2bfb16) (Published: 2025-10-31)
-- [Macron’s Socialist Allies Caught in a Budget Trap](https://biztoc.com/x/7aa6933fa81ccb83) (Published: 2025-10-31)
