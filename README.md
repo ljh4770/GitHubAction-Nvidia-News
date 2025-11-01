@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 21:36:13**_
+_Last updated: **2025-11-01 21:46:23**_
 
+- [Waabi And Volvo Reach Key Goal In Integrating Driverless Tech](https://www.forbes.com/sites/richardbishop1/2025/10/31/waabi-and-volvo-reach-key-goal-in-integrating-driverless-tech/) (Published: 2025-10-31)
 - [US DOE Taps Nvidia, AMD, And Oracle For Quartet Of Powerful AI Supercomputers](https://www.forbes.com/sites/marcochiappetta/2025/10/31/us-doe-taps-nvidia-amd-and-oracle-for-quartet-of-powerful-ai-supercomputers/) (Published: 2025-10-31)
 - [Why China Is Winning the Trade War](http://foreignpolicy.com/2025/10/31/china-winning-trade-war-trump-xi-beijing/) (Published: 2025-10-31)
 - [The Score: Caterpillar, Nvidia, Meta and More Stocks That Defined the Week](https://biztoc.com/x/8c2162e78b465932) (Published: 2025-10-31)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-01 21:36:13**_
 - [Purpose Investments Announces Changes to Certain Investment Funds](https://financialpost.com/globe-newswire/purpose-investments-announces-changes-to-certain-investment-funds) (Published: 2025-10-31)
 - [Purpose Investments Announces Changes to Certain Investment Funds](https://www.globenewswire.com/news-release/2025/10/31/3178669/0/en/Purpose-Investments-Announces-Changes-to-Certain-Investment-Funds.html) (Published: 2025-10-31)
 - [nvidia-nvvm-cu13 added to PyPI](https://pypi.org/project/nvidia-nvvm-cu13/) (Published: 2025-10-31)
-- [nvidia-nvvm-cu13 0.0.1](https://pypi.org/project/nvidia-nvvm-cu13/0.0.1/) (Published: 2025-10-31)
