@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 19:29:38**_
+_Last updated: **2025-11-01 19:40:17**_
 
+- [Elon Musk: Future Starlink Satellites Will Become Orbiting Data Centers](https://me.pcmag.com/en/networking/33209/elon-musk-future-starlink-satellites-will-become-orbiting-data-centers) (Published: 2025-10-31)
+- [Elon Musk: Future Starlink Satellites Will Become Orbiting Data Centers](https://uk.pcmag.com/networking/161022/elon-musk-future-starlink-satellites-will-become-orbiting-data-centers) (Published: 2025-10-31)
+- [Yes, AMD Is Still Supporting Radeon RX 6000 And 5000 GPUs But With A Key Caveat](https://hothardware.com/news/amd-confirms-rdna-1-and-2-gpus-losing-some-driver-support) (Published: 2025-10-31)
 - [Nvidia CEO Jensen Huang Says You Can ‘Tokenize Anything’ But You’ll Need ‘Thousands of Chips.’ That’s Good News for NVDA Stock](https://biztoc.com/x/be2f07b69b6c0560) (Published: 2025-10-31)
 - [Qualcomm Is Becoming an AI Company. That Means Earnings on November 5 Could Supercharge QCOM Stock.](https://www.barchart.com/story/news/35834620/qualcomm-is-becoming-an-ai-company-that-means-earnings-on-november-5-could-supercharge-qcom-stock) (Published: 2025-10-31)
 - [Perplexity's blockbuster investor demand shows just how wild the AI bubble has become](https://www.businessinsider.com/investors-cant-keep-up-with-perplexity-nonstop-fundraising-2025-10) (Published: 2025-10-31)
@@ -8,6 +11,3 @@ _Last updated: **2025-11-01 19:29:38**_
 - [Nvidia CEO Jensen Huang Says You Can ‘Tokenize Anything’ But You’ll Need ‘Thousands of Chips.’ That’s Good News for NVDA Stock.](https://www.barchart.com/story/news/35834490/nvidia-ceo-jensen-huang-says-you-can-tokenize-anything-but-youll-need-thousands-of-chips-thats-good-news-for-nvda-stock) (Published: 2025-10-31)
 - [Inside Cisco and Nvidia’s new N9100 switch and WWT’s role in scaling AI infrastructure](https://siliconangle.com/2025/10/31/cisco-n9100-switch-wwt-ai-infrastructure-nvidiagtcdc/) (Published: 2025-10-31)
 - [Apple’s AI spending trails far behind other megacaps. It’s not hurting sales](https://macdailynews.com/2025/10/31/apples-ai-spending-trails-far-behind-other-megacaps-its-not-hurting-sales/) (Published: 2025-10-31)
-- [ETtech Deals Digest: Startups raise $1.9 million in October, up 3x on-year](https://economictimes.indiatimes.com/tech/funding/ettech-deals-digest-startups-raise-1-9-million-in-october-up-3x-on-year/articleshow/125003598.cms) (Published: 2025-10-31)
-- [Intel’s Ambitious (Now Cancelled) Plans For Big Battlemage GPUs Revealed, Huge 3D Stacked Caches, More Xe Cores & Halo-SoC Ready](https://wccftech.com/intel-ambitious-plans-big-battlemage-gpus-huge-3d-stacked-caches-more-xe-cores-halo-soc/) (Published: 2025-10-31)
-- [Jensen Huang's chicken & chips: The hot new favourite of Korean investors](https://economictimes.indiatimes.com/news/international/business/jensen-huangs-chicken-chips-the-hot-new-favourite-of-korean-investors/articleshow/125003619.cms) (Published: 2025-10-31)
