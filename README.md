@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 03:03:11**_
+_Last updated: **2025-11-01 03:47:49**_
 
+- [Federal judge in Hawaii rules FDA violated the law by restricting access to abortion medication](https://biztoc.com/x/ffea5340cd57170e) (Published: 2025-10-31)
+- [ESPN, ABC, other Disney networks to go dark on YouTube TV after failed talks, media reports](https://biztoc.com/x/0f6c2f9760ab7d1a) (Published: 2025-10-31)
+- [Filing: Gloo, a developer of AI tools for Christian churches with ex-Intel CEO Pat Gelsinger as its head of technology, seeks an $873.4M valuation in its US IPO](https://biztoc.com/x/bda6bf7f4c51ed32) (Published: 2025-10-31)
+- [Vietnam flood death toll rises to 13, with 11 others missing](https://biztoc.com/x/c8ce8820f0ce55f9) (Published: 2025-10-31)
+- [Netflix announces ten-for-one stock split, shares rise](https://biztoc.com/x/2cdbee57e2d3f402) (Published: 2025-10-31)
+- [Teacher who was shot by 6-year-old student at school testifies she thought she had died](https://biztoc.com/x/197b525db748815b) (Published: 2025-10-31)
+- [Hegseth and China’s Defense Minister Meet After Trump-Xi Trade Truce](https://biztoc.com/x/5778464cfe28620d) (Published: 2025-10-31)
+- [RBNZ policymaker says US tariffs are a negative demand shock for New Zealand's economy](https://biztoc.com/x/0d3d42d377f1500f) (Published: 2025-10-31)
+- [Gold Boom Spurs Trader MKS PAMP to Expand Presence in Hong Kong](https://biztoc.com/x/fdb4a5122fc3cdb9) (Published: 2025-10-31)
 - [Xi Calls for Stable Supply Chains After Sealing Truce With Trump](https://biztoc.com/x/dc1e47634986f117) (Published: 2025-10-31)
-- [Nvidia CEO Huang’s Outing Heats Up Korea’s Fried Chicken Stocks](https://biztoc.com/x/c86709f3cbe0f93b) (Published: 2025-10-31)
-- [Toyota, Honda Brace for Weaker Profits in Wake of Nissan’s $1.8 Billion Warning](https://biztoc.com/x/648fe77e5cab1e25) (Published: 2025-10-31)
-- [Founders Set for $1.9 Billion Boost in India Groww IPO](https://biztoc.com/x/a1e46bcfa75f37fd) (Published: 2025-10-31)
-- [Taiwan does not want China's 'one country, two systems', president says](https://biztoc.com/x/9181e7bf607cfabe) (Published: 2025-10-31)
-- [US and Malaysia Boost Security Partnership in South China Sea](https://biztoc.com/x/4753e90cf69e2538) (Published: 2025-10-31)
-- [Amazon’s stock soars toward its best day since 2022: ‘AI narrative has flipped'](https://biztoc.com/x/b2a31cb8d09572c5) (Published: 2025-10-31)
-- [A Top Trump Official Had to Sell His Stock. He May Have Saved Millions](https://biztoc.com/x/b1da95acb57b4017) (Published: 2025-10-31)
-- [Stocks Regain Momentum as Amazon, Apple Lift Mood: Markets Wrap](https://www.ndtvprofit.com/markets/stocks-regain-momentum-as-amazon-apple-lift-mood-markets-wrap) (Published: 2025-10-31)
-- [Samsung and Nvidia to build an AI Megafactory to transform semiconductor manufacturing](https://siliconangle.com/2025/10/30/samsung-nvidia-build-ai-megafactory-transform-semiconductor-manufacturing/) (Published: 2025-10-31)
