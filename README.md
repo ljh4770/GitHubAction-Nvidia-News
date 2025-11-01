@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 17:41:18**_
+_Last updated: **2025-11-01 17:51:55**_
 
+- [Asus ROG XG Mobile Thunderbolt 5 eGPU with RTX 50 Series graphics now available for $1300 and up](https://liliputing.com/asus-rog-xg-mobile-thunderbolt-5-egpu-with-rtx-50-series-graphics-now-available-for-1300-and-up/) (Published: 2025-10-31)
+- [ChatGPT: Everything you need to know about the AI chatbot](https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/) (Published: 2025-10-31)
 - [‘Big Short’ investor Michael Burry says ’we see bubbles’ in first post in 2 years By Investing.com](https://biztoc.com/x/4578ddf5ffdedc44) (Published: 2025-10-31)
 - [Short Seller Andrew Left Says Hedge Fund Lied to SEC About Payment in Trading Probe](https://biztoc.com/x/864833db66954983) (Published: 2025-10-31)
 - [Fed’s Hammack Says She’d Have Preferred No Rate Cut This Week](https://biztoc.com/x/723dd93d91bc2afc) (Published: 2025-10-31)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-01 17:41:18**_
 - [Be inspired and bewitched by culinary creations on 'Harry Potter: Wizards of Baking'](https://biztoc.com/x/ee336ca6bc9ab7a6) (Published: 2025-10-31)
 - [The S&P 500 Is Up 16% in 2025 So Far. What History Says Happens Next](https://biztoc.com/x/20c602ec659b1f14) (Published: 2025-10-31)
 - [nvidia-nat-llama-index 1.3.0a20251031](https://pypi.org/project/nvidia-nat-llama-index/1.3.0a20251031/) (Published: 2025-10-31)
-- [nvidia-nat-s3 1.3.0a20251031](https://pypi.org/project/nvidia-nat-s3/1.3.0a20251031/) (Published: 2025-10-31)
-- [Will you be buying more $NFLX?#netflix #stocksplit](https://biztoc.com/x/f175d8e5236e9abf) (Published: 2025-10-31)
