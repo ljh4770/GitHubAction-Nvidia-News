@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 04:43:30**_
+_Last updated: **2025-11-01 04:53:29**_
 
 - [Corporate travel and expense management software maker Navan's shares fell 20% to $20, valuing it at $5B, after raising $923.1M in its IPO at a $6.2B market cap](https://biztoc.com/x/054fb72de0025882) (Published: 2025-10-31)
 - [YouTube TV to Drop ESPN and ABC as Disney Deal Proves Elusive](https://biztoc.com/x/26da658c3a04cade) (Published: 2025-10-31)
