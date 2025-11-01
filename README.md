@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 09:24:30**_
+_Last updated: **2025-11-01 09:36:56**_
 
-- [Nvidia, Samsung Electronics to build new AI factory](https://thefly.com/permalinks/entry.php/id4226352/NVDA-Nvidia-Samsung-Electronics-to-build-new-AI-factory) (Published: 2025-10-31)
-- [Nvidia, Hyundai team on AI factory for AI-driven mobility solutions](https://thefly.com/permalinks/entry.php/id4226350/NVDA-Nvidia-Hyundai-team-on-AI-factory-for-AIdriven-mobility-solutions) (Published: 2025-10-31)
-- [Brazil’s Belém Is Attempting a Billion-Dollar Transformation](https://biztoc.com/x/e39c485b82e1e3f5) (Published: 2025-10-31)
-- [Samsung Electronics in talks with Nvidia to supply next-generation HBM4 chips](https://biztoc.com/x/542f5a79262f2d78) (Published: 2025-10-31)
-- [Meloni Weighs Overhaul of Italy’s Voting Laws to Help Reelection](https://biztoc.com/x/4fc221d9bde40517) (Published: 2025-10-31)
-- [Three Billionaires Walk Into a Fried Chicken Restaurant](https://biztoc.com/x/903bce35d3a3a789) (Published: 2025-10-31)
-- [China’s Factory Slowdown Shows Urgency Behind US Trade Deal](https://biztoc.com/x/71d8b5d6827f9662) (Published: 2025-10-31)
-- [Hong Kong Economy Grows Most Since 2023 on Strong Exports, Retail](https://biztoc.com/x/b3fe19988f37023a) (Published: 2025-10-31)
-- [Jeffrey Epstein Went to War Over Money Laundering Probe in 2007 Sex Case](https://biztoc.com/x/7e5a0e047d060cd5) (Published: 2025-10-31)
-- [Canada to Unveil Billions in Mining Deals at G-7 Energy Summit](https://biztoc.com/x/06cbc728af5214a7) (Published: 2025-10-31)
+- [Samsung Electronics in talks with Nvidia to supply next-generation HBM4 chips - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=179921054) (Published: 2025-10-31)
+- [Here’s How US, China Statements Compared After Xi-Trump Summit](https://biztoc.com/x/4cadc48585c88e2c) (Published: 2025-10-31)
+- [China, Japan leaders reaffirm 'strategic and mutual' relations](https://biztoc.com/x/ea417ec154837eee) (Published: 2025-10-31)
+- [Are Wall Street Analysts Predicting Robinhood Stock Will Climb or Sink?](https://biztoc.com/x/55b9afc17eb105ab) (Published: 2025-10-31)
+- [Orban Says Economic Upswing Remains Distant Ahead of Elections](https://biztoc.com/x/73dcad754918746f) (Published: 2025-10-31)
+- [Riot Platforms Shares Jump Pre-Market After Posting Unexpected Profit on Record Revenue](https://biztoc.com/x/6c8b079b951ec88a) (Published: 2025-10-31)
+- [Nvidia’s $5 Trillion Storyteller-In-Chief](https://www.forbes.com/sites/carminegallo/2025/10/31/nvidias-5-trillion-storyteller-in-chief/) (Published: 2025-10-31)
+- [Taiwan’s economy grows 7.6% in Q3 on export surge](https://biztoc.com/x/cb0922064186f23b) (Published: 2025-10-31)
+- [Nvidia, SK Group team to build AI factory](https://thefly.com/permalinks/entry.php/id4226355/NVDA-Nvidia-SK-Group-team-to-build-AI-factory) (Published: 2025-10-31)
