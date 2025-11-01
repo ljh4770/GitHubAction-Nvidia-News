@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 23:40:48**_
+_Last updated: **2025-11-01 23:51:07**_
 
+- [Samsung Building Facility With 50,000 Nvidia GPUs To Automate Chip Manufacturing](https://slashdot.org/submission/17341950/samsung-building-facility-with-50000-nvidia-gpus-to-automate-chip-manufacturing) (Published: 2025-10-31)
 - [Australia, Canada sign deal to promote, strengthen critical minerals cooperation](https://biztoc.com/x/263edf091b39999a) (Published: 2025-10-31)
 - [Three billionaires dropped by a fried-chicken joint—and Jensen Huang bought everyone dinner - Fortune](https://slashdot.org/firehose.pl?op=view&amp;id=179925566) (Published: 2025-10-31)
 - [Elizabeth Warren Lashes Out At Trump's Move To Introduce Crypto To 401(K) Plans: 'Shadowy Markets Lack Strong Guardrails To Keep Your Money Safe'](https://finance.yahoo.com/news/elizabeth-warren-lashes-trumps-move-233102957.html) (Published: 2025-10-31)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-01 23:40:48**_
 - [Trump asks lawyers to seek clarification on funding food aid after rulings](https://biztoc.com/x/0749ed925a44afe1) (Published: 2025-10-31)
 - [US to Announce Nexperia Chip Shipments From China to Resume](https://biztoc.com/x/43d902de6f71d4ae) (Published: 2025-10-31)
 - [Nexperia cuts wafer supplies to Chinese plant, ratcheting up chip disruptions](https://biztoc.com/x/1d4999d2be156046) (Published: 2025-10-31)
-- [King Charles III banishes Andrew to buttress the House of Windsor’s foundations](https://biztoc.com/x/21d7c0b01160e60e) (Published: 2025-10-31)
