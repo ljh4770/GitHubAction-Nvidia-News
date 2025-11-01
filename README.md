@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 05:54:39**_
+_Last updated: **2025-11-01 06:24:29**_
 
-- [South Korea to deploy over 260,000 of Nvidia's latest AI chips, presidential office says](https://www.channelnewsasia.com/business/south-korea-deploy-over-260000-nvidias-latest-ai-chips-presidential-office-says-5437356) (Published: 2025-10-31)
-- ['Big Short' investor Michael Burry is back with a bubble warning after 2 years of silence](https://www.businessinsider.com/big-short-michael-burry-bubble-warning-x-account-scion-crash-2025-10) (Published: 2025-10-31)
-- [Zoom、NVIDIA と協業し、企業向けカスタム AI 開発をリード](https://prtimes.jp/main/html/rd/p/000000116.000046792.html) (Published: 2025-10-31)
-- [ABC, ESPN & Other Disney Networks Go Dark On YouTube TV Before Contract Officially Expires](https://biztoc.com/x/0b7e62e42210d438) (Published: 2025-10-31)
-- [Saudi Arabia may cut December crude prices to Asia to multi-month lows](https://biztoc.com/x/3a56477ef598c4e2) (Published: 2025-10-31)
-- [XRP Drops 5% to $2.47 as Bears Break Key Support Level](https://biztoc.com/x/c8b885ed1b1b8dd1) (Published: 2025-10-31)
-- [Vertex Pharma’s Stock Has Tumbled. Earnings Will Stop the Pain](https://biztoc.com/x/2e78b7dd5947fff8) (Published: 2025-10-31)
-- [Taiwan bucks Asia's clean power drive with record gas burn](https://biztoc.com/x/91a7ac0493fa130c) (Published: 2025-10-31)
-- [AI Frustration Could Be Costing UK Retailers Billions, CEBR Says](https://biztoc.com/x/75170451ca293371) (Published: 2025-10-31)
-- [Three billionaires went out for chicken and beer, and paid for everyone’s meal](https://biztoc.com/x/670df7410665538e) (Published: 2025-10-31)
+- [Nvidia Forges AI Deals With South Korea’s Biggest Companies](https://biztoc.com/x/bc9de71f6e372f36) (Published: 2025-10-31)
+- [Nvidia partners with South Korean government, companies to boost AI development](https://financialpost.com/pmn/nvidia-partners-with-south-korean-government-companies-to-boost-ai-development) (Published: 2025-10-31)
+- [Nvidia partners with South Korean government, companies to boost AI development](https://finance.yahoo.com/news/nvidia-partners-south-korean-government-061828001.html) (Published: 2025-10-31)
+- [Nvidia partners with South Korean government, companies to boost AI development](https://finance.yahoo.com/news/nvidia-partners-south-korean-government-061828861.html) (Published: 2025-10-31)
+- [cordatus-jtop-service 4.3.2.4](https://pypi.org/project/cordatus-jtop-service/4.3.2.4/) (Published: 2025-10-31)
+- [Nvidia to supply more than 260,000 Blackwell AI chips to South Korea](https://economictimes.indiatimes.com/tech/technology/nvidia-to-supply-more-than-260000-blackwell-ai-chips-to-south-korea/articleshow/124986397.cms) (Published: 2025-10-31)
+- [Nvidia to supply more than 260,000 Blackwell AI chips to South Korea](https://biztoc.com/x/42e7439fd0f41643) (Published: 2025-10-31)
+- [Samsung building facility with 50,000 Nvidia GPUs to automate chip manufacturing](https://biztoc.com/x/77eb4811055e01f9) (Published: 2025-10-31)
+- [Exabits Labs to Tokenize Freyr’s AI Data Center Infrastructure in Strategic RWA Partnership](https://www.globenewswire.com/news-release/2025/10/31/3178094/0/en/Exabits-Labs-to-Tokenize-Freyr-s-AI-Data-Center-Infrastructure-in-Strategic-RWA-Partnership.html) (Published: 2025-10-31)
