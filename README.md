@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 18:39:37**_
+_Last updated: **2025-11-01 18:50:31**_
 
+- [Nvidia Rally Highlights Big Tech Bounce Back Into IBD's Marquee List Of Growth Stocks](https://www.investors.com/stock-lists/ibd-50/nvidia-nvda-stock-growth-stocks/) (Published: 2025-10-31)
+- [The least stressful tech companies to work for](https://www.businessinsider.com/least-stressful-tech-companies-to-work-for-nvidia-microsoft-intuit-2025-10) (Published: 2025-10-31)
 - [Book Review: Andrew Ross Sorkin's Simplistic '1929'](https://www.realclearmarkets.com/articles/2025/10/31/book_review_andrew_ross_sorkins_1929_1144507.html) (Published: 2025-10-31)
 - [These DOGE, SHIB Bearish Patterns Show A 25% Crash Could Be Coming](https://finance.yahoo.com/news/doge-shib-bearish-patterns-show-183111887.html) (Published: 2025-10-31)
 - [Intel’s Potential Acquisition of SambaNova Could ‘Catalyze’ the Company’s AI Comeback — But It May Cost At Least a Hefty $5 Billion](https://wccftech.com/intel-potential-acquisition-of-sambanova-could-catalyze-the-ai-comeback/) (Published: 2025-10-31)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-01 18:39:37**_
 - [Jensen Huang's stardom meal takes over Korea](https://biztoc.com/x/58ba88e8fb825ff7) (Published: 2025-10-31)
 - [Boom or bubble? Google wants to help you beat the market](https://www.androidauthority.com/google-finance-earnings-feature-3612127/) (Published: 2025-10-31)
 - [Fox News AI Newsletter: AI job losses hit hard](https://www.foxnews.com/tech/ai-newsletter-ai-job-losses-hit-hard) (Published: 2025-10-31)
-- [Nvidia Expands Into Quantum Computing And Fusion Power](https://www.forbes.com/sites/the-prototype/2025/10/31/nvidia-expands-into-quantum-computing-and-fusion-power/) (Published: 2025-10-31)
-- [Asus ROG XG Mobile Thunderbolt 5 eGPU with RTX 50 Series graphics now available for $1300 and up](https://liliputing.com/asus-rog-xg-mobile-thunderbolt-5-egpu-with-rtx-50-series-graphics-now-available-for-1300-and-up/) (Published: 2025-10-31)
