@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-10-31 23:56:01**_
+_Last updated: **2025-11-01 01:46:25**_
 
-- [US Secures Funding for Rural Air Service During Shutdown](https://biztoc.com/x/cd018a593ab67590) (Published: 2025-10-30)
-- [Netflix Weighs Bid for Warner Studio and Streaming, Reuters Says](https://biztoc.com/x/e97a9c3c578d0782) (Published: 2025-10-30)
-- [Twilio reports Q3 revenue up 15% YoY to $1.3B vs. $1.25B est., forecasts Q4 sales above est., agrees to buy identity platform Stytch; TWLO jumps 8%+ after hours](https://biztoc.com/x/fadabe9458e7db08) (Published: 2025-10-30)
-- [Core consumer prices in Japan’s capital rise faster-than-expected](https://biztoc.com/x/f2f678077b6fbff8) (Published: 2025-10-30)
-- [PayPal Is Paying Its First-Ever Dividend. Should You Snap Up PYPL Stock Now?](https://biztoc.com/x/c80c5a3346c8ad4c) (Published: 2025-10-30)
-- [Apple isn't playing the same AI capex game as the rest of the megacaps](https://www.cnbc.com/2025/10/30/apple-isnt-playing-the-same-ai-capex-game-as-the-rest-of-the-megacaps.html) (Published: 2025-10-30)
-- [Bank of America revamps Nvidia stock price after meeting with CFO](https://www.thestreet.com/investing/stocks/bank-of-america-revamps-nvidia-stock-price-after-meeting-with-cfo) (Published: 2025-10-30)
-- [Japan Awaits Two-Year Bond Auction After BOJ’s Cautious Tone](https://biztoc.com/x/2f3bf2b185e46454) (Published: 2025-10-30)
-- [Trump sets 7,500 annual limit for refugees entering US. It'll be mostly white South Africans](https://biztoc.com/x/3edc421ac98c94bb) (Published: 2025-10-30)
-- [Post-Quantum Cryptography Market Surges to $2.84 billion by 2030 - Dominated by NXP Semiconductor (Netherlands), Patero (US), Thales (France)](https://www.globenewswire.com/news-release/2025/10/30/3178045/0/en/Post-Quantum-Cryptography-Market-Surges-to-2-84-billion-by-2030-Dominated-by-NXP-Semiconductor-Netherlands-Patero-US-Thales-France.html) (Published: 2025-10-30)
+- [MEG Energy adjourns shareholder vote on Cenovus offer citing regulatory inquiry](https://biztoc.com/x/9bff131cc1fda2af) (Published: 2025-10-31)
+- [Apple delivers strong quarter despite trade war challenges and ongoing artificial technology issues](https://economictimes.indiatimes.com/markets/stocks/earnings/apple-delivers-strong-quarter-despite-trade-war-challenges-and-ongoing-artificial-technology-issues/articleshow/124979671.cms) (Published: 2025-10-31)
+- [Trump says Nvidia chip talks with Xi didn’t cover Blackwell](https://www.japantimes.co.jp/business/2025/10/31/tech/trump-xi-nvidia-blackwell-chip/) (Published: 2025-10-31)
+- [Japan finance minister warns against forex volatility after yen plunge](https://biztoc.com/x/f60c5dc776131f80) (Published: 2025-10-31)
+- [Amazon Shares Surge on 13% Revenue Jump, Strong Cloud Sales](https://biztoc.com/x/3e0d87561a701ab0) (Published: 2025-10-31)
+- [Do Wall Street Analysts Like RTX Corporation Stock?](https://biztoc.com/x/e6ee9f13c619e7d9) (Published: 2025-10-31)
+- [CNBC Daily Open: Trick or treat for markets this Halloween?](https://www.cnbc.com/2025/10/31/cnbc-daily-open-trick-or-treat-for-markets-this-halloween.html) (Published: 2025-10-31)
+- [Dollar at three-month high as markets puzzle over outlook](https://biztoc.com/x/2c5471f73c7e4975) (Published: 2025-10-31)
+- [Apple’s iPhone revenue misses expectations, but Tim Cook promises an immediate turnaround](https://siliconangle.com/2025/10/30/apples-iphone-revenue-misses-expectations-tim-cook-promises-immediate-turnaround/) (Published: 2025-10-31)
