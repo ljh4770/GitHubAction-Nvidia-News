@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-02 22:37:46**_
+_Last updated: **2025-11-02 22:48:10**_
 
+- [Nvidia strengthens South Korea ties, turning AI drive into geopolitical strategy](https://www.digitimes.com/news/a20251031VL216/nvidia-ai-apec-cloud-samsung.html) (Published: 2025-11-01)
 - [Sam Altman says OpenAI’s revenue is ‘well more’ than reports of $13 billion a year and hints it could hit $100 billion by 2027](https://fortune.com/2025/11/01/sam-altman-openai-annual-revenue-13-billion-forecast-100-billion-2027/) (Published: 2025-11-01)
 - [3 tech leaders worth $195B pay for everyone’s food](https://rollingout.com/2025/11/01/billionaires-pay-for-restaurant-dinner/) (Published: 2025-11-01)
 - [Yale Graduate Takes His Family's Apple Farm From Brink Of Ruin And Turns It Into $4 Million Per Year Operation](https://finance.yahoo.com/news/yale-graduate-takes-familys-apple-201904172.html) (Published: 2025-11-01)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-02 22:37:46**_
 - [What Does 'FG' Or 'MFG' On An Nvidia Graphics Card Actually Mean?](https://www.bgr.com/2007839/what-nvidia-gpu-graphics-card-dlss-fg-mfg-meaning-explained/) (Published: 2025-11-01)
 - [Hits All-Time High as Ex-Nvidia Exec Joins Board](https://biztoc.com/x/2d7eb77dc7eff7ec) (Published: 2025-11-01)
 - [Check Out Smash-Hit ARC Raiders That Just Broke 295K Concurrent On Steam](https://hothardware.com/news/arc-raiders-just-broke-277k-concurrent-on-steam) (Published: 2025-11-01)
-- [I Think These Are the 2 Best AI Stocks to Buy in November](https://biztoc.com/x/e96f6dfc2c85598d) (Published: 2025-11-01)
