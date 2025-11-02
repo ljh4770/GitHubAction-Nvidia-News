@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-02 19:19:40**_
+_Last updated: **2025-11-02 19:30:12**_
 
 - [What Does 'FG' Or 'MFG' On An Nvidia Graphics Card Actually Mean?](https://www.bgr.com/2007839/what-nvidia-gpu-graphics-card-dlss-fg-mfg-meaning-explained/) (Published: 2025-11-01)
 - [Hits All-Time High as Ex-Nvidia Exec Joins Board](https://biztoc.com/x/2d7eb77dc7eff7ec) (Published: 2025-11-01)
