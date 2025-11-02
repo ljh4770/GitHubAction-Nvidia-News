@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-02 16:34:13**_
+_Last updated: **2025-11-02 16:47:07**_
 
 - [FDA restricts use of kids’ fluoride supplements citing emerging health risks](https://biztoc.com/x/3709b09a5b8bc868) (Published: 2025-11-01)
 - [Turkish state media reports that Faruk Fatih Ozer, the former CEO of failed crypto exchange Thodex, has been found dead in his prison cell](https://biztoc.com/x/54954c5ff9dcc069) (Published: 2025-11-01)
