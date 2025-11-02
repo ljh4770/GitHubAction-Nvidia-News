@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-02 05:48:40**_
+_Last updated: **2025-11-02 05:58:48**_
 
 - [Alphabet, Meta and Amazon poured $380 billion into AI — but not everyone is winning from the spend](https://www.livemint.com/companies/news/alphabet-meta-and-amazon-poured-380-billion-into-ai-but-not-everyone-is-winning-from-the-spend-11761971104027.html) (Published: 2025-11-01)
 - [China's Xi pushes for global AI body at APEC in counter to US](https://economictimes.indiatimes.com/news/international/global-trends/chinas-xi-pushes-for-global-ai-body-at-apec-in-counter-to-us/articleshow/125010140.cms) (Published: 2025-11-01)
