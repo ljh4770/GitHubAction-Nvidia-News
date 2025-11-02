@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-02 13:12:29**_
+_Last updated: **2025-11-02 13:32:43**_
 
 - [Geekom A8 new 2025 edition with AMD Ryzen 7: Powerful and efficient mini PC for office, multimedia and home office in the review](https://www.notebookcheck.net/Geekom-A8-new-2025-edition-with-AMD-Ryzen-7-Powerful-and-efficient-mini-PC-for-office-multimedia-and-home-office-in-the-review.1152306.0.html) (Published: 2025-11-01)
 - [Geekom A8 new edition 2025 with AMD Ryzen 7: Powerful and efficient mini PC for office, multimedia and home office in the review](https://www.notebookcheck.net/Geekom-A8-new-edition-2025-with-AMD-Ryzen-7-Powerful-and-efficient-mini-PC-for-office-multimedia-and-home-office-in-the-review.1152306.0.html) (Published: 2025-11-01)
