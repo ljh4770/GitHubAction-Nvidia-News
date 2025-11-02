@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-02 04:56:37**_
+_Last updated: **2025-11-02 05:21:08**_
 
+- [China's Xi pushes for global AI body at APEC in counter to US](https://economictimes.indiatimes.com/news/international/global-trends/chinas-xi-pushes-for-global-ai-body-at-apec-in-counter-to-us/articleshow/125010140.cms) (Published: 2025-11-01)
 - [China's Xi pushes for global AI body at APEC in counter to US](https://www.thehindubusinessline.com/info-tech/chinas-xi-pushes-for-global-ai-body-at-apec-in-counter-to-us/article70228539.ece) (Published: 2025-11-01)
 - [Investors race for next big wins in India’s $5.4-tn market amid AI gold rush](https://economictimes.indiatimes.com/news/company/corporate-trends/investors-race-for-next-big-wins-in-indias-5-4-tn-market-amid-ai-gold-rush/articleshow/125009696.cms) (Published: 2025-11-01)
 - [China's Xi pushes for global AI body at APEC in counter to US](https://www.yahoo.com/news/articles/chinas-xi-pushes-global-ai-045049885.html) (Published: 2025-11-01)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-02 04:56:37**_
 - [Esha Choukse, Azure Research - Systems](https://www.microsoft.com/en-us/research/people/eschouks/?locale=zh-cn) (Published: 2025-11-01)
 - [DeepSeek-OCR: Reducing Token Counts with Optical Context Compression](https://www.digitalocean.com/community/tutorials/deepseek-ocr-optical-context-compression) (Published: 2025-11-01)
 - [The AI-Driven Stock Runup May Not Be As Good As Many Assume](https://www.forbes.com/sites/eriksherman/2025/10/31/the-ai-driven-stock-runup-may-not-be-as-good-as-many-assume/) (Published: 2025-11-01)
-- [Nancy Pelosi, Marjorie Taylor Greene Are Betting On The Same 6 Stocks – Here's What They Know](https://finance.yahoo.com/news/nancy-pelosi-marjorie-taylor-greene-033106290.html) (Published: 2025-11-01)
