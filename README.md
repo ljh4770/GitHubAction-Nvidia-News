@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-02 08:44:34**_
+_Last updated: **2025-11-02 08:54:49**_
 
 - [Nvidia says it will supply 260K+ of its most advanced AI chips to the South Korean government and major companies, including Samsung, Naver, and SK Group](https://biztoc.com/x/ec4d0b9083a59882) (Published: 2025-11-01)
 - [Carney Says Canada Can’t Get China Tariffs Lifted Right Away](https://biztoc.com/x/206c783ecf1426dc) (Published: 2025-11-01)
