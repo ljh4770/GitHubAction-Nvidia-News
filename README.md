@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-02 17:43:04**_
+_Last updated: **2025-11-02 17:53:26**_
 
 - [Layoffs and a top exec out: what GM pullback on EVs means for you](https://www.thestreet.com/automotive/layoffs-and-a-top-exec-out-what-gm-pullback-on-evs-means-for-you) (Published: 2025-11-01)
 - [China Says It Is Loosening Restrictions on Nexperia’s Auto Chips](https://biztoc.com/x/d3b5c46f7f27f32d) (Published: 2025-11-01)
