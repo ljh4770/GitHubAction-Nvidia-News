@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-02 22:58:35**_
+_Last updated: **2025-11-02 23:22:37**_
 
+- [These Carmakers are Using AI More Than Drivers May Realize](https://guessingheadlights.com/these-carmakers-are-using-ai-more-than-drivers-may-realize/) (Published: 2025-11-01)
 - [Nvidia Just Made a Game-Changing Move](https://biztoc.com/x/f04ced5029fd7618) (Published: 2025-11-01)
 - [Nvidia strengthens South Korea ties, turning AI drive into geopolitical strategy](https://www.digitimes.com/news/a20251031VL216/nvidia-ai-apec-cloud-samsung.html) (Published: 2025-11-01)
 - [Sam Altman says OpenAI’s revenue is ‘well more’ than reports of $13 billion a year and hints it could hit $100 billion by 2027](https://fortune.com/2025/11/01/sam-altman-openai-annual-revenue-13-billion-forecast-100-billion-2027/) (Published: 2025-11-01)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-02 22:58:35**_
 - [CEO Is Confident Chinese Military Won’t Use His GPUs, Says Jim Cramer](https://biztoc.com/x/ea1c500a61b4c4d8) (Published: 2025-11-01)
 - [NVIDIA (NVDA) CEO Is Confident Chinese Military Won’t Use His GPUs, Says Jim Cramer](https://finance.yahoo.com/news/nvidia-nvda-ceo-confident-chinese-193012586.html) (Published: 2025-11-01)
 - [What Does 'FG' Or 'MFG' On An Nvidia Graphics Card Actually Mean?](https://www.bgr.com/2007839/what-nvidia-gpu-graphics-card-dlss-fg-mfg-meaning-explained/) (Published: 2025-11-01)
-- [Hits All-Time High as Ex-Nvidia Exec Joins Board](https://biztoc.com/x/2d7eb77dc7eff7ec) (Published: 2025-11-01)
