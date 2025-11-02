@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-01 23:51:07**_
+_Last updated: **2025-11-02 00:53:14**_
 
+- [Fast chargers are expanding quickly, but American EV drivers still fear running out of juice](https://biztoc.com/x/a4c8d49075d6f103) (Published: 2025-11-01)
+- [Nvidia uncertain if return to China is closer after Trump-Xi meeting](https://economictimes.indiatimes.com/news/international/business/nvidia-uncertain-if-return-to-china-is-closer-after-trump-xi-meeting/articleshow/125008102.cms) (Published: 2025-11-01)
+- [Trader’s Guide to India’s Data Center Boom Powered by Google, OpenAI](https://biztoc.com/x/d7283fb634b7dfaf) (Published: 2025-11-01)
+- [White House Restricts Access to Some Press Offices in Crackdown](https://biztoc.com/x/a5738e72a30b396c) (Published: 2025-11-01)
+- [Caesars Made a Bet on Las Vegas. Now It’s Paying For It](https://biztoc.com/x/46db7f74728b9a7e) (Published: 2025-11-01)
+- [Twist Pasta Bar Blends Italian Tradition With Hong Kong Flavors](https://biztoc.com/x/0c68d27905514096) (Published: 2025-11-01)
+- [Apple Loop: iPhone 17 Pro Protection, Measuring M5 Performance, iPad’s OLED Breakthrough](https://www.forbes.com/sites/ewanspence/2025/10/31/apple-news-headlines-iphone-17-pro-cases-macbook-pro-m5-benchmark-ipad-pro-oled/) (Published: 2025-11-01)
+- [Ukraine denounces attacks on power substations vital to nuclear plants](https://biztoc.com/x/b09ed58ba10e182d) (Published: 2025-10-31)
 - [Samsung Building Facility With 50,000 Nvidia GPUs To Automate Chip Manufacturing](https://slashdot.org/submission/17341950/samsung-building-facility-with-50000-nvidia-gpus-to-automate-chip-manufacturing) (Published: 2025-10-31)
 - [Australia, Canada sign deal to promote, strengthen critical minerals cooperation](https://biztoc.com/x/263edf091b39999a) (Published: 2025-10-31)
-- [Three billionaires dropped by a fried-chicken joint—and Jensen Huang bought everyone dinner - Fortune](https://slashdot.org/firehose.pl?op=view&amp;id=179925566) (Published: 2025-10-31)
-- [Elizabeth Warren Lashes Out At Trump's Move To Introduce Crypto To 401(K) Plans: 'Shadowy Markets Lack Strong Guardrails To Keep Your Money Safe'](https://finance.yahoo.com/news/elizabeth-warren-lashes-trumps-move-233102957.html) (Published: 2025-10-31)
-- [How Google Cloud has become one of Alphabet's fastest-growing businesses under Thomas Kurian, driven by investments in AI, data centers, custom chips, and more](https://biztoc.com/x/7fa21f6f4210fc65) (Published: 2025-10-31)
-- [Three billionaires dropped by a fried-chicken joint—and Jensen Huang bought everyone dinner](https://biztoc.com/x/d78a7be7e758b05e) (Published: 2025-10-31)
-- [Review & Preview: October Surprise](https://biztoc.com/x/b22a703ea22f3125) (Published: 2025-10-31)
-- [Trump asks lawyers to seek clarification on funding food aid after rulings](https://biztoc.com/x/0749ed925a44afe1) (Published: 2025-10-31)
-- [US to Announce Nexperia Chip Shipments From China to Resume](https://biztoc.com/x/43d902de6f71d4ae) (Published: 2025-10-31)
-- [Nexperia cuts wafer supplies to Chinese plant, ratcheting up chip disruptions](https://biztoc.com/x/1d4999d2be156046) (Published: 2025-10-31)
