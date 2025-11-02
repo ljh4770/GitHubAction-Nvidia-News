@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-02 23:34:13**_
+_Last updated: **2025-11-02 23:44:15**_
 
 - [These Carmakers are Using AI More Than Drivers May Realize](https://guessingheadlights.com/these-carmakers-are-using-ai-more-than-drivers-may-realize/) (Published: 2025-11-01)
 - [Nvidia Just Made a Game-Changing Move](https://biztoc.com/x/f04ced5029fd7618) (Published: 2025-11-01)
