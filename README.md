@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-03 07:32:55**_
+_Last updated: **2025-11-03 07:44:43**_
 
+- [AMD Radeon RX 9070 XT & RX 9070 Now Available At MSRPs of $599 & $549, Here’s Where To Buy](https://wccftech.com/amd-radeon-rx-9070-xt-9070-now-available-at-msrps-599-549-us-heres-where-to-buy/) (Published: 2025-11-02)
 - [UP govt must address teacher absenteeism, Allahabad HC emphasises EWS students’ constitutional right to education](https://timesofindia.indiatimes.com/education/news/up-govt-must-address-teacher-absenteeism-allahabad-hc-emphasises-ews-students-constitutional-right-to-education/articleshow/125030280.cms) (Published: 2025-11-02)
 - [From $1tn to $5 tn in two years: Nvidia and the perils of predicting stock bubbles](https://www.irishtimes.com/your-money/2025/11/02/from-1tn-to-5-tn-in-two-years-nvidia-and-the-perils-of-predicting-stock-bubbles/) (Published: 2025-11-02)
 - [Public’s faith is greatest strength of judiciary: Chief Justice Ramesh Sinha](https://timesofindia.indiatimes.com/city/raipur/publics-faith-is-greatest-strength-of-judiciary-chief-justice-ramesh-sinha/articleshow/125030062.cms) (Published: 2025-11-02)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-03 07:32:55**_
 - [Nvidia shatters records as first $5 trillion company amid AI boom, but bubble fears loom](https://www.naturalnews.com/2025-11-02-nvidia-historic-trillion-valuation-amid-ai-boom.html) (Published: 2025-11-02)
 - [Over 1,00,000 job cuts rattle tech industry in 2025: Amazon, Meta, Google, Intel lay off thousands of employees. Check full list of companies](https://economictimes.indiatimes.com/news/international/global-trends/us-news-over-100000-job-cuts-rattle-tech-industry-in-2025-amazon-meta-google-intel-lay-off-thousands-of-employees-check-full-list-of-companies/articleshow/125029264.cms) (Published: 2025-11-02)
 - [Piyush Mishra: Every song I write is a dialogue with my audience](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/piyush-mishra-every-song-i-write-is-a-dialogue-with-my-audience/articleshow/125029137.cms) (Published: 2025-11-02)
-- [Samsung 32" Odyssey G5 Gaming Monitor | QHD 2560x1440 | 180Hz IPS Panel | NVIDIA G-Sync | LS32DG502ENXZA $229.99](https://slickdeals.net/f/18757057-samsung-32-odyssey-g5-gaming-monitor-qhd-2560x1440-180hz-ips-panel-nvidia-g-sync-ls32dg502enxza-229-99) (Published: 2025-11-02)
