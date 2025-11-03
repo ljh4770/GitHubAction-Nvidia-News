@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-03 20:48:29**_
+_Last updated: **2025-11-03 20:58:41**_
 
 - [Job listings show AI groups like OpenAI, Anthropic, and Cohere have stepped up hiring for forward-deployed engineers to help businesses adopt their AI models](https://biztoc.com/x/83d54af7461100aa) (Published: 2025-11-02)
 - [OPEC+ to pause output hikes in first quarter to ease fears of glut](https://biztoc.com/x/c94f57363db1fe2a) (Published: 2025-11-02)
