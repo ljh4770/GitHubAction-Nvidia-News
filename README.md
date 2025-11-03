@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-03 18:47:39**_
+_Last updated: **2025-11-03 18:57:58**_
 
+- [Nvidia is the biggest winner from earnings season — and it hasn’t even reported yet](https://biztoc.com/x/3271ccf8e6f04abf) (Published: 2025-11-02)
 - [1 Super Semiconductor Stock to Buy Hand Over Fist (Hint: Not Nvidia)](https://biztoc.com/x/7531183446ed10f9) (Published: 2025-11-02)
 - [Earnings, Manufacturing Data and Other Can't Miss Items this Week](https://www.barchart.com/story/news/35852639/earnings-manufacturing-data-and-other-can-t-miss-items-this-week) (Published: 2025-11-02)
 - [megatron-fsdp 0.2.0.dev123727](https://pypi.org/project/megatron-fsdp/0.2.0.dev123727/) (Published: 2025-11-02)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-03 18:47:39**_
 - [Prediction: AMD Will Be Worth More Than Broadcom by 2030](https://biztoc.com/x/7ae8b30d0e3c3b30) (Published: 2025-11-02)
 - [Is Nvidia Stock a Buy?](https://biztoc.com/x/38113cc88100fcac) (Published: 2025-11-02)
 - [Analyst Says Nvidia (NVDA) Has ‘Zeroed Out’ of China Revenue](https://finance.yahoo.com/news/analyst-says-nvidia-nvda-zeroed-171115372.html) (Published: 2025-11-02)
-- [TechCrunch Mobility: Everything said on, and off, the stage at TechCrunch Disrupt 2025 | TechCrunch](https://techcrunch.com/2025/11/02/techcrunch-mobility-everything-said-on-and-off-the-stage-at-techcrunch-disrupt-2025/) (Published: 2025-11-02)
