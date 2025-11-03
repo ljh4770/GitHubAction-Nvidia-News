@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-03 21:58:30**_
+_Last updated: **2025-11-03 22:26:26**_
 
+- [Trump Says Immigration Raid Efforts ‘Haven’t Gone Far Enough’](https://biztoc.com/x/c81e083e1ca98ea3) (Published: 2025-11-02)
+- [F.D.A. Drug Unit Chief Is Placed on Leave, and Cites a ‘Toxic’ Environment](https://biztoc.com/x/29a95c424d0e670b) (Published: 2025-11-02)
+- [Australia to Work With Cboe After Local Unit Put Up for Sale](https://biztoc.com/x/d59da2e7816383d2) (Published: 2025-11-02)
+- [This Amazon Solar-Powered Tiny Home Has 2 Bedrooms, Modern Finishes, and Tons of Natural Light—Under $11K](https://biztoc.com/x/838c4701277d52b5) (Published: 2025-11-02)
+- [Treasuries Rally Is Proving Trump’s ‘Sell America’ Critics Wrong](https://biztoc.com/x/bc1b8ededa8a0723) (Published: 2025-11-02)
+- [The Human Cost of Xiaomi’s Rapid Pivot From Smartphones to EVs](https://biztoc.com/x/35865337a3ada351) (Published: 2025-11-02)
+- [It’s getting harder to separate the stock market from the economy. That means the Fed and Congress have more incentive to help Wall Street](https://fortune.com/2025/11/02/stock-market-wealth-effect-economic-growth-consumer-spending/) (Published: 2025-11-02)
 - [Nvidia is earnings season's biggest winner — and it hasn’t even reported yet](https://biztoc.com/x/285308b034d06185) (Published: 2025-11-02)
 - [RBA Seen Holding Rates as Easing Cycle Falters](https://biztoc.com/x/a92ca06cdeb37183) (Published: 2025-11-02)
-- [Magnitude 6.3 earthquake hits Afghanistan's Hindu Kush region, USGS says](https://biztoc.com/x/6f039f51871c98d5) (Published: 2025-11-02)
-- [China to Suspend Some Rare Earth Curbs After Trade Deal](https://biztoc.com/x/56afd89de0541542) (Published: 2025-11-02)
-- [Vampire: The Masquerade - Bloodlines 2 Optimized Tweaks VTMB2 - Reduced Stutter Improved Performance Lower Latency Better Frametimes v.1.2.1 PC](https://www.gry-online.pl/download/vampire-the-masquerade-bloodlines-2-optimized-tweaks-vtmb2-reduc/z015460) (Published: 2025-11-02)
-- [Is Big Tech’s soaring AI spending creating a bubble? Here’s what it means for stocks](https://biztoc.com/x/9ac41973371051ac) (Published: 2025-11-02)
-- [A 17-year-old earned $72,000 after investing his e-commerce profits into stocks. Here's why he bet on the tech industry](https://biztoc.com/x/bf353e34173c35b1) (Published: 2025-11-02)
-- [A fake Jensen Huang Nvidia keynote pushing a crypto scam somehow netted thousands of viewers - and I can't believe anyone fell for anything this obvious](https://www.techradar.com/pro/security/a-fake-jensen-huang-nvidia-keynote-pushing-a-crypto-scam-somehow-netted-thousands-of-viewers-and-i-cant-believe-anyone-fell-for-anything-this-obvious) (Published: 2025-11-02)
-- [AI Really is Coming For the Jobs](https://biztoc.com/x/ad7afc39bfe4af62) (Published: 2025-11-02)
