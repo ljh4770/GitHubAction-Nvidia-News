@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-03 23:41:44**_
+_Last updated: **2025-11-03 23:52:18**_
 
+- [Trump says China's Xi has assured him that he won't take action on Taiwan during Republican's term](https://biztoc.com/x/5543d68151bddc56) (Published: 2025-11-02)
+- [China Is Filling Up Its Oil Reserves Fast - WSJ](https://biztoc.com/x/8bf3244b30c5e980) (Published: 2025-11-02)
+- [Stock Futures Drift Higher to Start a New Month](https://biztoc.com/x/34fbd9e663c28e7d) (Published: 2025-11-02)
 - [megatron-fsdp 0.2.0.dev110075](https://pypi.org/project/megatron-fsdp/0.2.0.dev110075/) (Published: 2025-11-02)
 - [Does Qualcomm's Entry Into the AI Chip Race Spell Trouble for Nvidia?](https://biztoc.com/x/028d4b4df525be90) (Published: 2025-11-02)
 - [U.S. stock futures inch higher as Wall Street looks to extend winning streak](https://biztoc.com/x/520f4386e204fae5) (Published: 2025-11-02)
@@ -8,6 +11,3 @@ _Last updated: **2025-11-03 23:41:44**_
 - [Trump’s Industrial Policy: What’s Right and Wrong](http://washingtonmonthly.com/2025/11/02/trumps-industrial-policies-whats-right-and-wrong/) (Published: 2025-11-02)
 - [How an Accused Kingpin Built an Empire From Cambodia to London](https://biztoc.com/x/95be7ca446fdd2ab) (Published: 2025-11-02)
 - [Oil Rises After OPEC+ Says It’ll Pause Output Hikes Next Year](https://biztoc.com/x/6dc6c909a365b16a) (Published: 2025-11-02)
-- [Hong Kong Dollar Bond Sales Slump as Borrowing Costs Stay High](https://biztoc.com/x/bcf8a0ce70221db2) (Published: 2025-11-02)
-- [Stocks Set for Mixed Open, OPEC+ to Pause Hikes: Markets Wrap](https://biztoc.com/x/386a57645770fb5a) (Published: 2025-11-02)
-- [Toymaker Gears Up for Supreme Court Fight Over Trump’s Tariffs](https://biztoc.com/x/1aa3f5d8009c3e6d) (Published: 2025-11-02)
