@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-04 03:34:37**_
+_Last updated: **2025-11-04 03:57:12**_
 
+- [Trump says we don't give Nvidia's advanced Blackwell AI chip to others](https://economictimes.indiatimes.com/tech/technology/trump-says-we-dont-give-nvidias-advanced-blackwell-ai-chip-to-others/articleshow/125046071.cms) (Published: 2025-11-03)
 - [Nvidia is worth $5 trillion. Here’s what it means for the market](https://www.bloomberg.com/news/articles/2025-11-02/nvidia-is-worth-5-trillion-here-s-what-it-means-for-the-market) (Published: 2025-11-03)
 - [Most Asian markets rise on lingering trader optimism](https://www.digitaljournal.com/world/most-asian-markets-rise-on-lingering-trader-optimism/article) (Published: 2025-11-03)
 - [The Great Decoupling of Labor and Capital](https://www.mbi-deepdives.com/the-great-decoupling-of-labor-and-capital/) (Published: 2025-11-03)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-04 03:34:37**_
 - [White House says China to lift rare earth export bans, stop probes into US tech companies](https://www.theregister.com/2025/11/03/asia_tech_news_roundup/) (Published: 2025-11-03)
 - [Trump says Nvidia not allowed to sell advanced AI chips to China- 60 Minutes](https://biztoc.com/x/0a652c90b50a675f) (Published: 2025-11-03)
 - [President Trump says Nvidia Blackwell chip not for others, Reuters says](https://thefly.com/permalinks/entry.php/id4227508/NVDA-President-Trump-says-Nvidia-Blackwell-chip-not-for-others-Reuters-says) (Published: 2025-11-03)
-- [nemo-evaluator 0.1.23](https://pypi.org/project/nemo-evaluator/0.1.23/) (Published: 2025-11-03)
