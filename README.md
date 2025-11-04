@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-04 15:52:04**_
+_Last updated: **2025-11-04 16:16:11**_
 
-- [Amazon Enters a Mega-Deal With OpenAI to Provide NVIDIA’s GB200 & GB300 AI Servers in a ‘Surprising’ Seven-Year Agreement](https://wccftech.com/amazon-enters-a-mega-deal-with-openai/) (Published: 2025-11-03)
-- [Amazon inks $38 billion deal with OpenAI for Nvidia chips](https://www.livemint.com/companies/news/amazon-inks-38-billion-deal-with-openai-for-nvidia-chips-11762184505772.html) (Published: 2025-11-03)
-- [Stock market today: Dow slips, Nasdaq pops as Amazon's OpenAI deal boosts AI bets](https://biztoc.com/x/0c374580d78dd90a) (Published: 2025-11-03)
-- [This could be a ‘radically bullish’ sign for Nvidia, AMD and other chip stocks](https://biztoc.com/x/569a8e960b1448d0) (Published: 2025-11-03)
-- [Iren Surges On $9.7 Billion AI Cloud Services Contract With Microsoft](https://biztoc.com/x/828e69ca474f3374) (Published: 2025-11-03)
-- [Crypto stock surges after $9.7B Microsoft deal](https://biztoc.com/x/b69604a4eb1eebda) (Published: 2025-11-03)
-- [Wall Street Loves Nvidia, Palantir and Cisco](https://biztoc.com/x/a6d580f9c2e0861d) (Published: 2025-11-03)
-- [Microsoft $9.7 billion deal with IREN will give it access to Nvidia chips](https://biztoc.com/x/9303dec6cdadcf57) (Published: 2025-11-03)
-- [Big Tech's rising AI investments show market bubble 'still has a good ways to go'](https://finance.yahoo.com/news/big-techs-rising-ai-investments-show-market-bubble-still-has-a-good-ways-to-go-154416770.html) (Published: 2025-11-03)
+- [Oppenheimer Initiates Coverage on TeraWulf (WULF) with Outperform Rating](https://finance.yahoo.com/news/oppenheimer-initiates-coverage-terawulf-wulf-161558180.html) (Published: 2025-11-03)
+- [Is Rigetti Computing (RGTI) One of the Best Performing Stocks in the Last 3 Months?](https://finance.yahoo.com/news/rigetti-computing-rgti-one-best-161555792.html) (Published: 2025-11-03)
+- [Warren Buffett is in his final 2 months as CEO. He's leaving at a tricky time for Berkshire Hathaway.](https://www.businessinsider.com/warren-buffett-ceo-retirement-succession-abel-berkshire-hathaway-stock-cash-2025-11) (Published: 2025-11-03)
+- [AI and the Future of Work Strategic Intelligence Report 2025: New Industries, New Jobs, and Especially New Ways of Working are on the Horizon](https://www.globenewswire.com/news-release/2025/11/03/3179559/28124/en/AI-and-the-Future-of-Work-Strategic-Intelligence-Report-2025-New-Industries-New-Jobs-and-Especially-New-Ways-of-Working-are-on-the-Horizon.html) (Published: 2025-11-03)
+- [US allows Microsoft to ship Nvidia AI chips to use in UAE for first time - Financial Times](https://slashdot.org/firehose.pl?op=view&amp;id=179952002) (Published: 2025-11-03)
+- [OpenAI, Amazon Sign $38B Deal](https://www.newser.com/story/377987/openai-amazon-sign-38b-deal.html) (Published: 2025-11-03)
+- [It looks like a NUC, it smells like a NUC, but this is not a NUC: Asus ditches the Intel naming for new AMD-powered mini PC, but restricts its GPU choice](https://www.pcgamer.com/hardware/gaming-pcs/it-looks-like-a-nuc-it-smells-like-a-nuc-but-this-is-not-a-nuc-asus-ditches-the-intel-naming-for-new-amd-powered-mini-pc-but-restricts-its-gpu-choice/) (Published: 2025-11-03)
+- [ChatGPT owner OpenAI signs $38bn cloud computing deal with Amazon](https://www.bbc.com/news/articles/cgqlzje32pjo) (Published: 2025-11-03)
+- [I tested 3 Snapdragon X Windows laptops this year - and found 3 big issues](https://www.zdnet.com/article/i-tested-3-snapdragon-x-windows-laptops-this-year-and-found-3-big-issues/) (Published: 2025-11-03)
+- [Windows 10 Still Hanging On Among PC Gamers on Steam](https://uk.pcmag.com/operating-systems/161053/windows-10-still-hanging-on-among-pc-gamers-on-steam) (Published: 2025-11-03)
