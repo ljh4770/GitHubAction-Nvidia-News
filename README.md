@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-04 14:54:29**_
+_Last updated: **2025-11-04 15:19:44**_
 
-- [AWS and OpenAI announce multi-year strategic partnership - About Amazon](https://slashdot.org/firehose.pl?op=view&amp;id=179951272) (Published: 2025-11-03)
-- [Amazon stock jumps on $38 billion deal with OpenAI to use hundreds of thousands of Nvidia chips](https://finance.yahoo.com/news/amazon-stock-jumps-on-38-billion-deal-with-openai-to-use-hundreds-of-thousands-of-nvidia-chips-145357373.html) (Published: 2025-11-03)
-- [OpenAI turns to Amazon in $38 billion cloud services deal after restructuring](https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-turns-to-amazon-in-38-billion-cloud-services-deal-after-restructuring/articleshow/125062145.cms) (Published: 2025-11-03)
-- [OpenAI, Amazon strike $38 billion agreement for ChatGPT maker to use AWS](https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-amazon-strike-38-billion-agreement-for-chatgpt-maker-to-use-aws/articleshow/125062145.cms) (Published: 2025-11-03)
-- [Stock Market Today: S&P 500 Futures Rise; Bitcoin Prices Fall; Kimberly-Clark to Buy Kenvue — Live Updates - The Wall Street Journal](https://slashdot.org/firehose.pl?op=view&amp;id=179951270) (Published: 2025-11-03)
-- [Stock market today: S&P 500, Nasdaq jump to kick off November as Amazon, Nvidia lead way](https://biztoc.com/x/7b31d3e3f48c6e77) (Published: 2025-11-03)
-- [Microsoft expands in UAE with $15.2B in investment](https://biztoc.com/x/1d0460a9a3413fd6) (Published: 2025-11-03)
-- [Amazon & OpenAI Strike $38 Billion Compute Deal As Microsoft Exclusive Ends](https://biztoc.com/x/ac472b0162205470) (Published: 2025-11-03)
-- [Nvidia share price: NVDA stocks jump after $5 trillion AI giant gets mega boost from Donald Trump boost](https://economictimes.indiatimes.com/news/international/us/nvidia-share-price-nvda-stocks-jump-after-5-trillion-ai-giant-gets-mega-boost-from-donald-trump-boost/articleshow/125061814.cms) (Published: 2025-11-03)
+- [Amazon share price: AMZN stocks are trading high after ChatGPT maker OpenAI uses AWS](https://economictimes.indiatimes.com/news/international/us/amazon-share-price-amzn-stocks-are-trading-high-after-chatgpt-maker-openai-uses-aws/articleshow/125062375.cms) (Published: 2025-11-03)
+- [Microsoft's $9.7B Move to Tackle the AI Capacity Crunch](https://finance.yahoo.com/video/microsofts-9-7b-move-tackle-151411316.html) (Published: 2025-11-03)
+- [Amazon stock jumps on $38 billion deal with OpenAI to use hundreds of thousands of Nvidia chips](https://biztoc.com/x/70846c9754fb2a9b) (Published: 2025-11-03)
+- [OpenAI strikes $38 billion AI training deal with Amazon](https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai) (Published: 2025-11-03)
+- [Analyzing NVIDIA In Comparison To Competitors In Semiconductors & Semiconductor Equipment Industry](https://biztoc.com/x/02f887a63353f604) (Published: 2025-11-03)
+- [OpenAI in $38 Billion Deal with Amazon AWS](https://www.thurrott.com/a-i/openai-a-i/329158/openai-in-38-billion-deal-with-amazon-aws) (Published: 2025-11-03)
+- [Stock futures gain momentum entering November trading](https://rollingout.com/2025/11/03/stock-futures-gain-momentum-november/) (Published: 2025-11-03)
+- [Entering The Age of The Ozempic Company](https://www.forbes.com/sites/stephenmiles/2025/11/03/entering-the-age-of-the-ozempic-company/) (Published: 2025-11-03)
+- [OpenAI lands massive $38B Amazon deal in AI power grab](https://rollingout.com/2025/11/03/openai-lands-massive-38b-amazon-deal-in/) (Published: 2025-11-03)
