@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-04 15:19:44**_
+_Last updated: **2025-11-04 15:39:39**_
 
-- [Amazon share price: AMZN stocks are trading high after ChatGPT maker OpenAI uses AWS](https://economictimes.indiatimes.com/news/international/us/amazon-share-price-amzn-stocks-are-trading-high-after-chatgpt-maker-openai-uses-aws/articleshow/125062375.cms) (Published: 2025-11-03)
-- [Microsoft's $9.7B Move to Tackle the AI Capacity Crunch](https://finance.yahoo.com/video/microsofts-9-7b-move-tackle-151411316.html) (Published: 2025-11-03)
-- [Amazon stock jumps on $38 billion deal with OpenAI to use hundreds of thousands of Nvidia chips](https://biztoc.com/x/70846c9754fb2a9b) (Published: 2025-11-03)
-- [OpenAI strikes $38 billion AI training deal with Amazon](https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai) (Published: 2025-11-03)
-- [Analyzing NVIDIA In Comparison To Competitors In Semiconductors & Semiconductor Equipment Industry](https://biztoc.com/x/02f887a63353f604) (Published: 2025-11-03)
-- [OpenAI in $38 Billion Deal with Amazon AWS](https://www.thurrott.com/a-i/openai-a-i/329158/openai-in-38-billion-deal-with-amazon-aws) (Published: 2025-11-03)
-- [Stock futures gain momentum entering November trading](https://rollingout.com/2025/11/03/stock-futures-gain-momentum-november/) (Published: 2025-11-03)
-- [Entering The Age of The Ozempic Company](https://www.forbes.com/sites/stephenmiles/2025/11/03/entering-the-age-of-the-ozempic-company/) (Published: 2025-11-03)
-- [OpenAI lands massive $38B Amazon deal in AI power grab](https://rollingout.com/2025/11/03/openai-lands-massive-38b-amazon-deal-in/) (Published: 2025-11-03)
+- [Amazon shares hit all-time high after OpenAI deal worth $38 billion for cloud services](https://economictimes.indiatimes.com/markets/stocks/news/amazon-shares-hit-all-time-high-after-openai-deal-worth-38-billion-for-cloud-services/articleshow/125062710.cms) (Published: 2025-11-03)
+- [LG Display tipped to release new 27-inch and 1,000 Hz gaming monitor panel technology](https://www.notebookcheck.net/LG-Display-tipped-to-release-new-27-inch-and-1-000-Hz-gaming-monitor-panel-technology.1154000.0.html) (Published: 2025-11-03)
+- [Napier AI selected for launch of FCA Supercharged Sandbox](https://www.finextra.com/pressarticle/107801/napier-ai-selected-for-launch-of-fca-supercharged-sandbox) (Published: 2025-11-03)
+- [On theCUBE Pod: Nvidia’s plan to fuel the U.S. economy, AI’s impact on national infrastructure and what big tech outages say about cyber resiliency](https://siliconangle.com/2025/11/03/nvidia-american-technology-ai-thecubepod/) (Published: 2025-11-03)
+- [Was the Isaac Dulgarian vs Yadier del Valle UFC fight fixed after sportsbooks issued mass refunds?](https://timesofindia.indiatimes.com/sports/international-sports/was-the-isaac-dulgarian-vs-yadier-del-valle-ufc-fight-fixed-after-sportsbooks-issued-mass-refunds/articleshow/125062529.cms) (Published: 2025-11-03)
+- [Crypto stock surges after $9.7B Microsoft deal](https://www.thestreet.com/crypto/stock/stock-surges-after-microsoft-deal) (Published: 2025-11-03)
+- [Wall Street Loves Nvidia, Palantir and Cisco](https://biztoc.com/x/8f45abc38fda7b3a) (Published: 2025-11-03)
+- [OpenAI and Amazon ink $38B cloud computing deal   | TechCrunch](https://techcrunch.com/2025/11/03/openai-and-amazon-ink-38b-cloud-computing-deal/) (Published: 2025-11-03)
+- [3 Big Winners From Amazon’s Plan to Double Capacity by 2027](https://biztoc.com/x/9b199619df5172c2) (Published: 2025-11-03)
+- [Sentiment in Nvidia Turns Negative, Down to 41/100 At Market Open (NVDA)](https://biztoc.com/x/30a1d51258075b0c) (Published: 2025-11-03)
