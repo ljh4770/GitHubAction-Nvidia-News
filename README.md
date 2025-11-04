@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-04 07:41:26**_
+_Last updated: **2025-11-04 07:52:13**_
 
+- [The tragedy of Crete and the parody of ELTA, Karystianou’s Wave, Zappeion becomes Houston, Kimberly’s table no. 30 and the cold cuts match](https://en.protothema.gr/2025/11/03/the-tragedy-of-crete-and-the-parody-of-elta-karystianous-wave-zappeion-becomes-houston-kimberlys-table-no-30-and-the-cold-cuts-match/) (Published: 2025-11-03)
 - [Trump says Nvidia not allowed to sell advanced AI chips to China- 60 Minutes](https://biztoc.com/x/efa1ff024fa5fa12) (Published: 2025-11-03)
 - [CNBC Daily Open: U.S. stocks' gains in October owe much to AI](https://www.cnbc.com/2025/11/03/cnbc-daily-open-us-stocks-gains-in-october-owe-much-to-ai.html) (Published: 2025-11-03)
 - [Trump Says Will 'Not Let Anybody Have' Nvidia Chips—But Satya Nadella Reveals MSFT's Chips Are Lying In 'Inventory' Due To Power Shortage](https://biztoc.com/x/49ffba72af77da58) (Published: 2025-11-03)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-04 07:41:26**_
 - [AWS hails return to accelerated growth with Q3 results](https://www.computerweekly.com/news/366633898/AWS-hails-return-to-accelerated-growth-with-Q3-results) (Published: 2025-11-03)
 - [Credo Technology (CRDO) Surges 20.6% as Ex-Nvidia Exec Joins Board](https://finance.yahoo.com/news/credo-technology-crdo-surges-20-063525650.html) (Published: 2025-11-03)
 - [Northern Ireland offers Indian companies a gateway for global growth](https://economictimes.indiatimes.com/news/economy/foreign-trade/northern-ireland-offers-indian-companies-a-gateway-for-global-growth/articleshow/125048489.cms) (Published: 2025-11-03)
-- [Apple’s delayed AI revamp of Siri will ‘lean’ on custom Google Gemini model: Report](https://indianexpress.com/article/technology/artificial-intelligence/apple-delayed-ai-siri-google-gemini-model-report-10342945/) (Published: 2025-11-03)
