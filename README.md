@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-04 05:50:35**_
+_Last updated: **2025-11-04 06:14:44**_
 
+- [Northern Ireland offers Indian companies a gateway for global growth](https://economictimes.indiatimes.com/news/economy/foreign-trade/northern-ireland-offers-indian-companies-a-gateway-for-global-growth/articleshow/125048489.cms) (Published: 2025-11-03)
+- [Apple’s delayed AI revamp of Siri will ‘lean’ on custom Google Gemini model: Report](https://indianexpress.com/article/technology/artificial-intelligence/apple-delayed-ai-siri-google-gemini-model-report-10342945/) (Published: 2025-11-03)
 - [Asian stocks rise on AI sentiment, dollar near 3-month high](https://biztoc.com/x/49c4109f7a9302d6) (Published: 2025-11-03)
 - [Sources: Pony AI plans to raise $863M in its November 6 Hong Kong IPO by selling 48.3M shares at ~$17.88 each, below its October 31 Nasdaq close at $18.68](https://biztoc.com/x/13e308a60cd3006e) (Published: 2025-11-03)
 - [Anutin Apology Shows Thai Sensitivities Over Cambodia Conflict](https://biztoc.com/x/21ed06bb39f56059) (Published: 2025-11-03)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-04 05:50:35**_
 - [Government shutdown threatens to delay home heating aid for millions of low-income families](https://biztoc.com/x/7ff5dfd65555d494) (Published: 2025-11-03)
 - [During an interview, Satya Nadella says Microsoft faces a power shortage, not a compute one, which could leave “chips sitting in inventory that I can't plug in”](https://biztoc.com/x/ec8ecc2b2133e16a) (Published: 2025-11-03)
 - [Chinese Jewelers to Bear the Brunt of Tax Changes for Gold](https://biztoc.com/x/66a80f0b0cd77808) (Published: 2025-11-03)
-- [What Tariffs? Europe Inc. Adapts as Many Firms Post Gains in US](https://biztoc.com/x/3622613db933b30f) (Published: 2025-11-03)
-- [Morgan Stanley Lifts Oil Forecast After OPEC+ Output Hike Pause](https://biztoc.com/x/baf97e64a7b695b5) (Published: 2025-11-03)
