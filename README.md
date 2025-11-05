@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-05 05:35:08**_
+_Last updated: **2025-11-05 05:47:02**_
 
 - [South Korea's Kospi snaps 4-session winning streak as Asia-Pacific markets trade mixed](https://biztoc.com/x/85cae29f23d3e414) (Published: 2025-11-04)
 - [South Korean president calls for aggressive AI spending in budget speech](https://apnews.com/article/south-korea-lee-jae-myung-ai-budget-nvidia-80db48ff3d6cdaabd10b79518d56dc0f) (Published: 2025-11-04)
