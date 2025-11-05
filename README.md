@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-05 08:51:58**_
+_Last updated: **2025-11-05 09:14:14**_
 
+- [OpenAI's ChatGPT Go now free in India: Users fume as UPI payments fail during free plan rollout](https://economictimes.indiatimes.com/news/new-updates/openai-chatgpt-go-now-free-in-india-users-fume-as-upi-payments-fail-during-free-plan-rollout/articleshow/125081970.cms) (Published: 2025-11-04)
+- [nvidia-nat-opentelemetry 1.3.0a20251104](https://pypi.org/project/nvidia-nat-opentelemetry/1.3.0a20251104/) (Published: 2025-11-04)
+- [nvidia-nat-ragaai 1.3.0a20251104](https://pypi.org/project/nvidia-nat-ragaai/1.3.0a20251104/) (Published: 2025-11-04)
+- [nvidia-nat-profiling 1.3.0a20251104](https://pypi.org/project/nvidia-nat-profiling/1.3.0a20251104/) (Published: 2025-11-04)
+- [Some CEOs have vowed to revolt against a Zohran Mamdani win. Jamie Dimon says he’ll ‘call him and offer my help’](https://fortune.com/2025/11/04/zohran-mamdani-nyc-mayor-race-election-day-ceos-jamie-dimon/) (Published: 2025-11-04)
+- [nvidia-nat-data-flywheel 1.3.0a20251104](https://pypi.org/project/nvidia-nat-data-flywheel/1.3.0a20251104/) (Published: 2025-11-04)
+- ['Big Short' Michael Burry Bet Against Palantir and Nvidia](https://biztoc.com/x/bb73af60fe26fcf9) (Published: 2025-11-04)
 - [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Down; Palantir, AMD, Kenvue, Nvidia, More Movers](https://biztoc.com/x/78e7bdecf4e171d4) (Published: 2025-11-04)
 - ['No to groypers, anti-Americanism': Tucker Carlson faces massive backlash over Charlie Kirk's enemy Nick Fuentes' interview](https://economictimes.indiatimes.com/news/international/global-trends/us-news-no-to-groypers-anti-americanism-tucker-carlson-faces-massive-backlash-over-charlie-kirks-enemy-nick-fuentes-interview/articleshow/125080841.cms) (Published: 2025-11-04)
 - [OpenAI inks $38bn cloud deal with AWS after corporate restructure](https://biztoc.com/x/a5eb3f8c7baf719c) (Published: 2025-11-04)
-- [Asian shares trade lower after AI darlings prop up Wall Street](https://japantoday.com/category/business/asian-shares-trade-mixed-after-ai-darlings-prop-up-wall-street) (Published: 2025-11-04)
-- [Karoline Leavitt, 28, called out for 'photoshopping' her 60-year-old husband in Halloween photos: Who is Nicholas Riccio and what is his net worth?](https://economictimes.indiatimes.com/news/international/global-trends/us-news-karoline-leavitt-28-called-out-for-photoshopping-her-60-year-old-husband-in-halloween-photos-who-is-nicholas-riccio-and-what-is-his-net-worth/articleshow/125079004.cms) (Published: 2025-11-04)
-- [CNBC Daily Open: AI is carrying the weight of the U.S. market](https://www.cnbc.com/2025/11/04/cnbc-daily-open-ai-is-carrying-the-weight-of-the-us-market.html) (Published: 2025-11-04)
-- [Asian shares trade lower after AI darlings prop up Wall Street](https://abcnews.go.com/Business/wireStory/asian-shares-trade-lower-after-ai-darlings-prop-127159115) (Published: 2025-11-04)
-- [Hyundai Venue 2025, Venue N Line launched: Check price, design, features, and everything else you need to know](https://economictimes.indiatimes.com/industry/auto/cars-uvs/hyundai-venue-2025-venue-n-line-launched-check-price-design-features-and-everything-else-you-need-to-know/articleshow/125078477.cms) (Published: 2025-11-04)
-- [Palantir shares drop in Europe despite earnings beat](https://finance.yahoo.com/news/palantir-shares-drop-europe-despite-071618120.html) (Published: 2025-11-04)
-- [Amazon Secures $38 Billion Deal to Host OpenAI’s NVIDIA GB200/GB300 AI Servers](https://www.madshrimps.be/news/amazon-secures-38-billion-deal-to-host-openais-nvidia-gb200-gb300-ai-servers/) (Published: 2025-11-04)
