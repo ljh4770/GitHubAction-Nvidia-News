@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-05 21:52:03**_
+_Last updated: **2025-11-05 22:11:31**_
 
-- [Don’t Panic, But AI Stocks Are Suddenly Lurching Downward](http://futurism.com/artificial-intelligence/ai-stocks-lurching-downward) (Published: 2025-11-04)
-- [IBM to Cut Thousands of Jobs as Focus Shifts From Consulting to Software](https://www.pymnts.com/personnel/2025/ibm-cut-thousands-jobs-focus-shifts-consulting-software/) (Published: 2025-11-04)
-- [US Stocks Fall on Concerns About AI Valuations](https://biztoc.com/x/59c8a74950f3e352) (Published: 2025-11-04)
-- [Key Fed Fund Rates Trade Gains Popularity Amid Repo Volatility](https://biztoc.com/x/33a1af8f7cb27348) (Published: 2025-11-04)
-- [Lachlan Murdoch’s Reelection to News Corp. Board Opposed by ISS](https://biztoc.com/x/6d43494bbbbb0bf6) (Published: 2025-11-04)
-- [McDonald’s Meal Deals Are Winning Back Customers. Watch the Earnings](https://biztoc.com/x/17ceb02a2db4f380) (Published: 2025-11-04)
-- [Cava cuts full-year forecast, in another warning sign for fast-casual restaurants](https://biztoc.com/x/274afc144704ab74) (Published: 2025-11-04)
-- [Australia Widens Under-16 Social Media Ban to Include Reddit](https://biztoc.com/x/bd65c5fab95d078a) (Published: 2025-11-04)
-- [CPUs and GPUs to Become More Expensive After TSMC Price Hike in 2026](https://www.guru3d.com/story/cpus-and-gpus-to-become-more-expensive-after-tsmc-price-hike-in-2026/) (Published: 2025-11-04)
-- [AMD reports better-than-expected results but margin guidance only meets estimates](https://www.cnbc.com/2025/11/04/amd-q3-earnings-report-2025.html) (Published: 2025-11-04)
+- [Activision Debuts Call of Duty: Black Ops 7 Launch Trailer, PC Specs Revealed](https://wccftech.com/call-of-duty-black-ops-7-launch-trailer-pc-specs-revealed/) (Published: 2025-11-04)
+- [Risk-off moves drive equity markets lower, led by declines in technology stocks](https://financialpost.com/pmn/risk-off-moves-drive-equity-markets-lower-led-by-declines-in-technology-stocks) (Published: 2025-11-04)
+- [Streamer SypherPK and Wife Daniela Split, Business Partnership Remains](https://www.tmz.com/2025/11/04/sypherpk-wife-break-up/) (Published: 2025-11-04)
+- [Super Micro Raises Revenue Outlook as Order Book Expands](https://biztoc.com/x/972e663221bd8454) (Published: 2025-11-04)
+- [Nvidia and Palantir Stocks Are Falling Today. Here’s Why](https://biztoc.com/x/fd5aa222f3f6424f) (Published: 2025-11-04)
+- [AI stocks waver as Big Short investor bets against Palantir, Nvidia](https://www.washingtonpost.com/business/2025/11/04/palantir-nvidia-stock-market-michael-burry/) (Published: 2025-11-04)
+- [AMD’s Outlook Fails to Wow Investors After AI-Fueled Rally](https://financialpost.com/pmn/business-pmn/amds-outlook-fails-to-wow-investors-after-ai-fueled-rally) (Published: 2025-11-04)
+- [Countdown to KubeCon + CloudNativeCon NA: Red Hat powers the next wave of open-source innovation](https://siliconangle.com/2025/11/04/red-hat-open-source-evolution-cloud-native-infrastructure-kubeconna/) (Published: 2025-11-04)
+- [Digital Turbine Surges 22% in After Hours Following FY 2026 Q2 Earnings](https://biztoc.com/x/fb7d3cc9051047da) (Published: 2025-11-04)
