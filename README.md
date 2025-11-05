@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-05 22:46:04**_
+_Last updated: **2025-11-05 22:56:26**_
 
+- [Lumentum Holdings Jumps 12% After FY26 Q1 Earnings Beat](https://biztoc.com/x/61f253fc72d1d5d1) (Published: 2025-11-04)
+- [Toast Inc. Q3 Earnings Miss on EPS, Beat on Revenue](https://biztoc.com/x/4a943ec7963c7d7a) (Published: 2025-11-04)
 - [(PR) Corsair Gaming Reports Third Quarter 2025 Financial Results](https://www.techpowerup.com/342627/corsair-gaming-reports-third-quarter-2025-financial-results) (Published: 2025-11-04)
 - [AMD Revenues Jump 36 Percent to $9.2 Billion](https://www.thurrott.com/cloud/329244/amd-revenues-jump-36-percent-to-9-2-billion) (Published: 2025-11-04)
 - [Super Micro stock drops on slumping sales, weak earnings](https://www.cnbc.com/2025/11/04/super-micro-smci-q1-earnings-report-2026.html) (Published: 2025-11-04)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-05 22:46:04**_
 - [Streamer SypherPK and Wife Daniela Split, Business Partnership Remains](https://www.tmz.com/2025/11/04/sypherpk-wife-break-up/) (Published: 2025-11-04)
 - [Super Micro Raises Revenue Outlook as Order Book Expands](https://biztoc.com/x/972e663221bd8454) (Published: 2025-11-04)
 - [Nvidia and Palantir Stocks Are Falling Today. Here’s Why](https://biztoc.com/x/fd5aa222f3f6424f) (Published: 2025-11-04)
-- [AI stocks waver as Big Short investor bets against Palantir, Nvidia](https://www.washingtonpost.com/business/2025/11/04/palantir-nvidia-stock-market-michael-burry/) (Published: 2025-11-04)
-- [AMD’s Outlook Fails to Wow Investors After AI-Fueled Rally](https://financialpost.com/pmn/business-pmn/amds-outlook-fails-to-wow-investors-after-ai-fueled-rally) (Published: 2025-11-04)
