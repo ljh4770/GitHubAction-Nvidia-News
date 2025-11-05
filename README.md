@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-05 09:50:32**_
+_Last updated: **2025-11-05 10:11:05**_
 
+- [Is AI coming for your job? Maybe, but permanent displacement would be a historical first](https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/) (Published: 2025-11-04)
+- [SUSE Linux Enterprise Server 16 lands - with AI and EU support baked in](https://www.zdnet.com/article/suse-linux-enterprise-server-16-lands-with-ai-and-eu-support-baked-in/) (Published: 2025-11-04)
+- [Corsair Vengeance A7500 Air Desktop Review: Prebuilt Gaming PCs Aren't Always Special](https://www.cnet.com/tech/gaming/corsair-vengeance-a7500-air-desktop-review-prebuilt-gaming-pcs-arent-always-special/) (Published: 2025-11-04)
+- [SafePaper report: how cloud gaming is making high-end performance available to all](https://thegadgetflow.com/blog/safepaper-report-cloud-gaming/) (Published: 2025-11-04)
 - [Michael Burry challenges the AI trade with big short bets on Nvidia and Palantir](https://biztoc.com/x/488309fa48cc039e) (Published: 2025-11-04)
 - [Generative AI Cybersecurity Research Report 2025-2030: $35.5 Bn Market to Grow Rapidly, Driven by Rising AI Supply Chain Attacks, Secure Model Execution Demand, Expansion of Model-as-a-Service](https://www.globenewswire.com/news-release/2025/11/04/3180019/28124/en/Generative-AI-Cybersecurity-Research-Report-2025-2030-35-5-Bn-Market-to-Grow-Rapidly-Driven-by-Rising-AI-Supply-Chain-Attacks-Secure-Model-Execution-Demand-Expansion-of-Model-as-a-.html) (Published: 2025-11-04)
 - [The Smartest Vanguard ETF to Buy With $1,000 Right Now](https://biztoc.com/x/d33230e8c2f26f96) (Published: 2025-11-04)
 - [nvfuser-cu126 0.2.34.dev20251104](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20251104/) (Published: 2025-11-04)
 - [nvfuser-cu128 0.2.34.dev20251104](https://pypi.org/project/nvfuser-cu128/0.2.34.dev20251104/) (Published: 2025-11-04)
 - [nvfuser-cu130 0.2.34.dev20251104](https://pypi.org/project/nvfuser-cu130/0.2.34.dev20251104/) (Published: 2025-11-04)
-- [Amazon Stock Jumps on $38 Billion OpenAI Deal. What We Know. - Barron's](https://slashdot.org/firehose.pl?op=view&amp;id=179960098) (Published: 2025-11-04)
-- [The ‘Tech Prosperity Deal’ must now be matched by a UK skills revolution](https://www.computerweekly.com/opinion/The-Tech-Prosperity-Deal-must-now-be-matched-by-a-UK-skills-revolution) (Published: 2025-11-04)
-- [nvidia-nat-phoenix 1.3.0a20251104](https://pypi.org/project/nvidia-nat-phoenix/1.3.0a20251104/) (Published: 2025-11-04)
-- [Prediction: This Unstoppable Stock Will Join Nvidia and Apple in the $4 Trillion Club Before 2029](https://biztoc.com/x/862b8aa5169d7b51) (Published: 2025-11-04)
