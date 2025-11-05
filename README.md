@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-05 07:45:12**_
+_Last updated: **2025-11-05 07:55:41**_
 
 - [Asian shares trade lower after AI darlings prop up Wall Street](https://japantoday.com/category/business/asian-shares-trade-mixed-after-ai-darlings-prop-up-wall-street) (Published: 2025-11-04)
 - [Karoline Leavitt, 28, called out for 'photoshopping' her 60-year-old husband in Halloween photos: Who is Nicholas Riccio and what is his net worth?](https://economictimes.indiatimes.com/news/international/global-trends/us-news-karoline-leavitt-28-called-out-for-photoshopping-her-60-year-old-husband-in-halloween-photos-who-is-nicholas-riccio-and-what-is-his-net-worth/articleshow/125079004.cms) (Published: 2025-11-04)
