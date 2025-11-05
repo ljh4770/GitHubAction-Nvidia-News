@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-05 23:46:07**_
+_Last updated: **2025-11-05 23:56:15**_
 
 - [What’s New in vcpkg (October 2025)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-october-2025/) (Published: 2025-11-04)
 - [AMD’s revenue and profit jumps again, but stock falls as margins disappoint](https://siliconangle.com/2025/11/04/amds-revenue-profit-jumps-stock-falls-margins-disappoint/) (Published: 2025-11-04)
