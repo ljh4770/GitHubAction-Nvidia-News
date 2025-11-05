@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-05 22:33:17**_
+_Last updated: **2025-11-05 22:46:04**_
 
+- [(PR) Corsair Gaming Reports Third Quarter 2025 Financial Results](https://www.techpowerup.com/342627/corsair-gaming-reports-third-quarter-2025-financial-results) (Published: 2025-11-04)
 - [AMD Revenues Jump 36 Percent to $9.2 Billion](https://www.thurrott.com/cloud/329244/amd-revenues-jump-36-percent-to-9-2-billion) (Published: 2025-11-04)
 - [Super Micro stock drops on slumping sales, weak earnings](https://www.cnbc.com/2025/11/04/super-micro-smci-q1-earnings-report-2026.html) (Published: 2025-11-04)
 - [Activision Debuts Call of Duty: Black Ops 7 Launch Trailer, PC Specs Revealed](https://wccftech.com/call-of-duty-black-ops-7-launch-trailer-pc-specs-revealed/) (Published: 2025-11-04)
