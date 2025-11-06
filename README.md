@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 22:37:42**_
+_Last updated: **2025-11-06 22:48:43**_
 
 - [(PR) Arm Q2 FYE26 Revenue Surpasses $1 Billion for Third Consecutive Quarter](https://www.techpowerup.com/342655/arm-q2-fye26-revenue-surpasses-usd-1-billion-for-third-consecutive-quarter) (Published: 2025-11-05)
 - [Fortinet Shares Down 10% Despite Reporting Strong Q3 Financials](https://biztoc.com/x/db2edb948b0d37f3) (Published: 2025-11-05)
