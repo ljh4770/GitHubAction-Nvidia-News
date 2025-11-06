@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 08:58:26**_
+_Last updated: **2025-11-06 09:29:27**_
 
-- [CNBC's The China Connection newsletter: Rumblings of a crypto race](https://www.cnbc.com/2025/11/05/cnbcs-the-china-connection-newsletter-rumblings-of-a-crypto-race.html) (Published: 2025-11-05)
-- [Dawn of the self-driving age: Stellantis, Nvidia, Foxconn, and Uber forge global robotaxi alliance](https://www.digitimes.com/news/a20251104PD228/alliance-stellantis-nvidia-foxconn-uber.html) (Published: 2025-11-05)
-- [Magnum Ice Cream says Ben & Jerry's board chair no longer fit to serve](https://biztoc.com/x/445b3fad5b20f8b0) (Published: 2025-11-05)
-- [Are Wall Street Analysts Predicting GE Aerospace Stock Will Climb or Sink?](https://biztoc.com/x/82b538958de93bf9) (Published: 2025-11-05)
-- [Swedish Central Bank Holds Rates as Economic Recovery Builds](https://biztoc.com/x/391342b94b27719b) (Published: 2025-11-05)
-- [Xpeng teams up with Alibaba's Amap to launch robotaxi service](https://biztoc.com/x/34bc6225720ec69a) (Published: 2025-11-05)
-- [Rheinmetall-Leonardo JV receives first contract from Italian army](https://biztoc.com/x/b5f39ea79a87b7f2) (Published: 2025-11-05)
-- [NVIDIA DLSS 4 Arrives This Week to Final Fantasy VII Rebirth, The Last Caretaker and Deathground](https://www.madshrimps.be/news/nvidia-dlss-4-arrives-this-week-to-final-fantasy-vii-rebirth-the-last-caretaker-and-deathground/) (Published: 2025-11-05)
-- [Commentary: Jensen Huang's South Korea charm offensive signals Nvidia's Asia pivot](https://www.digitimes.com/news/a20251104PD212/nvidia-jensen-huang-chips-gpu-ceo.html) (Published: 2025-11-05)
-- [BOE Wants Banks to Remove Extra Capital Buffers in Growth Drive](https://biztoc.com/x/4baa703c46be1c8c) (Published: 2025-11-05)
+- [Super Micro shares slip as delivery delays stall AI momentum](https://www.channelnewsasia.com/business/super-micro-shares-slip-delivery-delays-stall-ai-momentum-5447481) (Published: 2025-11-05)
+- [Fullscreen apps on 3rd monitor onboard Graphiccard freezes but registers inputs when 2 other monitors on nvidia GC runs fullscreen too](https://askubuntu.com/questions/1559288/fullscreen-apps-on-3rd-monitor-onboard-graphiccard-freezes-but-registers-inputs) (Published: 2025-11-05)
+- [Italy retail sales fall 0.5% m/m in September](https://biztoc.com/x/28bb5b3c685a9684) (Published: 2025-11-05)
+- [Elevated valuations in focus; AMD reports; Novo’s outlook - what’s moving markets](https://biztoc.com/x/22e097400337c195) (Published: 2025-11-05)
+- [Hedge Funds That Dodged Climate Rules in Europe Take Aim at UK](https://biztoc.com/x/fef0e6bc60378fd1) (Published: 2025-11-05)
+- [China bans foreign AI chips from state-funded data centres, sources say](https://www.thehindubusinessline.com/news/world/china-bans-foreign-ai-chips-from-state-funded-data-centres-sources-say/article70243702.ece) (Published: 2025-11-05)
+- [aiqtoolkit-llama-index 1.3.0a20251105](https://pypi.org/project/aiqtoolkit-llama-index/1.3.0a20251105/) (Published: 2025-11-05)
+- [Donald Trump’s China Trade Policy Is a Hot Mess](https://biztoc.com/x/eff3eeaea69ed05e) (Published: 2025-11-05)
+- [Finding Investing Heirs to Warren Buffett Will Be Difficult](https://biztoc.com/x/5d7ffa95555faed2) (Published: 2025-11-05)
