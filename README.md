@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 03:06:15**_
+_Last updated: **2025-11-06 03:52:58**_
 
-- [Bitcoin Falls Below $100,000 As Risk-Off Mood Weighs On Crypto](https://www.ndtvprofit.com/markets/bitcoin-falls-below-100000-as-risk-off-mood-weighs-on-crypto) (Published: 2025-11-05)
-- [Asian markets tumble as tech bubble fears grow](https://www.digitaljournal.com/world/asian-markets-tumble-as-tech-bubble-fears-grow/article) (Published: 2025-11-05)
-- [Sidus Space unveils FeatherEdge 248Vi computer for AI and ML in satellite and defense systems](https://www.spacedaily.com/reports/Sidus_Space_unveils_FeatherEdge_248Vi_computer_for_AI_and_ML_in_satellite_and_defense_systems_999.html) (Published: 2025-11-05)
-- [OpenAI’s $38B Cloud Bet with Amazon](https://nep123.com/openais-38b-cloud-bet-with-amazon/) (Published: 2025-11-05)
-- [Japan's Nikkei falls 4% as tech stocks follow Wall Street lower](https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-falls-4-as-tech-stocks-follow-wall-street-lower/articleshow/125100082.cms) (Published: 2025-11-05)
-- [How Twelve Labs Teaches A.I. to ‘See’ and Transform Video Understanding: Interview](https://observer.com/2025/11/twelve-labs-video-ai-cofounder-interview/) (Published: 2025-11-05)
-- [megatron-fsdp 0.2.0.dev107779](https://pypi.org/project/megatron-fsdp/0.2.0.dev107779/) (Published: 2025-11-05)
-- [Inter BEE 2025に出展 次世代IP映像伝送とクリエイティブワークフローを提案](https://prtimes.jp/main/html/rd/p/000001009.000008686.html) (Published: 2025-11-05)
-- [Australia Just Built the World's First Quantum Diamond Factory — Here's Why It Matters](https://www.ibtimes.com.au/australia-just-built-worlds-first-quantum-diamond-factory-heres-why-it-matters-1861021) (Published: 2025-11-05)
-- [CNBC Daily Open: Beware the tunnel vision on AI stocks](https://www.cnbc.com/2025/11/05/cnbc-daily-open-beware-the-tunnel-vision-on-ai-stocks.html) (Published: 2025-11-05)
+- [Asian shares sink after losses for Big Tech pull US stocks lower](https://financialpost.com/pmn/asian-shares-sink-after-losses-for-big-tech-pull-us-stocks-lower) (Published: 2025-11-05)
+- [Nvidia deepens India footprint with $2 billion deep tech alliance to mentor AI startups](https://biztoc.com/x/dceff375c77244db) (Published: 2025-11-05)
+- [NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups](https://biztoc.com/x/e490e1d6b5a52624) (Published: 2025-11-05)
+- [US stocks edge higher as earnings reports, economic updates pour in](https://www.wftv.com/news/business/asian-shares-sink/4HSPD2PJDI3FBBV6LXINKNDEXI/) (Published: 2025-11-05)
+- [NVIDIA, Qualcomm join U.S., Indian VCs to help build India's next deep tech startups | TechCrunch](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) (Published: 2025-11-05)
+- [Nvidia deepens India footprint with $2 billion deep tech alliance to mentor AI startups](https://www.cnbc.com/2025/11/04/nvidia-joins-2-billion-india-deep-tech-alliance-to-mentor-ai-startups.html) (Published: 2025-11-05)
+- [Nvidia joins India Deep Tech Alliance as group adds new members, $850 million pledge](https://www.thehindubusinessline.com/info-tech/nvidia-joins-india-deep-tech-alliance-as-group-adds-new-members-850-million-pledge/article70242759.ece) (Published: 2025-11-05)
+- [International stocks slide as concerns about AI and tech company values spread](https://www.nbcnews.com/world/asia/international-stocks-slide-concerns-ai-tech-company-values-spread-rcna242025) (Published: 2025-11-05)
+- [HP Black Friday 2025 laptop sales in Australia: early deals are already live, score up to 53% off](https://www.techradar.com/computing/laptops/hp-black-friday-2025-laptop-sales-in-australia-early-deals-are-already-live-score-up-to-53-percent-off) (Published: 2025-11-05)
