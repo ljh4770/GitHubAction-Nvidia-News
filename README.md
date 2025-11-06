@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 18:52:20**_
+_Last updated: **2025-11-06 19:10:56**_
 
+- [Rivian Spins Off a Robotics Startup to Foray Into Physical A.I.](https://observer.com/2025/11/rivian-spinoff-mind-robotics-ai/) (Published: 2025-11-05)
 - [PlayStation forced Microsoft to give up Xbox exclusives — now it wants to destroy Xbox at cloud gaming and Xbox Play Anywhere cross-buy as well](https://www.windowscentral.com/gaming/xbox/playstation-forced-microsoft-to-give-up-xboxs-exclusives-now-its-ready-to-beat-xbox-at-cloud-gaming-and-pc-cross-buy-as-well) (Published: 2025-11-05)
 - [The China Summit Revealed the Limits of Trump’s Tariff War](https://insights.som.yale.edu/insights/the-china-summit-revealed-the-limits-of-trumps-tariff-war) (Published: 2025-11-05)
 - [Who is Michael Burry - the Big Short legend who has rattled Nvidia and Palantir](https://economictimes.indiatimes.com/news/international/us/who-is-michael-burry-the-big-short-legend-who-has-rattled-nvidia-and-palantir/articleshow/125114170.cms) (Published: 2025-11-05)
@@ -9,4 +10,3 @@ _Last updated: **2025-11-06 18:52:20**_
 - [Sequoia Capital's enduring strength tested by VC evolution](https://biztoc.com/x/338c9b2abb6201bc) (Published: 2025-11-05)
 - [China Bans Foreign AI Chips From State-Funded Data Centres](https://slashdot.org/story/25/11/05/1752200/china-bans-foreign-ai-chips-from-state-funded-data-centres) (Published: 2025-11-05)
 - [The NVIDIA phenomenon: The $5 trillion company became Trump’s super weapon in the “war” with China – How it surpassed Amazon, Apple and Microsoft](https://en.protothema.gr/2025/11/05/the-nvidia-phenomenon-the-5-trillion-company-became-trumps-super-weapon-in-the-war-with-china-how-it-surpassed-amazon-apple-and-microsoft/) (Published: 2025-11-05)
-- [Michael Burry's new short bets spook market and anger Palantir CEO, but his trade is likely underwater](https://biztoc.com/x/0b7110eec7b4edf6) (Published: 2025-11-05)
