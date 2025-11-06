@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 04:20:49**_
+_Last updated: **2025-11-06 04:44:36**_
 
 - [Bitcoin falls below $100,000 for the first time since June as risk-off mood weighs on crypto](https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-below-100000-for-the-first-time-since-june-as-risk-off-mood-weighs-on-crypto/articleshow/125100752.cms) (Published: 2025-11-05)
 - [Asian shares sink after losses for Big Tech pull US stocks lower](https://financialpost.com/pmn/asian-shares-sink-after-losses-for-big-tech-pull-us-stocks-lower) (Published: 2025-11-05)
