@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 21:44:48**_
+_Last updated: **2025-11-06 21:55:14**_
 
 - [A new ion-based quantum computer makes error correction simpler](https://www.technologyreview.com/2025/11/05/1127659/a-new-ion-based-quantum-computer-makes-error-correction-simpler/) (Published: 2025-11-05)
 - [AI Wunderkind DeepSeek’s Founder Debuts On China’s 100 Richest List](https://www.forbes.com/sites/ywang/2025/11/05/ai-wunderkind-deepseeks-founder-debuts-on-chinas-100-richest-list/) (Published: 2025-11-05)
@@ -10,4 +10,3 @@ _Last updated: **2025-11-06 21:44:48**_
 - [NVIDIA Jensen Huang: China 'will win' AI race with USA...](https://www.removepaywall.com/search?url=https://www.ft.com/content/53295276-ba8d-4ec2-b0de-081e73b3ba43) (Published: 2025-11-05)
 - [Why some are starting to question if the world's richest man is still value for money](https://news.sky.com/story/elon-musk-why-some-are-starting-to-question-if-the-worlds-richest-man-is-still-value-for-money-13464620) (Published: 2025-11-05)
 - [I've just spotted the best early Black Friday deal so far – save $1,100 on Samsung's five-star-rated OLED TV](https://www.techradar.com/seasonal-sales/ive-just-spotted-the-best-early-black-friday-deal-so-far-save-usd1-100-on-samsungs-five-star-rated-oled-tv) (Published: 2025-11-05)
-- [Nvidia's Jensen Huang: 'China is going to win the AI race,' FT reports](https://finance.yahoo.com/news/nvidias-jensen-huang-says-china-211900769.html) (Published: 2025-11-05)
