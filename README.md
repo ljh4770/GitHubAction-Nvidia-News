@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 10:55:50**_
+_Last updated: **2025-11-06 11:18:30**_
 
-- [He spent 31 years at Microsoft. Then he was laid off — and had to relearn how to job hunt.](https://www.businessinsider.com/laid-off-microsoft-employee-relearns-how-job-hunt-2025-10) (Published: 2025-11-05)
-- [Why 'Big Short' investor Michael Burry is posting 'Star Wars' memes and betting big against Nvidia and Palantir](https://biztoc.com/x/f924a44501edf471) (Published: 2025-11-05)
-- [Why 'Big Short' investor Michael Burry is posting 'Star Wars' memes and betting big against Nvidia and Palantir](https://www.businessinsider.com/why-michael-burry-big-short-nvidia-palantir-ai-bubble-stocks-2025-11) (Published: 2025-11-05)
-- [Stocks drop as valuation fears hit tech sector; gold rallies](https://www.channelnewsasia.com/business/stocks-drop-valuation-fears-hit-tech-sector-gold-rallies-5446206) (Published: 2025-11-05)
-- [jupyterlab-nvidia-nsight 0.8.1](https://pypi.org/project/jupyterlab-nvidia-nsight/0.8.1/) (Published: 2025-11-05)
-- [Super Micro boosts forecast despite earnings wobble](https://www.madshrimps.be/news/super-micro-boosts-forecast-despite-earnings-wobble/) (Published: 2025-11-05)
-- [Nvidia and Deutsche Telekom plan €1 billion AI factory in Germany](https://www.madshrimps.be/news/nvidia-and-deutsche-telekom-plan-e1-billion-ai-factory-in-germany/) (Published: 2025-11-05)
-- [Giga Computing Announces Worldwide Availability of Its NVIDIA RTX PRO Server](https://www.madshrimps.be/news/giga-computing-announces-worldwide-availability-of-its-nvidia-rtx-pro-server/) (Published: 2025-11-05)
-- [Did Nvidia Secure Its Artificial Intelligence (AI) Dominance With This Move?](https://biztoc.com/x/fc2b78fb5d8f45f7) (Published: 2025-11-05)
+- [Markets are plunging worldwide after Michael Burry reveals $1.1 billion short bet against AI stocks](https://fortune.com/2025/11/05/michael-burry-1-billion-short-ai-stocks-markets/) (Published: 2025-11-05)
+- [Markets are plunging worldwide after ‘Big Short’ investor Michael Burry reveals $1.1 billion bet against AI stocks](https://finance.yahoo.com/news/markets-plunging-worldwide-big-short-111554009.html) (Published: 2025-11-05)
+- [Deutsche Telekom, Nvidia unveil Industrial AI Cloud](https://www.verdict.co.uk/deutsche-telekom-nvidia-industrial-ai-cloud/) (Published: 2025-11-05)
+- [Jim Cramer Points Out “Misinterpretation” Regarding President Trump’s Comments About NVIDIA (NVDA)](https://biztoc.com/x/bc2b83854d461d32) (Published: 2025-11-05)
+- [UCD buys €724,000 Nvidia supercomputer for AI-led research boost](https://biztoc.com/x/5a091e8dad01dd1e) (Published: 2025-11-05)
+- [The hidden tech inside your vape and sunglasses](https://finance.yahoo.com/video/hidden-tech-inside-vape-sunglasses-110004024.html) (Published: 2025-11-05)
+- [The Benefits of Bubbles](https://stratechery.com/2025/the-benefits-of-bubbles/) (Published: 2025-11-05)
+- [Ulta Beauty CEO Kecia Steelman went from earning $8 an hour to running the U.S.’s largest beauty retailer](https://fortune.com/2025/11/05/ulta-beauty-ceo-kecia-steelman-8-an-hour-running-1500-store-retailer-career-path/) (Published: 2025-11-05)
+- [Jim Cramer Points Out “Misinterpretation” Regarding President Trump’s Comments About NVIDIA (NVDA)](https://finance.yahoo.com/news/jim-cramer-points-misinterpretation-regarding-105714657.html) (Published: 2025-11-05)
+- [US tariff on skilled workers could create an inflection point in the war for AI talent](https://www.computerweekly.com/opinion/US-tariff-on-skilled-workers-could-create-an-inflection-point-in-the-war-for-AI-talent) (Published: 2025-11-05)
