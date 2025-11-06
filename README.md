@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 10:45:27**_
+_Last updated: **2025-11-06 10:55:50**_
 
 - [He spent 31 years at Microsoft. Then he was laid off — and had to relearn how to job hunt.](https://www.businessinsider.com/laid-off-microsoft-employee-relearns-how-job-hunt-2025-10) (Published: 2025-11-05)
 - [Why 'Big Short' investor Michael Burry is posting 'Star Wars' memes and betting big against Nvidia and Palantir](https://biztoc.com/x/f924a44501edf471) (Published: 2025-11-05)
