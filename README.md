@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 19:39:00**_
+_Last updated: **2025-11-06 19:49:41**_
 
 - [Nvidia, Apple Were Not Among October's Top 3 Dow Stocks](https://biztoc.com/x/8d109b94832f6350) (Published: 2025-11-05)
 - [After Amazon and Meta, IBM to layoff 2700 people - experts say more tech sackings will happen this year](https://economictimes.indiatimes.com/news/international/us/ibm-layoffs-2700-people-after-amazon-and-meta-job-cuts-experts-say-more-tech-sackings-will-happen-this-year/articleshow/125115257.cms) (Published: 2025-11-05)
