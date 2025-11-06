@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 01:47:11**_
+_Last updated: **2025-11-06 03:06:15**_
 
+- [Bitcoin Falls Below $100,000 As Risk-Off Mood Weighs On Crypto](https://www.ndtvprofit.com/markets/bitcoin-falls-below-100000-as-risk-off-mood-weighs-on-crypto) (Published: 2025-11-05)
+- [Asian markets tumble as tech bubble fears grow](https://www.digitaljournal.com/world/asian-markets-tumble-as-tech-bubble-fears-grow/article) (Published: 2025-11-05)
+- [Sidus Space unveils FeatherEdge 248Vi computer for AI and ML in satellite and defense systems](https://www.spacedaily.com/reports/Sidus_Space_unveils_FeatherEdge_248Vi_computer_for_AI_and_ML_in_satellite_and_defense_systems_999.html) (Published: 2025-11-05)
+- [OpenAI’s $38B Cloud Bet with Amazon](https://nep123.com/openais-38b-cloud-bet-with-amazon/) (Published: 2025-11-05)
+- [Japan's Nikkei falls 4% as tech stocks follow Wall Street lower](https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-falls-4-as-tech-stocks-follow-wall-street-lower/articleshow/125100082.cms) (Published: 2025-11-05)
+- [How Twelve Labs Teaches A.I. to ‘See’ and Transform Video Understanding: Interview](https://observer.com/2025/11/twelve-labs-video-ai-cofounder-interview/) (Published: 2025-11-05)
+- [megatron-fsdp 0.2.0.dev107779](https://pypi.org/project/megatron-fsdp/0.2.0.dev107779/) (Published: 2025-11-05)
+- [Inter BEE 2025に出展 次世代IP映像伝送とクリエイティブワークフローを提案](https://prtimes.jp/main/html/rd/p/000001009.000008686.html) (Published: 2025-11-05)
+- [Australia Just Built the World's First Quantum Diamond Factory — Here's Why It Matters](https://www.ibtimes.com.au/australia-just-built-worlds-first-quantum-diamond-factory-heres-why-it-matters-1861021) (Published: 2025-11-05)
 - [CNBC Daily Open: Beware the tunnel vision on AI stocks](https://www.cnbc.com/2025/11/05/cnbc-daily-open-beware-the-tunnel-vision-on-ai-stocks.html) (Published: 2025-11-05)
-- [Supermicro’s stock tumbles on weak earnings and revenue and mixed guidance](https://siliconangle.com/2025/11/04/supermicros-stock-tumbles-weak-earnings-revenue-mixed-guidance/) (Published: 2025-11-05)
-- [AMD's treatment of RDNA 1 and 2 owners makes me regret my RDNA 4 purchase](https://www.xda-developers.com/amds-treatment-of-rdna-1-and-2-owners-makes-me-regret-my-rdna-4-purchase/) (Published: 2025-11-05)
-- [India emerges as OpenAI’s second-largest market: CTO Srinivas Narayanan](https://economictimes.indiatimes.com/tech/artificial-intelligence/india-emerges-as-openais-second-largest-market-cto-srinivas-narayanan/articleshow/125094943.cms) (Published: 2025-11-05)
-- [AMD stock crashes despite strong Q3 results: why is AMD stock down today, and could AMD’s rack-scale AI breakthrough spark a massive 2026 comeback?](https://economictimes.indiatimes.com/news/international/us/amd-stock-crashes-despite-strong-q3-results-why-is-amd-stock-down-today-and-could-amds-rack-scale-ai-breakthrough-spark-a-massive-2026-comeback/articleshow/125099007.cms) (Published: 2025-11-05)
-- [AI 'godmother' Fei-Fei Li says she is 'proud to be different'](https://www.bbc.com/news/articles/c5yp2vj92e9o) (Published: 2025-11-05)
-- [Call Of Duty Black Ops 7 PC System Requirements: Here's What You'll Need For November 14](https://www.gamespot.com/articles/call-of-duty-black-ops-7-pc-system-requirements-heres-what-youll-need-for-november-14/1100-6535929/) (Published: 2025-11-05)
-- [Ignore Michael Burry, Stay Invested in Tech](https://biztoc.com/x/d31f1883cd3d1054) (Published: 2025-11-05)
-- [A multimodal whole-slide foundation model for pathology](https://www.nature.com/articles/s41591-025-03982-3) (Published: 2025-11-05)
-- [Chinese scientists increasingly lead joint projects with the UK, US and Europe](https://www.nature.com/articles/d41586-025-03617-0) (Published: 2025-11-05)
