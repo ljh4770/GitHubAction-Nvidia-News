@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-06 11:43:30**_
+_Last updated: **2025-11-06 11:54:11**_
 
 - [China and America's AI war isn't just about compute, it's about energy — energy subsidies promote homegrown chip push, amid data center energy squeeze](https://www.tomshardware.com/tech-industry/china-and-americas-ai-war-isnt-just-about-compute-its-about-energy-energy-subsidies-promote-homegrown-chip-push-amid-data-center-energy-squeeze) (Published: 2025-11-05)
 - [Morning Bid: Wall Street gets vertigo](https://finance.yahoo.com/news/morning-bid-wall-street-gets-113943212.html) (Published: 2025-11-05)
