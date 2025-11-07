@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-07 11:50:29**_
+_Last updated: **2025-11-07 12:16:37**_
 
+- [‘China is going to win the AI race’ — Nvidia CEO Jensen Huang decries the price of electricity in the US, contrasts it with China's subsidized pricing](https://www.tomshardware.com/tech-industry/artificial-intelligence/china-is-going-to-win-the-ai-race-nvidia-ceo-jensen-huang-decries-the-price-of-electricity-in-the-us-contrasts-it-with-chinas-subsidized-pricing) (Published: 2025-11-06)
+- [China Orders State Projects to Use Local AI Chips, Leaving Nvidia, AMD, and Intel at Risk](https://biztoc.com/x/93db7c97f10f7f5a) (Published: 2025-11-06)
+- [Exclusive-Nvidia-backed Vast Data inks $1.17 billion AI deal with CoreWeave](https://finance.yahoo.com/news/exclusive-nvidia-backed-vast-data-120456403.html) (Published: 2025-11-06)
+- [Exclusive-Nvidia-backed Vast Data inks $1.17 billion AI deal with CoreWeave](https://www.channelnewsasia.com/business/exclusive-nvidia-backed-vast-data-inks-117-billion-ai-deal-coreweave-5450686) (Published: 2025-11-06)
+- [Cloud-Based Enterprise AI Platforms Competitive Landscape Report 2025: End-to-end Assessment Across GenAI and Agentic AI, with Six Buying-criteria Ratings and Product Scores for 10 Rated Vendors](https://www.globenewswire.com/news-release/2025/11/06/3182424/28124/en/Cloud-Based-Enterprise-AI-Platforms-Competitive-Landscape-Report-2025-End-to-end-Assessment-Across-GenAI-and-Agentic-AI-with-Six-Buying-criteria-Ratings-and-Product-Scores-for-10-R.html) (Published: 2025-11-06)
+- [The IBM deal that sparked Microsoft’s rise to prominence](https://www.techradar.com/pro/the-ibm-deal-that-sparked-microsofts-rise-to-prominence) (Published: 2025-11-06)
+- ['This is easily the most powerful quantum computer on Earth': Scientists unveil Helios, a record-breaking quantum system](https://www.livescience.com/technology/computing/this-is-easily-the-most-powerful-quantum-computer-on-earth-scientists-unveil-helios-a-record-breaking-quantum-system) (Published: 2025-11-06)
+- [Insane DDR5 and DDR4 RAM inflation results in 2x or more price increase from record lows and it is likely to get worse](https://www.notebookcheck.net/Insane-DDR5-and-DDR4-RAM-inflation-results-in-2x-or-more-price-increase-from-record-lows-and-it-is-likely-to-get-worse.1156635.0.html) (Published: 2025-11-06)
 - [megatron-fsdp 0.2.0.dev128022](https://pypi.org/project/megatron-fsdp/0.2.0.dev128022/) (Published: 2025-11-06)
 - [nvidia-nat-weave 1.4.0a20251106](https://pypi.org/project/nvidia-nat-weave/1.4.0a20251106/) (Published: 2025-11-06)
-- [nvidia-nat-adk 1.4.0a20251106](https://pypi.org/project/nvidia-nat-adk/1.4.0a20251106/) (Published: 2025-11-06)
-- [Snap shares surge as $400 million Perplexity deal rekindles AI ambitions](https://biztoc.com/x/1242875b8e254b7a) (Published: 2025-11-06)
-- [GlaxoSmithKline India reports higher second-quarter profit on specialty medicine growth](https://biztoc.com/x/dcc3e6b0b6d76119) (Published: 2025-11-06)
-- [Tariff refunds are now a very real possibility … and a giant ‘mess’](https://biztoc.com/x/7ffdf17b7dc29acd) (Published: 2025-11-06)
-- [Stocks Muted Before the Open as Dip Buying Fades, Fed Speak in Focus](https://biztoc.com/x/fc5d2ce09b0fc2b8) (Published: 2025-11-06)
-- [Swiss stock exchange operator SIX hit by losses related to Worldline stake](https://biztoc.com/x/40e5a58d482d05fe) (Published: 2025-11-06)
-- [Charles Schwab to Buy Forge Global, Boosting Client Access to Private Markets](https://biztoc.com/x/4db193318024881e) (Published: 2025-11-06)
-- [Italy’s economy not in recession, ISTAT official says](https://biztoc.com/x/ec7354db36c40453) (Published: 2025-11-06)
