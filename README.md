@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-07 22:09:05**_
+_Last updated: **2025-11-07 22:31:33**_
 
+- ["China is going to win the AI race" — NVIDIA CEO makes his boldest claim yet before backtracking hours later](https://www.windowscentral.com/artificial-intelligence/china-win-ai-race-nvidia-ceo-comment) (Published: 2025-11-06)
+- [Tesla approves Elon Musk’s massive trillion dollar pay deal](https://rollingout.com/2025/11/06/tesla-approves-musks-trillion-dollar-pay/) (Published: 2025-11-06)
 - [Tesla approves Elon Musk's $1 trillion pay package](https://www.statesman.com/business/technology/article/tesla-elon-musk-trillion-pay-deal-approved-austin-21142859.php) (Published: 2025-11-06)
 - [Tesla shareholders approve $1 trillion pay package for Musk | CNN Business](https://www.cnn.com/2025/11/06/business/musk-trillion-dollar-pay-package-vote) (Published: 2025-11-06)
 - [Nasdaq Falls as Worries Mount on Jobs and AI Valuations](https://biztoc.com/x/8e90c7a1cd92aa25) (Published: 2025-11-06)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-07 22:09:05**_
 - [Google’s Ironwood TPUs represent a bigger threat than Nvidia would have you believe](https://biztoc.com/x/dcbd2a190feb9533) (Published: 2025-11-06)
 - [Google’s Ironwood TPUs represent a bigger threat than Nvidia would have you believe](https://www.theregister.com/2025/11/06/googles_ironwood_tpus_ai/) (Published: 2025-11-06)
 - [Chris Sacca’s Venture Firm Is Raising a Second Fusion Fund](https://financialpost.com/pmn/business-pmn/chris-saccas-venture-firm-is-raising-a-second-fusion-fund) (Published: 2025-11-06)
-- [Apple could make $133 billion a year on humanoid robots by 2040 – Morgan Stanley](https://macdailynews.com/2025/11/06/apple-could-make-133-billion-a-year-on-humanoid-robots-by-2040-morgan-stanley/) (Published: 2025-11-06)
-- [Microsoft provides update on its AI efforts following OpenAI partnership change](https://siliconangle.com/2025/11/06/microsoft-provides-update-ai-efforts-following-openai-partnership-change/) (Published: 2025-11-06)
