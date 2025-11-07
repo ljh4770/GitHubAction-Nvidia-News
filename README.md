@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-07 08:21:24**_
+_Last updated: **2025-11-07 08:45:20**_
 
+- [Chaos Enscape 4.13.0.619](https://post.rlsbb.to/chaos-enscape-4-13-0-619/) (Published: 2025-11-06)
+- [AI Image Object Replacer Pro 1.0.2](https://post.rlsbb.to/ai-image-object-replacer-pro-1-0-2/) (Published: 2025-11-06)
+- [AnyMP4 Blu-ray Ripper 8.1.68](https://post.rlsbb.to/anymp4-blu-ray-ripper-8-1-68/) (Published: 2025-11-06)
+- [Chaos Vantage 3.0.3](https://post.rlsbb.to/chaos-vantage-3-0-3/) (Published: 2025-11-06)
+- [Nvidia CEO Jensen Huang warns China will ‘win the AI race’: report](https://biztoc.com/x/a1d655b9fe44559d) (Published: 2025-11-06)
+- [5G and AI: What enterprises need to know](https://www.techtarget.com/searchnetworking/feature/5G-and-AI-What-enterprises-need-to-know) (Published: 2025-11-06)
 - [The Acer Nitro V15 offers very decent creativity on a budget](https://www.creativebloq.com/tech/laptops/the-acer-nitro-v15-offers-very-decent-creativity-on-a-budget) (Published: 2025-11-06)
 - [Nvidia's Huang warns China will 'win the AI race': Report](https://www.channelnewsasia.com/east-asia/nvidia-jensen-huang-warns-china-will-win-ai-race-5448891) (Published: 2025-11-06)
 - [2025 Embodied AI Hackathon Recap – We Built Home & Cooking Robot!](https://www.seeedstudio.com/blog/2025/11/06/2025-embodied-ai-hackathon-recap-we-built-home-cooking-robot/) (Published: 2025-11-06)
 - [Samsung to gain edge as Nvidia expands physical AI with robot chip production](https://www.digitimes.com/news/a20251106PD243/samsung-nvidia-robotics-robot-ap-manufacturing.html) (Published: 2025-11-06)
-- [Today in Germany: A roundup of the latest news on Thursday](https://www.thelocal.de/20251106/today-in-germany-a-roundup-of-the-latest-news-on-thursday-94) (Published: 2025-11-06)
-- [Fixing VR Headset Compatibility Problems on Windows 11](https://helpdeskgeek.com/fixing-vr-headset-compatibility-problems-on-windows-11/) (Published: 2025-11-06)
-- [The Big Tech Show: Apple plan budget laptop and Trump says China won’t get Nvidia top chips](https://www.independent.ie/podcasts/the-big-tech-show/the-big-tech-show-apple-plan-budget-laptop-and-trump-says-china-wont-get-nvidia-top-chips/a851763549.html) (Published: 2025-11-06)
-- [Liquid Cooling for NVIDIA GB300 “Blackwell Ultra” NVL72 Costs Nearly $50,000](https://www.madshrimps.be/news/liquid-cooling-for-nvidia-gb300-blackwell-ultra-nvl72-costs-nearly-50000/) (Published: 2025-11-06)
-- [Nvidia first to hit $5 trillion valuation but last in AI supply chain decarbonisation, study finds](https://biztoc.com/x/f50a984fbe85133f) (Published: 2025-11-06)
-- [NVIDIA CEO introduces AI Robot TITAN, with breakthroughs in physical AI](https://www.naturalnews.com/2025-11-06-nvidia-ceo-introduces-ai-robot-titan-with-breakthroughs-in-physical-ai.html) (Published: 2025-11-06)
