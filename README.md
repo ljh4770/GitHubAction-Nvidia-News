@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-07 23:40:48**_
+_Last updated: **2025-11-07 23:51:12**_
 
 - [Lenovo Legion 5: 15.1" WQXGA OLED 165Hz, Ryzen AI 7 350, RTX 5070, 16GB DDR5, 1TB SSD $1296.99 (0 replies)](https://slickdeals.net/f/18776158-lenovo-legion-5-15-1-wqxga-oled-165hz-ryzen-ai-7-350-rtx-5070-16gb-ddr5-1tb-ssd-1296-99) (Published: 2025-11-06)
 - [Acer's new workstation brings a frankly ridiculous 1 petaflop AI performance to your desktop - Get an Nvidia Grace Blackwell in your business device now](https://www.techradar.com/pro/acers-new-workstation-brings-a-frankly-ridiculous-1-petaflop-ai-performance-to-your-desktop-get-an-nvidia-grace-blackwell-in-your-business-device-now) (Published: 2025-11-06)
