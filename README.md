@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-07 19:22:16**_
+_Last updated: **2025-11-07 19:33:54**_
 
 - [Startups find Amazon's AI chips 'less competitive' than Nvidia GPUs, internal document shows](https://biztoc.com/x/f6a6b8b213e607ea) (Published: 2025-11-06)
 - [Startups find Amazon's AI chips 'less competitive' than Nvidia GPUs, internal document shows](https://www.businessinsider.com/startups-amazon-ai-chips-less-competitive-nvidia-gpus-trainium-aws-2025-11) (Published: 2025-11-06)
