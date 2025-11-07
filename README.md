@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-07 20:55:49**_
+_Last updated: **2025-11-07 21:15:24**_
 
+- [Chris Sacca’s Venture Firm Is Raising a Second Fusion Fund](https://financialpost.com/pmn/business-pmn/chris-saccas-venture-firm-is-raising-a-second-fusion-fund) (Published: 2025-11-06)
+- [Apple could make $133 billion a year on humanoid robots by 2040 – Morgan Stanley](https://macdailynews.com/2025/11/06/apple-could-make-133-billion-a-year-on-humanoid-robots-by-2040-morgan-stanley/) (Published: 2025-11-06)
+- [Microsoft provides update on its AI efforts following OpenAI partnership change](https://siliconangle.com/2025/11/06/microsoft-provides-update-ai-efforts-following-openai-partnership-change/) (Published: 2025-11-06)
+- [What to expect during SC25: Join theCUBE Nov. 18-20](https://siliconangle.com/2025/11/06/exascale-computing-infrastructure-insights-thecube-at-sc25/) (Published: 2025-11-06)
+- [Nvidia leads tech stock declines as Trump official says 'no federal bailout' for AI](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_17e167aa-cd0b-40d6-8669-2d79fcb22d88) (Published: 2025-11-06)
+- [Nvidia stock on track to end week down more than 10% amid investor concerns over AI valuations](https://finance.yahoo.com/news/nvidia-stock-on-track-to-end-week-down-more-than-10-amid-investor-concerns-over-ai-valuations-205754686.html) (Published: 2025-11-06)
 - [eBay Canada Daily Deals: Up to 70% Off Electronics, Fashion, Home & More](https://www.redflagdeals.com/deal/home-garden/ebay-canada-daily-deals/) (Published: 2025-11-06)
 - [Apple reclaims safe-haven status amid waning AI trade confidence](https://macdailynews.com/2025/11/06/apple-reclaims-safe-haven-status-amid-waning-ai-trade-confidence/) (Published: 2025-11-06)
 - [HPE ProLiant DL380a Gen12 Review: Air Cooled 4U Server for Dense Multi GPU AI](https://www.storagereview.com/review/hpe-proliant-dl380a-gen12-review-air-cooled-4u-server-for-dense-multi-gpu-ai) (Published: 2025-11-06)
 - [Enhancing GPU-Accelerated Vector Search in Faiss with NVIDIA cuVS](https://developer.nvidia.com/blog/enhancing-gpu-accelerated-vector-search-in-faiss-with-nvidia-cuvs/) (Published: 2025-11-06)
-- [Fox News AI Newsletter: Kim Kardashian blames ChatGPT for test failures](https://www.foxnews.com/tech/ai-newsletter-kim-kardashian-blames-chatgpt-test-failures) (Published: 2025-11-06)
-- [He Hit His Coworker's Car In 2020 And Paid $2,600 For Repairs. Five Years Later, The Car's Still Unfixed And The Coworker Demands More Money](https://www.yahoo.com/news/articles/hit-coworkers-car-2020-paid-203123445.html) (Published: 2025-11-06)
-- [YMMV CyberPowerPC Gamer Supreme Gaming Desktop, AMD Ryzen 7 9800X3D, NVIDIA GeForce RTX 5070 Ti 16GB, 32GB DDR5, 2TB SSD, Black, SLC7700WST $1699 (8 replies)](https://slickdeals.net/f/18775603-ymmv-cyberpowerpc-gamer-supreme-gaming-desktop-amd-ryzen-7-9800x3d-nvidia-geforce-rtx-5070-ti-16gb-32gb-ddr5-2tb-ssd-black-slc7700wst-1699) (Published: 2025-11-06)
-- [OpenAI discussed government loan guarantees for chip plants, not for data centers, CEO Altman says](https://www.channelnewsasia.com/business/openai-discussed-government-loan-guarantees-chip-plants-not-data-centers-ceo-altman-says-5451846) (Published: 2025-11-06)
-- [OpenAI does not 'want government guarantees' for massive AI data center buildout, CEO Altman says](https://www.channelnewsasia.com/business/openai-does-not-want-government-guarantees-massive-ai-data-center-buildout-ceo-altman-says-5451846) (Published: 2025-11-06)
-- [Dow Jones falls 300 points as AI stocks spark market fears](https://rollingout.com/2025/11/06/dow-jones-falls-300-points-as-ai-stocks/) (Published: 2025-11-06)
