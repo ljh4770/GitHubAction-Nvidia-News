@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-07 07:53:29**_
+_Last updated: **2025-11-07 08:21:24**_
 
+- [The Acer Nitro V15 offers very decent creativity on a budget](https://www.creativebloq.com/tech/laptops/the-acer-nitro-v15-offers-very-decent-creativity-on-a-budget) (Published: 2025-11-06)
+- [Nvidia's Huang warns China will 'win the AI race': Report](https://www.channelnewsasia.com/east-asia/nvidia-jensen-huang-warns-china-will-win-ai-race-5448891) (Published: 2025-11-06)
 - [2025 Embodied AI Hackathon Recap – We Built Home & Cooking Robot!](https://www.seeedstudio.com/blog/2025/11/06/2025-embodied-ai-hackathon-recap-we-built-home-cooking-robot/) (Published: 2025-11-06)
 - [Samsung to gain edge as Nvidia expands physical AI with robot chip production](https://www.digitimes.com/news/a20251106PD243/samsung-nvidia-robotics-robot-ap-manufacturing.html) (Published: 2025-11-06)
 - [Today in Germany: A roundup of the latest news on Thursday](https://www.thelocal.de/20251106/today-in-germany-a-roundup-of-the-latest-news-on-thursday-94) (Published: 2025-11-06)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-07 07:53:29**_
 - [Liquid Cooling for NVIDIA GB300 “Blackwell Ultra” NVL72 Costs Nearly $50,000](https://www.madshrimps.be/news/liquid-cooling-for-nvidia-gb300-blackwell-ultra-nvl72-costs-nearly-50000/) (Published: 2025-11-06)
 - [Nvidia first to hit $5 trillion valuation but last in AI supply chain decarbonisation, study finds](https://biztoc.com/x/f50a984fbe85133f) (Published: 2025-11-06)
 - [NVIDIA CEO introduces AI Robot TITAN, with breakthroughs in physical AI](https://www.naturalnews.com/2025-11-06-nvidia-ceo-introduces-ai-robot-titan-with-breakthroughs-in-physical-ai.html) (Published: 2025-11-06)
-- [America losing AI battle to China due to excessive regulation, Nvidia chief warns](https://www.naturalnews.com/2025-11-06-america-losing-ai-battle-to-china.html) (Published: 2025-11-06)
-- [Asian shares advance after solid earnings and economic reports updates lift Wall Street](https://abcnews.go.com/Business/wireStory/asian-shares-advance-after-solid-earnings-economic-reports-127244808) (Published: 2025-11-06)
