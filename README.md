@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-07 06:28:51**_
+_Last updated: **2025-11-07 06:52:12**_
 
 - [Liquid Cooling for NVIDIA GB300 “Blackwell Ultra” NVL72 Costs Nearly $50,000](https://www.madshrimps.be/news/liquid-cooling-for-nvidia-gb300-blackwell-ultra-nvl72-costs-nearly-50000/) (Published: 2025-11-06)
 - [Nvidia first to hit $5 trillion valuation but last in AI supply chain decarbonisation, study finds](https://biztoc.com/x/f50a984fbe85133f) (Published: 2025-11-06)
