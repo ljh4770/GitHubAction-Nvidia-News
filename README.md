@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 19:57:13**_
+_Last updated: **2025-11-08 20:23:17**_
 
+- [Blackwell a no-sell in China as trade deal fails to materialize](https://www.theregister.com/2025/11/07/china_nvidia_blackwell/) (Published: 2025-11-07)
+- [Stock market today: Nasdaq, S&P 500, Dow rise off lows as rough week for tech nears end](https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-come-off-lows-as-rough-week-for-tech-nears-end-201237522.html) (Published: 2025-11-07)
 - [Genshin Impact dev seemingly ditching anime art to take on the MMO money pit with a new game called Genesis packing an open world, PvP, and a whole load of AI](https://www.gamesradar.com/games/mmo/genshin-impact-dev-seemingly-ditching-anime-art-to-take-on-the-mmo-money-pit-with-a-new-game-called-genesis-packing-an-open-world-pvp-and-a-whole-load-of-ai/) (Published: 2025-11-07)
 - [talky-dictation added to PyPI](https://pypi.org/project/talky-dictation/) (Published: 2025-11-07)
 - [AMD’s record quarter shows strength in client and AI, as Ryzen leads the charge — but data center dominance could be out of reach](https://www.tomshardware.com/tech-industry/semiconductors/amd-record-quarter-shows-strength-but-data-center-dominance-could-be-out-of-reach) (Published: 2025-11-07)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-08 19:57:13**_
 - [megatron-fsdp 0.2.0.dev127012](https://pypi.org/project/megatron-fsdp/0.2.0.dev127012/) (Published: 2025-11-07)
 - [With Big Tech Talking Government Backing, Has OpenAI Become “Too Big to Fail”?](https://truthout.org/articles/with-big-tech-talking-government-backing-has-openai-become-too-big-to-fail/) (Published: 2025-11-07)
 - [NVIDIA’s Explosive AI Chip Demand Pushes TSMC to Boost 3nm Production by a ‘Whopping’ 50%, Preparing for Next-Gen Rubin Lineup](https://wccftech.com/nvidia-explosive-ai-chip-demand-pushes-tsmc-to-boost-3nm-production/) (Published: 2025-11-07)
-- [Mixed options sentiment in NVIDIA with shares down 1.77%](https://thefly.com/permalinks/entry.php/id4235036/NVDA-Mixed-options-sentiment-in-NVIDIA-with-shares-down-) (Published: 2025-11-07)
-- [Nvidia stock down today as the AI giant faces its sharpest crash of 2025: Why is NVDA crashing so sharply this week as $800 billion in value vanishes?](https://economictimes.indiatimes.com/news/international/us/nvidia-stock-down-today-as-the-ai-giant-faces-its-sharpest-crash-of-2025-why-is-nvda-crashing-so-sharply-this-week-as-800-billion-in-value-vanishes-has-the-ai-boom-finally-reached-its-breaking-point/articleshow/125168903.cms) (Published: 2025-11-07)
