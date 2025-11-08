@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 17:43:14**_
+_Last updated: **2025-11-08 17:53:49**_
 
+- [AI bubble bursting or deeper market correction? US stocks plunge as Nvidia crashes 4% and Palantir slides 1.2% — Wall Street’s favorite AI synonyms tumble big](https://economictimes.indiatimes.com/news/international/us/ai-bubble-bursting-or-deeper-market-correction-us-stocks-plunge-as-nvidia-crashes-4-and-palantir-slides-1-2-wall-streets-favorite-ai-synonyms-tumble-big/articleshow/125167924.cms) (Published: 2025-11-07)
+- [Building an Interactive AI Agent for Lightning-Fast Machine Learning Tasks](https://developer.nvidia.com/blog/building-an-interactive-ai-agent-for-lightning-fast-machine-learning-tasks/) (Published: 2025-11-07)
 - [Tesla, Google, Nvidia and Starcloud in a AI Space Race. Tesla Future Chips, SpaceX Starship are Key](https://www.nextbigfuture.com/2025/11/tesla-google-nvidia-and-starcloud-in-a-ai-space-race-tesla-future-chips-spacex-starship-are-key.html) (Published: 2025-11-07)
 - [Why billionaires are selling Palantir for Nvidia now](https://rollingout.com/2025/11/07/billionaires-palantir-buying-nvidia/) (Published: 2025-11-07)
 - [LiveStream in 20 Minutes on Sustainable Abundance- AI, Autonomy and Space Going Next Level. AI in Orbit. Moon Industrialization](https://www.nextbigfuture.com/2025/11/livestream-in-50-minutes-on-sustainable-abundance-ai-autonomy-and-space-going-next-level-ai-in-orbit-moon-industrialization.html) (Published: 2025-11-07)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-08 17:43:14**_
 - [Elon Musk’s record $1 trillion Tesla pay plan approved](https://rollingout.com/2025/11/07/tesla-elon-musk-trillion-dollar-package/) (Published: 2025-11-07)
 - ['Big Short' Michael Burry's $1bn market crash bet pays off as stocks suffer worst day since Trump's tariff meltdown](https://freerepublic.com/focus/f-news/4351293/posts) (Published: 2025-11-07)
 - [US stock market crashes hard: Why Dow, S&P 500, Nasdaq are falling big today? Is AI era gone before it begins as Nvidia and Palantir lead tech selloff](https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-hard-why-dow-sp-500-nasdaq-are-falling-big-today-is-ai-era-gone-before-it-begins-as-nvidia-and-palantir-lead-tech-selloff/articleshow/125166943.cms) (Published: 2025-11-07)
-- [NVIDIA GeForce RTX 5060 Ti 16GB Expected to Face Short Supply Soon](https://wccftech.com/nvidia-geforce-rtx-5060-ti-16gb-expected-to-face-short-supply-soon/) (Published: 2025-11-07)
-- [Elon Musk says 'TeraFab' chip fab may be the only answer to Tesla's colossal AI semiconductor demand — Nvidia CEO Jensen Huang warns against 'extremely hard' challenge](https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-terafab-chip-fab-may-be-the-only-answer-to-teslas-colossal-ai-semiconductor-demand-nvidia-ceo-jensen-huang-warns-against-extremely-hard-challenge) (Published: 2025-11-07)
