@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 22:38:31**_
+_Last updated: **2025-11-08 22:49:10**_
 
+- [AI Layoffs: US Market's Worst in 20 Years – Could the UK Be Next?](https://www.ibtimes.com/ai-layoffs-us-markets-worst-20-years-could-uk-next-3789953) (Published: 2025-11-07)
 - [Michael Burry effect? Short legend bets against AI, and $685 billion vanishes from Nvidia and Palantir in 3 days](https://economictimes.indiatimes.com/news/international/us/michael-burry-effect-short-legend-bets-against-ai-and-685-billion-vanishes-from-nvidia-and-palantir-in-3-days/articleshow/125172058.cms) (Published: 2025-11-07)
 - ['Thanks, Donald!' Observers in awe as stocks see worst week since Trump's 'Liberation Day'](https://www.rawstory.com/nasdaq/) (Published: 2025-11-07)
 - [Nvidia Stock Is Having a Great Year, but This Tech Dinosaur Is Still Beating It](https://biztoc.com/x/a46837b0d893ef7a) (Published: 2025-11-07)
@@ -9,4 +10,3 @@ _Last updated: **2025-11-08 22:38:31**_
 - [Did Nvidia Cancel the RTX 50 Super?](https://me.pcmag.com/en/graphics-cards/33327/did-nvidia-cancel-the-rtx-50-super) (Published: 2025-11-07)
 - [megatron-fsdp 0.2.0.dev120401](https://pypi.org/project/megatron-fsdp/0.2.0.dev120401/) (Published: 2025-11-07)
 - [Big News Is Coming for Nvidia Investors on Nov. 19. Should You Buy Nvidia Stock Now?](https://biztoc.com/x/6c10e7e9942cc5c5) (Published: 2025-11-07)
-- [Nvidia's RTX 5000 Super could be cancelled or get pricier due to AI-induced GDDR7 woes — rumor claims 3 GB memory chips are now too valuable for consumer GPUs](https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5000-super-could-be-cancelled-or-get-pricier-due-to-ai-induced-gddr7-woes-rumor-claims-3-gb-memory-chips-are-now-too-valuable-for-consumer-gpus) (Published: 2025-11-07)
