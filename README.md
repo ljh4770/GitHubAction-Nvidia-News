@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 21:50:23**_
+_Last updated: **2025-11-08 22:01:08**_
 
 - [Palantir CEO Karp twice slams short sellers as stock suffers worst week since April](https://www.cnbc.com/2025/11/07/palantir-ceo-alex-karp-ai-short-sellers.html) (Published: 2025-11-07)
 - [Did Nvidia Cancel the RTX 50 Super?](https://uk.pcmag.com/graphics-cards/161136/did-nvidia-cancel-the-rtx-50-super) (Published: 2025-11-07)
