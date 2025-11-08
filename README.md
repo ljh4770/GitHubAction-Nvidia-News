@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 18:53:16**_
+_Last updated: **2025-11-08 19:10:47**_
 
+- [With Big Tech Talking Government Backing, Has OpenAI Become “Too Big to Fail”?](https://truthout.org/articles/with-big-tech-talking-government-backing-has-openai-become-too-big-to-fail/) (Published: 2025-11-07)
 - [NVIDIA’s Explosive AI Chip Demand Pushes TSMC to Boost 3nm Production by a ‘Whopping’ 50%, Preparing for Next-Gen Rubin Lineup](https://wccftech.com/nvidia-explosive-ai-chip-demand-pushes-tsmc-to-boost-3nm-production/) (Published: 2025-11-07)
 - [Mixed options sentiment in NVIDIA with shares down 1.77%](https://thefly.com/permalinks/entry.php/id4235036/NVDA-Mixed-options-sentiment-in-NVIDIA-with-shares-down-) (Published: 2025-11-07)
 - [Nvidia stock down today as the AI giant faces its sharpest crash of 2025: Why is NVDA crashing so sharply this week as $800 billion in value vanishes?](https://economictimes.indiatimes.com/news/international/us/nvidia-stock-down-today-as-the-ai-giant-faces-its-sharpest-crash-of-2025-why-is-nvda-crashing-so-sharply-this-week-as-800-billion-in-value-vanishes-has-the-ai-boom-finally-reached-its-breaking-point/articleshow/125168903.cms) (Published: 2025-11-07)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-08 18:53:16**_
 - [Investors Want Big Bets on Tesla and Nvidia Stock. Leveraged ETFs Are Falling Short](https://biztoc.com/x/dd28f7a992bcb69c) (Published: 2025-11-07)
 - [HP Victus Gaming Laptop Is Only $480 With Best Buy Doorbuster Deal](https://www.gamespot.com/articles/hp-victus-gaming-laptop-black-friday-doorbuster-best-buy-deal-november-2025/1100-6536047/) (Published: 2025-11-07)
 - [Nvidia, Palantir, AMD Stocks Had A Really Bad Week](https://biztoc.com/x/2bf94f16938737e9) (Published: 2025-11-07)
-- [Amid SoftBank Takeover Rumors, Should You Buy, Sell, or Hold Marvell Stock?](https://www.barchart.com/story/news/35990786/amid-softbank-takeover-rumors-should-you-buy-sell-or-hold-marvell-stock) (Published: 2025-11-07)
