@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 21:39:59**_
+_Last updated: **2025-11-08 21:50:23**_
 
+- [Palantir CEO Karp twice slams short sellers as stock suffers worst week since April](https://www.cnbc.com/2025/11/07/palantir-ceo-alex-karp-ai-short-sellers.html) (Published: 2025-11-07)
 - [Did Nvidia Cancel the RTX 50 Super?](https://uk.pcmag.com/graphics-cards/161136/did-nvidia-cancel-the-rtx-50-super) (Published: 2025-11-07)
 - [Did Nvidia Cancel the RTX 50 Super?](https://me.pcmag.com/en/graphics-cards/33327/did-nvidia-cancel-the-rtx-50-super) (Published: 2025-11-07)
 - [megatron-fsdp 0.2.0.dev120401](https://pypi.org/project/megatron-fsdp/0.2.0.dev120401/) (Published: 2025-11-07)
@@ -9,5 +10,3 @@ _Last updated: **2025-11-08 21:39:59**_
 - [$1 Trillion in Tech Stocks Sold Off as Market Grows Skeptical of AI](https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226) (Published: 2025-11-07)
 - [nvidia-nat-llama-index 1.3.1](https://pypi.org/project/nvidia-nat-llama-index/1.3.1/) (Published: 2025-11-07)
 - [nvidia-nat-s3 1.3.1](https://pypi.org/project/nvidia-nat-s3/1.3.1/) (Published: 2025-11-07)
-- [nvidia-nat-all 1.3.1](https://pypi.org/project/nvidia-nat-all/1.3.1/) (Published: 2025-11-07)
-- [nvidia-nat-weave 1.3.1](https://pypi.org/project/nvidia-nat-weave/1.3.1/) (Published: 2025-11-07)
