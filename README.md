@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 08:36:39**_
+_Last updated: **2025-11-08 08:50:30**_
 
 - [Nvidia’s slump continues even after Jensen Huang softens his statement that “China is going to win the AI race”](https://biztoc.com/x/eb7761858112f243) (Published: 2025-11-07)
 - [NVIDIA GeForce RTX 50 SUPER GPUs Rumored To Be Delayed Due To 3 GB GDDR7 DRAM Shortages](https://wccftech.com/nvidia-geforce-rtx-50-super-gpus-delayed-due-to-3-gb-gddr7-memory-shortages/) (Published: 2025-11-07)
