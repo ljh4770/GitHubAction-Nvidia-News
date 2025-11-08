@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 03:45:09**_
+_Last updated: **2025-11-08 03:56:09**_
 
 - [US to block Nvidia's sale of scaled-down AI chips to China: Report](https://www.channelnewsasia.com/business/us-blocks-nvidia-sale-b30a-chip-china-ai-5452371) (Published: 2025-11-07)
 - [US to block Nvidia's sale of scaled-down AI chips to China, The Information reports](https://economictimes.indiatimes.com/tech/technology/us-to-block-nvidias-sale-of-scaled-down-ai-chips-to-china-the-information-reports/articleshow/125148646.cms) (Published: 2025-11-07)
