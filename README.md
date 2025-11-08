@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 19:24:30**_
+_Last updated: **2025-11-08 19:36:36**_
 
 - [China suspends rare-earth export control measures, easing key flashpoint in US-China trade war — one-year reprieve allows for trade talks with the U.S. to continue](https://www.tomshardware.com/tech-industry/semiconductors/china-suspends-rare-earth-export-control-measures-easing-key-flashpoint-in-us-china-trade-war-one-year-reprieve-allows-for-trade-talks-with-the-u-s-to-continue) (Published: 2025-11-07)
 - [megatron-fsdp 0.2.0.dev127012](https://pypi.org/project/megatron-fsdp/0.2.0.dev127012/) (Published: 2025-11-07)
