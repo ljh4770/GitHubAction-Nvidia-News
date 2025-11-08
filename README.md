@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 19:46:59**_
+_Last updated: **2025-11-08 19:57:13**_
 
+- [Genshin Impact dev seemingly ditching anime art to take on the MMO money pit with a new game called Genesis packing an open world, PvP, and a whole load of AI](https://www.gamesradar.com/games/mmo/genshin-impact-dev-seemingly-ditching-anime-art-to-take-on-the-mmo-money-pit-with-a-new-game-called-genesis-packing-an-open-world-pvp-and-a-whole-load-of-ai/) (Published: 2025-11-07)
+- [talky-dictation added to PyPI](https://pypi.org/project/talky-dictation/) (Published: 2025-11-07)
+- [AMD’s record quarter shows strength in client and AI, as Ryzen leads the charge — but data center dominance could be out of reach](https://www.tomshardware.com/tech-industry/semiconductors/amd-record-quarter-shows-strength-but-data-center-dominance-could-be-out-of-reach) (Published: 2025-11-07)
 - [Musk's Trillion-Dollar Payday Hinges on Massive Milestones](https://www.newser.com/story/378290/musks-trillion-dollar-payday-hinges-on-massive-milestones.html) (Published: 2025-11-07)
 - [China suspends rare-earth export control measures, easing key flashpoint in US-China trade war — one-year reprieve allows for trade talks with the U.S. to continue](https://www.tomshardware.com/tech-industry/semiconductors/china-suspends-rare-earth-export-control-measures-easing-key-flashpoint-in-us-china-trade-war-one-year-reprieve-allows-for-trade-talks-with-the-u-s-to-continue) (Published: 2025-11-07)
 - [megatron-fsdp 0.2.0.dev127012](https://pypi.org/project/megatron-fsdp/0.2.0.dev127012/) (Published: 2025-11-07)
@@ -8,6 +11,3 @@ _Last updated: **2025-11-08 19:46:59**_
 - [NVIDIA’s Explosive AI Chip Demand Pushes TSMC to Boost 3nm Production by a ‘Whopping’ 50%, Preparing for Next-Gen Rubin Lineup](https://wccftech.com/nvidia-explosive-ai-chip-demand-pushes-tsmc-to-boost-3nm-production/) (Published: 2025-11-07)
 - [Mixed options sentiment in NVIDIA with shares down 1.77%](https://thefly.com/permalinks/entry.php/id4235036/NVDA-Mixed-options-sentiment-in-NVIDIA-with-shares-down-) (Published: 2025-11-07)
 - [Nvidia stock down today as the AI giant faces its sharpest crash of 2025: Why is NVDA crashing so sharply this week as $800 billion in value vanishes?](https://economictimes.indiatimes.com/news/international/us/nvidia-stock-down-today-as-the-ai-giant-faces-its-sharpest-crash-of-2025-why-is-nvda-crashing-so-sharply-this-week-as-800-billion-in-value-vanishes-has-the-ai-boom-finally-reached-its-breaking-point/articleshow/125168903.cms) (Published: 2025-11-07)
-- [Microsoft confirms Windows 11 version 26H1, but it's not what you think](https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-windows-11-version-26h1) (Published: 2025-11-07)
-- [Deals for Today: Massive Discounts on Apple Watch 10 and FDM 3D Printers](https://www.ign.com/articles/deals-for-today-november-7) (Published: 2025-11-07)
-- [Will Zcash Continue to Pop After 200% Rise In Price?](https://biztoc.com/x/d17dc00606fb8819) (Published: 2025-11-07)
