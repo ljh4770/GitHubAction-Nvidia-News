@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 06:24:53**_
+_Last updated: **2025-11-08 06:46:29**_
 
-- [The Big Tech Show: Who is Jensen Huang and why has Nvidia become so powerful?](https://www.independent.ie/podcasts/the-big-tech-show/the-big-tech-show-who-is-jensen-huang-and-why-has-nvidia-become-so-powerful/a1816450278.html) (Published: 2025-11-07)
-- [UK Energy Prices Are Down, But Consumers Still Face Higher Bills](https://biztoc.com/x/deba84de123277ee) (Published: 2025-11-07)
-- [Asian shares retreat after falling tech stocks pull Wall Street lower](https://financialpost.com/pmn/asian-shares-retreat-after-falling-tech-stocks-pull-wall-street-lower) (Published: 2025-11-07)
-- [Lilly's obesity drug Mounjaro becomes India's top-selling drug by value in October](https://biztoc.com/x/7208c94475e754bc) (Published: 2025-11-07)
-- [Movie Review: Jennifer Lawrence goes for broke in 'Die, My Love'](https://biztoc.com/x/7d1d5b98201c929f) (Published: 2025-11-07)
-- [Morning Bid: The AI dip may not be done](https://biztoc.com/x/0607e280daa92020) (Published: 2025-11-07)
-- [Starbucks Bids Adieu to China. Why It Could Boost the Stock](https://biztoc.com/x/e8d907cfc49782de) (Published: 2025-11-07)
-- [AIâs dual revolution: Job displacement, decentralization, and global power shifts](https://www.naturalnews.com/2025-11-07-job-displacement-decentralization-and-global-power-shifts.html) (Published: 2025-11-07)
-- [US States Seek Own China Ties as Trade Uncertainty Persists](https://biztoc.com/x/bac0417cc6be610c) (Published: 2025-11-07)
+- [Asian shares retreat after falling tech stocks pull Wall Street lower](https://abcnews.go.com/Business/wireStory/asian-shares-retreat-after-falling-tech-stocks-pull-127285817) (Published: 2025-11-07)
+- [American Express Stock Outlook: Is Wall Street Bullish or Bearish?](https://biztoc.com/x/f7250cc707365859) (Published: 2025-11-07)
+- [Daimler Truck posts 40% drop in quarterly profit, but keeps annual forecasts](https://biztoc.com/x/25b74960b2f6eaea) (Published: 2025-11-07)
+- [Hensoldt orders rise on increased demand for sensors, optronics](https://biztoc.com/x/66eeaca55f6ad1b8) (Published: 2025-11-07)
+- [Musk plans Tesla mega AI chip fab, mulls potential Intel partnership](https://www.thehindubusinessline.com/info-tech/musk-plans-tesla-mega-ai-chip-fab-mulls-potential-intel-partnership/article70251275.ece) (Published: 2025-11-07)
+- [How did I train YOLOv12 on a Custom Dataset with GPUs](https://www.digitalocean.com/community/tutorials/train-yolov12-custom-dataset-digitalocean-gpus) (Published: 2025-11-07)
+- [KKR’s Global Atlantic to Fund Chandra Asri’s $1 Billion Esso Buy](https://biztoc.com/x/e33da66df1cb4376) (Published: 2025-11-07)
+- [Polish Rate Cuts Set to End in Early 2026, MPC’s Kotecki Says](https://biztoc.com/x/0c81fbf0119d35ef) (Published: 2025-11-07)
+- [Speaking to shareholders, Elon Musk says Tesla will likely need to build “a gigantic chip fab” for AI chips and “maybe, we'll do something with Intel”](https://biztoc.com/x/8f9c3138a15bb70d) (Published: 2025-11-07)
+- [Ventas Stock: Analyst Estimates & Ratings](https://biztoc.com/x/78a8ec41502ed41b) (Published: 2025-11-07)
