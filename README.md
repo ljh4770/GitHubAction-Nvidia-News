@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-08 05:54:40**_
+_Last updated: **2025-11-08 06:24:53**_
 
+- [The Big Tech Show: Who is Jensen Huang and why has Nvidia become so powerful?](https://www.independent.ie/podcasts/the-big-tech-show/the-big-tech-show-who-is-jensen-huang-and-why-has-nvidia-become-so-powerful/a1816450278.html) (Published: 2025-11-07)
+- [UK Energy Prices Are Down, But Consumers Still Face Higher Bills](https://biztoc.com/x/deba84de123277ee) (Published: 2025-11-07)
+- [Asian shares retreat after falling tech stocks pull Wall Street lower](https://financialpost.com/pmn/asian-shares-retreat-after-falling-tech-stocks-pull-wall-street-lower) (Published: 2025-11-07)
+- [Lilly's obesity drug Mounjaro becomes India's top-selling drug by value in October](https://biztoc.com/x/7208c94475e754bc) (Published: 2025-11-07)
+- [Movie Review: Jennifer Lawrence goes for broke in 'Die, My Love'](https://biztoc.com/x/7d1d5b98201c929f) (Published: 2025-11-07)
+- [Morning Bid: The AI dip may not be done](https://biztoc.com/x/0607e280daa92020) (Published: 2025-11-07)
+- [Starbucks Bids Adieu to China. Why It Could Boost the Stock](https://biztoc.com/x/e8d907cfc49782de) (Published: 2025-11-07)
+- [AIâs dual revolution: Job displacement, decentralization, and global power shifts](https://www.naturalnews.com/2025-11-07-job-displacement-decentralization-and-global-power-shifts.html) (Published: 2025-11-07)
 - [US States Seek Own China Ties as Trade Uncertainty Persists](https://biztoc.com/x/bac0417cc6be610c) (Published: 2025-11-07)
-- [US tariffs likely push Japan into first economic contraction in six quarters: Reuters Poll](https://biztoc.com/x/6373ae6fb1069877) (Published: 2025-11-07)
-- [NZ sharemarket shakes off Wall St fall to end firmly – Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-shakes-off-wall-st-fall-to-end-firmly-market-close/premium/IIEPYSQYABCRBPLUPBNNK5APZU/) (Published: 2025-11-07)
-- [Acer Nitro V 16 AI Review: Affordable gaming laptop with great battery life](https://www.notebookcheck.net/Acer-Nitro-V-16-AI-Review-Affordable-gaming-laptop-with-great-battery-life.1156010.0.html) (Published: 2025-11-07)
-- [hisui 2025.4.0.dev0](https://pypi.org/project/hisui/) (Published: 2025-11-07)
-- [Foxconn hires humanoid robots to make servers at Nvidia's Texas factory](https://biztoc.com/x/999076e3237072d4) (Published: 2025-11-07)
-- [Southeast Asia's largest bank CEO warns investors: 'Buckle up, we're in for a volatile ride'](https://www.cnbc.com/2025/11/07/dbs-ceo-tan-su-shan-warns-buckle-up-were-in-for-a-volatile-ride.html) (Published: 2025-11-07)
-- [Foxconn hires humanoid robots to make servers at Nvidia's Texas factory](https://www.theregister.com/2025/11/07/foxconn_humanoid_robots_nvidia_server/) (Published: 2025-11-07)
-- [GOP Senators Applaud Trump's Nvidia Advanced Chip Ban As Jensen Huang Warns China Could Dominate AI Race — Urges US To Race Ahead By Doing This](https://biztoc.com/x/8e6cefb63fd44a02) (Published: 2025-11-07)
-- [Japan’s largest tech fund says AI stocks not at bubble stage](https://www.japantimes.co.jp/business/2025/11/07/companies/ai-bubble-stage-tech-fund/) (Published: 2025-11-07)
