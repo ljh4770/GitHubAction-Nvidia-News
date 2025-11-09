@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 21:40:19**_
+_Last updated: **2025-11-09 21:50:24**_
 
 - [Coinbase Owns 'Institutional Trust' in Crypto—But 3 Public Rivals Are About To Test That Claim](https://finance.yahoo.com/news/coinbase-owns-institutional-trust-crypto-210231786.html) (Published: 2025-11-08)
 - [Is Wall Street losing faith in AI? | TechCrunch](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/) (Published: 2025-11-08)
