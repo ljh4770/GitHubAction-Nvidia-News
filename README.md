@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 20:34:18**_
+_Last updated: **2025-11-09 20:45:02**_
 
+- [Could the AI bubble be real? This sage of the 2008 market crash and central character of The Big Short, certainly thinks so](https://www.techradar.com/pro/security/could-the-ai-bubble-be-real-this-sage-of-the-2008-market-crash-the-central-character-of-the-big-short-certainly-thinks-so) (Published: 2025-11-08)
 - [70% of top Bitcoin miners are already using AI income to survive bear market](https://cryptoslate.com/70-of-top-bitcoin-miners-are-already-using-ai-income-to-survive-bear-market/) (Published: 2025-11-08)
 - [Acer Nitro V 16 AI WUXGA (1920 x 1200) IPS 180Hz Gaming Laptop AI PC, AMD Ryzen 5 240 Processor, NVIDIA® GeForce RTX™ 5050 8GB GDDR7 VRAM, 16GB RAM, 512GB SSD $629](https://slickdeals.net/f/18782695-acer-nitro-v-16-ai-wuxga-1920-x-1200-ips-180hz-gaming-laptop-ai-pc-amd-ryzen-5-240-processor-nvidia-geforce-rtx-5050-8gb-gddr7-vram-16gb-ram-512gb-ssd-629) (Published: 2025-11-08)
 - [Nvidia’s AI dominance fuels massive revenue surge](https://rollingout.com/2025/11/08/nvidias-ai-dominance-fuels-revenue-surge/) (Published: 2025-11-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-09 20:34:18**_
 - [Qualcomm earned $215 target from BofA: Here’s what could derail it](https://www.thestreet.com/economy/qualcomm-earned-215-target-from-bofa-heres-what-could-derail-it) (Published: 2025-11-08)
 - [“No TSMC, No NVIDIA,” Stresses CEO Jensen Huang as He Highlights the Importance of the Taiwan Chip Giant for the AI Industry](https://wccftech.com/no-tsmc-no-nvidia-stresses-ceo-jensen-huang-as-he-highlights-the-importance-of-the-taiwan-chip-giant/) (Published: 2025-11-08)
 - [Nifty 50, Sensex: Mr Perma Bull takes some market lessons from Mr Doom](https://www.thehindubusinessline.com/portfolio/big-story/nifty-50-sensex-mr-perma-bull-takes-some-market-lessons-from-mr-doom/article70257284.ece) (Published: 2025-11-08)
-- [Jitters in AI stocks place investors on alert](https://www.thehindubusinessline.com/portfolio/jitters-in-ai-stocks-place-investors-on-alert/article70257338.ece) (Published: 2025-11-08)
