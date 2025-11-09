@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 10:46:59**_
+_Last updated: **2025-11-09 10:57:28**_
 
 - [Tech shares lower as Trump rejects talk of AI bubble](https://economictimes.indiatimes.com/tech/technology/tech-shares-lower-as-trump-rejects-talk-of-ai-bubble/articleshow/125183127.cms) (Published: 2025-11-08)
 - [The Nasdaq fall: Index suffers steepest weekly drop since April amid AI stock sell-off and market jitters](https://economictimes.indiatimes.com/news/international/us/the-nasdaq-fall-index-suffers-steepest-weekly-drop-since-april-amid-ai-stock-sell-off-and-market-jitters/articleshow/125182629.cms) (Published: 2025-11-08)
