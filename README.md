@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 05:39:57**_
+_Last updated: **2025-11-09 05:50:31**_
 
 - [Jensen Huang joins TSMC sports day as Morris Chang misses event for health reasons](https://www.digitimes.com/news/a20251108PD200.html) (Published: 2025-11-08)
 - [Jensen Huang joins TSMC sports day as Morris Chang misses event for health reasons](https://www.digitimes.com/news/a20251108PD200/tsmc-morris-chang-nvidia-jensen-huang-2025.html) (Published: 2025-11-08)
