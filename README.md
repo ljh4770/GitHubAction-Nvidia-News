@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 22:42:54**_
+_Last updated: **2025-11-09 22:53:11**_
 
 - [The 'Big Short' Guy Just Bet $1.1 Billion Against AI Giants—And Markets Are Still Absorbing It](https://biztoc.com/x/81dbf0c821805da5) (Published: 2025-11-08)
 - [LG Partner Store: 45” LG UltraGear 5120x2160 165Hz OLED Curved Monitor $1349.99](https://slickdeals.net/f/18783049-lg-partner-store-45-lg-ultragear-5120x2160-165hz-oled-curved-monitor-1349-99) (Published: 2025-11-08)
