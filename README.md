@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 22:53:11**_
+_Last updated: **2025-11-09 23:13:12**_
 
+- [Surviving the AI shift](https://www.thestar.com.my/news/education/2025/11/09/surviving-the-ai-shift) (Published: 2025-11-08)
 - [The 'Big Short' Guy Just Bet $1.1 Billion Against AI Giants—And Markets Are Still Absorbing It](https://biztoc.com/x/81dbf0c821805da5) (Published: 2025-11-08)
 - [LG Partner Store: 45” LG UltraGear 5120x2160 165Hz OLED Curved Monitor $1349.99](https://slickdeals.net/f/18783049-lg-partner-store-45-lg-ultragear-5120x2160-165hz-oled-curved-monitor-1349-99) (Published: 2025-11-08)
 - [Coinbase Owns 'Institutional Trust' in Crypto—But 3 Public Rivals Are About To Test That Claim](https://finance.yahoo.com/news/coinbase-owns-institutional-trust-crypto-210231786.html) (Published: 2025-11-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-09 22:53:11**_
 - [70% of top Bitcoin miners are already using AI income to survive bear market](https://cryptoslate.com/70-of-top-bitcoin-miners-are-already-using-ai-income-to-survive-bear-market/) (Published: 2025-11-08)
 - [Acer Nitro V 16 AI WUXGA (1920 x 1200) IPS 180Hz Gaming Laptop AI PC, AMD Ryzen 5 240 Processor, NVIDIA® GeForce RTX™ 5050 8GB GDDR7 VRAM, 16GB RAM, 512GB SSD $629](https://slickdeals.net/f/18782695-acer-nitro-v-16-ai-wuxga-1920-x-1200-ips-180hz-gaming-laptop-ai-pc-amd-ryzen-5-240-processor-nvidia-geforce-rtx-5050-8gb-gddr7-vram-16gb-ram-512gb-ssd-629) (Published: 2025-11-08)
 - [Nvidia’s AI dominance fuels massive revenue surge](https://rollingout.com/2025/11/08/nvidias-ai-dominance-fuels-revenue-surge/) (Published: 2025-11-08)
-- [The 'Big Short' Guy Just Bet $1.1 Billion Against AI Giants—And Markets Are Still Absorbing It](https://decrypt.co/347888/big-short-guy-bet-1-1-billion-against-ai-giants-markets-still-absorbing) (Published: 2025-11-08)
