@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 09:56:12**_
+_Last updated: **2025-11-09 10:20:08**_
 
 - [The Nasdaq fall: Index suffers steepest weekly drop since April amid AI stock sell-off and market jitters](https://economictimes.indiatimes.com/news/international/us/the-nasdaq-fall-index-suffers-steepest-weekly-drop-since-april-amid-ai-stock-sell-off-and-market-jitters/articleshow/125182629.cms) (Published: 2025-11-08)
 - [Complaints About UK Rental Properties Climb to Highest on Record](https://biztoc.com/x/caf49396a5cc27ba) (Published: 2025-11-08)
