@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 06:42:29**_
+_Last updated: **2025-11-09 06:54:39**_
 
 - [Vast Data, which develops data storage tools, inks a $1.17B AI deal with CoreWeave; Vast Data, valued at $9.1B in 2023, said it reached $200M ARR by Jan. 2025](https://biztoc.com/x/224db0dcf8d3fc5c) (Published: 2025-11-08)
 - [Nvidia CEO Jensen Huang Pushes Back On Elon Musk's Plan To Build Chip Fab, Says What TSMC Does Is 'Extremely Hard'](https://biztoc.com/x/f326abf295b70660) (Published: 2025-11-08)
