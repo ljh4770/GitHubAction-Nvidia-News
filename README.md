@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 01:55:29**_
+_Last updated: **2025-11-09 03:13:35**_
 
 - [Sam Altman's pants are on fire](https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on) (Published: 2025-11-08)
 - [Cheap Power Is The Secret To Winning The Global AI Race](https://biztoc.com/x/3db89de8aab3fd34) (Published: 2025-11-08)
