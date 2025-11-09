@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 07:29:54**_
+_Last updated: **2025-11-09 07:40:22**_
 
 - [Bubble Trouble: Is too much being spent on AI?](https://www.rte.ie/news/business/2025/1108/1542794-ai-bubble-tech/) (Published: 2025-11-08)
 - [Vast Data, which develops data storage tools, inks a $1.17B AI deal with CoreWeave; Vast Data, valued at $9.1B in 2023, said it reached $200M ARR by Jan. 2025](https://biztoc.com/x/224db0dcf8d3fc5c) (Published: 2025-11-08)
