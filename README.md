@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 19:09:08**_
+_Last updated: **2025-11-09 19:22:58**_
 
+- [Nvidia’s AI dominance fuels massive revenue surge](https://rollingout.com/2025/11/08/nvidias-ai-dominance-fuels-revenue-surge/) (Published: 2025-11-08)
 - [The 'Big Short' Guy Just Bet $1.1 Billion Against AI Giants—And Markets Are Still Absorbing It](https://decrypt.co/347888/big-short-guy-bet-1-1-billion-against-ai-giants-markets-still-absorbing) (Published: 2025-11-08)
 - [Prediction: This Supercharged Growth Stock Will Join Nvidia, Apple, Microsoft, and Alphabet in the $3 Trillion Club Before 2028](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3db14812-9fed-4f00-986f-9592bee5269b) (Published: 2025-11-08)
 - [November 1, 2025](https://www.mutualfundobserver.com/2025/11/november-1-2025/) (Published: 2025-11-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-09 19:09:08**_
 - [Jitters in AI stocks place investors on alert](https://www.thehindubusinessline.com/portfolio/jitters-in-ai-stocks-place-investors-on-alert/article70257338.ece) (Published: 2025-11-08)
 - [DP-100 Azure Data Scientist Questions and Answers](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/DP-100-Azure-Data-Scientist-Questions-and-Answers) (Published: 2025-11-08)
 - [The US’s deepest freshwater cave is stunning — and home to mermaids you can actually see](https://economictimes.indiatimes.com/news/international/us/the-uss-deepest-freshwater-cave-is-stunning-and-home-to-mermaids-you-can-actually-see/articleshow/125187840.cms) (Published: 2025-11-08)
-- [Is another GFC about to upend NZ’s recovery? - Liam Dann](https://www.nzherald.co.nz/business/is-another-gfc-about-to-upend-nzs-recovery-liam-dann/premium/UDI6YWNP2JBBFKJAZSAEHU3JFI/) (Published: 2025-11-08)
