@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 19:35:04**_
+_Last updated: **2025-11-09 19:45:22**_
 
 - [Nvidia’s AI dominance fuels massive revenue surge](https://rollingout.com/2025/11/08/nvidias-ai-dominance-fuels-revenue-surge/) (Published: 2025-11-08)
 - [The 'Big Short' Guy Just Bet $1.1 Billion Against AI Giants—And Markets Are Still Absorbing It](https://decrypt.co/347888/big-short-guy-bet-1-1-billion-against-ai-giants-markets-still-absorbing) (Published: 2025-11-08)
