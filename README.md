@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 23:13:12**_
+_Last updated: **2025-11-09 23:28:42**_
 
 - [Surviving the AI shift](https://www.thestar.com.my/news/education/2025/11/09/surviving-the-ai-shift) (Published: 2025-11-08)
 - [The 'Big Short' Guy Just Bet $1.1 Billion Against AI Giants—And Markets Are Still Absorbing It](https://biztoc.com/x/81dbf0c821805da5) (Published: 2025-11-08)
