@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 20:55:33**_
+_Last updated: **2025-11-09 21:16:29**_
 
+- [Coinbase Owns 'Institutional Trust' in Crypto—But 3 Public Rivals Are About To Test That Claim](https://finance.yahoo.com/news/coinbase-owns-institutional-trust-crypto-210231786.html) (Published: 2025-11-08)
 - [Is Wall Street losing faith in AI? | TechCrunch](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/) (Published: 2025-11-08)
 - [Is Wall Street losing faith in AI?](https://finance.yahoo.com/news/wall-street-losing-faith-ai-205300697.html) (Published: 2025-11-08)
 - [Could the AI bubble be real? This sage of the 2008 market crash and central character of The Big Short, certainly thinks so](https://www.techradar.com/pro/security/could-the-ai-bubble-be-real-this-sage-of-the-2008-market-crash-the-central-character-of-the-big-short-certainly-thinks-so) (Published: 2025-11-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-09 20:55:33**_
 - [The 'Big Short' Guy Just Bet $1.1 Billion Against AI Giants—And Markets Are Still Absorbing It](https://decrypt.co/347888/big-short-guy-bet-1-1-billion-against-ai-giants-markets-still-absorbing) (Published: 2025-11-08)
 - [Prediction: This Supercharged Growth Stock Will Join Nvidia, Apple, Microsoft, and Alphabet in the $3 Trillion Club Before 2028](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3db14812-9fed-4f00-986f-9592bee5269b) (Published: 2025-11-08)
 - [November 1, 2025](https://www.mutualfundobserver.com/2025/11/november-1-2025/) (Published: 2025-11-08)
-- [Qualcomm earned $215 target from BofA: Here’s what could derail it](https://www.thestreet.com/economy/qualcomm-earned-215-target-from-bofa-heres-what-could-derail-it) (Published: 2025-11-08)
