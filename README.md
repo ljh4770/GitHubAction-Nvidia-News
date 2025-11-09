@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 23:28:42**_
+_Last updated: **2025-11-09 23:41:06**_
 
+- [Common Crawl Criticized for 'Quietly Funneling Paywalled Articles to AI Developers'](https://tech.slashdot.org/story/25/11/08/1930213/common-crawl-criticized-for-quietly-funneling-paywalled-articles-to-ai-developers) (Published: 2025-11-08)
+- [Workplaces find a knead for wellness amid daily grind](https://economictimes.indiatimes.com/jobs/hr-policies-trends/workplaces-find-a-knead-for-wellness-amid-daily-grind/articleshow/125190253.cms) (Published: 2025-11-08)
 - [Surviving the AI shift](https://www.thestar.com.my/news/education/2025/11/09/surviving-the-ai-shift) (Published: 2025-11-08)
 - [The 'Big Short' Guy Just Bet $1.1 Billion Against AI Giants—And Markets Are Still Absorbing It](https://biztoc.com/x/81dbf0c821805da5) (Published: 2025-11-08)
 - [LG Partner Store: 45” LG UltraGear 5120x2160 165Hz OLED Curved Monitor $1349.99](https://slickdeals.net/f/18783049-lg-partner-store-45-lg-ultragear-5120x2160-165hz-oled-curved-monitor-1349-99) (Published: 2025-11-08)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-09 23:28:42**_
 - [Is Wall Street losing faith in AI?](https://finance.yahoo.com/news/wall-street-losing-faith-ai-205300697.html) (Published: 2025-11-08)
 - [Could the AI bubble be real? This sage of the 2008 market crash and central character of The Big Short, certainly thinks so](https://www.techradar.com/pro/security/could-the-ai-bubble-be-real-this-sage-of-the-2008-market-crash-the-central-character-of-the-big-short-certainly-thinks-so) (Published: 2025-11-08)
 - [70% of top Bitcoin miners are already using AI income to survive bear market](https://cryptoslate.com/70-of-top-bitcoin-miners-are-already-using-ai-income-to-survive-bear-market/) (Published: 2025-11-08)
-- [Acer Nitro V 16 AI WUXGA (1920 x 1200) IPS 180Hz Gaming Laptop AI PC, AMD Ryzen 5 240 Processor, NVIDIA® GeForce RTX™ 5050 8GB GDDR7 VRAM, 16GB RAM, 512GB SSD $629](https://slickdeals.net/f/18782695-acer-nitro-v-16-ai-wuxga-1920-x-1200-ips-180hz-gaming-laptop-ai-pc-amd-ryzen-5-240-processor-nvidia-geforce-rtx-5050-8gb-gddr7-vram-16gb-ram-512gb-ssd-629) (Published: 2025-11-08)
-- [Nvidia’s AI dominance fuels massive revenue surge](https://rollingout.com/2025/11/08/nvidias-ai-dominance-fuels-revenue-surge/) (Published: 2025-11-08)
