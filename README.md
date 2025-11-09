@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-09 13:23:03**_
+_Last updated: **2025-11-09 13:38:47**_
 
 - [Hedge funds go bearish! Shorting at fastest pace since April as market jitters rise](https://economictimes.indiatimes.com/news/international/us/hedge-funds-go-bearish-shorting-at-fastest-pace-since-april-as-market-jitters-rise/articleshow/125185573.cms) (Published: 2025-11-08)
 - [Waabi + Volvo unveil next-gen self-driving truck](https://www.foxnews.com/tech/waabi-volvo-unveil-next-gen-self-driving-truck) (Published: 2025-11-08)
