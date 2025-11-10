@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 00:58:21**_
+_Last updated: **2025-11-10 02:51:00**_
 
+- [SK Hynix pushes 1C DRAM for HBM4E as AI memory demand surges](https://www.digitimes.com/news/a20251107VL202/sk-hynix-dram-2026-investment-samsung.html) (Published: 2025-11-09)
+- [Google and Nvidia take the AI race into orbit with plans for space data centers](https://www.digitimes.com/news/a20251107PD218/nvidia-google-data-h100-spacex.html) (Published: 2025-11-09)
+- [Zohran Mamdani: The disruptor redefining Trump-era politics](https://www.livemint.com/opinion/online-views/zohran-mamdani-new-york-mayor-indian-origin-politicians-global-rise-11762600381625.html) (Published: 2025-11-09)
+- [Amazon's AI comeback: Inside the cloud king’s race to close the Big Tech gap](https://www.livemint.com/companies/amazon-ai-aws-cloud-amazon-vs-microsoft-vs-google-vs-meta-amazon-openai-deal-11762519447694.html) (Published: 2025-11-09)
+- [Nvidia CEO asks TSMC for more wafers](https://timesofindia.indiatimes.com/business/international-business/nvidia-ceo-asks-tsmc-for-more-wafers/articleshow/125195917.cms) (Published: 2025-11-09)
+- [The Great Korean Pivot: From Memecoins to Machine Chips](https://www.coindesk.com/business/2025/11/09/the-great-korean-pivot-from-memecoins-to-machine-chips) (Published: 2025-11-09)
 - [Articles On: Chinese Economic Espionage, Cash-Secured Lending, Nvidia, Rare Earth, Oil, Starbucks, Shein, Supply Chain, Nexperia, Canada, Tariffs, and more](https://www.hoover.org/research/articles-chinese-economic-espionage-cash-secured-lending-nvidia-rare-earth-oil-starbucks) (Published: 2025-11-09)
 - [Philips Evnia 49M2C8900 QD-OLED review: A strong highlight among the greatest super ultrawide monitors](https://www.techradar.com/computing/monitors/philips-evnia-49m2c8900-qd-oled-review-a-strong-highlight-among-the-greatest-super-ultrawide-monitors) (Published: 2025-11-09)
 - [Articles On: Exporting Quantum, Tech Self-Reliance, Nvidia, Nexperia, TikTok, AI Chips, and Techno-Nationalism](https://www.hoover.org/research/articles-exporting-quantum-tech-self-reliance-nvidia-nexperia-tiktok-ai-chips-and-techno) (Published: 2025-11-09)
 - [Common Crawl Criticized for 'Quietly Funneling Paywalled Articles to AI Developers'](https://tech.slashdot.org/story/25/11/08/1930213/common-crawl-criticized-for-quietly-funneling-paywalled-articles-to-ai-developers) (Published: 2025-11-08)
-- [Workplaces find a knead for wellness amid daily grind](https://economictimes.indiatimes.com/jobs/hr-policies-trends/workplaces-find-a-knead-for-wellness-amid-daily-grind/articleshow/125190253.cms) (Published: 2025-11-08)
-- [Surviving the AI shift](https://www.thestar.com.my/news/education/2025/11/09/surviving-the-ai-shift) (Published: 2025-11-08)
-- [The 'Big Short' Guy Just Bet $1.1 Billion Against AI Giants—And Markets Are Still Absorbing It](https://biztoc.com/x/81dbf0c821805da5) (Published: 2025-11-08)
-- [LG Partner Store: 45” LG UltraGear 5120x2160 165Hz OLED Curved Monitor $1349.99](https://slickdeals.net/f/18783049-lg-partner-store-45-lg-ultragear-5120x2160-165hz-oled-curved-monitor-1349-99) (Published: 2025-11-08)
-- [Coinbase Owns 'Institutional Trust' in Crypto—But 3 Public Rivals Are About To Test That Claim](https://finance.yahoo.com/news/coinbase-owns-institutional-trust-crypto-210231786.html) (Published: 2025-11-08)
-- [Is Wall Street losing faith in AI? | TechCrunch](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/) (Published: 2025-11-08)
