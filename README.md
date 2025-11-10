@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 08:14:39**_
+_Last updated: **2025-11-10 08:44:04**_
 
+- [Nvidia CEO Huang sees strong demand for Blackwell chips](https://biztoc.com/x/efb9cef009faf0c3) (Published: 2025-11-09)
 - [ASUS NVIDIA GeForce RTX 5070 Prime Triple Fan 12GB @ Microcenter $499](https://slickdeals.net/f/18784168-asus-nvidia-geforce-rtx-5070-prime-triple-fan-12gb-microcenter-499) (Published: 2025-11-09)
 - [YMMV GIGABYTE - NVIDIA GeForce RTX 5070 WINDFORCE OC SFF 12G GDDR7 PCI Express 5.0 Graphics Card - Black - Open Box $434.99 (0 replies)](https://slickdeals.net/f/18784078-ymmv-gigabyte-nvidia-geforce-rtx-5070-windforce-oc-sff-12g-gddr7-pci-express-5-0-graphics-card-black-open-box-434-99) (Published: 2025-11-09)
 - [MSI Raider 18" i9 Laptop | IntelÂ® Coreâ¢ i9-14900HX, NVIDIAÂ® GeForce RTXâ¢ 4090 Laptop GPU Factory Reconditioned $2029.99 (1 replies)](https://slickdeals.net/f/18783958-msi-raider-18-i9-laptop-intel-core-i9-14900hx-nvidia-geforce-rtx-4090-laptop-gpu-factory-reconditioned-2029-99) (Published: 2025-11-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-10 08:14:39**_
 - [DP-100 Certified Data Scientist Practice Exams](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/DP-100-Certified-Data-Scientist-Practice-Exams) (Published: 2025-11-09)
 - [Plunge in Asia’s AI shares sows doubts over world-beating rally](https://economictimes.indiatimes.com/markets/stocks/news/plunge-in-asias-ai-shares-sows-doubts-over-world-beating-rally/articleshow/125196789.cms) (Published: 2025-11-09)
 - [Global week ahead: AI wobble casts shadow over 'Davos for geeks'](https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html) (Published: 2025-11-09)
-- [SK Hynix pushes 1C DRAM for HBM4E as AI memory demand surges](https://www.digitimes.com/news/a20251107VL202/sk-hynix-dram-2026-investment-samsung.html) (Published: 2025-11-09)
