@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 18:21:41**_
+_Last updated: **2025-11-10 18:46:30**_
 
+- [Hot Take: The True AI Chip Challenge for NVIDIA Isn’t from AMD or Intel — It’s Google’s TPUs Heating Up the Race](https://wccftech.com/hot-take-the-true-ai-chip-challenge-for-nvidia-isnt-from-amd-or-intel-its-googles-tpus-heating-up-the-race/) (Published: 2025-11-09)
 - [Vertiv (VRT): Evaluating Valuation After AI-Fueled Growth, New NVIDIA Partnership, and Advanced Data Center Solutions](https://finance.yahoo.com/news/vertiv-vrt-evaluating-valuation-ai-180950911.html) (Published: 2025-11-09)
 - [The modernization mandate: Inside Dell and AMD’s new playbook](https://siliconangle.com/2025/11/09/dell-amd-alliance-powers-next-generation-ai-architecture-dellsmarterprivatecloud/) (Published: 2025-11-09)
 - [Will the AI boom become a bubble? – The Prosperity Project](https://www.nzherald.co.nz/business/will-the-ai-boom-become-a-bubble-the-prosperity-project/RESPKRQGRBDAJILJTY53C7T63U/) (Published: 2025-11-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-10 18:21:41**_
 - [CrowdStrike, AWS, And Nvidia Launch Third Annual Global Accelerator: 59 Startups Raised $730M – Apply By November 15 For AI Security Boost](https://biztoc.com/x/2e7d678ba2d78506) (Published: 2025-11-09)
 - [CrowdStrike, AWS, And Nvidia Launch Third Annual Global Accelerator: 59 Startups Raised $730M – Apply By November 15 For AI Security Boost](https://finance.yahoo.com/news/crowdstrike-aws-nvidia-launch-third-170110147.html) (Published: 2025-11-09)
 - [CrowdStrike, AWS, And Nvidia Launch Third Annual Global Accelerator: 59 Startups Raised $730M – Apply By November 15 For AI Security Boost](https://finance.yahoo.com/news/crowdstrike-aws-nvidia-launch-third-170110718.html) (Published: 2025-11-09)
-- [How I turned a cheap mini PC into a AAA gaming machine — tips for inexpensive and reliable cloud gaming with NVIDIA and Xbox](https://www.windowscentral.com/gaming/pc-gaming/how-to-turn-mini-pc-into-cheap-gaming-machine) (Published: 2025-11-09)
