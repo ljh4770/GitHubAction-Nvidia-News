@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 10:48:45**_
+_Last updated: **2025-11-10 10:58:54**_
 
 - [Tax rules differ on investing in funds or directly in individual stocks](https://www.irishtimes.com/your-money/2025/11/09/tax-rules-differ-on-investing-in-funds-or-directly-in-individual-stocks/) (Published: 2025-11-09)
 - [Goldman Sachs says we’re not in an AI bubble, and its young multimillionaire clientele are all-in on AI-energy investments and healthcare innovations](https://fortune.com/2025/11/09/goldman-sachs-not-in-ai-bubble-young-mutlimillionaire-clients-ai-energy-investments-healthcare/) (Published: 2025-11-09)
