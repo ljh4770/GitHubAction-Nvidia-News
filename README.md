@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 05:20:21**_
+_Last updated: **2025-11-10 05:39:22**_
 
 - [Nvidia shares fall as CEO dashes hopes for China chip sales](https://www.spacedaily.com/reports/Nvidia_shares_fall_as_CEO_dashes_hopes_for_China_chip_sales_999.html) (Published: 2025-11-09)
 - [DP-100 Certified Data Scientist Practice Exams](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/DP-100-Certified-Data-Scientist-Practice-Exams) (Published: 2025-11-09)
