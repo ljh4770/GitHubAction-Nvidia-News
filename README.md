@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 17:42:50**_
+_Last updated: **2025-11-10 17:53:11**_
 
+- [Microsoft announces first test build for Windows 11 26H1, aimed at 'specific silicon' — Rumor mill suggests first "H1" release in Windows 11's history might be reserved for upcoming Arm PCs](https://www.tomshardware.com/software/windows/microsoft-announces-first-test-build-for-windows-11-26h1-aimed-at-nvidia-n1x-and-snapdragon-x2-first-h1-release-in-windows-11s-history-is-reserved-for-armpcs) (Published: 2025-11-09)
 - [How to watch Boca vs River live stream — it's *FREE*](https://www.techradar.com/how-to-watch/football/how-to-watch-boca-vs-river-live-stream-its-free) (Published: 2025-11-09)
 - [AMD’s rare PlayStation 5 APU-based BC-250 mining board resurfaces for $120 and can actually run Cyberpunk 2077](https://www.tomshardware.com/video-games/playstation/amds-rare-playstation-5-apu-based-bc-250-mining-board-resurfaces-for-usd120-and-can-actually-run-cyberpunk-2077) (Published: 2025-11-09)
 - [CrowdStrike, AWS, And Nvidia Launch Third Annual Global Accelerator: 59 Startups Raised $730M – Apply By November 15 For AI Security Boost](https://biztoc.com/x/2e7d678ba2d78506) (Published: 2025-11-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-10 17:42:50**_
 - [Hollywood.com Enters Buzzing Prediction Market Arena With Crypto.com Partnership](https://finance.yahoo.com/news/hollywood-com-enters-buzzing-prediction-164611275.html) (Published: 2025-11-09)
 - [Elizabeth Warren’s Forked Tongue: Leftism for Thee, But Not for Me](https://www.dailysignal.com/2025/11/09/elizabeth-warrens-record-leftism-thee-not-me/) (Published: 2025-11-09)
 - [My husband and I have plenty of money to retire now – should we keep working to leave our son a larger inheritance?](https://biztoc.com/x/b7a1edbf561d4fc3) (Published: 2025-11-09)
-- [Nvidia’s Blackwell Chips Face “Extremely High Demand”](https://nep123.com/nvidias-blackwell-chips-face-extremely-high-demand/) (Published: 2025-11-09)
