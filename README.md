@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 22:38:28**_
+_Last updated: **2025-11-10 22:49:44**_
 
+- [Asian Traders Cautious on Tech, Shutdown Concerns: Markets Wrap](https://biztoc.com/x/dc1cc1b2c88cf9bf) (Published: 2025-11-09)
 - [MLB pitchers Emmanuel Clase and Luis Ortiz charged with taking bribes to rig pitches for bettors](https://biztoc.com/x/fa360e43289bb041) (Published: 2025-11-09)
 - [Australia's AGL sells most of Tilt Renewables stake to QIC, Future Fund for $487 million](https://biztoc.com/x/15dc7de93da7f096) (Published: 2025-11-09)
 - [Australia's AGL sells most of Tilt Renewables stake to QIC, Future Fund for $487 million](https://biztoc.com/x/15dc7de93da7f096) (Published: 2025-11-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-10 22:38:28**_
 - [The True Cost of China's Falling Prices](https://biztoc.com/x/ba4a04d70f85c122) (Published: 2025-11-09)
 - [Disney’s ‘Predator: Badlands’ Kicks Off November With $40 Million Box Office Haul](https://biztoc.com/x/3ac5316badfbe02f) (Published: 2025-11-09)
 - [Yen surge scenario fades as banks revise outlook downward](https://biztoc.com/x/f8490510fd69236a) (Published: 2025-11-09)
-- [China CPI Unexpectedly Rises on Holiday Demand](https://biztoc.com/x/5462c689b30ec135) (Published: 2025-11-09)
