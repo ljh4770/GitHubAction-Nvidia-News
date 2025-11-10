@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 10:58:54**_
+_Last updated: **2025-11-10 11:23:39**_
 
+- [Pablos Holman on AI, the Future, and Why the World Needs More Energy](https://reason.com/2025/11/09/boycott-dystopia/) (Published: 2025-11-09)
 - [Tax rules differ on investing in funds or directly in individual stocks](https://www.irishtimes.com/your-money/2025/11/09/tax-rules-differ-on-investing-in-funds-or-directly-in-individual-stocks/) (Published: 2025-11-09)
 - [Goldman Sachs says we’re not in an AI bubble, and its young multimillionaire clientele are all-in on AI-energy investments and healthcare innovations](https://fortune.com/2025/11/09/goldman-sachs-not-in-ai-bubble-young-mutlimillionaire-clients-ai-energy-investments-healthcare/) (Published: 2025-11-09)
 - [What Can Europe Learn From China’s Critical-Tech Innovation Push?](https://www.nakedcapitalism.com/2025/11/what-can-europe-learn-from-chinas-critical-tech-innovation-push.html) (Published: 2025-11-09)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-10 10:58:54**_
 - [Shareholders and compensation consultants weigh in on Elon Musk's $1 trillion pay package after Tesla meeting](https://www.businessinsider.com/business-experts-shareholders-weigh-in-on-elon-musk-pay-package-2025-11) (Published: 2025-11-09)
 - [nvidia-nat-s3 1.3.0a20251109](https://pypi.org/project/nvidia-nat-s3/1.3.0a20251109/) (Published: 2025-11-09)
 - [nvidia-nat-all 1.3.0a20251109](https://pypi.org/project/nvidia-nat-all/1.3.0a20251109/) (Published: 2025-11-09)
-- [nvidia-nat-weave 1.3.0a20251109](https://pypi.org/project/nvidia-nat-weave/1.3.0a20251109/) (Published: 2025-11-09)
