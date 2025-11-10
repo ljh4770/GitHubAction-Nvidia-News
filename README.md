@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 07:50:34**_
+_Last updated: **2025-11-10 08:14:39**_
 
 - [ASUS NVIDIA GeForce RTX 5070 Prime Triple Fan 12GB @ Microcenter $499](https://slickdeals.net/f/18784168-asus-nvidia-geforce-rtx-5070-prime-triple-fan-12gb-microcenter-499) (Published: 2025-11-09)
 - [YMMV GIGABYTE - NVIDIA GeForce RTX 5070 WINDFORCE OC SFF 12G GDDR7 PCI Express 5.0 Graphics Card - Black - Open Box $434.99 (0 replies)](https://slickdeals.net/f/18784078-ymmv-gigabyte-nvidia-geforce-rtx-5070-windforce-oc-sff-12g-gddr7-pci-express-5-0-graphics-card-black-open-box-434-99) (Published: 2025-11-09)
