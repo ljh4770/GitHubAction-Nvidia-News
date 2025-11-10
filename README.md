@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 20:38:52**_
+_Last updated: **2025-11-10 20:52:39**_
 
 - [Mark Cuban Said 'I Didn't Care About The Business Side Of The Mavericks' — He Bought the Team to Win Championships, If He's Being 'Brutally Honest'](https://sports.yahoo.com/article/mark-cuban-said-didnt-care-203112796.html) (Published: 2025-11-09)
 - [Got a spare $50,000? Cooling a single Nvidia Blackwell Ultra NVL72 rack costs as much as a Tesla Model Y - and it's only going to get more expensive with new racks](https://www.techradar.com/pro/got-a-spare-usd50-000-cooling-a-single-nvidia-blackwell-ultra-nvl72-rack-costs-as-much-as-a-tesla-model-y-and-its-only-going-to-get-more-expensive-with-new-racks) (Published: 2025-11-09)
