@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-10 03:44:27**_
+_Last updated: **2025-11-10 04:15:17**_
 
+- [Plunge in Asia’s AI shares sows doubts over world-beating rally](https://economictimes.indiatimes.com/markets/stocks/news/plunge-in-asias-ai-shares-sows-doubts-over-world-beating-rally/articleshow/125196789.cms) (Published: 2025-11-09)
+- [Global week ahead: AI wobble casts shadow over 'Davos for geeks'](https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html) (Published: 2025-11-09)
 - [SK Hynix pushes 1C DRAM for HBM4E as AI memory demand surges](https://www.digitimes.com/news/a20251107VL202/sk-hynix-dram-2026-investment-samsung.html) (Published: 2025-11-09)
 - [Google and Nvidia take the AI race into orbit with plans for space data centers](https://www.digitimes.com/news/a20251107PD218/nvidia-google-data-h100-spacex.html) (Published: 2025-11-09)
 - [Zohran Mamdani: The disruptor redefining Trump-era politics](https://www.livemint.com/opinion/online-views/zohran-mamdani-new-york-mayor-indian-origin-politicians-global-rise-11762600381625.html) (Published: 2025-11-09)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-10 03:44:27**_
 - [The Great Korean Pivot: From Memecoins to Machine Chips](https://www.coindesk.com/business/2025/11/09/the-great-korean-pivot-from-memecoins-to-machine-chips) (Published: 2025-11-09)
 - [Articles On: Chinese Economic Espionage, Cash-Secured Lending, Nvidia, Rare Earth, Oil, Starbucks, Shein, Supply Chain, Nexperia, Canada, Tariffs, and more](https://www.hoover.org/research/articles-chinese-economic-espionage-cash-secured-lending-nvidia-rare-earth-oil-starbucks) (Published: 2025-11-09)
 - [Philips Evnia 49M2C8900 QD-OLED review: A strong highlight among the greatest super ultrawide monitors](https://www.techradar.com/computing/monitors/philips-evnia-49m2c8900-qd-oled-review-a-strong-highlight-among-the-greatest-super-ultrawide-monitors) (Published: 2025-11-09)
-- [Articles On: Exporting Quantum, Tech Self-Reliance, Nvidia, Nexperia, TikTok, AI Chips, and Techno-Nationalism](https://www.hoover.org/research/articles-exporting-quantum-tech-self-reliance-nvidia-nexperia-tiktok-ai-chips-and-techno) (Published: 2025-11-09)
-- [Common Crawl Criticized for 'Quietly Funneling Paywalled Articles to AI Developers'](https://tech.slashdot.org/story/25/11/08/1930213/common-crawl-criticized-for-quietly-funneling-paywalled-articles-to-ai-developers) (Published: 2025-11-08)
