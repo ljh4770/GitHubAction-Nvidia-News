@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-11 06:56:59**_
+_Last updated: **2025-11-11 07:23:58**_
 
 - [Tuxedo intros InfinityBook Max 15 Gen 10 with up to AMD Strix Point and Nvidia RTX 5070](https://www.notebookcheck.net/Tuxedo-intros-InfinityBook-Max-15-Gen-10-with-up-to-AMD-Strix-Point-and-Nvidia-RTX-5070.1159365.0.html) (Published: 2025-11-10)
 - [Asian shares advance as tech shares rebound from AI jitters](https://abcnews.go.com/Business/wireStory/asian-shares-advance-tech-shares-rebound-ai-jitters-127368346) (Published: 2025-11-10)
@@ -10,4 +10,3 @@ _Last updated: **2025-11-11 06:56:59**_
 - [Is Fashion Ready for the AI Bubble to Burst?](https://www.vogue.com/article/is-fashion-ready-for-the-ai-bubble-to-burst) (Published: 2025-11-10)
 - [Nvidia’s Jensen Huang: China will surpass U.S. in AI race through ENERGY](https://www.naturalnews.com/2025-11-10-huang-china-surpass-us-ai-race-energy.html) (Published: 2025-11-10)
 - [Rumble to Acquire AI Infrastructure Company Northern Data](https://www.globenewswire.com/news-release/2025/11/10/3184181/0/en/Rumble-to-Acquire-AI-Infrastructure-Company-Northern-Data.html) (Published: 2025-11-10)
-- [Rumble to acquire German AI firm Northern Data for about $767 million](https://www.channelnewsasia.com/business/rumble-acquire-german-ai-firm-northern-data-about-767-million-5457326) (Published: 2025-11-10)
