@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-11 17:53:47**_
+_Last updated: **2025-11-11 18:23:16**_
 
+- [Treat yourself this Singles’ Day with these gaming laptop deals: RTX 50-series GPU-powered models up to $900 off](http://9to5toys.com/2025/11/10/treat-yourself-this-singles-day-with-these-gaming-laptop-deals/) (Published: 2025-11-10)
+- [Will China win the AI race?](https://theconversation.com/will-china-win-the-ai-race-269415) (Published: 2025-11-10)
+- [Nvidia’s data centers in Santa Clara stand empty awaiting power](https://biztoc.com/x/20245ba93513bfc2) (Published: 2025-11-10)
+- [‘Load Up on Nvidia Stock,’ Says Top Investor – 4 Reasons Why](https://biztoc.com/x/dea463cd28f8b002) (Published: 2025-11-10)
+- [The World’s 10 Richest People Became $40 Billion Richer As Shutdown Deal Advances](https://www.forbes.com/sites/tylerroush/2025/11/10/the-worlds-10-richest-people-became-40-billion-richer-as-shutdown-deal-advances/) (Published: 2025-11-10)
+- [Training XGBoost Models with GPU-Accelerated Polars DataFrames](https://developer.nvidia.com/blog/training-xgboost-models-with-gpu-accelerated-polars-dataframes/) (Published: 2025-11-10)
+- [European shares soar on hopes of end to US government shutdown](https://www.irishtimes.com/business/2025/11/10/european-shares-soar-on-hopes-of-end-to-us-government-shutdown/) (Published: 2025-11-10)
+- [iBUYPOWER - Y40 PRO Gaming Desktop PC -AMD Ryzen 9 7900X, NVIDIA GeForce RTX 5080 16GB, 32GB DDR5 RGB,2TB NVMe SSD - Black (2 replies)](https://slickdeals.net/f/18789736-ibuypower-y40-pro-gaming-desktop-pc-amd-ryzen-9-7900x-nvidia-geforce-rtx-5080-16gb-32gb-ddr5-rgb-2tb-nvme-ssd-black) (Published: 2025-11-10)
+- [Nvidia Rival Weathering AI Storm, Looks To Reclaim Buy Point](https://biztoc.com/x/c5d484267c0e62da) (Published: 2025-11-10)
 - [The 4.5T dollar elephant in the room](https://stevenadler.substack.com/p/the-45-trillion-dollar-elephant-in) (Published: 2025-11-10)
-- [AI Boom Could Send Palantir, Microsoft, and Amazon Stocks Soaring in 2026](https://finance.yahoo.com/news/ai-boom-could-send-palantir-172737406.html) (Published: 2025-11-10)
-- [“There Are No Dark Fibers in AI”: NVIDIA’s Jensen Huang Rejects Dot-Com Bubble Parallels, Arguing the AI Frenzy Is Built on Real Demand](https://wccftech.com/there-are-no-dark-fibers-in-ai-nvidia-jensen-huang-dismisses-dot-com-bubble-comparisons/) (Published: 2025-11-10)
-- [Why Nvidia Stock Is Getting a TSMC Boost](https://biztoc.com/x/64e515fe4e8c80c7) (Published: 2025-11-10)
-- [Anno 117: Pax Romana is a beautiful and refined city builder, but its simplicity might disappoint returning fans](https://www.techradar.com/gaming/anno-117-pax-romana-review) (Published: 2025-11-10)
-- [Rumble Prepares to Take on AI Giants with 'Freedom-First' Platform](https://www.breitbart.com/tech/2025/11/10/rumble-prepares-to-take-on-ai-giants-with-freedom-first-platform/) (Published: 2025-11-10)
-- [megatron-fsdp 0.2.0.dev113373](https://pypi.org/project/megatron-fsdp/0.2.0.dev113373/) (Published: 2025-11-10)
-- [How to Achieve 4x Faster Inference for Math Problem Solving](https://developer.nvidia.com/blog/how-to-achieve-4x-faster-inference-for-math-problem-solving/) (Published: 2025-11-10)
-- [AWS Weekly Roundup: Amazon S3, Amazon EC2, and more (November 10, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-ec2-and-more-november-10-2025/) (Published: 2025-11-10)
