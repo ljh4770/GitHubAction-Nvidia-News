@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-11 21:59:11**_
+_Last updated: **2025-11-11 22:26:41**_
 
-- [llmboost-hub added to PyPI](https://pypi.org/project/llmboost-hub/) (Published: 2025-11-10)
-- [Nvidia Jumps 5.8% as Tech Stocks Bounce Back](https://www.newser.com/story/378429/nvidia-jumps-58-as-tech-stocks-bounce-back.html) (Published: 2025-11-10)
-- [Abra reaches deal for Chile's Sky to join airline group](https://biztoc.com/x/3dc7f70b105024ee) (Published: 2025-11-10)
-- [Baker Hughes commits investment in Glenfarne Alaska LNG project](https://biztoc.com/x/bf827975f44ca2f4) (Published: 2025-11-10)
-- [Visa, Mastercard reach $38 billion swipe fee settlement, draw opposition](https://biztoc.com/x/4d23a87adebeb5e7) (Published: 2025-11-10)
-- [PepsiCo and 3 Other Defensive Stocks to Ride Out a Vulnerable Market](https://biztoc.com/x/37616ae5ff0ebdcd) (Published: 2025-11-10)
-- [Rigetti Computing Stock Is Falling After Mixed Quarter](https://biztoc.com/x/8070e9f6d95e44e6) (Published: 2025-11-10)
-- [Stocks Finish Sharply Higher on Plans to Reopen the US Government](https://biztoc.com/x/52420cc3beae1dd6) (Published: 2025-11-10)
-- [Arctic air hits much of the US, bringing snow to some areas and very chilly temperatures to Florida](https://biztoc.com/x/76d0394af035cbfc) (Published: 2025-11-10)
+- [Upcoming Livestream: Build Visual AI Agents with NVIDIA Cosmos Reason and Metropolis](https://www.addevent.com/event/kffjqsqb67nq) (Published: 2025-11-10)
+- [Rallies for Nvidia and Big Tech help Wall Street nearly erase last week's loss](https://www.wpxi.com/news/business/asian-shares-advance/DJ2V7J4C545CXHKYKR7OB2VCLU/) (Published: 2025-11-10)
+- [AST SpaceMobile Stock Rides Out Earnings Miss](https://biztoc.com/x/b6de5ab4514e90fd) (Published: 2025-11-10)
+- [Rocket Lab Stock Jumps. A Launch Record Is Near](https://biztoc.com/x/a4a6f21a84c70e44) (Published: 2025-11-10)
+- [CoreWeave’s earnings beat shows that the AI trade is far from over](https://biztoc.com/x/47c2f477eafb911f) (Published: 2025-11-10)
+- [Trump’s $2,000 Tariff ‘Dividend’ Marks Throwback to Covid Checks](https://biztoc.com/x/19a035cdaf36ec52) (Published: 2025-11-10)
+- [At UN climate talks in Brazil, the only sign of the United States is an empty chair](https://biztoc.com/x/f52e2721cd121a7a) (Published: 2025-11-10)
+- [Senate Ag Releases Long-Awaited Version of Crypto Market Structure Legislation](https://biztoc.com/x/bb1c05e4992a0a46) (Published: 2025-11-10)
+- [Korea’s New Bourse Considers K-Pop Tokens to Lure More Traders](https://biztoc.com/x/bd2f99fbb95e8996) (Published: 2025-11-10)
+- [Trading Day: Light at the end of the shutdown tunnel](https://biztoc.com/x/3ff88df95cce4be3) (Published: 2025-11-10)
