@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-11 07:59:53**_
+_Last updated: **2025-11-11 08:36:17**_
 
+- [Stock markets surge after US lawmakers move to end government shutdown](https://www.aljazeera.com/economy/2025/11/10/stock-markets-surge-after-us-lawmakers-move-to-end-government-shutdown) (Published: 2025-11-10)
 - [Windows 11 26H1 Focuses on New Silicon Support, Not New Features](https://www.techpowerup.com/342753/windows-11-26h1-focuses-on-new-silicon-support-not-new-features) (Published: 2025-11-10)
 - [Tuxedo intros InfinityBook Max 15 Gen 10 with up to AMD Strix Point and Nvidia RTX 5070](https://www.notebookcheck.net/Tuxedo-intros-InfinityBook-Max-15-Gen-10-with-up-to-AMD-Strix-Point-and-Nvidia-RTX-5070.1159365.0.html) (Published: 2025-11-10)
 - [Asian shares advance as tech shares rebound from AI jitters](https://abcnews.go.com/Business/wireStory/asian-shares-advance-tech-shares-rebound-ai-jitters-127368346) (Published: 2025-11-10)
@@ -9,4 +10,3 @@ _Last updated: **2025-11-11 07:59:53**_
 - [HP OMEN 35L Gaming Desktop: Ryzen 5 8400F, RTX 5060, 16GB DDR5, 1TB SSD $879.99](https://slickdeals.net/f/18787420-hp-omen-35l-gaming-desktop-ryzen-5-8400f-rtx-5060-16gb-ddr5-1tb-ssd-879-99) (Published: 2025-11-10)
 - [Artificial Intelligence revolution has a power problem](https://www.hurriyetdailynews.com/artificial-intelligence-revolution-has-a-power-problem-215556) (Published: 2025-11-10)
 - [Is Fashion Ready for the AI Bubble to Burst?](https://www.vogue.com/article/is-fashion-ready-for-the-ai-bubble-to-burst) (Published: 2025-11-10)
-- [Nvidia’s Jensen Huang: China will surpass U.S. in AI race through ENERGY](https://www.naturalnews.com/2025-11-10-huang-china-surpass-us-ai-race-energy.html) (Published: 2025-11-10)
