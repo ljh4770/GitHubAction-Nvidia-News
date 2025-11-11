@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-11 06:40:51**_
+_Last updated: **2025-11-11 06:56:59**_
 
+- [Tuxedo intros InfinityBook Max 15 Gen 10 with up to AMD Strix Point and Nvidia RTX 5070](https://www.notebookcheck.net/Tuxedo-intros-InfinityBook-Max-15-Gen-10-with-up-to-AMD-Strix-Point-and-Nvidia-RTX-5070.1159365.0.html) (Published: 2025-11-10)
 - [Asian shares advance as tech shares rebound from AI jitters](https://abcnews.go.com/Business/wireStory/asian-shares-advance-tech-shares-rebound-ai-jitters-127368346) (Published: 2025-11-10)
 - [Acer Predator Helios 18 AI: 18" QHD+ 250Hz mini-LED, Intel Ultra 9 275HX, RTX 5080, 32GB DDR5, 1TB SSD $2549.99 (2 replies)](https://slickdeals.net/f/18787459-acer-predator-helios-18-ai-18-qhd-250hz-mini-led-intel-ultra-9-275hx-rtx-5080-32gb-ddr5-1tb-ssd-2549-99) (Published: 2025-11-10)
 - [Dundee and US surgeons achieve world-first stroke surgery using robot](https://www.bbc.com/news/articles/cjw983pvz6lo) (Published: 2025-11-10)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-11 06:40:51**_
 - [Nvidia’s Jensen Huang: China will surpass U.S. in AI race through ENERGY](https://www.naturalnews.com/2025-11-10-huang-china-surpass-us-ai-race-energy.html) (Published: 2025-11-10)
 - [Rumble to Acquire AI Infrastructure Company Northern Data](https://www.globenewswire.com/news-release/2025/11/10/3184181/0/en/Rumble-to-Acquire-AI-Infrastructure-Company-Northern-Data.html) (Published: 2025-11-10)
 - [Rumble to acquire German AI firm Northern Data for about $767 million](https://www.channelnewsasia.com/business/rumble-acquire-german-ai-firm-northern-data-about-767-million-5457326) (Published: 2025-11-10)
-- [Rumble to buy German AI firm Northern Data for about $767 million](https://www.channelnewsasia.com/business/rumble-buy-german-ai-firm-northern-data-about-767-million-5457326) (Published: 2025-11-10)
