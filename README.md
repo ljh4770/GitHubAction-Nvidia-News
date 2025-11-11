@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-11 02:06:56**_
+_Last updated: **2025-11-11 03:20:03**_
 
+- [Dave Airlie (blogspot): a tale of vulkan/nouveau/nvk/zink/mutter + deadlocks](https://airlied.blogspot.com/2025/11/a-tale-of-vulkannouveaunvkzinkmutter.html) (Published: 2025-11-10)
+- [Grant Cardone Says There Will Be 'A Massive Implosion' Of Bitcoin Treasury Companies](https://finance.yahoo.com/news/grant-cardone-says-massive-implosion-030122060.html) (Published: 2025-11-10)
+- [ハードウェア暗号化対応USB-CポータブルSSD「OWC Guardian」の国内取り扱いを開始](https://prtimes.jp/main/html/rd/p/000001012.000008686.html) (Published: 2025-11-10)
+- [Wifi slows down after using laptop for a while](https://www.bleepingcomputer.com/forums/t/811746/wifi-slows-down-after-using-laptop-for-a-while/) (Published: 2025-11-10)
+- [Wifi slows down after using laptop for a while](https://www.bleepingcomputer.com/forums/t/811745/wifi-slows-down-after-using-laptop-for-a-while/) (Published: 2025-11-10)
+- [NVIDIA CEO visits Taiwan to secure additional AI chip orders](http://technode.com/2025/11/10/nvidia-ceo-visits-taiwan-to-secure-additional-ai-chip-orders/) (Published: 2025-11-10)
+- [The AI revolution has a power problem](https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-revolution-has-a-power-problem/articleshow/125212509.cms) (Published: 2025-11-10)
+- [The AI revolution has a power problem](https://www.digitaljournal.com/world/the-ai-revolution-has-a-power-problem/article) (Published: 2025-11-10)
+- [The AI revolution has a power problem](https://www.digitaljournal.com/tech-science/the-ai-revolution-has-a-power-problem/article) (Published: 2025-11-10)
 - [India roundup: Nvidia, Qualcomm join US$1B India deep tech alliance as Apple breaks into top 5 smartphone brands](https://www.digitimes.com/news/a20251110VL203/nvidia-qualcomm-apple-smartphone-lges-ola-electric.html) (Published: 2025-11-10)
-- [Top 10 Richest People In The World 2025: How Elon Musk Nears Trillionaire Status](https://freerepublic.com/focus/f-chat/4351695/posts) (Published: 2025-11-10)
-- [Hong Kong Just Cracked Open Its Crypto Vaults—And Wall Street Should Be Paying Attention](https://finance.yahoo.com/news/hong-kong-just-cracked-open-020109898.html) (Published: 2025-11-10)
-- [Stock futures rise on hope for a deal to end the government shutdown: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=180021738) (Published: 2025-11-10)
-- [Global tech tensions overshadow Web Summit’s AI and robots](https://www.digitaljournal.com/world/global-tech-tensions-overshadow-web-summits-ai-and-robots/article) (Published: 2025-11-10)
-- [4 old GPUs that still hold their own in 2025](https://www.xda-developers.com/old-gpus-that-still-hold-their-own-in-2025/) (Published: 2025-11-10)
-- [Sunday Rally, Will It Last?](https://biztoc.com/x/ddd2535132578186) (Published: 2025-11-10)
-- [Dow Jones Futures Rise With Shutdown Deal 'Coming Together'; Nvidia Leads Four Stocks In Buy Areas - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180021516) (Published: 2025-11-10)
-- [Malaysia reaffirms AI chip neutrality, adopts Nvidia and Huawei Ascend](https://www.digitimes.com/news/a20251110PD202/huawei-ai-chip-ascend-chips-nvidia.html) (Published: 2025-11-10)
-- [Why does my Jupyter kernel keep dying during PyTorch training on Ubuntu 22.04 with RTX 4090 (CUDA 12.4)?](https://askubuntu.com/questions/1559470/why-does-my-jupyter-kernel-keep-dying-during-pytorch-training-on-ubuntu-22-04-wi) (Published: 2025-11-10)
