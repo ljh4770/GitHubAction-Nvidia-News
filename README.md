@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-11 18:58:20**_
+_Last updated: **2025-11-11 19:21:07**_
 
+- [Warren Buffett says he's "going quiet" in CEO letter to investors](https://www.cbsnews.com/news/warren-buffett-shareholder-letter-berkshire-hathaway/) (Published: 2025-11-10)
 - [Wall Street is Pounding the Table Over NVDA, RUN, LLY](https://biztoc.com/x/ab68cb6d39653232) (Published: 2025-11-10)
 - [Nvidia and Big Tech rally to help Wall Street recover most of last week's drop](https://biztoc.com/x/978bbbe561731f02) (Published: 2025-11-10)
 - [Nvidia Stock 'Particularly Compelling,' Could See 70% Earnings Growth In 2026, Analyst Says](https://biztoc.com/x/fa0f19727731aad4) (Published: 2025-11-10)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-11 18:58:20**_
 - [‘Load Up on Nvidia Stock,’ Says Top Investor – 4 Reasons Why](https://biztoc.com/x/dea463cd28f8b002) (Published: 2025-11-10)
 - [The World’s 10 Richest People Became $40 Billion Richer As Shutdown Deal Advances](https://www.forbes.com/sites/tylerroush/2025/11/10/the-worlds-10-richest-people-became-40-billion-richer-as-shutdown-deal-advances/) (Published: 2025-11-10)
 - [Training XGBoost Models with GPU-Accelerated Polars DataFrames](https://developer.nvidia.com/blog/training-xgboost-models-with-gpu-accelerated-polars-dataframes/) (Published: 2025-11-10)
-- [European shares soar on hopes of end to US government shutdown](https://www.irishtimes.com/business/2025/11/10/european-shares-soar-on-hopes-of-end-to-us-government-shutdown/) (Published: 2025-11-10)
