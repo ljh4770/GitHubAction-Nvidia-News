@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-12 07:45:34**_
+_Last updated: **2025-11-12 07:55:59**_
 
 - [Japan's SoftBank sells its shares in Nvidia for $5.8 billion](https://apnews.com/article/japan-softbank-son-nvidia-ai-chips-d8a10172850628c317a214280a4d94c9) (Published: 2025-11-11)
 - [Japan's SoftBank says it has sold its shares in Nvidia for $5.8 billion](https://finance.yahoo.com/news/japans-softbank-says-sold-shares-074049864.html) (Published: 2025-11-11)
