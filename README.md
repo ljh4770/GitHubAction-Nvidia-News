@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-12 07:55:59**_
+_Last updated: **2025-11-12 08:30:32**_
 
-- [Japan's SoftBank sells its shares in Nvidia for $5.8 billion](https://apnews.com/article/japan-softbank-son-nvidia-ai-chips-d8a10172850628c317a214280a4d94c9) (Published: 2025-11-11)
-- [Japan's SoftBank says it has sold its shares in Nvidia for $5.8 billion](https://finance.yahoo.com/news/japans-softbank-says-sold-shares-074049864.html) (Published: 2025-11-11)
-- [SoftBank sells its entire stake in Nvidia for $5.83 billion](https://biztoc.com/x/a83999e01b86aa36) (Published: 2025-11-11)
-- [SoftBank's half-year profit almost triples amid AI frenzy](https://asia.nikkei.com/business/softbank/softbank-s-half-year-profit-almost-triples-amid-ai-frenzy) (Published: 2025-11-11)
-- [Zacks Investment Ideas feature highlights Nvidia, Tesla, Alphabet's and Baidu](https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-073600537.html) (Published: 2025-11-11)
-- [Asian shares are mostly lower despite Wall St rally and potential end to U.S. shutdown](https://japantoday.com/category/business/asian-shares-are-mostly-lower-despite-wall-st-rally-and-a-potential-end-to-the-us-shutdown) (Published: 2025-11-11)
-- [CNBC Daily Open: Days of declines won't keep AI trade down](https://www.cnbc.com/2025/11/11/cnbc-daily-open-days-of-declines-wont-keep-ai-trade-down.html) (Published: 2025-11-11)
-- [SoftBank sells its entire stake in Nvidia for $5.83 billion](https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html) (Published: 2025-11-11)
-- [SoftBank sells entire Nvidia stake for $5.8 billion in surprise move](https://economictimes.indiatimes.com/tech/technology/softbank-unloads-nvidia-stake-for-5-8-billion-in-surprise-move/articleshow/125243524.cms) (Published: 2025-11-11)
-- [SoftBank unloads Nvidia stake for $5.8 billion in surprise move](https://economictimes.indiatimes.com/markets/stocks/news/softbank-unloads-nvidia-stake-for-5-8-billion-in-surprise-move/articleshow/125243270.cms) (Published: 2025-11-11)
+- [Stock Market Today: S&P 500, Nasdaq Set to Open Down; Dow Futures Flat; Palantir, SoFi, Nvidia, Tesla, More Movers](https://biztoc.com/x/f3c1e8a4214b0ef0) (Published: 2025-11-11)
+- [Japan's SoftBank says it has sold its shares in Nvidia for $5.8 billion](https://biztoc.com/x/b4543d142051c9f8) (Published: 2025-11-11)
+- [Data centers in Nvidia’s hometown stand empty awaiting power](https://biztoc.com/x/153254358ca9b086) (Published: 2025-11-11)
+- [Rumble to buy Northern Data in cloud expansion move](https://www.verdict.co.uk/rumble-northern-data-cloud/) (Published: 2025-11-11)
+- [Japan's SoftBank says it has sold its shares in Nvidia for $5.8 billion](https://abcnews.go.com/Business/wireStory/japans-softbank-sold-shares-nvidia-58-billion-127405194) (Published: 2025-11-11)
+- [nvitop 1.6.0](https://pypi.org/project/nvitop/1.6.0/) (Published: 2025-11-11)
+- [SoftBank unloads Nvidia stake for $5.8 billion in surprise move](https://www.japantimes.co.jp/business/2025/11/11/companies/softbank-nvidia-stake/) (Published: 2025-11-11)
+- [AI stock boom delivers bumper quarter for Japan's SoftBank](https://economictimes.indiatimes.com/tech/technology/ai-stock-boom-delivers-bumper-quarter-for-japans-softbank/articleshow/125244000.cms) (Published: 2025-11-11)
+- [AI stock boom delivers bumper quarter for Japan’s SoftBank](https://www.digitaljournal.com/world/ai-stock-boom-delivers-bumper-quarter-for-japans-softbank/article) (Published: 2025-11-11)
