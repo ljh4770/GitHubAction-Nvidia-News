@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-12 14:28:08**_
+_Last updated: **2025-11-12 14:47:39**_
 
-- [SoftBank's $5.8 billion Nvidia stake sale stirs fresh AI bubble fears](https://finance.yahoo.com/news/softbanks-5-8-billion-nvidia-142633755.html) (Published: 2025-11-11)
-- [SoftBank dumps entire Nvidia stake for this investment](https://rollingout.com/2025/11/11/softbank-dumps-entire-nvidia-stake/) (Published: 2025-11-11)
-- [Score LG’s UltraGear 280Hz QHD OLED gaming monitor for your battlestation while it’s $300 off for Singles’ Day](http://9to5toys.com/2025/11/11/lg-ultragear-280hz-qhd-oled-gaming-monitor-300-off/) (Published: 2025-11-11)
-- ['Western tech dominance fading' at Lisbon's Web Summit](https://techxplore.com/news/2025-11-western-tech-dominance-lisbon-web.html) (Published: 2025-11-11)
-- [Bank of England sees wider QE benefits cushioning big losses](https://biztoc.com/x/495bf3b4d8df3d4c) (Published: 2025-11-11)
-- [If You’re Not Following Dave Ramsey’s Social Security Advice, You’re Making a Big Mistake](https://biztoc.com/x/3a47cc58b5319b44) (Published: 2025-11-11)
-- [Morgan Stanley Starts Research Product Focused on Private Firms](https://biztoc.com/x/8871afa1cb5716d8) (Published: 2025-11-11)
-- [Bitcoin’s Recovery Falters With Buyer Fatigue Hindering Momentum](https://biztoc.com/x/05b916f034e9b072) (Published: 2025-11-11)
-- [Will the YIMBY ‘Holy Grail’ Deliver an LA Building Boom?](https://biztoc.com/x/6901534dee11f49c) (Published: 2025-11-11)
+- [Amaroq confirms high-grade critical minerals at Black Angel mine](https://biztoc.com/x/e3f524c20aa2fe96) (Published: 2025-11-11)
+- [Adyen sets new targets, outpacing European rivals](https://biztoc.com/x/0a8707f56cfac0f0) (Published: 2025-11-11)
+- [The AI Bubble Is Ignoring the ‘Big Short’ Guy’s Fears](https://biztoc.com/x/f171579d20dd26fa) (Published: 2025-11-11)
+- [Ukraine hands down charges in major corruption probe](https://biztoc.com/x/bdb78dcc3767be02) (Published: 2025-11-11)
+- [Stocks to Watch Tuesday: SoftBank, Nebius, Paramount, CoreWeave](https://biztoc.com/x/3c7fb5442a52f5c4) (Published: 2025-11-11)
+- [Exit Polls Show Modi Poised for Bihar Win After Tough Year](https://biztoc.com/x/4d9c48fa3120c296) (Published: 2025-11-11)
+- [Should Your New Assistant be an AI Agent](https://biztoc.com/x/70ed2317aae9eeec) (Published: 2025-11-11)
+- [The S&P 500, Nasdaq Are Falling. This Week’s AI Rally Is Losing Steam](https://biztoc.com/x/1457f234050c9398) (Published: 2025-11-11)
+- [Same career psychopaths who sold out filmmaking are destroying our political parties and the BBC](https://www.eoshd.com/news/same-career-psychopaths-who-sold-out-filmmaking-are-destroying-our-political-parties-and-the-bbc/) (Published: 2025-11-11)
+- [3 takeaways about the AI race from SoftBank's earnings](https://www.businessinsider.com/softbank-earnings-call-nvidia-openai-stargate-ai-bubble-race-2025-11) (Published: 2025-11-11)
