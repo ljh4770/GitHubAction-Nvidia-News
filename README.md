@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-12 17:49:25**_
+_Last updated: **2025-11-12 17:59:58**_
 
+- [AI Daily: SoftBank sells Nvidia stake, AMD to outline AI chip plans](https://thefly.com/permalinks/entry.php/id4237311/NVDA;AMD;MSFT;$PRIVATE;META;GOOGL;GOOG;PINS;RDDT;SNAP;INTC;AI;SFTBY-AI-Daily-SoftBank-sells-Nvidia-stake-AMD-to-outline-AI-chip-plans) (Published: 2025-11-11)
+- [Early Black Friday offer makes HP Victus the cheapest laptop with a dedicated GPU at just $549](https://www.techradar.com/pro/early-black-friday-offer-makes-hp-victus-the-cheapest-laptop-with-a-dedicated-gpu-at-just-usd549) (Published: 2025-11-11)
+- [Tesla’s Engineering Exodus Comes Amid Shift From Core EV Mission](https://biztoc.com/x/40ab2fa78d74bcd1) (Published: 2025-11-11)
+- [What's Going On With Nvidia Stock Tuesday?](https://biztoc.com/x/690a0364004ea0b2) (Published: 2025-11-11)
+- [Nvidia Shares Drop After SoftBank Sells Stake](https://biztoc.com/x/9ff98d369d714e85) (Published: 2025-11-11)
+- [Rate Cuts Aren’t Helping Poorer Families. It’s a Bad Sign for Consumer Spending](https://biztoc.com/x/bd1589451cba71ca) (Published: 2025-11-11)
+- [Alphabet Generates Strong FCF and If It Continues GOOGL Stock is 40% Undervalued](https://biztoc.com/x/253585f261525608) (Published: 2025-11-11)
+- [Trump tariff plan includes China rare earth deal](https://rollingout.com/2025/11/11/trump-tariff-plan-includes-china/) (Published: 2025-11-11)
+- [Black Friday isn't even here yet, and there are already some surprisingly generous discounts for Nvidia's RTX GPUs – it's time to open your wallet, gamers](https://www.techradar.com/seasonal-sales/black-friday-isnt-even-here-yet-and-there-are-already-some-surprisingly-generous-discounts-for-nvidias-rtx-gpus-its-time-to-open-your-wallet-gamers) (Published: 2025-11-11)
 - [After 3 years, Valve's Steam Deck is still one of the best gaming handhelds — but the conversation has changed](https://www.windowscentral.com/hardware/handheld-gaming-pc/steam-deck-re-review-2025) (Published: 2025-11-11)
-- [SoftBank's $5.8 billion Nvidia stake sale stirs fresh AI bubble fears](https://biztoc.com/x/9a0165697f081c92) (Published: 2025-11-11)
-- [Brazilian Real Strength Sparks Short Covering in NY Sugar Futures](https://biztoc.com/x/c2b3a0d4deb7f6d5) (Published: 2025-11-11)
-- [Wall Street holds relatively steady in mixed trading even as Nvidia gets back to falling](https://biztoc.com/x/2944ba35f016207b) (Published: 2025-11-11)
-- [Is Owens & Minor’s New Focus Enough to Lift Its Shares From the Bottom 100?](https://biztoc.com/x/c30ab4fb5040b2a3) (Published: 2025-11-11)
-- [Banks just sent this upbeat signal about the economy. Here’s why investors aren’t buying it](https://biztoc.com/x/9ac34bba779c476d) (Published: 2025-11-11)
-- [The Mortgage Market Has a Gender Problem: Why Single Women Are 30% More Likely To Be Denied A Mortgage — And How To Change That](https://biztoc.com/x/302cf0bd46dcfb3b) (Published: 2025-11-11)
-- [Spanish Economy to Keep Growing at Similar Pace, Escriva Says](https://biztoc.com/x/bfa2490a8a20008e) (Published: 2025-11-11)
-- [Nigerian Stocks Suffer Biggest Drop in 15 Years on Tax Concerns](https://biztoc.com/x/8009e4102a000ac4) (Published: 2025-11-11)
-- [Visa Fee Deal Tests If Retailers Will Really Deny Premium Cards](https://biztoc.com/x/76b0972bd643e7be) (Published: 2025-11-11)
