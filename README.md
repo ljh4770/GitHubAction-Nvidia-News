@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-12 19:28:02**_
+_Last updated: **2025-11-12 19:41:08**_
 
+- [How Jersey Mike’s demonstrated incremental value with AI-powered programmatic CTV](http://digiday.com/sponsored/how-jersey-mikes-demonstrated-incremental-value-with-ai-powered-programmatic-ctv/) (Published: 2025-11-11)
+- [SoftBank Is Selling Nvidia Stock. Should You?](https://biztoc.com/x/9d792bceb330202a) (Published: 2025-11-11)
+- [Why the 50-year mortgage is probably a bad idea](https://biztoc.com/x/46c4019356eab41a) (Published: 2025-11-11)
+- [SoftBank Says It Sold Its Entire Nvidia Stake. The Chip Stock is Sliding](https://biztoc.com/x/d7b6126e1ec56461) (Published: 2025-11-11)
+- [Arabica Coffee Prices Rally with the Brazilian Real](https://biztoc.com/x/4d020d8d6895dfab) (Published: 2025-11-11)
+- [Novonor close to deal to sell Braskem shares to IG4, say sources](https://biztoc.com/x/400c0847d9bd0624) (Published: 2025-11-11)
+- [AMD CEO Lisa Su says AI data center market will be worth $1 trillion by 2030](https://finance.yahoo.com/news/amd-ceo-lisa-su-says-ai-data-center-market-will-be-worth-1-trillion-by-2030-192809510.html) (Published: 2025-11-11)
 - [AMD Predicts Accelerating Sales Growth on Data Center Demand](https://financialpost.com/pmn/business-pmn/amd-predicts-accelerating-sales-growth-on-data-center-demand) (Published: 2025-11-11)
 - [Google unveils Private AI Compute, a cloud platform providing a “secure, fortified space” to run AI tools on devices, similar to Apple's Private Cloud Compute](https://biztoc.com/x/be110af1794b0bcf) (Published: 2025-11-11)
 - [China Accuses US of Orchestrating $13 Billion Bitcoin Hack](https://biztoc.com/x/4c253388b6df5c1e) (Published: 2025-11-11)
-- [Amazon Announced Its 2-Week Black Friday Sale Dates—Shop The 50 Best Early Deals Up To 75% Off](https://biztoc.com/x/1d7f4498c4439426) (Published: 2025-11-11)
-- [The Hedge Funds Are Hiring](https://biztoc.com/x/1d37fff445e40837) (Published: 2025-11-11)
-- [CoreWeave Slips Below 5-Day Moving Average on Earnings Plunge. Should You Buy the Dip in CRWV Stock?](https://biztoc.com/x/cbb657cdf9ab2171) (Published: 2025-11-11)
-- [Romania must take control over Russia's Lukoil local company, energy minister says](https://biztoc.com/x/c1b4592beb928453) (Published: 2025-11-11)
-- [Bank of France Sees Economy Expanding Despite Political Risks](https://biztoc.com/x/02e6422db46a1813) (Published: 2025-11-11)
-- [AMD's Lisa Su sees 35% annual sales growth driven by 'insatiable' AI demand](https://www.cnbc.com/2025/11/11/amd-lisa-su-growth-ai-analyst-day.html) (Published: 2025-11-11)
-- [Watch live: Worried about an AI bubble? Here's what you can do.](https://www.businessinsider.com/ai-bubble-investing-watch-video-2025-11) (Published: 2025-11-11)
