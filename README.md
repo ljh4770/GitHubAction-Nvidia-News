@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-13 19:49:38**_
+_Last updated: **2025-11-13 19:59:59**_
 
 - [HP OMEN - 16L Gaming Desktop - Intel Core Ultra 7 265F - 16GB DDR5 Memory - NVIDIA GeForce RTX 5060 Ti 16GB GDDR7 - 1TB SSD - Panda Metal - Open Box $962.99 (1 replies)](https://slickdeals.net/f/18799213-hp-omen-16l-gaming-desktop-intel-core-ultra-7-265f-16gb-ddr5-memory-nvidia-geforce-rtx-5060-ti-16gb-gddr7-1tb-ssd-panda-metal-open-box-962-99) (Published: 2025-11-12)
 - [HP OMEN - 16L Gaming Desktop - Intel Core Ultra 7 265F - 16GB DDR5 Memory - NVIDIA GeForce RTX 5060 Ti 16GB GDDR7 - 1TB SSD - Panda Metal - Open Box $962.99 YMMV at Best Buy](https://slickdeals.net/f/18799213-hp-omen-16l-gaming-desktop-intel-core-ultra-7-265f-16gb-ddr5-memory-nvidia-geforce-rtx-5060-ti-16gb-gddr7-1tb-ssd-panda-metal-open-box-962-99-ymmv-at-best-buy) (Published: 2025-11-12)
