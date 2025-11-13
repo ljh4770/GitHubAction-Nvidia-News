@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-13 23:24:26**_
+_Last updated: **2025-11-13 23:38:00**_
 
+- [Cisco’s focus on AI infrastructure pays off with strong earnings and revenue beat](https://siliconangle.com/2025/11/12/ciscos-focus-ai-infrastructure-pays-off-strong-earnings-revenue-beat/) (Published: 2025-11-12)
 - [AI analytics startup WisdomAI nabs $50M investment](https://siliconangle.com/2025/11/12/ai-analytics-startup-wisdomai-nabs-50m-investment/) (Published: 2025-11-12)
 - [SHIELD TV Gets Another Surprise Update to 9.2.2](https://www.droid-life.com/2025/11/12/shield-tv-gets-another-surprise-update-to-9-2-2/) (Published: 2025-11-12)
 - [megatron-fsdp 0.2.0.dev101062](https://pypi.org/project/megatron-fsdp/0.2.0.dev101062/) (Published: 2025-11-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-13 23:24:26**_
 - [New Nvidia DGX Spark competitor shows strong benchmark performance - and at half the price, could it be enough to convince some users to switch?](https://www.techradar.com/pro/new-nvidia-dgx-spark-competitor-shows-strong-benchmark-performance-and-at-half-the-price-could-it-be-enough-to-convince-some-users-to-switch) (Published: 2025-11-12)
 - [Mesa 25.2.7 Ships The Latest Open-Source OpenGL & Vulkan Driver Fixes](https://www.phoronix.com/news/Mesa-25.2.7-Released) (Published: 2025-11-12)
 - [Show HN: KV Marketplace – share LLM attention caches across GPUs like memcached](https://github.com/neelsomani/kv-marketplace) (Published: 2025-11-12)
-- [Cisco beats on earnings and guidance, lifting stock](https://www.cnbc.com/2025/11/12/cisco-csco-q1-2026-earnings-report.html) (Published: 2025-11-12)
