@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-13 09:39:36**_
+_Last updated: **2025-11-13 09:50:28**_
 
+- [Hamburger Chain Closing 350 Restaurants — So Why Is Katy Perry's Manager Poking Fun?](https://finance.yahoo.com/news/hamburger-chain-closing-350-restaurants-094608142.html) (Published: 2025-11-12)
 - [US shutdown relief sends stocks higher, markets go on yen watch](https://www.channelnewsasia.com/business/us-shutdown-relief-sends-stocks-higher-markets-go-yen-watch-5461426) (Published: 2025-11-12)
 - [Oil’s Billion-Barrel Buildup at Sea Points to Sanctions Stress](https://biztoc.com/x/033b3c744617b2d1) (Published: 2025-11-12)
 - [Taiwan Says It Is Assessing the Future Use of Chip Export Curbs](https://biztoc.com/x/f677bf66cd9b6c32) (Published: 2025-11-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-13 09:39:36**_
 - [Trumponomics Will End in Tears](https://www.project-syndicate.org/commentary/trump-reject-republican-economic-policy-orthodoxy-will-end-in-disaster-by-desmond-lachman-2025-11) (Published: 2025-11-12)
 - [UAE's Dana Gas signs pact to explore reviving Syria gas fields](https://biztoc.com/x/20223fd551c4b57a) (Published: 2025-11-12)
 - [Asia Is the Place for Investors Seeking AI Exposure, Saxo Says](https://biztoc.com/x/7aa6f497f658bcb1) (Published: 2025-11-12)
-- [Telefonica invites unions for talks ahead of expected job cuts](https://biztoc.com/x/6bbf95566cce4555) (Published: 2025-11-12)
