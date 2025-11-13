@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-13 21:42:59**_
+_Last updated: **2025-11-13 21:53:24**_
 
 - [Dow Sets New Record for 2nd Day in a Row](https://www.newser.com/story/378581/dow-sets-new-record-for-2nd-day-in-a-row.html) (Published: 2025-11-12)
 - [New Nvidia DGX Spark competitor shows strong benchmark performance - and at half the price, could it be enough to convince some users to switch?](https://www.techradar.com/pro/new-nvidia-dgx-spark-competitor-shows-strong-benchmark-performance-and-at-half-the-price-could-it-be-enough-to-convince-some-users-to-switch) (Published: 2025-11-12)
