@@ -1,13 +1,15 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-13 01:14:27**_
+_Last updated: **2025-11-13 02:52:59**_
 
-- [The Dow rallies 550 points to a record - AP News](https://slashdot.org/firehose.pl?op=view&amp;id=180051544) (Published: 2025-11-12)
-- [Giga ComputingGiga Computing、NVIDIA RTX PRO対応サーバー製品をリリース](https://japan.cnet.com/release/31127557/) (Published: 2025-11-12)
-- [CNBC Daily Open: SoftBank doubles down on AI amid warnings from 'Big Short' investor](https://www.cnbc.com/2025/11/12/cnbc-daily-open-softbank-doubles-down-on-ai-amid-warnings-from-big-short-investor.html) (Published: 2025-11-12)
-- [SoftBank shares plunge as much as 10% after selling Nvidia stake](https://biztoc.com/x/9e44c816d70c7881) (Published: 2025-11-12)
-- [Japan’s Seven Bank Mulls Investing in FamilyMart Card Affiliate](https://biztoc.com/x/86c0d06ccec31cc5) (Published: 2025-11-12)
-- [Review & Preview: The Dow Shines](https://biztoc.com/x/5b300ee4dc7276f4) (Published: 2025-11-12)
-- [Trump says he has an 'obligation' to sue BBC](https://biztoc.com/x/7becaf53aed1fd41) (Published: 2025-11-12)
-- [Artificial Food Dyes Are Going Away. This Stock Will Benefit](https://biztoc.com/x/41fe35daa9c4f846) (Published: 2025-11-12)
-- [House and Senate Republicans splinter further on health care](https://biztoc.com/x/485666d5756de090) (Published: 2025-11-12)
-- [SoftBank’s Shares Dive After Nvidia Sale Spooks AI-Wary Market](https://biztoc.com/x/c7c59bbaf4f8033b) (Published: 2025-11-12)
+- [Asian markets up on hopes over shutdown deal, rate cut](https://www.digitaljournal.com/world/asian-markets-up-on-hopes-over-shutdown-deal-rate-cut/article) (Published: 2025-11-12)
+- [Groww IPO to Test India's Investor Appetite After Lenskart’s Muted Debut](https://biztoc.com/x/428229ead4fa8f09) (Published: 2025-11-12)
+- [Eli Lilly drops CVS drug plan for workers after Novo obesity deal, Bloomberg News reports](https://biztoc.com/x/fea6e1757b89cc86) (Published: 2025-11-12)
+- [Video
+Popular gay dating apps removed in Mainland China
+1:44](https://biztoc.com/x/3d435c8cbe357154) (Published: 2025-11-12)
+- [Lilly Drops CVS Drug Plan for Workers After Novo Obesity Deal](https://biztoc.com/x/7c464ef43754f613) (Published: 2025-11-12)
+- [Groww Parent Set for Mumbai Trading Debut After $752 Million IPO](https://biztoc.com/x/09f7c58d304edeb6) (Published: 2025-11-12)
+- [SoftBank’s stock tumbles 10% following Nvidia sell-off concerns](https://nextbigwhat.com/softbanks-stock-tumbles-10-following-nvidia-sell-off-concerns/) (Published: 2025-11-12)
+- [What’s the right time of year to take my RMD?](https://biztoc.com/x/1d4feb6c45a79566) (Published: 2025-11-12)
+- [President Trump's granddaughter, Kai Trump, has brought buzz to an LPGA tournament](https://biztoc.com/x/da2912306cb72c90) (Published: 2025-11-12)
+- [Typhoon Fung-wong brings floods to Taiwan, thousands evacuated](https://biztoc.com/x/346d2357b1975e03) (Published: 2025-11-12)
