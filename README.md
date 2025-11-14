@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-14 19:48:23**_
+_Last updated: **2025-11-14 19:58:39**_
 
+- [How to Get Started with Neural Shading for Your Game or Application](https://developer.nvidia.com/blog/how-to-get-started-with-neural-shading-for-your-game-or-application/) (Published: 2025-11-13)
+- [The ‘Big Short’ Guy Shuts Down Hedge Fund Amid AI Bubble Fears](https://gizmodo.com/the-big-short-guy-shuts-down-hedge-fund-amid-ai-bubble-fears-2000685539) (Published: 2025-11-13)
 - [AI isn’t a bubble—but it’s showing warning signs](https://fortune.com/2025/11/13/ai-boom-bubble-bust-dot-com-azeem-azhar/) (Published: 2025-11-13)
 - [Nvidia Earnings Seen As Key To Reviving AI Stock Trade](https://biztoc.com/x/07b47570bdd72744) (Published: 2025-11-13)
 - [I tested one of the cheapest smart monitors on the market - now I recommend it to everyone](https://www.zdnet.com/education/computers-tech/i-tested-one-of-the-cheapest-smart-monitors-on-the-market-now-i-recommend-it-to-everyone/) (Published: 2025-11-13)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-14 19:48:23**_
 - [Nvidia drags Wall Street toward its worst day in a month as AI superstars keep weakening](https://biztoc.com/x/d899c3a5fd8cd7de) (Published: 2025-11-13)
 - [Why Nvidia CEO Jensen Huang’s Meeting with Taiwan Semi Is a Big Deal for NVDA Stock](https://biztoc.com/x/b3dc9269d31f0922) (Published: 2025-11-13)
 - [Why Is the Market Down Today: Tech Titans Like Nvidia Crumble Amid AI Bubble Fears?](https://www.ibtimes.com/why-market-down-today-tech-titans-like-nvidia-crumble-amid-ai-bubble-fears-3790297) (Published: 2025-11-13)
-- [Nvidia drags Wall Street toward its worst day in a month as AI superstars keep weakening](https://fortune.com/2025/11/13/wall-street-stocks-sink-investors-artifcial-intelligence-stocks-tariffs-president-trump/) (Published: 2025-11-13)
-- [A.I. ‘Vibe Coding’ Startup Cursor Nearly Triples Valuation to $29B After New Funding](https://observer.com/2025/11/vibe-coding-startup-cursor-hit-29b-valuation/) (Published: 2025-11-13)
