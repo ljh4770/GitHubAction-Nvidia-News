@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-14 21:54:08**_
+_Last updated: **2025-11-14 22:16:07**_
 
-- [Stocks have worst day in a month amid AI concerns, lower hopes for interest-rate cut](https://nypost.com/2025/11/13/business/stocks-have-worst-day-in-a-month-amid-ai-concerns-lower-hopes-for-interest-rate-cut/) (Published: 2025-11-13)
-- [Cold feet on Wall Street: Market drops on worries around AI, interest rates](https://www.bostonherald.com/2025/11/13/cold-feet-on-wall-street-market-drops-on-worries-around-ai-interest-rates/) (Published: 2025-11-13)
-- [Elon Musk-Led SpaceX Introduces $40 Starlink Plan Offering Unlimited Data, Free Installation](https://finance.yahoo.com/news/elon-musk-led-spacex-introduces-213651030.html) (Published: 2025-11-13)
-- [How major US stock indexes fared Thursday, 11/13/2025](https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-thursday-11132025-127503539) (Published: 2025-11-13)
-- [Dow Drops Almost 800 Points in Wall St.'s Worst Day in a Month](https://www.newser.com/story/378659/dow-drops-almost-800-points-in-wall-sts-worst-day-in-a-month.html) (Published: 2025-11-13)
-- [Intermap Reports Third Quarter 2025 Results](https://www.globenewswire.com/news-release/2025/11/13/3187888/0/en/Intermap-Reports-Third-Quarter-2025-Results.html) (Published: 2025-11-13)
-- [nvidia-resiliency-ext 0.5.0](https://pypi.org/project/nvidia-resiliency-ext/0.5.0/) (Published: 2025-11-13)
-- [Lenovo Legion Tower 7i Gen 10 Review](https://www.ign.com/articles/lenovo-legion-tower-7i-gen-10-review) (Published: 2025-11-13)
-- [Innventure Reports Third Quarter 2025 Results](https://www.globenewswire.com/news-release/2025/11/13/3187872/0/en/Innventure-Reports-Third-Quarter-2025-Results.html) (Published: 2025-11-13)
-- [Jim Cramer delivers urgent take on the stock market](https://www.thestreet.com/investing/stocks/jim-cramer-delivers-urgent-take-on-the-stock-market) (Published: 2025-11-13)
+- [Digi Power X Achieves Positive Net Earnings for Q3 2025 and Reports Strong Balance Sheet to Support 2026 AI Infrastructure Development Plan](https://www.globenewswire.com/news-release/2025/11/13/3187935/0/en/Digi-Power-X-Achieves-Positive-Net-Earnings-for-Q3-2025-and-Reports-Strong-Balance-Sheet-to-Support-2026-AI-Infrastructure-Development-Plan.html) (Published: 2025-11-13)
+- [Japanese Chip Sector’s Earnings Show AI Appetite, Auto Slump](https://www.livemint.com/companies/company-results/japanese-chip-sector-s-earnings-show-ai-appetite-auto-slump-11763071964547.html) (Published: 2025-11-13)
+- [SoftBank sells its entire Nvidia stock - could this be the start of the AI bubble bursting?](https://www.techradar.com/pro/softbank-sells-its-entire-nvidia-stock-could-this-be-the-start-of-the-ai-bubble-bursting) (Published: 2025-11-13)
+- [US stock market suffers: Nasdaq, Dow, S&P sink to their worst day in over a month, Disney falls nearly 8%](https://economictimes.indiatimes.com/news/international/us/us-stock-market-suffers-nasdaq-dow-sp-sink-to-their-worst-day-in-over-a-month-disney-falls-nearly-8/articleshow/125310393.cms) (Published: 2025-11-13)
+- [Remember When Republicans Said ‘Drain The Swamp’? So Do We](https://dailycaller.com/2025/11/13/republican-party-draining-the-swamp-donald-trump-ballroom-ro-khanna/) (Published: 2025-11-13)
+- [AI isn't a bubble but rather an opportunity, JPMorgan's Erdoes says](https://www.cnbc.com/2025/11/13/ai-isnt-a-bubble-but-rather-an-opportunity-jpmorgans-erdoes-says.html) (Published: 2025-11-13)
+- [megatron-fsdp 0.2.0.dev128264](https://pypi.org/project/megatron-fsdp/0.2.0.dev128264/) (Published: 2025-11-13)
+- [An OS for the Body? Microsoft Inks First Brain Implant Partnership](https://me.pcmag.com/en/ai/33444/an-os-for-the-body-microsoft-inks-first-brain-implant-partnership) (Published: 2025-11-13)
+- [An OS for the Body? Microsoft Inks First Brain Implant Partnership](https://uk.pcmag.com/ai/161252/an-os-for-the-body-microsoft-inks-first-brain-implant-partnership) (Published: 2025-11-13)
