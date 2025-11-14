@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-14 23:33:55**_
+_Last updated: **2025-11-14 23:44:33**_
 
 - [Dow Jones Futures: Stock Market Tumbles As Tesla, Nvidia, Palantir Sell Off - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180068252) (Published: 2025-11-13)
 - [From scale-up to scale-across: How AI data centers are redefining transmission technology](https://www.digitimes.com/news/a20251106PD249/ai-data-center-transmission-chips-demand.html) (Published: 2025-11-13)
