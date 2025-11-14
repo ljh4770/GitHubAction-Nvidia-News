@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-14 20:30:12**_
+_Last updated: **2025-11-14 20:44:56**_
 
 - [Microsoft Creates a Superintelligence Team](https://www.nextbigfuture.com/2025/11/microsoft-creates-a-superintelligence-team.html) (Published: 2025-11-13)
 - [megatron-fsdp 0.2.0.dev101627](https://pypi.org/project/megatron-fsdp/0.2.0.dev101627/) (Published: 2025-11-13)
