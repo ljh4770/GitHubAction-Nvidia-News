@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-14 08:52:19**_
+_Last updated: **2025-11-14 09:14:21**_
 
+- [IQM Launches Halocene, a New Quantum Computer Product Line for Error Correction](https://financialpost.com/pmn/business-wire-news-releases-pmn/iqm-launches-halocene-a-new-quantum-computer-product-line-for-error-correction) (Published: 2025-11-13)
+- [megatron-fsdp 0.2.0.dev129440](https://pypi.org/project/megatron-fsdp/0.2.0.dev129440/) (Published: 2025-11-13)
+- [megatron-fsdp 0.2.0.dev102308](https://pypi.org/project/megatron-fsdp/0.2.0.dev102308/) (Published: 2025-11-13)
 - [megatron-fsdp 0.2.0.dev116327](https://pypi.org/project/megatron-fsdp/0.2.0.dev116327/) (Published: 2025-11-13)
 - [Christmas Gift Ideas for Designers: Top 10 Gifts to Spark Creativity and Joy](https://weandthecolor.com/christmas-gift-ideas-for-designers-top-10-gifts-to-spark-creativity-and-joy/206757) (Published: 2025-11-13)
 - [CNCF Kubernetes AI program faces scrutiny from IT analysts](https://www.techtarget.com/searchitoperations/news/366634474/CNCF-Kubernetes-AI-program-faces-scrutiny-from-IT-analysts) (Published: 2025-11-13)
@@ -8,6 +11,3 @@ _Last updated: **2025-11-14 08:52:19**_
 - [ACS, BlackRock to seal $27 billion data centre deal, report says](https://www.channelnewsasia.com/business/acs-blackrock-seal-27-billion-data-centre-deal-report-says-5464736) (Published: 2025-11-13)
 - [Amazon EC2 G6f instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-g6f-instances-additional-regions/) (Published: 2025-11-13)
 - [Asian shares mostly higher after Trump signs bill ending U.S. government shutdown](https://japantoday.com/category/business/asian-shares-are-mixed-after-wall-street-drifted-around-its-records) (Published: 2025-11-13)
-- [nvidia-modelopt 0.39.0](https://pypi.org/project/nvidia-modelopt/0.39.0/) (Published: 2025-11-13)
-- [CNBC Daily Open: There's the AI market, and then there's 'everything else'](https://www.cnbc.com/2025/11/13/cnbc-daily-open-theres-the-ai-market-and-then-theres-everything-else-.html) (Published: 2025-11-13)
-- [mcp-nvidia 0.3.0](https://pypi.org/project/mcp-nvidia/0.3.0/) (Published: 2025-11-13)
