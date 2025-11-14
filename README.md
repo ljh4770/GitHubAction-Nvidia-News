@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-14 22:16:07**_
+_Last updated: **2025-11-14 22:36:01**_
 
+- [Precise & Offline AI Background Removal with Aiarty Image Matting (40% OFF + Lifetime Free Upgrades)](https://www.mirrorlessrumors.com/precise-offline-ai-background-removal-with-aiarty-image-matting-40-off-lifetime-free-upgrades/) (Published: 2025-11-13)
+- [Could Oracle Be the Dark Horse in the Enterprise AI Cloud Race?](https://biztoc.com/x/8161b9b92d9d212f) (Published: 2025-11-13)
+- [Digi Power X Achieves Positive Net Earnings for Q3 2025 and Reports Strong Balance Sheet to Support 2026 AI Infrastructure Development Plan](https://financialpost.com/globe-newswire/digi-power-x-achieves-positive-net-earnings-for-q3-2025-and-reports-strong-balance-sheet-to-support-2026-ai-infrastructure-development-plan) (Published: 2025-11-13)
 - [Digi Power X Achieves Positive Net Earnings for Q3 2025 and Reports Strong Balance Sheet to Support 2026 AI Infrastructure Development Plan](https://www.globenewswire.com/news-release/2025/11/13/3187935/0/en/Digi-Power-X-Achieves-Positive-Net-Earnings-for-Q3-2025-and-Reports-Strong-Balance-Sheet-to-Support-2026-AI-Infrastructure-Development-Plan.html) (Published: 2025-11-13)
 - [Japanese Chip Sector’s Earnings Show AI Appetite, Auto Slump](https://www.livemint.com/companies/company-results/japanese-chip-sector-s-earnings-show-ai-appetite-auto-slump-11763071964547.html) (Published: 2025-11-13)
 - [SoftBank sells its entire Nvidia stock - could this be the start of the AI bubble bursting?](https://www.techradar.com/pro/softbank-sells-its-entire-nvidia-stock-could-this-be-the-start-of-the-ai-bubble-bursting) (Published: 2025-11-13)
@@ -8,5 +11,3 @@ _Last updated: **2025-11-14 22:16:07**_
 - [Remember When Republicans Said ‘Drain The Swamp’? So Do We](https://dailycaller.com/2025/11/13/republican-party-draining-the-swamp-donald-trump-ballroom-ro-khanna/) (Published: 2025-11-13)
 - [AI isn't a bubble but rather an opportunity, JPMorgan's Erdoes says](https://www.cnbc.com/2025/11/13/ai-isnt-a-bubble-but-rather-an-opportunity-jpmorgans-erdoes-says.html) (Published: 2025-11-13)
 - [megatron-fsdp 0.2.0.dev128264](https://pypi.org/project/megatron-fsdp/0.2.0.dev128264/) (Published: 2025-11-13)
-- [An OS for the Body? Microsoft Inks First Brain Implant Partnership](https://me.pcmag.com/en/ai/33444/an-os-for-the-body-microsoft-inks-first-brain-implant-partnership) (Published: 2025-11-13)
-- [An OS for the Body? Microsoft Inks First Brain Implant Partnership](https://uk.pcmag.com/ai/161252/an-os-for-the-body-microsoft-inks-first-brain-implant-partnership) (Published: 2025-11-13)
