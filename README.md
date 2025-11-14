@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-14 07:36:43**_
+_Last updated: **2025-11-14 07:47:29**_
 
 - [Asian shares mostly higher after Trump signs bill ending U.S. government shutdown](https://japantoday.com/category/business/asian-shares-are-mixed-after-wall-street-drifted-around-its-records) (Published: 2025-11-13)
 - [nvidia-modelopt 0.39.0](https://pypi.org/project/nvidia-modelopt/0.39.0/) (Published: 2025-11-13)
