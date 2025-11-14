@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-14 10:30:37**_
+_Last updated: **2025-11-14 10:46:50**_
 
+- [Pepe Escobar: Tech Sinica - China’s Relentless Innovation Drive](https://sputnikglobe.com/20251113/pepe-escobar-tech-sinica---chinas-relentless-innovation-drive-1123110639.html) (Published: 2025-11-13)
 - [Autodesk releases Arnold 7.4.4](https://www.cgchannel.com/2025/11/autodesk-releases-arnold-7-4-4/) (Published: 2025-11-13)
 - [Michael Burry exits Scion Asset Management, new era begins](https://rollingout.com/2025/11/13/michael-burry-exits-scion-asset-manage/) (Published: 2025-11-13)
 - [Famed short-seller Andrew Left tells us why he's betting against 2 stocks in the red-hot quantum trade](https://www.businessinsider.com/quantum-computing-stocks-short-seller-andrew-left-rgti-qbts-nvda-2025-11) (Published: 2025-11-13)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-14 10:30:37**_
 - [US stock futures jump as shutdown ends: Dow, S&P 500, and Nasdaq futures rising — here’s top gainers and losers](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-today-jump-as-shutdown-ends-dow-sp-500-and-nasdaq-futures-rising-heres-top-gainers-and-losers/articleshow/125296106.cms) (Published: 2025-11-13)
 - [To 'Infinity' ... and beyond: MX Linux 25 has arrived](https://www.theregister.com/2025/11/13/mx_linux_25_infinity_released/) (Published: 2025-11-13)
 - [Foxconn confirms OpenAI partnership, doubling down on trillion-dollar compute race](https://www.digitimes.com/news/a20251113VL211/foxconn-chairman-young-liu-openai-partnership.html) (Published: 2025-11-13)
-- ['Big Short' Michael Burry De-Registers His Hedge Fund, Scion Asset Management](https://biztoc.com/x/24a2292fc040d481) (Published: 2025-11-13)
