@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-14 05:47:45**_
+_Last updated: **2025-11-14 05:58:13**_
 
 - [An investigation traces how Shanghai-based AI company INF Tech accessed advanced Nvidia chips at an Indonesian data center despite US export controls](https://biztoc.com/x/217ac3ecb5cd36b7) (Published: 2025-11-13)
 - [nanocodec-torch added to PyPI](https://pypi.org/project/nanocodec-torch/) (Published: 2025-11-13)
