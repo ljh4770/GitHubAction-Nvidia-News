@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-14 17:45:43**_
+_Last updated: **2025-11-14 17:56:20**_
 
 - [Valve is waiting on more power efficient chips for Steam Deck 2](https://mobilesyrup.com/2025/11/13/valve-is-waiting-on-more-power-efficent-chips-for-steam-deck-2/) (Published: 2025-11-13)
 - [AMD's FSR 4 Redstone Ray Regeneration update finally arrives in Call of Duty: Black Ops 7, which is better late than never](https://www.pcgamer.com/hardware/graphics-cards/amds-fsr-4-redstone-ray-regeneration-update-finally-arrives-in-call-of-duty-black-ops-7-which-is-better-late-than-never/) (Published: 2025-11-13)
