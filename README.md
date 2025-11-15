@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 18:43:36**_
+_Last updated: **2025-11-15 18:53:47**_
 
 - [Minisforum Stuffs Entire Arm Homelab in the MS-R1](https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1) (Published: 2025-11-14)
 - [Three things that have the stock market worried](https://biztoc.com/x/b1c50e51ef8cc307) (Published: 2025-11-14)
