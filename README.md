@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 10:32:27**_
+_Last updated: **2025-11-15 10:43:58**_
 
 - [Why is everything down? Macro shock turns Bitcoin and other risk assets red across the board](https://cryptoslate.com/?p=507174) (Published: 2025-11-14)
 - [Retail traders despise short-sellers. Michael Burry gets a pass.](https://www.businessinsider.com/michael-burry-short-nvda-pltr-stock-market-bubble-scion-retail-2025-11) (Published: 2025-11-14)
