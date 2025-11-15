@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 19:23:45**_
+_Last updated: **2025-11-15 19:35:52**_
 
 - [Other Barks & Bites for Friday, November 14: WIPO Study Shows IP Awareness Growing in Asia-Pacific; EPO Says Influencers Respect IP But Fear Open Discussions; CNIPA Patent Filings Increase Nearly 10% in 2024](https://ipwatchdog.com/2025/11/14/bites-barks-epo-influencers-respect-ip-fear-open-discussions-cnipa-patent-filings-increase/) (Published: 2025-11-14)
 - [NVIDIA GeForce RTX 5090 32GB GDDR7 Founders Edition $1999.99 (6 replies)](https://slickdeals.net/f/18810010-nvidia-geforce-rtx-5090-32gb-gddr7-founders-edition-1999-99) (Published: 2025-11-14)
