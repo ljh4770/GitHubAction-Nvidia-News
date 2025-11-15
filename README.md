@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 23:27:29**_
+_Last updated: **2025-11-15 23:39:57**_
 
+- [Cramer says next week’s market hinges on Nvidia’s earnings report](https://www.cnbc.com/2025/11/14/cramer-says-nvidia-earnings-could-ignite-market-rally.html) (Published: 2025-11-14)
 - [Mesa 25.3 Released With Many Open-Source Vulkan Driver Improvements](https://www.phoronix.com/news/Mesa-25.3-Released) (Published: 2025-11-14)
 - [Co-designed data centers take shape as Vertiv joins Nvidia’s future roadmap](https://siliconangle.com/2025/11/14/nvidia-vertiv-co-designed-infrastructure/) (Published: 2025-11-14)
 - [Red Hat Linux bolsters AI assistance](https://www.infoworld.com/article/4090500/red-hat-linux-bolsters-ai-assistance.html) (Published: 2025-11-14)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-15 23:27:29**_
 - [ChatGPT: Everything you need to know about the AI chatbot](https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/) (Published: 2025-11-14)
 - [Energy stocks rise on major projects enthusiasm, while U.S. stock markets were mixed](https://financialpost.com/pmn/energy-stocks-rise-on-major-projects-enthusiasm-while-u-s-stock-markets-were-mixed) (Published: 2025-11-14)
 - [Memory boom-bust cycle booms again as Samsung reportedly jacks memory prices 60%](https://www.theregister.com/2025/11/14/samsung_price_jump/) (Published: 2025-11-14)
-- [Commentary: AI bubble trouble talk is overblown](https://www.channelnewsasia.com/commentary/ai-bubble-stock-market-data-centre-chips-5467626) (Published: 2025-11-14)
