@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 03:34:21**_
+_Last updated: **2025-11-15 03:54:12**_
 
 - [Fought childhood eye cancer, predicted 2008 subprime crisis: Who is Michael Burry and why did he deregister Scion?](https://economictimes.indiatimes.com/news/international/us/who-is-michael-burry-and-why-did-he-deregister-scion-the-2008-crash-predictor-who-overcame-early-childhood-eye-cancer/articleshow/125315480.cms) (Published: 2025-11-14)
 - [Code-gen startup Cursor valuation nearly triples to $30 billion in latest funding round](https://economictimes.indiatimes.com/tech/funding/code-gen-startup-cursor-valuation-nearly-triples-to-30-billion-in-latest-funding-round/articleshow/125315140.cms) (Published: 2025-11-14)
