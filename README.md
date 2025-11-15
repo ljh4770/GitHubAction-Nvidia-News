@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 21:40:46**_
+_Last updated: **2025-11-15 21:51:16**_
 
+- [Ticker: Botulism outbreak tied to baby formula spreads; Wall Street scrambles back](https://www.bostonherald.com/2025/11/14/ticker-botulism-outbreak-tied-to-baby-formula-spreads-wall-street-scrambles-back/) (Published: 2025-11-14)
 - [US stock market close: Nasdaq ends three-day slump, Dow sinks further, S&P lays flat; Oracle, Nvidia gain after major losses](https://economictimes.indiatimes.com/news/international/us/us-stock-market-close-nasdaq-ends-three-day-slump-dow-sinks-further-sp-lays-flat-oracle-nvidia-gain-after-major-losses/articleshow/125337209.cms) (Published: 2025-11-14)
 - [Stocks End Up About Where They Started](https://www.newser.com/story/378734/stocks-end-up-about-where-they-started.html) (Published: 2025-11-14)
 - [How major US stock indexes fared Friday, 11/14/2025](https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-friday-11142025-127537839) (Published: 2025-11-14)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-15 21:40:46**_
 - [US stock market today: Dow falls 181 points, S&P 500 up 0.3%, & Nasdaq rises 0.6% as Nvidia, Oracle, Palantir, Tesla lead tech rebound](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-falls-181-points-sp-500-up-0-3-nasdaq-rises-0-6-as-nvidia-oracle-palantir-tesla-lead-tech-rebound/articleshow/125337127.cms) (Published: 2025-11-14)
 - [AI infrastructure startup Firmus raises $327M to build data centers in Australia](https://siliconangle.com/2025/11/14/ai-infrastructure-startup-firmus-raises-327m-build-data-centers-australia/) (Published: 2025-11-14)
 - [Nvidia Dips Toward 50-Day Moving Average. Is the NVDA Stock Story Over Ahead of November 19 Earnings?](https://biztoc.com/x/95b736cc203d6f38) (Published: 2025-11-14)
-- [AI stocks at center of stormy day on Wall Street, erasing sharp 1.3% drop](https://biztoc.com/x/f787e863d457d44b) (Published: 2025-11-14)
