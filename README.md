@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 04:19:46**_
+_Last updated: **2025-11-15 04:39:28**_
 
+- [China's supernode boom sends warning to Nvidia](https://www.digitimes.com/news/a20251112PD213/china-ai-gpu-training-alibaba-huawei-nvidia.html) (Published: 2025-11-14)
 - [Nvidia Faces Growing Pressure As Amazon, Microsoft Support Curbs On AI Chip Exports To China: Report](https://biztoc.com/x/3f72eeac1036e2cf) (Published: 2025-11-14)
 - [Sensex falls over 300 pts, Nifty below 25,800 as Bihar election results drive street caution; IT, metal stock tumble](https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-300-pts-nifty-below-25800-as-bihar-election-results-drive-street-caution-it-metal-stock-tumble/articleshow/125316053.cms) (Published: 2025-11-14)
 - [Fought childhood eye cancer, predicted 2008 subprime crisis: Who is Michael Burry and why did he deregister Scion?](https://economictimes.indiatimes.com/news/international/us/who-is-michael-burry-and-why-did-he-deregister-scion-the-2008-crash-predictor-who-overcame-early-childhood-eye-cancer/articleshow/125315480.cms) (Published: 2025-11-14)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-15 04:19:46**_
 - [Rise of the robots: the promise of physical AI](https://www.digitaljournal.com/world/rise-of-the-robots-the-promise-of-physical-ai/article) (Published: 2025-11-14)
 - [Sources: Amazon and Anthropic support the GAIN AI Act, which would give US buyers first priority on advanced AI chips, joining Microsoft; Nvidia opposes it](https://biztoc.com/x/79b0ee2c1d6526dc) (Published: 2025-11-14)
 - [S&P 500, Dow Jones, NASDAQ futures record upward movement after Wall Street sees big slump due to AI stocks, including Nvidia and suspense over interest rate cuts; check key indices](https://economictimes.indiatimes.com/news/international/us/sp-500-dow-jones-nasdaq-futures-record-upward-movement-after-wall-street-sees-big-slump-due-to-ai-stocks-including-nvidia-and-suspense-over-interest-rate-cuts-check-key-indices/articleshow/125314573.cms) (Published: 2025-11-14)
-- [Bitfarms Will 'Wind Down' Bitcoin Mining and Pivot to AI After $46 Million Loss](https://decrypt.co/348573/bitfarms-wind-down-bitcoin-mining-pivot-ai-after-46-million-loss) (Published: 2025-11-14)
