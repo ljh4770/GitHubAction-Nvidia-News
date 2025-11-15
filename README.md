@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 07:42:43**_
+_Last updated: **2025-11-15 07:53:22**_
 
 - [‘Big Short’ investor Michael Burry to close hedge fund as he warns on valuations](https://www.irishtimes.com/business/2025/11/14/big-short-investor-michael-burry-to-close-hedge-fund-as-he-warns-on-valuations/) (Published: 2025-11-14)
 - [Japan's Nikkei slides as investors book profit on tech stocks](https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-slides-as-investors-book-profit-on-tech-stocks/articleshow/125321052.cms) (Published: 2025-11-14)
