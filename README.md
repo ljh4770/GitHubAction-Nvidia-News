@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 03:54:12**_
+_Last updated: **2025-11-15 04:19:46**_
 
+- [Nvidia Faces Growing Pressure As Amazon, Microsoft Support Curbs On AI Chip Exports To China: Report](https://biztoc.com/x/3f72eeac1036e2cf) (Published: 2025-11-14)
+- [Sensex falls over 300 pts, Nifty below 25,800 as Bihar election results drive street caution; IT, metal stock tumble](https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-300-pts-nifty-below-25800-as-bihar-election-results-drive-street-caution-it-metal-stock-tumble/articleshow/125316053.cms) (Published: 2025-11-14)
 - [Fought childhood eye cancer, predicted 2008 subprime crisis: Who is Michael Burry and why did he deregister Scion?](https://economictimes.indiatimes.com/news/international/us/who-is-michael-burry-and-why-did-he-deregister-scion-the-2008-crash-predictor-who-overcame-early-childhood-eye-cancer/articleshow/125315480.cms) (Published: 2025-11-14)
 - [Code-gen startup Cursor valuation nearly triples to $30 billion in latest funding round](https://economictimes.indiatimes.com/tech/funding/code-gen-startup-cursor-valuation-nearly-triples-to-30-billion-in-latest-funding-round/articleshow/125315140.cms) (Published: 2025-11-14)
 - [Cursor raises $2.3 billion at $29.3 billion valuation as Coatue, Nvidia and Google join cap table](https://economictimes.indiatimes.com/tech/funding/cursor-raises-2-3-billion-at-29-3-billion-valuation-as-coatue-nvidia-and-google-join-cap-table/articleshow/125315140.cms) (Published: 2025-11-14)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-15 03:54:12**_
 - [Sources: Amazon and Anthropic support the GAIN AI Act, which would give US buyers first priority on advanced AI chips, joining Microsoft; Nvidia opposes it](https://biztoc.com/x/79b0ee2c1d6526dc) (Published: 2025-11-14)
 - [S&P 500, Dow Jones, NASDAQ futures record upward movement after Wall Street sees big slump due to AI stocks, including Nvidia and suspense over interest rate cuts; check key indices](https://economictimes.indiatimes.com/news/international/us/sp-500-dow-jones-nasdaq-futures-record-upward-movement-after-wall-street-sees-big-slump-due-to-ai-stocks-including-nvidia-and-suspense-over-interest-rate-cuts-check-key-indices/articleshow/125314573.cms) (Published: 2025-11-14)
 - [Bitfarms Will 'Wind Down' Bitcoin Mining and Pivot to AI After $46 Million Loss](https://decrypt.co/348573/bitfarms-wind-down-bitcoin-mining-pivot-ai-after-46-million-loss) (Published: 2025-11-14)
-- [Samsung - Galaxy Book4 Ultra 16" AMOLED Touch Screen Laptop - Intel Core Ultra 7 - 16GB Memory - NVIDIA GeForce RTX 4050 - 1TB SSD - Moonstone Gray - Open Box $815.99 (1 replies)](https://slickdeals.net/f/18805783-samsung-galaxy-book4-ultra-16-amoled-touch-screen-laptop-intel-core-ultra-7-16gb-memory-nvidia-geforce-rtx-4050-1tb-ssd-moonstone-gray-open-box-815-99) (Published: 2025-11-14)
-- [Wall Street sinks as investors fret about rate cuts](https://economictimes.indiatimes.com/markets/stocks/news/wall-street-sinks-as-investors-fret-about-rate-cuts/articleshow/125313895.cms) (Published: 2025-11-14)
