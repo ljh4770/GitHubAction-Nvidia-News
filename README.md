@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 09:29:02**_
+_Last updated: **2025-11-15 09:40:48**_
 
 - [FTSE 100 LIVE: London slides and UK gilts sell as Reeves spooks market with tax U-turn](https://uk.finance.yahoo.com/news/ftse-100-live-markets-reeves-drops-budget-plan-raise-income-tax-092225015.html) (Published: 2025-11-14)
 - [CXL development and hardware adoption](https://www.digitimes.com/reports/item.asp?id=20251021RS402) (Published: 2025-11-14)
