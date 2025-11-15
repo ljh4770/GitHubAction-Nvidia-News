@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 04:39:28**_
+_Last updated: **2025-11-15 04:50:37**_
 
 - [China's supernode boom sends warning to Nvidia](https://www.digitimes.com/news/a20251112PD213/china-ai-gpu-training-alibaba-huawei-nvidia.html) (Published: 2025-11-14)
 - [Nvidia Faces Growing Pressure As Amazon, Microsoft Support Curbs On AI Chip Exports To China: Report](https://biztoc.com/x/3f72eeac1036e2cf) (Published: 2025-11-14)
