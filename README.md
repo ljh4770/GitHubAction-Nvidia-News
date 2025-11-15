@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 08:18:32**_
+_Last updated: **2025-11-15 08:39:36**_
 
 - [After Microsoft, Amazon backs proposed legislation to limit Nvidia's AI chip exports to China: Report](https://www.livemint.com/companies/news/after-microsoft-amazon-backs-proposed-legislation-to-limit-nvidias-ai-chip-exports-to-china-report-11763093000675.html) (Published: 2025-11-14)
 - [PCB Design Software Market to Hit USD 12.11 Billion by 2033, Growing at a CAGR of 13.77% | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/11/14/3188041/0/en/PCB-Design-Software-Market-to-Hit-USD-12-11-Billion-by-2033-Growing-at-a-CAGR-of-13-77-Research-by-SNS-Insider.html) (Published: 2025-11-14)
