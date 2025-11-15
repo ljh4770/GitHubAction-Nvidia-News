@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 06:47:24**_
+_Last updated: **2025-11-15 06:57:31**_
 
 - [NVIDIA RTXシリーズ第二弾！UniFabはRTX Rapid Upscaler AIを発表：AI動画品質向上機能をさらにアップグレードし、より高速な処理を実現](https://prtimes.jp/main/html/rd/p/000000006.000158414.html) (Published: 2025-11-14)
 - [India now reverse AI trade after being relative-return disaster: Chris Wood of Jefferies](https://economictimes.indiatimes.com/markets/stocks/news/india-reverses-ai-trade-after-being-relative-return-disaster-chris-wood-of-jefferies/articleshow/125319465.cms) (Published: 2025-11-14)
