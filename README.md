@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-15 05:44:27**_
+_Last updated: **2025-11-15 05:54:46**_
 
 - [Asian shares fall, tracking Wall Street's tumble on worries about AI stocks and interest rates](https://abcnews.go.com/Business/wireStory/asian-shares-fall-tracking-wall-streets-tumble-worries-127514546) (Published: 2025-11-14)
 - [Jensen Huang says his mom taught him English without speaking it — and her mindset still shapes how he leads](https://biztoc.com/x/a09bc83c5a34d306) (Published: 2025-11-14)
