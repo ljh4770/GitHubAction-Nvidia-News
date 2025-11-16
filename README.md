@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 18:42:30**_
+_Last updated: **2025-11-16 18:53:40**_
 
 - [$10,000 RTX PRO 6000 Becomes Useless Just Because The Broken PCIe Connector Cannot Be Replaced](https://wccftech.com/10000-rtx-pro-6000-got-broken-pcie-connector/) (Published: 2025-11-15)
 - [Has The AI Orders, Says Jim Cramer](https://biztoc.com/x/db7f8771777ffb19) (Published: 2025-11-15)
