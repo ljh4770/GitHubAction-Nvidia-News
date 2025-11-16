@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 16:46:09**_
+_Last updated: **2025-11-16 16:56:25**_
 
+- [Valve’s New Steam Machine Packs Just 8 GB VRAM — Is That Enough for Today’s AAA Games, or Is This a Bold Bluff?](https://wccftech.com/valves-new-steam-machine-packs-just-8-gb-vram-is-that-enough/) (Published: 2025-11-15)
 - [Apple Just Secured More Than Half of Taiwan Semi’s Most Valuable Asset](https://247wallst.com/investing/2025/11/15/apple-just-secured-more-than-half-of-taiwan-semis-most-valuable-asset/) (Published: 2025-11-15)
 - [Tether Eyes $1B Investment in German Robotics Startup Neura: FT](https://www.coindesk.com/business/2025/11/15/tether-eyes-usd1b-investment-in-german-robotics-startup-neura-ft) (Published: 2025-11-15)
 - [Wealth](https://saul.pw/mag/wealth/) (Published: 2025-11-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-16 16:46:09**_
 - [Technology funds outsmart IT index and broader market](https://www.thehindubusinessline.com/portfolio/mutual-funds/technology-funds-outsmart-it-index-and-broader-market/article70280592.ece) (Published: 2025-11-15)
 - [Trump’s Threat to Sue BBC Over Speech Edit Faces High Hurdles](https://biztoc.com/x/6af081b0f307972d) (Published: 2025-11-15)
 - [Simply Put: AI bubble and the depreciation debate](https://www.thehindubusinessline.com/portfolio/personal-finance/simply-put-chips-servers-and-depreciation/article70282769.ece) (Published: 2025-11-15)
-- [Ukraine Claims Strike on Rosneft’s Ryazan Oil Refinery in Russia](https://biztoc.com/x/48a7f4273f67a093) (Published: 2025-11-15)
