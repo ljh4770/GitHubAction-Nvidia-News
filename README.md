@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 13:59:56**_
+_Last updated: **2025-11-16 14:24:43**_
 
+- [Power: The answer to and source of all your AI datacenter problems](https://www.theregister.com/2025/11/15/power_supercomputing/) (Published: 2025-11-15)
+- [‘Yoga Pants and Cheeseburgers’: Traders Turn Focus to Consumers](https://biztoc.com/x/a4190baddaa22938) (Published: 2025-11-15)
+- [I Spend 8 Hours a Day on Amazon, and I’m Buying Oprah’s Favorite Coat and Meghan Markle’s Cream From $8](https://biztoc.com/x/48bd319c71a391ff) (Published: 2025-11-15)
+- [Claire Danes and Matthew Rhys merge their parallel lives for 'The Beast in Me'](https://biztoc.com/x/ff6ac8449504f12d) (Published: 2025-11-15)
+- [Walmart’s early Black Friday laptop deals including a full-fledged gaming PC for $499](http://www.popsci.com/gear/walmart-early-black-friday-laptop-deals-acer-asus-hp/) (Published: 2025-11-15)
+- [Display Configuration lost with recent Nvidia Driver Update for 580](https://askubuntu.com/questions/1559713/display-configuration-lost-with-recent-nvidia-driver-update-for-580) (Published: 2025-11-15)
+- [You don't need a flagship GPU for 4K gaming anymore: Here is the early Black Friday deal that gets you the performance for under $850](https://www.windowscentral.com/hardware/you-dont-need-a-flagship-gpu-for-4k-gaming-anymore-here-is-the-early-black-friday-deal-that-gets-you-the-performance-for-under-usd850) (Published: 2025-11-15)
+- [How to watch Brazil vs Senegal on ITVX — it's *FREE*](https://www.techradar.com/how-to-watch/football/brazil-vs-senegal-free) (Published: 2025-11-15)
 - [AI stock valuation fears & Fed rate cut uncertainty](https://www.straitstimes.com/business/data-fog-has-some-investors-feeling-for-the-exits-as-ai-stock-valuation-fears-flare) (Published: 2025-11-15)
 - [NVIDIA’s RTX 5080 SUPER – Specs, Performance, And Price, Everything We Know So Far](https://wccftech.com/roundup/nvidia-rtx-5080-super/) (Published: 2025-11-15)
-- [LG Ultra Gear 45GX950A OLED gaming monitor review: Extreme curve with premium performance](https://www.tomshardware.com/monitors/gaming-monitors/lg-ultra-gear-45gx950a-45-inch-ultra-wide-oled-gaming-monitor-review) (Published: 2025-11-15)
-- [Attention Nvidia Investors: 3 Things to Watch on Nov. 19](https://biztoc.com/x/dfad6a0d7b4e80d3) (Published: 2025-11-15)
-- [Attention Nvidia Investors: 3 Things to Watch on Nov. 19](https://biztoc.com/x/dfad6a0d7b4e80d3) (Published: 2025-11-15)
-- [These 13 tech stocks have grown profits rapidly — and their stocks are still on sale](https://biztoc.com/x/981d8406c1b22e19) (Published: 2025-11-15)
-- [More than half of low and middle-income Americans now own stocks. Here's why.](https://www.usatoday.com/story/money/2025/11/15/stock-market-wealth-income-youtube-investment-advice/87220066007/) (Published: 2025-11-15)
-- [Major Bitcoin mining firm pivoting to AI, plans to fully abandon crypto mining by 2027 as miners convert to AI en masse — Bitfarm to leverage 341 megawatt capacity for AI following $46 million Q3 loss](https://www.tomshardware.com/tech-industry/cryptomining/major-bitcoin-mining-firm-pivoting-to-ai-plans-to-fully-abandon-crypto-mining-by-2027-bitfarm-to-leverage-341-megawatt-capacity-for-ai-following-usd46-million-q3-loss) (Published: 2025-11-15)
-- [Manufacturers reportedly delaying launch of new memory modules due to massive price crunch — products slated for 4Q25 now expected to arrive in 2026](https://www.tomshardware.com/pc-components/dram/manufacturers-reportedly-delaying-launch-of-new-memory-modules-due-to-massive-price-crunch-products-slated-for-4q25-now-expected-to-arrive-in-2026) (Published: 2025-11-15)
-- [Dow Jones Futures: Nvidia Looms For Market After Wild Week. 5 Stocks Near Buy Points](https://biztoc.com/x/713104b80cdd4fe2) (Published: 2025-11-15)
