@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 19:11:43**_
+_Last updated: **2025-11-16 19:25:36**_
 
 - [Corsair One i600](https://me.pcmag.com/en/old-desktop-pcs/33477/corsair-one-i600) (Published: 2025-11-15)
 - [Corsair One i600](https://uk.pcmag.com/desktop-pcs/161298/corsair-one-i600) (Published: 2025-11-15)
