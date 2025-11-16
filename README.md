@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 13:49:18**_
+_Last updated: **2025-11-16 13:59:56**_
 
+- [AI stock valuation fears & Fed rate cut uncertainty](https://www.straitstimes.com/business/data-fog-has-some-investors-feeling-for-the-exits-as-ai-stock-valuation-fears-flare) (Published: 2025-11-15)
+- [NVIDIA’s RTX 5080 SUPER – Specs, Performance, And Price, Everything We Know So Far](https://wccftech.com/roundup/nvidia-rtx-5080-super/) (Published: 2025-11-15)
 - [LG Ultra Gear 45GX950A OLED gaming monitor review: Extreme curve with premium performance](https://www.tomshardware.com/monitors/gaming-monitors/lg-ultra-gear-45gx950a-45-inch-ultra-wide-oled-gaming-monitor-review) (Published: 2025-11-15)
 - [Attention Nvidia Investors: 3 Things to Watch on Nov. 19](https://biztoc.com/x/dfad6a0d7b4e80d3) (Published: 2025-11-15)
 - [Attention Nvidia Investors: 3 Things to Watch on Nov. 19](https://biztoc.com/x/dfad6a0d7b4e80d3) (Published: 2025-11-15)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-16 13:49:18**_
 - [Major Bitcoin mining firm pivoting to AI, plans to fully abandon crypto mining by 2027 as miners convert to AI en masse — Bitfarm to leverage 341 megawatt capacity for AI following $46 million Q3 loss](https://www.tomshardware.com/tech-industry/cryptomining/major-bitcoin-mining-firm-pivoting-to-ai-plans-to-fully-abandon-crypto-mining-by-2027-bitfarm-to-leverage-341-megawatt-capacity-for-ai-following-usd46-million-q3-loss) (Published: 2025-11-15)
 - [Manufacturers reportedly delaying launch of new memory modules due to massive price crunch — products slated for 4Q25 now expected to arrive in 2026](https://www.tomshardware.com/pc-components/dram/manufacturers-reportedly-delaying-launch-of-new-memory-modules-due-to-massive-price-crunch-products-slated-for-4q25-now-expected-to-arrive-in-2026) (Published: 2025-11-15)
 - [Dow Jones Futures: Nvidia Looms For Market After Wild Week. 5 Stocks Near Buy Points](https://biztoc.com/x/713104b80cdd4fe2) (Published: 2025-11-15)
-- [$10,000 RTX Pro 6000 Blackwell workstation GPU reportedly snaps under its own weight during transit, severs PCIe connector — lack of replacement parts renders card useless despite its modular design](https://www.tomshardware.com/pc-components/gpus/usd10-000-rtx-pro-6000-blackwell-workstation-gpu-reportedly-snaps-under-its-own-weight-during-transit-severs-pcie-connector-lack-of-replacement-parts-renders-card-useless-despite-its-modular-design) (Published: 2025-11-15)
-- [Is 3I/ATLAS an alien spacecraft? Scientists baffled with anomalies - here's what they are saying](https://economictimes.indiatimes.com/news/international/us/is-3i/atlas-an-alien-spacecraft-scientists-baffled-with-anomalies-heres-what-they-are-saying/articleshow/125347204.cms) (Published: 2025-11-15)
