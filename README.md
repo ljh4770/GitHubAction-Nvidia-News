@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 20:42:02**_
+_Last updated: **2025-11-16 20:52:12**_
 
 - [Apple is ramping up succession plans for CEO Tim Cook and may tap this hardware exec to take over, report says](https://fortune.com/2025/11/15/apple-succession-plans-ceo-tim-cook-exec-ai-investment-tech/) (Published: 2025-11-15)
 - [Apple is ramping up succession plans for CEO Tim Cook and may tap this hardware exec to take over, report says](https://finance.yahoo.com/news/apple-ramping-succession-plans-ceo-200718032.html) (Published: 2025-11-15)
