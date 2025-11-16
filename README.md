@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 05:26:53**_
+_Last updated: **2025-11-16 05:41:55**_
 
 - [Eric Trump Lauds Bitcoin: 'Send $500 Million On A Sunday Night, Virtually No Fees'](https://finance.yahoo.com/news/eric-trump-lauds-bitcoin-send-050408984.html) (Published: 2025-11-15)
 - [How ETFs are hooking a new generation of investors](https://www.rte.ie/news/business/2025/1115/1543589-how-etfs-are-hooking-a-new-generation-of-investors/) (Published: 2025-11-15)
