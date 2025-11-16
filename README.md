@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 13:39:07**_
+_Last updated: **2025-11-16 13:49:18**_
 
 - [LG Ultra Gear 45GX950A OLED gaming monitor review: Extreme curve with premium performance](https://www.tomshardware.com/monitors/gaming-monitors/lg-ultra-gear-45gx950a-45-inch-ultra-wide-oled-gaming-monitor-review) (Published: 2025-11-15)
 - [Attention Nvidia Investors: 3 Things to Watch on Nov. 19](https://biztoc.com/x/dfad6a0d7b4e80d3) (Published: 2025-11-15)
