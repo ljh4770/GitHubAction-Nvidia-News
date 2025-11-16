@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 16:29:57**_
+_Last updated: **2025-11-16 16:46:09**_
 
+- [Apple Just Secured More Than Half of Taiwan Semi’s Most Valuable Asset](https://247wallst.com/investing/2025/11/15/apple-just-secured-more-than-half-of-taiwan-semis-most-valuable-asset/) (Published: 2025-11-15)
+- [Tether Eyes $1B Investment in German Robotics Startup Neura: FT](https://www.coindesk.com/business/2025/11/15/tether-eyes-usd1b-investment-in-german-robotics-startup-neura-ft) (Published: 2025-11-15)
 - [Wealth](https://saul.pw/mag/wealth/) (Published: 2025-11-15)
 - ["Big Short" Money Manager Michael Burry Just Bet Against Nvidia and Palantir. Is He Calling the Top of the Artificial Intelligence (AI) Boom?](https://biztoc.com/x/b83e1dc307f3a072) (Published: 2025-11-15)
 - [These underperforming groups may deliver AI-electric appeal. Here's why.](https://www.cnbc.com/2025/11/15/ai-electric-appeal-for-underperforming-infrastructure-etf-experts.html) (Published: 2025-11-15)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-16 16:29:57**_
 - [Trump’s Threat to Sue BBC Over Speech Edit Faces High Hurdles](https://biztoc.com/x/6af081b0f307972d) (Published: 2025-11-15)
 - [Simply Put: AI bubble and the depreciation debate](https://www.thehindubusinessline.com/portfolio/personal-finance/simply-put-chips-servers-and-depreciation/article70282769.ece) (Published: 2025-11-15)
 - [Ukraine Claims Strike on Rosneft’s Ryazan Oil Refinery in Russia](https://biztoc.com/x/48a7f4273f67a093) (Published: 2025-11-15)
-- [PATH Train Fare to Rise to $4 by 2029](https://biztoc.com/x/082dbb1cb835f295) (Published: 2025-11-15)
-- [Show HN: A free CLI tool to extract LinkedIn data](https://github.com/linkdAPI/linkedin-leads-discover) (Published: 2025-11-15)
