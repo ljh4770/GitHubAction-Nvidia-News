@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 21:10:48**_
+_Last updated: **2025-11-16 21:27:29**_
 
 - [Asus ROG NUC has a major mini PC rival - this new challenger offers fantastic specs for work and gaming, and comes from a company with possibly the greatest name ever](https://www.techradar.com/pro/asus-rog-nuc-has-a-major-mini-pc-rival-this-new-challenger-offers-fantastic-specs-for-work-and-gaming-and-comes-from-a-company-with-possibly-the-greatest-name-ever) (Published: 2025-11-15)
 - [Apple is ramping up succession plans for CEO Tim Cook and may tap this hardware exec to take over, report says](https://fortune.com/2025/11/15/apple-succession-plans-ceo-tim-cook-exec-ai-investment-tech/) (Published: 2025-11-15)
