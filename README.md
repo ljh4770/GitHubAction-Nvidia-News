@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 19:58:35**_
+_Last updated: **2025-11-16 20:27:52**_
 
+- [Apple is ramping up succession plans for CEO Tim Cook and may tap this hardware exec to take over, report says](https://fortune.com/2025/11/15/apple-succession-plans-ceo-tim-cook-exec-ai-investment-tech/) (Published: 2025-11-15)
+- [Apple is ramping up succession plans for CEO Tim Cook and may tap this hardware exec to take over, report says](https://finance.yahoo.com/news/apple-ramping-succession-plans-ceo-200718032.html) (Published: 2025-11-15)
 - [Asus ROG Matrix RTX 5090 launches at US$3,999, twice the price of Nvidia’s reference card, limited to 1,000 units worldwide](https://www.notebookcheck.net/Asus-ROG-Matrix-RTX-5090-launches-at-US-3-999-twice-the-price-of-Nvidia-s-reference-card-limited-to-1-000-units-worldwide.1163949.0.html) (Published: 2025-11-15)
 - [Corsair One i600](https://me.pcmag.com/en/old-desktop-pcs/33477/corsair-one-i600) (Published: 2025-11-15)
 - [Corsair One i600](https://uk.pcmag.com/desktop-pcs/161298/corsair-one-i600) (Published: 2025-11-15)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-16 19:58:35**_
 - [$10,000 RTX PRO 6000 Becomes Useless Just Because The Broken PCIe Connector Cannot Be Replaced](https://wccftech.com/10000-rtx-pro-6000-got-broken-pcie-connector/) (Published: 2025-11-15)
 - [Has The AI Orders, Says Jim Cramer](https://biztoc.com/x/db7f8771777ffb19) (Published: 2025-11-15)
 - [NVIDIA (NVDA) Has The AI Orders, Says Jim Cramer](https://finance.yahoo.com/news/nvidia-nvda-ai-orders-says-180421149.html) (Published: 2025-11-15)
-- [Only one analyst has a sell rating on Nvidia — and he says ‘it feels fantastic’](https://biztoc.com/x/58edbdfcecec19cb) (Published: 2025-11-15)
-- [This Big Nvidia Investor Just Closed Its Entire Position. Should You Worry?](https://biztoc.com/x/63bc10813f1b5c98) (Published: 2025-11-15)
