@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 19:48:21**_
+_Last updated: **2025-11-16 19:58:35**_
 
 - [Asus ROG Matrix RTX 5090 launches at US$3,999, twice the price of Nvidia’s reference card, limited to 1,000 units worldwide](https://www.notebookcheck.net/Asus-ROG-Matrix-RTX-5090-launches-at-US-3-999-twice-the-price-of-Nvidia-s-reference-card-limited-to-1-000-units-worldwide.1163949.0.html) (Published: 2025-11-15)
 - [Corsair One i600](https://me.pcmag.com/en/old-desktop-pcs/33477/corsair-one-i600) (Published: 2025-11-15)
