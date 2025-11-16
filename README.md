@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 19:37:49**_
+_Last updated: **2025-11-16 19:48:21**_
 
+- [Asus ROG Matrix RTX 5090 launches at US$3,999, twice the price of Nvidia’s reference card, limited to 1,000 units worldwide](https://www.notebookcheck.net/Asus-ROG-Matrix-RTX-5090-launches-at-US-3-999-twice-the-price-of-Nvidia-s-reference-card-limited-to-1-000-units-worldwide.1163949.0.html) (Published: 2025-11-15)
 - [Corsair One i600](https://me.pcmag.com/en/old-desktop-pcs/33477/corsair-one-i600) (Published: 2025-11-15)
 - [Corsair One i600](https://uk.pcmag.com/desktop-pcs/161298/corsair-one-i600) (Published: 2025-11-15)
 - [Meet the Unstoppable Stock That Could Join Apple, Nvidia, Microsoft, Alphabet, Amazon, Meta, and Taiwan Semiconductor in the $1 Trillion Club by 2030](https://biztoc.com/x/8abf88a91b2204da) (Published: 2025-11-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-16 19:37:49**_
 - [NVIDIA (NVDA) Has The AI Orders, Says Jim Cramer](https://finance.yahoo.com/news/nvidia-nvda-ai-orders-says-180421149.html) (Published: 2025-11-15)
 - [Only one analyst has a sell rating on Nvidia — and he says ‘it feels fantastic’](https://biztoc.com/x/58edbdfcecec19cb) (Published: 2025-11-15)
 - [This Big Nvidia Investor Just Closed Its Entire Position. Should You Worry?](https://biztoc.com/x/63bc10813f1b5c98) (Published: 2025-11-15)
-- [Asus' luxurious RTX 5090 GPU is twice as expensive as Nvidia Founders Edition — ROG Matrix Platinum GeForce RTX 5090 launches at $3,999 with just 1,000 units available](https://www.tomshardware.com/pc-components/gpus/asus-luxurious-rtx-5090-gpu-is-twice-as-expensive-as-nvidia-founders-edition-rog-matrix-platinum-geforce-rtx-5090-launches-at-usd3-999-with-just-1-000-units-available) (Published: 2025-11-15)
