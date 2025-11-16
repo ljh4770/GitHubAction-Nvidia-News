@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 17:32:23**_
+_Last updated: **2025-11-16 17:42:35**_
 
+- [Only one analyst has a sell rating on Nvidia — and he says ‘it feels fantastic’](https://www.marketwatch.com/story/only-one-analyst-has-a-sell-rating-on-nvidia-and-he-says-it-feels-fantastic-c4a887fb) (Published: 2025-11-15)
 - [megatron-fsdp 0.2.0.dev131393](https://pypi.org/project/megatron-fsdp/0.2.0.dev131393/) (Published: 2025-11-15)
 - [Nvidia Has One of the ‘Largest’ Opportunities Ahead. Should You Buy NVDA Stock Before November 19?](https://biztoc.com/x/51925e2fef8650e1) (Published: 2025-11-15)
 - [Nvidia Has One of the ‘Largest’ Opportunities Ahead. Should You Buy NVDA Stock Before November 19?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3a292fac-8821-4e4d-a72c-7cf334586bda) (Published: 2025-11-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-16 17:32:23**_
 - [Apple Just Secured More Than Half of Taiwan Semi’s Most Valuable Asset](https://247wallst.com/investing/2025/11/15/apple-just-secured-more-than-half-of-taiwan-semis-most-valuable-asset/) (Published: 2025-11-15)
 - [Tether Eyes $1B Investment in German Robotics Startup Neura: FT](https://www.coindesk.com/business/2025/11/15/tether-eyes-usd1b-investment-in-german-robotics-startup-neura-ft) (Published: 2025-11-15)
 - [Wealth](https://saul.pw/mag/wealth/) (Published: 2025-11-15)
-- ["Big Short" Money Manager Michael Burry Just Bet Against Nvidia and Palantir. Is He Calling the Top of the Artificial Intelligence (AI) Boom?](https://biztoc.com/x/b83e1dc307f3a072) (Published: 2025-11-15)
