@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 11:39:57**_
+_Last updated: **2025-11-16 11:50:12**_
 
+- [Rexford Industrial Realty: Checking The Credit Quality Again](https://biztoc.com/x/d59bd9da5ab7ef79) (Published: 2025-11-15)
 - [WPP Draws Interest from Havas and Private Equity, Times Says](https://biztoc.com/x/ee0505cc8f8574fb) (Published: 2025-11-15)
 - [What Is the K-Shaped Economy, And Why Is It a Problem?](https://biztoc.com/x/94385276cefedf2f) (Published: 2025-11-15)
 - [AI's valuation problem reaches a 'mini panic moment'](https://finance.yahoo.com/news/ais-valuation-problem-reaches-a-mini-panic-moment-110046323.html) (Published: 2025-11-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-16 11:39:57**_
 - [Ethiopia Confirms First Outbreak of Marburg Virus After Testing](https://biztoc.com/x/129d609b891ea3ca) (Published: 2025-11-15)
 - [How to Fix a Monitor That's Not Getting a Signal From Your Laptop](https://www.cnet.com/tech/computing/how-to-fix-your-monitor-not-displaying-your-screen/) (Published: 2025-11-15)
 - [nvidia-nat-redis 1.4.0a20251115](https://pypi.org/project/nvidia-nat-redis/1.4.0a20251115/) (Published: 2025-11-15)
-- [nvidia-nat-data-flywheel 1.4.0a20251115](https://pypi.org/project/nvidia-nat-data-flywheel/1.4.0a20251115/) (Published: 2025-11-15)
