@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-16 06:56:05**_
+_Last updated: **2025-11-16 07:19:58**_
 
 - [After Nvidia CEO Jensen Huang, Kevin O'Leary Says China Threatens US AI Leadership Because Of This One Thing— And It's Not Chips](https://biztoc.com/x/45f6d2855b63e2c1) (Published: 2025-11-15)
 - [Where Will Nvidia Stock Be in 10 Years?](https://biztoc.com/x/28ccb27ff2fa12b4) (Published: 2025-11-15)
