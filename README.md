@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-17 07:24:55**_
+_Last updated: **2025-11-17 07:39:21**_
 
+- [Nvidia Helped Spark the AI Rally. Its Earnings Could Revive It](https://biztoc.com/x/b6e30dddf26b1c72) (Published: 2025-11-16)
 - [Wall Street ends the week with mixed investor sentiment, all eyes on the Nvidia report next week as AI stocks remain in focus; here's what to expect](https://economictimes.indiatimes.com/news/international/us/wall-street-ends-the-week-with-mixed-investor-sentiment-all-eyes-on-the-nvidia-report-next-week-as-ai-stocks-remain-in-focus-heres-what-to-expect-next-week/articleshow/125360998.cms) (Published: 2025-11-16)
 - [Lenovo IdeaCentre Gaming 5i - 2022 - Gaming Desktop - NVIDIA GeForce RTX 3060 - Intel i5 12400-16GB RAM - 1TB HDD + 512GB SSD - Win 11 $449.99 (5 replies)](https://slickdeals.net/f/18815329-lenovo-ideacentre-gaming-5i-2022-gaming-desktop-nvidia-geforce-rtx-3060-intel-i5-12400-16gb-ram-1tb-hdd-512gb-ssd-win-11-449-99) (Published: 2025-11-16)
 - [Slowing wartime economy forces Kremlin to seek more revenue from consumers](https://unb.com.bd/category/business/slowing-wartime-economy-forces-kremlin-to-seek-more-revenue-from-consumers/173124) (Published: 2025-11-16)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-17 07:24:55**_
 - [Taiwan supply chain chases AI growth after missing initial wave](https://www.digitimes.com/news/a20251114PD204/growth-nvidia-tsmc-taiwan-demand.html) (Published: 2025-11-16)
 - [Cooler Master NCORE 100 MAX Mini-ITX PC Case|AIO|PSU Ready $199.99](https://slickdeals.net/f/18814855-cooler-master-ncore-100-max-mini-itx-pc-case-aio-psu-ready-199-99) (Published: 2025-11-16)
 - [Cooler Master V850 White SFX Gold ITX SFF Modular Power Supply, 850W 80Plus Gold, ATX 3.1 $113.99](https://slickdeals.net/f/18814852-cooler-master-v850-white-sfx-gold-itx-sff-modular-power-supply-850w-80plus-gold-atx-3-1-113-99) (Published: 2025-11-16)
-- [Apple Just Hit a $4 Trillion Milestone: Do Experts Think It’s Time To Buy?](https://biztoc.com/x/86a0b467716a1591) (Published: 2025-11-16)
