@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-17 23:26:02**_
+_Last updated: **2025-11-17 23:40:06**_
 
+- [U.S. stock futures little changed as investors anxiously await Nvidia earnings](https://biztoc.com/x/0a5eb124d8ea0eb2) (Published: 2025-11-16)
 - [U.S. Stock market heads for slight dip on Monday as S&P 500 futures, Nasdaq 100 futures down in Wall Street pre-market](https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-heads-for-slight-dip-on-monday-as-sp-500-futures-nasdaq-100-futures-down-in-pre-market/articleshow/125373541.cms) (Published: 2025-11-16)
 - [Apple Hits $4T: Is the Tech Giant Still a Buy After Slowing Growth?](https://finance.yahoo.com/news/apple-hits-4t-tech-giant-231408176.html) (Published: 2025-11-16)
 - [Stock market today: Live updates](https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html) (Published: 2025-11-16)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-17 23:26:02**_
 - [Peter Lynch on AI Stocks: 'I Literally Couldn't Pronounce Nvidia Until About Eight Months Ago'](https://biztoc.com/x/f69930b3e72565f1) (Published: 2025-11-16)
 - [US stock market outlook for November 17-21: All eyes on tech earnings, Nvidia and economic data](https://economictimes.indiatimes.com/news/international/us/us-stock-market-outlook-for-november-17-21-all-eyes-on-tech-earnings-nvidia-and-economic-data/articleshow/125371479.cms) (Published: 2025-11-16)
 - [Ep 189: Holiday Gift Guide for Architects](https://www.lifeofanarchitect.com/ep-189-holiday-gift-guide-for-architects/) (Published: 2025-11-16)
-- [Peter Lynch on AI Stocks: 'I Literally Couldn't Pronounce Nvidia Until About Eight Months Ago'](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a8993fb3-c8cd-41cc-b0b5-81fb20f421fa) (Published: 2025-11-16)
