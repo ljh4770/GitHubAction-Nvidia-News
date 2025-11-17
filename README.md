@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-17 06:41:23**_
+_Last updated: **2025-11-17 06:57:20**_
 
 - [Lenovo IdeaCentre Gaming 5i - 2022 - Gaming Desktop - NVIDIA GeForce RTX 3060 - Intel i5 12400-16GB RAM - 1TB HDD + 512GB SSD - Win 11 $449.99 (5 replies)](https://slickdeals.net/f/18815329-lenovo-ideacentre-gaming-5i-2022-gaming-desktop-nvidia-geforce-rtx-3060-intel-i5-12400-16gb-ram-1tb-hdd-512gb-ssd-win-11-449-99) (Published: 2025-11-16)
 - [Slowing wartime economy forces Kremlin to seek more revenue from consumers](https://unb.com.bd/category/business/slowing-wartime-economy-forces-kremlin-to-seek-more-revenue-from-consumers/173124) (Published: 2025-11-16)
