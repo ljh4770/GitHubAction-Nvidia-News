@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-17 11:23:57**_
+_Last updated: **2025-11-17 11:37:25**_
 
 - [Nvidia helped spark the AI rally. Its earnings could revive it.](https://www.livemint.com/companies/news/nvidia-earnings-ai-bubble-ai-stocks-us-tech-stocks-11763291155516.html) (Published: 2025-11-16)
 - [Unpacking the curious love affair between everyday traders and Michael Burry](https://www.businessinsider.com/michael-burry-big-short-relationship-with-day-traders-retail-investors-2025-11) (Published: 2025-11-16)
