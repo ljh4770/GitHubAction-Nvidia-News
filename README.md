@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-17 22:49:58**_
+_Last updated: **2025-11-17 23:00:25**_
 
 - [Peter Thiel has just dumped all his Nvidia shares](https://slashdot.org/submission/17342379/peter-thiel-has-just-dumped-all-his-nvidia-shares) (Published: 2025-11-16)
 - [US Sanctions Propel Chinese AI Prodigy to $23 Billion Fortune](https://www.livemint.com/companies/news/us-sanctions-propel-chinese-ai-prodigy-to-23-billion-fortune-11763331644438.html) (Published: 2025-11-16)
