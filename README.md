@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-17 07:49:32**_
+_Last updated: **2025-11-17 07:59:34**_
 
+- [Ukraine agrees on gas imports from Greece, Zelenskiy says](https://biztoc.com/x/6b7a89877bc51c20) (Published: 2025-11-16)
+- [Washington resident is infected with a different type of bird flu](https://biztoc.com/x/a6fc40cd796d667d) (Published: 2025-11-16)
 - [Nvidia Helped Spark the AI Rally. Its Earnings Could Revive It](https://biztoc.com/x/b6e30dddf26b1c72) (Published: 2025-11-16)
 - [Wall Street ends the week with mixed investor sentiment, all eyes on the Nvidia report next week as AI stocks remain in focus; here's what to expect](https://economictimes.indiatimes.com/news/international/us/wall-street-ends-the-week-with-mixed-investor-sentiment-all-eyes-on-the-nvidia-report-next-week-as-ai-stocks-remain-in-focus-heres-what-to-expect-next-week/articleshow/125360998.cms) (Published: 2025-11-16)
 - [Lenovo IdeaCentre Gaming 5i - 2022 - Gaming Desktop - NVIDIA GeForce RTX 3060 - Intel i5 12400-16GB RAM - 1TB HDD + 512GB SSD - Win 11 $449.99 (5 replies)](https://slickdeals.net/f/18815329-lenovo-ideacentre-gaming-5i-2022-gaming-desktop-nvidia-geforce-rtx-3060-intel-i5-12400-16gb-ram-1tb-hdd-512gb-ssd-win-11-449-99) (Published: 2025-11-16)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-17 07:49:32**_
 - [LG’s 240Hz 34-Inch Curved OLED Monitor Goes at New All-Time Low, Black Friday Has Started Early](https://kotaku.com/lg-drops-major-black-friday-deal-on-its-240hz-34-inch-curved-oled-monitor-now-at-new-all-time-low-2000644620) (Published: 2025-11-16)
 - [BofA Maintains Buy Rating on NVIDIA (NVDA) Stock](https://finance.yahoo.com/news/bofa-maintains-buy-rating-nvidia-044147539.html) (Published: 2025-11-16)
 - [Taiwan supply chain chases AI growth after missing initial wave](https://www.digitimes.com/news/a20251114PD204/growth-nvidia-tsmc-taiwan-demand.html) (Published: 2025-11-16)
-- [Cooler Master NCORE 100 MAX Mini-ITX PC Case|AIO|PSU Ready $199.99](https://slickdeals.net/f/18814855-cooler-master-ncore-100-max-mini-itx-pc-case-aio-psu-ready-199-99) (Published: 2025-11-16)
-- [Cooler Master V850 White SFX Gold ITX SFF Modular Power Supply, 850W 80Plus Gold, ATX 3.1 $113.99](https://slickdeals.net/f/18814852-cooler-master-v850-white-sfx-gold-itx-sff-modular-power-supply-850w-80plus-gold-atx-3-1-113-99) (Published: 2025-11-16)
