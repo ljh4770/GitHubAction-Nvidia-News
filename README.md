@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-17 09:47:23**_
+_Last updated: **2025-11-17 09:57:29**_
 
 - [Fallout 4 AMD FSR 3 Frame Generation Mod Out Now, Offering Up to 2x FPS in CPU Intensive Scenes](https://wccftech.com/fallout-4-amd-fsr-3-frame-generation-mod-out-now-offering-up-to-2x-fps-in-cpu-intensive-scenes/) (Published: 2025-11-16)
 - [Americans Are Addicted to Cheap Stuff](https://biztoc.com/x/a23ca7bd177fe188) (Published: 2025-11-16)
