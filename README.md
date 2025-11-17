@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-17 21:56:08**_
+_Last updated: **2025-11-17 22:21:00**_
 
+- [US Sanctions Propel Chinese AI Prodigy to $23 Billion Fortune](https://www.livemint.com/companies/news/us-sanctions-propel-chinese-ai-prodigy-to-23-billion-fortune-11763331644438.html) (Published: 2025-11-16)
 - [AI’s hidden sting: a threat to millions of bees](https://www.computerweekly.com/news/366634503/AIs-hidden-sting-a-threat-to-millions-of-bees) (Published: 2025-11-16)
 - [Peter Lynch on AI Stocks: 'I Literally Couldn't Pronounce Nvidia Until About Eight Months Ago'](https://biztoc.com/x/f69930b3e72565f1) (Published: 2025-11-16)
 - [US stock market outlook for November 17-21: All eyes on tech earnings, Nvidia and economic data](https://economictimes.indiatimes.com/news/international/us/us-stock-market-outlook-for-november-17-21-all-eyes-on-tech-earnings-nvidia-and-economic-data/articleshow/125371479.cms) (Published: 2025-11-16)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-17 21:56:08**_
 - [WEEKLY PREVIEW: G20 summit, Nvidia earnings in focus](https://biztoc.com/x/e17a2b8290ce174a) (Published: 2025-11-16)
 - [On Cursor, Erich Gamma, VS Code forks and the surprising role of the Eclipse Foundation](https://redmonk.com/jgovernor/on-cursor-vs-code-forks-and-the-surprising-role-of-the-eclipse-foundation/) (Published: 2025-11-16)
 - [Stanley Druckenmiller's latest buys suggest shifting tech trend](https://www.thestreet.com/investing/stanley-druckenmillers-latest-buys-suggest-shifting-tech-trend) (Published: 2025-11-16)
-- [Saudi Arabia Building Its AI Empire to Shift Power Beyond Oil | Firstpost Tech & Trade | N18G](https://freerepublic.com/focus/f-chat/4352879/posts) (Published: 2025-11-16)
