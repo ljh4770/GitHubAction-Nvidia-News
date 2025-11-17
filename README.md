@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-17 15:35:56**_
+_Last updated: **2025-11-17 15:50:31**_
 
 - [‘Hold your ground’: Wall Street strategists say tech stock sell-off is a short-term blip as earnings bull case remains intact](https://finance.yahoo.com/news/hold-your-ground-wall-street-strategists-say-tech-stock-sell-off-is-a-short-term-blip-as-earnings-bull-case-remains-intact-153023828.html) (Published: 2025-11-16)
 - [Peter Thiel dumps top AI stock, stirring bubble fears](https://biztoc.com/x/8c9b324be8dfdcd6) (Published: 2025-11-16)
