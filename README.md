@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-17 04:03:26**_
+_Last updated: **2025-11-17 04:36:41**_
 
 - [Taiwan supply chain chases AI growth after missing initial wave](https://www.digitimes.com/news/a20251114PD204/growth-nvidia-tsmc-taiwan-demand.html) (Published: 2025-11-16)
 - [Cooler Master NCORE 100 MAX Mini-ITX PC Case|AIO|PSU Ready $199.99](https://slickdeals.net/f/18814855-cooler-master-ncore-100-max-mini-itx-pc-case-aio-psu-ready-199-99) (Published: 2025-11-16)
