@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-18 19:38:37**_
+_Last updated: **2025-11-18 19:49:25**_
 
 - [Valve: 8GB of VRAM Is Plenty for Steam Machines](https://uk.pcmag.com/migrated-84555-gaming/161330/valve-8gb-of-vram-is-plenty-for-steam-machines) (Published: 2025-11-17)
 - [Valve: 8GB of VRAM Is Plenty for Steam Machines](https://me.pcmag.com/en/gaming/33513/valve-8gb-of-vram-is-plenty-for-steam-machines) (Published: 2025-11-17)
