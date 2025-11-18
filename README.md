@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-18 04:57:37**_
+_Last updated: **2025-11-18 05:25:56**_
 
-- [South Korean Plastic Makers Progress Integration, Maeil Says](https://biztoc.com/x/d69ceb707f7b9ae7) (Published: 2025-11-17)
-- [Tokyo-based Turing, which is developing an AI model for self-driving vehicles, raised a $99M Series A, sources say at a ~$388M valuation](https://biztoc.com/x/0d42a2db7bb0d6d2) (Published: 2025-11-17)
-- [India’s IPO Boom Masks Uneven Returns for Investors](https://biztoc.com/x/4a6cb9111c289aca) (Published: 2025-11-17)
-- [Glut-Haunted Oil Markets Get Lifeline From India, China Buying](https://biztoc.com/x/5550cd5d657c157d) (Published: 2025-11-17)
-- [Singapore Home Sales Near One-Year High on Renewed Buying Frenzy](https://biztoc.com/x/9d8eb97a000df840) (Published: 2025-11-17)
-- [Hillhouse Combines Public Investments Into Over $15 Billion Fund](https://biztoc.com/x/76ba9525bf1e9389) (Published: 2025-11-17)
-- [Overseas Leveraged ETF Buyers in South Korea Face Tougher Rules](https://biztoc.com/x/0175c749a119d863) (Published: 2025-11-17)
-- [Geely Profit Climbs Despite Competition, Regulatory Scrutiny](https://biztoc.com/x/1f9480015c89924c) (Published: 2025-11-17)
-- [Africa Central Banks Set to Usher in Wave of Rate Cuts as Year Ends](https://biztoc.com/x/e6fbd4d891e112b0) (Published: 2025-11-17)
-- [Korean Giants Pledge Record Investments to Spur Growth at Home](https://biztoc.com/x/0845b033c7db7e58) (Published: 2025-11-17)
+- [New Zealand's top court rules that Uber drivers are employees](https://biztoc.com/x/ccf7ee6b629d71d4) (Published: 2025-11-17)
+- [In this Brazilian state, a new push to track cattle is key to slowing deforestation](https://biztoc.com/x/7c80511f0ed9b5a0) (Published: 2025-11-17)
+- [Japanese Longer-Tenor Bonds Slide on Mounting Fiscal Worries](https://biztoc.com/x/d6f141933fd0f903) (Published: 2025-11-17)
+- [Nvidia, bitcoin and other falling stars drag the US stock market lower](https://finance.yahoo.com/news/asian-shares-mostly-lower-us-051307531.html) (Published: 2025-11-17)
+- [Asian shares are mixed after US stocks stumble](https://finance.yahoo.com/news/asian-shares-mostly-lower-us-051307886.html) (Published: 2025-11-17)
+- [International Student Enrollment Drops After Trump’s Visa Overhaul](https://biztoc.com/x/7f66f2a9acc26124) (Published: 2025-11-17)
+- [Israel Is a Markets Favorite, Belying International Protests](https://biztoc.com/x/478335f2f0a920da) (Published: 2025-11-17)
+- [Oil Traders Doubt OPEC+ Will Cut Supply in 2026 Despite Surplus](https://biztoc.com/x/ac899dc08a07d8f0) (Published: 2025-11-17)
+- [Japan Governor to Visit Fukushima Before Nuclear Plant Decision](https://biztoc.com/x/ab72ebb6ba08af94) (Published: 2025-11-17)
