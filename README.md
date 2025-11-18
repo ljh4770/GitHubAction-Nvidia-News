@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-18 07:41:58**_
+_Last updated: **2025-11-18 07:52:18**_
 
 - [Charlie Javice scammed JP Morgan for $175 million. But why America's largest bank is paying her $142-mn legal bills](https://economictimes.indiatimes.com/news/international/global-trends/us-news-charlie-javice-scammed-jp-morgan-for-175-million-but-why-americas-largest-bank-is-paying-her-142-mn-legal-bills/articleshow/125379786.cms) (Published: 2025-11-17)
 - [Peter Thiel sells entire Nvidia stake amid AI bubble fears](https://economictimes.indiatimes.com/tech/technology/peter-thiel-sells-entire-nvidia-stake-amid-ai-bubble-fears/articleshow/125379608.cms) (Published: 2025-11-17)
