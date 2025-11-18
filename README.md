@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-18 03:57:32**_
+_Last updated: **2025-11-18 04:31:08**_
 
+- [Denmark Has a Blueprint to Fix Immigration and Beat the Far Right](https://biztoc.com/x/72152ce893342838) (Published: 2025-11-17)
+- [ChatGPT Is Just Too Dangerous for Teenagers](https://biztoc.com/x/409b20c3c81b4608) (Published: 2025-11-17)
+- [KKR Provides $750 Million Financing for Chandra Asri’s Esso Deal](https://biztoc.com/x/bc8b820644a09bf5) (Published: 2025-11-17)
+- [Auras Technology reports record highs amid strong liquid cooling demand](https://www.digitimes.com/news/a20251115PD200/liquid-cooling-demand-auras-ai-server-growth.html) (Published: 2025-11-17)
+- [Nomura Said to Probe If Profits Inflated at India Bond Desk](https://biztoc.com/x/176956f1222f9ad3) (Published: 2025-11-17)
+- [BlackRock’s GIP, Pentagreen Hire for Asia Infrastructure Debt](https://biztoc.com/x/ba108dc998c21739) (Published: 2025-11-17)
+- [In a first, Taiwan to distribute security handbook to all households as China threat rises](https://biztoc.com/x/1a7b6b251108b573) (Published: 2025-11-17)
+- [Thailand GDP Misses Estimates, Growing 1.2% in Third Quarter](https://biztoc.com/x/30d0749834db53f5) (Published: 2025-11-17)
+- [Browns QB Shedeur Sanders has a rough NFL debut after relieving the injured Dillon Gabriel](https://biztoc.com/x/053204c0661cccaa) (Published: 2025-11-17)
 - [Nvidia tightens grip on Vera Rubin cooling supply chain, squeezing margins](https://www.digitimes.com/news/a20251117PD218/nvidia-rubin-supplier-liquid-cooling-supply-chain.html) (Published: 2025-11-17)
-- [TSMC accelerates CoPoS mass production to 2029, Taiwan suppliers win first orders](https://www.digitimes.com/news/a20251117PD215/tsmc-market-demand-cowos-nvidia.html) (Published: 2025-11-17)
-- [Peter Thiel dumps entire Nvidia stake, slashes Tesla holdings amid bubble fears](https://biztoc.com/x/fc65eb352904b8fd) (Published: 2025-11-17)
-- [Asian markets struggle as fears build over tech rally, US rates](https://www.digitaljournal.com/world/asian-markets-struggle-as-fears-build-over-tech-rally-us-rates/article) (Published: 2025-11-17)
-- [Weekly news roundup: Musk advances US chip-fab plans; SpaceX shifts industry economics; memory shortages continue into 2026](https://www.digitimes.com/news/a20251117VL204/digitimes-asia-weekly-news-roundup-samsung-fab-spacex-2026.html) (Published: 2025-11-17)
-- [What to Expect in Markets This Week: Earnings From Nvidia, Walmart, Target, Home Depot and More - Investopedia](https://slashdot.org/firehose.pl?op=view&amp;id=180100643) (Published: 2025-11-17)
-- [S&P, Nasdaq, and Dow futures start mildly ahead of the week, Wall Street eyes Nvidia earnings and post-shutdown economic data](https://economictimes.indiatimes.com/news/international/us/sp-nasdaq-and-dow-futures-start-mildly-ahead-of-the-week-wall-street-eyes-nvidia-earnings-and-post-shutdown-economic-data/articleshow/125374248.cms) (Published: 2025-11-17)
-- [Dollar steady as investors eye release of US data backlog](https://biztoc.com/x/eea84c5743cf075c) (Published: 2025-11-17)
-- [Stocks cautious as Nvidia earnings test looms](https://biztoc.com/x/5962033807e22252) (Published: 2025-11-17)
-- [Chinese AI start-up founder now world's 3rd richest under 40—how US chip curbs helped Chen Tianshi build a fortune](https://www.livemint.com/companies/people/chinese-ai-start-up-founder-now-worlds-3rd-richest-under-40-how-us-chip-curbs-helped-chen-tianshi-build-a-fortune-11763337189203.html) (Published: 2025-11-17)
