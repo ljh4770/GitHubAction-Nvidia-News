@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-18 06:59:56**_
+_Last updated: **2025-11-18 07:27:24**_
 
 - [Where to invest $2,500 in ASX ETFs this month](https://www.fool.com.au/2025/11/17/where-to-invest-2500-in-asx-etfs-this-month-2/) (Published: 2025-11-17)
 - [BOJ governor warned panel of prolonged loose policy risks, minutes show](https://biztoc.com/x/3f9a79771e9dfc14) (Published: 2025-11-17)
