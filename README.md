@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 22:47:05**_
+_Last updated: **2025-11-19 22:57:10**_
 
 - [Gordon Bell Prize Finalists Push Open Science Boundaries With NVIDIA-Powered Supercomputers](https://blogs.nvidia.com/blog/gordon-bell-finalists-2025/) (Published: 2025-11-18)
 - [Anthropic agreement with Nvidia and Microsoft raises AI 'circularity' concerns](https://biztoc.com/x/6534de1430979858) (Published: 2025-11-18)
