@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 05:49:44**_
+_Last updated: **2025-11-19 06:00:12**_
 
 - [nvidia-nccl-cu12 2.28.9](https://pypi.org/project/nvidia-nccl-cu12/2.28.9/) (Published: 2025-11-18)
 - [nvidia-nccl-cu13 2.28.9](https://pypi.org/project/nvidia-nccl-cu13/2.28.9/) (Published: 2025-11-18)
