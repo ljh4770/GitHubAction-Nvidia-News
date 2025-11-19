@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 10:10:30**_
+_Last updated: **2025-11-19 10:38:35**_
 
-- [Crypto Plunge Adds to Angst as Markets Extend Broad Retreat](https://finance.yahoo.com/news/fear-spreads-across-markets-crypto-075950465.html) (Published: 2025-11-18)
-- [Why some elite investors are turning on the darling of the AI rally](https://biztoc.com/x/f30ed685d3d57dea) (Published: 2025-11-18)
-- [World shares sink, tracking a tech-led sell-off on Wall Street](https://abcnews.go.com/Business/wireStory/world-shares-sink-tracking-tech-led-sell-off-127619852) (Published: 2025-11-18)
-- [(PR) Biostar Introduces EdgeComp MS-Nano 4G/8G Based on NVIDIA Jetson Orin NANO](https://www.techpowerup.com/343009/biostar-introduces-edgecomp-ms-nano-4g-8g-based-on-nvidia-jetson-orin-nano) (Published: 2025-11-18)
-- [Metaverse Industry Research Report 2025-2035: Market to Grow Rapidly as AGI, AR, VR, and Blockchain Drive Immersive, Real-Time Digital Experiences Blending Physical and Virtual Worlds](https://www.globenewswire.com/news-release/2025/11/18/3189773/28124/en/Metaverse-Industry-Research-Report-2025-2035-Market-to-Grow-Rapidly-as-AGI-AR-VR-and-Blockchain-Drive-Immersive-Real-Time-Digital-Experiences-Blending-Physical-and-Virtual-Worlds.html) (Published: 2025-11-18)
-- [Swarm Robotics Market Size to Worth USD 8.33 Billion by 2032, at 28.05% CAGR | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/11/18/3189772/0/en/Swarm-Robotics-Market-Size-to-Worth-USD-8-33-Billion-by-2032-at-28-05-CAGR-Research-by-SNS-Insider.html) (Published: 2025-11-18)
-- [(PR) ASUS IoT Announces PE3000N](https://www.techpowerup.com/343008/asus-iot-announces-pe3000n) (Published: 2025-11-18)
-- [Despite China Issues, Nvidia (NVDA) Sees Strong Demand for Blackwell Chips](https://biztoc.com/x/cfe4529d1593ece2) (Published: 2025-11-18)
-- [Trump Approves F-35 Jets for Saudi Arabia Ahead of MBS Visit](https://financialpost.com/pmn/business-pmn/trump-approves-f-35-jets-for-saudi-arabia-ahead-of-mbs-visit) (Published: 2025-11-18)
+- [L'Oréal Big Bang North Asia Drives Open Innovation at CIIE, Partnering with Global Startups](https://en.antaranews.com/news/392465/loral-big-bang-north-asia-drives-open-innovation-at-ciie-partnering-with-global-startups) (Published: 2025-11-18)
+- [Terrible news for gamers: AMD and Nvidia could axe budget gaming GPUs due to rising memory prices](https://www.notebookcheck.net/Terrible-news-for-gamers-AMD-and-Nvidia-could-axe-budget-gaming-GPUs-due-to-rising-memory-prices.1165611.0.html) (Published: 2025-11-18)
+- [These Stocks Are Moving the Most Today: Nvidia, Coinbase, Strategy, Dell, and More](https://biztoc.com/x/d2297609757077d0) (Published: 2025-11-18)
+- [Here's How Much Traders Expect Nvidia Stock To Move After Wednesday's Earnings](https://www.investopedia.com/here-is-how-much-traders-expect-nvidia-stock-to-move-after-wednesday-earnings-q3-fy2026-nvda-11851166) (Published: 2025-11-18)
+- [US stock futures today: Dow, S&P 500, Nasdaq slip as AI stocks fall and Bitcoin breaks below $90,000](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-today-dow-sp-500-nasdaq-slip-as-ai-stocks-fall-and-bitcoin-breaks-below-90000/articleshow/125408812.cms) (Published: 2025-11-18)
+- [(PR) Supermicro Showcases the Future of HPC Clusters and AI Infrastructure at SC25](https://www.techpowerup.com/343010/supermicro-showcases-the-future-of-hpc-clusters-and-ai-infrastructure-at-sc25) (Published: 2025-11-18)
+- [Peter Thiel's fund joins SoftBank in offloading Nvidia shares](https://biztoc.com/x/6580cde1ac25b6b5) (Published: 2025-11-18)
+- [World shares sink, tracking a tech-led sell-off on Wall Street](https://biztoc.com/x/1c15139410b4da3b) (Published: 2025-11-18)
+- [Could OpenAI’s Custom AI Chip Strategy Upend NVIDIA by 2028?](https://www.geeky-gadgets.com/openai-custom-ai-chips/) (Published: 2025-11-18)
