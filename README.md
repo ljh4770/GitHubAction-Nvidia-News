@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 04:40:55**_
+_Last updated: **2025-11-19 04:53:46**_
 
 - [NVIDIA and RIKEN Advance Japan’s Scientific Frontiers With New Supercomputers for AI and Quantum Computing](https://biztoc.com/x/d2dbdf8dc3129b3d) (Published: 2025-11-18)
 - [Nvidia Earnings Are The 'Super Bowl' For The Entire Market, Could Trigger A Massive Shift: 'You're Going To Be Able To Hear A Pin Drop'](https://biztoc.com/x/f099e6c958bfb52a) (Published: 2025-11-18)
