@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 21:54:12**_
+_Last updated: **2025-11-19 22:16:41**_
 
+- [Accelerate large-scale AI applications with the new Amazon EC2 P6-B300 instances](https://aws.amazon.com/blogs/aws/accelerate-large-scale-ai-applications-with-the-new-amazon-ec2-p6-b300-instances/) (Published: 2025-11-18)
+- [Cursor Hit $1B ARR in 24 Months: The Fastest B2B To Scale Ever?](https://www.saastr.com/cursor-hit-1b-arr-in-17-months-the-fastest-b2b-to-scale-ever-and-its-not-even-close/) (Published: 2025-11-18)
+- [Use of artificial intelligence both praised and criticized at COP30 climate talks in Brazil](https://www.pbs.org/newshour/world/use-of-artificial-intelligence-both-praised-and-criticized-at-cop30-climate-talks-in-brazil) (Published: 2025-11-18)
+- [Anthropic is at the heart of the latest billion-dollar circular AI investment bonanza](https://biztoc.com/x/d92723bf79680dec) (Published: 2025-11-18)
+- [Microsoft, NVIDIA invest billions into Anthropic in new AI deal](https://www.androidheadlines.com/2025/11/microsoft-nvidia-invest-billions-into-anthropic-in-new-ai-deal.html) (Published: 2025-11-18)
+- [Anthropic is at the heart of the latest billion-dollar circular AI investment bonanza](https://www.theregister.com/2025/11/18/anthropic_microsoft_nvidia_ai_deals/) (Published: 2025-11-18)
+- [Screw it, I’m installing Linux](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos) (Published: 2025-11-18)
+- [Stock Market Wobbles As Tech Sells Off Ahead Of Key Data, Nvidia Earnings](https://www.ibtimes.com/stock-market-wobbles-tech-sells-off-ahead-key-data-nvidia-earnings-3790682) (Published: 2025-11-18)
 - [How major US stock indexes fared Tuesday, 11/18/2025](https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-tuesday-11182025-127646575) (Published: 2025-11-18)
 - [Earnings live: Home Depot, Klarna stocks fall as impending Nvidia earnings rise to the forefront](https://finance.yahoo.com/news/live/earnings-live-home-depot-klarna-stocks-fall-as-impending-nvidia-earnings-rise-to-the-forefront-214615985.html) (Published: 2025-11-18)
-- [China Ramps Up Experiments on Animals to Help Win Biotech Race](https://biztoc.com/x/03c8eeab7002c978) (Published: 2025-11-18)
-- [Barrick Shakes Up Leadership, Operations in Bid to Right Ship](https://biztoc.com/x/c2ed8b77b5a910b8) (Published: 2025-11-18)
-- [Microsoft, Nvidia Pump Billions Into Anthropic](https://biztoc.com/x/89b84951dd422499) (Published: 2025-11-18)
-- [Trump and Republicans Swamped by Demands for Epstein Files](https://biztoc.com/x/bbdf8dc93119b2d8) (Published: 2025-11-18)
-- [U.S. stocks follow Asia, Europe down on fear that Nvidia, other superstars are overvalued](https://biztoc.com/x/3ee110daaa33f963) (Published: 2025-11-18)
-- [As S&P 500, Dow extend losing streaks, are stocks headed for a 10% correction?](https://biztoc.com/x/189c51976002aafb) (Published: 2025-11-18)
-- [Trump Seeks to Revive Suit Accusing Clinton of Russia Conspiracy](https://biztoc.com/x/9778e97f096c871f) (Published: 2025-11-18)
-- [US Senate sets December hearing for Trump's proposed NASA chief Isaacman](https://biztoc.com/x/7351305d8bfa0198) (Published: 2025-11-18)
