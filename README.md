@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 20:37:47**_
+_Last updated: **2025-11-19 20:48:24**_
 
+- [WestJet Airlines CEO sees progress on Boeing 737 MAX 10 certification, rolls out non-US routes](https://biztoc.com/x/7fa58866c66c74f5) (Published: 2025-11-18)
+- [Uruguay Cuts Key Rate to 8%, Flags More Easing Ahead](https://biztoc.com/x/04aebb4ffcfc9d2e) (Published: 2025-11-18)
+- [Microsoft and NVIDIA expand AI partnership](https://biztoc.com/x/f8d9b30e4a13a04b) (Published: 2025-11-18)
+- [The Fed Is Trying to Help Bank Liquidity. Banks Would Rather Keep It Quiet](https://biztoc.com/x/ec9018da8a63c0f7) (Published: 2025-11-18)
+- [UK’s Reeves to increase spending on benefits in next week’s budget, Telegraph reports](https://biztoc.com/x/5e791b482fa3d4ec) (Published: 2025-11-18)
+- [Nvidia, Microsoft invest $26 billion in AI startup Anthropic](https://www.nzherald.co.nz/business/nvidia-microsoft-invest-26-billion-in-ai-startup-anthropic/TT7OV5XHGZCCRNJ56VX4DATKWE/) (Published: 2025-11-18)
+- [Nvidia, Microsoft invest $15 billion in AI startup Anthropic](https://www.digitaljournal.com/world/nvidia-microsoft-invest-15-billion-in-ai-startup-anthropic/article) (Published: 2025-11-18)
 - [US Faces Winter Blackout Risks from Data Centers’ Power Needs](https://biztoc.com/x/ff96a413b8b44c1c) (Published: 2025-11-18)
 - [Universal Faces EU Warning Over $775 Million Downtown Deal](https://biztoc.com/x/4906f6299522474b) (Published: 2025-11-18)
 - [Nvidia and Microsoft Pledge Up to $15 Billion to Anthropic](https://www.pymnts.com/artificial-intelligence-2/2025/nvidia-and-microsoft-pledge-up-to-15-billion-to-anthropic/) (Published: 2025-11-18)
-- [U.S. producer price index for September to be released on November 25](https://biztoc.com/x/b0cce55fe247a1f9) (Published: 2025-11-18)
-- [Stock Market on Pace for Worst November Since 2008. Making Sense of the Chorus of Caution](https://biztoc.com/x/79fe2834e94e1b57) (Published: 2025-11-18)
-- [xQc accuses QTCinderella of adding Vanillamace to awards list to fix past drama](https://timesofindia.indiatimes.com/world/us-streamers/xqc-accuses-qtcinderella-of-adding-vanillamace-to-awards-list-to-fix-past-drama/articleshow/125421318.cms) (Published: 2025-11-18)
-- [I tested Call of Duty: Black Ops 7's optimization across 3 GPUs](https://www.xda-developers.com/call-of-duty-black-ops-7-pc-optimization-benchmarks-1080p-1440p-4k/) (Published: 2025-11-18)
-- [DRAM price explosion could make smartphones and mid-range GPUs more expensive](https://www.notebookcheck.net/DRAM-price-explosion-could-make-smartphones-and-mid-range-GPUs-more-expensive.1165937.0.html) (Published: 2025-11-18)
-- [Dell Alienware Aurora Gaming PC (U9 RTX 5080) Intel Core Ultra 9 285 (7 replies)](https://slickdeals.net/f/18827950-dell-alienware-aurora-gaming-pc-u9-rtx-5080-intel-core-ultra-9-285) (Published: 2025-11-18)
-- [Dell Alienware Aurora Gaming PC (U9 RTX 5080) Intel Core Ultra 9 285 $1899.99 (11 replies)](https://slickdeals.net/f/18827950-dell-alienware-aurora-gaming-pc-u9-rtx-5080-intel-core-ultra-9-285-1899-99) (Published: 2025-11-18)
