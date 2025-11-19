@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 13:56:27**_
+_Last updated: **2025-11-19 14:23:11**_
 
-- [Micropolis Robotics Unveils New Industrial-Grade, IP67-Rated Computing Module Powered by NVIDIA for Advanced AI Processing of its Robots](https://www.globenewswire.com/news-release/2025/11/18/3190055/0/en/Micropolis-Robotics-Unveils-New-Industrial-Grade-IP67-Rated-Computing-Module-Powered-by-NVIDIA-for-Advanced-AI-Processing-of-its-Robots.html) (Published: 2025-11-18)
-- [PhysicsWallah's listing day pop; Triple Wall Street whammy](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/physicswallahs-listing-day-pop-triple-wall-street-whammy/articleshow/125413206.cms) (Published: 2025-11-18)
-- [NVIDIA (NVDA) Rallied Following the Blowout Results](https://finance.yahoo.com/news/nvidia-nvda-rallied-following-blowout-134148287.html) (Published: 2025-11-18)
-- [Micropolis Launches IP67 Edge AI Unit With NVIDIA Orin SOC](https://biztoc.com/x/d5f0365b329a6cd4) (Published: 2025-11-18)
-- [Gigabyte Launches Personal AI Supercomputer: AI TOP ATOM Hits the Market](https://me.pcmag.com/en/artificial-intelligence-5/33528/gigabyte-launches-personal-ai-supercomputer-ai-top-atom-hits-the-market) (Published: 2025-11-18)
-- [AMD & NVIDIA Reportedly Consider GPU Cuts, ASUS and Others Slow Motherboard Plans Amid Memory Shortage](https://www.techpowerup.com/343017/amd-nvidia-reportedly-consider-gpu-cuts-asus-and-others-slow-motherboard-plans-amid-memory-shortage) (Published: 2025-11-18)
-- [Core42 “Maximus-384” Cluster Secures Top 20 Ranking on the Global TOP500 Supercomputers List](https://financialpost.com/pmn/business-wire-news-releases-pmn/core42-maximus-384-cluster-secures-top-20-ranking-on-the-global-top500-supercomputers-list) (Published: 2025-11-18)
-- [NVIDIA (NASDAQ: NVDA) Price Prediction and Forecast 2025-2030 for November 18](https://biztoc.com/x/70a6c4d1dce96982) (Published: 2025-11-18)
-- [Rivian (NASDAQ: RIVN) Price Prediction and Forecast 2025-2030 for November 18](https://biztoc.com/x/e6e34821ef7cbcab) (Published: 2025-11-18)
-- [Wall Street Price Prediction: Tesla’s Share Price Forecast for 2025](https://biztoc.com/x/0f006dcd3ac54427) (Published: 2025-11-18)
+- [megatron-fsdp 0.2.0.dev118937](https://pypi.org/project/megatron-fsdp/0.2.0.dev118937/) (Published: 2025-11-18)
+- [Nvidia and other tech superstars pull Wall Street lower](https://www.kiro7.com/news/business/asian-shares-sink/5D3C5B2XFM7EVNXGVYE2PVO6KA/) (Published: 2025-11-18)
+- [Artificial intelligence sparks debate at COP30 climate talks in Brazil](https://abcnews.go.com/Technology/wireStory/artificial-intelligence-sparks-debate-cop30-climate-talks-brazil-127628317) (Published: 2025-11-18)
+- [Nvidia earnings: As AI stocks slide and Wall Street holds its breath, here’s what top analysts expect](https://biztoc.com/x/693748bbb55855d9) (Published: 2025-11-18)
+- [Morsels review](https://www.rockpapershotgun.com/morsels-review) (Published: 2025-11-18)
+- [Artificial intelligence sparks debate at COP30 climate talks in Brazil](https://financialpost.com/pmn/artificial-intelligence-sparks-debate-at-cop30-climate-talks-in-brazil) (Published: 2025-11-18)
+- [Financial text analysis and credit risk assessment using a GPT-4 and improved BERT fusion model](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336217) (Published: 2025-11-18)
+- [The Ultimate Tech Gifts to Level Up Any PC Setup](https://www.esquire.com/lifestyle/g69305212/the-ultimate-tech-gifts-to-level-up-any-pc-setup/) (Published: 2025-11-18)
+- [Demand forecasting and inventory optimization of distribution equipment: A fusion model based on genetic algorithm and machine learning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336026) (Published: 2025-11-18)
