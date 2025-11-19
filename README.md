@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 15:49:07**_
+_Last updated: **2025-11-19 15:59:39**_
 
-- [NVIDIA & Anthropic Strike a Surprising Deal Worth $10 Billion Despite Their CEOs Previously Taking Shots at Each Other Over ‘Who Does AI Better’](https://wccftech.com/nvidia-anthropic-strike-a-surprising-deal-worth-10-billion/) (Published: 2025-11-18)
-- [GPU depreciation could be the next big crisis coming for AI hyperscalers — after spending billions on buildouts, next-gen upgrades may amplify cashflow quirks](https://www.tomshardware.com/tech-industry/gpu-depreciation-could-be-the-next-big-crisis-coming-for-ai-hyperscalers-after-spending-billions-on-buildouts-next-gen-upgrades-may-amplify-cashflow-quirks) (Published: 2025-11-18)
-- [Apple and Broadcom job listings suggest potential Intel Foundry collaborations — requirements highlight expertise in Intel's EMIB and 2.5D memory packaging tech](https://www.tomshardware.com/tech-industry/big-tech/apple-and-broadcom-job-listings-suggest-potential-intel-foundry-collaborations-requirements-highlight-expertise-in-intels-emib-and-2-5d-memory-packaging-tech) (Published: 2025-11-18)
-- [NVIDIA joins Microsoft’s push on Claude — piling billions into Anthropic’s future](https://www.windowscentral.com/microsoft/nvidia-joins-microsofts-push-on-claude-piling-billions-into-anthropics-future) (Published: 2025-11-18)
-- [10x faster inference versus HBM4: d-Matrix joins forces with AIchip to produce world's first 3D DRAM](https://www.notebookcheck.net/10x-faster-inference-versus-HBM4-d-Matrix-joins-forces-with-AIchip-to-produce-world-s-first-3D-DRAM.1165657.0.html) (Published: 2025-11-18)
-- [Stock market today: Dow, S&P 500, Nasdaq sink as worries on AI, US economy hit markets before Nvidia earnings](https://biztoc.com/x/b7dd6f560c6c3d35) (Published: 2025-11-18)
-- [Microsoft, Nvidia to Invest a Combined $15 Billion in Anthropic](https://finance.yahoo.com/video/microsoft-nvidia-invest-combined-15-154400665.html) (Published: 2025-11-18)
-- [Ahead of Market: 10 things that will decide stock market action on Wednesday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/125415079.cms) (Published: 2025-11-18)
-- [(PR) Microsoft, NVIDIA and Anthropic announce strategic partnerships](https://www.techpowerup.com/343026/microsoft-nvidia-and-anthropic-announce-strategic-partnerships) (Published: 2025-11-18)
-- [Scott Galloway fears a market crash or social crisis in the next year. A top finance professor recommends putting money into baseball cards](https://fortune.com/2025/11/18/scott-galloway-catastrophic-crash-baseball-cards-ai-bubble/) (Published: 2025-11-18)
+- [Anthropic to buy $30 billion in Azure capacity in new deal with Microsoft, Nvidia](https://biztoc.com/x/86fca17615137c45) (Published: 2025-11-18)
+- [Taiwan to spend $3 billion turning nation into 'AI island', targets top five global compute power — new goals threatened by energy shortfalls](https://www.tomshardware.com/tech-industry/semiconductors/taiwan-announces-3bn-spend-on-ai-island-ambitions) (Published: 2025-11-18)
+- [What happens if a fly lays eggs in your wound and the alarming signs to watch for](https://timesofindia.indiatimes.com/etimes/trending/what-happens-if-a-fly-lays-eggs-in-your-wound-and-the-alarming-signs-to-watch-for/articleshow/125415058.cms) (Published: 2025-11-18)
+- [Tech Giants Get Hammered in Nvidia-Led Stock Slide: Markets Wrap](https://financialpost.com/pmn/business-pmn/tech-giants-get-hammered-in-nvidia-led-stock-slide-markets-wrap) (Published: 2025-11-18)
+- [Microsoft, Nvidia to invest in Anthropic as Claude maker commits $30 billion to Azure](https://biztoc.com/x/d3a9bc6d18e3c8da) (Published: 2025-11-18)
+- [Lisa Su Thinks AI is the “Right Gamble.” Should Investors Shed Their Fear of Heavy AI Spend?](https://biztoc.com/x/9f737f58b8897ac5) (Published: 2025-11-18)
+- [Analysts are Still Pounding the Table Over Nvidia](https://biztoc.com/x/24fdffb6c98b3e6d) (Published: 2025-11-18)
+- [Is Michael Burry Shutting His Fund Just Before He’s About to Be Proved Right?](https://biztoc.com/x/30d21ae2af4f3ede) (Published: 2025-11-18)
+- [Nvidia Earnings Are Tomorrow: What Investors Need To Watch For](https://biztoc.com/x/2b92d8961ed0776b) (Published: 2025-11-18)
