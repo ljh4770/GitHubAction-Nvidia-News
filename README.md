@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 15:59:39**_
+_Last updated: **2025-11-19 16:36:35**_
 
-- [Anthropic to buy $30 billion in Azure capacity in new deal with Microsoft, Nvidia](https://biztoc.com/x/86fca17615137c45) (Published: 2025-11-18)
-- [Taiwan to spend $3 billion turning nation into 'AI island', targets top five global compute power — new goals threatened by energy shortfalls](https://www.tomshardware.com/tech-industry/semiconductors/taiwan-announces-3bn-spend-on-ai-island-ambitions) (Published: 2025-11-18)
-- [What happens if a fly lays eggs in your wound and the alarming signs to watch for](https://timesofindia.indiatimes.com/etimes/trending/what-happens-if-a-fly-lays-eggs-in-your-wound-and-the-alarming-signs-to-watch-for/articleshow/125415058.cms) (Published: 2025-11-18)
-- [Tech Giants Get Hammered in Nvidia-Led Stock Slide: Markets Wrap](https://financialpost.com/pmn/business-pmn/tech-giants-get-hammered-in-nvidia-led-stock-slide-markets-wrap) (Published: 2025-11-18)
-- [Microsoft, Nvidia to invest in Anthropic as Claude maker commits $30 billion to Azure](https://biztoc.com/x/d3a9bc6d18e3c8da) (Published: 2025-11-18)
-- [Lisa Su Thinks AI is the “Right Gamble.” Should Investors Shed Their Fear of Heavy AI Spend?](https://biztoc.com/x/9f737f58b8897ac5) (Published: 2025-11-18)
-- [Analysts are Still Pounding the Table Over Nvidia](https://biztoc.com/x/24fdffb6c98b3e6d) (Published: 2025-11-18)
-- [Is Michael Burry Shutting His Fund Just Before He’s About to Be Proved Right?](https://biztoc.com/x/30d21ae2af4f3ede) (Published: 2025-11-18)
-- [Nvidia Earnings Are Tomorrow: What Investors Need To Watch For](https://biztoc.com/x/2b92d8961ed0776b) (Published: 2025-11-18)
+- [Google Boss Sundar Pichai Ominously Warns that No Company Is 'Immune' if the AI Bubble Pops](https://www.breitbart.com/tech/2025/11/18/google-boss-sundar-pichai-ominously-warns-that-no-company-is-immune-if-the-ai-bubble-pops/) (Published: 2025-11-18)
+- [Nvidia, Microsoft invest $15 billion in AI startup Anthropic](https://techxplore.com/news/2025-11-nvidia-microsoft-invest-billion-ai.html) (Published: 2025-11-18)
+- [Microsoft, Nvidia to invest in Anthropic as Claude maker commits $30 billion to Azure](https://biztoc.com/x/c12144ba0baf7260) (Published: 2025-11-18)
+- [Dow Jones crashes today: Dow extends 5-day losses to nearly 2,000 points — will Nvidia earnings lift Wall Street tomorrow?](https://economictimes.indiatimes.com/news/international/us/dow-jones-crashes-today-dow-extends-5-day-losses-to-nearly-2000-points-will-nvidia-earnings-lift-wall-street-tomorrow/articleshow/125415770.cms) (Published: 2025-11-18)
+- [Top 5G infrastructure companies to consider in 2025](https://www.techtarget.com/searchnetworking/feature/Top-5G-infrastructure-companies-to-consider-in-2025) (Published: 2025-11-18)
+- [The Whole Financial World Is Terrified of Nvidia’s Earnings Call](http://futurism.com/artificial-intelligence/financial-world-nvidia-earnings-call) (Published: 2025-11-18)
+- [Dow plunges 613 points as AI bubble fears explode](https://rollingout.com/2025/11/18/stock-market-crash-dow-nasdaq-ai-bubble/) (Published: 2025-11-18)
+- [Anthropic said to be valued at $350B after new AI deal](https://biztoc.com/x/df265fb063d75e8f) (Published: 2025-11-18)
+- [The sell signals keep stacking up for the S&P 500](https://www.businessinsider.com/stock-market-technical-analysis-sp500-50-day-moving-average-tech-2025-11) (Published: 2025-11-18)
+- [Here Is What Options Traders Expect for NVDA Stock After Nvidia Reports Q3 Results This Week](https://biztoc.com/x/f26fbb0fe295f1d5) (Published: 2025-11-18)
