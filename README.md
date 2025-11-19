@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 03:52:10**_
+_Last updated: **2025-11-19 04:16:48**_
 
 - [GMI Cloud to build US$500 million AI factory in Taiwan with 7,000 Blackwell Ultra GPUs](https://www.digitimes.com/news/a20251118VL203/cloud-taiwan-nvidia-blackwell-manufacturing.html) (Published: 2025-11-18)
 - [5 ASX ETFs to buy to supercharge your portfolio in 2026](https://www.fool.com.au/2025/11/18/5-asx-etfs-to-buy-to-supercharge-your-portfolio-in-2026/) (Published: 2025-11-18)
