@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 08:35:26**_
+_Last updated: **2025-11-19 08:54:06**_
 
-- [Honda to recall over 256,000 U.S. vehicles over software error, NHTSA says](https://biztoc.com/x/c63ff67e7f33fe7e) (Published: 2025-11-18)
-- [EU Bankers Prepare for Capital Buffer Overhaul to Disappoint](https://biztoc.com/x/17cef20ba9d251bb) (Published: 2025-11-18)
-- [European shares slide on Fed rate cut worries, tech valuations](https://biztoc.com/x/cf42bc957f52eef3) (Published: 2025-11-18)
-- [Family Fortunes](https://biztoc.com/x/3dd7af940a45d559) (Published: 2025-11-18)
-- [TotalEnergies to appeal French antitrust fine over Corsica fuel supply](https://biztoc.com/x/fff7cb9830b2e31f) (Published: 2025-11-18)
-- [S&P 500 Set to Slide for a Fourth Day on AI, Crypto Jitters](https://biztoc.com/x/d9734c5afa9b3782) (Published: 2025-11-18)
-- [Investors still bullish, but positioning is a headwind for markets – BofA survey](https://biztoc.com/x/6e0f78ea0bb11d47) (Published: 2025-11-18)
-- [Novo cuts Wegovy prices, but doctors still see cost challenges for patients](https://biztoc.com/x/cf7baf1c676661d0) (Published: 2025-11-18)
-- [Kuwait's state oil firm KPC signs $4.9 billion loan deal with local banks](https://biztoc.com/x/7ac252e67eae7ade) (Published: 2025-11-18)
-- [Burj Khalifa Developer Eyes Italy in Global Property Push](https://biztoc.com/x/352c6aebfa6c1461) (Published: 2025-11-18)
+- [Airbus wins 150-jet order from flydubai](https://biztoc.com/x/94e0e17f75e66dfc) (Published: 2025-11-18)
+- [Futures drop amid market rout; Home Depot to report - what’s moving markets](https://biztoc.com/x/ddd5aabdc8d7c411) (Published: 2025-11-18)
+- [Philippines Files First Cases Against Officials in Graft Scandal](https://biztoc.com/x/92a969c338df108d) (Published: 2025-11-18)
+- [Accenture invests in Alembic](https://www.verdict.co.uk/accenture-ai-platform-alembic/) (Published: 2025-11-18)
+- [Tiny Stocks from Asia Are Flooding U.S. Markets. Why You Should Steer Clear](https://biztoc.com/x/720a4894173fd470) (Published: 2025-11-18)
+- [Bitcoin drops below $90,000 in sign of souring mood](https://biztoc.com/x/92fb0fe4d50d5dbe) (Published: 2025-11-18)
+- [Freshworks: Underappreciated Growth And Cash Flow At A Discount Price](https://biztoc.com/x/d497122285fd4ebd) (Published: 2025-11-18)
+- [MoonLake: Ignore The Panic, Catch The Upside](https://biztoc.com/x/d516da4319e40200) (Published: 2025-11-18)
+- [A House Revolt on Epstein Will Complicate Trump's Agenda](https://biztoc.com/x/6a01fcee2d54dc39) (Published: 2025-11-18)
