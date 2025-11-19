@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 06:55:42**_
+_Last updated: **2025-11-19 07:21:07**_
 
+- [Japan’s Nikkei plunges by most in seven months on tech selloff](https://www.irishtimes.com/business/2025/11/18/japans-nikkei-plunges-by-most-in-seven-months-on-tech-selloff/) (Published: 2025-11-18)
 - [Targeting Palantir and Nvidia: Profits, Prophets and Overvalued AI Stocks](https://www.counterpunch.org/2025/11/18/targeting-palantir-and-nvidia-profits-prophets-and-overvalued-ai-stocks/) (Published: 2025-11-18)
 - [Eviden-built JUPITER Supercomputer Hits Exascale Milestone According to the TOP500, a First in Europe](https://www.globenewswire.com/news-release/2025/11/18/3189689/0/en/Eviden-built-JUPITER-Supercomputer-Hits-Exascale-Milestone-According-to-the-TOP500-a-First-in-Europe.html) (Published: 2025-11-18)
 - [Asian shares skid after Nvidia and other tech superstars pull Wall Street lower](https://apnews.com/article/stock-markets-nvidia-rates-ai-trump-31160bebd7ab48cdb8e26aa0ad9a3dc8) (Published: 2025-11-18)
