@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-19 20:48:24**_
+_Last updated: **2025-11-19 20:59:10**_
 
+- [Spirit Airlines unions agree to pay cuts for flight attendants, pilots](https://biztoc.com/x/7f566d5a14cac4af) (Published: 2025-11-18)
+- [Market slide frays investors' nerves with AI trade, rate-cut doubts](https://biztoc.com/x/3431d5891aa209ff) (Published: 2025-11-18)
+- [Google’s Gemini 3 is finally here. Can it power Alphabet’s stock even higher?](https://biztoc.com/x/99d42cf78d7f8814) (Published: 2025-11-18)
+- [Market slide frays investors' nerves with AI trade, rate-cut doubts](https://biztoc.com/x/3431d5891aa209ff) (Published: 2025-11-18)
+- [Brazilian retailers Magazine Luiza, Americanas announce e-commerce partnership](https://biztoc.com/x/edb64bdfdf18a071) (Published: 2025-11-18)
+- [Only US Lawmaker at COP30 Tells Nations to Stand Up to Trump](https://biztoc.com/x/efbdcd087526070a) (Published: 2025-11-18)
+- [Team's patience running out on Bills receiver Keon Coleman after third benching in two years](https://biztoc.com/x/2a987ba157fbf2cf) (Published: 2025-11-18)
+- [Are We in an AI Stock Bubble or Something Different? Money Pros Weigh In](https://biztoc.com/x/2e7347aef77cacc5) (Published: 2025-11-18)
+- [Live: ASX to keep falling, as Wall St extends tech sell-off on AI valuation fears](https://www.abc.net.au/news/2025-11-19/asx-markets-business-live-news/106025882) (Published: 2025-11-18)
 - [WestJet Airlines CEO sees progress on Boeing 737 MAX 10 certification, rolls out non-US routes](https://biztoc.com/x/7fa58866c66c74f5) (Published: 2025-11-18)
-- [Uruguay Cuts Key Rate to 8%, Flags More Easing Ahead](https://biztoc.com/x/04aebb4ffcfc9d2e) (Published: 2025-11-18)
-- [Microsoft and NVIDIA expand AI partnership](https://biztoc.com/x/f8d9b30e4a13a04b) (Published: 2025-11-18)
-- [The Fed Is Trying to Help Bank Liquidity. Banks Would Rather Keep It Quiet](https://biztoc.com/x/ec9018da8a63c0f7) (Published: 2025-11-18)
-- [UK’s Reeves to increase spending on benefits in next week’s budget, Telegraph reports](https://biztoc.com/x/5e791b482fa3d4ec) (Published: 2025-11-18)
-- [Nvidia, Microsoft invest $26 billion in AI startup Anthropic](https://www.nzherald.co.nz/business/nvidia-microsoft-invest-26-billion-in-ai-startup-anthropic/TT7OV5XHGZCCRNJ56VX4DATKWE/) (Published: 2025-11-18)
-- [Nvidia, Microsoft invest $15 billion in AI startup Anthropic](https://www.digitaljournal.com/world/nvidia-microsoft-invest-15-billion-in-ai-startup-anthropic/article) (Published: 2025-11-18)
-- [US Faces Winter Blackout Risks from Data Centers’ Power Needs](https://biztoc.com/x/ff96a413b8b44c1c) (Published: 2025-11-18)
-- [Universal Faces EU Warning Over $775 Million Downtown Deal](https://biztoc.com/x/4906f6299522474b) (Published: 2025-11-18)
-- [Nvidia and Microsoft Pledge Up to $15 Billion to Anthropic](https://www.pymnts.com/artificial-intelligence-2/2025/nvidia-and-microsoft-pledge-up-to-15-billion-to-anthropic/) (Published: 2025-11-18)
