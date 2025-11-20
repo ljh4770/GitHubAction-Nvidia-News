@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-20 04:11:53**_
+_Last updated: **2025-11-20 04:36:39**_
 
+- [Nvidia's Q3 Countdown: Crypto Punters Anticipate AI Darling to Surpass Earnings Forecast, Bet These Will Be Key Themes During The Call](https://biztoc.com/x/429dcd9ab07abb8e) (Published: 2025-11-19)
+- [megatron-fsdp 0.2.0.dev101858](https://pypi.org/project/megatron-fsdp/0.2.0.dev101858/) (Published: 2025-11-19)
+- [Fonterra CEO Expects Some Dairy Farmers to Enjoy Capital Return](https://biztoc.com/x/a178e0bbf93d68b5) (Published: 2025-11-19)
+- [Musk’s xAI in advanced talks to raise $15 billion, lifting valuation to $230 billion, WSJ reports](https://biztoc.com/x/d5ab203663878908) (Published: 2025-11-19)
+- [Foreigners Turn Net Sellers of Indonesian Bonds on Fiscal Fears](https://biztoc.com/x/5f939e0d079e22c8) (Published: 2025-11-19)
+- [Chile's SQM quarterly profit rises as lithium prices rebound](https://biztoc.com/x/0bddaef2c7384c51) (Published: 2025-11-19)
+- [Poland scrambles jets after Russian strikes on Ukraine, Polish armed forces say](https://biztoc.com/x/0f88888740ef753f) (Published: 2025-11-19)
 - [Japan 20-Year Bond Sale Has Demand In Line With 12-Month Average](https://biztoc.com/x/7d5cbac9e779a334) (Published: 2025-11-19)
 - [Vietnam’s Gene Solutions seeks $100 million from pre-IPO and 2026 listing](https://biztoc.com/x/005cecc4e92e4bb1) (Published: 2025-11-19)
-- [Trump attacks ABC reporter after question about killing of Saudi journalist Khashoggi](https://biztoc.com/x/cf1023834375373a) (Published: 2025-11-19)
-- [Worried about an AI stock bubble? That might be good news for Nifty bulls](https://economictimes.indiatimes.com/markets/stocks/news/worried-about-an-ai-stock-bubble-that-might-be-good-news-for-nifty-bulls/articleshow/125426521.cms) (Published: 2025-11-19)
-- [NVIDIA Jetson T5000-based Firefly EC-ThorT5000 industrial PC features 8x GMSL2 camera interfaces, 4x 10GbE RJ45 ports](https://www.cnx-software.com/2025/11/19/nvidia-jetson-t5000-based-firefly-ec-thort5000-industrial-pc-features-8x-gmsl2-camera-interfaces-4x-10gbe-rj45-ports/) (Published: 2025-11-19)
-- [Lithium Supplier SQM Posts Highest Earnings Since 2023](https://biztoc.com/x/df5b2dab3e173676) (Published: 2025-11-19)
-- [GIC, Franklin Templeton Keep the Faith on Dollar Dominance](https://biztoc.com/x/eb9cc15e4e34b005) (Published: 2025-11-19)
-- [US confirms sale of $700 mln air defence missile system to Taiwan](https://biztoc.com/x/52314c4f6d1de719) (Published: 2025-11-19)
-- [Trump dismisses US intel linking Saudi crown prince to Khashoggi murder](https://www.thehindubusinessline.com/news/world/trump-dismisses-us-intel-linking-saudi-crown-prince-to-khashoggi-murder/article70297410.ece) (Published: 2025-11-19)
-- [Video: Elon Musk attends Trump's dinner with Saudi crown prince, signalling potential reconciliation after public feud](https://economictimes.indiatimes.com/news/international/global-trends/video-elon-musk-attends-trumps-dinner-with-saudi-crown-prince-signalling-potential-reconciliation-after-public-feud/articleshow/125426001.cms) (Published: 2025-11-19)
