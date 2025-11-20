@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-20 17:30:22**_
+_Last updated: **2025-11-20 17:43:59**_
 
-- [Can Nvidia justify its $500B chip order bonanza?](https://rollingout.com/2025/11/19/can-nvidia-its-500b-chip-order-bonanza/) (Published: 2025-11-19)
-- [Elon Musk announces massive xAI data center in Saudi Arabia](https://www.nbcnews.com/tech/tech-news/elon-musk-announces-massive-xai-data-center-saudi-arabia-x-rcna244804) (Published: 2025-11-19)
-- [Luma AI Raises $900 Million Series C Led by HUMAIN And Partners on 2 Gigawatt AI Supercluster in Saudi Arabia](https://financialpost.com/pmn/business-wire-news-releases-pmn/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia) (Published: 2025-11-19)
-- [Have Donald Trump's Half-Understood AI And Crypto Fantasies Made Us All Rich Yet, And Why Not?](https://www.wonkette.com/p/have-donald-trumps-half-understood) (Published: 2025-11-19)
-- [Who is Catherine Lucey, whom Trump called “piggy,” and what does she do?](https://economictimes.indiatimes.com/news/international/us/who-is-catherine-lucey-whom-trump-called-piggy-and-what-does-she-do/articleshow/125441426.cms) (Published: 2025-11-19)
-- [A Highly Correlated Earnings Day](https://biztoc.com/x/8b480de1cf39bd87) (Published: 2025-11-19)
-- [3 Best Performing AI Stocks In the Nasdaq Composite](https://biztoc.com/x/0da6ffe1d2a29abd) (Published: 2025-11-19)
-- [Wall Street Loves Nvidia Heading into Earnings](https://biztoc.com/x/59b6269003b509a9) (Published: 2025-11-19)
-- [Tech Stocks Have Had It Tough. Why Investors Shouldn’t Get Too Defensive Just Yet](https://biztoc.com/x/726cd59d91974879) (Published: 2025-11-19)
-- [Elon Musk says xAI plans to develop a 500 megawatt data center in Saudi Arabia with state-backed AI startup Humain; the data center will rely on Nvidia chips](https://biztoc.com/x/ca24edebb593e919) (Published: 2025-11-19)
+- [AMD, Cisco and Saudi's Humain launch AI joint venture, land first major customer](https://www.livemint.com/companies/news/amd-cisco-and-saudis-humain-launch-ai-joint-venture-land-first-major-customer-11763571392886.html) (Published: 2025-11-19)
+- [Nvidia earnings run into a market suddenly afraid of AI spending](https://economictimes.indiatimes.com/news/international/business/nvidia-earnings-run-into-a-market-suddenly-afraid-of-ai-spending/articleshow/125443592.cms) (Published: 2025-11-19)
+- [Wall Street Loves Nvidia Heading into Earnings](https://biztoc.com/x/d9a4700e4c00ed1f) (Published: 2025-11-19)
+- [Musk's xAI Plans 500 Megawatt Data Center in Saudi Arabia](https://biztoc.com/x/f74033706a39606b) (Published: 2025-11-19)
+- [Michael Burry drops new AI bubble warning, and this time it comes with a Lord of the Rings meme](https://economictimes.indiatimes.com/news/international/us/michael-burry-drops-new-ai-bubble-warning-and-this-time-it-comes-with-a-lord-of-the-rings-meme/articleshow/125441505.cms) (Published: 2025-11-19)
+- [Why big pharma is teaming up with AI giants to speed up drug discovery and make work easier for health care workers](https://fortune.com/2025/11/19/why-big-pharma-is-teaming-up-with-ai-giants-to-speed-up-drug-discovery-and-make-work-easier-for-health-care-workers/) (Published: 2025-11-19)
+- [Best Streaming Device for 2025: Top Picks Reviewed](https://www.cnet.com/tech/home-entertainment/best-streaming-device-sem/) (Published: 2025-11-19)
+- [Before you buy Nvidia, here’s what one expert wants you to know](https://finance.yahoo.com/personal-finance/investing/article/before-you-buy-nvidia-heres-what-one-expert-wants-you-to-know-173538043.html) (Published: 2025-11-19)
+- [Nvidia isn't the only stock to watch. Why experts say you should consider buying others just like it.](https://finance.yahoo.com/personal-finance/investing/article/nvidia-isnt-the-only-stock-to-watch-why-experts-say-you-should-consider-buying-others-just-like-it-173538962.html) (Published: 2025-11-19)
