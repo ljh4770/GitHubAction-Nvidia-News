@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-20 16:29:03**_
+_Last updated: **2025-11-20 16:52:22**_
 
-- [AMD, Cisco and Saudi's Humain launch AI joint venture, land first major customer](https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-cisco-and-saudis-humain-launch-ai-joint-venture-land-first-major-customer/articleshow/125441849.cms) (Published: 2025-11-19)
-- [Memory Prices Could Double by 2026, Potentially Driving Phone Costs Even Higher](https://www.androidheadlines.com/2025/11/memory-ram-prices-double-2026-higher-phone-prices.html) (Published: 2025-11-19)
-- [Exclusive-AMD, Cisco and Saudi's Humain launch AI joint venture, land first major customer](https://finance.yahoo.com/news/exclusive-amd-cisco-saudis-humain-162146934.html) (Published: 2025-11-19)
-- [Exclusive-AMD, Cisco and Saudi's Humain launch AI joint venture, land first major customer](https://www.channelnewsasia.com/business/exclusive-amd-cisco-and-saudis-humain-launch-ai-joint-venture-land-first-major-customer-5477836) (Published: 2025-11-19)
-- [Musk: xAI, Nvidia join forces on Saudi 500 megawatt project](https://biztoc.com/x/504beaba67d7279b) (Published: 2025-11-19)
-- [Watch Live: CEO Huang Speaks at U.S.-Saudi Investment Forum](https://biztoc.com/x/ac88c7aa4a151f86) (Published: 2025-11-19)
-- [Move over Harvard and MIT—this university might be winning the AI race, and you’ve probably never heard of it](https://www.yahoo.com/news/articles/move-over-harvard-mit-university-162000901.html) (Published: 2025-11-19)
-- [Move over Harvard and MIT—this university might be winning the AI race, and you’ve probably never heard of it](https://fortune.com/2025/11/19/us-china-ai-race-higher-education-tsinghua-university-outpacing-ivy-league-mit-harvard-stanford/) (Published: 2025-11-19)
-- [Stock Market Today: Nasdaq, S&P 500 Tip to Upside As Investors Await Nvidia Earnings](https://www.thestreet.com/latest-news/stock-market-today-nasdaq-sp-500-futures-turn-to-upside-as-nvidia-earnings-loom) (Published: 2025-11-19)
-- [Large Language Models (LLM) Competitive Landscape Report 2025: Evaluation of OpenAI, Google, Microsoft, Amazon, Anthropic, IBM, Meta, Cohere and Others](https://www.globenewswire.com/news-release/2025/11/19/3191231/28124/en/Large-Language-Models-LLM-Competitive-Landscape-Report-2025-Evaluation-of-OpenAI-Google-Microsoft-Amazon-Anthropic-IBM-Meta-Cohere-and-Others.html) (Published: 2025-11-19)
+- [What’s up with… Deutsche Telekom, Iliad, Orange & Ericsson](https://www.telecomtv.com/content/telcos-and-ai-channel/what-s-up-with-deutsche-telekom-iliad-orange-ericsson-54332/) (Published: 2025-11-19)
+- [xAI partners with Saudi Arabia and NVIDIA on 500-megawatt AI project](https://cryptobriefing.com/xai-saudi-arabia-nvidia-500mw-ai-partnership/) (Published: 2025-11-19)
+- [Europe closes mixed with inflation, Nvidia in focus](https://biztoc.com/x/c71ea5ab9f9e2685) (Published: 2025-11-19)
+- [Brookfield, Nvidia Launch $100 Billion AI Infrastructure Push](https://biztoc.com/x/db300774407dea53) (Published: 2025-11-19)
+- [Pricier Smartphones, Laptops, and Other Gadgets in 2026? Blame Nvidia](https://uk.pcmag.com/components/161377/pricier-smartphones-laptops-and-other-gadgets-in-2026-blame-nvidia) (Published: 2025-11-19)
+- [Pricier Smartphones, Laptops, and Other Gadgets in 2026? Blame Nvidia](https://me.pcmag.com/en/components/33560/pricier-smartphones-laptops-and-other-gadgets-in-2026-blame-nvidia) (Published: 2025-11-19)
+- [Advanced computing takes on new role in rescuing forest diversity](https://siliconangle.com/2025/11/19/supermicro-endangered-species-sc25/) (Published: 2025-11-19)
+- [Stock Market Today: Nasdaq, S&P 500 Tip to Upside As Investors Await Nvidia Earnings](https://biztoc.com/x/7827a7ac3a501589) (Published: 2025-11-19)
+- [Move over Harvard and MIT—this university might be winning the AI race, and you’ve probably never heard of it](https://biztoc.com/x/aeb23a9c86b81edd) (Published: 2025-11-19)
