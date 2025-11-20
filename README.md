@@ -1,13 +1,11 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-20 01:57:22**_
+_Last updated: **2025-11-20 03:14:10**_
 
-- [Trump Lovingly Pats Elon Musk on Stomach During Dinner at White House](https://gizmodo.com/trump-pats-musk-2000687821) (Published: 2025-11-19)
-- [Elon Musk attends Trump's dinner with Saudi crown prince](https://www.yahoo.com/news/articles/elon-musk-attends-trumps-dinner-015213485.html) (Published: 2025-11-19)
-- [Ronaldo, Musk among special guests at dinner with Trump and Saudi crown prince](https://www.abc.net.au/news/2025-11-19/cristiano-ronaldo-elon-musk-attend-white-house-dinner-with-trump/106026916) (Published: 2025-11-19)
-- [Ronaldo attends White House dinner with Trump and Saudi crown prince](https://www.abc.net.au/news/2025-11-19/cristiano-ronaldo-attends-white-house-dinner-with-trump/106026916) (Published: 2025-11-19)
-- [Nvidia, Home Depot, Cloudflare, Plug Power And Amazon: Why These 5 Stocks Are On Investors' Radars Today](https://biztoc.com/x/70b5d145fe90063e) (Published: 2025-11-19)
-- [nemo-evaluator 0.1.32](https://pypi.org/project/nemo-evaluator/0.1.32/) (Published: 2025-11-19)
-- [US market slide frays investors' nerves with AI trade, rate-cut doubts](https://economictimes.indiatimes.com/markets/stocks/news/market-slide-frays-investors-nerves-with-ai-trade-rate-cut-doubts/articleshow/125424665.cms) (Published: 2025-11-19)
-- [Germany hopes new data centre can help bring ‘digital sovereignty’](https://www.digitaljournal.com/world/germany-hopes-new-data-centre-can-help-bring-digital-sovereignty/article) (Published: 2025-11-19)
-- [CNBC Daily Open: The flow of money in AI appears one-way at this point](https://biztoc.com/x/1097dcb92e580e95) (Published: 2025-11-19)
-- [Review & Preview: Risky Business](https://biztoc.com/x/5658b6f8b05a4e85) (Published: 2025-11-19)
+- ['AI industry is in a bubble' warns Google DeepMind co-founder](https://newatlas.com/ai-humanoids/ai-bubble-google-deepmind/) (Published: 2025-11-19)
+- [Who attended Trump's dinner for the Saudi Crown Prince?](https://economictimes.indiatimes.com/news/international/global-trends/who-attended-trumps-dinner-for-the-saudi-crown-prince/articleshow/125425770.cms) (Published: 2025-11-19)
+- [Kubernetes Cluster Goes Mobile in Pet Carrier](https://hackaday.com/2025/11/18/kubernetes-cluster-goes-mobile-in-pet-carrier/) (Published: 2025-11-19)
+- [Asian markets bounce as Nvidia takes centre stage amid AI bubble fears](https://www.digitaljournal.com/world/asian-markets-bounce-as-nvidia-takes-centre-stage-amid-ai-bubble-fears/article) (Published: 2025-11-19)
+- [Microsoft, Nvidia to invest up to US$15 billion in Anthropic in AI deal](https://biztoc.com/x/1ef48a16f804186e) (Published: 2025-11-19)
+- [Elon Musk, Jensen Huang to talk AI at US-Saudi investment forum](https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-jensen-huang-to-talk-ai-at-us-saudi-investment-forum/articleshow/125425583.cms) (Published: 2025-11-19)
+- [Takeaways from Trump's White House meeting with Saudi crown prince: deals and bromance](https://abcnews.go.com/US/wireStory/takeaways-trumps-white-house-meeting-saudi-crown-prince-127648382) (Published: 2025-11-19)
+- [Asia markets wobble toward Nvidia earnings test](https://biztoc.com/x/53c886ab44f8ebd9) (Published: 2025-11-19)
