@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-20 21:41:45**_
+_Last updated: **2025-11-20 21:52:14**_
 
-- [S&P 500, Dow Jones and NASDAQ move upwards as Wall Street swings through another unsettled day ahead of Nvidia’s profit report; WeShop Holdings gains nearly 450%, check top gainers and losers](https://economictimes.indiatimes.com/news/international/us/sp-500-dow-jones-and-nasdaq-move-upwards-as-wall-street-swings-through-another-unsettled-day-ahead-of-nvidias-profit-report-weshop-holdings-gains-nearly-450-check-top-gainers-and-losers/articleshow/125447671.cms) (Published: 2025-11-19)
-- [S&P 500 Snaps Four-Day Losing Streak Ahead of Nvidia Earnings | Closing Bell](https://biztoc.com/x/2994054fc90aab67) (Published: 2025-11-19)
-- [Nvidia Earnings Beat, Strong Outlook Calm Jittery Markets; Bitcoin Re-Takes $90K](https://www.coindesk.com/markets/2025/11/19/nvidia-earnings-beat-strong-outlook-calms-jittery-markets-bitcoin-re-takes-usd90k) (Published: 2025-11-19)
-- [Nvidia beats earnings expectations, even as bubble concerns mount](https://biztoc.com/x/0cda75228f39c21c) (Published: 2025-11-19)
-- [Nvidia jumps after earnings beat and helps Bitcoin reclaim $90,000](https://cryptobriefing.com/nvidia-earnings-beat-bitcoin/) (Published: 2025-11-19)
-- [Crypto World Wipes Out $1 Trillion as Bitcoin Plunges Anew](https://biztoc.com/x/7a3bb9bf87081e5e) (Published: 2025-11-19)
-- [Q3 Earnings Coverage](https://biztoc.com/x/9b3e91c290ecd539) (Published: 2025-11-19)
-- [Nvidia forecasts fourth-quarter revenue above Wall Street estimates](https://biztoc.com/x/3c61f002b93a6ace) (Published: 2025-11-19)
-- [Saudi Crown Prince Leaves DC With Trump Promises of F-35s, AI Chips](https://biztoc.com/x/891c4cbc761fc642) (Published: 2025-11-19)
+- [Breaking Through RL Training Limits with Scaling Rollouts in BroRL](https://developer.nvidia.com/blog/breaking-through-rl-training-limits-with-scaling-rollouts-in-brorl/) (Published: 2025-11-19)
+- [AI chip giant Nvidia reports record US$57 billion quarterly revenue](https://www.nzherald.co.nz/business/companies/ai-chip-giant-nvidia-reports-record-us57-billion-quarterly-revenue/YZPC5CWK5ZEBDHHJ2XPD5QV4AI/) (Published: 2025-11-19)
+- [Nvidia blows past revenue targets and forecasts continued strong demand for AI chips](https://fortune.com/2025/11/19/nvidia-blows-past-revenue-targets-and-forecasts-continued-strong-demand-for-ai-chips/) (Published: 2025-11-19)
+- [Nvidia shares rise on stronger-than-expected revenue, forecast](https://biztoc.com/x/b72568d8bba5d47f) (Published: 2025-11-19)
+- [Fed’s October Rate Decision Fueled Pushback Over Possible December Cut](https://biztoc.com/x/f088449c917157fd) (Published: 2025-11-19)
+- [Netflix, ESPN and NBCUniversal Partner With MLB as Sports Streaming Competition Heats Up](https://biztoc.com/x/52f9f6bc9cfaf3b0) (Published: 2025-11-19)
+- [Cracks are appearing in OpenAI’s dominant facade](https://biztoc.com/x/c830ec64e3511d95) (Published: 2025-11-19)
+- [Nvidia CEO Says AI Chip Sales Are ‘Off the Charts’](https://biztoc.com/x/457fe5ebfb540158) (Published: 2025-11-19)
+- ["GPUs Are Sold Out": Nvidia Soars After Blowing Away Results, Projections](https://biztoc.com/x/076017d897f860d2) (Published: 2025-11-19)
+- [Nvidia reports strong growth from bumper AI chip sales](https://biztoc.com/x/593894f32c1691fe) (Published: 2025-11-19)
