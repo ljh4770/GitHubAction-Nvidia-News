@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-20 21:31:37**_
+_Last updated: **2025-11-20 21:41:45**_
 
-- [Nvidia beats earnings expectations, even as bubble concerns mount | CNN Business](https://www.cnn.com/2025/11/19/tech/nvidia-earnings-ai-bubble-fears) (Published: 2025-11-19)
-- [Nvidia reports Q3 revenue up 62% YoY to $57.01B, vs. $54.92B est., Data Center revenue up 66% to $51.2B, and net income up 65% to $31.9B (Kif Leswing/CNBC)](https://www.techmeme.com/251119/p51) (Published: 2025-11-19)
-- [Nvidia beats earnings expectations, even as bubble concerns mount](https://biztoc.com/x/a50ecf3b853750ef) (Published: 2025-11-19)
-- [AWS expands deal with Saudi AI firm Humain to deploy Nvidia, Trainium chips (AMZN:NASDAQ)](https://biztoc.com/x/2788895e4886cd59) (Published: 2025-11-19)
-- [Elliott Management Is Betting Big on This Dividend-Paying Gold Stock. Should You Buy Shares Now?](https://biztoc.com/x/1e05c62cbcf197d5) (Published: 2025-11-19)
-- [Palo Alto to buy Chronosphere for $3.35 billion](https://biztoc.com/x/d8f9d1c38e06c1be) (Published: 2025-11-19)
-- [Fire erupts at Petrocedeno crude upgrader in Venezuela -source, media](https://biztoc.com/x/38db90a38965c6a4) (Published: 2025-11-19)
-- [The US, the UK, and Australia sanction Russian bulletproof hosting provider Media Land, which provided services to cybercrime marketplaces and ransomware groups](https://biztoc.com/x/cfa239cd9cc2f800) (Published: 2025-11-19)
-- [Nvidia's Q3 revenue up 62% to $57 billion](https://biztoc.com/x/02d58b6fe484c4ee) (Published: 2025-11-19)
-- [Microsoft, Oracle, and 13 Stocks That Are Unfairly Beaten Down—and Look Like Buys](https://biztoc.com/x/b7648e4e21411681) (Published: 2025-11-19)
+- [S&P 500, Dow Jones and NASDAQ move upwards as Wall Street swings through another unsettled day ahead of Nvidia’s profit report; WeShop Holdings gains nearly 450%, check top gainers and losers](https://economictimes.indiatimes.com/news/international/us/sp-500-dow-jones-and-nasdaq-move-upwards-as-wall-street-swings-through-another-unsettled-day-ahead-of-nvidias-profit-report-weshop-holdings-gains-nearly-450-check-top-gainers-and-losers/articleshow/125447671.cms) (Published: 2025-11-19)
+- [S&P 500 Snaps Four-Day Losing Streak Ahead of Nvidia Earnings | Closing Bell](https://biztoc.com/x/2994054fc90aab67) (Published: 2025-11-19)
+- [Nvidia Earnings Beat, Strong Outlook Calm Jittery Markets; Bitcoin Re-Takes $90K](https://www.coindesk.com/markets/2025/11/19/nvidia-earnings-beat-strong-outlook-calms-jittery-markets-bitcoin-re-takes-usd90k) (Published: 2025-11-19)
+- [Nvidia beats earnings expectations, even as bubble concerns mount](https://biztoc.com/x/0cda75228f39c21c) (Published: 2025-11-19)
+- [Nvidia jumps after earnings beat and helps Bitcoin reclaim $90,000](https://cryptobriefing.com/nvidia-earnings-beat-bitcoin/) (Published: 2025-11-19)
+- [Crypto World Wipes Out $1 Trillion as Bitcoin Plunges Anew](https://biztoc.com/x/7a3bb9bf87081e5e) (Published: 2025-11-19)
+- [Q3 Earnings Coverage](https://biztoc.com/x/9b3e91c290ecd539) (Published: 2025-11-19)
+- [Nvidia forecasts fourth-quarter revenue above Wall Street estimates](https://biztoc.com/x/3c61f002b93a6ace) (Published: 2025-11-19)
+- [Saudi Crown Prince Leaves DC With Trump Promises of F-35s, AI Chips](https://biztoc.com/x/891c4cbc761fc642) (Published: 2025-11-19)
