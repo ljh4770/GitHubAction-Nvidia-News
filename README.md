@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-20 18:51:31**_
+_Last updated: **2025-11-20 19:08:53**_
 
-- [Nvidia earnings will shed a light on whether Big Tech is fueling an AI boom or bubble](https://biztoc.com/x/a121ad686857772b) (Published: 2025-11-19)
-- [Gemini 3 Pushes Google Stock to New All-Time Highs. Is It Too Late to Buy GOOGL Here?](https://biztoc.com/x/611f26edfa9124d2) (Published: 2025-11-19)
-- [Brazil judge flags BRB role in Banco Master fraud; losses may top $1.9 bln](https://biztoc.com/x/2a40ac38377ab993) (Published: 2025-11-19)
-- [AMD Is Chasing A $1 Trillion AI Market Opportunity: Will The Chip Stock Survive Nvidia's Earnings Tonight?](https://biztoc.com/x/32500c83ab979a01) (Published: 2025-11-19)
-- [OpenAI announces ChatGPT for Teachers, designed for K-12 educators and school districts, and says it will be free to K-12 educators in the US through June 2027](https://biztoc.com/x/bac243a3771be86e) (Published: 2025-11-19)
-- [Moderna Will Talk to Analysts on Thursday. It Needs to Stop Burning Through Cash](https://biztoc.com/x/999ef196647d11d8) (Published: 2025-11-19)
-- [AWS and HUMAIN Expand Partnership with NVIDIA AI Infrastructure and AWS AI Chip Deal to Drive Global AI Innovation](https://financialpost.com/pmn/business-wire-news-releases-pmn/aws-and-humain-expand-partnership-with-nvidia-ai-infrastructure-and-aws-ai-chip-deal-to-drive-global-ai-innovation) (Published: 2025-11-19)
-- [Nvidia earnings will shed a light on whether Big Tech is fueling an AI boom or bubble](https://www.ocregister.com/2025/11/19/nvidia-results-ai-pulse-check/) (Published: 2025-11-19)
-- [Nvidia earnings will shed a light on whether Big Tech is fueling an AI boom or bubble](https://www.bostonherald.com/2025/11/19/nvidia-results-ai-pulse-check/) (Published: 2025-11-19)
-- [DoorDash Stock Can Deliver. Why This Analyst Says Now Is the Time to Buy](https://biztoc.com/x/78cb17d9dbcf0f29) (Published: 2025-11-19)
+- [Olivia Nuzzi back in the spotlight — and once again, it’s for all the wrong reasons](https://economictimes.indiatimes.com/news/international/us/olivia-nuzzi-back-in-the-spotlight-and-once-again-its-for-all-the-wrong-reasons/articleshow/125443185.cms) (Published: 2025-11-19)
+- [Don’t Let America Lose the AI Race the Way It Lost 5G](https://dailycaller.com/2025/11/19/dont-let-america-lose-the-ai-race-the-way-it-lost-5g/) (Published: 2025-11-19)
+- [Livestream with Herbert – XAI $25B Saudi Deal and 2030 Space AI Plans](https://www.nextbigfuture.com/2025/11/livestream-with-herbert-xai-25b-saudi-deal-and-2030-space-ai-plans.html) (Published: 2025-11-19)
+- [Live: Complete NVIDIA (NVDA) Q3 Earnings Coverage](https://biztoc.com/x/000883e169d657d6) (Published: 2025-11-19)
+- [Beyoncé’s Business Empire Loses Ex-Goldman Banker](https://biztoc.com/x/0f3ea0b2325af4ab) (Published: 2025-11-19)
+- [Nvidia and Walmart Could Ease Wall St.’s Jitters. Or Make Them Worse](https://biztoc.com/x/fd20126cc1fe24c8) (Published: 2025-11-19)
+- [Abbott Nears Deal for Cancer Test Maker Exact Sciences](https://biztoc.com/x/afd76bab17d102a6) (Published: 2025-11-19)
+- [BLS says full October jobs data won't be released, available figures to be included in next report](https://biztoc.com/x/fe12eede3eca28f7) (Published: 2025-11-19)
+- [Canada Tracking to Be Second Biggest Treasury Buyer](https://biztoc.com/x/2f323e0dd17c8acf) (Published: 2025-11-19)
