@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-21 15:52:47**_
+_Last updated: **2025-11-21 16:17:48**_
 
-- [Wall Street Still Loves Nvidia After Incredible Earnings Report](https://biztoc.com/x/a89b99b8f31884a9) (Published: 2025-11-20)
-- [SoftBank to invest $3 billion in Ohio factory for OpenAI data center, The Information reports](https://www.channelnewsasia.com/business/softbank-invest-3-billion-in-ohio-factory-openai-data-center-information-reports-5480581) (Published: 2025-11-20)
-- [Stock Market Live November 20: S&P 500 (VOO) Surges on Strong Jobs, Nvidia Reports](https://biztoc.com/x/26eb2a0a6018b8b5) (Published: 2025-11-20)
-- [Mexico’s central bank sees economic weakness helping lower inflation](https://biztoc.com/x/9a554b6607c5f284) (Published: 2025-11-20)
-- [Stocks rally after blockbuster Nvidia earnings, jobs report](https://abcnews.go.com/Business/stocks-rally-after-blockbuster-nvidia-earnings-jobs-report/story?id=127709323) (Published: 2025-11-20)
-- [Wall Street shoots toward its best day since May on Nvidia’s profit report and hopes for lower rates](https://indianexpress.com/article/world/nvidia-stock-wall-street-shoots-toward-its-best-day-since-may-10376922/) (Published: 2025-11-20)
-- [Tipping point or bubble? Nvidia CEO sees AI transformation while skeptics count the risks - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=180155013) (Published: 2025-11-20)
-- [Nvidia's Big Earnings And Tariff Pause Rumors Lift Semiconductor Stocks](https://biztoc.com/x/997c35dcf36c2098) (Published: 2025-11-20)
-- [Ahead of Market: 10 things that will decide stock market action on Friday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/125466221.cms) (Published: 2025-11-20)
+- [U.S. stocks rise on a wave of fresh optimism led by Nvidia and Walmart](https://www.nbcnews.com/business/business-news/stock-market-nvidia-walmart-jobs-rcna244960) (Published: 2025-11-20)
+- [Fed’s Cook Keeping Close Eye on Private Credit, Asset Valuations](https://biztoc.com/x/b8d27a36ff381c0b) (Published: 2025-11-20)
+- [Why Did Nvidia Stock Soar Today?](https://biztoc.com/x/16694f6262d5eaa7) (Published: 2025-11-20)
+- [Lukoil’s Iraqi Oil Keeps Flowing as Baghdad Takes Over Sales](https://biztoc.com/x/eee88371337350ac) (Published: 2025-11-20)
+- [Kraken’s IPO Play: Why the Crypto Exchange Is Racing Toward the Public Markets](https://biztoc.com/x/dae3a8ea81a83644) (Published: 2025-11-20)
+- [Michael Burry Says Nvidia Spent $112.5 Billion On Buybacks Adding 'Zero' Shareholder Value — 'The True Cost...'](https://biztoc.com/x/de1381665fc98734) (Published: 2025-11-20)
+- [Fed’s Hammack calls jobs report ’stale,’ emphasizes inflation concerns](https://biztoc.com/x/d110ff1557eeb621) (Published: 2025-11-20)
+- [India Is in an IPO Frenzy Again. Wait Until It Cools](https://biztoc.com/x/6577de87b822f4be) (Published: 2025-11-20)
+- [Virginia Tech preaches alignment as James Franklin is introduced as football coach](https://biztoc.com/x/165798297608cb92) (Published: 2025-11-20)
+- [Wall Street rallies on AI and interest rate hopes](https://biztoc.com/x/68050edc38c26031) (Published: 2025-11-20)
