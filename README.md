@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-21 04:57:25**_
+_Last updated: **2025-11-21 05:25:58**_
 
-- [Nvidia CEO Jensen Huang Explains Why the Massive AI Spending Wave Actually Makes Perfect Sense: '... All Of It Justified'](https://biztoc.com/x/f273cb03294a86b5) (Published: 2025-11-20)
-- [Japan Nuclear Watchdog Flags Document Mishandling at Tepco Plant](https://biztoc.com/x/9ad455ebdd1869b9) (Published: 2025-11-20)
-- [Big swings keep rocking Wall Street as US stocks drop sharply after erasing a morning surge](https://finance.yahoo.com/news/asian-shares-surge-nvidias-strong-044158428.html) (Published: 2025-11-20)
-- [Nvidia’s AI Tipping Point: Boom or Bubble?](https://m.economictimes.com/markets/stocks/news/nvidias-ai-tipping-point-boom-or-bubble/no-ai-bubble-says-jensen-huang/slideshow/125453343.cms) (Published: 2025-11-20)
-- [Metals Climb as China Weighs New Stimulus for Property Sector](https://biztoc.com/x/51b9993af3655ae7) (Published: 2025-11-20)
-- [Google opens an AI infrastructure hardware engineering hub in Taipei, its biggest outside of the US, to develop and test tech to be deployed in its data centers](https://biztoc.com/x/ac0aab4645c2600f) (Published: 2025-11-20)
-- [Shale Oil’s Next Revolution Should Worry OPEC](https://biztoc.com/x/3379131d10031199) (Published: 2025-11-20)
-- [AI-Related Stocks Rally as Nvidia Sales Forecast Brings Relief - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=180151143) (Published: 2025-11-20)
-- [EU’s Top China Envoy Rues Uneasy Ties, Urges Reset With Beijing](https://biztoc.com/x/6aa4dfaa5d89c733) (Published: 2025-11-20)
+- [It's OK, Nvidia Says There's No AI Bubble](https://biztoc.com/x/8d0334ea57789b73) (Published: 2025-11-20)
+- [Analysis-AI borrowing binge prompts investors to back away from corporate bonds](https://biztoc.com/x/db1185985291ede3) (Published: 2025-11-20)
+- [Japan Bonds Slump as Bearish Bets Grow Ahead of Extra Budget](https://biztoc.com/x/663e4cbb4b5c03f6) (Published: 2025-11-20)
+- [Seoul Apartment Prices Regain Momentum Ahead of BOK Meeting](https://biztoc.com/x/1843b8945d29e2f0) (Published: 2025-11-20)
+- [Palm Oil Snaps Five-Day Rally on Weaker Soybean Oil, Dull Demand](https://biztoc.com/x/0a29008b4dd603e4) (Published: 2025-11-20)
+- [UK’s Gambling Firms Warn They’ll Push Tax Hikes Onto Customers](https://biztoc.com/x/a634578710e60ba7) (Published: 2025-11-20)
+- [Lebanon Open to Hear IMF on Law to Fix $80 Billion Financial Gap](https://biztoc.com/x/5885b3439c85893f) (Published: 2025-11-20)
+- [Nvidia blows bubble fears and expectations away](https://biztoc.com/x/18343881138e9c6f) (Published: 2025-11-20)
+- [World’s richest nations are pulling back from global development efforts, study show](https://biztoc.com/x/f93ac6c3fb7cb431) (Published: 2025-11-20)
+- [G42 Receives U.S. Approval for Advanced AI Chip Exports, Enabling Full-Scale Deployment of Trusted AI Infrastructure](https://www.globenewswire.com/news-release/2025/11/20/3191569/0/en/G42-Receives-U-S-Approval-for-Advanced-AI-Chip-Exports-Enabling-Full-Scale-Deployment-of-Trusted-AI-Infrastructure.html) (Published: 2025-11-20)
