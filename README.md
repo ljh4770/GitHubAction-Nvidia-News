@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-21 05:43:03**_
+_Last updated: **2025-11-21 05:53:17**_
 
+- [Wall Street says Nvidia's blockbuster earnings prove the AI boom is nowhere near its peak](https://www.businessinsider.com/nvidia-earnings-wall-street-analyst-blockbuster-q3-ai-boom-bubble-2025-11) (Published: 2025-11-20)
+- [Stocks soar as Nvidia earnings ease AI valuation fears, jobs data in view - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=180151471) (Published: 2025-11-20)
+- [megatron-fsdp 0.2.0.dev101753](https://pypi.org/project/megatron-fsdp/0.2.0.dev101753/) (Published: 2025-11-20)
+- [Nvidia reports 'off the charts' demand for AI chips](https://economictimes.indiatimes.com/tech/technology/nvidia-reports-off-the-charts-demand-for-ai-chips/articleshow/125454573.cms) (Published: 2025-11-20)
+- [Colombia's Petro releases bank records to counter US drug claims, sparking backlash over spending](https://biztoc.com/x/ce77532020289219) (Published: 2025-11-20)
+- [E-commerce company Allegro third-quarter earnings rise 17% at home](https://biztoc.com/x/fcff7ec606a40fde) (Published: 2025-11-20)
+- [AI doomsday? Not yet. Why Nvidia results are dragging the tech bulls back to work](https://economictimes.indiatimes.com/markets/stocks/news/ai-doomsday-not-yet-why-nvidia-results-are-dragging-the-tech-bulls-back-to-work/articleshow/125454542.cms) (Published: 2025-11-20)
+- [Nvidia's earnings attest to its leadership in the AI race. By the numbers](https://economictimes.indiatimes.com/tech/technology/nvidias-earnings-attest-to-its-leadership-in-the-ai-race-by-the-numbers/articleshow/125454523.cms) (Published: 2025-11-20)
 - [Iron Ore Shipments From Major Australian Port Hit October Record](https://biztoc.com/x/392bc4b821a07df7) (Published: 2025-11-20)
 - [US CDC says claims that vaccines do not cause autism are not evidence-based](https://biztoc.com/x/70fb8147fcfcda63) (Published: 2025-11-20)
-- [Morning Bid: US jobs test looms after Nvidia relief](https://biztoc.com/x/f10ec6876b44b1fb) (Published: 2025-11-20)
-- [NVIDIA Has Entered a “Virtuous Cycle of AI” as the Firm Sees Record Blackwell GPU Demand in Its Q3 Earnings; $500 Billion End-2026 Forecast Remains on Track](https://wccftech.com/nvidia-has-entered-the-virtuous-cycle-of-ai/) (Published: 2025-11-20)
-- [Bitcoin’s drawdown shouldn’t be blamed on US shutdown or AI: Analysts](https://cointelegraph.com/news/bitcoin-price-drawdown-us-government-ai-bubble-crypto-analyst) (Published: 2025-11-20)
-- [Israeli AI chip firm that seeks to rival Nvidia sets up Dublin office](https://www.independent.ie/business/technology/israeli-ai-chip-firm-that-seeks-to-rival-nvidia-sets-up-dublin-office/a750520140.html) (Published: 2025-11-20)
-- [Nvidia confirms that Windows 11's October update hurt gaming performance, releases a patch](https://www.xda-developers.com/nvidia-confirms-that-windows-11s-october-update-hurt-gaming-performance-releases-a-patch/) (Published: 2025-11-20)
-- [US clears $93 million sale of Javelin anti-tank system, Excalibur projectiles to India](https://biztoc.com/x/9f03793e90ea7ab1) (Published: 2025-11-20)
-- [Global Supply Chain Shocks to Cause Lasting Impacts, FedEx Says](https://biztoc.com/x/d27b74b29c8d9875) (Published: 2025-11-20)
-- [Xiaomi Ups 2025 EV Delivery Goal to 400,000 After Breaking Even](https://biztoc.com/x/beb42dbace0d2c3c) (Published: 2025-11-20)
