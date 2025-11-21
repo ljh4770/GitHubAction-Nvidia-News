@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-21 17:33:09**_
+_Last updated: **2025-11-21 17:45:16**_
 
-- [NVIDIA's GeForce NOW Fast Pass lets Chromebook users skip the line and game for longer](https://www.androidcentral.com/chromebooks-laptops/nvidias-geforce-now-fast-pass-lets-chromebook-users-skip-the-line-and-game-for-longer) (Published: 2025-11-20)
-- [Nvidia retraces post-earnings gains, stock down 2% as AI trade cools](https://cryptobriefing.com/nvidia-post-earnings-reversal/) (Published: 2025-11-20)
-- [Walmart CEO Doug McMillon’s Digital Strength Was His Restraint](https://biztoc.com/x/8d9a5e74457bd978) (Published: 2025-11-20)
-- [This Nursing Home Operator Has Been Embroiled in Drama. Why The Stock Is Up 54%](https://biztoc.com/x/1fce0b75e1d2d946) (Published: 2025-11-20)
-- [ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet](https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html) (Published: 2025-11-20)
-- [Sources: AI robotics startup Physical Intelligence raised $600M led by CapitalG at a $5.6B valuation, with participation from Jeff Bezos, Lux, Thrive, and more](https://biztoc.com/x/397c54e3017daf10) (Published: 2025-11-20)
-- [US stocks rally as Nvidia earnings ease AI bubble worries](https://biztoc.com/x/027441e35e335965) (Published: 2025-11-20)
-- [Wall Street Is Betting on Nuclear Energy, But Legendary Investor Peter Thiel Just Ditched This 1 Key Power Stock](https://biztoc.com/x/fe8f4d4f56286f19) (Published: 2025-11-20)
-- [EQT Said to Near €2 Billion Deal to Buy Desotec from Blackstone](https://biztoc.com/x/4a8ca4ffbd2eaadf) (Published: 2025-11-20)
+- [Taiwan Semiconductor, IBD Stock Of The Day, Gets Brief Lift From Key Customer Nvidia](https://www.investors.com/research/ibd-stock-of-the-day/tsm-stock-taiwan-semiconductor-tsmc-gets-nvidia-lift/) (Published: 2025-11-20)
+- [Nvidia reignites chip depreciation debate](https://biztoc.com/x/8114db446ccf9bbd) (Published: 2025-11-20)
+- [Gemini 3 refused to believe it was 2025, and hilarity ensued  | TechCrunch](https://techcrunch.com/2025/11/20/gemini-3-refused-to-believe-it-was-2025-and-hilarity-ensued/) (Published: 2025-11-20)
+- [Walmart bumps up outlook ahead of holidays, plans listing switch to Nasdaq](https://biztoc.com/x/6cafe87387c9dedb) (Published: 2025-11-20)
+- [Nvidia Stock Jumped on Staggering Growth and CEO Jensen Huang's Bullish Comments. Is the Stock a Buy?](https://biztoc.com/x/ee8e0a08ae11f5e9) (Published: 2025-11-20)
+- [The FCC votes along party lines to repeal a Biden-era cybersecurity rule aimed at preventing intrusions like Salt Typhoon, calling it an ineffective measure](https://biztoc.com/x/63212cfbb1cfff3b) (Published: 2025-11-20)
+- [Julian Harris: Boris Is Just the Medicine for Ailing Starmer](https://biztoc.com/x/ad7f4b66ed5dfe72) (Published: 2025-11-20)
+- [Now’s Your Chance to Buy Bullish at Its IPO Price. Think Twice](https://biztoc.com/x/f74e998610d4ad07) (Published: 2025-11-20)
+- [U.S. stocks have not blown an intraday gain like this since April — follow live](https://biztoc.com/x/8cc46f7c1025614c) (Published: 2025-11-20)
+- [AI borrowing binge prompts investors to back away from corporate bonds](https://biztoc.com/x/fc819581200d3d8d) (Published: 2025-11-20)
