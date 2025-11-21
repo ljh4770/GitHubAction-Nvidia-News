@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-21 08:59:37**_
+_Last updated: **2025-11-21 09:29:49**_
 
-- [Nifty all-time high within striking distance. Who's throwing bears out of the market?](https://economictimes.indiatimes.com/markets/stocks/news/nifty-all-time-high-within-striking-distance-whos-throwing-bears-out-the-market/articleshow/125458139.cms) (Published: 2025-11-20)
-- [Stock Market Today: S&P 500 Futures Rally After Nvidia Earnings; Jobs Report in Focus](https://biztoc.com/x/f73c0ad3034dd7f8) (Published: 2025-11-20)
-- [Infosys share buyback highlights India’s AI vacuum](https://www.livemint.com/opinion/online-views/indian-companies-ai-race-infosys-share-buyback-palantir-nvidia-11763617302258.html) (Published: 2025-11-20)
-- [European shares advance as Nvidia earnings light up global markets](https://biztoc.com/x/01c3efad127df3e5) (Published: 2025-11-20)
-- [Asian shares surge as Nvidia's strong quarterly earnings lift sentiments](https://biztoc.com/x/f081e4665988c9ee) (Published: 2025-11-20)
-- [Blender 5.0 Released with HDR Support, Video Sequencer Overhaul, and ACES Workflows](https://itsfoss.com/news/blender-5-0-release/) (Published: 2025-11-20)
-- [Euro zone yields edge up as Nvidia emboldens investors; long-dated bonds wilt](https://economictimes.indiatimes.com/markets/bonds/euro-zone-yields-edge-up-as-nvidia-emboldens-investors-long-dated-bonds-wilt/articleshow/125457760.cms) (Published: 2025-11-20)
-- [CLSA Stays Bullish On Nvidia, Sees AI Demand Defying Bubble Fears](https://www.ndtvprofit.com/markets/clsa-stays-bullish-on-nvidia-sees-ai-demand-defying-bubble-fears) (Published: 2025-11-20)
-- [7 Early Black Friday laptop deals that dodge the out-of-stock nightmare](https://thegadgetflow.com/blog/early-black-friday-laptop-deals/) (Published: 2025-11-20)
-- [Asian shares surge as Nvidia's strong quarterly earnings lift sentiments](https://abcnews.go.com/Business/wireStory/asian-shares-surge-nvidias-strong-quarterly-earnings-lift-127698598) (Published: 2025-11-20)
+- [Oracle And CoreWeave CDS Spreads Widening: Omen Or Jitters](https://realinvestmentadvice.com/resources/blog/oracle-and-coreweave-cds-spreads-widening-omen-or-jitters/) (Published: 2025-11-20)
+- [Nvidia Earnings: Why Record Sales Show AI Boom Isn’t Letting Up | WSJ News](https://biztoc.com/x/36eba7fb2e8559eb) (Published: 2025-11-20)
+- [Nvidia stock pops 5% in premarket trading after stronger-than-expected results](https://biztoc.com/x/298f8b9de14903e6) (Published: 2025-11-20)
+- [Trump’s six-word jab at Musk keeps rivalry alive as billionaire responds with public thanks](https://economictimes.indiatimes.com/news/international/global-trends/trumps-six-word-jab-at-musk-keeps-rivalry-alive-as-billionaire-responds-with-public-thanks/articleshow/125458633.cms) (Published: 2025-11-20)
+- [Nvidia stock pops 5% in premarket trading after stronger-than-expected results](https://www.cnbc.com/2025/11/20/nvidia-shares-rise-after-after-stronger-than-expected-3q-results.html) (Published: 2025-11-20)
+- [nvfuser-cu130 0.2.34.dev20251120](https://pypi.org/project/nvfuser-cu130/0.2.34.dev20251120/) (Published: 2025-11-20)
+- [lium.io 0.0.1](https://pypi.org/project/lium.io/) (Published: 2025-11-20)
+- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Soar at Open; Nvidia, Palantir, AMD, More Movers; AI Rally](https://biztoc.com/x/b28ff613f9ef4e6e) (Published: 2025-11-20)
+- [Markets Surge as Nvidia Earnings Reignite the AI Rally. Stock Futures Soar](https://biztoc.com/x/fef96fc1a07d3f18) (Published: 2025-11-20)
