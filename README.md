@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-21 21:58:47**_
+_Last updated: **2025-11-21 22:27:13**_
 
-- [Why were stocks down today? What to know as Dow gives up 700-point gain](https://www.usatoday.com/story/money/markets/2025/11/20/why-stocks-down-nov-20/87377901007/) (Published: 2025-11-20)
-- [Lilbits: Gaming on all the things (Snapdragon PCs, handhelds, Chromebooks, and really old PCs)](https://liliputing.com/lilbits-gaming-on-all-the-things-snapdragon-pcs-handhelds-chromebooks-and-really-old-pcs/) (Published: 2025-11-20)
-- [The A.I. Boom Has Found Another Gear. Why Can’t People Shake Their Worries?](https://freerepublic.com/focus/f-chat/4353697/posts) (Published: 2025-11-20)
-- [What Do Nvidia's Earnings Mean for the AI Trade and Markets? Experts Weigh In - Investopedia](https://slashdot.org/firehose.pl?op=view&amp;id=180157531) (Published: 2025-11-20)
-- [Stock Rally Sputters as Nvidia Gains Evaporate](https://biztoc.com/x/8a1605fc9910d69d) (Published: 2025-11-20)
-- [Stocks Drop Sharply After Morning Surge](https://www.newser.com/story/379093/stocks-drop-sharply-after-morning-surge.html) (Published: 2025-11-20)
-- [SC25 gets heavy with mega power and cooling solutions](https://www.theregister.com/2025/11/20/heavy_industry_invades_sc25/) (Published: 2025-11-20)
-- [Big Swings Rock Wall Street As Stocks Drop Sharply After Erasing A Morning Surge](https://www.huffpost.com/entry/big-swings-rock-wall-street-stocks-drop-sharply-erasing-morning-surge_n_691f8486e4b047290e295fe2) (Published: 2025-11-20)
-- [Nvidia turns negative after Ray Dalio warns the latest market boom is a 'big bubble with big wealth gaps' poised for a politically explosive bust - Fortune](https://slashdot.org/firehose.pl?op=view&amp;id=180157399) (Published: 2025-11-20)
-- [US Accuses Four of Smuggling Advanced Nvidia Chips to China](https://biztoc.com/x/d699f6f917e9f538) (Published: 2025-11-20)
+- [Nvidia Earnings Ease Fears of AI Bubble](https://biztoc.com/x/1e63ffc79a2822fb) (Published: 2025-11-20)
+- [Argentina’s $20 billion bank bailout shelved for smaller loan - WSJ](https://biztoc.com/x/5391002279354b57) (Published: 2025-11-20)
+- [Four Indicted In Alleged Conspiracy To Smuggle Supercomputers and Nvidia Chips to China](https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/) (Published: 2025-11-20)
+- [Dell Now Shipping Laptop With Qualcomm NPU On Linux Ahead Of Windows 11](https://www.phoronix.com/news/Dell-Pro-Max-With-Qualcomm-NPU) (Published: 2025-11-20)
+- [megatron-fsdp 0.2.0.dev109861](https://pypi.org/project/megatron-fsdp/0.2.0.dev109861/) (Published: 2025-11-20)
+- [Bubble fears ease but investors still waiting for AI to live up to its promise](https://biztoc.com/x/4524bf663f475cd4) (Published: 2025-11-20)
+- [Google’s Chromebooks Now Get Free GeForce NOW Fast Pass](https://www.iphoneincanada.ca/2025/11/20/googles-chromebooks-now-get-free-geforce-now-fast-pass/) (Published: 2025-11-20)
+- [Wall Street tumbles after Nvidia’s sharp reversal; Mobile-health Network Solutions surges 83%, Brera Holdings sees big fall, check top gainers and losers](https://economictimes.indiatimes.com/news/international/us/wall-street-tumbles-after-nvidias-sharp-reversal-mobile-health-network-solutions-surges-83-brera-holdings-sees-big-fall-check-top-gainers-and-losers/articleshow/125472660.cms) (Published: 2025-11-20)
+- [Bubble fears ease but investors still waiting for AI to live up to its promise](https://www.bostonherald.com/2025/11/20/nvidia-ai-bellwether/) (Published: 2025-11-20)
