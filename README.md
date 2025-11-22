@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-22 23:43:23**_
+_Last updated: **2025-11-22 23:53:44**_
 
+- [Nvidia Crushes Earnings as AI Demand Stays Red-Hot](https://biztoc.com/x/05488223482da6d5) (Published: 2025-11-21)
 - [Australia's Northern Territory braces for Tropical Cyclone Fina](https://biztoc.com/x/df0cbb3a78f574bb) (Published: 2025-11-21)
 - [Video
 Watch Calum Worthy’s digital avatar speak to CNN anchor
@@ -12,4 +13,3 @@ Watch Calum Worthy’s digital avatar speak to CNN anchor
 - [Fitness guru Susan Powter returns with documentary detailing her resilience](https://biztoc.com/x/56d45cf6f07edf82) (Published: 2025-11-21)
 - [Hedge Funds Scramble to Cover Short Positions as Stocks Rebound](https://biztoc.com/x/65763b1d395fa4e3) (Published: 2025-11-21)
 - [Fed’s Williams revives rate-cut hopes, but would a split Fed actually cut?](https://biztoc.com/x/9db16e6e03f0e8cc) (Published: 2025-11-21)
-- [Top FDA official Pazdur raises alarm about expediting approvals, Washington Post reports](https://biztoc.com/x/8a473af996d0f1b5) (Published: 2025-11-21)
