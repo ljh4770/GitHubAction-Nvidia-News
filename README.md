@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-22 06:14:46**_
+_Last updated: **2025-11-22 06:43:08**_
 
+- [Nvidia’s Comically Small Dividend Matters More Than You Think](https://biztoc.com/x/8aea73b6a3b47844) (Published: 2025-11-21)
+- [India stands out as a stable emerging market amid AI and US volatility: Matt Orton](https://economictimes.indiatimes.com/markets/expert-view/india-stands-out-as-a-stable-emerging-market-amid-ai-and-us-volatility-matt-orton/articleshow/125479213.cms) (Published: 2025-11-21)
+- [Uber, Nvidia, and Foxconn join forces to accelerate autonomous driving](https://www.digitimes.com/news/a20251121PD248/foxconn-nvidia-uber-partnership-stellantis.html) (Published: 2025-11-21)
+- [Bitcoin pulls back to $85K after a short-lived jump to $92K on Nvidia earnings optimism](https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-pulls-back-to-85k-after-a-short-lived-jump-to-92k-on-nvidia-earnings-optimism/articleshow/125479023.cms) (Published: 2025-11-21)
+- [Cryptocurrencies whipped by flight from risk](https://biztoc.com/x/d95cf5d55186b7db) (Published: 2025-11-21)
+- [Japan’s parliament approves massive spending package](https://biztoc.com/x/347a52b1e3539914) (Published: 2025-11-21)
+- [4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China](https://biztoc.com/x/b39d77b9589b9efe) (Published: 2025-11-21)
+- [Morning Bid: Three-alarm fire as tech selloff resumes, Takaichi stimulus lands](https://biztoc.com/x/7c13cd981a131ae9) (Published: 2025-11-21)
 - [Wall Street crash shaves off $2.7 trillion in one day: Is the AI boom showing cracks as mixed jobs data trigger tech selloff and market nervousness?](https://economictimes.indiatimes.com/news/international/us/wall-street-crash-shaves-off-2-7-trillion-in-one-day-is-the-ai-boom-showing-cracks-as-mixed-jobs-data-trigger-tech-selloff-and-market-nervousness/articleshow/125478661.cms) (Published: 2025-11-21)
 - [Nvidiaâs explosive earnings defy AI bubble worries, fueling market rally](https://www.naturalnews.com/2025-11-21-nvidias-explosive-earnings-defy-ai-bubble-worries.html) (Published: 2025-11-21)
-- [Nvidia’s AI-driven earnings surge sparks market rally, easing bubble fears](https://www.naturalnews.com/2025-11-21-nvidia-ai-earnings-market-rally-bubble-fears.html) (Published: 2025-11-21)
-- [Four charged in $3.9 million scheme to smuggle advanced Nvidia AI chips to China through fake Florida real estate company](https://www.naturalnews.com/2025-11-21-charged-scheme-smuggle-nvidia-chips-china.html) (Published: 2025-11-21)
-- [Reinvention will keep Cursor on the map, says cofounder Aman Sanger](https://economictimes.indiatimes.com/tech/artificial-intelligence/reinvention-will-keep-cursor-on-the-map-says-cofounder-aman-sanger/articleshow/125478400.cms) (Published: 2025-11-21)
-- [Meta Segment Anything Model 3 | Hacker News](https://news.ycombinator.com/item?id=45982073) (Published: 2025-11-21)
-- [Call of Duty Black Ops 7 Review: A question of getting the settings right](https://www.notebookcheck.net/Call-of-Duty-Black-Ops-7-Review-A-question-of-getting-the-settings-right.1166675.0.html) (Published: 2025-11-21)
-- [Nvidia-Supplier Foxconn Reportedly Bets Big On AI With Up To $3 Billion Annual Spend As Chairman Warns Of Shakeout In Brutal Chinese EV Market](https://biztoc.com/x/40cf7416b2d8146f) (Published: 2025-11-21)
-- [EM Stocks Set for Worst Week Since April as AI Concerns Spread](https://economictimes.indiatimes.com/markets/stocks/news/em-stocks-set-for-worst-week-since-april-as-ai-concerns-spread/articleshow/125478274.cms) (Published: 2025-11-21)
-- [US market still ‘frothy’ despite Nvidia boost: Marc Chandler](https://economictimes.indiatimes.com/markets/expert-view/market-still-frothy-despite-nvidia-boost-marc-chandler/articleshow/125478082.cms) (Published: 2025-11-21)
