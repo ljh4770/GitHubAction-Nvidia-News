@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-22 07:40:46**_
+_Last updated: **2025-11-22 07:51:25**_
 
 - [White House seeks to block GAIN AI Act, easing Nvidia and AMD export risks](https://www.digitimes.com/news/a20251121PD247/amd-nvidia-chips-chipmakers-cryptocurrency.html) (Published: 2025-11-21)
 - [CNBC Daily Open: Investors suffer from whiplash as AI stocks gyrate](https://biztoc.com/x/d771c75183de09ae) (Published: 2025-11-21)
