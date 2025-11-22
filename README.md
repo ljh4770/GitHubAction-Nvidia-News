@@ -1,11 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-22 14:53:07**_
+_Last updated: **2025-11-22 15:12:57**_
 
-- [Lilly becomes first drugmaker to join trillion-dollar club on weight-loss demand boom](https://finance.yahoo.com/news/lilly-becomes-first-drugmaker-join-145237391.html) (Published: 2025-11-21)
-- [Morning Bid: The pAIn trade - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=180162613) (Published: 2025-11-21)
-- [Nvidia CEO Jensen Huang Just Delivered Incredible News for Palantir Stock Investors](https://biztoc.com/x/4b2aed37d9f60990) (Published: 2025-11-21)
-- [ASUS TUF A16: 16" FHD+ 165Hz, Ryzen 9 270, RTX 5070, 32GB DDR5, 1TB SSD $1199.99 (2 replies)](https://slickdeals.net/f/18846967-asus-tuf-a16-16-fhd-165hz-ryzen-9-270-rtx-5070-32gb-ddr5-1tb-ssd-1199-99) (Published: 2025-11-21)
-- [Nvidia: Now The 2nd Cheapest Stock In The Mag 7](https://biztoc.com/x/edc952ead62b8419) (Published: 2025-11-21)
-- [Stock Market Today: Dow Bounces After Sell-Off; Nvidia, Palantir Switch Gears (Live Coverage)](https://biztoc.com/x/9801a63e72d1c54f) (Published: 2025-11-21)
-- [Nvidia resumed, Palo Alto downgraded: Wall Street's top analyst calls](https://thefly.com/permalinks/entry.php/id4244458/DOCS;WYNN;CTSH;HP;PRG;PANW;TMUS;BBWI;ESTC;MGM;NVDA;AVGO;AMD;INTC;ARM;ALAB;CVNA;IBM;WDAY;MRVL-Nvidia-resumed-Palo-Alto-downgraded-Wall-Streets-top-analyst-calls) (Published: 2025-11-21)
-- [Dell and HP disable hardware H.265 decoding on select PCs due to rising royalty costs — companies could save big on HEVC royalties, but at the expense of users](https://www.tomshardware.com/pc-components/gpus/dell-and-hp-disable-hardware-h-265-decoding-on-select-pcs-due-to-rising-royalty-costs-companies-could-save-big-on-hevc-royalties-but-at-the-expense-of-users) (Published: 2025-11-21)
+- [Goldman Sachs, JPMorgan and BofA drop verdicts on Nvidia earnings - TheStreet](https://slashdot.org/firehose.pl?op=view&amp;id=180162757) (Published: 2025-11-21)
+- [Stock Market Today: Dow Bounces On Rate-Cut Hopes After Sell-Off; Nvidia, Palantir Switch Gears (Live Coverage)](https://biztoc.com/x/012a42fafd58a70c) (Published: 2025-11-21)
+- [Euro zone bond yields fall from 6-week high amid flight to safe assets](https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-fall-from-6-week-high-amid-flight-to-safe-assets/articleshow/125489403.cms) (Published: 2025-11-21)
+- [Why Dividend Growth Could Outperform Tech in the Next Bull Market](https://biztoc.com/x/67ab140d067c9160) (Published: 2025-11-21)
+- [Black Friday Week Mega-Deals: Tech, Gadgets, Toys, 4K Movies & More! Up to 70% Off!](https://www.geeksaresexy.net/2025/11/21/black-friday-week-mega-deals-tech-gadgets-toys-4k-movies-more-up-to-70-off/) (Published: 2025-11-21)
+- [Nvidia Is a Leader in AI Computing, But Is NVDA Stock a Buy Now?](https://biztoc.com/x/525763dedec28e5d) (Published: 2025-11-21)
+- [Jensen Huang at all-hands meet - Nvidia saved the world, a bad quarter could’ve broken everything](https://economictimes.indiatimes.com/news/international/us/jensen-huang-at-all-hands-meet-nvidia-saved-the-world-a-bad-quarter-couldve-broken-everything/articleshow/125488895.cms) (Published: 2025-11-21)
+- [The US stock market holds steadier, for now, following its wildest day since April](https://www.bostonherald.com/2025/11/21/stock-market-after-rollercoaster-day/) (Published: 2025-11-21)
+- [Cryptocurrency Industry Trends and Analysis by Component, Process, Type, End Use, Country & Company | Forecasts Through 2025-2033](https://www.globenewswire.com/news-release/2025/11/21/3192867/28124/en/Cryptocurrency-Industry-Trends-and-Analysis-by-Component-Process-Type-End-Use-Country-Company-Forecasts-Through-2025-2033.html) (Published: 2025-11-21)
+- [Books: Andrew Ross Sorkin Misreads What Happened Before, After “1929”](https://www.forbes.com/sites/johntamny/2025/11/21/books-andrew-ross-sorkin-misreads--what-happened-before-after-1929/) (Published: 2025-11-21)
