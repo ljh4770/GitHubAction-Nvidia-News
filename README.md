@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-22 10:33:33**_
+_Last updated: **2025-11-22 10:44:22**_
 
-- [nvidia-nat-ingestion 1.4.0a20251121](https://pypi.org/project/nvidia-nat-ingestion/1.4.0a20251121/) (Published: 2025-11-21)
-- [nvidia-nat-adk 1.4.0a20251121](https://pypi.org/project/nvidia-nat-adk/1.4.0a20251121/) (Published: 2025-11-21)
-- [nvidia-nat-llama-index 1.4.0a20251121](https://pypi.org/project/nvidia-nat-llama-index/1.4.0a20251121/) (Published: 2025-11-21)
-- [nvidia-nat-profiling 1.4.0a20251121](https://pypi.org/project/nvidia-nat-profiling/1.4.0a20251121/) (Published: 2025-11-21)
-- [nvidia-nat-opentelemetry 1.4.0a20251121](https://pypi.org/project/nvidia-nat-opentelemetry/1.4.0a20251121/) (Published: 2025-11-21)
-- [Big Tech’s Debt Binge Raises Risk in Race to Create an AI World](https://biztoc.com/x/9a0ca17441903100) (Published: 2025-11-21)
-- [Investment Association chief Chris Cummings to step down](https://biztoc.com/x/4fbefa3ce86e4603) (Published: 2025-11-21)
-- [Bitcoin bears dominate: odds of year-end price below $90,000 rise](https://biztoc.com/x/8cd55d1ae2ebaeed) (Published: 2025-11-21)
-- [BA-owner IAG confirms interest in buying stake in Portugal's TAP](https://biztoc.com/x/98218c95208e9d0e) (Published: 2025-11-21)
+- [Wildest Trading Day Since Tariff Shock to Test Dip Buyers’ Nerve](https://biztoc.com/x/388b04e776d592ae) (Published: 2025-11-21)
+- [Job and Housing Stresses Are Caught in a Vicious Loop](https://biztoc.com/x/f52dc31b0c0e0153) (Published: 2025-11-21)
+- [Innovent Biologics to Join Hong Kong’s Equity Benchmark Index](https://biztoc.com/x/981c08ffd3f59849) (Published: 2025-11-21)
+- [AI bubble, boom or both? Ray Dalio calls its a bubble but says it's too soon to sell](https://economictimes.indiatimes.com/markets/stocks/news/ai-bubble-boom-or-both-ray-dalio-calls-its-a-bubble-but-says-its-too-soon-to-sell/articleshow/125484035.cms) (Published: 2025-11-21)
+- [LIFE AI CEO Tuan Cao Named to Tatler Most Influential List 2025](https://www.globenewswire.com/news-release/2025/11/21/3192632/0/en/LIFE-AI-CEO-Tuan-Cao-Named-to-Tatler-Most-Influential-List-2025.html) (Published: 2025-11-21)
+- [nvidia-nat-ragaai 1.4.0a20251121](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20251121/) (Published: 2025-11-21)
+- [nvidia-nat-test 1.4.0a20251121](https://pypi.org/project/nvidia-nat-test/1.4.0a20251121/) (Published: 2025-11-21)
+- [nvidia-nat-strands 1.4.0a20251121](https://pypi.org/project/nvidia-nat-strands/1.4.0a20251121/) (Published: 2025-11-21)
+- [nvidia-nat-phoenix 1.4.0a20251121](https://pypi.org/project/nvidia-nat-phoenix/1.4.0a20251121/) (Published: 2025-11-21)
+- [nvidia-nat-mcp 1.4.0a20251121](https://pypi.org/project/nvidia-nat-mcp/1.4.0a20251121/) (Published: 2025-11-21)
