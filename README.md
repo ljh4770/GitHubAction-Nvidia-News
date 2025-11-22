@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-22 06:54:59**_
+_Last updated: **2025-11-22 07:17:16**_
 
+- [UK couple slashes their heating bill by nearly 90% with Raspberry Pi ‘micro data center’ as net-zero trial turns server heat into home heating](https://www.notebookcheck.net/UK-couple-slashes-their-heating-bill-by-nearly-90-with-Raspberry-Pi-micro-data-center-as-net-zero-trial-turns-server-heat-into-home-heating.1168016.0.html) (Published: 2025-11-21)
+- [Intel Is Reported to Secure Microsoft, Tesla, Qualcomm & NVIDIA as Advanced Packaging Customers in the U.S., Led by Its Newly Hired Ex-TSMC Executive](https://wccftech.com/intel-is-reported-to-secure-microsoft-tesla-qualcomm-nvidia-as-advanced-packaging-customers/) (Published: 2025-11-21)
+- [He correctly predicted the 2008 global financial crisis. Now, warns about AI bubble. Where to watch Oscar winner 'The Big Short' movie, made on him](https://economictimes.indiatimes.com/magazines/panache/he-correctly-predicted-the-2008-global-financial-crisis-now-warns-about-ai-bubble-where-to-watch-oscar-winner-the-big-short-movie-made-on-him/articleshow/125479647.cms) (Published: 2025-11-21)
+- [S&P 500 Gains and Losses Today: Nvidia-Led Rally Reverses Course; Walmart Stock Soars](https://biztoc.com/x/353d67a13666dcd2) (Published: 2025-11-21)
+- [Stocks Set to Drop as AI Slump Resumes](https://biztoc.com/x/0aa18b83957103f4) (Published: 2025-11-21)
 - [Stocks crumble as US jobs fail to clear Fed outlook, tech hammered - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=180160323) (Published: 2025-11-21)
 - [OpenAI Teams With Foxconn to Design AI Data Center Hardware - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=180160321) (Published: 2025-11-21)
 - [Foxconn unveils deals with Nvidia, OpenAI, Alphabet](https://biztoc.com/x/67f86a2c58b1739d) (Published: 2025-11-21)
 - [Nvidia’s Comically Small Dividend Matters More Than You Think](https://biztoc.com/x/8aea73b6a3b47844) (Published: 2025-11-21)
 - [India stands out as a stable emerging market amid AI and US volatility: Matt Orton](https://economictimes.indiatimes.com/markets/expert-view/india-stands-out-as-a-stable-emerging-market-amid-ai-and-us-volatility-matt-orton/articleshow/125479213.cms) (Published: 2025-11-21)
-- [Uber, Nvidia, and Foxconn join forces to accelerate autonomous driving](https://www.digitimes.com/news/a20251121PD248/foxconn-nvidia-uber-partnership-stellantis.html) (Published: 2025-11-21)
-- [Bitcoin pulls back to $85K after a short-lived jump to $92K on Nvidia earnings optimism](https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-pulls-back-to-85k-after-a-short-lived-jump-to-92k-on-nvidia-earnings-optimism/articleshow/125479023.cms) (Published: 2025-11-21)
-- [Cryptocurrencies whipped by flight from risk](https://biztoc.com/x/d95cf5d55186b7db) (Published: 2025-11-21)
-- [Japan’s parliament approves massive spending package](https://biztoc.com/x/347a52b1e3539914) (Published: 2025-11-21)
-- [4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China](https://biztoc.com/x/b39d77b9589b9efe) (Published: 2025-11-21)
