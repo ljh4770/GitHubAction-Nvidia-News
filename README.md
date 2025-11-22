@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-22 13:53:58**_
+_Last updated: **2025-11-22 14:14:02**_
 
+- [Four charged over alleged plot to smuggle Nvidia AI chips into China](https://biztoc.com/x/a2e9d01b3e85af62) (Published: 2025-11-21)
+- [Abu Dhabi's G42 secures Nvidia chips but says needs far more](https://biztoc.com/x/ca960a1efe3523b1) (Published: 2025-11-21)
+- [An auditory-visual cooperative perception method for honking vehicle localization](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337352) (Published: 2025-11-21)
+- [Automated and modular protein binder design with BinderFlow](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013747) (Published: 2025-11-21)
+- [SK Hynix to Boost DRAM Production by a Whopping Eight Times Next Year, But It Still Won’t Be Enough to Ease the Ongoing Memory Shortage](https://wccftech.com/sk-hynix-to-increase-dram-production-by-a-whopping-eight-folds/) (Published: 2025-11-21)
+- [Four charged over alleged plot to smuggle Nvidia AI chips into China](https://www.theregister.com/2025/11/21/nvidia_china_smuggling_charges/) (Published: 2025-11-21)
+- [ETtech Explainer: Why Nvidia’s Q3 results matter for AI & the markets](https://economictimes.indiatimes.com/tech/technology/ettech-explainer-why-nvidias-q3-results-matter-for-ai-the-markets/articleshow/125488301.cms) (Published: 2025-11-21)
 - [Nvidia CEO Jensen Huang complains about stock price slide during all-hands meeting — says market did not appreciate company’s ‘incredible’ quarter](https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-complains-about-stock-price-slide-during-all-hands-meeting-says-market-did-not-appreciate-companys-incredible-quarter) (Published: 2025-11-21)
 - [Nvidia price target raised to $250 from $240 at Jefferies](https://finance.yahoo.com/news/nvidia-price-target-raised-250-135044018.html) (Published: 2025-11-21)
 - [Robinhood shares head for brutal weekly loss as bitcoin, AI stocks are hit hard](https://www.cnbc.com/2025/11/21/robinhood-heads-for-brutal-weekly-loss-as-bitcoin-ai-stocks-are-hit-hard.html) (Published: 2025-11-21)
-- [Nioh 3 PC System Requirements Revealed – RTX 3060 Ti/ RX 6700 XT Required For 1080@60 FPS With Upscaling](https://wccftech.com/nioh-3-pc-system-requirements/) (Published: 2025-11-21)
-- [The market's surprising reversal, Gap's viral ad, AI regulation and more in Morning Squawk](https://www.cnbc.com/2025/11/21/5-things-to-know-before-the-stock-market-opens.html) (Published: 2025-11-21)
-- [Nvidia CEO Jensen Huang Slams Market's Lacklustre Reaction To Blowout Quarter As AI Jitters Hit Stock: Report](https://biztoc.com/x/ffbb65d46ab5fbf2) (Published: 2025-11-21)
-- [As AI angst hits markets, this stock — not Nvidia — is the canary in the coal mine](https://biztoc.com/x/5ea39cb2662a072b) (Published: 2025-11-21)
-- [Is Michael Saylor’s biggest bet in trouble as Bitcoin price crashes to $83,000? MicroStrategy stock collapses as Saylor’s Bitcoin bet faces a test](https://economictimes.indiatimes.com/news/international/us/is-michael-saylors-biggest-bet-in-trouble-as-bitcoin-price-crashes-to-83000-microstrategy-stock-collapses-as-saylors-bitcoin-bet-faces-a-test/articleshow/125487413.cms) (Published: 2025-11-21)
-- [Nvidia is king in AI chips, but Google and Amazon want to catch up by making their own](https://biztoc.com/x/d7c47fb2ed8ad3ef) (Published: 2025-11-21)
-- [Why The U.S. Charged Four Men Over Illegal Nvidia GPU Shipments To China](https://biztoc.com/x/9dadd85aecc4c255) (Published: 2025-11-21)
