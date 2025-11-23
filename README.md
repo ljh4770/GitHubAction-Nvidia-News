@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 19:18:56**_
+_Last updated: **2025-11-23 19:29:20**_
 
 - [The internet is loving 'Big Short' investor Michael Burry's crusade against Nvidia and the AI giants](https://biztoc.com/x/d78cdf2257e7cb2d) (Published: 2025-11-22)
 - [You Must Read This Riveting Whistleblower Lawsuit About Allegedly Dangerous Robots](https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737) (Published: 2025-11-22)
