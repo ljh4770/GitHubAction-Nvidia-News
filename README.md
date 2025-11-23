@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 16:30:27**_
+_Last updated: **2025-11-23 16:46:31**_
 
+- [Nvidia tells investors to calm down about AI fears](https://rollingout.com/2025/11/22/nvidia-tells-investors-to-calm-down/) (Published: 2025-11-22)
 - [Washington man spent 31 years at Microsoft only to be fired on a call with 120 others. Here's how he's rebuilding at 60](https://finance.yahoo.com/news/washington-man-spent-31-years-163000964.html) (Published: 2025-11-22)
 - [megatron-fsdp 0.2.0.dev110861](https://pypi.org/project/megatron-fsdp/0.2.0.dev110861/) (Published: 2025-11-22)
 - [‘Big Short’ Michael Burry fires shots at major AI stock](https://www.thestreet.com/investing/stocks/big-short-michael-burry-fires-shots-at-major-ai-stock) (Published: 2025-11-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-23 16:30:27**_
 - [Trump paints Zelenskyy into a corner with his new plan to end Russia's war on Ukraine](https://biztoc.com/x/2783af88cfcb2d5a) (Published: 2025-11-22)
 - [These under-the-radar chip stocks could deliver rapid sales growth for the next 2 years](https://biztoc.com/x/39b590d0dd9376b2) (Published: 2025-11-22)
 - [Trump Want Ad Seeks ‘Deportation Judges’ to Aid in Crackdown](https://biztoc.com/x/07d16285de8854db) (Published: 2025-11-22)
-- [Fannie, Freddie Shares Mimic Meme-Stock Mania With Wild Swings](https://biztoc.com/x/1736e58f91ab73fc) (Published: 2025-11-22)
