@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 06:13:59**_
+_Last updated: **2025-11-23 06:44:19**_
 
+- [Rare deep-sea squid discovered in Kerala revealing a mysterious new species hidden in the deep for millions of years](https://timesofindia.indiatimes.com/etimes/trending/rare-deep-sea-squid-discovered-in-kerala-revealing-a-mysterious-new-species-hidden-in-the-deep-for-millions-of-years/articleshow/125500689.cms) (Published: 2025-11-22)
 - [US mulls letting Nvidia sell H200 chips to China](https://economictimes.indiatimes.com/tech/technology/us-mulls-letting-nvidia-sell-h200-chips-to-china/articleshow/125499980.cms) (Published: 2025-11-22)
 - [Taiwan approves Nvidia subsidiary, investment in new office](https://economictimes.indiatimes.com/tech/technology/taiwan-approves-nvidia-subsidiary-investment-in-new-office/articleshow/125499970.cms) (Published: 2025-11-22)
 - [Nvidia Stock Dips In November, But Gene Munster Says Potential H200 Approval In China Could Supercharge Growth](https://biztoc.com/x/8fe45c0afa0dcf4b) (Published: 2025-11-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-23 06:13:59**_
 - [Jordan Peele’s ‘High Horse: The Black Cowboy’ doc sheds light on an erased part of history](https://biztoc.com/x/f713128ad05724a8) (Published: 2025-11-22)
 - [Central Vietnam death toll rises to 55 from flooding, landslides](https://biztoc.com/x/8978a80b7f6f292a) (Published: 2025-11-22)
 - [Wild ride on Wall Street as the crypto crash spooks risk complex](https://economictimes.indiatimes.com/markets/stocks/news/wild-ride-on-wall-street-as-the-crypto-crash-spooks-risk-complex/articleshow/125499303.cms) (Published: 2025-11-22)
-- [Employers added 119,000 jobs in September, blowing past expectations](https://biztoc.com/x/3c3448bafa055e86) (Published: 2025-11-22)
