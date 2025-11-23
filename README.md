@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 14:58:21**_
+_Last updated: **2025-11-23 15:24:18**_
 
+- [These two ‘Magnificent Seven' stocks could best survive an AI apocalypse](https://biztoc.com/x/aea184a5cf114351) (Published: 2025-11-22)
+- [Refusing to eat and barely conscious... our babies were 'poisoned' after drinking recalled formula contaminated with deadly toxin](https://biztoc.com/x/a9bd2e841a45cefa) (Published: 2025-11-22)
+- [RFK Jr. says he's following 'gold standard' science. Here's what to know](https://biztoc.com/x/44c3cbbe1caf8115) (Published: 2025-11-22)
+- [Turning ‘$11K to Half a Billion Dollars From Trading Memecoins’: Tales From a Crypto Wealth Manager](https://biztoc.com/x/db757e7e4da7896b) (Published: 2025-11-22)
+- [Warren Buffett Said Gold Is 'Just About the Last Thing' He'd Want to Own — He'd 'Much Prefer' Acres of Land, an Apartment or Candy Over the Precious Metal](https://biztoc.com/x/e0b0cdd218c51948) (Published: 2025-11-22)
+- [California Probing Baby Botulism Cases Prior to Current Outbreak](https://biztoc.com/x/7b37121b9672330e) (Published: 2025-11-22)
+- [Catholic clergy are ecstatic about Rosalía’s songs of faith in her new album ‘Lux’](https://biztoc.com/x/b17fabeb702aae9b) (Published: 2025-11-22)
+- [Ranking 11 Major Graphics Card Brands From Worst To Best](https://www.bgr.com/2028234/major-graphics-cards-brands-ranked-worst-best/) (Published: 2025-11-22)
 - [This is one of the best capture cards we've ever used for Xbox and PC gaming — it's sleek, portable, and captures footage in 4K perfectly](https://www.windowscentral.com/accessories/this-is-one-of-the-best-capture-cards-weve-ever-used-for-xbox-and-pc-gaming-its-sleek-portable-and-captures-footage-in-4k-perfectly) (Published: 2025-11-22)
 - [AST SpaceMobile and Starlink may prove friend, not foe, to these wireless stocks](https://biztoc.com/x/5fa2d33bd3a56ef6) (Published: 2025-11-22)
-- [Retail Stocks Need Unlikely Holiday Miracle to Save Rough 2025](https://biztoc.com/x/f72753982b597ad4) (Published: 2025-11-22)
-- [What Moved Markets This Week](https://biztoc.com/x/2fe2a5e582230264) (Published: 2025-11-22)
-- [Target makes bold changes to keep customers from fleeing stores](https://biztoc.com/x/ba33bb9c5e56f14c) (Published: 2025-11-22)
-- [It's possible to get addicted to pot. Here's what to know](https://biztoc.com/x/fae0f5cdf28858d8) (Published: 2025-11-22)
-- [Intel CEO dismisses concerns about new hire bringing TSMC’s tech](https://economictimes.indiatimes.com/tech/technology/intel-ceo-dismisses-concerns-about-new-hire-bringing-tsmcs-tech/articleshow/125506992.cms) (Published: 2025-11-22)
-- [Fed’s Collins: Monetary policy currently in right place, hesitant about cutting rates](https://biztoc.com/x/ab00e616004fe630) (Published: 2025-11-22)
-- [Bill Gates Says We're In An AI Bubble, But It's No 'Tulip Mania' - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=180178137) (Published: 2025-11-22)
-- [BLACK FRIDAY Week (Day #3): MASSIVE Tech, Gaming, and Gift Savings for the Holiday Season!](https://www.geeksaresexy.net/2025/11/22/black-friday-week-day-3-massive-tech-gaming-and-gift-savings-for-the-holiday-season-2/) (Published: 2025-11-22)
