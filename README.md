@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 17:44:19**_
+_Last updated: **2025-11-23 17:54:46**_
 
+- [Nvidia Delivered. Why Did the Market Panic Anyway?](https://biztoc.com/x/fc0d5be314a88d70) (Published: 2025-11-22)
+- [The AI boom is driving the economy; what happens if it falters?](https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-boom-is-driving-the-economy-what-happens-if-it-falters/articleshow/125509376.cms) (Published: 2025-11-22)
 - [AMD CEO Lisa Su Just Delivered Incredible News for Investors](https://biztoc.com/x/e9bc7446f43e75af) (Published: 2025-11-22)
 - [Quantum Computing Stocks: How the Quantum Computing Players Stack Up by Patents (Yes, Nvidia Has Such Patents)](https://biztoc.com/x/ae9aeb3759b6b085) (Published: 2025-11-22)
 - [3 ETFs Every Income Investor Should Know Before 2026](https://247wallst.com/investing/2025/11/22/3-etfs-every-income-investor-should-know-before-2026/) (Published: 2025-11-22)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-23 17:44:19**_
 - [megatron-fsdp 0.2.0.dev125539](https://pypi.org/project/megatron-fsdp/0.2.0.dev125539/) (Published: 2025-11-22)
 - [Costasiella kuroshimae leaf sheep: The tiny Pokemon-like sea slug that turns sunlight into solar energy](https://timesofindia.indiatimes.com/etimes/trending/costasiella-kuroshimae-leaf-sheep-the-tiny-pokemon-like-sea-slug-that-turns-sunlight-into-solar-energy/articleshow/125507252.cms) (Published: 2025-11-22)
 - [Gigabyte Gaming A16 Laptop: i7-13620H, 16" 1200p 165Hz, RTX 4050, 16GB DDR5 $600 + Free Shipping](https://slickdeals.net/f/18846553-gigabyte-gaming-a16-laptop-i7-13620h-16-1200p-165hz-rtx-4050-16gb-ddr5-600-free-shipping) (Published: 2025-11-22)
-- [megatron-fsdp 0.2.0.dev116405](https://pypi.org/project/megatron-fsdp/0.2.0.dev116405/) (Published: 2025-11-22)
-- [Nvidia tells investors to calm down about AI fears](https://rollingout.com/2025/11/22/nvidia-tells-investors-to-calm-down/) (Published: 2025-11-22)
