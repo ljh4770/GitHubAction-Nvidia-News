@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 05:50:51**_
+_Last updated: **2025-11-23 06:13:59**_
 
 - [US mulls letting Nvidia sell H200 chips to China](https://economictimes.indiatimes.com/tech/technology/us-mulls-letting-nvidia-sell-h200-chips-to-china/articleshow/125499980.cms) (Published: 2025-11-22)
 - [Taiwan approves Nvidia subsidiary, investment in new office](https://economictimes.indiatimes.com/tech/technology/taiwan-approves-nvidia-subsidiary-investment-in-new-office/articleshow/125499970.cms) (Published: 2025-11-22)
