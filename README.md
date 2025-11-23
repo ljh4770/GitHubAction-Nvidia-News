@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 08:21:23**_
+_Last updated: **2025-11-23 08:41:37**_
 
 - [AI and energy are at the heart of a new geopolitical arms race](https://biztoc.com/x/ec7f485693fc4737) (Published: 2025-11-22)
 - [ARK Invest wraps up week with Bitcoin ETF, Bullish, Circle, BitMine buys](https://cointelegraph.com/news/ark-invest-boosts-bullish-bitmine-circle-btc-etfs) (Published: 2025-11-22)
