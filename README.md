@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 17:54:46**_
+_Last updated: **2025-11-23 18:25:11**_
 
+- [megatron-fsdp 0.2.0.dev115614](https://pypi.org/project/megatron-fsdp/0.2.0.dev115614/) (Published: 2025-11-22)
 - [Nvidia Delivered. Why Did the Market Panic Anyway?](https://biztoc.com/x/fc0d5be314a88d70) (Published: 2025-11-22)
 - [The AI boom is driving the economy; what happens if it falters?](https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-boom-is-driving-the-economy-what-happens-if-it-falters/articleshow/125509376.cms) (Published: 2025-11-22)
 - [AMD CEO Lisa Su Just Delivered Incredible News for Investors](https://biztoc.com/x/e9bc7446f43e75af) (Published: 2025-11-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-23 17:54:46**_
 - [Employee quits job over an Nvidia RTX 5060 — intern asked to hand in GPU won on an all-expense-paid business trip, refused](https://www.tomshardware.com/pc-components/gpus/employee-quits-job-over-an-nvidia-rtx-5060-intern-asked-to-hand-in-gpu-won-on-an-all-expense-paid-business-trip-refused) (Published: 2025-11-22)
 - [megatron-fsdp 0.2.0.dev125539](https://pypi.org/project/megatron-fsdp/0.2.0.dev125539/) (Published: 2025-11-22)
 - [Costasiella kuroshimae leaf sheep: The tiny Pokemon-like sea slug that turns sunlight into solar energy](https://timesofindia.indiatimes.com/etimes/trending/costasiella-kuroshimae-leaf-sheep-the-tiny-pokemon-like-sea-slug-that-turns-sunlight-into-solar-energy/articleshow/125507252.cms) (Published: 2025-11-22)
-- [Gigabyte Gaming A16 Laptop: i7-13620H, 16" 1200p 165Hz, RTX 4050, 16GB DDR5 $600 + Free Shipping](https://slickdeals.net/f/18846553-gigabyte-gaming-a16-laptop-i7-13620h-16-1200p-165hz-rtx-4050-16gb-ddr5-600-free-shipping) (Published: 2025-11-22)
