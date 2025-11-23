@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 16:46:31**_
+_Last updated: **2025-11-23 16:56:47**_
 
 - [Nvidia tells investors to calm down about AI fears](https://rollingout.com/2025/11/22/nvidia-tells-investors-to-calm-down/) (Published: 2025-11-22)
 - [Washington man spent 31 years at Microsoft only to be fired on a call with 120 others. Here's how he's rebuilding at 60](https://finance.yahoo.com/news/washington-man-spent-31-years-163000964.html) (Published: 2025-11-22)
