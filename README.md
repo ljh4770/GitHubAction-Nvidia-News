@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 06:44:19**_
+_Last updated: **2025-11-23 06:56:49**_
 
+- [Bridgewater founder Ray Dalio: We are definitely in a bubble, but that doesn't mean you should sell [9:10]](https://freerepublic.com/focus/f-chat/4353980/posts) (Published: 2025-11-22)
 - [Rare deep-sea squid discovered in Kerala revealing a mysterious new species hidden in the deep for millions of years](https://timesofindia.indiatimes.com/etimes/trending/rare-deep-sea-squid-discovered-in-kerala-revealing-a-mysterious-new-species-hidden-in-the-deep-for-millions-of-years/articleshow/125500689.cms) (Published: 2025-11-22)
 - [US mulls letting Nvidia sell H200 chips to China](https://economictimes.indiatimes.com/tech/technology/us-mulls-letting-nvidia-sell-h200-chips-to-china/articleshow/125499980.cms) (Published: 2025-11-22)
 - [Taiwan approves Nvidia subsidiary, investment in new office](https://economictimes.indiatimes.com/tech/technology/taiwan-approves-nvidia-subsidiary-investment-in-new-office/articleshow/125499970.cms) (Published: 2025-11-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-23 06:44:19**_
 - [Luigi Mangione’s Death Penalty Case Shouldn’t Be Tossed, US Says](https://biztoc.com/x/1933ed781236a51c) (Published: 2025-11-22)
 - [Jordan Peele’s ‘High Horse: The Black Cowboy’ doc sheds light on an erased part of history](https://biztoc.com/x/f713128ad05724a8) (Published: 2025-11-22)
 - [Central Vietnam death toll rises to 55 from flooding, landslides](https://biztoc.com/x/8978a80b7f6f292a) (Published: 2025-11-22)
-- [Wild ride on Wall Street as the crypto crash spooks risk complex](https://economictimes.indiatimes.com/markets/stocks/news/wild-ride-on-wall-street-as-the-crypto-crash-spooks-risk-complex/articleshow/125499303.cms) (Published: 2025-11-22)
