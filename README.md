@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 11:50:39**_
+_Last updated: **2025-11-23 12:15:18**_
 
+- [ECB’s Lagarde Says Monetary Policy Can’t Solve Debt Problems](https://biztoc.com/x/a3cb254a29484bf2) (Published: 2025-11-22)
+- [Links 11/22/2025](https://www.nakedcapitalism.com/2025/11/links-11-22-2025.html) (Published: 2025-11-22)
 - [Macron, Who Called NATO Brain Dead, Warns End of G-20 is Nearing](https://biztoc.com/x/8f52b6c57451988d) (Published: 2025-11-22)
 - [Tom Lee Says Bitcoin, Ethereum Crash Wasn't Macro But A 'Software Bug'](https://finance.yahoo.com/news/tom-lee-says-bitcoin-ethereum-114625645.html) (Published: 2025-11-22)
 - [It's TEE time for Brave's AI assistant Leo](https://www.theregister.com/2025/11/22/brave_leo_trusted_execution_environment/) (Published: 2025-11-22)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-23 11:50:39**_
 - [Fátima Bosch's Miss Universe 2025 win echoes in Mexico where women fight for equality](https://biztoc.com/x/62dac4f7df593371) (Published: 2025-11-22)
 - [Elon Musk blames 'adversarial prompting' after Grok spewed embarrassing, sycophantic praise](https://biztoc.com/x/6810a3af6109c204) (Published: 2025-11-22)
 - [How a Seed Mix Can Help Save Native Forests](https://biztoc.com/x/9d7ba4a8c188af12) (Published: 2025-11-22)
-- [Pinterest is leaning hard into AI. The strategy is alienating its most dedicated users](https://biztoc.com/x/15ef0948b0d73e8e) (Published: 2025-11-22)
-- [The internet is loving 'Big Short' investor Michael Burry's crusade against Nvidia and the AI giants](https://biztoc.com/x/c4c78b865151b1b4) (Published: 2025-11-22)
