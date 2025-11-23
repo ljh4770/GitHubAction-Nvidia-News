@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 20:32:52**_
+_Last updated: **2025-11-23 20:45:47**_
 
+- [Meet the Monster Artificial Intelligence (AI) Chip Stock That's Crushing Nvidia and Broadcom in 2025](https://biztoc.com/x/fd32b0b823d11b58) (Published: 2025-11-22)
 - [Albany Institute of History & Art, Developmental English Lexicon Project, Jaxsta Closure, More: Saturday Afternoon ResearchBuzz, November 22, 2025](https://researchbuzz.me/2025/11/22/albany-institute-of-history-art-developmental-english-lexicon-project-jaxsta-closure-more-saturday-afternoon-researchbuzz-november-22-2025/) (Published: 2025-11-22)
 - [Five Reasons Donald Trump Fell For Zohran Mamdani](https://www.vanityfair.com/news/story/zohran-mamdani-donald-trump-oval-office-white-house-meeting) (Published: 2025-11-22)
 - [HP OmniBook 7 Laptop 16" 2K OLED Touch Intel Ultra 7 255H 32GB 1TB SSD RTX 4050 $1,798.40 @ HP Official Store eBay](https://www.ozbargain.com.au/node/935458) (Published: 2025-11-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-23 20:32:52**_
 - [Anthropic buys $30 billion of Azure cloud capability - and nets $15 billion investment from Microsoft and Nvidia in return](https://www.techradar.com/pro/anthropic-just-bought-usd30-billion-of-azure-cloud-capability-and-has-netted-usd15-billion-investment-from-microsoft-and-nvidia-in-return) (Published: 2025-11-22)
 - [Is AI eating crypto’s liquidity? Inside the $300B Oracle hit and Bitcoin miner pivots](https://cryptoslate.com/is-ai-eating-cryptos-liquidity-inside-the-300b-oracle-hit-and-bitcoin-miner-pivots/) (Published: 2025-11-22)
 - [megatron-fsdp 0.2.0.dev115614](https://pypi.org/project/megatron-fsdp/0.2.0.dev115614/) (Published: 2025-11-22)
-- [Nvidia Delivered. Why Did the Market Panic Anyway?](https://biztoc.com/x/fc0d5be314a88d70) (Published: 2025-11-22)
