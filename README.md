@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 15:47:18**_
+_Last updated: **2025-11-23 15:57:55**_
 
 - [ASUS ROG GM700 Gaming Desktop - AMD Ryzen 7 8700F - 32GB DDR5 - NVIDIA RTX 5060Ti 16GB - 1TB SSD $1149.99](https://slickdeals.net/f/18852745-asus-rog-gm700-gaming-desktop-amd-ryzen-7-8700f-32gb-ddr5-nvidia-rtx-5060ti-16gb-1tb-ssd-1149-99) (Published: 2025-11-22)
 - [Trump paints Zelenskyy into a corner with his new plan to end Russia's war on Ukraine](https://biztoc.com/x/2783af88cfcb2d5a) (Published: 2025-11-22)
