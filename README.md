@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-23 09:31:14**_
+_Last updated: **2025-11-23 09:42:52**_
 
 - [Copackaged optics have officially found their killer app - of course it's AI](https://www.theregister.com/2025/11/22/cpo_ai_nvidia_broadcom/) (Published: 2025-11-22)
 - [nvfuser-cu130 0.2.34.dev20251122](https://pypi.org/project/nvfuser-cu130/0.2.34.dev20251122/) (Published: 2025-11-22)
