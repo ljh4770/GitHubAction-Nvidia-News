@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 17:50:34**_
+_Last updated: **2025-11-24 18:14:33**_
 
+- [Walmart CEO teases the future of retail](https://biztoc.com/x/8068b2d2ed00bab5) (Published: 2025-11-23)
+- [Japan's Takaichi and India's Modi agree on AI, chip cooperation](https://biztoc.com/x/352324a356a1b929) (Published: 2025-11-23)
+- [Blue Owl considers reviving merger of private credit funds, contingent on fund's share price, sources say](https://biztoc.com/x/f3cea029223764db) (Published: 2025-11-23)
+- [GDP, Retail Sales and Other Can't Miss Items this Week](https://biztoc.com/x/faae17a0e6a49ac8) (Published: 2025-11-23)
+- [GDP, Retail Sales and Other Can't Miss Items this Week](https://www.barchart.com/story/news/36275889/gdp-retail-sales-and-other-can-t-miss-items-this-week) (Published: 2025-11-23)
+- [AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build ‘Stargate’—but a Yale expert says it violates 135 years of antitrust law](https://slashdot.org/firehose.pl?op=view&amp;id=180186561) (Published: 2025-11-23)
 - [Zelenskiy says Ukraine is grateful for efforts by US, Trump](https://biztoc.com/x/48095247840ad8bc) (Published: 2025-11-23)
 - [This Overlooked AI Stock Could Outperform Nvidia in 2026, According to Analysts](https://biztoc.com/x/baa03e9088ae93aa) (Published: 2025-11-23)
 - [【画像】イーロン「ちょっとトランプと話す前にタバコ吸ってかね？」？？？？「いいねー」](http://blog.livedoor.jp/kinisoku/archives/5641789.html) (Published: 2025-11-23)
-- [This Overlooked AI Stock Could Outperform Nvidia in 2026, According to Analysts](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bed2480a-ce66-4a20-b30c-dda9a49bc2aa) (Published: 2025-11-23)
-- [Nvidia Didn’t Save the Market. What’s Next for the AI Trade? - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=180186057) (Published: 2025-11-23)
-- [The internet is loving 'Big Short' investor Michael Burry's crusade against Nvidia and the AI giants](https://biztoc.com/x/dbd92d3acf0ac7b0) (Published: 2025-11-23)
-- [Titan Army P2712V 27-inch dual-mode 4K gaming monitor review: Solid performance and value](https://www.tomshardware.com/monitors/gaming-monitors/titan-army-p2712v-27-inch-dual-mode-4k-gaming-monitor-review) (Published: 2025-11-23)
-- [NVIDIA Preps 1.6Tb/s Networking For Linux 6.19](https://www.phoronix.com/news/NVIDIA-1.6Tb-Net-Linux-6.19) (Published: 2025-11-23)
-- [Where Do Experts Think Tech Stocks Are Headed in 2026?](https://finance.yahoo.com/news/where-experts-think-tech-stocks-155504449.html) (Published: 2025-11-23)
