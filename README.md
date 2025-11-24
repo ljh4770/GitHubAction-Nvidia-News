@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 11:39:12**_
+_Last updated: **2025-11-24 11:49:47**_
 
+- [A good résumé and cover letter are no longer enough. These are the creative ways job seekers are getting to the front of the line.](https://www.businessinsider.com/bi-today-sunday-newsletter-cutting-job-market-line-creative-ways-2025-11) (Published: 2025-11-23)
 - [Wait until you see what Nvidia just did to your money](https://biztoc.com/x/b4c9b4d040cd8245) (Published: 2025-11-23)
 - [Hunting For AI Bubbles? Look Outside Of AI But Stay Invested (SP500) - Seeking Alpha](https://slashdot.org/firehose.pl?op=view&amp;id=180184439) (Published: 2025-11-23)
 - [10 Sunday Reads](https://ritholtz.com/2025/11/10-sunday-reads-209/) (Published: 2025-11-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-24 11:39:12**_
 - [nvidia-nat-ragaai 1.4.0a20251123](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20251123/) (Published: 2025-11-23)
 - [Elon Musk & Jensen Huang: Shaping AI and Tech’s Future](https://nextbigwhat.com/elon-musk-jensen-huang-shaping-ai-and-techs-future/) (Published: 2025-11-23)
 - [nvidia-nat-test 1.4.0a20251123](https://pypi.org/project/nvidia-nat-test/1.4.0a20251123/) (Published: 2025-11-23)
-- [nvidia-nat-strands 1.4.0a20251123](https://pypi.org/project/nvidia-nat-strands/1.4.0a20251123/) (Published: 2025-11-23)
