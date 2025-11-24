@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 23:20:39**_
+_Last updated: **2025-11-24 23:35:39**_
 
+- [Oil Extends Slump as Traders Assess Outlook for Deal on Ukraine](https://biztoc.com/x/7654410d0fd4dd97) (Published: 2025-11-23)
+- [Israel says it killed a senior Hezbollah official in first strike on Beirut in months](https://biztoc.com/x/2817b3d4f7e44f38) (Published: 2025-11-23)
+- [Stock futures gain ahead of Thanksgiving -- and crucial holiday shopping season](https://biztoc.com/x/7fadb6127bcbcc84) (Published: 2025-11-23)
+- [Major insurers have recently sought permission from US regulators to offer policies excluding liabilities tied to businesses deploying AI chatbots and agents](https://biztoc.com/x/67a8460d0270405e) (Published: 2025-11-23)
+- [Stock Futures Rise Ahead of Holiday-Shortened Week](https://biztoc.com/x/431e703b9efef5d5) (Published: 2025-11-23)
+- [Doosan poised to secure exclusive Nvidia Rubin CCL supply as EMC fails GB300 test](https://www.digitimes.com/news/a20251121PD242/doosan-ccl-nvidia-emc-rubin.html) (Published: 2025-11-23)
+- [Citi Wealth Head Sees Upside to Bull Market on Record Inflows](https://financialpost.com/pmn/business-pmn/citi-wealth-head-sees-upside-to-bull-market-on-record-inflows) (Published: 2025-11-23)
 - [China’s Grip on Copper Sets Scene for Make-or-Break Supply Talks](https://biztoc.com/x/cd22c835262ab8b8) (Published: 2025-11-23)
 - [Citi Wealth Head Sees Upside to Bull Market on Record Inflows](https://biztoc.com/x/0c4f4dc23a695345) (Published: 2025-11-23)
 - [Fed's Collins: Monetary policy currently in right place, hesitant about cutting rates](https://biztoc.com/x/156c061c87219f63) (Published: 2025-11-23)
-- [Netflix Has Avoided Doing Big Deals. So Why Does It Want Warner Bros.?](https://biztoc.com/x/1d42dd02eee96b04) (Published: 2025-11-23)
-- [Aftermath of Chicago's intense immigration crackdown leaves lawsuits, investigations and anxiety](https://biztoc.com/x/a955a212227e4354) (Published: 2025-11-23)
-- [Protecting marine biodiversity with advanced tech tools](https://www.thestar.com.my/tech/tech-news/2025/11/24/protecting-marine-biodiversity-with-advanced-tech-tools) (Published: 2025-11-23)
-- [Asian Stocks Poised for Cautiously Upbeat Open: Markets Wrap](https://biztoc.com/x/d0d96a32a6c2520c) (Published: 2025-11-23)
-- [Oregon is back in the top five of the AP Top 25 poll, Miami leads pack of 5 ranked ACC teams](https://biztoc.com/x/dd97041536cf2c7c) (Published: 2025-11-23)
-- [BHP Drops Anglo American Tie-Up Plan](https://biztoc.com/x/8802b519783a789a) (Published: 2025-11-23)
-- [Snap Starts Checking Users Ages Before Australian Under-16 Ban](https://biztoc.com/x/565b8e0261d6b613) (Published: 2025-11-23)
