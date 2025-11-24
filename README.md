@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 05:47:10**_
+_Last updated: **2025-11-24 05:57:50**_
 
+- [Four arrested in US in scheme to smuggle AI chips to China](https://www.spacedaily.com/reports/Four_arrested_in_US_in_scheme_to_smuggle_AI_chips_to_China_999.html) (Published: 2025-11-23)
 - [Lenovo Legion Pro 7i: 16" QHD+ 240Hz OLED, Intel Ultra 9 275HX, RTX 5080, 32GB DDR5, 2TB SSD $2299](https://slickdeals.net/f/18855550-lenovo-legion-pro-7i-16-qhd-240hz-oled-intel-ultra-9-275hx-rtx-5080-32gb-ddr5-2tb-ssd-2299) (Published: 2025-11-23)
 - [Should You Buy Nvidia Stock After the Company's Blowout Earnings Report? Here's What History Says. - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=180182415) (Published: 2025-11-23)
 - [Fundstrat's Tom Lee: Here's Why Crypto Keeps Dropping [11:16]](https://freerepublic.com/focus/f-chat/4354124/posts) (Published: 2025-11-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-24 05:47:10**_
 - [Articles On: Huawei, CISA, Cyber Espiongage, Google, AI, Amazon, Microsoft, and Nvidia](https://www.hoover.org/research/articles-huawei-cisa-cyber-espiongage-google-ai-amazon-microsoft-and-nvidia) (Published: 2025-11-23)
 - [Show HN: Enklayve – Free, Local, Private, and Secure Personal AI](https://enklayve.com) (Published: 2025-11-22)
 - [megatron-fsdp 0.2.0.dev108030](https://pypi.org/project/megatron-fsdp/0.2.0.dev108030/) (Published: 2025-11-22)
-- [megatron-fsdp 0.2.0.dev129534](https://pypi.org/project/megatron-fsdp/0.2.0.dev129534/) (Published: 2025-11-22)
