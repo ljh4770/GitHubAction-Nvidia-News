@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 09:48:05**_
+_Last updated: **2025-11-24 09:58:31**_
 
 - [nvfuser-cu130 0.2.34.dev20251123](https://pypi.org/project/nvfuser-cu130/0.2.34.dev20251123/) (Published: 2025-11-23)
 - [AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build ‘Stargate’—but a Yale expert says it violates 135 years of antitrust law](https://biztoc.com/x/21e894b6779089a5) (Published: 2025-11-23)
