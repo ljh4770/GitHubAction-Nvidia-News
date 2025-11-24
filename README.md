@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 20:37:34**_
+_Last updated: **2025-11-24 20:48:52**_
 
+- [Slow to no 5 GHz wifi since Linux 6.14 and 6.17 with Qualcomm FastConnect 7800 WCN785x](https://askubuntu.com/questions/1560028/slow-to-no-5-ghz-wifi-since-linux-6-14-and-6-17-with-qualcomm-fastconnect-7800-w) (Published: 2025-11-23)
 - [No recession risk for US economy as a whole after $11 billion shutdown hit, Bessent says](https://biztoc.com/x/c2e4a57ffa945a6a) (Published: 2025-11-23)
 - [AI Data Center Overinvestment Debate Intensifies](https://newsonjapan.com/article/147701.php) (Published: 2025-11-23)
 - [Bond Rally of 2025 Faces New Data Vacuum as Waiting Game Begins](https://biztoc.com/x/e497961fd4fa2e9a) (Published: 2025-11-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-24 20:37:34**_
 - [A Decade After Paris, Climate Diplomacy Is About Saving Itself](https://biztoc.com/x/fdc74eaea4b0aeb4) (Published: 2025-11-23)
 - [Stablecoin’s Future Is Tied to a 200-Year-Old Past](https://biztoc.com/x/c0dd67a6f95be9a0) (Published: 2025-11-23)
 - [Jim Cramer Reiterates “You Need to Own NVIDIA, Not Trade It”](https://finance.yahoo.com/news/jim-cramer-reiterates-own-nvidia-195125682.html) (Published: 2025-11-23)
-- [Instant Pot Database, Jmail, Thankmas 2025, More: Sunday Afternoon ResearchBuzz, November 23, 2025](https://researchbuzz.me/2025/11/23/instant-pot-database-jmail-thankmas-2025-more-sunday-afternoon-researchbuzz-november-23-2025/) (Published: 2025-11-23)
