@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 07:38:15**_
+_Last updated: **2025-11-24 07:48:40**_
 
 - [Nvidia waits for U.S. approval to sell more powerful AI chip to China](https://www.phonearena.com/news/nvidia-could-sell-its-h200-ai-accelerator-in-china_id175990) (Published: 2025-11-23)
 - [NVIDIA’s (NVDA) “Doubters Really Have a Lot of Thinking to Do,” Says Jim Cramer](https://finance.yahoo.com/news/nvidia-nvda-doubters-really-lot-060608578.html) (Published: 2025-11-23)
