@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 07:23:29**_
+_Last updated: **2025-11-24 07:38:15**_
 
+- [Nvidia waits for U.S. approval to sell more powerful AI chip to China](https://www.phonearena.com/news/nvidia-could-sell-its-h200-ai-accelerator-in-china_id175990) (Published: 2025-11-23)
 - [NVIDIA’s (NVDA) “Doubters Really Have a Lot of Thinking to Do,” Says Jim Cramer](https://finance.yahoo.com/news/nvidia-nvda-doubters-really-lot-060608578.html) (Published: 2025-11-23)
 - [CoreWeave Shouldn’t “Have NVIDIA Chips on the Shelf,” Says Jim Cramer](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1b2c5699-668c-42cb-829e-4c9ca07aa5e0) (Published: 2025-11-23)
 - [Four arrested in US in scheme to smuggle AI chips to China](https://www.spacedaily.com/reports/Four_arrested_in_US_in_scheme_to_smuggle_AI_chips_to_China_999.html) (Published: 2025-11-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-24 07:23:29**_
 - [Nvidia pushes quantum computing toward 2027 breakthrough](https://www.digitimes.com/news/a20251121PD238/nvidia-quantum-computing-2027-adoption-technology.html) (Published: 2025-11-23)
 - [SK Hynix reportedly plans to boost 1c DRAM output eightfold in 2026](https://www.digitimes.com/news/a20251121PD229/sk-hynix-dram-2026-capacity-hbm4.html) (Published: 2025-11-23)
 - [Windows 11 gamers regain up to 65% lost performance after Nvidia’s latest driver hotfix](https://www.xda-developers.com/windows-11-gamers-regain-65-percent-lost-performance-nvidia-hotfix/) (Published: 2025-11-23)
-- [Articles On: Huawei, CISA, Cyber Espiongage, Google, AI, Amazon, Microsoft, and Nvidia](https://www.hoover.org/research/articles-huawei-cisa-cyber-espiongage-google-ai-amazon-microsoft-and-nvidia) (Published: 2025-11-23)
