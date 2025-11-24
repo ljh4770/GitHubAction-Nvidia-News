@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 05:57:50**_
+_Last updated: **2025-11-24 06:39:49**_
 
 - [Four arrested in US in scheme to smuggle AI chips to China](https://www.spacedaily.com/reports/Four_arrested_in_US_in_scheme_to_smuggle_AI_chips_to_China_999.html) (Published: 2025-11-23)
 - [Lenovo Legion Pro 7i: 16" QHD+ 240Hz OLED, Intel Ultra 9 275HX, RTX 5080, 32GB DDR5, 2TB SSD $2299](https://slickdeals.net/f/18855550-lenovo-legion-pro-7i-16-qhd-240hz-oled-intel-ultra-9-275hx-rtx-5080-32gb-ddr5-2tb-ssd-2299) (Published: 2025-11-23)
