@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 22:33:03**_
+_Last updated: **2025-11-24 22:45:50**_
 
+- [Oregon is back in the top five of the AP Top 25 poll, Miami leads pack of 5 ranked ACC teams](https://biztoc.com/x/dd97041536cf2c7c) (Published: 2025-11-23)
 - [BHP Drops Anglo American Tie-Up Plan](https://biztoc.com/x/8802b519783a789a) (Published: 2025-11-23)
 - [Snap Starts Checking Users Ages Before Australian Under-16 Ban](https://biztoc.com/x/565b8e0261d6b613) (Published: 2025-11-23)
 - [Fresh Macquarie Asset Management Bid Values Qube at $7.5 Billion](https://biztoc.com/x/b23bedeb5e2d958f) (Published: 2025-11-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-24 22:33:03**_
 - [BHP Says No Longer Considering Anglo American Tie-Up](https://biztoc.com/x/25c1a96899fdfc1b) (Published: 2025-11-23)
 - [Why the once-invincible Nvidia can’t save the AI trade](https://biztoc.com/x/bc5155031951bf69) (Published: 2025-11-23)
 - [Why the once-invincible Nvidia can’t save the AI trade - MarketWatch](https://slashdot.org/firehose.pl?op=view&amp;id=180188071) (Published: 2025-11-23)
-- [A sheriff, a billionaire, a tinge of scandal. California governor's race packs drama, uncertainty](https://biztoc.com/x/f899e960e45ebf20) (Published: 2025-11-23)
