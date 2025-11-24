@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 08:38:33**_
+_Last updated: **2025-11-24 08:56:56**_
 
 - [An emphasis on AI capability ahead of regulation should pay off by helping India’s AI ecosystem forge ahead](https://www.livemint.com/opinion/online-views/ai-capability-regulation-india-ecosystem-artificial-intelligence-regulation-growth-11763639143046.html) (Published: 2025-11-23)
 - [Ronit Bose Roy quits social media, says 'he will be back when he feels ready'](https://timesofindia.indiatimes.com/tv/news/hindi/ronit-bose-roy-quits-social-media-says-he-will-be-back-when-he-feels-ready/articleshow/125517338.cms) (Published: 2025-11-23)
