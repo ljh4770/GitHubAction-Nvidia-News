@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 07:58:46**_
+_Last updated: **2025-11-24 08:38:33**_
 
+- [An emphasis on AI capability ahead of regulation should pay off by helping India’s AI ecosystem forge ahead](https://www.livemint.com/opinion/online-views/ai-capability-regulation-india-ecosystem-artificial-intelligence-regulation-growth-11763639143046.html) (Published: 2025-11-23)
+- [Ronit Bose Roy quits social media, says 'he will be back when he feels ready'](https://timesofindia.indiatimes.com/tv/news/hindi/ronit-bose-roy-quits-social-media-says-he-will-be-back-when-he-feels-ready/articleshow/125517338.cms) (Published: 2025-11-23)
 - [Nvidia waits for U.S. approval to sell more powerful AI chip to China](https://www.phonearena.com/news/nvidia-could-sell-its-h200-ai-accelerator-in-china_id175990) (Published: 2025-11-23)
 - [NVIDIA’s (NVDA) “Doubters Really Have a Lot of Thinking to Do,” Says Jim Cramer](https://finance.yahoo.com/news/nvidia-nvda-doubters-really-lot-060608578.html) (Published: 2025-11-23)
 - [CoreWeave Shouldn’t “Have NVIDIA Chips on the Shelf,” Says Jim Cramer](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1b2c5699-668c-42cb-829e-4c9ca07aa5e0) (Published: 2025-11-23)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-24 07:58:46**_
 - [Should You Buy Nvidia Stock After the Company's Blowout Earnings Report? Here's What History Says. - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=180182415) (Published: 2025-11-23)
 - [Fundstrat's Tom Lee: Here's Why Crypto Keeps Dropping [11:16]](https://freerepublic.com/focus/f-chat/4354124/posts) (Published: 2025-11-23)
 - [Nvidia pushes quantum computing toward 2027 breakthrough](https://www.digitimes.com/news/a20251121PD238/nvidia-quantum-computing-2027-adoption-technology.html) (Published: 2025-11-23)
-- [SK Hynix reportedly plans to boost 1c DRAM output eightfold in 2026](https://www.digitimes.com/news/a20251121PD229/sk-hynix-dram-2026-capacity-hbm4.html) (Published: 2025-11-23)
-- [Windows 11 gamers regain up to 65% lost performance after Nvidia’s latest driver hotfix](https://www.xda-developers.com/windows-11-gamers-regain-65-percent-lost-performance-nvidia-hotfix/) (Published: 2025-11-23)
