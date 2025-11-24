@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-24 21:26:33**_
+_Last updated: **2025-11-24 21:41:10**_
 
+- [Anglo American Said to Reject Rival BHP’s New Takeover Proposal](https://biztoc.com/x/dc8d30080e2b9628) (Published: 2025-11-23)
 - [ARC Raiders – Everything We Know About The Latest Hot Extraction Shooter](https://wccftech.com/roundup/arc-raiders-everything-we-know-about-the-latest-hot-extraction-shooter/) (Published: 2025-11-23)
 - [Crypto Crash Is Eroding Wealth for Trump’s Family and Followers](https://biztoc.com/x/2a93650abf26a760) (Published: 2025-11-23)
 - [India, Canada to Restart Long-Stalled Talks on Trade Agreement](https://biztoc.com/x/77ceca4b4d4ac1c4) (Published: 2025-11-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-24 21:26:33**_
 - [BHP has made renewed bid approach to Anglo American, source says](https://biztoc.com/x/c3ebb0d55c87cb4d) (Published: 2025-11-23)
 - [East Asia to see biggest growth for US IPOs next year, says Nasdaq](https://biztoc.com/x/c2dbc2ef1ea930a7) (Published: 2025-11-23)
 - ["We see something very different" - Nvidia CEO Jensen Huang dismisses AI bubble talk, and I guess he should know](https://www.techradar.com/pro/we-see-something-very-different-nvidia-ceo-jensen-huang-dismisses-ai-bubble-talk-and-i-guess-he-should-know) (Published: 2025-11-23)
-- [Get Cleaner and Smoother Image/Video: VideoProc Black Friday Special Deal (Only $34.95 on Lifetime License)](https://www.fujirumors.com/get-cleaner-and-smoother-image-video-videoproc-black-friday-special-deal-only-34-95-on-lifetime-license/) (Published: 2025-11-23)
