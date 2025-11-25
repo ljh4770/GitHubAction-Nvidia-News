@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-25 20:39:24**_
+_Last updated: **2025-11-25 20:51:48**_
 
 - [Alphabet's a threat to the Nvidia-OpenAI ecosystem, says Needham's Laura Martin](https://biztoc.com/x/6e137f4cc33d6706) (Published: 2025-11-24)
 - [Amazon to spend up to $50 billion on AI infrastructure for U.S. government](https://freerepublic.com/focus/f-news/4354394/posts) (Published: 2025-11-24)
