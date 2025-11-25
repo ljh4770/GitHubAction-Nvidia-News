@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-25 18:54:51**_
+_Last updated: **2025-11-25 19:16:28**_
 
+- [IDEXX Laboratories Vs ResMed: Which Stock Could Rally?](https://www.forbes.com/sites/greatspeculations/2025/11/24/idexx-laboratories-vs-resmed-which-stock-could-rally/) (Published: 2025-11-24)
+- [Nvidia Rises As Trump Considers China Chip Sales: Is Nvidia A Buy Now?](https://biztoc.com/x/813b8def8b81f069) (Published: 2025-11-24)
+- [What to know about the crypto selloff](https://abcnews.go.com/Business/crypto-selloff/story?id=127819101) (Published: 2025-11-24)
+- [Alphabet ruma para US$ 4 tri em valor de mercado impulsionada por IA](https://www.infomoney.com.br/mercados/alphabet-ruma-para-us-4-tri-em-valor-de-mercado-impulsionada-por-ia/) (Published: 2025-11-24)
+- [NEWS: Disney Shares New Details on Meta Glasses Collaboration](https://allears.net/2025/11/24/disney-shares-new-details-on-meta-glasses-collaboration/) (Published: 2025-11-24)
+- [Anthropic unveils new Claude Opus 4.5, its 'most intelligent' model](https://www.businessinsider.com/claude-opus-4-5-ai-model-anthropic-debut-advanced-features-2025-11) (Published: 2025-11-24)
+- [Coffee Break: Flailing OpenAI Follows Meta’s Malignant Model](https://www.nakedcapitalism.com/2025/11/openai-metas-malignant-model-delusions-safety-trafficking-scams.html) (Published: 2025-11-24)
+- [Anthropic unveils Claude Opus 4.5, its latest AI model following $350 billion valuation](https://www.cnbc.com/2025/11/24/anthropic-unveils-claude-opus-4point5-its-latest-ai-model.html) (Published: 2025-11-24)
 - [Wall Street surges on tech rally, rate cut optimism - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=180195117) (Published: 2025-11-24)
 - [HSBC Says OpenAI Could Need $207 Billion of New Financing for Compute Costs](https://www.pymnts.com/news/artificial-intelligence/2025/hsbc-says-openai-could-need-207-billion-dollars-new-financing-compute-costs/) (Published: 2025-11-24)
-- [The AI Trade is Bouncing Back, Thanks to Nvidia and Renwed Rate Cut Hopes. This Tech Stock Might Be Worth Buying](https://biztoc.com/x/ddbcaa1765c418fa) (Published: 2025-11-24)
-- [Broadcom is joining Alphabet in the AI rally. Why investors are jumping in](https://www.cnbc.com/2025/11/24/broadcom-is-joining-alphabet-in-the-ai-rally-why-investors-are-jumping-in.html) (Published: 2025-11-24)
-- [TSMC Arizona Outage Saw Fab Halt, Apple Wafers Scrapped](https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt) (Published: 2025-11-24)
-- [Eli Lilly hits $1 trillion market value, a first in health care, as Novo Nordisk tumbles](https://freerepublic.com/focus/f-chat/4354363/posts) (Published: 2025-11-24)
-- [Amazon to invest $50bn in AI for US government customers](https://www.aljazeera.com/economy/2025/11/24/amazon-to-invest-50bn-in-ai-for-us-government-customers) (Published: 2025-11-24)
-- [Elon Musk Claims Tesla Must Outproduce NVIDIA, AMD, and All Other AI Chip Makers in Volume if It Wants to Win the Real-World AI Race](https://wccftech.com/elon-musk-claims-tesla-must-outproduce-nvidia-amd-and-all-other-ai-chip-makers/) (Published: 2025-11-24)
-- [What Does 'VRAM' Actually Mean On An Nvidia GPU?](https://www.bgr.com/2023526/what-nvidia-gpu-graphics-card-vram-means/) (Published: 2025-11-24)
-- [Lenovo Legion 5i: Intel Ultra 7 255HX, QHD+ 15.1â OLED, RTX 5060, 32GB DDR5, 1TB SSD, $1149.99 (6 replies)](https://slickdeals.net/f/18863530-lenovo-legion-5i-intel-ultra-7-255hx-qhd-15-1-oled-rtx-5060-32gb-ddr5-1tb-ssd-1149-99) (Published: 2025-11-24)
