@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-25 06:23:00**_
+_Last updated: **2025-11-25 06:52:01**_
 
 - [Una Mullally: Ireland can’t compete in the race to build AI data centres, and shouldn’t try](https://www.irishtimes.com/opinion/2025/11/24/una-mullally-ireland-cant-compete-in-the-race-to-build-ai-data-centres-and-we-shouldnt-try/) (Published: 2025-11-24)
 - [Nvidia shifts to LPDDR for AI servers, Samsung poised to benefit most](https://www.digitimes.com/news/a20251124PD231/nvidia-samsung-ddr-hbm-demand.html) (Published: 2025-11-24)
