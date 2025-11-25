@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-25 22:49:28**_
+_Last updated: **2025-11-25 22:59:37**_
 
+- [Trump signs executive order launching AI initiative compared to the Manhattan Project](https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-launching-genesis-mission-ai-project-rcna245600) (Published: 2025-11-24)
+- [What the Nasdaq's best day since May means for this holiday trading week](https://biztoc.com/x/d3f7bb7e9b307326) (Published: 2025-11-24)
+- [Asian Stocks Set to Track Wall Street Tech Rebound: Markets Wrap](https://biztoc.com/x/e2edcb5df48f41f4) (Published: 2025-11-24)
+- [Trump’s $21 Trillion Investment Boom Is Actually Short Trillions](https://biztoc.com/x/ea3f380874501450) (Published: 2025-11-24)
+- [Collapse of BHP’s Shock Anglo Bid Make Australia an M&A Laggard](https://biztoc.com/x/fa686367d4d5e745) (Published: 2025-11-24)
+- [SanDisk to Join S&P 500 index After Stock Surge This Year](https://biztoc.com/x/6bc16db4523086e5) (Published: 2025-11-24)
+- [Trading Day: Reanimated about December Fed cut](https://biztoc.com/x/00c673871ff376d7) (Published: 2025-11-24)
+- [megatron-fsdp 0.2.0.dev104878](https://pypi.org/project/megatron-fsdp/0.2.0.dev104878/) (Published: 2025-11-24)
 - [FDA approves Novartis' gene therapy for rare muscle disorder](https://biztoc.com/x/a84ba5f5e6922af4) (Published: 2025-11-24)
 - [‘The Big Short’ investor Michael Burry on an AI bubble: ‘There is a Cisco at the center of it all … Its name is Nvidia’](https://biztoc.com/x/69959ede491c0bdb) (Published: 2025-11-24)
-- [Investors Rally Behind Alphabet Stock as Mark Benioff Endorses Gemini 3](https://biztoc.com/x/5e92ffa4adf2d67a) (Published: 2025-11-24)
-- [Rate Hikes Drive Japan Regional Banks Toward Mergers to Survive](https://biztoc.com/x/e5f3d4b69f51011b) (Published: 2025-11-24)
-- [Amazon pledges up to $50 billion to expand AI, supercomputing for US government](https://biztoc.com/x/a889aefab54ba5a5) (Published: 2025-11-24)
-- [BMW, Mercedes Cars Are Cut From UK Disability Support Program](https://biztoc.com/x/afddda704f6ce68a) (Published: 2025-11-24)
-- [Google is crushing it. Why that’s worrying investors in Nvidia, other AI stocks](https://biztoc.com/x/ddce2202abcdbb4f) (Published: 2025-11-24)
-- [Thoma Bravo’s Realpage Settles DOJ Antitrust Case With Data Deal](https://biztoc.com/x/efddb557db986d08) (Published: 2025-11-24)
-- [Parks Service Union Movement Spreads to Grand Canyon, Joshua Tree](https://biztoc.com/x/37ac0ba3e477857c) (Published: 2025-11-24)
-- [Fed Is Getting Wholesale Inflation Data in Time for December Meeting on Rates](https://biztoc.com/x/89831fee188b3de9) (Published: 2025-11-24)
