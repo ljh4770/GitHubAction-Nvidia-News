@@ -1,15 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-25 17:33:38**_
+_Last updated: **2025-11-25 17:47:34**_
 
-- [As AI Stocks Like Nvidia Get Tarnished, This Gem Looks To Shine](https://biztoc.com/x/36c3b03656740d33) (Published: 2025-11-24)
-- [New Skyscrapers Are Bringing Bratislava Out of Post-Soviet Decay](https://biztoc.com/x/7b219a5f7943e9c0) (Published: 2025-11-24)
-- [ECB Is Monitoring High Food and Services Inflation, Nagel Says](https://biztoc.com/x/a2faed8270e3fab0) (Published: 2025-11-24)
-- [Franklin Templeton Joins XRP ETF Race, Calling It ‘Foundational’ to Global Finance](https://biztoc.com/x/e256183540e80d2f) (Published: 2025-11-24)
-- [Bitcoin’s trading around $86,000. The ‘Tinkerbell’ effect is haunting crypto, says Deutsche Bank](https://biztoc.com/x/5ebb3cee1903105d) (Published: 2025-11-24)
-- [Ukraine and Allies Warn That Peace Deal Will Take More Time](https://biztoc.com/x/0c2c34b8de530b87) (Published: 2025-11-24)
-- [BitMine Shares Stop Bleeding on $195 Million Ethereum Buy](https://biztoc.com/x/3f6d94726bba2e99) (Published: 2025-11-24)
-- [Video
-Old Navy’s expansion and its billion-dollar Xmas pajamas
-3:27](https://biztoc.com/x/4e5a1cdeeed3fd54) (Published: 2025-11-24)
-- [Cheapest gas prices in Denver hit less than $2 Sunday ahead of Thanksgiving weekend](https://biztoc.com/x/21b569947d2c4e56) (Published: 2025-11-24)
-- [Brazil central bank still uneasy on inflation outlook, governor says](https://biztoc.com/x/37d3d1d5772eee95) (Published: 2025-11-24)
+- [Wall Street Just Upgraded NVDA, AMZN, and MP Again](https://247wallst.com/investing/2025/11/24/wall-street-just-upgraded-nvda-amzn-and-mp-again/) (Published: 2025-11-24)
+- [Nasdaq climbs 2% as 3 tech giants fuel market surge](https://rollingout.com/2025/11/24/nasdaq-climbs-2-as-3-tech-market-surge/) (Published: 2025-11-24)
+- [Trump Weighing Advanced Nvidia Chip Sales To China, Lutnick Says](https://www.ndtvprofit.com/world/trump-weighing-advanced-nvidia-chip-sales-to-china-lutnick-says) (Published: 2025-11-24)
+- [Nvidia Stock Rises. The Tech Rally, China News, and More Propelling Shares Higher](https://biztoc.com/x/cb6a88eec32f2ed2) (Published: 2025-11-24)
+- [Carvana Stock Jumps. Ignore the Struggling Car Market, Say Analysts](https://biztoc.com/x/5393e7767805a2ad) (Published: 2025-11-24)
+- [The Fed’s Tool for Calming Short-Term Funding Markets Is Being Tested](https://biztoc.com/x/a8bff97cd5826989) (Published: 2025-11-24)
+- [First Spot Dogecoin ETF Launches Amid Market Volatility](https://biztoc.com/x/530d07b0c705dd5b) (Published: 2025-11-24)
+- [Genki Sushi chain operator bets on onshore farming for salmon roe](https://biztoc.com/x/2de3f8c697e4ed4e) (Published: 2025-11-24)
+- [HBAR Gains 2.4% From Major Support as Axelar Integration Drives DeFi Activity](https://biztoc.com/x/1cc27560a3d7339d) (Published: 2025-11-24)
+- [Abu Dhabi oil and gas group plans $150 billion of investment for 2026-2030](https://biztoc.com/x/97418f9718e20635) (Published: 2025-11-24)
