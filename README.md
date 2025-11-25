@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-25 05:23:49**_
+_Last updated: **2025-11-25 05:42:16**_
 
 - [The Hot Tub of Death? Bill Gates, Hurricane Melissa, and a Civilization Under Threat](https://www.juancole.com/2025/11/hurricane-melissa-civilization.html) (Published: 2025-11-24)
 - [Zeekr 7X facelift in Guangzhou – up to 795 PS, 802 km CLTC range, 6C DC fast charging, coming to Malaysia?](https://paultan.org/2025/11/24/zeekr-7x-facelift-in-guangzhou-up-to-795-ps-802-km-cltc-range-6c-dc-fast-charging-coming-to-malaysia/) (Published: 2025-11-24)
