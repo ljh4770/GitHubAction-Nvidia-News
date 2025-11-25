@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-25 05:52:53**_
+_Last updated: **2025-11-25 06:23:00**_
 
+- [Una Mullally: Ireland can’t compete in the race to build AI data centres, and shouldn’t try](https://www.irishtimes.com/opinion/2025/11/24/una-mullally-ireland-cant-compete-in-the-race-to-build-ai-data-centres-and-we-shouldnt-try/) (Published: 2025-11-24)
 - [Nvidia shifts to LPDDR for AI servers, Samsung poised to benefit most](https://www.digitimes.com/news/a20251124PD231/nvidia-samsung-ddr-hbm-demand.html) (Published: 2025-11-24)
 - [32" LG UltraGear OLED Dual Mode 4K UHD 240Hz or FHD 480Hz 0.03ms G-Sync Gaming Monitor (Open-Box Condition) starting from: $605.99](https://slickdeals.net/f/18860443-32-lg-ultragear-oled-dual-mode-4k-uhd-240hz-or-fhd-480hz-0-03ms-g-sync-gaming-monitor-open-box-condition-starting-from-605-99) (Published: 2025-11-24)
 - [The Hot Tub of Death? Bill Gates, Hurricane Melissa, and a Civilization Under Threat](https://www.juancole.com/2025/11/hurricane-melissa-civilization.html) (Published: 2025-11-24)
@@ -9,4 +10,3 @@ _Last updated: **2025-11-25 05:52:53**_
 - [Best Black Friday desktop computer deals](https://www.pcworld.com/article/1382181/black-friday-desktop-pc-computer-deals-2025.html) (Published: 2025-11-24)
 - [The Perils of our Bubblicious World](https://www.americanthinker.com/articles/2025/11/the_perils_of_our_bubblicious_world.html) (Published: 2025-11-24)
 - [Asian shares mostly gain and US futures also advance after Wall St ends with gains](https://finance.yahoo.com/news/asian-shares-mostly-gain-us-042004206.html) (Published: 2025-11-24)
-- [Asian shares mostly gain and US futures also advance after Wall St ends with gains](https://finance.yahoo.com/news/asian-shares-mostly-gain-us-042004957.html) (Published: 2025-11-24)
