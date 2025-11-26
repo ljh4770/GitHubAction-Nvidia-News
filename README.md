@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-26 21:51:46**_
+_Last updated: **2025-11-26 22:11:29**_
 
-- [Dow Jumps 664 Points on Hopes for Lower Rates](https://www.newser.com/story/379360/dow-jumps-664-points-on-hopes-for-lower-rates.html) (Published: 2025-11-25)
-- [As Holidays Approach, There’s Little Cheer for Consumers](https://biztoc.com/x/8b7726dff16c382f) (Published: 2025-11-25)
-- [As Holidays Approach, There’s Little Cheer for Consumers](https://biztoc.com/x/8b7726dff16c382f) (Published: 2025-11-25)
-- [Inside the FBI’s Review and Redaction of Epstein Files](https://biztoc.com/x/38f020ca2d931038) (Published: 2025-11-25)
-- [HP reports Q4 revenue up 4% YoY to $14.6B, forecasts FY 2026 profit below est., and plans to cut 4,000-6,000 jobs through FY 2028; HPQ drops 5%+ after hours](https://biztoc.com/x/81133cd4b8ed6f7b) (Published: 2025-11-25)
-- [Korean PE Industry Proposes to Self-Regulate After Homeplus Woes](https://biztoc.com/x/cb2c529d755aaacf) (Published: 2025-11-25)
-- [Aeromexico to Roll Out Business Economy Seats in 2027, CEO Says](https://biztoc.com/x/d91e4cc9080ae5a1) (Published: 2025-11-25)
-- [Campbell's IT chief on leave after lawsuit claims he said company's food is for 'poor people'](https://biztoc.com/x/35c9ad73595102f7) (Published: 2025-11-25)
-- [Traders Crowd Into Fed Futures Targeting a December Rate Cut](https://biztoc.com/x/3611b3961e1c5cca) (Published: 2025-11-25)
-- [Will Dressing Up Fix Flying? Will It Fix Anything?](https://biztoc.com/x/5b57d6717f88fa2e) (Published: 2025-11-25)
+- [What Crypto Treasury Traders Hope to See Next After Meltdown](https://biztoc.com/x/23e4120555b05b28) (Published: 2025-11-25)
+- [A $4 Billion Reason to Buy Nokia Stock Now](https://biztoc.com/x/b37bd0b384869760) (Published: 2025-11-25)
+- [Nvidia is so spooked by Google’s sudden AI comeback that it’s posting on X to defend itself](https://fortune.com/2025/11/25/why-is-nvidia-stock-falling-google-ai-comeback-chips/) (Published: 2025-11-25)
+- [Home sellers face a tough choice: Cut their asking price or remove the listing](https://biztoc.com/x/daf38f66adf5acd5) (Published: 2025-11-25)
+- [Data Centers, AI, and Energy: Everything You Need to Know](https://oilprice.com/Energy/Energy-General/Data-Centers-AI-and-Energy-Everything-You-Need-to-Know.html) (Published: 2025-11-25)
+- [The crypto industry got everything it wanted. It’s still having a meltdown](https://biztoc.com/x/457ebd7babf7c527) (Published: 2025-11-25)
+- [Petco Rises After Boosting Full-Year Adj. Ebitda Guidance](https://biztoc.com/x/2fd516c174aabbec) (Published: 2025-11-25)
+- [Hong Kong's CK Hutchison spends big to bolster Mexico port](https://biztoc.com/x/94eb748a5ab4615e) (Published: 2025-11-25)
+- [Clair Obscur leads the AP's list of 2025's top video games](https://biztoc.com/x/f61ca7d05cc538d3) (Published: 2025-11-25)
