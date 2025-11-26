@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-26 15:34:31**_
+_Last updated: **2025-11-26 15:47:49**_
 
-- [How to hire the right people for growing a company](https://biztoc.com/x/c782785005b7c698) (Published: 2025-11-25)
-- [Watch your back, Apple. Alphabet’s now closing in on a $4 trillion market cap](https://biztoc.com/x/d4bd468f686935bb) (Published: 2025-11-25)
-- [Nvidia shares tumble on signs Google gaining upper hand in AI](https://biztoc.com/x/26bd9888ea3bfbda) (Published: 2025-11-25)
-- [FDIC Moves to Relax Key Bank-Capital Rule Tied to Treasuries](https://biztoc.com/x/26ba9e4a4b83afaf) (Published: 2025-11-25)
-- [Alphabet on pace to hit $4 trillion market value as AI gains momentum](https://biztoc.com/x/9eeedf6e4dcbdf1a) (Published: 2025-11-25)
-- [Is Alphabet Threatening Nvidia’s Chip Dominance?](https://biztoc.com/x/3b0e685b0ecd6c3b) (Published: 2025-11-25)
-- [Nvidia shares drop over 6% on threat of Google selling AI chips to Meta](https://cryptobriefing.com/nvidia-shares-drop-2025-market-cap-loss/) (Published: 2025-11-25)
-- [Stock Market News: S&P 500 gains, Apple lays off and Crypto miners lead](https://biztoc.com/x/f624d5bc3b6e14dd) (Published: 2025-11-25)
-- [Fluence Energy Has High Hopes for the Fiscal Year. Analysts Are Torn Over the Stock](https://biztoc.com/x/e57ff3d78d14aa74) (Published: 2025-11-25)
-- [megatron-fsdp 0.2.0.dev101230](https://pypi.org/project/megatron-fsdp/0.2.0.dev101230/) (Published: 2025-11-25)
+- [Artificial Intelligence speaks Greek: KIEFER unveils the first large language model (LLM) in Greek](https://en.protothema.gr/2025/11/25/artificial-intelligence-speaks-greek-kiefer-unveils-the-first-large-language-model-llm-in-greek/) (Published: 2025-11-25)
+- [Improved Upstream Kernel Support For TUXEDO Laptops Being Worked On](https://www.phoronix.com/news/Uniwill-TUXEDO-Add-On-Patches) (Published: 2025-11-25)
+- [Is Google The New Leader of the AI Race?](https://gizmodo.com/google-leading-ai-race-gemini-3-nano-banana-2000691357) (Published: 2025-11-25)
+- [US stock market today: Why the Dow is up but S&P 500 and Nasdaq are sinking as Alphabet jumps and Nvidia tumbles on Meta–Google chip talks](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-the-dow-is-up-but-sp-500-and-nasdaq-are-sinking-as-alphabet-jumps-and-nvidia-tumbles-on-metagoogle-chip-talks/articleshow/125567716.cms) (Published: 2025-11-25)
+- [Google, the Sleeping Giant in Global AI Race, Now ‘Fully Awake’](https://finance.yahoo.com/news/google-sleeping-giant-global-ai-154215649.html) (Published: 2025-11-25)
+- [Nvidia-Google AI Chip Battle Escalates](https://biztoc.com/x/e404aa9079cfadb5) (Published: 2025-11-25)
+- [3 Ways Oracle’s OpenAI Deal Could Play Out. Only 1 Looks Good for the Stock](https://biztoc.com/x/3c6cece261fc3d88) (Published: 2025-11-25)
+- [Nvidia CEO told employees to use AI for 'every task that is possible' and says there will still be plenty of jobs](https://biztoc.com/x/669f918d17dc6b36) (Published: 2025-11-25)
+- [Ticket Reseller’s Loan Swoons After UK Touts Plan to Cap Prices](https://biztoc.com/x/21960bbb07b56447) (Published: 2025-11-25)
