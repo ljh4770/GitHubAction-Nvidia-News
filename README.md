@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-26 07:46:05**_
+_Last updated: **2025-11-26 07:56:16**_
 
 - [Intel Core Ultra 9 386H and Core Ultra 5 322 Panther Lake CPUs make Geekbench debut alongside upcoming Acer laptops](https://www.notebookcheck.net/Intel-Core-Ultra-9-386H-and-Core-Ultra-5-322-Panther-Lake-CPUs-make-Geekbench-debut-alongside-upcoming-Acer-laptops.1170390.0.html) (Published: 2025-11-25)
 - [Intel Core Ultra 9 386H and Core Ultra 5 332 Panther Lake CPUs make Geekbench debut alongside upcoming Acer laptops](https://www.notebookcheck.net/Intel-Core-Ultra-9-386H-and-Core-Ultra-5-332-Panther-Lake-CPUs-make-Geekbench-debut-alongside-upcoming-Acer-laptops.1170390.0.html) (Published: 2025-11-25)
