@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-26 07:18:52**_
+_Last updated: **2025-11-26 07:35:26**_
 
+- [CNBC Daily Open: Alphabet to omega in AI?](https://www.cnbc.com/2025/11/25/cnbc-daily-open-alphabet-to-omega-in-ai.html) (Published: 2025-11-25)
+- [Alphabet races toward $4 trillion valuation on AI gains](https://www.rte.ie/news/business/2025/1125/1545690-alphabet-races-toward-4-trillion-valuation-on-ai-gains/) (Published: 2025-11-25)
 - [Meta reportedly eyes Google TPU adoption, intensifying pressure on Nvidia](https://www.digitimes.com/news/a20251125PD236/meta-google-tpu-nvidia.html) (Published: 2025-11-25)
 - [JPMorgan Chase CEO Jamie Dimon calls Nvidia 'unbelievable company' but also has a warning for investors. Check details](https://economictimes.indiatimes.com/news/new-updates/jpmorgan-chase-ceo-jamie-dimon-calls-nvidia-unbelievable-company-but-also-has-a-warning-for-investors-check-details/articleshow/125558414.cms) (Published: 2025-11-25)
 - [Read Nvidia's rebuttal to Michael Burry's criticism that the AI chip titan has hurt shareholder value](https://biztoc.com/x/31bdf922a4552cfa) (Published: 2025-11-25)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-26 07:18:52**_
 - [Nvidia Shares Drop on Report of Google Challenge in AI Chips - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=180200939) (Published: 2025-11-25)
 - [Asian shares advance after Wall Street gets a lift from hopes for a Fed rate cut](https://abcnews.go.com/Business/wireStory/asian-shares-advance-after-wall-street-gets-lift-127851469) (Published: 2025-11-25)
 - [Asian shares advance after Wall Street gets a lift from hopes for a Fed rate cut](https://japantoday.com/category/business/asian-shares-advance-after-wall-street-gets-a-lift-from-hopes-for-a-fed-rate-cut) (Published: 2025-11-25)
-- [Premium: The Hater's Guide To NVIDIA](https://www.wheresyoured.at/the-haters-guide-to-nvidia/) (Published: 2025-11-25)
-- [How LLM Inference Works](https://arpitbhayani.me/blogs/how-llm-inference-works/) (Published: 2025-11-25)
