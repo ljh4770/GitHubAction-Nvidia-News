@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-26 19:24:43**_
+_Last updated: **2025-11-26 19:36:15**_
 
-- [US judge approves Elliott affiliate bid for Citgo Petroleum parent](https://biztoc.com/x/f655fe2d93ddb094) (Published: 2025-11-25)
-- [Swalwell Claims Pulte Abused Power to Target Trump Critics](https://biztoc.com/x/14b7a0a7e305774e) (Published: 2025-11-25)
-- [Nvidia says it's 'delighted by Google's success' — but 'Nvidia is a generation ahead of the industry'](https://biztoc.com/x/3b8bed104f0221b5) (Published: 2025-11-25)
-- [Why Google's Challenge To Nvidia Is 'Intriguing' For Amazon's AI Chip Push](https://biztoc.com/x/0c8e25f0c4bd68ce) (Published: 2025-11-25)
-- [Airport chapels stay on the radar of workers and travelers even as role of faith in public shifts](https://biztoc.com/x/3384f860f2ddc28e) (Published: 2025-11-25)
-- [Nvidia says it's 'delighted by Google's success' — but 'Nvidia is a generation ahead of the industry'](https://www.businessinsider.com/nvidia-generation-ahead-google-chips-2025-11) (Published: 2025-11-25)
-- [Recent Windows Update Caused Substantial Performance Drop in Assassin’s Creed Shadows](https://wccftech.com/recent-windows-update-caused-substantial-performance-drop-assassins-creed-shadows/) (Published: 2025-11-25)
-- [Why Google’s AI Wins Are Bad News for Nvidia Stock and the AI Trade - Barron's](https://slashdot.org/firehose.pl?op=view&amp;id=180208659) (Published: 2025-11-25)
-- [Nvidia Just ‘Dropped the Mic’ But Its Stock Dropped Too. How Should You Play NVDA Here?](https://biztoc.com/x/8c9442066a353413) (Published: 2025-11-25)
+- [Wall Street mixed as investors assess economic data; Nvidia slides](https://biztoc.com/x/17b054ec4e91f222) (Published: 2025-11-25)
+- [Lowe's to pay $12.5 million penalty for lead paint violations](https://biztoc.com/x/fba82dac70712b57) (Published: 2025-11-25)
+- [Cocoa Prices Slump as EU Expected to Delay Deforestation Rules](https://biztoc.com/x/f8a44e9b4b89f5de) (Published: 2025-11-25)
+- [Clark to make USA Basketball national team camp debut joined by other first timers Reese, Bueckers](https://biztoc.com/x/420dd318817e605c) (Published: 2025-11-25)
+- [U.S. posts $284 billion October deficit amid record tariff revenue](https://biztoc.com/x/fe53d746764a0d9b) (Published: 2025-11-25)
+- [Coffee Prices Sharply Higher on Global Crop Concerns](https://biztoc.com/x/7ddfedc3c0b75243) (Published: 2025-11-25)
+- [Robinhood CEO's math-focused AI startup Harmonic valued at $1.45 billion in latest fundraising](https://biztoc.com/x/f708f61ad7845ce4) (Published: 2025-11-25)
+- [Federal Deficit Hit a Record in October. Why the News Isn’t So Bad](https://biztoc.com/x/ffb81c8070c08ae1) (Published: 2025-11-25)
+- [Outside the U.S. and Europe, the momentum of China’s open source AI models is plain to see](https://fortune.com/2025/11/25/outside-the-u-s-and-europe-the-momentum-of-chinas-open-source-ai-models-is-plain-to-see/) (Published: 2025-11-25)
+- [PayPal, CrowdStrike and Synopsys Use Focused AI for Speed, Accuracy](https://www.pymnts.com/artificial-intelligence-2/2025/paypal-crowdstrike-and-synopsys-use-focused-ai-for-speed-accuracy/) (Published: 2025-11-25)
