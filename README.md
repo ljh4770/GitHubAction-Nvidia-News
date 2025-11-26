@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-26 21:28:27**_
+_Last updated: **2025-11-26 21:41:12**_
 
+- [Linux GPU benchmarks impress in Windows gaming alternative Bazzite, but Nvidia is inconsistent](https://www.notebookcheck.net/Linux-GPU-benchmarks-impress-in-Windows-gaming-alternative-Bazzite-but-Nvidia-is-inconsistent.1170851.0.html) (Published: 2025-11-25)
 - [WIRED Roundup: Gemini 3 Release, Nvidia Earnings, Epstein Files Fallout](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-gemini-3-release-nvidia-earnings-epstein-files-fallout/) (Published: 2025-11-25)
 - [Apple shares hit new all-time intraday and closing highs](https://macdailynews.com/2025/11/25/apple-shares-hit-new-all-time-intraday-and-closing-highs-251125/) (Published: 2025-11-25)
 - [Dell misses on revenue, offers strong forecast driven by AI sales](https://www.cnbc.com/2025/11/25/dell-earnings-report-q3-2026.html) (Published: 2025-11-25)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-26 21:28:27**_
 - [Jensen Huang Says “AI is Going Everywhere, Doing Everything,”—Time to Get Back Into the Oversold AI Stocks?](https://biztoc.com/x/bff40e7b42ba5f05) (Published: 2025-11-25)
 - [Dell misses on revenue, offers strong forecast driven by AI sales](https://biztoc.com/x/120b597ca059c951) (Published: 2025-11-25)
 - [Why Google's Challenge To Nvidia Is 'Intriguing' For Amazon's AI Chip Push - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180209285) (Published: 2025-11-25)
-- [Seafarer: The Ship Sim Receives LNG & Bulk Update](https://bleedingcool.com/games/seafarer-the-ship-sim-receives-lng-bulk-update/) (Published: 2025-11-25)
