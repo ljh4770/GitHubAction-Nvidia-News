@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-26 07:35:26**_
+_Last updated: **2025-11-26 07:46:05**_
 
+- [Intel Core Ultra 9 386H and Core Ultra 5 322 Panther Lake CPUs make Geekbench debut alongside upcoming Acer laptops](https://www.notebookcheck.net/Intel-Core-Ultra-9-386H-and-Core-Ultra-5-322-Panther-Lake-CPUs-make-Geekbench-debut-alongside-upcoming-Acer-laptops.1170390.0.html) (Published: 2025-11-25)
+- [Intel Core Ultra 9 386H and Core Ultra 5 332 Panther Lake CPUs make Geekbench debut alongside upcoming Acer laptops](https://www.notebookcheck.net/Intel-Core-Ultra-9-386H-and-Core-Ultra-5-332-Panther-Lake-CPUs-make-Geekbench-debut-alongside-upcoming-Acer-laptops.1170390.0.html) (Published: 2025-11-25)
 - [CNBC Daily Open: Alphabet to omega in AI?](https://www.cnbc.com/2025/11/25/cnbc-daily-open-alphabet-to-omega-in-ai.html) (Published: 2025-11-25)
 - [Alphabet races toward $4 trillion valuation on AI gains](https://www.rte.ie/news/business/2025/1125/1545690-alphabet-races-toward-4-trillion-valuation-on-ai-gains/) (Published: 2025-11-25)
 - [Meta reportedly eyes Google TPU adoption, intensifying pressure on Nvidia](https://www.digitimes.com/news/a20251125PD236/meta-google-tpu-nvidia.html) (Published: 2025-11-25)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-26 07:35:26**_
 - [Oracle deploys the Middle East’s first AI supercluster to power sovereign AI in Abu Dhabi](https://www.computerweekly.com/news/366634749/Oracle-deploys-the-Middle-Easts-first-AI-supercluster-to-power-sovereign-AI-in-Abu-Dhabi) (Published: 2025-11-25)
 - [The War of the AI Moguls on Climate Science](https://www.counterpunch.org/2025/11/25/the-war-of-the-ai-moguls-on-climate-science/) (Published: 2025-11-25)
 - [Nvidia Shares Drop on Report of Google Challenge in AI Chips - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=180200939) (Published: 2025-11-25)
-- [Asian shares advance after Wall Street gets a lift from hopes for a Fed rate cut](https://abcnews.go.com/Business/wireStory/asian-shares-advance-after-wall-street-gets-lift-127851469) (Published: 2025-11-25)
-- [Asian shares advance after Wall Street gets a lift from hopes for a Fed rate cut](https://japantoday.com/category/business/asian-shares-advance-after-wall-street-gets-a-lift-from-hopes-for-a-fed-rate-cut) (Published: 2025-11-25)
