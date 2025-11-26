@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-26 04:49:46**_
+_Last updated: **2025-11-26 04:59:57**_
 
 - [This is the only Black Friday GPU deal I'd recommend buying](https://www.xda-developers.com/this-is-only-black-friday-gpu-deal-id-recommend-buying/) (Published: 2025-11-25)
 - [PC GPU Shipments Increased 2.5% In Q3 2025, AMD Gains In Both GPU & CPU Market Share](https://wccftech.com/pc-gpu-shipment-q3-2025-amd-gains-both-gpu-cpu-market-share/) (Published: 2025-11-25)
