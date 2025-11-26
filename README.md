@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-26 15:47:49**_
+_Last updated: **2025-11-26 15:58:15**_
 
-- [Artificial Intelligence speaks Greek: KIEFER unveils the first large language model (LLM) in Greek](https://en.protothema.gr/2025/11/25/artificial-intelligence-speaks-greek-kiefer-unveils-the-first-large-language-model-llm-in-greek/) (Published: 2025-11-25)
-- [Improved Upstream Kernel Support For TUXEDO Laptops Being Worked On](https://www.phoronix.com/news/Uniwill-TUXEDO-Add-On-Patches) (Published: 2025-11-25)
-- [Is Google The New Leader of the AI Race?](https://gizmodo.com/google-leading-ai-race-gemini-3-nano-banana-2000691357) (Published: 2025-11-25)
-- [US stock market today: Why the Dow is up but S&P 500 and Nasdaq are sinking as Alphabet jumps and Nvidia tumbles on Meta–Google chip talks](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-the-dow-is-up-but-sp-500-and-nasdaq-are-sinking-as-alphabet-jumps-and-nvidia-tumbles-on-metagoogle-chip-talks/articleshow/125567716.cms) (Published: 2025-11-25)
-- [Google, the Sleeping Giant in Global AI Race, Now ‘Fully Awake’](https://finance.yahoo.com/news/google-sleeping-giant-global-ai-154215649.html) (Published: 2025-11-25)
-- [Nvidia-Google AI Chip Battle Escalates](https://biztoc.com/x/e404aa9079cfadb5) (Published: 2025-11-25)
-- [3 Ways Oracle’s OpenAI Deal Could Play Out. Only 1 Looks Good for the Stock](https://biztoc.com/x/3c6cece261fc3d88) (Published: 2025-11-25)
-- [Nvidia CEO told employees to use AI for 'every task that is possible' and says there will still be plenty of jobs](https://biztoc.com/x/669f918d17dc6b36) (Published: 2025-11-25)
-- [Ticket Reseller’s Loan Swoons After UK Touts Plan to Cap Prices](https://biztoc.com/x/21960bbb07b56447) (Published: 2025-11-25)
+- [Solar-powered iLamp turns the humble lamppost into an AI hub](https://www.techradar.com/ai-platforms-assistants/solar-powered-ilamp-turns-the-humble-lamppost-into-an-ai-hub) (Published: 2025-11-25)
+- [Nvidia namechecks Michael Burry in secret memo pushing back on AI bubble allegations](https://www.cnbc.com/2025/11/25/nvidia-pushes-back-on-charges-that-ai-investment-is-a-bubble.html) (Published: 2025-11-25)
+- [FLUX.2 Image Generation Models Now Released, Optimized for NVIDIA RTX GPUs](https://blogs.nvidia.com/blog/rtx-ai-garage-flux-2-comfyui/) (Published: 2025-11-25)
+- [Alphabet AI Chips, Gemini Model Position It to Rival Nvidia - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=180207407) (Published: 2025-11-25)
+- [Oracle And Nvidia Team Up To Power Abu Dhabi's Push For 'Sovereign AI'](https://biztoc.com/x/59cd80e38406e991) (Published: 2025-11-25)
+- [Market Volatility Underscores Epic Buildup of Global Risk](https://biztoc.com/x/5d16b0c686e16587) (Published: 2025-11-25)
+- [AMD faces critical question about trillion-dollar future](https://rollingout.com/2025/11/25/amd-faces-question-about-trillion-dollar/) (Published: 2025-11-25)
+- [The Stock Market Is Struggling. Blame Nvidia, Crypto Stocks](https://biztoc.com/x/24c7605c98e22b47) (Published: 2025-11-25)
+- [Nvidia Stock Drops. Reported Meta Deal Shows Google Threat Isn’t Going Away](https://biztoc.com/x/53f4dc11b1696391) (Published: 2025-11-25)
+- [RTX 60 and RDNA 5 release date leak claims substantial delay for next-gen Nvidia GPUs](https://www.notebookcheck.net/RTX-60-and-RDNA-5-release-date-leak-claims-substantial-delay-for-next-gen-Nvidia-GPUs.1170502.0.html) (Published: 2025-11-25)
