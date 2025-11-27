@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-27 23:43:45**_
+_Last updated: **2025-11-27 23:54:23**_
 
 - [This $1,400 Steam Machine alternative houses a tiny desktop GPU](https://www.theverge.com/games/831106/minisforum-g1-pro-mini-pc-price-release-date) (Published: 2025-11-26)
 - [S&P 500, Nasdaq, and Dow extend rally into fourth day ahead of Thanksgiving, heading for best week since June amid AI stock rebound and rising Fed rate-cut bets](https://economictimes.indiatimes.com/news/international/us/sp-500-nasdaq-and-dow-extend-rally-into-fourth-day-ahead-of-thanksgiving-heading-for-best-week-since-june-amid-ai-stock-rebound-and-rising-fed-rate-cut-bets/articleshow/125602068.cms) (Published: 2025-11-26)
