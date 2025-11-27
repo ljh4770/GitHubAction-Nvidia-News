@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-27 05:10:11**_
+_Last updated: **2025-11-27 05:34:39**_
 
+- [Rate cut speculation and Fed Chair rumors keeping markets on edge: Ed Yardeni](https://economictimes.indiatimes.com/markets/expert-view/rate-cut-speculation-and-fed-chair-rumors-keeping-markets-on-edge-ed-yardeni/articleshow/125580604.cms) (Published: 2025-11-26)
+- [The AI boom hits a crossroads in 2026](https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-boom-hits-a-crossroads-in-2026/articleshow/125580609.cms) (Published: 2025-11-26)
+- [Nvidia defends GPU lead as Google TPU gains traction in AI chip market](https://www.digitimes.com/news/a20251126PD218/nvidia-google-gpu-ai-chip-tpu.html) (Published: 2025-11-26)
 - [Nvidia-Google AI chip war heats up as world’s most valuable company ‘delighted by Google’s success’ despite its own stock fall after report of Meta-Google chip deal](https://economictimes.indiatimes.com/news/international/us/nvidia-google-ai-chip-war-heats-up-as-worlds-most-valuable-company-delighted-by-googles-success-despite-its-own-stock-fall-after-report-of-meta-google-chip-deal/articleshow/125580136.cms) (Published: 2025-11-26)
 - [Nvidia sparks AI data center power architecture revolution; Taiwan's top wire bonding firms poised to benefit](https://www.digitimes.com/news/a20251126PD225/taiwan-wire-bonding-nvidia-rubin-infrastructure.html) (Published: 2025-11-26)
 - ['Big Short' Michael Burry Doubles Down On Bear Case After Nvidia Pushes Back In Wall Street Note](https://biztoc.com/x/86525903f0fc0bc5) (Published: 2025-11-26)
@@ -8,6 +11,3 @@ _Last updated: **2025-11-27 05:10:11**_
 - [India has satisfied its supercomputing needs, but not its ambitions](https://www.theregister.com/2025/11/26/india_supercomputing_state_of/) (Published: 2025-11-26)
 - [S&P 500 Gains and Losses Today: Nvidia, AMD Slide After Report of Google AI Chip Deal; Best Buy Stock Jumps](https://biztoc.com/x/2458f983a67471a4) (Published: 2025-11-26)
 - [India heading for biggest-ever IPO year as Meesho, Fractal lead Rs 40,000 crore December pipeline](https://economictimes.indiatimes.com/markets/ipos/fpos/india-heading-for-biggest-ever-ipo-year-as-meesho-fractal-lead-rs-40000-crore-december-pipeline/articleshow/125579148.cms) (Published: 2025-11-26)
-- [RM150mil in smart tech investments approved, Dewan Rakyat told](https://www.thestar.com.my/news/nation/2025/11/26/rm150mil-in-smart-tech-investments-approved-dewan-rakyat-told) (Published: 2025-11-26)
-- [Don’t be surprised if Nifty trades crosses 27,000 in 2026: SAMCO's Apurva Sheth](https://economictimes.indiatimes.com/markets/expert-view/dont-be-surprised-if-nifty-trades-crosses-27000-in-2026-samcos-apurva-sheth/articleshow/125569122.cms) (Published: 2025-11-26)
-- [Global data center AI chip packaging market forecast, 2024-2030](https://www.digitimes.com/reports/item.asp?id=20251003RS401) (Published: 2025-11-26)
