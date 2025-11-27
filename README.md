@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-27 07:52:53**_
+_Last updated: **2025-11-27 08:21:03**_
 
+- ['Are you insane?': Billionaire CEO Jensen Huang explodes at Nvidia managers in all-hands meeting. Here's why](https://economictimes.indiatimes.com/news/new-updates/are-you-insane-billionaire-ceo-jensen-huang-explodes-at-nvidia-managers-in-all-hands-meeting-heres-why/articleshow/125583964.cms) (Published: 2025-11-26)
+- [The AI boom hits a crossroads in 2026](https://www.digitaljournal.com/tech-science/the-ai-boom-hits-a-crossroads-in-2026/article) (Published: 2025-11-26)
+- [Alibaba's CEO says he doesn't see 'much of an issue' with an AI bubble and plans to invest 'aggressively'](https://www.businessinsider.com/alibaba-ceo-ai-bubble-invest-aggressive-eddie-wu-earnings-2025-11) (Published: 2025-11-26)
+- [France's Safran expects annual India revenue to triple to more than $3.4 billion by 2030](https://biztoc.com/x/11f01da063ee49b5) (Published: 2025-11-26)
+- [IQM Quantum Computers to invest more than 40 million euros in expanding Finland production site](https://biztoc.com/x/371a5ac469c2925b) (Published: 2025-11-26)
+- [Swire Cuts Dozens of Jobs in Rare Layoffs as China Economy Slows](https://biztoc.com/x/ffc8c2d7ce276493) (Published: 2025-11-26)
+- [AI Is Remaking Shopping. These Companies Are the Leaders](https://biztoc.com/x/433b46bf9ee0e8e4) (Published: 2025-11-26)
 - [Serbia prepares amendment to enable takeover of Russian-owned refiner, official says](https://biztoc.com/x/016907bf547d9438) (Published: 2025-11-26)
 - [Tesla says it values China suppliers, does not exclude any by origin](https://biztoc.com/x/024b72eb1ff06b26) (Published: 2025-11-26)
 - [McKinsey Cuts About 200 Tech Jobs, Shifts More Roles to AI](https://biztoc.com/x/5d609fa814891969) (Published: 2025-11-26)
-- [Pets, anime and toys are part of China’s latest effort to boost consumption](https://biztoc.com/x/24af5e188e7e48b8) (Published: 2025-11-26)
-- [Minisforum G1 Pro Gaming PC Is Slimmer Than A PS5 Pro & Still Packs A 16-Core Ryzen 9 8945HX, NVIDIA RTX 5060 GPU, & Up To 300W Cooling](https://wccftech.com/minisforum-g1-pro-gaming-pc-slimmer-than-ps5-pro-packs-16-core-ryzen-rtx-5060/) (Published: 2025-11-26)
-- [Weil elevates four London lawyers to partner in 17-strong promotion round](https://biztoc.com/x/6d3dca4719a72940) (Published: 2025-11-26)
-- [Some food bloggers warn Google's AI Overviews and AI food pics are burying their real, tested recipes, setting home cooks up for disaster this Thanksgiving](https://biztoc.com/x/db89c89dca201ad4) (Published: 2025-11-26)
-- [Polymarket Is Cleared to Offer Prediction Markets as U.S. Regulator Remains Quiet on Sports Betting](https://biztoc.com/x/142700bda5b1bfd4) (Published: 2025-11-26)
-- [SoftBank’s 40% Slide From Peak Shows Worry Over Giant OpenAI Bet](https://financialpost.com/pmn/business-pmn/softbanks-40-slide-from-peak-shows-worry-over-giant-openai-bet) (Published: 2025-11-26)
-- [CNBC Daily Open: The weight of Nvidia's crown](https://www.cnbc.com/2025/11/26/cnbc-daily-open-the-weight-of-nvidias-crown.html) (Published: 2025-11-26)
