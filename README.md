@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-27 20:12:52**_
+_Last updated: **2025-11-27 20:32:13**_
 
+- [Nikos Kazantzakis, Cybersecurity Grants, Pebble, More: Wednesday Afternoon ResearchBuzz, November 26, 2025](https://researchbuzz.me/2025/11/26/nikos-kazantzakis-cybersecurity-grants-pebble-more-wednesday-afternoon-researchbuzz-november-26-2025/) (Published: 2025-11-26)
 - [The LG G4 OLED dominated our readers' TV purchases this year - now it's up to $5,000 off](https://www.zdnet.com/home-and-office/home-entertainment/the-lg-g4-oled-dominated-our-readers-tv-purchases-this-year-now-its-up-to-5000-off/) (Published: 2025-11-26)
 - [Will AI stocks crash or surge? Dan Ives reveals top 10 picks as only 3% of US companies have adopted AI](https://economictimes.indiatimes.com/news/international/us/will-ai-stocks-crash-or-surge-dan-ives-reveals-top-10-picks-as-only-3-of-us-companies-have-adopted-ai/articleshow/125598926.cms) (Published: 2025-11-26)
 - [Walmart's laptop Black Friday deals have everyone else beat — I handpicked the 7 best discounts on the best PCs of the year](https://www.windowscentral.com/hardware/laptops/walmart-black-friday-laptop-deals) (Published: 2025-11-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-27 20:12:52**_
 - [ChatGPT: Everything you need to know about the AI chatbot](https://techcrunch.com/2025/11/26/chatgpt-everything-to-know-about-the-ai-chatbot/) (Published: 2025-11-26)
 - [Google Is Getting the AI Spotlight, But Nvidia Says Its GPUs Are a ‘Generation Ahead.’ How Should You Play NVDA Stock Here?](https://biztoc.com/x/596dca3a60e814a0) (Published: 2025-11-26)
 - [Coffee Break: Nvidia’s Narrative Breaking Down?](https://www.nakedcapitalism.com/2025/11/nvidias-narrative-cramer-burry-alphabet-tpus-druckenmiller.html) (Published: 2025-11-26)
-- [10 Datapoints for Thanksgiving](https://ritholtz.com/2025/11/10-datapoints-for-thanksgiving/) (Published: 2025-11-26)
