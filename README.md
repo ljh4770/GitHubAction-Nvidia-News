@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-27 05:34:39**_
+_Last updated: **2025-11-27 05:48:12**_
 
+- [Microsoft Agent 365: The control plane for AI agents | Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-agent-365-the-control-plane-for-ai-agents/) (Published: 2025-11-26)
 - [Rate cut speculation and Fed Chair rumors keeping markets on edge: Ed Yardeni](https://economictimes.indiatimes.com/markets/expert-view/rate-cut-speculation-and-fed-chair-rumors-keeping-markets-on-edge-ed-yardeni/articleshow/125580604.cms) (Published: 2025-11-26)
 - [The AI boom hits a crossroads in 2026](https://economictimes.indiatimes.com/tech/artificial-intelligence/the-ai-boom-hits-a-crossroads-in-2026/articleshow/125580609.cms) (Published: 2025-11-26)
 - [Nvidia defends GPU lead as Google TPU gains traction in AI chip market](https://www.digitimes.com/news/a20251126PD218/nvidia-google-gpu-ai-chip-tpu.html) (Published: 2025-11-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-27 05:34:39**_
 - [The Decked Out Lenovo Legion Tower 7 RTX 5090 Gaming PC Drops to $3,600 for Black Friday](https://www.ign.com/articles/lenovo-legion-tower-7-rtx-5090-gaming-pc-deal-black-friday-sale) (Published: 2025-11-26)
 - [India has satisfied its supercomputing needs, but not its ambitions](https://www.theregister.com/2025/11/26/india_supercomputing_state_of/) (Published: 2025-11-26)
 - [S&P 500 Gains and Losses Today: Nvidia, AMD Slide After Report of Google AI Chip Deal; Best Buy Stock Jumps](https://biztoc.com/x/2458f983a67471a4) (Published: 2025-11-26)
-- [India heading for biggest-ever IPO year as Meesho, Fractal lead Rs 40,000 crore December pipeline](https://economictimes.indiatimes.com/markets/ipos/fpos/india-heading-for-biggest-ever-ipo-year-as-meesho-fractal-lead-rs-40000-crore-december-pipeline/articleshow/125579148.cms) (Published: 2025-11-26)
