@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-27 20:54:49**_
+_Last updated: **2025-11-27 21:16:50**_
 
 - [European Fintech Draws in Investors Seeking Refuge From Wall Street’s AI Bubble (Dmytro Spilka)](https://www.finextra.com/blogposting/30228/european-fintech-draws-in-investors-seeking-refuge-from-wall-streets-ai-bubble) (Published: 2025-11-26)
 - [Here are the 49 US AI startups that have raised $100M or more in 2025 | TechCrunch](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) (Published: 2025-11-26)
