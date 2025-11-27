@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-27 04:50:30**_
+_Last updated: **2025-11-27 05:10:11**_
 
+- [Nvidia-Google AI chip war heats up as world’s most valuable company ‘delighted by Google’s success’ despite its own stock fall after report of Meta-Google chip deal](https://economictimes.indiatimes.com/news/international/us/nvidia-google-ai-chip-war-heats-up-as-worlds-most-valuable-company-delighted-by-googles-success-despite-its-own-stock-fall-after-report-of-meta-google-chip-deal/articleshow/125580136.cms) (Published: 2025-11-26)
 - [Nvidia sparks AI data center power architecture revolution; Taiwan's top wire bonding firms poised to benefit](https://www.digitimes.com/news/a20251126PD225/taiwan-wire-bonding-nvidia-rubin-infrastructure.html) (Published: 2025-11-26)
 - ['Big Short' Michael Burry Doubles Down On Bear Case After Nvidia Pushes Back In Wall Street Note](https://biztoc.com/x/86525903f0fc0bc5) (Published: 2025-11-26)
 - [The Decked Out Lenovo Legion Tower 7 RTX 5090 Gaming PC Drops to $3,600 for Black Friday](https://www.ign.com/articles/lenovo-legion-tower-7-rtx-5090-gaming-pc-deal-black-friday-sale) (Published: 2025-11-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-27 04:50:30**_
 - [RM150mil in smart tech investments approved, Dewan Rakyat told](https://www.thestar.com.my/news/nation/2025/11/26/rm150mil-in-smart-tech-investments-approved-dewan-rakyat-told) (Published: 2025-11-26)
 - [Don’t be surprised if Nifty trades crosses 27,000 in 2026: SAMCO's Apurva Sheth](https://economictimes.indiatimes.com/markets/expert-view/dont-be-surprised-if-nifty-trades-crosses-27000-in-2026-samcos-apurva-sheth/articleshow/125569122.cms) (Published: 2025-11-26)
 - [Global data center AI chip packaging market forecast, 2024-2030](https://www.digitimes.com/reports/item.asp?id=20251003RS401) (Published: 2025-11-26)
-- [The AI boom hits a crossroads in 2026](https://www.digitaljournal.com/world/the-ai-boom-hits-a-crossroads-in-2026/article) (Published: 2025-11-26)
