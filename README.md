@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 09:40:19**_
+_Last updated: **2025-11-28 09:50:57**_
 
 - [Nvidia's bumpy November](https://biztoc.com/x/9bed1d6b7c4f20a4) (Published: 2025-11-27)
 - [HPC won't be an x86 monoculture forever – and it's starting to show](https://www.theregister.com/2025/11/27/arm_riscv_hpc/) (Published: 2025-11-27)
