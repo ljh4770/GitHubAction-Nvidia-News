@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 05:46:23**_
+_Last updated: **2025-11-28 05:56:44**_
 
 - [Why Google may become the new AI king, with chips to rival Nvidia’s](https://www.independent.ie/business/technology/why-google-may-become-the-new-ai-king-with-chips-to-rival-nvidias/a690757419.html) (Published: 2025-11-27)
 - [China's tech giants move AI model training overseas to tap Nvidia chips: FT](https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-tech-giants-move-ai-model-training-overseas-to-tap-nvidia-chips-ft/articleshow/125605781.cms) (Published: 2025-11-27)
