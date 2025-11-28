@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 23:31:38**_
+_Last updated: **2025-11-28 23:42:57**_
 
+- [Pro Chefs Swear by These Kitchen Tools, and They’re All Under $10 for Black Friday](https://biztoc.com/x/5bddbe0cb8ee0f6b) (Published: 2025-11-27)
+- [Black Friday: What time do stores open?](https://biztoc.com/x/074a04f8aa89d85f) (Published: 2025-11-27)
 - [Emerging Assets Halt Rally in Quiet Session Amid US Holiday](https://biztoc.com/x/8370b8d181770814) (Published: 2025-11-27)
 - [megatron-fsdp 0.2.0.dev132167](https://pypi.org/project/megatron-fsdp/0.2.0.dev132167/) (Published: 2025-11-27)
 - [NVIDIA Reportedly Halts Bundling VRAM Chips With GPU Dies For Board Partners - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=180226775) (Published: 2025-11-27)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-28 23:31:38**_
 - [Lions wide receiver Amon-Ra St. Brown leaves game against Packers with ankle injury](https://biztoc.com/x/6198ff8ce28848a1) (Published: 2025-11-27)
 - [Malaysia’s Anwar Faces Revenue-Sharing Pressure in Sabah Polls](https://biztoc.com/x/236e08f8bafb108d) (Published: 2025-11-27)
 - [US woman missing after not returning to cruise ship in Caribbean](https://biztoc.com/x/91935928209b797a) (Published: 2025-11-27)
-- [Australia’s Path to Net Zero Just Got Tougher](https://biztoc.com/x/357760f6192f4ef9) (Published: 2025-11-27)
-- [Taiwan Insurers Set for Record US Dollar Bond Sales to Curb Risk](https://biztoc.com/x/6abc976f526940ed) (Published: 2025-11-27)
