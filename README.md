@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 19:36:14**_
+_Last updated: **2025-11-28 19:46:44**_
 
+- [This Thanksgiving’s real drama may be Michael Burry versus Nvidia](https://biztoc.com/x/08d7491848f4ffa0) (Published: 2025-11-27)
+- [Gucci Names Former Renault Executive De Ficchy as New CFO](https://biztoc.com/x/e8f03898cc927170) (Published: 2025-11-27)
 - [This Thanksgiving's real drama may be Michael Burry versus Nvidia | TechCrunch](https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/) (Published: 2025-11-27)
 - [Peru Sentences Its Second Former President to Prison This Week](https://biztoc.com/x/782a442babefa5e0) (Published: 2025-11-27)
 - [Trump Orders New Immigration Curbs as FBI Probes Guard Shooting](https://biztoc.com/x/10defe68f25319ea) (Published: 2025-11-27)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-28 19:36:14**_
 - [Here's when to find the best Black Friday deals on appliances, electronics, travel and more](https://biztoc.com/x/ee29fbba59740c69) (Published: 2025-11-27)
 - [Will a Graft Scandal Bring Down Another Marcos?](https://biztoc.com/x/0ef3c611b565d02d) (Published: 2025-11-27)
 - [World shares are mixed, tracking Wall Street's winning streak, as US markets close for Thanksgiving](https://biztoc.com/x/83f26a256151989e) (Published: 2025-11-27)
-- [Central bank body BIS warns of hedge fund leverage in government bond markets](https://biztoc.com/x/874bea8c3b49c276) (Published: 2025-11-27)
-- [Brazil’s Job Market Cools, Spurring Bets on January Rate Cut](https://biztoc.com/x/ff2b4ff6241ace54) (Published: 2025-11-27)
