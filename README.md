@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 13:52:09**_
+_Last updated: **2025-11-28 14:12:46**_
 
-- [Oh great, the latest rumours suggest Nvidia might stop bundling VRAM with its GPUs, because who cares about cheap graphics cards](https://www.pcgamer.com/hardware/graphics-cards/great-new-leak-reveals-nvidia-might-stop-bundling-vram-with-its-gpus-because-who-cares-about-cheap-graphics-cards/) (Published: 2025-11-27)
-- [South Korean crypto exchange Upbit reports $30 million theft — hack discovered hours after country’s largest search engine announced $10 billion acquisition of crypto platform's parent company](https://www.tomshardware.com/tech-industry/cryptocurrency/south-korean-crypto-exchange-upbit-reports-usd30-million-theft-hack-discovered-hours-after-countrys-largest-search-engine-announced-usd10-billion-acquisition-of-crypto-platforms-parent-company) (Published: 2025-11-27)
-- [TPUs vs. GPUs and why Google is positioned to win AI race in the long term](https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference) (Published: 2025-11-27)
-- [AI platform Suno generates entire Spotify catalogue’s worth of music every two weeks](https://djmag.com/news/ai-platform-suno-generates-entire-spotify-catalogues-worth-of-music-every-two-weeks) (Published: 2025-11-27)
-- [Nvidia CEO Jensen Huang sounds 'Judgment-Day' like warning but there is a good news](https://economictimes.indiatimes.com/news/international/us/nvidia-ceo-jensen-huang-sounds-judgment-day-like-warning-but-there-is-a-good-news/articleshow/125615465.cms) (Published: 2025-11-27)
-- [Sands Capital Select Growth Strategy’s Top Absolute Individual Contributor: NVIDIA Corporation (NVDA)](https://biztoc.com/x/dd7cbd1e0b7653c7) (Published: 2025-11-27)
-- [Ray Dalio: AI Stocks Are In Bubble Territory, But The Real Danger Isn't What Investors Expect](https://biztoc.com/x/492072c983eb77a9) (Published: 2025-11-27)
-- [Ray Dalio: AI Stocks Are In Bubble Territory, But The Real Danger Isn't What Investors Expect](https://finance.yahoo.com/news/ray-dalio-ai-stocks-bubble-130115676.html) (Published: 2025-11-27)
-- [Nvidia Partner Super Micro Computer Sees Weakening Momentum As Margin Pressures, Revenue Shortfall Weigh On Stock](https://biztoc.com/x/3633e2d38f611452) (Published: 2025-11-27)
+- [(PR) NVIDIA GeForce NOW Brings Seven New Games and Black Friday Deals](https://www.techpowerup.com/343371/nvidia-geforce-now-brings-seven-new-games-and-black-friday-deals) (Published: 2025-11-27)
+- [NVIDIA says it's delighted by Google's success — but remains "the only platform that runs every AI model" with a generational lead in the industry](https://www.windowscentral.com/artificial-intelligence/nvidia-says-its-delighted-by-googles-success) (Published: 2025-11-27)
+- [Best NVIDIA Holiday Deals in the UAE: Upgrade to RTX 50 Series This Season](https://me.pcmag.com/en/laptops/33750/best-nvidia-holiday-deals-in-the-uae-upgrade-to-rtx-50-series-this-season) (Published: 2025-11-27)
+- [Alibaba and ByteDance allegedly train Qwen and Doubao LLMs using Nvidia chips, despite export controls — Southeast Asian data center leases skirt around U.S. chip restrictions](https://www.tomshardware.com/tech-industry/semiconductors/chinas-top-ai-firms-shift-model-training-overseas-to-access-nvidia-gpus) (Published: 2025-11-27)
+- [Asus Offloads 16″ Gaming Laptop (RTX 4050, 512GB, Core 5), Now Cheaper Than Generic Budget Models](https://kotaku.com/asus-offloads-16-gaming-laptop-rtx-4050-512gb-core-5-now-cheaper-than-generic-budget-models-2000648091) (Published: 2025-11-27)
+- [The best OLED TVs for all budgets, as reviewed by our experts](https://www.techradar.com/televisions/the-best-oled-tvs) (Published: 2025-11-27)
+- [The Ultimate Black Friday Deal Is Here](https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2025/) (Published: 2025-11-27)
+- [Here Are the Best Black Friday Deals That You'll Find Exclusively at Best Buy](https://www.ign.com/articles/best-buy-black-friday-deals-and-sales-2025) (Published: 2025-11-27)
+- [After 8 Years of Testing Monitors, a Discount Like This Still Excites Me: A Near-Perfect Asus QD-OLED Is $400 Off](https://me.pcmag.com/en/monitors/33752/after-8-years-of-testing-monitors-a-discount-like-this-still-excites-me-a-near-perfect-asus-qd-oled) (Published: 2025-11-27)
+- [After 8 Years of Testing Monitors, a Discount Like This Still Excites Me: A Near-Perfect Asus QD-OLED Is $400 Off](https://uk.pcmag.com/monitors/161606/after-8-years-of-testing-monitors-a-discount-like-this-still-excites-me-a-near-perfect-asus-qd-oled) (Published: 2025-11-27)
