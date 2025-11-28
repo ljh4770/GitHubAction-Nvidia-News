@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 04:49:16**_
+_Last updated: **2025-11-28 04:59:50**_
 
 - [One of the best Black Friday 2025 gaming monitor deals: AOC’s 27-inch QD-OLED 240Hz display at $370 all-time low](http://9to5toys.com/2025/11/26/best-black-friday-2025-gaming-monitor-deals-27-inch-qd-oled-240hz-display/) (Published: 2025-11-27)
 - [Nasdaq ISE Seeks to Quadruple Trading Limits on BlackRock's Bitcoin ETF Options](https://decrypt.co/350191/nasdaq-ise-seeks-quadruple-trading-limits-blackrocks-bitcoin-etf) (Published: 2025-11-27)
