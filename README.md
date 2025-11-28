@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 06:37:04**_
+_Last updated: **2025-11-28 06:56:55**_
 
+- [Chinese Nvidia's $1.1 Bn IPO Gets 4,126x Subscriptions - More Than Competitor Nvidia's Market Cap](https://www.ndtvprofit.com/technology/chinese-nvidias-11-bn-ipo-gets-4126x-subscriptions-same-as-competitor-nvidias-market-cap) (Published: 2025-11-27)
+- [nvidia-cupynumeric 25.11.0](https://pypi.org/project/nvidia-cupynumeric/25.11.0/) (Published: 2025-11-27)
 - [Why Google may become the new AI king, with chips to rival Nvidia’s](https://www.independent.ie/business/technology/why-google-may-become-the-new-ai-king-with-chips-to-rival-nvidias/a690757419.html) (Published: 2025-11-27)
 - [China's tech giants move AI model training overseas to tap Nvidia chips: FT](https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-tech-giants-move-ai-model-training-overseas-to-tap-nvidia-chips-ft/articleshow/125605781.cms) (Published: 2025-11-27)
 - [China's tech giants move AI model training overseas to access Nvidia chips, FT reports](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3fe905bd-f8be-439b-ac5d-d8bc6160c124) (Published: 2025-11-27)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-28 06:37:04**_
 - [Jensen Huang Just Teased A Big 2025 Reveal For Friday — Just Months After Analysts Called Nvidia Robotics The 'De Facto' Standard](https://biztoc.com/x/8374fd91d55a775b) (Published: 2025-11-27)
 - [HP ZBook Fury G1i 18 or Dell Pro Max 18 Plus? More differences than one might expect](https://www.notebookcheck.net/HP-ZBook-Fury-G1i-18-or-Dell-Pro-Max-18-Plus-More-differences-than-one-might-expect.1171189.0.html) (Published: 2025-11-27)
 - [Asian shares rise, taking their cue from Wall Street's winning streak](https://abcnews.go.com/Business/wireStory/asian-shares-rise-taking-cue-wall-streets-winning-127920126) (Published: 2025-11-27)
-- [Best Black Friday desktop computer deals 2025: Nov 27](https://www.pcworld.com/article/1382181/black-friday-desktop-pc-computer-deals-2025-nov-27.html) (Published: 2025-11-27)
-- [One of the best Black Friday 2025 gaming monitor deals: AOC’s 27-inch QD-OLED 240Hz display at $370 all-time low](http://9to5toys.com/2025/11/26/best-black-friday-2025-gaming-monitor-deals-27-inch-qd-oled-240hz-display/) (Published: 2025-11-27)
