@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 03:37:58**_
+_Last updated: **2025-11-28 03:59:28**_
 
 - [HP Victus 15.6" 144Hz Full HD Gaming Laptop Intel Core 5 210H 8GB Memory NVIDIA GeForce RTX 5060 512GB SSD Mica Silver $499.99](https://slickdeals.net/f/18881419-hp-victus-15-6-144hz-full-hd-gaming-laptop-intel-core-5-210h-8gb-memory-nvidia-geforce-rtx-5060-512gb-ssd-mica-silver-499-99) (Published: 2025-11-27)
 - [Sparkle Intel Arc B570 Guardian OC 10GB Graphics Card $329 Delivered ($0 VIC C&C) @ PC Case Gear](https://www.ozbargain.com.au/node/936671) (Published: 2025-11-27)
