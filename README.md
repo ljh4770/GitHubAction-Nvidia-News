@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 07:49:38**_
+_Last updated: **2025-11-28 08:00:10**_
 
+- [Acer Nitro 60 Gaming Desktop: i5-14400F, RTX 5060, 16GB RAM, 1TB SSD $799.99](https://slickdeals.net/f/18882910-acer-nitro-60-gaming-desktop-i5-14400f-rtx-5060-16gb-ram-1tb-ssd-799-99) (Published: 2025-11-27)
 - [Asian shares rise, taking their cue from Wall Street's winning streak](https://japantoday.com/category/business/asian-shares-rise-taking-their-cue-from-wall-street%27s-winning-streak) (Published: 2025-11-27)
 - [Banana Pi BPI-CM6 – A SpacemiT K1 RISC-V system-on-module compatible with Raspberry Pi CM4/CM5 carrier boards](https://www.cnx-software.com/2025/11/27/banana-pi-bpi-cm6-a-spacemit-k1-risc-v-system-on-module-compatible-with-raspberry-pi-cm4-cm5-carrier-boards/) (Published: 2025-11-27)
 - [The new plan for Urban Planning Authorities, the Eurogroup on K.M.’s agenda with Weber, CVC sells marinas in a €1.5 billion deal, the Church and the auction](https://en.protothema.gr/2025/11/27/the-new-plan-for-urban-planning-authorities-the-eurogroup-on-k-m-s-agenda-with-weber-cvc-sells-marinas-in-a-e1-5-billion-deal-the-church-and-the-auction/) (Published: 2025-11-27)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-28 07:49:38**_
 - [China’s tech giants take AI model training offshore to tap Nvidia chips](https://www.irishtimes.com/business/2025/11/27/chinas-tech-giants-take-ai-model-training-offshore-to-tap-nvidia-chips/) (Published: 2025-11-27)
 - [TSMC Acknowledges Power Cut at Arizona Fab, Rumors of Scrapped Wafers Emerge](https://www.madshrimps.be/news/tsmc-acknowledges-power-cut-at-arizona-fab-rumors-of-scrapped-wafers-emerge/) (Published: 2025-11-27)
 - [Beijing reportedly bans ByteDance from using Nvidia GPUs in new data centers](https://www.digitimes.com/news/a20251127PD234/beijing-bytedance-nvidia-gpu-chips.html) (Published: 2025-11-27)
-- [OpenAI won’t make money by 2030 and still needs to come up with another $207 billion to power its growth plans, HSBC estimates](https://biztoc.com/x/c0684aa8fa35a0ef) (Published: 2025-11-27)
