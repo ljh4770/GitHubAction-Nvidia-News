@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 21:28:54**_
+_Last updated: **2025-11-28 21:41:11**_
 
 - [This Thanksgiving’s real drama may be Michael Burry versus Nvidia](https://biztoc.com/x/a74e0cc6a383999f) (Published: 2025-11-27)
 - [megatron-fsdp 0.2.0.dev121845](https://pypi.org/project/megatron-fsdp/0.2.0.dev121845/) (Published: 2025-11-27)
