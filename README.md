@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 08:00:10**_
+_Last updated: **2025-11-28 08:37:57**_
 
+- [Foxconn's CityGPT platform optimizes smart city security ecosystem](https://www.digitimes.com/news/a20251125PD220/foxconn-smart-city-2025-security-hardware.html) (Published: 2025-11-27)
 - [Acer Nitro 60 Gaming Desktop: i5-14400F, RTX 5060, 16GB RAM, 1TB SSD $799.99](https://slickdeals.net/f/18882910-acer-nitro-60-gaming-desktop-i5-14400f-rtx-5060-16gb-ram-1tb-ssd-799-99) (Published: 2025-11-27)
 - [Asian shares rise, taking their cue from Wall Street's winning streak](https://japantoday.com/category/business/asian-shares-rise-taking-their-cue-from-wall-street%27s-winning-streak) (Published: 2025-11-27)
 - [Banana Pi BPI-CM6 – A SpacemiT K1 RISC-V system-on-module compatible with Raspberry Pi CM4/CM5 carrier boards](https://www.cnx-software.com/2025/11/27/banana-pi-bpi-cm6-a-spacemit-k1-risc-v-system-on-module-compatible-with-raspberry-pi-cm4-cm5-carrier-boards/) (Published: 2025-11-27)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-28 08:00:10**_
 - [$124.99: 8GB NVIDIA Shield Android TV 4K HDR Streaming Media Player at Amazon (0 replies)](https://slickdeals.net/f/18882775-124-99-8gb-nvidia-shield-android-tv-4k-hdr-streaming-media-player-at-amazon) (Published: 2025-11-27)
 - [China’s tech giants take AI model training offshore to tap Nvidia chips](https://www.irishtimes.com/business/2025/11/27/chinas-tech-giants-take-ai-model-training-offshore-to-tap-nvidia-chips/) (Published: 2025-11-27)
 - [TSMC Acknowledges Power Cut at Arizona Fab, Rumors of Scrapped Wafers Emerge](https://www.madshrimps.be/news/tsmc-acknowledges-power-cut-at-arizona-fab-rumors-of-scrapped-wafers-emerge/) (Published: 2025-11-27)
-- [Beijing reportedly bans ByteDance from using Nvidia GPUs in new data centers](https://www.digitimes.com/news/a20251127PD234/beijing-bytedance-nvidia-gpu-chips.html) (Published: 2025-11-27)
