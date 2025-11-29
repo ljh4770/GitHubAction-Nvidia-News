@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-28 23:53:34**_
+_Last updated: **2025-11-29 01:12:55**_
 
+- [My GPU was 'too old' for 2025, but I found the perfect way to reuse it](https://www.xda-developers.com/reused-old-gpu-reduced-ewaste/) (Published: 2025-11-28)
+- [アールティ、2025国際ロボット展に出展](https://prtimes.jp/main/html/rd/p/000000076.000069918.html) (Published: 2025-11-28)
+- [boltz-blackwell added to PyPI](https://pypi.org/project/boltz-blackwell/) (Published: 2025-11-28)
+- [Happy Thanksgiving](https://deeshaa.org/2025/11/28/happy-thanksgiving-3/) (Published: 2025-11-28)
+- [Dow, S&P 500, Nasdaq futures muted as rocky month draws to an end, before CME glitch halts trading](https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-muted-as-rocky-month-draws-to-an-end-before-cme-glitch-halts-trading-000737050.html) (Published: 2025-11-28)
 - [Pro Chefs Swear by These Kitchen Tools, and They’re All Under $10 for Black Friday](https://biztoc.com/x/5bddbe0cb8ee0f6b) (Published: 2025-11-27)
 - [Black Friday: What time do stores open?](https://biztoc.com/x/074a04f8aa89d85f) (Published: 2025-11-27)
 - [Emerging Assets Halt Rally in Quiet Session Amid US Holiday](https://biztoc.com/x/8370b8d181770814) (Published: 2025-11-27)
 - [megatron-fsdp 0.2.0.dev132167](https://pypi.org/project/megatron-fsdp/0.2.0.dev132167/) (Published: 2025-11-27)
-- [NVIDIA Reportedly Halts Bundling VRAM Chips With GPU Dies For Board Partners - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=180226775) (Published: 2025-11-27)
-- [Why Jensen Huang spent Thanksgiving weekend in Taiwan](https://www.digitimes.com/news/a20251128PD200/nvidia-taiwan-ceo-jensen-huang-quanta.html) (Published: 2025-11-27)
-- [JP Morgan shifts outlook on Fed rate cut to December](https://biztoc.com/x/abd116335148765d) (Published: 2025-11-27)
-- [Lions wide receiver Amon-Ra St. Brown leaves game against Packers with ankle injury](https://biztoc.com/x/6198ff8ce28848a1) (Published: 2025-11-27)
-- [Malaysia’s Anwar Faces Revenue-Sharing Pressure in Sabah Polls](https://biztoc.com/x/236e08f8bafb108d) (Published: 2025-11-27)
-- [US woman missing after not returning to cruise ship in Caribbean](https://biztoc.com/x/91935928209b797a) (Published: 2025-11-27)
