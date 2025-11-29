@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-29 07:47:45**_
+_Last updated: **2025-11-29 07:58:23**_
 
 - [TPUs Take AI Trade By Storm. What to Know About Google’s AI Chip](https://biztoc.com/x/10e9db606ac6ec3f) (Published: 2025-11-28)
 - [AMD Preps More Radeon AI PRO R9000 “RDNA 4” GPUs: R9700S & R9600D Spotted](https://wccftech.com/amd-preps-more-radeon-ai-pro-r9000-rdna-4-gpus-r9700s-r9600d-spotted/) (Published: 2025-11-28)
