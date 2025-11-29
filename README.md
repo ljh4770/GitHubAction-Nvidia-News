@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-29 01:12:55**_
+_Last updated: **2025-11-29 02:48:00**_
 
+- [Sea-Lion powering AI tools for migrant workers, local businesses](https://www.computerweekly.com/news/366635316/Sea-Lion-powering-AI-tools-for-migrant-workers-local-businesses) (Published: 2025-11-28)
+- [Yesterday AOL, today OpenAI: Google's vertical integration threatens to repeat history](https://www.digitimes.com/news/a20251127PD202/google-openai-nvidia-market-tpu.html) (Published: 2025-11-28)
+- [megatron-fsdp 0.2.0.dev117819](https://pypi.org/project/megatron-fsdp/0.2.0.dev117819/) (Published: 2025-11-28)
+- [MSI Katana 15 HX 15.6" QHD 165hz Gaming Laptop (Intel Core i7) [GeForce RTX 5060] @ JB-Hifi $1499](https://www.ozbargain.com.au/node/937044) (Published: 2025-11-28)
+- [boltz-blackwell 0.1.2](https://pypi.org/project/boltz-blackwell/0.1.2/) (Published: 2025-11-28)
+- [boltz-blackwell 0.1.1](https://pypi.org/project/boltz-blackwell/0.1.1/) (Published: 2025-11-28)
 - [My GPU was 'too old' for 2025, but I found the perfect way to reuse it](https://www.xda-developers.com/reused-old-gpu-reduced-ewaste/) (Published: 2025-11-28)
 - [アールティ、2025国際ロボット展に出展](https://prtimes.jp/main/html/rd/p/000000076.000069918.html) (Published: 2025-11-28)
 - [boltz-blackwell added to PyPI](https://pypi.org/project/boltz-blackwell/) (Published: 2025-11-28)
 - [Happy Thanksgiving](https://deeshaa.org/2025/11/28/happy-thanksgiving-3/) (Published: 2025-11-28)
-- [Dow, S&P 500, Nasdaq futures muted as rocky month draws to an end, before CME glitch halts trading](https://finance.yahoo.com/news/live/dow-sp-500-nasdaq-futures-muted-as-rocky-month-draws-to-an-end-before-cme-glitch-halts-trading-000737050.html) (Published: 2025-11-28)
-- [Pro Chefs Swear by These Kitchen Tools, and They’re All Under $10 for Black Friday](https://biztoc.com/x/5bddbe0cb8ee0f6b) (Published: 2025-11-27)
-- [Black Friday: What time do stores open?](https://biztoc.com/x/074a04f8aa89d85f) (Published: 2025-11-27)
-- [Emerging Assets Halt Rally in Quiet Session Amid US Holiday](https://biztoc.com/x/8370b8d181770814) (Published: 2025-11-27)
-- [megatron-fsdp 0.2.0.dev132167](https://pypi.org/project/megatron-fsdp/0.2.0.dev132167/) (Published: 2025-11-27)
