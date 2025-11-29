@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-29 13:45:45**_
+_Last updated: **2025-11-29 13:55:51**_
 
 - [Stock Market Today: Outage Hits Trading, But Dow Indicates Higher; Google Leads Market (Live Coverage)](https://biztoc.com/x/383d43f00859b0e1) (Published: 2025-11-28)
 - [A trillion dollars (potentially) wasted on gen-AI](https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible) (Published: 2025-11-28)
