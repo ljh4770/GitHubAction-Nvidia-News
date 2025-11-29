@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-29 08:34:09**_
+_Last updated: **2025-11-29 08:50:48**_
 
+- [Samsung races to seal HBM4 deal with Nvidia, targets early 2026 shipments](https://www.digitimes.com/news/a20251127PD231/samsung-hbm4-nvidia-2026-shipments.html) (Published: 2025-11-28)
+- [GIGABYTEから、NVIDIA GeForce RTX 5060 デュアルファン搭載グラフィックボード『GV-N5060WF2MAX OC-8GD』を発売](https://prtimes.jp/main/html/rd/p/000001060.000032645.html) (Published: 2025-11-28)
 - [The AI race is a cash game—And OpenAI and its allies are losing for now](https://www.livemint.com/opinion/online-views/ai-race-cash-game-openai-softbank-oracle-silicon-valley-alphabet-gemini-sam-altman-11764306055103.html) (Published: 2025-11-28)
 - [Ubuntu 24.04 VM on KVM takes 20–25 minutes to boot with direct GPU passthrough](https://askubuntu.com/questions/1560210/ubuntu-24-04-vm-on-kvm-takes-20-25-minutes-to-boot-with-direct-gpu-passthrough) (Published: 2025-11-28)
 - [TPUs Take AI Trade By Storm. What to Know About Google’s AI Chip](https://biztoc.com/x/10e9db606ac6ec3f) (Published: 2025-11-28)
@@ -9,5 +11,3 @@ _Last updated: **2025-11-29 08:34:09**_
 - [Lava Finance: An Early-Stage Project Built for the Long Run](https://ambcrypto.com/lava-finance-an-early-stage-project-built-for-the-long-run/) (Published: 2025-11-28)
 - [Baidu is emerging as a major AI chip player in China to fill the Nvidia gap](https://biztoc.com/x/3c75b561b80dfe69) (Published: 2025-11-28)
 - [Wall Street Bullish on Arm Holdings plc (ARM) amid AI and Data Center Opportunity](https://finance.yahoo.com/news/wall-street-bullish-arm-holdings-062125166.html) (Published: 2025-11-28)
-- [Baidu is emerging as a major AI chip player in China to fill the Nvidia gap](https://www.cnbc.com/2025/11/28/baidu-is-major-ai-chip-player-in-china-to-fill-nvidia-gap.html) (Published: 2025-11-28)
-- [Crypto investors search for direction in market rout](https://www.irishtimes.com/business/financial-services/2025/11/28/crypto-investors-search-for-direction-in-market-rout/) (Published: 2025-11-28)
