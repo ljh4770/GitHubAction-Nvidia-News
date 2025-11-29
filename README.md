@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-29 04:48:01**_
+_Last updated: **2025-11-29 04:58:08**_
 
+- [The PNY GeForce RTX 5080 Graphics Card Drops Under MSRP for Black Friday](https://www.ign.com/articles/pny-geforce-rtx-5080-graphics-card-black-friday-gpu-deal) (Published: 2025-11-28)
 - [megatron-fsdp 0.2.0.dev126191](https://pypi.org/project/megatron-fsdp/0.2.0.dev126191/) (Published: 2025-11-28)
 - [NVIDIA rumored to stop bundling memory with GPUs, squeezing smaller board partners - VideoCardz.com](https://slashdot.org/firehose.pl?op=view&amp;id=180227951) (Published: 2025-11-28)
 - [Sea-Lion powering AI tools for migrant workers, local businesses](https://www.computerweekly.com/news/366635316/Sea-Lion-powering-AI-tools-for-migrant-workers-local-businesses) (Published: 2025-11-28)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-29 04:48:01**_
 - [boltz-blackwell 0.1.2](https://pypi.org/project/boltz-blackwell/0.1.2/) (Published: 2025-11-28)
 - [boltz-blackwell 0.1.1](https://pypi.org/project/boltz-blackwell/0.1.1/) (Published: 2025-11-28)
 - [My GPU was 'too old' for 2025, but I found the perfect way to reuse it](https://www.xda-developers.com/reused-old-gpu-reduced-ewaste/) (Published: 2025-11-28)
-- [アールティ、2025国際ロボット展に出展](https://prtimes.jp/main/html/rd/p/000000076.000069918.html) (Published: 2025-11-28)
