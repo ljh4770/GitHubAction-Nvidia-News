@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-29 05:42:57**_
+_Last updated: **2025-11-29 05:53:30**_
 
 - [Lenovo Legion 5i: 15.1" QHD+ 165Hz OLED, Intel Ultra 7 255HX, RTX 5060, 32GB DDR5, 1TB SSD $1099.99](https://slickdeals.net/f/18890419-lenovo-legion-5i-15-1-qhd-165hz-oled-intel-ultra-7-255hx-rtx-5060-32gb-ddr5-1tb-ssd-1099-99) (Published: 2025-11-28)
 - [iBuyPower's Black Friday gaming PC deals start now — save up to $300 extra on already discounted pre-built and custom rigs before increased RAM pricing starts to affect prebuilts](https://www.tomshardware.com/desktops/gaming-pcs/nda-11-27-9pm-pst-ibuypowers-black-friday-gaming-pc-deals-start-now-save-up-to-usd300-extra-on-already-discounted-pre-built-and-custom-rigs-before-increased-ram-pricing-starts-to-affect-prebuilts) (Published: 2025-11-28)
