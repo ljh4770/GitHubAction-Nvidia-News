@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-29 04:31:59**_
+_Last updated: **2025-11-29 04:48:01**_
 
 - [megatron-fsdp 0.2.0.dev126191](https://pypi.org/project/megatron-fsdp/0.2.0.dev126191/) (Published: 2025-11-28)
 - [NVIDIA rumored to stop bundling memory with GPUs, squeezing smaller board partners - VideoCardz.com](https://slashdot.org/firehose.pl?op=view&amp;id=180227951) (Published: 2025-11-28)
