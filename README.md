@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 22:56:56**_
+_Last updated: **2025-11-30 23:21:48**_
 
+- [Wildly Violent (and Profitable)](https://dailyreckoning.com/wildly-violent-and-profitable/) (Published: 2025-11-29)
 - [This $2699 MSI RTX 5090 is the cheapest you'll find right now](https://www.tomshardware.com/pc-components/this-usd2699-msi-rtx-5090-is-the-cheapest-youll-find-right-now) (Published: 2025-11-29)
 - [I’ve never seen my all-time favorite tablet for playing games and watching movies get discounted this much](https://www.windowscentral.com/hardware/lenovo/lenovo-legion-tab-gen-3-deal-black-friday-2025) (Published: 2025-11-29)
 - [Ubuntu Desktop on older tv / xrandr transform](https://askubuntu.com/questions/1560285/ubuntu-desktop-on-older-tv-xrandr-transform) (Published: 2025-11-29)
@@ -8,4 +9,3 @@ _Last updated: **2025-11-30 22:56:56**_
 - [Skytech Azure Gaming PC Desktop INTEL Core i7 14700F MC NVIDIA GeForce RTX 5070 1TB Gen4 NVMe SSD 32GB DDR5 RAM, AIO Liquid Cooling Windows 11 $1199 @ Walmart](https://slickdeals.net/f/18901945-skytech-azure-gaming-pc-desktop-intel-core-i7-14700f-mc-nvidia-geforce-rtx-5070-1tb-gen4-nvme-ssd-32gb-ddr5-ram-aio-liquid-cooling-windows-11-1199-walmart) (Published: 2025-11-29)
 - [WORLDCHANGING Space Energy Supercharges AI ! What it means for Nvidia, Tesla and Other AI Companies](https://www.nextbigfuture.com/2025/11/worldchanging-space-energy-supercharges-ai-what-it-means-for-nvidia-tesla-and-other-ai-companies.html) (Published: 2025-11-29)
 - [Meta and Google could be about to sign a mega AI chip deal - and it could change everything in the tech space](https://www.techradar.com/pro/meta-and-google-could-be-about-to-sign-a-mega-ai-chip-deal-and-it-could-change-everything-in-the-tech-space) (Published: 2025-11-29)
-- [Glim is the Ventoy alternative Linux enthusiasts should use instead](https://www.xda-developers.com/glim-ventoy-alternative-linux-enthusiasts-should-use-instead/) (Published: 2025-11-29)
