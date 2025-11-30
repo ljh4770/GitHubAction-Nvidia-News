@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 08:35:48**_
+_Last updated: **2025-11-30 08:50:03**_
 
 - ['We’ll never get that lucky again': OpenAI CEO Sam Altman on ChatGPT’s breakthrough moment](https://economictimes.indiatimes.com/tech/artificial-intelligence/well-never-get-that-lucky-again-says-openai-ceo-sam-altman-on-chatgpts-breakthrough-moment/articleshow/125654185.cms) (Published: 2025-11-29)
 - [ChatGPT is 3 and Google just crashed the party](https://economictimes.indiatimes.com/news/company/corporate-trends/google-gemini-model-3-comeback-openai-chatgpt-third-anniversary/articleshow/125653670.cms) (Published: 2025-11-29)
