@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 18:44:59**_
+_Last updated: **2025-11-30 18:55:49**_
 
+- [Gamers Are Calling for a “RAM Boycott” to Force Prices Down, But Here’s the Hard Truth: It Won’t Work](https://wccftech.com/gamers-are-calling-for-a-ram-boycott-to-force-prices-down-but-here-why-that-strategy-wont-work/) (Published: 2025-11-29)
+- [Jim Cramer on Marvell: “I Want to Wait for That Fluff to Be Taken Out of It”](https://biztoc.com/x/72b44a1d14a9232e) (Published: 2025-11-29)
+- [Gamers can earn cryptocurrency tokens but experts warn of risks](https://www.abc.net.au/news/2025-11-30/cryptocurrency-gamification-compared-to-gambling/106045396) (Published: 2025-11-29)
 - [Jim Cramer on Marvell: “I Want to Wait for That Fluff to Be Taken Out of It”](https://finance.yahoo.com/news/jim-cramer-marvell-want-wait-182914896.html) (Published: 2025-11-29)
 - [Jim Cramer Links Meta’s Rally to Hopes of Reduced Reliance on NVIDIA Hardware](https://biztoc.com/x/0719a27fc036c3b6) (Published: 2025-11-29)
 - [Jim Cramer Explains Why He Says “Own, Don’t Trade the Stock of NVIDIA”](https://biztoc.com/x/87cbe457000a5a52) (Published: 2025-11-29)
@@ -8,6 +11,3 @@ _Last updated: **2025-11-30 18:44:59**_
 - [Jim Cramer Explains Why He Says “Own, Don’t Trade the Stock of NVIDIA”](https://finance.yahoo.com/news/jim-cramer-explains-why-says-175304790.html) (Published: 2025-11-29)
 - [Jim Cramer Links Meta’s Rally to Hopes of Reduced Reliance on NVIDIA Hardware](https://finance.yahoo.com/news/jim-cramer-links-meta-rally-175303456.html) (Published: 2025-11-29)
 - [Ark Invest Ramps Up Crypto Exposure; Wood Sees Market Liquidity Turn Ahead](https://zycrypto.com/ark-invest-ramps-up-crypto-exposure-wood-sees-market-liquidity-turn-ahead/) (Published: 2025-11-29)
-- [NVIDIA CEO Makes Unprecedented Visits to Taiwan This Year, Reflecting the High-Stakes Battle for Limited TSMC Chip Capacity](https://wccftech.com/nvidia-ceo-makes-unprecedented-visits-to-taiwan-this-year/) (Published: 2025-11-29)
-- [CyberLink PowerDirector Ultimate 2026 v24.0.1128](https://post.rlsbb.to/cyberlink-powerdirector-ultimate-2026-v24-0-1128/) (Published: 2025-11-29)
-- [How Bad Will RAM and Memory Shortages Get?](https://hardware.slashdot.org/story/25/11/29/0629207/how-bad-will-ram-and-memory-shortages-get) (Published: 2025-11-29)
