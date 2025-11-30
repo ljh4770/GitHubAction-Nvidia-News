@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 20:10:18**_
+_Last updated: **2025-11-30 20:33:04**_
 
+- [cuprox added to PyPI](https://pypi.org/project/cuprox/) (Published: 2025-11-29)
 - [The best Black Friday deals on gaming laptops are up to 23% off: Shop Asus ROG, Alienware and more at all-time low prices](https://tech.yahoo.com/gaming/deals/article/the-best-black-friday-deals-on-gaming-laptops-are-up-to-23-off-shop-asus-rog-alienware-and-more-at-all-time-low-prices-143737090.html) (Published: 2025-11-29)
 - [Another Big Tech Visionary Left to Launch an AI Startup—Is the AI Boom Really in its Earlier Innings?](https://biztoc.com/x/9d40cd6ee6e905ec) (Published: 2025-11-29)
 - [Another Big Tech Visionary Left to Launch an AI Startup—Is the AI Boom Really in its Earlier Innings?](https://biztoc.com/x/e7d86a2282b10c0b) (Published: 2025-11-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-30 20:10:18**_
 - [Gamers can earn cryptocurrency tokens but experts warn of risks](https://www.abc.net.au/news/2025-11-30/cryptocurrency-gamification-compared-to-gambling/106045396) (Published: 2025-11-29)
 - [Jim Cramer on Marvell: “I Want to Wait for That Fluff to Be Taken Out of It”](https://finance.yahoo.com/news/jim-cramer-marvell-want-wait-182914896.html) (Published: 2025-11-29)
 - [Jim Cramer Links Meta’s Rally to Hopes of Reduced Reliance on NVIDIA Hardware](https://biztoc.com/x/0719a27fc036c3b6) (Published: 2025-11-29)
-- [Jim Cramer Explains Why He Says “Own, Don’t Trade the Stock of NVIDIA”](https://biztoc.com/x/87cbe457000a5a52) (Published: 2025-11-29)
