@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 21:43:34**_
+_Last updated: **2025-11-30 21:53:52**_
 
+- [Skytech Azure Gaming PC Desktop INTEL Core i7 14700F MC NVIDIA GeForce RTX 5070 1TB Gen4 NVMe SSD 32GB DDR5 RAM, AIO Liquid Cooling Windows 11 $1199 @ Walmart](https://slickdeals.net/f/18901945-skytech-azure-gaming-pc-desktop-intel-core-i7-14700f-mc-nvidia-geforce-rtx-5070-1tb-gen4-nvme-ssd-32gb-ddr5-ram-aio-liquid-cooling-windows-11-1199-walmart) (Published: 2025-11-29)
 - [WORLDCHANGING Space Energy Supercharges AI ! What it means for Nvidia, Tesla and Other AI Companies](https://www.nextbigfuture.com/2025/11/worldchanging-space-energy-supercharges-ai-what-it-means-for-nvidia-tesla-and-other-ai-companies.html) (Published: 2025-11-29)
 - [Meta and Google could be about to sign a mega AI chip deal - and it could change everything in the tech space](https://www.techradar.com/pro/meta-and-google-could-be-about-to-sign-a-mega-ai-chip-deal-and-it-could-change-everything-in-the-tech-space) (Published: 2025-11-29)
 - [Glim is the Ventoy alternative Linux enthusiasts should use instead](https://www.xda-developers.com/glim-ventoy-alternative-linux-enthusiasts-should-use-instead/) (Published: 2025-11-29)
@@ -8,6 +9,3 @@ _Last updated: **2025-11-30 21:43:34**_
 - [cuprox added to PyPI](https://pypi.org/project/cuprox/) (Published: 2025-11-29)
 - [The best Black Friday deals on gaming laptops are up to 23% off: Shop Asus ROG, Alienware and more at all-time low prices](https://tech.yahoo.com/gaming/deals/article/the-best-black-friday-deals-on-gaming-laptops-are-up-to-23-off-shop-asus-rog-alienware-and-more-at-all-time-low-prices-143737090.html) (Published: 2025-11-29)
 - [Another Big Tech Visionary Left to Launch an AI Startup—Is the AI Boom Really in its Earlier Innings?](https://biztoc.com/x/9d40cd6ee6e905ec) (Published: 2025-11-29)
-- [Another Big Tech Visionary Left to Launch an AI Startup—Is the AI Boom Really in its Earlier Innings?](https://biztoc.com/x/e7d86a2282b10c0b) (Published: 2025-11-29)
-- [Talk about a triple threat - IBM says it can now support up to 47PB on a full rack, so load it up](https://www.techradar.com/pro/talk-about-a-triple-threat-ibm-says-it-can-now-support-up-to-47pb-on-a-full-rack-so-load-it-up) (Published: 2025-11-29)
-- [Gamers Are Calling for a “RAM Boycott” to Force Prices Down, But Here’s the Hard Truth: It Won’t Work](https://wccftech.com/gamers-are-calling-for-a-ram-boycott-to-force-prices-down-but-here-why-that-strategy-wont-work/) (Published: 2025-11-29)
