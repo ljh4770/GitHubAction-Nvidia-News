@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 22:46:42**_
+_Last updated: **2025-11-30 22:56:56**_
 
 - [This $2699 MSI RTX 5090 is the cheapest you'll find right now](https://www.tomshardware.com/pc-components/this-usd2699-msi-rtx-5090-is-the-cheapest-youll-find-right-now) (Published: 2025-11-29)
 - [I’ve never seen my all-time favorite tablet for playing games and watching movies get discounted this much](https://www.windowscentral.com/hardware/lenovo/lenovo-legion-tab-gen-3-deal-black-friday-2025) (Published: 2025-11-29)
