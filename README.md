@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 09:39:48**_
+_Last updated: **2025-11-30 09:49:54**_
 
 - [Analysis: OpenAI is a loss-making machine, with estimates that it has no road to profitability by 2030 — and will need a further $207 billion in funding even if it gets there](https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/analysis-openai-is-a-loss-making-machine) (Published: 2025-11-29)
 - [A Volatile Market Reaction to Nvidia Earnings Misses the Point](https://biztoc.com/x/7a4306002120a375) (Published: 2025-11-29)
