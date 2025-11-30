@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 15:16:30**_
+_Last updated: **2025-11-30 15:32:03**_
 
+- [Why computer gamers should consider a ‘custom PC’ next time around](https://torontosun.com/technology/gaming/saltzman-why-computer-gamers-should-consider-a-custom-pc-next-time-around) (Published: 2025-11-29)
+- [This Near-Perfect Asus QD-OLED Gaming Monitor Is Still $400 Off for Black Friday: Grab It While You Can](https://uk.pcmag.com/monitors/161668/this-near-perfect-asus-qd-oled-gaming-monitor-is-still-400-off-for-black-friday-grab-it-while-you-ca) (Published: 2025-11-29)
+- [This Near-Perfect Asus QD-OLED Gaming Monitor Is Still $400 Off for Black Friday: Grab It While You Can](https://me.pcmag.com/en/monitors/33780/this-near-perfect-asus-qd-oled-gaming-monitor-is-still-400-off-for-black-friday-grab-it-while-you-ca) (Published: 2025-11-29)
+- [Best Cyber Monday gaming monitor deals live 2025 — hot Black Friday sales on monitors from Amazon, Newegg, Dell, Best Buy, and more that you can still get](https://www.tomshardware.com/live/news/cyber-monday-monitor-deals-live-2025-black-friday-deals-you-can-still-get) (Published: 2025-11-29)
+- ['Ozempic 2.0' is on the way and could completely change weight loss drugs](https://biztoc.com/x/30df8c9b4be71aa3) (Published: 2025-11-29)
+- [The Saturday Spread: Finding Arbitrage in Unlikely Places (MP, ELF, BTDR)](https://biztoc.com/x/ce8c23be1ccc0639) (Published: 2025-11-29)
+- [Experts doubt the Pentagon can punish Kelly over the 'illegal orders' video](https://biztoc.com/x/0934fff0497ff6cd) (Published: 2025-11-29)
 - [Best Black Friday laptop deals 2025: Grab 26 sales on MacBooks, Lenovo, HP, and more that are still live](https://www.zdnet.com/article/black-friday-laptop-deals-amazon-best-buy-walmart-11-29/) (Published: 2025-11-29)
 - [A Christmas tree in Mexico carries the faces of loved ones who never came home](https://biztoc.com/x/5e5db3dfe05c7926) (Published: 2025-11-29)
 - [stringzillas-cuda 4.4.0](https://pypi.org/project/stringzillas-cuda/4.4.0/) (Published: 2025-11-29)
-- [65+ Black Friday Deals that are still Live!](https://www.androidheadlines.com/black-friday-2025) (Published: 2025-11-29)
-- [GOOG Stock Soars To All Time Highs on NVDA Chip Comparision](https://biztoc.com/x/1eebadfc7fda3395) (Published: 2025-11-29)
-- [The 115 Best Black Friday Luggage Deals—Score Up to 81% Off Samsonite, Away, Tumi and More, From $10](https://biztoc.com/x/71e2b8c191a5c9a1) (Published: 2025-11-29)
-- [Nvidia RTX 5070 dips to an all-time low $479 on Newegg, $70 below MSRP — get yourself an affordable GPU upgrade](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5070-dips-to-all-time-low-usd480-on-newegg-usd70-below-msrp-get-yourself-an-affordable-gpu-upgrade) (Published: 2025-11-29)
-- [16 software stocks for investors sifting through the bargain bin](https://biztoc.com/x/16907cfecdb9001f) (Published: 2025-11-29)
-- [Nvidia's CEO Says Why AI Isn't a Bubble—And His Answer Points to a Trillion-Dollar Computing Revolution Already Underway](https://biztoc.com/x/c36bbe4fa02c7091) (Published: 2025-11-29)
-- [How I'm Investing Ahead Of America's Next Manufacturing Supercycle](https://biztoc.com/x/48778628259cc4fd) (Published: 2025-11-29)
