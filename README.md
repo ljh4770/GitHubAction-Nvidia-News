@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 05:44:48**_
+_Last updated: **2025-11-30 05:55:12**_
 
+- [TPUs vs. GPUs and why Google is positioned to win AI race in the long term | Hacker News](https://news.ycombinator.com/item?id=46069048) (Published: 2025-11-29)
 - [Google, the sleeping giant in global AI race, now ‘fully awake’](https://economictimes.indiatimes.com/tech/artificial-intelligence/google-the-sleeping-giant-in-global-ai-race-now-fully-awake/articleshow/125651593.cms) (Published: 2025-11-29)
 - [ASUS TUF Gaming A16 Gaming Laptop, 16” WUXGA 144Hz, AMD Ryzen 7 7445HS, NVIDIA GeForce RTX 4050, 16GB DDR5, 512GB $599 at Walmart](https://slickdeals.net/f/18898969-asus-tuf-gaming-a16-gaming-laptop-16-wuxga-144hz-amd-ryzen-7-7445hs-nvidia-geforce-rtx-4050-16gb-ddr5-512gb-599-at-walmart) (Published: 2025-11-29)
 - [Best Black Friday desktop computer deals 2025: Nov 29](https://www.pcworld.com/article/1382181/black-friday-desktop-pc-computer-deals-2025-nov-29.html) (Published: 2025-11-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-30 05:44:48**_
 - [Sergey Brin Gifts $1.1 Billion in Alphabet Stock After AI Rally](https://biztoc.com/x/a6239de3ea79907b) (Published: 2025-11-29)
 - [Brazil Judge Frees Banco Master’s Vorcaro With Ankle Monitor](https://biztoc.com/x/b1d862b01455772d) (Published: 2025-11-29)
 - [Singapore Holidaymakers Face Pricier Trips to Malaysia](https://biztoc.com/x/e68ca27bb75f42f1) (Published: 2025-11-29)
-- [Trump to Pardon Ex-Honduras Leader Convicted of Drug Trafficking](https://biztoc.com/x/f212ba2c059db230) (Published: 2025-11-29)
