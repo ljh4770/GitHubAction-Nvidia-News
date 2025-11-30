@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 16:41:58**_
+_Last updated: **2025-11-30 16:53:30**_
 
 - [24.04.3 lst freezes but mouse still moves and audio plays](https://askubuntu.com/questions/1560268/24-04-3-lst-freezes-but-mouse-still-moves-and-audio-plays) (Published: 2025-11-29)
 - [Here's Why Nvidia Partner, Navitas Semiconductor powered higher This Week](https://biztoc.com/x/b9ca7c2c1a87dc21) (Published: 2025-11-29)
