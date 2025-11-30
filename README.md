@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 15:32:03**_
+_Last updated: **2025-11-30 15:43:20**_
 
+- [GOOG Stock Soars To All Time Highs on NVDA Chip Comparision](https://biztoc.com/x/76131081587eee82) (Published: 2025-11-29)
 - [Why computer gamers should consider a ‘custom PC’ next time around](https://torontosun.com/technology/gaming/saltzman-why-computer-gamers-should-consider-a-custom-pc-next-time-around) (Published: 2025-11-29)
 - [This Near-Perfect Asus QD-OLED Gaming Monitor Is Still $400 Off for Black Friday: Grab It While You Can](https://uk.pcmag.com/monitors/161668/this-near-perfect-asus-qd-oled-gaming-monitor-is-still-400-off-for-black-friday-grab-it-while-you-ca) (Published: 2025-11-29)
 - [This Near-Perfect Asus QD-OLED Gaming Monitor Is Still $400 Off for Black Friday: Grab It While You Can](https://me.pcmag.com/en/monitors/33780/this-near-perfect-asus-qd-oled-gaming-monitor-is-still-400-off-for-black-friday-grab-it-while-you-ca) (Published: 2025-11-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-30 15:32:03**_
 - [Experts doubt the Pentagon can punish Kelly over the 'illegal orders' video](https://biztoc.com/x/0934fff0497ff6cd) (Published: 2025-11-29)
 - [Best Black Friday laptop deals 2025: Grab 26 sales on MacBooks, Lenovo, HP, and more that are still live](https://www.zdnet.com/article/black-friday-laptop-deals-amazon-best-buy-walmart-11-29/) (Published: 2025-11-29)
 - [A Christmas tree in Mexico carries the faces of loved ones who never came home](https://biztoc.com/x/5e5db3dfe05c7926) (Published: 2025-11-29)
-- [stringzillas-cuda 4.4.0](https://pypi.org/project/stringzillas-cuda/4.4.0/) (Published: 2025-11-29)
