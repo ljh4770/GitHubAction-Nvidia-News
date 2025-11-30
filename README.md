@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 07:50:15**_
+_Last updated: **2025-11-30 08:10:50**_
 
+- [ChatGPT is 3 and Google just crashed the party](https://economictimes.indiatimes.com/news/company/corporate-trends/google-gemini-model-3-comeback-openai-chatgpt-third-anniversary/articleshow/125653670.cms) (Published: 2025-11-29)
 - [Is NVIDIA (NVDA) One of the Best Semiconductor Stocks to Buy Heading into 2026?](https://finance.yahoo.com/news/nvidia-nvda-one-best-semiconductor-061117049.html) (Published: 2025-11-29)
 - [TPUs vs. GPUs and why Google is positioned to win AI race in the long term | Hacker News](https://news.ycombinator.com/item?id=46069048) (Published: 2025-11-29)
 - [Intel (INTC) Shares Strategic Direction at Global Technology Conference](https://finance.yahoo.com/news/intel-intc-shares-strategic-direction-053910638.html) (Published: 2025-11-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-30 07:50:15**_
 - [Wall Street Week Ahead: Investors on watch for AI, economic updates as US stocks steady](https://economictimes.indiatimes.com/markets/stocks/news/wall-street-week-ahead-investors-on-watch-for-ai-economic-updates-as-us-stocks-steady/articleshow/125650587.cms) (Published: 2025-11-29)
 - [Alienware AW2525HM 25-Inch 320hz 1080p Gaming Monitor $221.23 Delivered at Dell AU](https://www.ozbargain.com.au/node/937392) (Published: 2025-11-29)
 - [I Know We’re in an AI Bubble Because Nobody Wants Me ](https://petewarden.com/2025/11/29/i-know-were-in-an-ai-bubble-because-nobody-wants-me-%f0%9f%98%ad/) (Published: 2025-11-29)
-- [Sergey Brin Gifts $1.1 Billion in Alphabet Stock After AI Rally](https://biztoc.com/x/a6239de3ea79907b) (Published: 2025-11-29)
