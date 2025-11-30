@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-11-30 08:10:50**_
+_Last updated: **2025-11-30 08:35:48**_
 
+- ['We’ll never get that lucky again': OpenAI CEO Sam Altman on ChatGPT’s breakthrough moment](https://economictimes.indiatimes.com/tech/artificial-intelligence/well-never-get-that-lucky-again-says-openai-ceo-sam-altman-on-chatgpts-breakthrough-moment/articleshow/125654185.cms) (Published: 2025-11-29)
 - [ChatGPT is 3 and Google just crashed the party](https://economictimes.indiatimes.com/news/company/corporate-trends/google-gemini-model-3-comeback-openai-chatgpt-third-anniversary/articleshow/125653670.cms) (Published: 2025-11-29)
 - [Is NVIDIA (NVDA) One of the Best Semiconductor Stocks to Buy Heading into 2026?](https://finance.yahoo.com/news/nvidia-nvda-one-best-semiconductor-061117049.html) (Published: 2025-11-29)
 - [TPUs vs. GPUs and why Google is positioned to win AI race in the long term | Hacker News](https://news.ycombinator.com/item?id=46069048) (Published: 2025-11-29)
@@ -10,4 +11,3 @@ _Last updated: **2025-11-30 08:10:50**_
 - [Best Black Friday desktop computer deals 2025: Nov 29](https://www.pcworld.com/article/1382181/black-friday-desktop-pc-computer-deals-2025-nov-29.html) (Published: 2025-11-29)
 - [Wall Street Week Ahead: Investors on watch for AI, economic updates as US stocks steady](https://economictimes.indiatimes.com/markets/stocks/news/wall-street-week-ahead-investors-on-watch-for-ai-economic-updates-as-us-stocks-steady/articleshow/125650587.cms) (Published: 2025-11-29)
 - [Alienware AW2525HM 25-Inch 320hz 1080p Gaming Monitor $221.23 Delivered at Dell AU](https://www.ozbargain.com.au/node/937392) (Published: 2025-11-29)
-- [I Know We’re in an AI Bubble Because Nobody Wants Me ](https://petewarden.com/2025/11/29/i-know-were-in-an-ai-bubble-because-nobody-wants-me-%f0%9f%98%ad/) (Published: 2025-11-29)
