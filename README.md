@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 04:54:47**_
+_Last updated: **2025-12-01 05:26:54**_
 
+- [Best Black Friday desktop computer deals 2025: Nov 30](https://www.pcworld.com/article/1382181/black-friday-desktop-pc-computer-deals-2025-nov-30.html) (Published: 2025-11-30)
 - [Lenovo Legion Tower 5 Gen 10 30L: RTX 5070, Ryzen 7 7800X3D, 32GB DDR5, 1TB SSD $1324.99](https://slickdeals.net/f/18903187-lenovo-legion-tower-5-gen-10-30l-rtx-5070-ryzen-7-7800x3d-32gb-ddr5-1tb-ssd-1324-99) (Published: 2025-11-30)
 - [Google Leads AI Model Battle](https://www.nextbigfuture.com/2025/11/207503.html) (Published: 2025-11-30)
 - [4 PC upgrades I made in 2025 that actually mattered](https://www.xda-developers.com/4-pc-upgrades-i-made-in-2025-that-actually-mattered/) (Published: 2025-11-30)
