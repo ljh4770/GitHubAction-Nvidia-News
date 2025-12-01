@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 17:50:00**_
+_Last updated: **2025-12-01 18:00:12**_
 
 - [A Ryzen 9 8940HX laptop for less than $950 — incredible HP notebook gets 47% off for Cyber Monday](https://www.techradar.com/pro/a-ryzen-9-8940hx-laptop-for-less-than-usd950-incredible-hp-notebook-gets-47-percent-off-for-cyber-monday) (Published: 2025-11-30)
 - [Podcast #846 – DDR5 Pricing Ruining DIY PC, Can Intel bLLC Compete with X3D? Unpowered SSDs lose data + MORE!](https://pcper.com/2025/11/podcast-846/) (Published: 2025-11-30)
