@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 16:38:37**_
+_Last updated: **2025-12-01 16:58:07**_
 
 - [Features Expected For Linux 6.19: ASUS Armoury, Many Intel Bits, AMD GCN 1.0/1.1 Enhanced](https://www.phoronix.com/news/Linux-6.19-Features-Expected) (Published: 2025-11-30)
 - [This Near-Perfect Asus QD-OLED Gaming Monitor Is $400 Off for Cyber Monday: Act Fast Before It's Gone](https://me.pcmag.com/en/monitors/33795/this-near-perfect-asus-qd-oled-gaming-monitor-is-400-off-for-cyber-monday-act-fast-before-its-gone) (Published: 2025-11-30)
