@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 07:31:55**_
+_Last updated: **2025-12-01 07:46:14**_
 
 - [Inside the power-hungry data centres taking over Britain](https://www.thetimes.com/business/technology/article/inside-britains-ai-data-centre-boom-can-the-grid-keep-up-jllzb3b0p) (Published: 2025-11-30)
 - [EndeavourOS’s latest update makes Nvidia gaming on Linux much easier to set up](https://www.xda-developers.com/endeavouross-latest-update-makes-nvidia-gaming-linux-easier-set-up/) (Published: 2025-11-30)
