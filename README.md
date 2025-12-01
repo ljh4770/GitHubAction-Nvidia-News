@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 15:58:23**_
+_Last updated: **2025-12-01 16:38:37**_
 
+- [Features Expected For Linux 6.19: ASUS Armoury, Many Intel Bits, AMD GCN 1.0/1.1 Enhanced](https://www.phoronix.com/news/Linux-6.19-Features-Expected) (Published: 2025-11-30)
+- [This Near-Perfect Asus QD-OLED Gaming Monitor Is $400 Off for Cyber Monday: Act Fast Before It's Gone](https://me.pcmag.com/en/monitors/33795/this-near-perfect-asus-qd-oled-gaming-monitor-is-400-off-for-cyber-monday-act-fast-before-its-gone) (Published: 2025-11-30)
+- [This Near-Perfect Asus QD-OLED Gaming Monitor Is $400 Off for Cyber Monday: Act Fast Before It's Gone](https://uk.pcmag.com/monitors/161697/this-near-perfect-asus-qd-oled-gaming-monitor-is-400-off-for-cyber-monday-act-fast-before-its-gone) (Published: 2025-11-30)
+- [How to add AMD FSR4 to any game: A complete guide to Optiscaler](https://wccftech.com/how-to-add-amd-fsr4-to-any-game-a-complete-guide-to-optiscaler/) (Published: 2025-11-30)
+- [z-explorer added to PyPI](https://pypi.org/project/z-explorer/) (Published: 2025-11-30)
+- [Ready for a New Laptop? Cyber Monday Deals Are Live. Check Out Our 52 Great Picks for You](https://www.cnet.com/deals/best-cyber-monday-laptop-deals-2025-11-30/) (Published: 2025-11-30)
+- [Meta Platforms may signal major AI market shift in 2026](https://biztoc.com/x/4366a27b93e9fab8) (Published: 2025-11-30)
+- [‘Be a net contributor to society’, Elon Musk's message to Indian entrepreneurs on Nikhil Kamath's podcast](https://www.livemint.com/companies/people/elon-musk-on-nikhil-kamath-podcast-message-to-indian-entrepreneurs-be-net-contributor-young-college-ai-tech-stock-advice-11764514012029.html) (Published: 2025-11-30)
+- [2 Unstoppable Stocks That Could Join Apple, Nvidia, Microsoft, and Alphabet in the $3 Trillion Club by 2030](https://biztoc.com/x/45034acaff763c10) (Published: 2025-11-30)
 - [Bank of America says these five stocks like Nvidia have room to run](https://biztoc.com/x/dd91c0d21507f87f) (Published: 2025-11-30)
-- [Experts Weigh In: Can Apple’s Stock Inch Past $300 per Share Before Year’s End?](https://finance.yahoo.com/news/experts-weigh-apple-stock-inch-153905971.html) (Published: 2025-11-30)
-- [An Alienware Area-51 with with an RTX 5090 has a 31% discount for Black Friday](https://www.rockpapershotgun.com/an-alienware-area-51-with-with-an-rtx-5090-has-a-31-discount-for-black-friday) (Published: 2025-11-30)
-- [PagerDuty Falls to ~$1B Market Cap on $500M ARR. Just 2x ARR. Profitable Isn’t Enough. You Have to Grow.](https://www.saastr.com/pagerduty-falls-to-1b-market-cap-on-500m-arr-just-2x-arr-profitable-isnt-enough-you-have-to-grow/) (Published: 2025-11-30)
-- [This Alienware Laptop Is the Best Gaming Laptop Deal Going Right Now](https://www.wired.com/story/best-black-friday-gaming-laptop-deal/) (Published: 2025-11-30)
-- [Best Cyber Monday laptop deals 2025: Grab 20+ sales on MacBooks, Lenovo, HP, and more that are still live](https://www.zdnet.com/article/cyber-monday-laptop-deals-amazon-best-buy-walmart-11-30/) (Published: 2025-11-30)
-- [Help! Ubuntu 22.04.5 LTS (Jammy Jellyfish) Dual-Boot with Windows 11 Login Loop Issue!](https://askubuntu.com/questions/1560304/help-ubuntu-22-04-5-lts-jammy-jellyfish-dual-boot-with-windows-11-login-loop) (Published: 2025-11-30)
-- [Market Data](https://www.thestreet.com/investing/for-now-maybe-through-holidays-stocks-should-move-ahead) (Published: 2025-11-30)
-- [The Hot Tub of Death?: Bill Gates, Hurricane Melissa and a Civilization Under Threat](https://www.fairobserver.com/more/environment/the-hot-tub-of-death-bill-gates-hurricane-melissa-and-a-civilization-under-threat/) (Published: 2025-11-30)
-- [Black Friday deals on gaming laptops are still available: Save up to 28% on Asus ROG, Alienware and more](https://tech.yahoo.com/gaming/deals/article/black-friday-deals-on-gaming-laptops-are-still-available-save-up-to-28-on-asus-rog-alienware-and-more-141336713.html) (Published: 2025-11-30)
