@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 20:48:39**_
+_Last updated: **2025-12-01 20:58:54**_
 
 - [It feels weird to type these words, but Alienware's Cyber Monday deals are offering some of the best available prices on prebuilt Nvidia gaming PCs](https://www.pcgamer.com/hardware/gaming-pcs/it-feels-weird-to-type-these-words-but-alienwares-cyber-monday-deals-are-offering-some-of-the-best-available-prices-on-prebuilt-nvidia-gaming-pcs/) (Published: 2025-11-30)
 - [This gorgeous Alienware PC basically comes with a free RTX 5080 — a ridiculous Cyber Monday discount makes the 4K rig an instant buy](https://www.windowscentral.com/gaming/pc-gaming/this-gorgeous-alienware-pc-basically-comes-with-a-free-rtx-5080-a-ridiculous-cyber-monday-discount-makes-the-4k-rig-an-instant-buy) (Published: 2025-11-30)
