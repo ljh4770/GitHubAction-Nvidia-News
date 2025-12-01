@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 13:40:49**_
+_Last updated: **2025-12-01 13:56:01**_
 
+- [The AI bubble isn’t new — Karl Marx explained the mechanisms behind it nearly 150 years ago](https://theconversation.com/the-ai-bubble-isnt-new-karl-marx-explained-the-mechanisms-behind-it-nearly-150-years-ago-270663) (Published: 2025-11-30)
 - [Don't build a gaming PC, buy this monstrous prebuilt for less instead](https://www.xda-developers.com/monstrous-prebuilt-gaming-pc-for-less/) (Published: 2025-11-30)
 - [ASUS Dual NVIDIA RTX 3050 Gaming Graphics Card Returns at an All-Time Low After Selling Out on Black Friday](https://kotaku.com/asus-dual-nvidia-rtx-3050-gaming-graphics-card-returns-at-an-all-time-low-after-selling-out-on-black-friday-2000647705) (Published: 2025-11-30)
 - ['Tech bros are out of control!' Trump's crypto czar is driving a wedge into MAGA](https://www.rawstory.com/crypto-2674356214/) (Published: 2025-11-30)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-01 13:40:49**_
 - [Windows update makes sign-in password icon invisible — Microsoft says you can still click on empty space to enter your password](https://www.tomshardware.com/software/windows/windows-update-makes-sign-in-password-icon-invisible-microsoft-says-you-can-still-click-on-empty-space-to-enter-your-password) (Published: 2025-11-30)
 - [Elon Musk teases a future run by robots](https://www.foxnews.com/tech/elon-musk-teases-future-run-robots) (Published: 2025-11-30)
 - [Stocks drift back toward record highs as the final month of 2025 gets underway: What to watch this week](https://finance.yahoo.com/news/stocks-drift-back-toward-record-highs-as-the-final-month-of-2025-gets-underway-what-to-watch-this-week-122743521.html) (Published: 2025-11-30)
-- [I just found the best Cyber Monday laptop deal — almost $3,000 OFF a $4,000 laptop with insane specs and performance](https://www.windowscentral.com/hardware/hp/hp-probook-4-g1i-cyber-monday-2025-deal) (Published: 2025-11-30)
