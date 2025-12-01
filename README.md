@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 11:48:19**_
+_Last updated: **2025-12-01 11:58:25**_
 
 - [I just found the best Cyber Monday laptop deal — almost $3,000 OFF a $4,000 laptop with insane specs and performance](https://www.windowscentral.com/hardware/hp/hp-probook-4-g1i-cyber-monday-2025-deal) (Published: 2025-11-30)
 - [Gaming-first Linux distro delivers a petabyte of ISOs in one month as users avoid forced updates to Windows 11 — Bazzite distro is another safe haven for Win 10 refugees](https://www.tomshardware.com/software/linux/gaming-first-linux-distro-delivers-a-petabyte-of-isos-in-one-month-as-users-avoid-forced-updates-to-windows-11-bazzite-distro-is-another-safe-haven-for-win-10-refugees) (Published: 2025-11-30)
