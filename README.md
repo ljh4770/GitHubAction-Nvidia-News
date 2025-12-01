@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 08:36:24**_
+_Last updated: **2025-12-01 08:57:58**_
 
 - [Norway wealth fund to vote for human rights report at Microsoft AGM, against management](https://www.cnbc.com/2025/11/30/norway-wealth-fund-to-vote-for-human-rights-report-at-microsoft-agm-against-management.html) (Published: 2025-11-30)
 - [Samsung reportedly nears December verdict on Nvidia HBM4 tests](https://www.digitimes.com/news/a20251128PD226/samsung-hbm4-nvidia-market-hbm.html) (Published: 2025-11-30)
