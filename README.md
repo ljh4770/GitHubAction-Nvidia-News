@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 22:20:42**_
+_Last updated: **2025-12-01 22:39:51**_
 
 - [AMD plans frustrating GPU chip change](https://www.thestreet.com/economy/amd-plans-frustrating-gpu-chip-change) (Published: 2025-11-30)
 - [Jensen Huang Says This Artificial Intelligence Transition Will Be "Revolutionary"](https://biztoc.com/x/722fb15d803bbc06) (Published: 2025-11-30)
