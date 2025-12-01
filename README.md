@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-01 05:49:10**_
+_Last updated: **2025-12-01 05:59:26**_
 
 - [Craig Mod — Writer + Photographer: [RODEN] Blank Spaces, Radicalized Offlineness, Curious Protagonists](https://craigmod.com/roden/109/) (Published: 2025-11-30)
 - [Google TPUv7: “perf per TCO advantage of TPUs is so strong that you already get the gains from adopting TPUs even before turning one on”](https://newsletter.semianalysis.com/p/tpuv7-google-takes-a-swing-at-the) (Published: 2025-11-30)
