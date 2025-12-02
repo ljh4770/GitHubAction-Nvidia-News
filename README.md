@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-02 11:46:49**_
+_Last updated: **2025-12-02 11:57:26**_
 
+- [Legion Pro 5i Gen 10 Intel 16" (2560 x 1600) OLED, RTX 5070 Ti, 32GB, 1TB $1549 (2 replies)](https://slickdeals.net/f/18910348-legion-pro-5i-gen-10-intel-16-2560-x-1600-oled-rtx-5070-ti-32gb-1tb-1549) (Published: 2025-12-01)
 - [Galaxy S26 Ultra specs stagnate as Samsung prioritizes $69 billion in chip profits](https://www.notebookcheck.net/Galaxy-S26-Ultra-specs-stagnate-as-Samsung-prioritizes-69-billion-in-chip-profits.1174420.0.html) (Published: 2025-12-01)
 - [U.S. vs China AI Rivalry : Chips, Homegrown AI, Power & What the Next Decade Brings](https://www.geeky-gadgets.com/domestic-chinese-ai-models/) (Published: 2025-12-01)
 - [Nvidia Stock Slips Again. What’s Hitting the Chip Maker](https://biztoc.com/x/bfcaba2b6ab2f18d) (Published: 2025-12-01)
