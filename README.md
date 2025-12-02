@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-02 08:32:34**_
+_Last updated: **2025-12-02 08:56:41**_
 
 - [PaleBlueDot AI seeks US$300m loan for Nvidia chips](https://www.digitimes.com/news/a20251201PD234/nvidia-high-end-chips-loan-data-center.html) (Published: 2025-12-01)
 - [Elon Musk Says He Doesn't Buy Stocks, But Thinks Google Will Be 'Pretty Valuable' In The Future And Nvidia's An 'Obvious' One](https://biztoc.com/x/4cf173a607ee4f0f) (Published: 2025-12-01)
