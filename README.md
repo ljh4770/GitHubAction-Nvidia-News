@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-02 22:54:11**_
+_Last updated: **2025-12-02 23:16:08**_
 
+- [Apple is making a big shakeup as it looks for an edge in AI](https://biztoc.com/x/19f741582b9ef622) (Published: 2025-12-01)
+- [Federal review finds 44% of US trucking schools don't comply with government rules](https://biztoc.com/x/6228fce097d41669) (Published: 2025-12-01)
+- [Capturing local journalism's last refuges](https://biztoc.com/x/ac548ba44e1031a9) (Published: 2025-12-01)
+- [How Nvidia's $2 billion Synopses bet signals where it sees the next wave of growth](https://biztoc.com/x/0ce6b2c27b71e3b0) (Published: 2025-12-01)
+- [The New Bubble: How AI and Passive Investing Have Turned the Market into a Powder Keg](https://www.activistpost.com/the-new-bubble-how-ai-and-passive-investing-have-turned-the-market-into-a-powder-keg/) (Published: 2025-12-01)
+- [Asian Stocks Look Higher, Yen Holds Monday’s Gain: Markets Wrap](https://biztoc.com/x/76758b9773c15f01) (Published: 2025-12-01)
+- [US air travelers without REAL IDs will be charged a $45 fee](https://biztoc.com/x/deb1ce0ab05e871d) (Published: 2025-12-01)
+- [US may withhold $30.4 million from Minnesota over foreign truck driver licenses](https://biztoc.com/x/575e2e608e3d2d64) (Published: 2025-12-01)
 - ['Big Short' investor Burry targets Tesla after slamming AI valuations](https://biztoc.com/x/82d2686d3a73bbdd) (Published: 2025-12-01)
 - [Global Cyber Monday online sales hit $17.3 billion, Salesforce data shows](https://biztoc.com/x/06e8476cb6a1bc07) (Published: 2025-12-01)
-- [U.S. stocks see shaky start to December in post-Thanksgiving ‘hangover’](https://biztoc.com/x/fd8fef3d10ec6799) (Published: 2025-12-01)
-- [US Moves to Deepen Minerals Supply Chain in AI Race with China](https://biztoc.com/x/e84846c8da35e24c) (Published: 2025-12-01)
-- [Apple Artificial Intelligence Head to Leave After AI Struggles](https://biztoc.com/x/7213cbf5279abe3f) (Published: 2025-12-01)
-- [Illegal migrants to face clothing and mouth searches for phones at UK ports](https://biztoc.com/x/6c97292a6f1857cd) (Published: 2025-12-01)
-- [Apple's artificial intelligence chief is stepping down, company says](https://biztoc.com/x/f22f940d7de9df3a) (Published: 2025-12-01)
-- [Amazon to deliver essentials, groceries in 30 minutes in parts of Seattle, Philadelphia](https://biztoc.com/x/9107c3a997e5b8b5) (Published: 2025-12-01)
-- [AI Data Center Firm Iren Seeks $2 Billion in Convertible Bonds](https://biztoc.com/x/fe9df4b5d22ed8ed) (Published: 2025-12-01)
-- [Fed’s Bowman Says Bank Regulators Working on Stablecoin Rules](https://biztoc.com/x/f0e1660c02d2774b) (Published: 2025-12-01)
