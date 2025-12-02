@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-02 04:27:27**_
+_Last updated: **2025-12-02 04:51:32**_
 
 - [Weekly news roundup: China phone makers pull back as Huawei advances chip tech, Nvidia strengthens Taiwan ties](https://www.digitimes.com/news/a20251201VL204/digitimes-asia-weekly-news-roundup-huawei-smartphone-nvidia-taiwan.html) (Published: 2025-12-01)
 - [Elon Musk Says He Doesn't Buy Stocks, But Thinks Google Will Be 'Pretty Valuable' In The Future And Nvidia's An 'Obvious' One](https://biztoc.com/x/f2b174334699e1c1) (Published: 2025-12-01)
