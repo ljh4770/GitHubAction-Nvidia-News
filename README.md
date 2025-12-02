@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-02 11:57:26**_
+_Last updated: **2025-12-02 12:56:52**_
 
-- [Legion Pro 5i Gen 10 Intel 16" (2560 x 1600) OLED, RTX 5070 Ti, 32GB, 1TB $1549 (2 replies)](https://slickdeals.net/f/18910348-legion-pro-5i-gen-10-intel-16-2560-x-1600-oled-rtx-5070-ti-32gb-1tb-1549) (Published: 2025-12-01)
-- [Galaxy S26 Ultra specs stagnate as Samsung prioritizes $69 billion in chip profits](https://www.notebookcheck.net/Galaxy-S26-Ultra-specs-stagnate-as-Samsung-prioritizes-69-billion-in-chip-profits.1174420.0.html) (Published: 2025-12-01)
-- [U.S. vs China AI Rivalry : Chips, Homegrown AI, Power & What the Next Decade Brings](https://www.geeky-gadgets.com/domestic-chinese-ai-models/) (Published: 2025-12-01)
-- [Nvidia Stock Slips Again. What’s Hitting the Chip Maker](https://biztoc.com/x/bfcaba2b6ab2f18d) (Published: 2025-12-01)
-- [Michael Burry says Tesla is 'ridiculously overvalued'](https://biztoc.com/x/aefd3ff3ed3a2fe3) (Published: 2025-12-01)
-- [PaleBlueDot seeks $300M loan for Nvidia chips for use in Japan, Bloomberg says](https://thefly.com/permalinks/entry.php/id4247499/NVDA;JPM-PaleBlueDot-seeks-M-loan-for-Nvidia-chips-for-use-in-Japan-Bloomberg-says) (Published: 2025-12-01)
-- [Michael Burry says Tesla is 'ridiculously overvalued'](https://www.businessinsider.com/michael-burry-tesla-ridiculously-overvalued-elon-musk-2025-12) (Published: 2025-12-01)
-- [Stock Market Today: Nasdaq, S&P 500 Futures Down Despite Strong Black Friday Sales — NVIDIA MongoDB, Crowdstrike And Salesforce In Focus](https://biztoc.com/x/a534bd7c1990552a) (Published: 2025-12-01)
-- [Here’s why everyone’s talking about a ‘K-shaped’ economy](https://financialpost.com/pmn/heres-why-everyones-talking-about-a-k-shaped-economy) (Published: 2025-12-01)
+- [Trillion-Dollar Companies Now Go To 11; Google Is No. 3](https://biztoc.com/x/d3430ecfaa9e148b) (Published: 2025-12-01)
+- [Vulnerability Summary for the Week of November 24, 2025](https://www.cisa.gov/news-events/bulletins/sb25-335) (Published: 2025-12-01)
+- [Elon Musk says AI will end America's debt crisis within 3 years - Business Insider](https://slashdot.org/firehose.pl?op=view&amp;id=180250469) (Published: 2025-12-01)
+- [⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More](https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html) (Published: 2025-12-01)
+- [Frontline AI: The deskless AI transformation is next](https://www.verdict.co.uk/frontline-ai-the-deskless-ai-transformation-is-next/) (Published: 2025-12-01)
+- [75+ Cyber Monday Deals that you won't want to miss!](https://www.androidheadlines.com/cyber-monday-3) (Published: 2025-12-01)
+- [Trillion-Dollar Companies Now Go To 11; Google Is No. 3](https://biztoc.com/x/28e5174d8a22e3c0) (Published: 2025-12-01)
+- [Stocks Drop After Bitcoin Selloff, BOJ Sour Mood: Markets Wrap](https://financialpost.com/pmn/business-pmn/stocks-drop-after-bitcoin-selloff-boj-sour-mood-markets-wrap) (Published: 2025-12-01)
+- [This Trillion-Dollar Stock Could Be the Next Nvidia](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_77d6b14c-7dd2-4443-be81-18b3a656898d) (Published: 2025-12-01)
+- [This $1,749 Alienware RTX 5080 gaming PC deal is astonishingly good — save a whopping $730 as prices fall even further on powerful rig with 20-core Intel CPU and 1TB SSD](https://www.tomshardware.com/pc-components/this-usd1-749-alienware-rtx-5080-gaming-pc-deal-is-astonishingly-good-save-a-whopping-usd730-as-prices-fall-even-further-on-powerful-rig-with-20-core-intel-cpu-and-1tb-ssd) (Published: 2025-12-01)
