@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-03 20:33:41**_
+_Last updated: **2025-12-03 20:50:56**_
 
 - [Microreactor startup Antares raises $96M for land, sea, and space-based nuclear power | TechCrunch](https://techcrunch.com/2025/12/02/microreactor-startup-antares-raises-96m-for-land-sea-and-space-based-nuclear-power/) (Published: 2025-12-02)
 - [Nvidia Just Lit a Fire Under Synopsys Stock But Its Chart Is Waving Red Flags. Here’s the Only Way I’d Trade SNPS Here](https://biztoc.com/x/66c03eb7b7a1450a) (Published: 2025-12-02)
