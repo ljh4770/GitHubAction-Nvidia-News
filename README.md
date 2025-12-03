@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-03 13:52:27**_
+_Last updated: **2025-12-03 14:14:42**_
 
+- [Best Cyber Monday and Black Friday tech deals you can still get live — PC hardware deals on GPUs, CPUs, SSDs, and more that you can still get at Amazon, Newegg, and others](https://www.tomshardware.com/live/news/cyber-monday-black-friday-tech-pc-deals-live-deals-you-can-still-get-2025) (Published: 2025-12-02)
+- [NVIDIA 590.44.01 Beta Linux Driver Released With Wayland Improvements](https://www.phoronix.com/news/NVIDIA-590.44.01-Linux-Beta) (Published: 2025-12-02)
+- [Nvidia asking for 800,000 CoWoS for calendar 2026, says Edgewater Research](https://thefly.com/permalinks/entry.php/id4248553/NVDA;AMD-Nvidia-asking-for--CoWoS-for-calendar--says-Edgewater-Research) (Published: 2025-12-02)
+- [Routine review](https://www.rockpapershotgun.com/routine-review) (Published: 2025-12-02)
+- [From data to diagnosis: An innovative approach to epilepsy prediction with CGTNet incorporating spatio-temporal features](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337007) (Published: 2025-12-02)
+- [Ju-LiteMobileAtt: A lightweight attention network for efficient jujube defect classification](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337898) (Published: 2025-12-02)
+- [Amazon EC2 P6e-GB300 UltraServers accelerated by NVIDIA GB300 NVL72 are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-p6e-gb300-ultraservers-nvidia-gb300-nvl72-generally-available/) (Published: 2025-12-02)
+- [12월 Fed 동결, QT 종료, BOJ 인상 가능성과 관세 대법원 판결](https://ryueyes11.tistory.com/511991) (Published: 2025-12-02)
 - [HostColor Launches New AI-Ready Cloud and Bare Metal Servers in Miami Data Centers](https://www.globenewswire.com/news-release/2025/12/02/3197982/0/en/HostColor-Launches-New-AI-Ready-Cloud-and-Bare-Metal-Servers-in-Miami-Data-Centers.html) (Published: 2025-12-02)
 - [AMD-Backed Vultr to Build $1 Billion Chip Cluster in Ohio for AI](https://financialpost.com/pmn/business-pmn/amd-backed-vultr-to-build-1-billion-chip-cluster-in-ohio-for-ai) (Published: 2025-12-02)
-- [AI Processor Market Valuation Set to Skyrocket to US$ 323.8 Billion by 2033 | Astute Analytica](https://www.globenewswire.com/news-release/2025/12/02/3197940/0/en/AI-Processor-Market-Valuation-Set-to-Skyrocket-to-US-323-8-Billion-by-2033-Astute-Analytica.html) (Published: 2025-12-02)
-- [Great news for Intel: It now owns fully 1% of the gaming GPU market](https://www.pcgamer.com/hardware/graphics-cards/great-news-for-intel-it-now-owns-fully-1-percent-of-the-gaming-gpu-market/) (Published: 2025-12-02)
-- [Apple's AI leadership, Costco's tariff lawsuit, Cyber Monday Shopify outage and more in Morning Squawk](https://www.cnbc.com/2025/12/02/5-things-to-know-before-the-stock-market-opens.html) (Published: 2025-12-02)
-- [Stock Market Today: Dow Rises As AI Stocks Nvidia, Palantir, Astera Rally (Live Coverage)](https://biztoc.com/x/df7310bb8eb3367f) (Published: 2025-12-02)
-- [Google is relying on its own chips for its AI system Gemini. Here’s why that’s a seismic change for the industry](https://theconversation.com/google-is-relying-on-its-own-chips-for-its-ai-system-gemini-heres-why-thats-a-seismic-change-for-the-industry-270818) (Published: 2025-12-02)
-- [Bank of America backs 1–4% crypto allocation, opens gates to Bitcoin ETFs](https://cointelegraph.com/news/bank-of-america-4-crypto-allocation-bitcoin-etfs) (Published: 2025-12-02)
-- [Walmart’s extended 2025 Cyber Monday sale delivers up to $900 off RTX 50-series gaming laptops, deals from $290](http://9to5toys.com/2025/12/02/walmart-extended-2025-cyber-monday-sale-up-to-900-off/) (Published: 2025-12-02)
-- [boAt founder Aman Gupta made crores from a Rs 12 lakh investment in a bhujiya chips brand, earning a 33,000% return](https://economictimes.indiatimes.com/magazines/panache/boat-founder-aman-gupta-made-crores-from-a-rs-12-lakh-investment-in-a-bhujiya-chips-brand-earning-a-33000-return/articleshow/125719505.cms) (Published: 2025-12-02)
