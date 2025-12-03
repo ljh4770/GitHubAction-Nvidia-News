@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-03 04:32:36**_
+_Last updated: **2025-12-03 04:52:11**_
 
 - [Asus AMD Radeon RX 9060 XT Prime OC 16GB Graphics Card $545 + Delivery ($0 NSW C&C) @ UMKLOGIX (ex NT, WA)](https://www.ozbargain.com.au/node/938068) (Published: 2025-12-02)
 - [Fanuc to collaborate with Nvidia on AI-equipped industrial robots](https://www.digitimes.com/news/a20251202PD232/industrial-fanuc-nvidia-robot-market.html) (Published: 2025-12-02)
@@ -10,4 +10,3 @@ _Last updated: **2025-12-03 04:32:36**_
 - [Inside China's race for self-driving dominance](https://biztoc.com/x/c3128fb10cfe98a9) (Published: 2025-12-02)
 - [Copper Falls From Record High as Winter Bites Into China Demand](https://biztoc.com/x/26558c84a8982117) (Published: 2025-12-02)
 - [General Atlantic Secures Private Loan to Fund Chicken Chain Deal](https://biztoc.com/x/c165ede516d8e7d6) (Published: 2025-12-02)
-- [Billionaire Steve Cohen, Bally’s And Resorts World Win Battle For New York City Casino Licenses](https://biztoc.com/x/991b42686cdcd06f) (Published: 2025-12-02)
