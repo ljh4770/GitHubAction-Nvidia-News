@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-03 07:44:40**_
+_Last updated: **2025-12-03 07:54:57**_
 
 - [CNBC Daily Open: Crypto trips up markets' festive mood](https://www.cnbc.com/2025/12/02/cnbc-daily-open-crypto-trips-up-markets-festive-mood.html) (Published: 2025-12-02)
 - [Japan's Nikkei licks wounds after selloff sparked by BOJ hike bets](https://economictimes.indiatimes.com/markets/stocks/japans-nikkei-licks-wounds-after-selloff-sparked-by-boj-hike-bets/articleshow/125712479.cms) (Published: 2025-12-02)
