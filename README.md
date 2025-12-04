@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-04 12:49:34**_
+_Last updated: **2025-12-04 13:28:06**_
 
+- [Anthropic taps IPO lawyers as it races OpenAI to go public](https://financialpost.com/financial-times/anthropic-ipo-lawyers-races-openai-public) (Published: 2025-12-03)
+- [1 Artificial Intelligence Stock That Could Double in 2026](https://biztoc.com/x/d59971a544daabac) (Published: 2025-12-03)
+- [Nvidia (NASDAQ: NVDA) Stock Price Prediction for 2025: Where Will It Be in 1 Year (Dec 3)](https://biztoc.com/x/9eeab3d45a5e8cd1) (Published: 2025-12-03)
+- [Anthropic IPO talks set up Wall Street showdown with OpenAI](https://qz.com/anthropics-potential-ipo-talks-hint-at-future-wall-street-showdown-with-openai) (Published: 2025-12-03)
+- [Amazon Races to Beat Nvidia and Google with Trainium3 —AI Costs May Finally Drop](https://www.ibtimes.com/amazon-races-beat-nvidia-google-trainium3-ai-costs-may-finally-drop-3791845) (Published: 2025-12-03)
+- [NVIDIA Ends Support For GTX 900 And GTX 10 Series In Linux With Driver Branch 590](https://wccftech.com/nvidia-ends-support-for-gtx-900-and-gtx-10-series-in-linux-with-driver-branch-590/) (Published: 2025-12-03)
+- [Macy's earnings, OpenAI under pressure, Boeing's delivery outlook and more in Morning Squawk](https://www.cnbc.com/2025/12/03/5-things-to-know-before-the-stock-market-opens.html) (Published: 2025-12-03)
+- [Earnings live: Macy's stock falls after reporting Q3 profit, American Eagle and Marvell surge](https://finance.yahoo.com/news/live/earnings-live-macys-stock-falls-after-reporting-q3-profit-american-eagle-and-marvell-surge-125618899.html) (Published: 2025-12-03)
+- [AMD will reportedly jack up its GPU prices, so if you see a good sale this holiday season, don’t hesitate](https://www.techradar.com/computing/gpu/amd-will-reportedly-jack-up-its-gpu-prices-so-if-you-see-a-good-sale-this-holiday-season-dont-hesitate) (Published: 2025-12-03)
 - [Corporate Finance vs. Investment Banking: Confusion, Crossovers, Compensation, and Careers](https://mergersandinquisitions.com/corporate-finance-vs-investment-banking/) (Published: 2025-12-03)
-- [Nvidia Stock Gains. It Has This Key Advantage Over Amazon’s New AI Chips](https://biztoc.com/x/a7ec730eaa41a85b) (Published: 2025-12-03)
-- [Tesla, Nvidia, Palantir On Wrong Side Of The Tracks. Why You Should Keep Watching Them](https://biztoc.com/x/8c9e66a59897b8c9) (Published: 2025-12-03)
-- [The AI Trade Has Powered Wall Street Through Bitcoin’s Wobble. It Sets Up a December Rally](https://biztoc.com/x/e0dbdfc9f702e3d9) (Published: 2025-12-03)
-- [Digi Power X Implementing First B200 GPU Cluster in Alabama with Plans to Begin Data Processing in Q1 2026](https://financialpost.com/globe-newswire/digi-power-x-implementing-first-b200-gpu-cluster-in-alabama-with-plans-to-begin-data-processing-in-q1-2026) (Published: 2025-12-03)
-- [Digi Power X Implementing First B200 GPU Cluster in Alabama with Plans to Begin Data Processing in Q1 2026](https://www.globenewswire.com/news-release/2025/12/03/3198766/0/en/Digi-Power-X-Implementing-First-B200-GPU-Cluster-in-Alabama-with-Plans-to-Begin-Data-Processing-in-Q1-2026.html) (Published: 2025-12-03)
-- [I Asked ChatGPT What Are the Best AI Stocks To Invest In — Here’s What It Said](https://biztoc.com/x/da0c57c97670d7b0) (Published: 2025-12-03)
-- [The First Discrete GPU to Support “Windows on ARM” May Not Come From NVIDIA or AMD, but From China’s Lisuan With Its 6nm Gaming GPU](https://wccftech.com/the-first-gpu-to-support-windows-on-arm-may-not-come-from-nvidia-or-amd-but-from-china-lisuan/) (Published: 2025-12-03)
-- [nvfuser-cu126 0.2.34.dev20251203](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20251203/) (Published: 2025-12-03)
-- [nvfuser-cu130 0.2.34.dev20251203](https://pypi.org/project/nvfuser-cu130/0.2.34.dev20251203/) (Published: 2025-12-03)
