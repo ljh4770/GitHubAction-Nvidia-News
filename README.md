@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-04 14:58:09**_
+_Last updated: **2025-12-04 15:32:21**_
 
+- [Stock Market Today: Dow Rises On Surprise Jobs Data; Nvidia Extends Gains (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180274899) (Published: 2025-12-03)
+- [Nvidia admits the $100bn 'biggest AI infrastructure project in history' OpenAI deal still isn't finalized](https://www.techradar.com/pro/nvidia-admits-the-usd100bn-biggest-ai-infrastructure-project-in-history-openai-deal-still-isnt-finalized) (Published: 2025-12-03)
+- [United States Laptop Market Report 2025-2033, Competitive Analysis of Acer, Apple, ASUSTeK, Dell, HP Development, Huawei, LG, and Lenovo](https://www.globenewswire.com/news-release/2025/12/03/3199096/28124/en/United-States-Laptop-Market-Report-2025-2033-Competitive-Analysis-of-Acer-Apple-ASUSTeK-Dell-HP-Development-Huawei-LG-and-Lenovo.html) (Published: 2025-12-03)
+- [US stock market today: S&P 500 sets fresh record, Dow climbs — but Nasdaq drops as traders rotate. Here are the stocks gaining big](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-sp-500-sets-fresh-record-dow-climbs-but-nasdaq-drops-as-traders-rotate-here-are-the-stocks-gaining-big/articleshow/125746415.cms) (Published: 2025-12-03)
+- [Wall Street drifts near its all-time high as Marvell Technology jumps and Macy’s sinks](https://www.bostonherald.com/2025/12/03/wall-street-fed-interest-hopes/) (Published: 2025-12-03)
+- [(ITmedia, 11/28) e腓障㏍、鴻Nayax茖純羆堺 ...](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2025/12.html#20251204__locker) (Published: 2025-12-03)
+- [(ITmedia, 12/3)綵⑱荐5款ｃケ帥欠 荅蚊荐d ...](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2025/12.html#20251204__sankei) (Published: 2025-12-03)
+- [(gigazine, 12/4)⒢❼腟 Crucial㍾篋ゃ ...](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2025/12.html#20251204__crucial) (Published: 2025-12-03)
+- [(ITmedia, 12/2) 3ゃ綣綵紊с顥キソ鴻 ...](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2025/12.html#20251204__kanata) (Published: 2025-12-03)
 - [Save a whopping $600 on this HP OMEN 16-inch 144Hz gaming laptop with RTX 5050 GPU while it’s down at $799](http://9to5toys.com/2025/12/03/hp-omen-16-inch-144hz-gaming-laptop-rtx-5050-gpu-at-799/) (Published: 2025-12-03)
-- [Marvel Cosmic Invasion review](https://www.pcgamer.com/games/action/marvel-cosmic-invasion-review/) (Published: 2025-12-03)
-- [Nebius leverages Microsoft, Meta contracts for AI expansion](https://finance.yahoo.com/news/nebius-leverages-microsoft-meta-contracts-145325186.html) (Published: 2025-12-03)
-- [Nebius leverages Microsoft, Meta contracts for AI expansion](https://www.channelnewsasia.com/business/nebius-leverages-microsoft-meta-contracts-ai-expansion-5537051) (Published: 2025-12-03)
-- [Stock Market Today: Dow Rises On Surprise Jobs Data; Nvidia Extends Gains (Live Coverage)](https://biztoc.com/x/334e05bcffb871e2) (Published: 2025-12-03)
-- [MLOps Market Set for Explosive Growth to USD 29.6 Billion by 2032, Driven by Integration of ML Workflows with DevOps Practices | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/12/03/3199025/0/en/MLOps-Market-Set-for-Explosive-Growth-to-USD-29-6-Billion-by-2032-Driven-by-Integration-of-ML-Workflows-with-DevOps-Practices-Research-by-SNS-Insider.html) (Published: 2025-12-03)
-- [Secretive $3T Fund Giant Makes Flashy Move Into Private Assets](https://www.wealthmanagement.com/alternative-investments/secretive-3t-fund-giant-makes-flashy-move-into-private-assets) (Published: 2025-12-03)
-- [7 SEO, Marketing, And Tech Predictions For 2026 via @sejournal, @Kevin_Indig](https://www.searchenginejournal.com/seo-marketing-and-tech-predictions-for-2026/562373/) (Published: 2025-12-03)
-- [Microsoft denies report of lowering targets for AI software sales growth](https://www.channelnewsasia.com/business/microsoft-denies-report-lowering-targets-ai-software-sales-growth-5535156) (Published: 2025-12-03)
-- [China does not need Nvidia chips in the AI war — export controls only pushed it to build its own AI machine](https://biztoc.com/x/a7b75b4ff06ddf55) (Published: 2025-12-03)
