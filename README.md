@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-05 20:50:05**_
+_Last updated: **2025-12-05 21:00:11**_
 
+- [Refurbished Dell Precision 5560 Laptops: Up to 51% off + Extra 5% off + free shipping](https://www.dealnews.com/Refurbished-Dell-Precision-5560-Laptops-Up-to-51-off-Extra-5-off-free-shipping/21792957.html) (Published: 2025-12-04)
 - [megatron-fsdp 0.2.0.dev111512](https://pypi.org/project/megatron-fsdp/0.2.0.dev111512/) (Published: 2025-12-04)
 - [Millennium suffered big losses in one of the $81 billion hedge fund's favorite strategies last month](https://www.businessinsider.com/millenniums-index-rebalance-strategy-losses-november-2025-12) (Published: 2025-12-04)
 - [Jensen Huang says “we don't know” if China would accept Nvidia's H200 AI chips should the US relax export controls on them, after a meeting with President Trump](https://biztoc.com/x/bf2232f775b993ed) (Published: 2025-12-04)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-05 20:50:05**_
 - [2 Dividend ETFs to Avoid and 1 to Buy Right Now](https://biztoc.com/x/7dd9dcee1e089856) (Published: 2025-12-04)
 - [CNBC signs deal with Kalshi to add prediction data from next year](https://biztoc.com/x/583f267daa9bf4e3) (Published: 2025-12-04)
 - [Vitol set to supply new Colombia LNG project, Bloomberg News reports](https://biztoc.com/x/152edb4893d2af84) (Published: 2025-12-04)
-- [Wells Fargo Adds Key Front-End Traders to Grow Markets Business](https://biztoc.com/x/dc0b1e8db1bdaafc) (Published: 2025-12-04)
