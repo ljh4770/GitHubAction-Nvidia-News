@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-05 05:45:57**_
+_Last updated: **2025-12-05 05:55:17**_
 
 - [Stock Market News, Dec. 3, 2025: Dow ends up over 400 points, S&P 500 and Nasdaq finish higher as investors focus on likelihood of a Fed rate cut next week](https://biztoc.com/x/1e2c7e84a776cdea) (Published: 2025-12-04)
 - [State Department Renames US Institute of Peace for Trump](https://biztoc.com/x/33e599fc9bc17c28) (Published: 2025-12-04)
