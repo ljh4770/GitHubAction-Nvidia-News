@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-05 21:00:11**_
+_Last updated: **2025-12-05 21:26:20**_
 
+- [Intel scraps plan to spin off NEX networking chip business](https://siliconangle.com/2025/12/04/intel-scraps-plan-spin-off-nex-networking-chip-business/) (Published: 2025-12-04)
+- [HPE sees weaker quarterly revenue on AI server sales delay](https://www.channelnewsasia.com/business/hpe-sees-weaker-quarterly-revenue-ai-server-sales-delay-5558601) (Published: 2025-12-04)
+- [Refurbished Dell Precision 5570 Laptops: 40% off + Extra 5% off + free shipping](https://www.dealnews.com/Refurbished-Dell-Precision-5570-Laptops-40-off-Extra-5-off-free-shipping/21792960.html) (Published: 2025-12-04)
+- [CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication Through RL](https://github.com/deepreinforce-ai/CUDA-L2) (Published: 2025-12-04)
+- [US senators seek to block Nvidia sales of advanced chips to China](https://biztoc.com/x/aa83dc760d0b030a) (Published: 2025-12-04)
+- [Acer Nitro 50 Gaming Desktop](https://thegadgetflow.com/product/acer-nitro-50-intel-gaming-desktop/) (Published: 2025-12-04)
 - [Refurbished Dell Precision 5560 Laptops: Up to 51% off + Extra 5% off + free shipping](https://www.dealnews.com/Refurbished-Dell-Precision-5560-Laptops-Up-to-51-off-Extra-5-off-free-shipping/21792957.html) (Published: 2025-12-04)
 - [megatron-fsdp 0.2.0.dev111512](https://pypi.org/project/megatron-fsdp/0.2.0.dev111512/) (Published: 2025-12-04)
 - [Millennium suffered big losses in one of the $81 billion hedge fund's favorite strategies last month](https://www.businessinsider.com/millenniums-index-rebalance-strategy-losses-november-2025-12) (Published: 2025-12-04)
 - [Jensen Huang says “we don't know” if China would accept Nvidia's H200 AI chips should the US relax export controls on them, after a meeting with President Trump](https://biztoc.com/x/bf2232f775b993ed) (Published: 2025-12-04)
-- [TD Cowen Says This Chip Stock (Not Nvidia) Is the Best Idea for 2026](https://biztoc.com/x/ebde35b3ee5ff636) (Published: 2025-12-04)
-- [US senators seek to block Nvidia sales of advanced chips to China](https://biztoc.com/x/842a63d70ddb0d4a) (Published: 2025-12-04)
-- [U.S. Senators aim to bar Nvidia from selling AI chips to China, FT says](https://thefly.com/permalinks/entry.php/id4250622/AMD;INTC;MCHP;MU;QCOM;TXN;NVDA;MRVL-US-Senators-aim-to-bar-Nvidia-from-selling-AI-chips-to-China-FT-says) (Published: 2025-12-04)
-- [2 Dividend ETFs to Avoid and 1 to Buy Right Now](https://biztoc.com/x/7dd9dcee1e089856) (Published: 2025-12-04)
-- [CNBC signs deal with Kalshi to add prediction data from next year](https://biztoc.com/x/583f267daa9bf4e3) (Published: 2025-12-04)
-- [Vitol set to supply new Colombia LNG project, Bloomberg News reports](https://biztoc.com/x/152edb4893d2af84) (Published: 2025-12-04)
