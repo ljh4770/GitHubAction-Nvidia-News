@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-05 16:55:04**_
+_Last updated: **2025-12-05 17:19:28**_
 
+- [Better Artificial Intelligence (AI) Stock for 2026: Nvidia vs. AMD](https://biztoc.com/x/455d2534b685d566) (Published: 2025-12-04)
+- [Nvidia CEO Says Nuclear Is AI's Future — Oklo, NuScale Ready To Roar Back?](https://biztoc.com/x/035e04b460fd386d) (Published: 2025-12-04)
+- [ZBox Magnus One: Smallest RTX 5070 Ti-powered SFF gaming desktop goes on sale with hefty price tag](https://www.notebookcheck.net/ZBox-Magnus-One-Smallest-RTX-5070-Ti-powered-SFF-gaming-desktop-goes-on-sale-with-hefty-price-tag.1177808.0.html) (Published: 2025-12-04)
+- [Nvidia CEO Jensen Huang admits he works 7 days a week, including holidays, in a constant ‘state of anxiety’ out of fear of going bankrupt](https://biztoc.com/x/83ebb7603c99785b) (Published: 2025-12-04)
+- [(PR) Ubisoft+ Premium Streaming Library Expanded with First Batch of Activision Games](https://www.techpowerup.com/343684/ubisoft-premium-streaming-library-expanded-with-first-batch-of-activision-games) (Published: 2025-12-04)
+- [NVIDIA Awards up to $60,000 Research Fellowships to PhD Students](https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2026-2027/) (Published: 2025-12-04)
+- [Companies are increasingly falling victim to AI impersonation scams. This startup just raised $28M to stop deepfakes in real time](https://fortune.com/2025/12/04/companies-are-increasingly-falling-victim-to-ai-impersonation-scams-this-startup-just-raised-28m-to-stop-deepfakes-in-real-time/) (Published: 2025-12-04)
+- [Linux Distros Designed for Former Windows Users Are Picking Up Steam](https://www.linuxjournal.com/content/linux-distros-designed-former-windows-users-are-picking-steam) (Published: 2025-12-04)
+- [(PR) NVIDIA GeForce NOW Brings Holiday Cheer With 30 New Games in the Cloud](https://www.techpowerup.com/343683/nvidia-geforce-now-brings-holiday-cheer-with-30-new-games-in-the-cloud) (Published: 2025-12-04)
 - [Nvidia CEO Jensen Huang admits he works 7 days a week, including holidays, in a constant ‘state of anxiety’ out of fear of going bankrupt](https://fortune.com/2025/12/04/nvidia-ceo-admits-he-works-7-days-a-week-including-holidays-in-a-constant-state-of-anxiety-out-of-fear-of-going-bankrupt/) (Published: 2025-12-04)
-- [Deals: Galaxy Watch 8 $160 off, Galaxy Tab models $400 off, Samsung 4K Odyssey monitor $1,100 off, more](http://9to5google.com/2025/12/04/deals-galaxy-watch-8-galaxy-tab-odyssey-monitor/) (Published: 2025-12-04)
-- [Nvidia Stock Rises. CEO Jensen Huang Just Won the AI Chip Restriction Battle](https://biztoc.com/x/20b31cd1b2e6d973) (Published: 2025-12-04)
-- [NVIDIA Corporation (NVDA): A Bull Case Theory](https://finance.yahoo.com/news/nvidia-corporation-nvda-bull-case-164318356.html) (Published: 2025-12-04)
-- [PC component crisis just got worse as major RAM maker gives up on consumers and CPU price hikes are rumored](https://www.techradar.com/computing/memory/pc-component-crisis-just-got-worse-as-major-ram-maker-gives-up-on-consumers-and-cpu-price-hikes-are-rumored) (Published: 2025-12-04)
-- [Alphabet’s AI chips are a potential $900 billion ‘secret sauce’](https://fortune.com/2025/12/04/why-is-google-stock-doing-so-well-tpu-chips-ai-secret-sauce/) (Published: 2025-12-04)
-- [AWS rolls out autonomous AI agents to bolster Nvidia-led cloud push](https://economictimes.indiatimes.com/tech/artificial-intelligence/aws-rolls-out-autonomous-ai-agents-to-bolster-nvidia-led-cloud-push/articleshow/125770074.cms) (Published: 2025-12-04)
-- [Palantir wants to set the juice loose with new AI power initiative](https://biztoc.com/x/023552ab0af0d2f6) (Published: 2025-12-04)
-- [Nvidia CEO meets with Trump, talks export controls](https://biztoc.com/x/34c4ba0122509c5c) (Published: 2025-12-04)
-- [Bank of America unveils surprise 2026 stock-market forecast](https://www.thestreet.com/investing/bank-of-america-unveils-surprise-2026-stock-market-forecast) (Published: 2025-12-04)
