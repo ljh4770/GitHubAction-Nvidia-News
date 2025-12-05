@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-05 02:52:34**_
+_Last updated: **2025-12-05 03:48:06**_
 
 - [Taiwan's President Lai draws on past semiconductor curbs as the US debates Nvidia sales to China](https://www.digitimes.com/news/a20251204VL205/taiwan-expansion-new-york-times-semiconductors-manufacturing.html) (Published: 2025-12-04)
 - [Salesforce CEO vies to overcome investors' AI skepticism while touting company's quarterly numbers](https://economictimes.indiatimes.com/tech/artificial-intelligence/salesforce-ceo-vies-to-overcome-investors-ai-skepticism-while-touting-companys-quarterly-numbers/articleshow/125756380.cms) (Published: 2025-12-04)
