@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-05 17:19:28**_
+_Last updated: **2025-12-05 17:38:51**_
 
+- [Top Stocks to Double Up on Right Now](https://biztoc.com/x/9a975ce4756328d8) (Published: 2025-12-04)
+- [megatron-fsdp 0.2.0.dev104644](https://pypi.org/project/megatron-fsdp/0.2.0.dev104644/) (Published: 2025-12-04)
+- [The number of billionaires is on the rise — and they are richer than ever thanks to AI](https://www.businessinsider.com/how-many-billionaires-world-growing-net-worth-ai-2025-12) (Published: 2025-12-04)
+- [ACEMAGIC M1A Pro+ brings AMD Strix Halo to the Tank line of mini gaming PCs](https://liliputing.com/acemagic-m1a-pro-brings-amd-strix-halo-to-the-tank-line-of-mini-gaming-pcs/) (Published: 2025-12-04)
+- [ServiceNow, Inc. (NOW): A Bull Case Theory](https://finance.yahoo.com/news/servicenow-inc-now-bull-case-172158384.html) (Published: 2025-12-04)
+- [Jensen Huang says an incorrect nine-year-old prediction about AI shows why it won't destroy jobs](https://www.cnbc.com/2025/12/04/jensen-huang-cited-radiologists-to-dispute-ai-jobs-impact.html) (Published: 2025-12-04)
 - [Better Artificial Intelligence (AI) Stock for 2026: Nvidia vs. AMD](https://biztoc.com/x/455d2534b685d566) (Published: 2025-12-04)
 - [Nvidia CEO Says Nuclear Is AI's Future — Oklo, NuScale Ready To Roar Back?](https://biztoc.com/x/035e04b460fd386d) (Published: 2025-12-04)
 - [ZBox Magnus One: Smallest RTX 5070 Ti-powered SFF gaming desktop goes on sale with hefty price tag](https://www.notebookcheck.net/ZBox-Magnus-One-Smallest-RTX-5070-Ti-powered-SFF-gaming-desktop-goes-on-sale-with-hefty-price-tag.1177808.0.html) (Published: 2025-12-04)
 - [Nvidia CEO Jensen Huang admits he works 7 days a week, including holidays, in a constant ‘state of anxiety’ out of fear of going bankrupt](https://biztoc.com/x/83ebb7603c99785b) (Published: 2025-12-04)
-- [(PR) Ubisoft+ Premium Streaming Library Expanded with First Batch of Activision Games](https://www.techpowerup.com/343684/ubisoft-premium-streaming-library-expanded-with-first-batch-of-activision-games) (Published: 2025-12-04)
-- [NVIDIA Awards up to $60,000 Research Fellowships to PhD Students](https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2026-2027/) (Published: 2025-12-04)
-- [Companies are increasingly falling victim to AI impersonation scams. This startup just raised $28M to stop deepfakes in real time](https://fortune.com/2025/12/04/companies-are-increasingly-falling-victim-to-ai-impersonation-scams-this-startup-just-raised-28m-to-stop-deepfakes-in-real-time/) (Published: 2025-12-04)
-- [Linux Distros Designed for Former Windows Users Are Picking Up Steam](https://www.linuxjournal.com/content/linux-distros-designed-former-windows-users-are-picking-steam) (Published: 2025-12-04)
-- [(PR) NVIDIA GeForce NOW Brings Holiday Cheer With 30 New Games in the Cloud](https://www.techpowerup.com/343683/nvidia-geforce-now-brings-holiday-cheer-with-30-new-games-in-the-cloud) (Published: 2025-12-04)
-- [Nvidia CEO Jensen Huang admits he works 7 days a week, including holidays, in a constant ‘state of anxiety’ out of fear of going bankrupt](https://fortune.com/2025/12/04/nvidia-ceo-admits-he-works-7-days-a-week-including-holidays-in-a-constant-state-of-anxiety-out-of-fear-of-going-bankrupt/) (Published: 2025-12-04)
