@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-05 22:34:15**_
+_Last updated: **2025-12-05 22:45:29**_
 
+- [NVIDIA Releases CUDA 13.1 With New "CUDA Tile" Programming Model](https://www.phoronix.com/news/NVIDIA-CUDA-13.1) (Published: 2025-12-04)
 - [megatron-fsdp 0.2.0.dev111292](https://pypi.org/project/megatron-fsdp/0.2.0.dev111292/) (Published: 2025-12-04)
 - [Senators Seek to Block Nvidia From Selling Top AI Chips to China](https://biztoc.com/x/2422eb2e9ef1bc89) (Published: 2025-12-04)
 - [Nvidia CEO Jensen Huang admits he works 7 days a week, including holidays, in a constant 'state of anxiety' out of fear of going bankrupt](https://biztoc.com/x/0b088f1b9bb45f08) (Published: 2025-12-04)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-05 22:34:15**_
 - [PC in the spotlight: Dell transforms the personal computer for the AI age](https://siliconangle.com/2025/12/04/dell-transforms-personal-computer-ai-age-dellaipc/) (Published: 2025-12-04)
 - [‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://biztoc.com/x/981ebbb310ac77f3) (Published: 2025-12-04)
 - [Nvidia director sells $2.34M in common stock](https://thefly.com/permalinks/entry.php/id4250733/NVDA-Nvidia-director-sells-M-in-common-stock) (Published: 2025-12-04)
-- [Like Apple, Google’s AI News Tech Misinterprets Stories, Generates Gibberish Headlines](https://www.techdirt.com/2025/12/04/like-apple-googles-ai-news-tech-misinterprets-stories-generates-gibberish-headlines/) (Published: 2025-12-04)
