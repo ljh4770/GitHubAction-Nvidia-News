@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 10:38:47**_
+_Last updated: **2025-12-06 10:49:08**_
 
-- [The AI bubble talk is coming from inside the earnings calls](https://www.businessinsider.com/ai-bubble-mentions-surge-earnings-call-data-2025-12) (Published: 2025-12-05)
-- [Intel drops plans to sell networking and communication division](https://www.techradar.com/pro/intel-drops-plans-to-sell-networking-and-communication-division) (Published: 2025-12-05)
-- [nvfuser-cu126 0.2.34.dev20251205](https://pypi.org/project/nvfuser-cu126/0.2.34.dev20251205/) (Published: 2025-12-05)
-- [nvfuser-cu130 0.2.34.dev20251205](https://pypi.org/project/nvfuser-cu130/0.2.34.dev20251205/) (Published: 2025-12-05)
-- [Aetina Intros NVIDIA Blackwell MXM GPUs For Industrial Applications: Up To RTX PRO 5000 & 24 GB GDDR7 Memory](https://wccftech.com/nvidia-blackwell-mxm-gpus-for-industrial-applications-up-to-rtx-pro-5000-24-gb/) (Published: 2025-12-05)
-- [Dell Refurbished Cyber Week Hot Deals From $199, laptops from $269 + free shipping](https://www.dealnews.com/Dell-Refurbished-Cyber-Week-Hot-Deals-From-199-laptops-from-269-free-shipping/21793027.html) (Published: 2025-12-05)
-- [SoftBank's Arm plans to set up chip training facility in South Korea](https://www.yahoo.com/news/articles/softbanks-arm-plans-set-chip-095420440.html) (Published: 2025-12-05)
-- [Meet the trucks-and-bulldozers companies getting rich from the AI boom](https://www.businessinsider.com/caterpillar-cummins-power-generators-ai-boom-winners-2025-12) (Published: 2025-12-05)
-- [Nintendo’s 98% staff retention rate means the average employee has been there 15 years](https://fortune.com/2025/12/05/nintendo-98-percent-staff-retention-rate-average-employee-15-years/) (Published: 2025-12-05)
+- [nvidia-nat-strands 1.4.0a20251205](https://pypi.org/project/nvidia-nat-strands/1.4.0a20251205/) (Published: 2025-12-05)
+- [nvidia-nat-ingestion 1.4.0a20251205](https://pypi.org/project/nvidia-nat-ingestion/1.4.0a20251205/) (Published: 2025-12-05)
+- [nvidia-nat-mysql 1.4.0a20251205](https://pypi.org/project/nvidia-nat-mysql/1.4.0a20251205/) (Published: 2025-12-05)
+- [nvidia-nat-vanna 1.4.0a20251205](https://pypi.org/project/nvidia-nat-vanna/1.4.0a20251205/) (Published: 2025-12-05)
+- [nvidia-nat-mcp 1.4.0a20251205](https://pypi.org/project/nvidia-nat-mcp/1.4.0a20251205/) (Published: 2025-12-05)
+- [nvidia-nat-ragaai 1.4.0a20251205](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20251205/) (Published: 2025-12-05)
+- [nvidia-nat-profiling 1.4.0a20251205](https://pypi.org/project/nvidia-nat-profiling/1.4.0a20251205/) (Published: 2025-12-05)
+- [Raspberry Pi vs Hailo-8 vs Jetson Orin Nano : Edge AI Price, Power & Speed Compared](https://www.geeky-gadgets.com/ai-edge-sbc-hardware-comparison/) (Published: 2025-12-05)
+- [nvidia-nat-adk 1.4.0a20251205](https://pypi.org/project/nvidia-nat-adk/1.4.0a20251205/) (Published: 2025-12-05)
+- [nvidia-nat-s3 1.4.0a20251205](https://pypi.org/project/nvidia-nat-s3/1.4.0a20251205/) (Published: 2025-12-05)
