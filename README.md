@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 21:41:42**_
+_Last updated: **2025-12-06 21:52:07**_
 
 - [Aaeon Boxer 8651AI Plus: Fanless computer is powered by Nvidia Jetson Orin NX](https://www.notebookcheck.net/Aaeon-Boxer-8651AI-Plus-Fanless-computer-is-powered-by-Nvidia-Jetson-Orin-NX.1178967.0.html) (Published: 2025-12-05)
 - [Aaeon Boxer 8651AI Plus: Fanless mini PC is powered by Nvidia Jetson Orin NX](https://www.notebookcheck.net/Aaeon-Boxer-8651AI-Plus-Fanless-mini-PC-is-powered-by-Nvidia-Jetson-Orin-NX.1178967.0.html) (Published: 2025-12-05)
