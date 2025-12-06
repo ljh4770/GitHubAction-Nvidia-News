@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 08:43:43**_
+_Last updated: **2025-12-06 08:55:21**_
 
+- [CNBC Daily Open: It's a rich Nvidia's world](https://biztoc.com/x/420f587090a40aeb) (Published: 2025-12-05)
 - [Alphabet And Amazon Proving Potential GPU Dominance Is Nvidia's Achilles Heel](https://biztoc.com/x/3dc07ddde9a89c76) (Published: 2025-12-05)
 - [AAEON Introduces BOXER-8651AI-PLUS, an NVIDIA Jetson Orin NX-Accelerated AI System](https://www.madshrimps.be/news/aaeon-introduces-boxer-8651ai-plus-an-nvidia-jetson-orin-nx-accelerated-ai-system/) (Published: 2025-12-05)
 - [Jensen Huang: China's AI factory buildout is leaving US behind](https://www.digitimes.com/news/a20251205PD228/nvidia-infrastructure-jensen-huang-taipei-ceo.html) (Published: 2025-12-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-06 08:43:43**_
 - [Nvidia Partner Hon Hai’s Sales Growth Slows as AI Concerns Rise](https://biztoc.com/x/0e5ae6b1b810086d) (Published: 2025-12-05)
 - [Aetina Unveils MXM Accelerator Module with NVIDIA RTX PRO Blackwell Embedded GPUs](https://www.madshrimps.be/news/aetina-unveils-mxm-accelerator-module-with-nvidia-rtx-pro-blackwell-embedded-gpus/) (Published: 2025-12-05)
 - [Ubisoft+ Premium Streaming Library Expanded with First Batch of Activision Games](https://www.madshrimps.be/news/ubisoft-premium-streaming-library-expanded-with-first-batch-of-activision-games/) (Published: 2025-12-05)
-- [NVIDIA GeForce NOW Brings Holiday Cheer With 30 New Games in the Cloud](https://www.madshrimps.be/news/nvidia-geforce-now-brings-holiday-cheer-with-30-new-games-in-the-cloud/) (Published: 2025-12-05)
