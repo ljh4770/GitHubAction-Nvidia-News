@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 21:13:23**_
+_Last updated: **2025-12-06 21:30:13**_
 
 - [SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America's most valuable private company](https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/) (Published: 2025-12-05)
 - [Lenovo LOQ 15.6" IPS LCD FHD 144Hz AI-Powered Gaming Notebook AMD Ryzen 7 250 16GB RAM 512GB NVIDIA GeForce RTX 5060 Luna Grey $899.99](https://slickdeals.net/f/18932845-lenovo-loq-15-6-ips-lcd-fhd-144hz-ai-powered-gaming-notebook-amd-ryzen-7-250-16gb-ram-512gb-nvidia-geforce-rtx-5060-luna-grey-899-99) (Published: 2025-12-05)
