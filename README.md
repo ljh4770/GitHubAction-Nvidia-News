@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 06:44:50**_
+_Last updated: **2025-12-06 06:56:46**_
 
 - [Nvidia CEO Jensen Huang Just Won the AI Chip Restriction Battle](https://biztoc.com/x/a085b306f8c76cd1) (Published: 2025-12-05)
 - [AI Valuations Are in the Bubble Zone, but the Technology Is Real: Jiraaf Co-Founder Vineet Agrawal](https://economictimes.indiatimes.com/markets/bonds/ai-valuations-are-in-the-bubble-zone-but-the-technology-is-real-jiraaf-co-founder-vineet-agrawal/articleshow/125781727.cms) (Published: 2025-12-05)
