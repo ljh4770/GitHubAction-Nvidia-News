@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 11:44:01**_
+_Last updated: **2025-12-06 11:54:32**_
 
+- [Amazon's AI Chip Trainium2 Hits Multi-Billion Revenue Run Rate As CEO Andy Jassy Unveils 4X Faster Successor](https://biztoc.com/x/f21c4b922ba965c6) (Published: 2025-12-05)
 - [US Lawmakers Push Bill To Stop Trump From Easing China's Access To Next-Gen Nvidia, AMD AI Chips](https://biztoc.com/x/3714a5fe5ecaeb76) (Published: 2025-12-05)
 - [Nvidia Stock Rises. What Foxconn, HPE Sales Say About AI Chip Demand](https://biztoc.com/x/1b99c719ed019a1f) (Published: 2025-12-05)
 - [Are retail investors trying to tell us something about Apple?](https://www.businessinsider.com/apple-stock-price-retail-investor-analysis-ai-trade-magnificent-seven-2025-12) (Published: 2025-12-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-06 11:44:01**_
 - [Nvidia replaces entire $10,000 RTX Pro 6000 graphics card of stricken user who broke it in transit — company offers to ship replacement and troubleshoot busted GPU](https://www.tomshardware.com/pc-components/gpus/nvidia-replaces-entire-usd10-000-rtx-pro-6000-graphics-card-of-stricken-user-who-broke-it-in-transit-company-offers-to-ship-replacement-and-troubleshoot-busted-gpu) (Published: 2025-12-05)
 - [aiqtoolkit-zep-cloud 1.4.0a20251205](https://pypi.org/project/aiqtoolkit-zep-cloud/1.4.0a20251205/) (Published: 2025-12-05)
 - [(PR) ASUS IoT and CTHINGS.CO Forge Partnership to Accelerate Scalable Edge AI](https://www.techpowerup.com/343715/asus-iot-and-cthings-co-forge-partnership-to-accelerate-scalable-edge-ai) (Published: 2025-12-05)
-- [aiqtoolkit-llama-index 1.4.0a20251205](https://pypi.org/project/aiqtoolkit-llama-index/1.4.0a20251205/) (Published: 2025-12-05)
