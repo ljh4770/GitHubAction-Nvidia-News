@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 14:56:10**_
+_Last updated: **2025-12-06 15:20:28**_
 
+- [NVIDIA Director Trades $2.34M In Company Stock](https://biztoc.com/x/3791725179ffb099) (Published: 2025-12-05)
+- [China’s Homegrown Nvidia Soars in Market Debut](https://biztoc.com/x/498f6eea116e5a0b) (Published: 2025-12-05)
+- [China’s Nvidia Just Jumped 400% on Debut. How the AI Chip Stocks Compare](https://biztoc.com/x/7f6efbb58b2804ac) (Published: 2025-12-05)
+- [In a surprise change of heart, Nvidia's brought 32-bit PhysX support back to RTX 50-series graphics cards, though only for a select number of games](https://www.pcgamer.com/hardware/graphics-cards/in-a-surprise-change-of-heart-nvidias-brought-32-bit-physx-support-back-to-rtx-50-series-graphics-cards-though-only-for-a-select-number-of-games/) (Published: 2025-12-05)
+- [AMD's Lisa Su doesn't believe there's an AI bubble: 'Emphatically, from my perspective, no'](https://www.pcgamer.com/software/ai/amds-lisa-su-doesnt-believe-theres-an-ai-bubble-emphatically-from-my-perspective-no/) (Published: 2025-12-05)
+- [CoinEx Research November 2025 Report: Painvember's Brutal Reality Check](https://www.globenewswire.com/news-release/2025/12/05/3200809/0/en/CoinEx-Research-November-2025-Report-Painvember-s-Brutal-Reality-Check.html) (Published: 2025-12-05)
+- [AI Update, December 5, 2025: AI News and Views From the Past Two Weeks](https://www.marketingprofs.com/opinions/2025/54083/ai-update-december-5-2025-ai-news-and-views-from-the-past-two-weeks) (Published: 2025-12-05)
+- [The New York Times sues Perplexity, alleging copyright infringement](https://www.cnbc.com/2025/12/05/the-new-york-times-perplexity-copyright.html) (Published: 2025-12-05)
+- [Teton Ridge Turns To Palantir To Bring Instant AI Insights To Rodeo](https://biztoc.com/x/f9e22f5bb527187b) (Published: 2025-12-05)
 - [ChatGPT Thinks Nvidia Stock Price Will Close At This Price By The End of 2025](https://biztoc.com/x/9b818586f4ffc572) (Published: 2025-12-05)
-- [AI Server Market to Surpass USD 2235.86 Billion by 2033, Driven by Rising High-Performance Computing and AI Adoption | Report by SNS Insider](https://www.globenewswire.com/news-release/2025/12/05/3200790/0/en/AI-Server-Market-to-Surpass-USD-2235-86-Billion-by-2033-Driven-by-Rising-High-Performance-Computing-and-AI-Adoption-Report-by-SNS-Insider.html) (Published: 2025-12-05)
-- [China’s Answer to Nvidia Soars 425% in Market Debut](https://biztoc.com/x/095617a8d46a450c) (Published: 2025-12-05)
-- [ChatGPT Thinks Nvidia Stock Price Will Close At This Price By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-nvidia-stock-price-143238749.html) (Published: 2025-12-05)
-- [Physical AI Market to Hit USD 49.73 Billion by 2033, Owing to Advances in Robotics and Real-World Intelligent Systems | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/12/05/3200781/0/en/Physical-AI-Market-to-Hit-USD-49-73-Billion-by-2033-Owing-to-Advances-in-Robotics-and-Real-World-Intelligent-Systems-Research-by-SNS-Insider.html) (Published: 2025-12-05)
-- [Best Buy Week 1 Holiday Doorbuster: Save $710 on Lenovo’s RTX 5070 Legion 7i OLED gaming laptop](http://9to5toys.com/2025/12/05/best-buy-week-1-holiday-doorbuster-save-710-lenovo-rtx-5070-legion-7i/) (Published: 2025-12-05)
-- [ChatGPT Thinks Alphabet Stock Price Will Close At This Level By The End Of 2025](https://finance.yahoo.com/news/chatgpt-thinks-alphabet-stock-price-142620746.html) (Published: 2025-12-05)
-- [Jensen Huang effect hits Wall Street: Oklo surges 24% as AI turns to mini nuclear reactors](https://economictimes.indiatimes.com/news/international/us/jensen-huang-effect-hits-wall-street-oklo-surges-24-as-ai-turns-to-mini-nuclear-reactors/articleshow/125789804.cms) (Published: 2025-12-05)
-- [Z47 bids Ola Electric adieu; Meesho IPO over subscribed 79x](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/z47-bids-ola-electric-adieu-meesho-ipo-finds-favour-with-qibs/articleshow/125790700.cms) (Published: 2025-12-05)
-- [At re:Invent, AWS strikes back in AI with new chips, models — and a story](https://siliconangle.com/2025/12/05/reinvent-aws-strikes-back-ai-new-chips-models-story/) (Published: 2025-12-05)
