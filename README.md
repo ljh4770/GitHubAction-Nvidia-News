@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 13:46:02**_
+_Last updated: **2025-12-06 13:56:17**_
 
+- [Karrie Karahalios named to Fast Company's AI 20 List for 2025](https://www.media.mit.edu/articles/named-to-fast-company-s-ai-20-list-for-2025/) (Published: 2025-12-05)
 - [US senators seek to block Nvidia sales of advanced chips to China (Demetri Sevastopulo/Financial Times)](https://www.memeorandum.com/251205/p23) (Published: 2025-12-05)
 - [Anthropic CEO's View 'Hasn't Changed' On Nvidia Chip Sales To China Despite Recent Partnership: 'This Isn't Personal. This Is...'](https://biztoc.com/x/95f33a94ae0c26c9) (Published: 2025-12-05)
 - [Nvidia one of the most 'consequential companies' in history, CEO says](https://finance.yahoo.com/video/nvidia-one-most-consequential-companies-130007390.html) (Published: 2025-12-05)
@@ -9,4 +10,3 @@ _Last updated: **2025-12-06 13:46:02**_
 - [AWS AI Factories target hybrid cloud AI infrastructure](https://www.techtarget.com/searchitoperations/news/366636033/AWS-AI-Factories-target-hybrid-cloud-AI-infrastructure) (Published: 2025-12-05)
 - [Sandisk WD Blue SN5100 NVMe SSD review](https://www.pcgamer.com/hardware/ssds/sandisk-wd-blue-sn5100-nvme-ssd-review/) (Published: 2025-12-05)
 - [Nvidia Update Crash](https://www.bleepingcomputer.com/forums/t/812216/nvidia-update-crash/) (Published: 2025-12-05)
-- [China Threatens Nvidia With Its Own Company](https://biztoc.com/x/f4c8dbeeb550f47e) (Published: 2025-12-05)
