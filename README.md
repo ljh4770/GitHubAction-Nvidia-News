@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 11:33:47**_
+_Last updated: **2025-12-06 11:44:01**_
 
+- [US Lawmakers Push Bill To Stop Trump From Easing China's Access To Next-Gen Nvidia, AMD AI Chips](https://biztoc.com/x/3714a5fe5ecaeb76) (Published: 2025-12-05)
 - [Nvidia Stock Rises. What Foxconn, HPE Sales Say About AI Chip Demand](https://biztoc.com/x/1b99c719ed019a1f) (Published: 2025-12-05)
 - [Are retail investors trying to tell us something about Apple?](https://www.businessinsider.com/apple-stock-price-retail-investor-analysis-ai-trade-magnificent-seven-2025-12) (Published: 2025-12-05)
 - [$125+ Bn Next-Generation Data Storage Markets - Forecasts from 2025 to 2030: Growth Driven by Exponential Data Growth, Cloud Adoption, and Advancements in AI and IoT](https://www.globenewswire.com/news-release/2025/12/05/3200536/28124/en/125-Bn-Next-Generation-Data-Storage-Markets-Forecasts-from-2025-to-2030-Growth-Driven-by-Exponential-Data-Growth-Cloud-Adoption-and-Advancements-in-AI-and-IoT.html) (Published: 2025-12-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-06 11:33:47**_
 - [aiqtoolkit-zep-cloud 1.4.0a20251205](https://pypi.org/project/aiqtoolkit-zep-cloud/1.4.0a20251205/) (Published: 2025-12-05)
 - [(PR) ASUS IoT and CTHINGS.CO Forge Partnership to Accelerate Scalable Edge AI](https://www.techpowerup.com/343715/asus-iot-and-cthings-co-forge-partnership-to-accelerate-scalable-edge-ai) (Published: 2025-12-05)
 - [aiqtoolkit-llama-index 1.4.0a20251205](https://pypi.org/project/aiqtoolkit-llama-index/1.4.0a20251205/) (Published: 2025-12-05)
-- [nvidia-nat-redis 1.4.0a20251205](https://pypi.org/project/nvidia-nat-redis/1.4.0a20251205/) (Published: 2025-12-05)
