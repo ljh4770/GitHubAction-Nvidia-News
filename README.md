@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 14:35:50**_
+_Last updated: **2025-12-06 14:45:58**_
 
+- [AI Server Market to Surpass USD 2235.86 Billion by 2033, Driven by Rising High-Performance Computing and AI Adoption | Report by SNS Insider](https://www.globenewswire.com/news-release/2025/12/05/3200790/0/en/AI-Server-Market-to-Surpass-USD-2235-86-Billion-by-2033-Driven-by-Rising-High-Performance-Computing-and-AI-Adoption-Report-by-SNS-Insider.html) (Published: 2025-12-05)
+- [China’s Answer to Nvidia Soars 425% in Market Debut](https://biztoc.com/x/095617a8d46a450c) (Published: 2025-12-05)
 - [ChatGPT Thinks Nvidia Stock Price Will Close At This Price By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-nvidia-stock-price-143238749.html) (Published: 2025-12-05)
 - [Physical AI Market to Hit USD 49.73 Billion by 2033, Owing to Advances in Robotics and Real-World Intelligent Systems | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/12/05/3200781/0/en/Physical-AI-Market-to-Hit-USD-49-73-Billion-by-2033-Owing-to-Advances-in-Robotics-and-Real-World-Intelligent-Systems-Research-by-SNS-Insider.html) (Published: 2025-12-05)
 - [Best Buy Week 1 Holiday Doorbuster: Save $710 on Lenovo’s RTX 5070 Legion 7i OLED gaming laptop](http://9to5toys.com/2025/12/05/best-buy-week-1-holiday-doorbuster-save-710-lenovo-rtx-5070-legion-7i/) (Published: 2025-12-05)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-06 14:35:50**_
 - [Z47 bids Ola Electric adieu; Meesho IPO over subscribed 79x](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/z47-bids-ola-electric-adieu-meesho-ipo-finds-favour-with-qibs/articleshow/125790700.cms) (Published: 2025-12-05)
 - [At re:Invent, AWS strikes back in AI with new chips, models — and a story](https://siliconangle.com/2025/12/05/reinvent-aws-strikes-back-ai-new-chips-models-story/) (Published: 2025-12-05)
 - [A meta-contrastive learning approach for clinical drug-drug interaction extraction from biomedical literature](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013722) (Published: 2025-12-05)
-- [Graph-enhanced deep learning for diabetic retinopathy diagnosis: A quality-aware and uncertainty-driven approach](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013745) (Published: 2025-12-05)
-- [A digital twins-based policy simulation framework for rural photovoltaic entrepreneurship in China](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338133) (Published: 2025-12-05)
