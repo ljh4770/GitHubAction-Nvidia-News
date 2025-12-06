@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 13:34:51**_
+_Last updated: **2025-12-06 13:46:02**_
 
 - [US senators seek to block Nvidia sales of advanced chips to China (Demetri Sevastopulo/Financial Times)](https://www.memeorandum.com/251205/p23) (Published: 2025-12-05)
 - [Anthropic CEO's View 'Hasn't Changed' On Nvidia Chip Sales To China Despite Recent Partnership: 'This Isn't Personal. This Is...'](https://biztoc.com/x/95f33a94ae0c26c9) (Published: 2025-12-05)
