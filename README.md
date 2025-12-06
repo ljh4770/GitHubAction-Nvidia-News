@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 18:43:38**_
+_Last updated: **2025-12-06 18:55:10**_
 
 - [Friday links: shadow armies](https://biztoc.com/x/9fd3ab57dd10336b) (Published: 2025-12-05)
 - [AI Daily: Senators aim to bar Nvidia from selling AI chips to China](https://thefly.com/permalinks/entry.php/id4251377/NVDA;AMD;INTC;MRVL;MCHP;MU;QCOM;TXN;META;IAC;TDAY;PLTR;CRWV;$PRIVATE;MSFT-AI-Daily-Senators-aim-to-bar-Nvidia-from-selling-AI-chips-to-China) (Published: 2025-12-05)
