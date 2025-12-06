@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-06 08:55:21**_
+_Last updated: **2025-12-06 09:19:32**_
 
+- [NVIDIA Bids Farewell To Maxwell, Pascal & Volta GPUs, Including The Mighty 1080 Ti, In GeForce 590 Drivers](https://wccftech.com/nvidia-bids-farewell-to-maxwell-pascal-volta-gpus-in-geforce-590-drivers/) (Published: 2025-12-05)
 - [CNBC Daily Open: It's a rich Nvidia's world](https://biztoc.com/x/420f587090a40aeb) (Published: 2025-12-05)
 - [Alphabet And Amazon Proving Potential GPU Dominance Is Nvidia's Achilles Heel](https://biztoc.com/x/3dc07ddde9a89c76) (Published: 2025-12-05)
 - [AAEON Introduces BOXER-8651AI-PLUS, an NVIDIA Jetson Orin NX-Accelerated AI System](https://www.madshrimps.be/news/aaeon-introduces-boxer-8651ai-plus-an-nvidia-jetson-orin-nx-accelerated-ai-system/) (Published: 2025-12-05)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-06 08:55:21**_
 - [Aiarty Image Enhancer 3.1 (Win&Mac)](https://www.giveawayoftheday.com/aiarty-image-enhancer-2/) (Published: 2025-12-05)
 - [Nvidia Partner Hon Hai’s Sales Growth Slows as AI Concerns Rise](https://biztoc.com/x/0e5ae6b1b810086d) (Published: 2025-12-05)
 - [Aetina Unveils MXM Accelerator Module with NVIDIA RTX PRO Blackwell Embedded GPUs](https://www.madshrimps.be/news/aetina-unveils-mxm-accelerator-module-with-nvidia-rtx-pro-blackwell-embedded-gpus/) (Published: 2025-12-05)
-- [Ubisoft+ Premium Streaming Library Expanded with First Batch of Activision Games](https://www.madshrimps.be/news/ubisoft-premium-streaming-library-expanded-with-first-batch-of-activision-games/) (Published: 2025-12-05)
