@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 01:37:59**_
+_Last updated: **2025-12-07 03:16:38**_
 
+- [aule-attention 0.2.0](https://pypi.org/project/aule-attention/0.2.0/) (Published: 2025-12-06)
+- [aule-attention added to PyPI](https://pypi.org/project/aule-attention/) (Published: 2025-12-06)
 - [The AI pressure cooker: OpenAI, Nvidia and Google all on the move](https://biztoc.com/x/ab292e74a10fa918) (Published: 2025-12-06)
 - [Sam Altman's Dirty DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal) (Published: 2025-12-06)
 - [Aetina introduces Nvidia RTX Pro Blackwell embedded GPU MXM modules](https://www.notebookcheck.net/Aetina-introduces-Nvidia-RTX-Pro-Blackwell-embedded-GPU-MXM-modules.1178951.0.html) (Published: 2025-12-05)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-07 01:37:59**_
 - [Bolsas de NY fecham em alta, de olho em expectativa por Fed e acordo Netflix-Warner](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-de-olho-em-expectativa-por-fed-e-acordo-netflix-warner/) (Published: 2025-12-05)
 - [Aaeon Boxer 8651AI Plus: Fanless computer is powered by Nvidia Jetson Orin NX](https://www.notebookcheck.net/Aaeon-Boxer-8651AI-Plus-Fanless-computer-is-powered-by-Nvidia-Jetson-Orin-NX.1178967.0.html) (Published: 2025-12-05)
 - [Aaeon Boxer 8651AI Plus: Fanless mini PC is powered by Nvidia Jetson Orin NX](https://www.notebookcheck.net/Aaeon-Boxer-8651AI-Plus-Fanless-mini-PC-is-powered-by-Nvidia-Jetson-Orin-NX.1178967.0.html) (Published: 2025-12-05)
-- [SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America's most valuable private company](https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/) (Published: 2025-12-05)
-- [Lenovo LOQ 15.6" IPS LCD FHD 144Hz AI-Powered Gaming Notebook AMD Ryzen 7 250 16GB RAM 512GB NVIDIA GeForce RTX 5060 Luna Grey $899.99](https://slickdeals.net/f/18932845-lenovo-loq-15-6-ips-lcd-fhd-144hz-ai-powered-gaming-notebook-amd-ryzen-7-250-16gb-ram-512gb-nvidia-geforce-rtx-5060-luna-grey-899-99) (Published: 2025-12-05)
