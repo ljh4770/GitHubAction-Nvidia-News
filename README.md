@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 13:53:33**_
+_Last updated: **2025-12-07 14:13:50**_
 
+- [404 Forever: The Tech That Died in 2025](https://me.pcmag.com/en/news/33986/404-forever-the-tech-that-died-in-2025) (Published: 2025-12-06)
+- [404 Forever: The Tech That Died in 2025](https://uk.pcmag.com/news/161877/404-forever-the-tech-that-died-in-2025) (Published: 2025-12-06)
+- [404 Forever: The Tech That Died in 2025](https://uk.pcmag.com/topic-3/161877/404-forever-the-tech-that-died-in-2025) (Published: 2025-12-06)
 - [Nvidia Has a New China Chip Problem! U.S. Senators Launch a New Bill to Ban Exports](https://biztoc.com/x/fce87b8e85edc0b1) (Published: 2025-12-06)
 - [Nvidia Has a New China Chip Problem! U.S. Senators Launch a New Bill to Ban Exports](https://biztoc.com/x/fce87b8e85edc0b1) (Published: 2025-12-06)
 - [CNN Just Cracked Open Pandora’s Box That’s Worse Than Any Fake News Hoax](https://freerepublic.com/focus/f-bloggers/4356195/posts) (Published: 2025-12-06)
@@ -8,6 +11,3 @@ _Last updated: **2025-12-07 13:53:33**_
 - [Analysts Stick With NVIDIA (NVDA) as AI Momentum Drives Long-Term Value](https://biztoc.com/x/c3a64e200813aa33) (Published: 2025-12-06)
 - [Stifel Reaffirms Buy on Astera Labs (ALAB), Says Nvidia/AWS Concerns Are Overblown](https://biztoc.com/x/d4f52ae4ffeb6c24) (Published: 2025-12-06)
 - [Weekend reading: Monevator Christmas sweatshirt competition](https://monevator.com/weekend-reading-monevator-christmas-sweatshirt-competition/) (Published: 2025-12-06)
-- [Driverless 18-wheelers may reach your street sooner than you think](https://finance.yahoo.com/video/driverless-18-wheelers-may-reach-130027186.html) (Published: 2025-12-06)
-- [Two GTX 580s in SLI are responsible for the AI we have today — Nvidia's Huang revealed that the invention of deep learning began with two flagship Fermi GPUs in 2012](https://www.tomshardware.com/tech-industry/artificial-intelligence/two-gtx-580s-in-sli-are-responsible-for-the-ai-we-have-today-nvidias-huang-revealed-that-the-invention-of-deep-learning-began-with-two-flagship-fermi-gpus-in-2012) (Published: 2025-12-06)
-- [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/) (Published: 2025-12-06)
