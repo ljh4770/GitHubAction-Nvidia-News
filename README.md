@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 21:40:22**_
+_Last updated: **2025-12-07 21:50:32**_
 
 - [This Chinese chip giant is boosting production to try and take on Nvidia - but how will Huawei feel?](https://www.techradar.com/pro/this-chinese-chip-giant-is-boosting-production-to-try-and-take-on-nvidia-but-how-will-huawei-feel) (Published: 2025-12-06)
 - [The Largest CUDA Update in 20 Years: CUDA 13.1 Reconstructs GPU Programming](https://slashdot.org/submission/17342995/the-largest-cuda-update-in-20-years-cuda-131-reconstructs-gpu-programming) (Published: 2025-12-06)
