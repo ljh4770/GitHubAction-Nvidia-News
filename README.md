@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 16:40:30**_
+_Last updated: **2025-12-07 16:51:52**_
 
 - [Nvidia refuses to replace RTX 5080 FE GPU's broken 16-pin power connector retention clip — the owner says Nvidia is trying to 'burn my house down'](https://www.tomshardware.com/pc-components/gpus/rtx-5080-fe-owner-says-nvidia-denied-warranty-after-power-connector-clip-snapped) (Published: 2025-12-06)
 - [Here's Why Shares in This Nvidia Partner Soared This Week](https://biztoc.com/x/55850736a192e111) (Published: 2025-12-06)
