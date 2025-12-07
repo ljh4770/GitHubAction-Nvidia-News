@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 10:34:33**_
+_Last updated: **2025-12-07 10:45:16**_
 
+- [nvidia-nat-redis 1.4.0a20251206](https://pypi.org/project/nvidia-nat-redis/1.4.0a20251206/) (Published: 2025-12-06)
+- [nvidia-nat-data-flywheel 1.4.0a20251206](https://pypi.org/project/nvidia-nat-data-flywheel/1.4.0a20251206/) (Published: 2025-12-06)
 - [nvidia-nat-semantic-kernel 1.4.0a20251206](https://pypi.org/project/nvidia-nat-semantic-kernel/1.4.0a20251206/) (Published: 2025-12-06)
 - [nvidia-nat-opentelemetry 1.4.0a20251206](https://pypi.org/project/nvidia-nat-opentelemetry/1.4.0a20251206/) (Published: 2025-12-06)
 - [nvidia-nat-llama-index 1.4.0a20251206](https://pypi.org/project/nvidia-nat-llama-index/1.4.0a20251206/) (Published: 2025-12-06)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-07 10:34:33**_
 - [nvidia-nat-phoenix 1.4.0a20251206](https://pypi.org/project/nvidia-nat-phoenix/1.4.0a20251206/) (Published: 2025-12-06)
 - [nvidia-nat-crewai 1.4.0a20251206](https://pypi.org/project/nvidia-nat-crewai/1.4.0a20251206/) (Published: 2025-12-06)
 - [nvidia-nat-all 1.4.0a20251206](https://pypi.org/project/nvidia-nat-all/1.4.0a20251206/) (Published: 2025-12-06)
-- [nvidia-nat-test 1.4.0a20251206](https://pypi.org/project/nvidia-nat-test/1.4.0a20251206/) (Published: 2025-12-06)
-- [nvidia-nat-a2a 1.4.0a20251206](https://pypi.org/project/nvidia-nat-a2a/1.4.0a20251206/) (Published: 2025-12-06)
