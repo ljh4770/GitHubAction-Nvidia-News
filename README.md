@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 14:45:03**_
+_Last updated: **2025-12-07 14:55:11**_
 
 - [System Infrastructure Software Market to Reach USD 297.18 Billion by 2032, Growing at a CAGR of 7.12% | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/12/06/3201066/0/en/System-Infrastructure-Software-Market-to-Reach-USD-297-18-Billion-by-2032-Growing-at-a-CAGR-of-7-12-Research-by-SNS-Insider.html) (Published: 2025-12-06)
 - [Quant who said passive era is ‘worse than Marxism’ doubles down](https://fortune.com/2025/12/06/index-funds-passive-investing-marxist-inigo-fraser-henmins-big-tech-dystopian-symbiosis/) (Published: 2025-12-06)
