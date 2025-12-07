@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 18:42:42**_
+_Last updated: **2025-12-07 18:54:24**_
 
 - [Nvidia CEO says data centers take about 3 years to construct in the U.S., while in China ‘they can build a hospital in a weekend’](https://biztoc.com/x/6671963fe50815db) (Published: 2025-12-06)
 - [Nvidia CEO says data centers take about 3 years to construct in the U.S., while in China ‘they can build a hospital in a weekend’](https://fortune.com/2025/12/06/nvidia-ceo-jensen-huang-ai-race-china-data-centers-construct-us/) (Published: 2025-12-06)
