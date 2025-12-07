@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 11:40:01**_
+_Last updated: **2025-12-07 11:50:29**_
 
 - [Aoostar launches Nex395 mini PC with top-end AMD Strix Halo APU and 128 GB RAM](https://www.notebookcheck.net/Aoostar-launches-Nex395-mini-PC-with-top-end-AMD-Strix-Halo-APU-and-128-GB-RAM.1179569.0.html) (Published: 2025-12-06)
 - [Minisforum MS-02 Ultra with an RTX 5060 low-profile GPU runs Cyberpunk 2077 at 160 FPS with DLSS 4 but shows a slight CPU performance drop](https://www.notebookcheck.net/Minisforum-MS-02-Ultra-with-an-RTX-5060-low-profile-GPU-runs-Cyberpunk-2077-at-160-FPS-with-DLSS-4-but-shows-a-slight-CPU-performance-drop.1179484.0.html) (Published: 2025-12-06)
