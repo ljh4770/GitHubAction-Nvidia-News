@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 12:15:20**_
+_Last updated: **2025-12-07 12:57:03**_
 
+- [Touching the Elephant – TPUs](https://considerthebulldog.com/tte-tpu/) (Published: 2025-12-06)
 - [Why Navitas Semiconductor Stock Crashed in November](https://biztoc.com/x/eda69e32608bba66) (Published: 2025-12-06)
 - [Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://biztoc.com/x/142edfe2769cc3f0) (Published: 2025-12-06)
 - [Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://fortune.com/2025/12/06/nvidia-jensen-huang-ai-adoption-creep-gradual-robot-clothing/) (Published: 2025-12-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-07 12:15:20**_
 - [Stifel Reaffirms Buy on Astera Labs (ALAB), Says Nvidia/AWS Concerns Are Overblown](https://finance.yahoo.com/news/stifel-reaffirms-buy-astera-labs-110157971.html) (Published: 2025-12-06)
 - [nvidia-nat-redis 1.4.0a20251206](https://pypi.org/project/nvidia-nat-redis/1.4.0a20251206/) (Published: 2025-12-06)
 - [nvidia-nat-data-flywheel 1.4.0a20251206](https://pypi.org/project/nvidia-nat-data-flywheel/1.4.0a20251206/) (Published: 2025-12-06)
-- [nvidia-nat-semantic-kernel 1.4.0a20251206](https://pypi.org/project/nvidia-nat-semantic-kernel/1.4.0a20251206/) (Published: 2025-12-06)
