@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 05:37:59**_
+_Last updated: **2025-12-07 05:48:29**_
 
+- [Endeavour OS – An Arch-based distro with a friendly community](https://endeavouros.com/) (Published: 2025-12-06)
 - [China’s Homegrown Nvidia Soars in Market Debut](https://biztoc.com/x/3a418cd545cecb0d) (Published: 2025-12-06)
 - [aule-attention 0.2.0](https://pypi.org/project/aule-attention/0.2.0/) (Published: 2025-12-06)
 - [aule-attention added to PyPI](https://pypi.org/project/aule-attention/) (Published: 2025-12-06)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-07 05:37:59**_
 - [Google’s New A.I. Chip Is Shaking Nvidia’s Dominance: What to Know](https://observer.com/2025/12/google-ai-chip-tpu-nvidia-challenge/) (Published: 2025-12-05)
 - [XAI Grok 4.2 May Have Cracked the Code on Trading](https://www.nextbigfuture.com/2025/12/xai-grok-4-2.html) (Published: 2025-12-05)
 - [Taiwan Semiconductor Manufacturing (TSM): A Bull Case Theory](https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-tsm-bull-220145039.html) (Published: 2025-12-05)
-- [Bolsas de NY fecham em alta, de olho em expectativa por Fed e acordo Netflix-Warner](https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-de-olho-em-expectativa-por-fed-e-acordo-netflix-warner/) (Published: 2025-12-05)
