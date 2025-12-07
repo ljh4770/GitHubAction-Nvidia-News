@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 15:17:19**_
+_Last updated: **2025-12-07 15:31:23**_
 
 - [Zotac denies RTX 5070 Ti fan-related RMA and then offers to dispose of the GPU free of charge — the company claims 'irreversible' PCB damage and 'limited tools' for repair](https://www.tomshardware.com/pc-components/gpus/zotac-denies-rtx-5070-ti-fan-related-rma-and-then-offers-to-dispose-of-the-gpu-free-of-charge-the-company-claims-irreversible-pcb-damage-and-limited-tools-for-repair) (Published: 2025-12-06)
 - [Where Winds Meet – Everything We Know About the Wuxia Open World Action Adventure RPG](https://wccftech.com/roundup/where-winds-meet-everything-we-know-about-the-wuxia-open-world-action-adventure-rpg/) (Published: 2025-12-06)
