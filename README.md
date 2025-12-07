@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-07 08:39:39**_
+_Last updated: **2025-12-07 08:52:13**_
 
 - [Lenovo LOQ 15i Gen 10 review: a laptop for when you don't need the bleeding edge](https://www.creativebloq.com/tech/laptops/lenovo-loq-15i-gen-10-review-a-laptop-for-when-you-dont-need-the-bleeding-edge) (Published: 2025-12-06)
 - [Endeavour OS – An Arch-based distro with a friendly community](https://endeavouros.com/) (Published: 2025-12-06)
