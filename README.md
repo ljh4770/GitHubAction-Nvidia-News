@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-08 19:38:36**_
+_Last updated: **2025-12-08 19:49:22**_
 
 - [possible malware script](https://www.bleepingcomputer.com/forums/t/812244/possible-malware-script/) (Published: 2025-12-07)
 - [The GPU war is over: Nadella says AI’s new ceiling is the power grid](https://www.notebookcheck.net/The-GPU-war-is-over-Nadella-says-AI-s-new-ceiling-is-the-power-grid.1180290.0.html) (Published: 2025-12-07)
