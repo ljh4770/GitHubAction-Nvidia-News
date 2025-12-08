@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-08 08:41:58**_
+_Last updated: **2025-12-08 09:00:16**_
 
 - [Udemy – How to create a movie in Unreal Engine 5 Beginners Edition](https://cgpersia.com/2025/12/udemy-how-to-create-a-movie-in-unreal-engine-5-beginners-edition-201647.html) (Published: 2025-12-07)
 - [Windows 11 Full Screen Experience (FSE) tested on an RTX 5050 laptop shows Quick Resume–like behaviour seen on Xbox Series X/S consoles and reduced RAM usage](https://www.notebookcheck.net/Windows-11-Full-Screen-Experience-FSE-tested-on-an-RTX-5050-laptop-shows-Quick-Resume-like-behaviour-seen-on-Xbox-Series-X-S-consoles-and-reduced-RAM-usage.1179911.0.html) (Published: 2025-12-07)
