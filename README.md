@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-08 19:59:40**_
+_Last updated: **2025-12-08 20:32:43**_
 
+- [Briefly Noted…](https://www.mutualfundobserver.com/2025/12/briefly-noted-110/) (Published: 2025-12-07)
 - [This Artificial Intelligence (AI) Infrastructure Stock Could Be the Nvidia of 2026](https://biztoc.com/x/bf775bdecb95e27b) (Published: 2025-12-07)
 - [possible malware script](https://www.bleepingcomputer.com/forums/t/812244/possible-malware-script/) (Published: 2025-12-07)
 - [The GPU war is over: Nadella says AI’s new ceiling is the power grid](https://www.notebookcheck.net/The-GPU-war-is-over-Nadella-says-AI-s-new-ceiling-is-the-power-grid.1180290.0.html) (Published: 2025-12-07)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-08 19:59:40**_
 - [iBuyPower RDY Element Pro R07](https://me.pcmag.com/en/old-desktop-pcs/34000/ibuypower-rdy-element-pro-r07) (Published: 2025-12-07)
 - [What the heck is going on at Apple?](https://www.cnn.com/2025/12/06/tech/apple-tim-cook-leadership-changes) (Published: 2025-12-07)
 - [The AI Wildfire Is Coming. It's Going to Be Painful and Healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going) (Published: 2025-12-07)
-- [This is how Nvidia keeps customers from switching](https://biztoc.com/x/8f1dd8a0ca93e60b) (Published: 2025-12-07)
