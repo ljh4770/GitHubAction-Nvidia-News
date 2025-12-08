@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-08 14:47:26**_
+_Last updated: **2025-12-08 14:57:38**_
 
+- [Social Security at 70? Why the Gold Standard Advice Works for Only a Few](https://biztoc.com/x/c178e9f069cda14b) (Published: 2025-12-07)
 - [Major Calif. airport now lets visitors go past security without a ticket](https://biztoc.com/x/7c52ea51e3713273) (Published: 2025-12-07)
 - [McDonald's Stock Looks Cheap - Analysts Are Lovin' MCD and Raising Their PTs](https://biztoc.com/x/055210f15834e3c2) (Published: 2025-12-07)
 - [American Airlines requests notices in Spirit bankruptcy proceedings](https://biztoc.com/x/754700bec853c237) (Published: 2025-12-07)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-08 14:47:26**_
 - [Paul McCartney joins uproar over EU ‘veggie burger’ ban](https://biztoc.com/x/e4d26942c0287880) (Published: 2025-12-07)
 - [No. 2 Indiana beats No. 1 Ohio St. 13-10 to end Big Ten title drought, lock up top playoff seed](https://biztoc.com/x/711b6b83a3ddeafb) (Published: 2025-12-07)
 - [Kroger CEO has a harsh solution to rising prices in stores](https://biztoc.com/x/bfc90067231cea4f) (Published: 2025-12-07)
-- [Atmospheric River Set to Flood Pacific Northwest Through Friday](https://biztoc.com/x/6aef93a83ee738b3) (Published: 2025-12-07)
