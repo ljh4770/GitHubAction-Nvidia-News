@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-08 17:41:00**_
+_Last updated: **2025-12-08 17:51:57**_
 
 - [The accelerator is on the floor for autonomous vehicles | TechCrunch](https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/) (Published: 2025-12-07)
 - [iBuyPower RDY Element Pro R07](https://uk.pcmag.com/desktop-pcs/161891/ibuypower-rdy-element-pro-r07) (Published: 2025-12-07)
