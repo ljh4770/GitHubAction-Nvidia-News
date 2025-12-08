@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-08 11:39:06**_
+_Last updated: **2025-12-08 11:50:04**_
 
 - [NVIDIA Plumbs DMA-BUF Support For VFIO PCI Devices In Linux 6.19](https://www.phoronix.com/news/Linux-6.19-DMA-BUF-VFIO-PCI) (Published: 2025-12-07)
 - [Pixar releases RenderMan 27.1](https://www.cgchannel.com/2025/12/pixar-releases-renderman-27-1/) (Published: 2025-12-07)
