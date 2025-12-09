@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-09 07:48:07**_
+_Last updated: **2025-12-09 07:58:36**_
 
 - [Inside NVIDIA NVQLink : Faster AI with a Quantum Assist for Real-Time Fixes](https://www.geeky-gadgets.com/gpu-qubit-error-correction-nvidia-nvqlink/) (Published: 2025-12-08)
 - [NVIDIA research shows how agentic AI fails under attack](https://10.51.0.120/2025/12/08/nvidia-agentic-ai-security-framework/) (Published: 2025-12-08)
