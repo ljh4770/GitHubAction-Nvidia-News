@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-09 03:58:01**_
+_Last updated: **2025-12-09 04:35:11**_
 
+- [SK Hynix reportedly delays HBM4 mass production amid Nvidia Rubin AI accelerator launch plans](https://www.digitimes.com/news/a20251208PD225/sk-hynix-production-hbm4-nvidia-rubin.html) (Published: 2025-12-08)
 - [nvitop 1.6.1](https://pypi.org/project/nvitop/1.6.1/) (Published: 2025-12-08)
 - [Weekly news roundup: TSMC veteran's Intel move sparks debate, Samsung reportedly secures TPU HBM4 nod](https://www.digitimes.com/news/a20251208VL204/digitimes-asia-weekly-news-roundup-tsmc-intel-samsung-dram.html) (Published: 2025-12-08)
 - [Ex-Nvidia Manager Worth $4.3 Billion After Blockbuster China IPO](https://biztoc.com/x/782b3e0560a5de4f) (Published: 2025-12-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-09 03:58:01**_
 - [Cathie Wood sells $15.8 million of megacap tech stock](https://biztoc.com/x/9cdd07a121a5a1dc) (Published: 2025-12-08)
 - [Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html) (Published: 2025-12-08)
 - [OpenAI goes from stock market savior to burden as AI risks mount](https://fortune.com/2025/12/07/openai-stock-market-risk-sam-altman-alphabet-google-gemini/) (Published: 2025-12-08)
-- [The Chinese finance whizz whose DeepSeek AI model stunned the world](https://www.nature.com/articles/d41586-025-03845-4) (Published: 2025-12-08)
