@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-09 07:58:36**_
+_Last updated: **2025-12-09 08:39:31**_
 
+- [Research Insight: strong momentum expected for data center AI chip packaging in 2025-2030](https://www.digitimes.com/news/a20251208VL206/packaging-data-center-chips-ai-chip-digitimes-asia.html) (Published: 2025-12-08)
+- [Costco Members: HP OMEN 16L Gaming Desktop: Ryzen 7 8700F, RTX 5060(8GB), 32GB RAM, 1TB SSD $899.99 (11 replies)](https://slickdeals.net/f/18940765-costco-members-hp-omen-16l-gaming-desktop-ryzen-7-8700f-rtx-5060-8gb-32gb-ram-1tb-ssd-899-99) (Published: 2025-12-08)
+- [Is TSMC Slowing Down? Not For Long](https://biztoc.com/x/fc1bd4c4611b4559) (Published: 2025-12-08)
+- [Better Artificial Intelligence Stock: Palantir Technologies vs. Nvidia](https://biztoc.com/x/94dec0ae5fd61efb) (Published: 2025-12-08)
+- [Nvidia, Google, Amazon And MediaTek Demand Is Making TSMC Turn To Partners: Report](https://biztoc.com/x/8f308c7f4b073c7d) (Published: 2025-12-08)
+- [Ray Dalio says Middle East is becoming a 'Silicon Valley of capitalists’](https://www.cnbc.com/2025/12/08/ray-dalio-middle-east-silicon-valley-ai-bubble.html) (Published: 2025-12-08)
 - [Inside NVIDIA NVQLink : Faster AI with a Quantum Assist for Real-Time Fixes](https://www.geeky-gadgets.com/gpu-qubit-error-correction-nvidia-nvqlink/) (Published: 2025-12-08)
 - [NVIDIA research shows how agentic AI fails under attack](https://10.51.0.120/2025/12/08/nvidia-agentic-ai-security-framework/) (Published: 2025-12-08)
 - [Lenovo LOQ Tower Gaming PC: Ryzen 7 8745HX, RXT 5060, 16GB DDR5, 1TB SSD $799.99](https://slickdeals.net/f/18940564-lenovo-loq-tower-gaming-pc-ryzen-7-8745hx-rxt-5060-16gb-ddr5-1tb-ssd-799-99) (Published: 2025-12-08)
 - [Nvidia slams the door on Maxwell, Pascal and Volta](https://www.madshrimps.be/news/nvidia-slams-the-door-on-maxwell-pascal-and-volta/) (Published: 2025-12-08)
-- [Google and Amazon enter the AI chip arena: Can Nvidia maintain its dominance?](https://www.naturalnews.com/2025-12-08-google-amazon-ai-chip-arena-nvidia-dominance.html) (Published: 2025-12-08)
-- [50% off All Nvidia Certification Exams until December 31, 2025](https://www.ozbargain.com.au/node/939014) (Published: 2025-12-08)
-- [Nvidia Corp.’s (NVDA) Long-Term Revenue Opportunity Remains Intact, Per Morgan Stanley](https://finance.yahoo.com/news/nvidia-corp-nvda-long-term-054737437.html) (Published: 2025-12-08)
-- [Jim Cramer Says “Companies Are Making Billions of Dollars When They Buy” NVIDIA Semis](https://finance.yahoo.com/news/jim-cramer-says-companies-making-053202731.html) (Published: 2025-12-08)
-- [Citi Lowers Oracle (ORCL) PT to $375 on Valuation Concerns, Maintains Buy Rating Expecting Strong Bookings](https://finance.yahoo.com/news/citi-lowers-oracle-orcl-pt-053143955.html) (Published: 2025-12-08)
-- [PNY GeForce RTX 5070 OC Triple Fan GPU Graphics Card $499](https://slickdeals.net/f/18940396-pny-geforce-rtx-5070-oc-triple-fan-gpu-graphics-card-499) (Published: 2025-12-08)
