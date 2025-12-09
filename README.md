@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-08 23:56:15**_
+_Last updated: **2025-12-09 01:51:32**_
 
+- [Ex-Nvidia Manager Worth $4.3 Billion After Blockbuster China IPO](https://biztoc.com/x/782b3e0560a5de4f) (Published: 2025-12-08)
+- [How Sunil Munjal is ‘Heroing’ arts, culture and education](https://www.thehindubusinessline.com/specials/corporate-file/how-sunil-munjal-is-heroing-arts-culture-and-education/article70365436.ece) (Published: 2025-12-08)
+- [CONNECTING THE DOTS….REVEALS A DIRE PICTURE](https://www.activistpost.com/connecting-the-dots-reveals-a-dire-picture/) (Published: 2025-12-08)
+- [nemo-evaluator 0.1.43](https://pypi.org/project/nemo-evaluator/0.1.43/) (Published: 2025-12-08)
+- [Cathie Wood sells $15.8 million of megacap tech stock](https://biztoc.com/x/9cdd07a121a5a1dc) (Published: 2025-12-08)
+- [Stock market today: Dow, S&P 500, Nasdaq waver with Wall Street awaiting expected Fed rate cut](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html) (Published: 2025-12-08)
+- [OpenAI goes from stock market savior to burden as AI risks mount](https://fortune.com/2025/12/07/openai-stock-market-risk-sam-altman-alphabet-google-gemini/) (Published: 2025-12-08)
+- [The Chinese finance whizz whose DeepSeek AI model stunned the world](https://www.nature.com/articles/d41586-025-03845-4) (Published: 2025-12-08)
 - [U.S. trade chief says China has complied with terms of trade deals](https://fortune.com/2025/12/07/us-trade-chief-trump-xi-china-deal-soybean-purchases/) (Published: 2025-12-07)
 - [Untitled Linux Show 232: Mobius Strip](https://twit.tv/shows/untitled-linux-show/episodes/232) (Published: 2025-12-07)
-- [20VC x SaaStr is Back, Live In Person! The TAM Trap: Why SaaS Growth Has Stalled and What AI Changes About Everything](https://www.saastr.com/20vc-x-saastr-is-back-live-in-person-the-tam-trap-why-saas-growth-has-stalled-and-what-ai-changes-about-everything/) (Published: 2025-12-07)
-- [1 Nvidia-Backed Artificial Intelligence Stock to Buy Hand Over Fist in 2026](https://biztoc.com/x/17df41ffc0b31385) (Published: 2025-12-07)
-- [The ultimate ASX ETF portfolio for beginners in 2026](https://www.fool.com.au/2025/12/08/the-ultimate-asx-etf-portfolio-for-beginners-in-2026/) (Published: 2025-12-07)
-- [The Ways the AI Bubble Might Burst](https://www.wheresyoured.at/premium-the-ways-the-ai-bubble-might-burst/) (Published: 2025-12-07)
-- [Better Artificial Intelligence Stock: Palantir Technologies vs. Nvidia](https://biztoc.com/x/cd77013599eff99f) (Published: 2025-12-07)
-- [Briefly Noted…](https://www.mutualfundobserver.com/2025/12/briefly-noted-110/) (Published: 2025-12-07)
-- [This Artificial Intelligence (AI) Infrastructure Stock Could Be the Nvidia of 2026](https://biztoc.com/x/bf775bdecb95e27b) (Published: 2025-12-07)
-- [possible malware script](https://www.bleepingcomputer.com/forums/t/812244/possible-malware-script/) (Published: 2025-12-07)
