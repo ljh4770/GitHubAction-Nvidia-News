@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-09 19:08:55**_
+_Last updated: **2025-12-09 19:24:41**_
 
+- [US government to permit NVIDIA H200 chip exports to China](https://cryptobriefing.com/us-permits-nvidia-h200-exports-china/) (Published: 2025-12-08)
+- [Nvidia, SoftBank Target 'Robot Brain' Maker In Potential $14 Billion Deal](https://biztoc.com/x/dadb3ba0b83dad1b) (Published: 2025-12-08)
 - [A Key Moment for AI Stocks Comes This Week—and It Has Nothing to Do With Nvidia](https://biztoc.com/x/69593ab47fbe7bfc) (Published: 2025-12-08)
 - [NVIDIA Might End the ‘CUDA Moat’ With Its Latest Update, Says Chip Architect Jim Keller, Who Claims It Will Now Be Easier to Port Kernels](https://wccftech.com/nvidia-might-end-the-cuda-moat-with-its-latest-update-says-jim-keller/) (Published: 2025-12-08)
 - [Wall Street is Pounding the Table Over Carvana, Nvidia and Five Below](https://biztoc.com/x/3e7004a0af3c206d) (Published: 2025-12-08)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-09 19:08:55**_
 - [nanogcg-redteam added to PyPI](https://pypi.org/project/nanogcg-redteam/) (Published: 2025-12-08)
 - [Could This Be the Best AI Stock to Buy for the Next Decade?](https://biztoc.com/x/a99b61c23980b666) (Published: 2025-12-08)
 - [Source: the US Department of Commerce plans to allow the export of Nvidia's old H200 chips to China, seeking a compromise over controlling exports to China](https://biztoc.com/x/d61629918e0377f4) (Published: 2025-12-08)
-- [US said to allow NVIDIA H200 chip exports to China](https://biztoc.com/x/824fe83dfe66e170) (Published: 2025-12-08)
-- [NVIDIA "Dawn & Dusk" Demo Rig Unearthed, GeForce FX 5950 Ultra Extracted Long Ago](https://www.techpowerup.com/343823/nvidia-dawn-dusk-demo-rig-unearthed-geforce-fx-5950-ultra-extracted-long-ago) (Published: 2025-12-08)
