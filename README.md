@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-09 01:51:32**_
+_Last updated: **2025-12-09 03:11:48**_
 
+- [Weekly news roundup: TSMC veteran's Intel move sparks debate, Samsung reportedly secures TPU HBM4 nod](https://www.digitimes.com/news/a20251208VL204/digitimes-asia-weekly-news-roundup-tsmc-intel-samsung-dram.html) (Published: 2025-12-08)
 - [Ex-Nvidia Manager Worth $4.3 Billion After Blockbuster China IPO](https://biztoc.com/x/782b3e0560a5de4f) (Published: 2025-12-08)
 - [How Sunil Munjal is ‘Heroing’ arts, culture and education](https://www.thehindubusinessline.com/specials/corporate-file/how-sunil-munjal-is-heroing-arts-culture-and-education/article70365436.ece) (Published: 2025-12-08)
 - [CONNECTING THE DOTS….REVEALS A DIRE PICTURE](https://www.activistpost.com/connecting-the-dots-reveals-a-dire-picture/) (Published: 2025-12-08)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-09 01:51:32**_
 - [OpenAI goes from stock market savior to burden as AI risks mount](https://fortune.com/2025/12/07/openai-stock-market-risk-sam-altman-alphabet-google-gemini/) (Published: 2025-12-08)
 - [The Chinese finance whizz whose DeepSeek AI model stunned the world](https://www.nature.com/articles/d41586-025-03845-4) (Published: 2025-12-08)
 - [U.S. trade chief says China has complied with terms of trade deals](https://fortune.com/2025/12/07/us-trade-chief-trump-xi-china-deal-soybean-purchases/) (Published: 2025-12-07)
-- [Untitled Linux Show 232: Mobius Strip](https://twit.tv/shows/untitled-linux-show/episodes/232) (Published: 2025-12-07)
