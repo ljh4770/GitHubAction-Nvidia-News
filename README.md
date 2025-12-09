@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-09 08:58:38**_
+_Last updated: **2025-12-09 09:32:05**_
 
+- [Baidu mulls Hong Kong spin-off of Kunlunxin chip unit as China semiconductor deals surge](https://finance.yahoo.com/news/baidu-mulls-hong-kong-spin-093000798.html) (Published: 2025-12-08)
+- [China's open-source models make up 30% of global AI usage, led by Qwen and DeepSeek](https://finance.yahoo.com/news/chinas-open-source-models-30-093000383.html) (Published: 2025-12-08)
+- [L&G Asset Management sees AI equity upside despite US$3 trillion debt concerns](https://finance.yahoo.com/news/l-g-asset-management-sees-093000199.html) (Published: 2025-12-08)
+- [Could This Be the Best AI Stock to Buy for the Next Decade?](https://biztoc.com/x/b228090a8f6d575c) (Published: 2025-12-08)
+- [Should You Buy Nvidia Stock Hand Over Fist Before the End of 2025? Here's What History Suggests](https://biztoc.com/x/d14c213281837645) (Published: 2025-12-08)
+- [Amazon Pushes Alexa Into Full Agent Mode](https://www.pymnts.com/artificial-intelligence-2/2025/amazon-pushes-alexa-into-full-agent-mode/) (Published: 2025-12-08)
+- [BlackRock bets on ‘pick and shovel’ trade, singling out clear winners in AI spending spree](https://www.cnbc.com/2025/12/08/blackrock-ben-powell-bet-trade-as-ai-spending-frenzy-hyperscalers-investment-credit.html) (Published: 2025-12-08)
 - [I used the Acer Swift Edge 14 AI for a month and I think Acer might have just redefined portability](https://www.creativebloq.com/tech/laptops/i-used-the-acer-swift-edge-14-ai-for-a-month-and-i-think-acer-might-have-just-redefined-portability) (Published: 2025-12-08)
 - [Research Insight: strong momentum expected for data center AI chip packaging in 2025-2030](https://www.digitimes.com/news/a20251208VL206/packaging-data-center-chips-ai-chip-digitimes-asia.html) (Published: 2025-12-08)
 - [Costco Members: HP OMEN 16L Gaming Desktop: Ryzen 7 8700F, RTX 5060(8GB), 32GB RAM, 1TB SSD $899.99 (11 replies)](https://slickdeals.net/f/18940765-costco-members-hp-omen-16l-gaming-desktop-ryzen-7-8700f-rtx-5060-8gb-32gb-ram-1tb-ssd-899-99) (Published: 2025-12-08)
-- [Is TSMC Slowing Down? Not For Long](https://biztoc.com/x/fc1bd4c4611b4559) (Published: 2025-12-08)
-- [Better Artificial Intelligence Stock: Palantir Technologies vs. Nvidia](https://biztoc.com/x/94dec0ae5fd61efb) (Published: 2025-12-08)
-- [Nvidia, Google, Amazon And MediaTek Demand Is Making TSMC Turn To Partners: Report](https://biztoc.com/x/8f308c7f4b073c7d) (Published: 2025-12-08)
-- [Ray Dalio says Middle East is becoming a 'Silicon Valley of capitalists’](https://www.cnbc.com/2025/12/08/ray-dalio-middle-east-silicon-valley-ai-bubble.html) (Published: 2025-12-08)
-- [Inside NVIDIA NVQLink : Faster AI with a Quantum Assist for Real-Time Fixes](https://www.geeky-gadgets.com/gpu-qubit-error-correction-nvidia-nvqlink/) (Published: 2025-12-08)
-- [NVIDIA research shows how agentic AI fails under attack](https://10.51.0.120/2025/12/08/nvidia-agentic-ai-security-framework/) (Published: 2025-12-08)
-- [Lenovo LOQ Tower Gaming PC: Ryzen 7 8745HX, RXT 5060, 16GB DDR5, 1TB SSD $799.99](https://slickdeals.net/f/18940564-lenovo-loq-tower-gaming-pc-ryzen-7-8745hx-rxt-5060-16gb-ddr5-1tb-ssd-799-99) (Published: 2025-12-08)
