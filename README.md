@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-10 05:51:01**_
+_Last updated: **2025-12-10 06:17:44**_
 
 - [Hawks, Doves and Now a Lame Duck at the Fed](https://biztoc.com/x/8c6d72646a95765f) (Published: 2025-12-09)
 - [Stock futures are little changed as Trump approves Nvidia chips sales to China: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=180336771) (Published: 2025-12-09)
