@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-10 04:20:31**_
+_Last updated: **2025-12-10 04:49:39**_
 
+- [US Justice Department accuses two Chinese men of trying to smuggle Nvidia chips](https://www.channelnewsasia.com/world/chinese-men-smuggle-nvidia-chips-us-justice-department-accuses-5569251) (Published: 2025-12-09)
+- [The Solution to Hedge Fund Leverage Isn’t More Market Risk](https://biztoc.com/x/ef1b022e94ecc0db) (Published: 2025-12-09)
+- [JVNDB-2025-021306:NVIDIA の triton inference server における例外的な状態のチェックに関する脆弱性](http://vrda.jpcert.or.jp/feed/ja/JVNiPedia_JVNDB-2025-021306_AD_1.html) (Published: 2025-12-09)
+- [Nvidia Wins Trump Nod to Sell H200 AI Chips in China | Bloomberg: The Asia Trade 12/9/25](https://biztoc.com/x/ea7d4aeaaadcd2ff) (Published: 2025-12-09)
+- [Behind Paramount’s Relentless Campaign to Woo Warner Discovery and President Trump](https://biztoc.com/x/cd2c609d0fd08fa9) (Published: 2025-12-09)
+- [Australia’s central bank holds rates steady, warns of inflation risk](https://biztoc.com/x/319d6098e501fcd2) (Published: 2025-12-09)
+- [Italy-based humanoid robotics startup Generative Bionics raised €70M led by CDP Venture Capital, with participation from Tether, AMD Ventures, and others](https://biztoc.com/x/216b30690c7914a0) (Published: 2025-12-09)
+- [Bloomberg expands his support of mayors globally to help save democracy. And improve trash pickup](https://biztoc.com/x/96c546b01d741ca5) (Published: 2025-12-09)
 - [The US-China chip war in dates](https://economictimes.indiatimes.com/tech/technology/the-us-china-chip-war-in-dates/articleshow/125861184.cms) (Published: 2025-12-09)
 - ['You'll drive everybody crazy!' Trump ally undercuts him on key regulation issue](https://www.rawstory.com/lindsey-graham-2674380915/) (Published: 2025-12-09)
-- [Jamie Dimon’s EU Complaint Is Totally Accurate](https://biztoc.com/x/619ba96cd4596f6f) (Published: 2025-12-09)
-- [Australia social media ban set to take effect, sparking a global crackdown](https://biztoc.com/x/f09166e4c7054f57) (Published: 2025-12-09)
-- [Australia orders operational Ghost Bat drone for military after weapons test](https://biztoc.com/x/0bb521f28440d22d) (Published: 2025-12-09)
-- [Shelling Kills Cambodians, Struck Thai Homes in Escalating Border Clash](https://biztoc.com/x/134ae98b9df92b5a) (Published: 2025-12-09)
-- [Australia central bank keeps rates at 3.6%, warns of inflation risk](https://biztoc.com/x/5923509b120139c0) (Published: 2025-12-09)
-- [EngineAI CEO bravely proves its T800 humanoid robot can really kick ass](https://www.notebookcheck.net/EngineAI-CEO-bravely-proves-its-T800-humanoid-robot-can-really-kick-ass.1181250.0.html) (Published: 2025-12-09)
-- [EngineAI CEO bravely proves its T800 humanoid robot can really kick like Jackie Chan](https://www.notebookcheck.net/EngineAI-CEO-bravely-proves-its-T800-humanoid-robot-can-really-kick-like-Jackie-Chan.1181250.0.html) (Published: 2025-12-09)
-- [RBA Stands Pat on Policy for Third Meeting, Stays Data Dependent](https://biztoc.com/x/794d668af8febafd) (Published: 2025-12-09)
