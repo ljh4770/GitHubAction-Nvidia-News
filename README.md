@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-11 23:32:08**_
+_Last updated: **2025-12-11 23:45:56**_
 
+- [Bank of Mexico Maintains Crypto Caution Despite Global Shift](https://biztoc.com/x/c6fbefe44a93ec43) (Published: 2025-12-10)
+- [AP Breakthrough Entertainer: Arden Cho seizes her golden moment after Hollywood heartbreak](https://biztoc.com/x/b7b35d9c3624bfbd) (Published: 2025-12-10)
+- [Oil Extends Gain as US Seizure of Venezuelan Tanker Adds to Risk](https://biztoc.com/x/ff29ff222e8190f8) (Published: 2025-12-10)
+- [Oracle shares dive as revenue misses forecasts](https://www.digitaljournal.com/world/oracle-shares-dive-as-revenue-misses-forecasts/article) (Published: 2025-12-10)
+- [Stock market today: Dow vaults toward record high as Oracle's slide weighs on S&P 500, Nasdaq](https://finance.yahoo.com/news/live/stock-market-today-dow-vaults-toward-record-high-as-oracles-slide-weighs-on-sp-500-nasdaq-233526728.html) (Published: 2025-12-10)
+- [Stock market today: Dow, S&P 500, Nasdaq futures plummet after Fed decision as Oracle sinks after earnings](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plummet-after-fed-decision-as-oracle-sinks-after-earnings-233526664.html) (Published: 2025-12-10)
+- [Stock market today: Dow hits record high while Nasdaq, S&P 500 slide as Oracle earnings revive AI spending fears](https://finance.yahoo.com/news/live/stock-market-today-dow-hits-record-high-while-nasdaq-sp-500-slide-as-oracle-earnings-revive-ai-spending-fears-233526385.html) (Published: 2025-12-10)
 - [GlobalFoundries names Sam Franklin as CFO after interim stint](https://biztoc.com/x/77e52c0a34148d2c) (Published: 2025-12-10)
 - [Nvidia's unreleased infrastructure management service isn't for tracking GPUs, but it can](https://biztoc.com/x/e0e2331b1b010751) (Published: 2025-12-10)
 - [Corn Pulls Back on Wednesday](https://biztoc.com/x/6849fad2adeed944) (Published: 2025-12-10)
-- [Welsh Carson-backed Lumexa Imaging raises $463 million in US IPO](https://biztoc.com/x/9a2f3778156524b7) (Published: 2025-12-10)
-- [Investors expect relief in money markets as Fed resumes T-bill purchases](https://biztoc.com/x/3a382e8ed906cd8f) (Published: 2025-12-10)
-- [Gold Holds Gains as Fed Delivers Rate Cut and Leans Dovish](https://biztoc.com/x/7a4587ef9f5d3eee) (Published: 2025-12-10)
-- [Google and Microsoft Race to Rewrite Big Tech’s Playbook](https://www.pymnts.com/artificial-intelligence-2/2025/google-and-microsoft-race-to-rewrite-big-techs-playbook/) (Published: 2025-12-10)
-- [China encourages AI companies to buy domestic chips](https://biztoc.com/x/5bac363bb1339008) (Published: 2025-12-10)
-- [Machado's daughter accepts Nobel Peace Prize in Venezuelan opposition leader's absence](https://biztoc.com/x/990611ade32a696b) (Published: 2025-12-10)
-- [Billionaires are racing to build data centers in space](https://biztoc.com/x/0d6a908346a18ac1) (Published: 2025-12-10)
