@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-11 21:53:00**_
+_Last updated: **2025-12-11 22:15:32**_
 
+- [Nvidia Stock Dips After Oracle Snub: Larry Ellison Calls It 'Chip Neutrality'](https://biztoc.com/x/32bcd047625f1760) (Published: 2025-12-10)
+- [The Fed Cut Rates Again but Deep Divisions Cloud Path Ahead](https://biztoc.com/x/85c564e18c91fc96) (Published: 2025-12-10)
+- [Nvidia is reportedly testing tracking software as chip smuggling rumors swirl](https://biztoc.com/x/53605c33192c3b03) (Published: 2025-12-10)
+- [American Bitcoin Stock Has Dropped More Than 70% Since Its Debut. Why 1 Firm Just Started It at Buy](https://biztoc.com/x/2cc04905095c44bd) (Published: 2025-12-10)
+- [Synopsys Stock Rises on Earnings Beat, Higher Guidance](https://biztoc.com/x/2a1676612fab7afa) (Published: 2025-12-10)
+- [Google names Amin Vahdat as new chief of AI infrastructure buildout, Semafor reports](https://biztoc.com/x/5277fac1c7ca0f33) (Published: 2025-12-10)
+- [Nvidia is reportedly testing tracking software as chip smuggling rumors swirl | TechCrunch](https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/) (Published: 2025-12-10)
+- [Brazil’s central bank holds interest rates as expected, keeps hawkish tone](https://biztoc.com/x/2b63282ef99cc170) (Published: 2025-12-10)
 - [The 3 Best Tech Stocks to Buy for 2026, According to Our Columnist](https://biztoc.com/x/9d57127a66d12628) (Published: 2025-12-10)
 - [Cut or Hike? Top Economists Are Split Over RBA’s Next Rate Move](https://biztoc.com/x/fa1ccf3739a84ac0) (Published: 2025-12-10)
-- [Nvidia Partner Synopsys Beats Q4 Views But Gives Mixed Outlook](https://biztoc.com/x/ddae561b1ec57028) (Published: 2025-12-10)
-- [Brazil Holds Interest Rate at 15% on Stubbornly High Inflation Forecasts](https://biztoc.com/x/f50544b3ffbadbac) (Published: 2025-12-10)
-- [GE Vernova Showing No Signs of Slowing, Will GEV Stock Hit $1,000?](https://biztoc.com/x/f12eb8bf706c8818) (Published: 2025-12-10)
-- [Eric Jackson Could Make Nextdoor the Next Big Meme Stock. Should You Chase the Rally Here?](https://biztoc.com/x/abcbca9b0e196dfb) (Published: 2025-12-10)
-- [short](https://biztoc.com/x/49975254a613a25c) (Published: 2025-12-10)
-- [Head Of Nissan America Says The Company Needs A 'North Star'](https://biztoc.com/x/4be7a0b5950590ac) (Published: 2025-12-10)
-- [Paramount Sends Letter to Warner Bros. Shareholders Saying Their Offer Is ‘Superior’](https://biztoc.com/x/614fc6090aaaab0a) (Published: 2025-12-10)
-- [Tricolor Trustee Plans to Sue Founder for Auto Dealer’s Collapse](https://biztoc.com/x/dce2d1844d59fff9) (Published: 2025-12-10)
