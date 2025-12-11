@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-11 20:32:06**_
+_Last updated: **2025-12-11 20:46:13**_
 
 - [Intel pursued deals that boosted CEO Lip-Bu Tan's fortune, sources say](https://finance.yahoo.com/news/intel-pursued-deals-boosted-ceo-202405818.html) (Published: 2025-12-10)
 - [Intel pursued deals that boosted CEO Lip-Bu Tan's fortune, sources say](https://www.channelnewsasia.com/business/intel-pursued-deals-boosted-ceo-lip-bu-tans-fortune-sources-say-5574846) (Published: 2025-12-10)
