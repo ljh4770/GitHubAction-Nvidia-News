@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-12 05:49:20**_
+_Last updated: **2025-12-12 05:59:58**_
 
 - [Kedrosky: “we’re already seeing this sharply asymptotic decline in the rate of improvement of models outside of software”](https://paulkrugman.substack.com/p/talking-with-paul-kedrosky) (Published: 2025-12-11)
 - [Why AGI Will Not Happen](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) (Published: 2025-12-11)
