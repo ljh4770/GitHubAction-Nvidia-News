@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-12 22:45:36**_
+_Last updated: **2025-12-12 22:56:08**_
 
+- [Tech stocks tumble amid renewed AI worries on Wall Street](https://www.nbcnews.com/business/corporations/tech-stocks-oracle-nvidia-rcna248682) (Published: 2025-12-11)
+- [CFTC Gives No-Action Leeway to Polymarket, Gemini, PredictIt, LedgerX Over Data Rules](https://biztoc.com/x/497dab420794362a) (Published: 2025-12-11)
 - [Border clashes between Thailand and Cambodia intensify with airstrikes and artillery attacks](https://biztoc.com/x/cef1255eaac6c877) (Published: 2025-12-11)
 - [AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says](https://www.theregister.com/2025/12/11/ai_superintelligence_fantasy/) (Published: 2025-12-11)
 - [Highlights from Fortune Brainstorm AI San Francisco](https://fortune.com/2025/12/11/highlights-from-fortune-brainstorm-ai-san-francisco/) (Published: 2025-12-11)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-12 22:45:36**_
 - [Senate rejects extension of health care subsidies as costs are set to rise for millions of Americans](https://biztoc.com/x/af8f2d7236e3fd69) (Published: 2025-12-11)
 - [Trading Day: Investors cling to dovish Fed view](https://biztoc.com/x/c4f6cc6cebcfd7aa) (Published: 2025-12-11)
 - [Senator calls for Nvidia CEO to testify on Trump approval for China chip sales](https://www.livemint.com/companies/news/senator-calls-for-nvidia-ceo-to-testify-on-trump-approval-for-china-chip-sales-11765492371294.html) (Published: 2025-12-11)
-- [TIME Person of the Year 2025 Announced: The 'Architects of AI'](https://ohnotheydidnt.livejournal.com/131615426.html) (Published: 2025-12-11)
-- [Science Minister Seeks to Turn Korea Into a Global AI Powerhouse](https://financialpost.com/pmn/business-pmn/science-minister-seeks-to-turn-korea-into-a-global-ai-powerhouse) (Published: 2025-12-11)
