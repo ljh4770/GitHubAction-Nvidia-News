@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-12 22:29:08**_
+_Last updated: **2025-12-12 22:45:36**_
 
+- [Border clashes between Thailand and Cambodia intensify with airstrikes and artillery attacks](https://biztoc.com/x/cef1255eaac6c877) (Published: 2025-12-11)
+- [AI superintelligence is a Silicon Valley fantasy, Ai2 researcher says](https://www.theregister.com/2025/12/11/ai_superintelligence_fantasy/) (Published: 2025-12-11)
+- [Highlights from Fortune Brainstorm AI San Francisco](https://fortune.com/2025/12/11/highlights-from-fortune-brainstorm-ai-san-francisco/) (Published: 2025-12-11)
+- [Please Enjoy Laughing at the Prediction Markets, in Full Meltdown, After Time’s “Person of the Year” Reveal](http://futurism.com/future-society/prediction-markets-meltdown-time-person-of-the-year) (Published: 2025-12-11)
+- [Broadcom Reports $18 Billion in Revenue as AI Chip Sales Climb](https://biztoc.com/x/9b45d311306c796a) (Published: 2025-12-11)
+- [Senate rejects extension of health care subsidies as costs are set to rise for millions of Americans](https://biztoc.com/x/af8f2d7236e3fd69) (Published: 2025-12-11)
+- [Trading Day: Investors cling to dovish Fed view](https://biztoc.com/x/c4f6cc6cebcfd7aa) (Published: 2025-12-11)
+- [Senator calls for Nvidia CEO to testify on Trump approval for China chip sales](https://www.livemint.com/companies/news/senator-calls-for-nvidia-ceo-to-testify-on-trump-approval-for-china-chip-sales-11765492371294.html) (Published: 2025-12-11)
+- [TIME Person of the Year 2025 Announced: The 'Architects of AI'](https://ohnotheydidnt.livejournal.com/131615426.html) (Published: 2025-12-11)
 - [Science Minister Seeks to Turn Korea Into a Global AI Powerhouse](https://financialpost.com/pmn/business-pmn/science-minister-seeks-to-turn-korea-into-a-global-ai-powerhouse) (Published: 2025-12-11)
-- [Oracle Shares Plunge 11% in Premarket, Dragging Down Major AI Stocks](https://www.ibtimes.com/oracle-shares-plunge-11-premarket-dragging-down-major-ai-stocks-3792441) (Published: 2025-12-11)
-- [Ford’s Car of the Future, Hatched in a Skunk Works Near Los Angeles](https://biztoc.com/x/7a729095277d82f6) (Published: 2025-12-11)
-- [Canada’s Households See Their Wealth Surge on Stock Market Rally](https://biztoc.com/x/416b07e076bc3d25) (Published: 2025-12-11)
-- [Golden Dome: The Astronomical Cost of Defeating ‘Any Foreign Aerial Attack’](https://biztoc.com/x/f3a4ea73a5108b30) (Published: 2025-12-11)
-- [Fed Cuts Interest Rates For A Third Meeting In A Row](https://biztoc.com/x/818fab730ac38ffa) (Published: 2025-12-11)
-- [Australia Will Allow Hanwha to Raise Its Austal Stake to 19.9%](https://biztoc.com/x/d159e28a98bbeaaf) (Published: 2025-12-11)
-- [How Chinese Brands Are Helping Shape Global Culture](https://biztoc.com/x/f8cacffcba2aa303) (Published: 2025-12-11)
-- [Do Kwon Gets 15 Years in Prison for $40 Billion Terraform Fraud](https://biztoc.com/x/67ba4d9b197effa6) (Published: 2025-12-11)
-- [A $30 Billion Pension Battle Risks Exodus at Colombian Regulator](https://biztoc.com/x/867f437e1399e89c) (Published: 2025-12-11)
