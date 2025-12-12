@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-12 07:32:04**_
+_Last updated: **2025-12-12 07:46:12**_
 
 - [FEVM intros new 1 liter mini PC with top-end AMD Strix Halo APU and OCuLink](https://www.notebookcheck.net/FEVM-intros-new-1-liter-mini-PC-with-top-end-AMD-Strix-Halo-APU-and-OCuLink.1183176.0.html) (Published: 2025-12-11)
 - [Huawei Ascend 910C Accelerator’s Maturation Allegedly Spurred NVIDIA H200 Export Reversal](https://www.madshrimps.be/news/huawei-ascend-910c-accelerators-maturation-allegedly-spurred-nvidia-h200-export-reversal/) (Published: 2025-12-11)
