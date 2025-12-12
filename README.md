@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-12 18:59:07**_
+_Last updated: **2025-12-12 19:24:15**_
 
+- [NVIDIA Blackwell Enables 3x Faster Training and Nearly 2x Training Performance Per Dollar than Previous-Gen Architecture](https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture/) (Published: 2025-12-11)
+- [As AI Grows More Complex, Model Builders Rely on NVIDIA](https://blogs.nvidia.com/blog/leading-models-nvidia/) (Published: 2025-12-11)
+- [Friday essay: experts are predicting a stock market crash – what does 1929 have to teach us?](https://theconversation.com/friday-essay-experts-are-predicting-a-stock-market-crash-what-does-1929-have-to-teach-us-269356) (Published: 2025-12-11)
+- [With Nvidia’s second-best AI chips headed for China, the US shifts priorities from security to trade](https://theconversation.com/with-nvidias-second-best-ai-chips-headed-for-china-the-us-shifts-priorities-from-security-to-trade-271831) (Published: 2025-12-11)
+- [Next-Generation AI Factory Telemetry with NVIDIA Spectrum-X Ethernet](https://developer.nvidia.com/blog/next-generation-ai-factory-telemetry-with-nvidia-spectrum-x-ethernet/) (Published: 2025-12-11)
+- [Sam Altman Declares ‘Code Red’ For ChatGPT As Rivals Catch Up; Will Scale Back Advertising Plans](https://www.activistpost.com/sam-altman-declares-code-red-for-chatgpt-as-rivals-catch-up-will-scale-back-advertising-plans/) (Published: 2025-12-11)
 - [Acer’s Nitro V 16 gaming laptop with RTX 5050 GPU delivers serious value today at $599 all-time low](http://9to5toys.com/2025/12/11/acer-nitro-v-16-gaming-laptop-rtx-5050-gpu-all-time-low/) (Published: 2025-12-11)
 - [Pop!_OS 24.04 LTS Released with New COSMIC Desktop](https://www.omgubuntu.co.uk/2025/12/pop_os-24-04-lts-stable-release) (Published: 2025-12-11)
 - [If Google wins AI race, Nvidia is 'in trouble,' says author of Jensen Huang biography](https://finance.yahoo.com/news/if-google-wins-ai-race-nvidia-is-in-trouble-says-author-of-jensen-huang-biography-184624884.html) (Published: 2025-12-11)
 - [Time magazine names ‘Architects of AI’ as its person of the year for 2025](https://www.denverpost.com/2025/12/11/time-person-of-the-year-ai/) (Published: 2025-12-11)
-- [Time magazine names ‘Architects of AI’ as its person of the year for 2025](https://www.bostonherald.com/2025/12/11/time-person-of-the-year-ai/) (Published: 2025-12-11)
-- [Nvidia Has 'Capabilities No Rival Can Replicate:' Analyst](https://biztoc.com/x/a1665c3113347f28) (Published: 2025-12-11)
-- [‘Architects of AI’ named Time magazine’s 2025 person of the year](https://www.pbs.org/newshour/nation/architects-of-ai-named-time-magazines-2025-person-of-the-year) (Published: 2025-12-11)
-- [Oracle shares fall 14% on increase in data centre spending](https://www.irishtimes.com/business/2025/12/11/oracle-shares-fall-14-on-increase-in-data-centre-spending/) (Published: 2025-12-11)
-- [Time magazine names ‘Architects of AI’ as 2025 ‘Person of the Year’](https://indianexpress.com/article/world/time-magazine-names-architects-of-ai-as-2025-person-of-the-year-10415730/) (Published: 2025-12-11)
-- [How to Scale Fast Fourier Transforms to Exascale on Modern NVIDIA GPU Architectures](https://developer.nvidia.com/blog/how-to-scale-fast-fourier-transforms-to-exascale-on-modern-nvidia-gpu-architectures/) (Published: 2025-12-11)
