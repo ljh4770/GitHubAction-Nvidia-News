@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-12 11:32:48**_
+_Last updated: **2025-12-12 11:46:37**_
 
+- [Dan Ives Predicts 'Magical 2026' For Tesla And Nvidia, Says Bears Are Still Watching From 'The Window'](https://biztoc.com/x/f69db99db2a3f797) (Published: 2025-12-11)
+- [Developer gambles on 'obviously fake' $8K Grace Hopper system, scores $80,000 worth of hardware on Reddit for one-tenth of the cost — buyer's haul includes 960GB of DDR5 RAM worth more than what he paid for the entire rig](https://www.tomshardware.com/desktops/servers/developer-gambles-on-obviously-fake-usd8k-grace-hopper-system-scores-usd80-000-worth-of-hardware-on-reddit-for-one-tenth-of-the-cost-buyers-haul-includes-960gb-of-ddr5-ram-worth-more-than-what-he-paid-for-the-entire-rig) (Published: 2025-12-11)
 - [Intel Stock Is Falling -- CEO Faces Scrutiny Over AI Chip Deals](https://finance.yahoo.com/news/intel-stock-falling-ceo-faces-112104644.html) (Published: 2025-12-11)
 - [ASUS ROG Unveils 5K 180 Hz Dual Mode Gaming Monitor](https://www.techpowerup.com/343961/asus-rog-unveils-5k-180-hz-dual-mode-gaming-monitor) (Published: 2025-12-11)
 - [Louisiana Dem Rep. Cleo Fields quietly bought six figures worth of Netflix stock just before acquisition deal with Warner Bros.](https://nypost.com/2025/12/11/us-news/rep-cleo-fields-bought-up-to-1-5m-in-netflix-stock-just-before-warner-bros-deal/) (Published: 2025-12-11)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-12 11:32:48**_
 - [nvidia-nat-ragaai 1.4.0a20251211](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20251211/) (Published: 2025-12-11)
 - [nvidia-nat-test 1.4.0a20251211](https://pypi.org/project/nvidia-nat-test/1.4.0a20251211/) (Published: 2025-12-11)
 - [nvidia-nat-strands 1.4.0a20251211](https://pypi.org/project/nvidia-nat-strands/1.4.0a20251211/) (Published: 2025-12-11)
-- [nvidia-nat-phoenix 1.4.0a20251211](https://pypi.org/project/nvidia-nat-phoenix/1.4.0a20251211/) (Published: 2025-12-11)
-- [nvidia-nat-mcp 1.4.0a20251211](https://pypi.org/project/nvidia-nat-mcp/1.4.0a20251211/) (Published: 2025-12-11)
