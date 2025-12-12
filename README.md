@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-12 20:48:11**_
+_Last updated: **2025-12-12 20:58:45**_
 
+- [Oracle made a $300 billion bet on OpenAI. It's paying the price.](https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html) (Published: 2025-12-11)
+- [NVIDIA’s AI GPUs Used To Train OpenAI’s GPT-5.2, Blackwell & Blackwell Ultra Continue To Blaze Ahead With Better Performance & Value](https://wccftech.com/nvidia-ai-gpus-openai-gpt-5-2-blackwell-ultra-faster-performance-value/) (Published: 2025-12-11)
 - [Here's What Happened Today: Thursday](https://www.thejournal.ie/heres-what-happened-today-108-6900763-Dec2025/) (Published: 2025-12-11)
 - [Cisco Stock Hits New All-Time High, 25 Years After the Dotcom Bubble Burst](https://slashdot.org/story/25/12/11/2013233/cisco-stock-hits-new-all-time-high-25-years-after-the-dotcom-bubble-burst) (Published: 2025-12-11)
 - [GeForce NOW members can stream Skate Story and get a free Arc Raiders gift](https://www.androidheadlines.com/2025/12/geforce-now-members-can-stream-skate-story-and-get-a-free-arc-raiders-gift.html) (Published: 2025-12-11)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-12 20:48:11**_
 - [Nvidia CEO and Commerce Secretary called to testify over China chip policy](https://biztoc.com/x/51584a67093e4d50) (Published: 2025-12-11)
 - [Dell XPS 13 9345 Snapdragon X Elite 13.4" Laptop w/ 16GB RAM & 1TB SSD for $950 + free shipping](https://www.dealnews.com/Dell-XPS-13-9345-Snapdragon-X-Elite-13-4-Laptop-w-16-GB-RAM-1-TB-SSD-for-950-free-shipping/21794902.html) (Published: 2025-12-11)
 - [Stock Market Today: Dow Climbs 600 Points; Oracle Stock Price Slides 14% — Live Updates - The Wall Street Journal](https://slashdot.org/firehose.pl?op=view&amp;id=180363801) (Published: 2025-12-11)
-- [Rivian unveils AI chip for automated driving, ditches Nvidia](https://biztoc.com/x/5719bc5c18e96243) (Published: 2025-12-11)
-- [Dell Clearance Deals: Up to $970 off + free shipping](https://www.dealnews.com/Dell-Clearance-Deals-Up-to-970-off-free-shipping/21794895.html) (Published: 2025-12-11)
