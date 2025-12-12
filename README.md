@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-12 15:48:25**_
+_Last updated: **2025-12-12 15:58:31**_
 
+- [Fermaca Advances Fermaca Digital City to Accelerate the Development of AI Infrastructure in Mexico](https://financialpost.com/pmn/business-wire-news-releases-pmn/fermaca-advances-fermaca-digital-city-to-accelerate-the-development-of-ai-infrastructure-in-mexico) (Published: 2025-12-11)
+- [Oracle's big AI dreams are freaking out Wall Street](https://qz.com/oracle-earnings-q2-2026-ai-bubble-capex) (Published: 2025-12-11)
 - [Option traders moderately bearish in NVIDIA with shares down 3.44%](https://thefly.com/permalinks/entry.php/id4255077/NVDA-Option-traders-moderately-bearish-in-NVIDIA-with-shares-down-) (Published: 2025-12-11)
 - [Trump Says Chips Ahoy to Xi Jinping (Wall Street Journal)](https://www.memeorandum.com/251211/p36) (Published: 2025-12-11)
 - [JEPQ’s 10% Dividend Is Legendary, But At What Cost?](https://247wallst.com/investing/2025/12/11/jepqs-10-dividend-is-legendary-but-at-what-cost/) (Published: 2025-12-11)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-12 15:48:25**_
 - ['AI Architects' Crowned TIME's Person Of The Year 2025](https://www.ndtvprofit.com/technology/ai-architects-crowned-times-person-of-the-year-2025) (Published: 2025-12-11)
 - ['Big Short' investor Michael Burry says the latest Fed meeting points to trouble in the banking system](https://www.businessinsider.com/big-short-michael-burry-fed-meeting-us-banks-balance-sheet-2025-12) (Published: 2025-12-11)
 - [Asus' new 5K gaming monitor is so high-end it doesn't even officially support RTX 40-series GPUs — the XG27JCG is a 5K 180Hz beast with 330Hz 1440p dual-mode support](https://www.tomshardware.com/monitors/gaming-monitors/asus-new-5k-gaming-monitor-is-so-high-end-it-doesnt-even-officially-support-rtx-40-series-gpus-the-xg27jcg-is-a-5k-180hz-beast-with-330hz-1440p-dual-mode-support) (Published: 2025-12-11)
-- [Broadcom soars 76% as AI demand drives earnings report](https://rollingout.com/2025/12/11/broadcom-soars-76-as-ai-demand-drives/) (Published: 2025-12-11)
-- [Why Time Dubbed 'AI Builders' Person of the Year: 'Whatever the Question, AI Was the Answer'](https://www.cnet.com/tech/services-and-software/time-magazine-chooses-ai-builders-as-person-of-the-year/) (Published: 2025-12-11)
