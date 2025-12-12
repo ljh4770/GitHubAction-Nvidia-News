@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-12 12:54:16**_
+_Last updated: **2025-12-12 13:33:10**_
 
-- [Slack CEO leaves Salesforce to become OpenAI’s first revenue chief, tackle multibillion-dollar losses](https://fortune.com/2025/12/11/denise-dresser-slack-ceo-leaves-salesforce-openai-revenue/) (Published: 2025-12-11)
-- [Wells Fargo Boosts Lyft (LYFT) PT to $26 on Strong US Outlook, Remains Neutral Due to International Diversification Concerns](https://finance.yahoo.com/news/wells-fargo-boosts-lyft-lyft-124437179.html) (Published: 2025-12-11)
-- [Nvidia Stock Falls. 2 Reasons Oracle’s Earnings Were Bad for the Chip Maker](https://biztoc.com/x/8069c8951571186a) (Published: 2025-12-11)
-- [Generative AI in the Real World: The Year in AI with Ksenia Se](https://www.oreilly.com/radar/podcast/generative-ai-in-the-real-world-the-year-in-ai-with-ksenia-se/) (Published: 2025-12-11)
-- [Time Unveils Its 2025 Person of the Year: A Group Dubbed ‘Architects of AI’](https://www.today.com/news/time-2025-person-of-the-year-architects-of-ai-rcna248591) (Published: 2025-12-11)
-- [(PR) Semiconductor Quarterly Revenue Surpasses $200bn for the First Time as Industry-Wide Growth Accelerates](https://www.techpowerup.com/343964/semiconductor-quarterly-revenue-surpasses-usd-200bn-for-the-first-time-as-industry-wide-growth-accelerates) (Published: 2025-12-11)
-- [Black Ops 7 fans could have been tempted by this limited edition graphics card, but I doubt you'll stand a chance of buying it — and no, it isn't NVIDIA this time](https://www.windowscentral.com/gaming/pc-gaming/black-ops-7-limited-edition-radeon-graphics-card) (Published: 2025-12-11)
-- [Filecoin (FIL) extends losses below $1.40 as market weakness deepens](https://coinjournal.net/news/filecoin-fil-extends-losses-below-1-40-as-market-weakness-deepens/) (Published: 2025-12-11)
-- [NVIDIA’s Latest Software Service Tracks GPU Location To Tackle Trafficking & Smuggling Networks, Confirms There’s No “Kill Switch”](https://wccftech.com/nvidia-software-service-tracks-gpu-location-tackle-trafficking-confirms-no-kill-switch/) (Published: 2025-12-11)
-- [Top 7 presales to invest in December 2025](https://ambcrypto.com/top-7-presales-to-invest-in-december-2025/) (Published: 2025-12-11)
+- [Wafer Dicing Services Market Set to Exceed US$ 932.9 Million by 2035 | Astute Analytica](https://www.globenewswire.com/news-release/2025/12/11/3203897/0/en/Wafer-Dicing-Services-Market-Set-to-Exceed-US-932-9-Million-by-2035-Astute-Analytica.html) (Published: 2025-12-11)
+- [BofA reaffirms this AI-chip giant as its top pick, citing decade-long tech lead](https://finance.yahoo.com/news/bofa-reaffirms-ai-chip-giant-132830633.html) (Published: 2025-12-11)
+- [Jim Cramer issues blunt 5-word verdict on Nvidia stock](https://biztoc.com/x/8206b195e1740213) (Published: 2025-12-11)
+- [Time Unveils Its 2025 Person of the Year: A Group Dubbed ‘Architects of AI’](https://www.today.com/news/time-person-of-the-year-2025-ai-architects-rcna248606) (Published: 2025-12-11)
+- [RedCloud Releases Earnings, Sets $100m Revenue Target After $50m Türkiye Deal, as AI Infrastructure Scales](https://www.globenewswire.com/news-release/2025/12/11/3203889/0/en/RedCloud-Releases-Earnings-Sets-100m-Revenue-Target-After-50m-T%C3%BCrkiye-Deal-as-AI-Infrastructure-Scales.html) (Published: 2025-12-11)
+- [The Fed's hawkish cut, Oracle earnings, Coca-Cola's next CEO and more in Morning Squawk](https://www.cnbc.com/2025/12/11/5-things-to-know-before-the-stock-market-opens.html) (Published: 2025-12-11)
+- [Semiconductor Stocks Sell Off After Oracle's Results Spoil AI Party](https://biztoc.com/x/68e90d25da0b6459) (Published: 2025-12-11)
+- [AI revolutionaries earn Time’s coveted 2025 title](https://rollingout.com/2025/12/11/time-person-of-year-2025-ai-architects/) (Published: 2025-12-11)
+- [DeepSeek Accused of Using Smuggled Nvidia Chips — Sparks Controversy in AI Race](https://www.ibtimes.com/deepseek-accused-using-smuggled-nvidia-chips-sparks-controversy-ai-race-3792392) (Published: 2025-12-11)
