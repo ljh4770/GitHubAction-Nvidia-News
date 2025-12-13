@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-13 04:49:43**_
+_Last updated: **2025-12-13 05:00:03**_
 
+- [Recovery of fines raised through e-challans reduced in 2024 to Rs 3,834 crore from Rs 4,150 crore in 2023: Govt](https://timesofindia.indiatimes.com/india/recovery-of-fines-raised-through-e-challans-reduced-in-2024-to-rs-3834-crore-from-rs-4150-crore-in-2023-govt/articleshow/125926215.cms) (Published: 2025-12-12)
 - [aule-attention 0.3.5](https://pypi.org/project/aule-attention/0.3.5/) (Published: 2025-12-12)
 - [Show HN: PowerKit for Tmux – 32 Plugins](https://github.com/fabioluciano/tmux-powerkit) (Published: 2025-12-12)
 - [Taiwan opens sovereign AI data center with Nvidia-powered supercomputer](https://biztoc.com/x/d19f7ac23fd51437) (Published: 2025-12-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-13 04:49:43**_
 - [Fintech Wealthfront prices US IPO at $14 apiece, raises $486 million](https://economictimes.indiatimes.com/tech/startups/fintech-wealthfront-prices-us-ipo-at-14-apiece-raises-486-million/articleshow/125924682.cms) (Published: 2025-12-12)
 - [Trump Signs Order Seeking To Limit State-Level AI Regulation](https://www.ndtvprofit.com/business/trump-signs-order-seeking-to-limit-state-level-ai-regulation) (Published: 2025-12-12)
 - [Asian markets track Wall St record after Fed cut](https://www.digitaljournal.com/world/asian-markets-track-wall-st-record-after-fed-cut/article) (Published: 2025-12-12)
-- [SoftBank eyes data center group switch as Son hunts for AI](https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-eyes-data-center-group-switch-as-son-hunts-for-ai/articleshow/125924325.cms) (Published: 2025-12-12)
