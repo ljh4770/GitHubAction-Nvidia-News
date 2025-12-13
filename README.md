@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-13 14:23:23**_
+_Last updated: **2025-12-13 14:39:22**_
 
+- [I've tested PhysX now that it's sorta supported on the RTX 50 series and I'm more convinced than ever it's a feature worth fighting for](https://www.pcgamer.com/hardware/graphics-cards/ive-tested-physx-now-that-its-sorta-supported-on-the-rtx-50-series-and-im-more-convinced-than-ever-its-a-feature-worth-fighting-for/) (Published: 2025-12-12)
 - [Nvidia Eyes Bigger AI Chip Output After China Orders Flood In](https://biztoc.com/x/818c2c1ecbcec524) (Published: 2025-12-12)
 - [Nissan beats world's fuel efficiency record with N6 hybrid as it teases $4,000 Tesla FSD competitor](https://www.notebookcheck.net/Nissan-beats-world-s-fuel-efficiency-record-with-N6-hybrid-as-it-teases-4-000-Tesla-FSD-competitor.1184172.0.html) (Published: 2025-12-12)
 - [Taiwan Semiconductor Manufacturing Company (TSM) Surged Amid Increasing AI Momentum](https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-tsm-141808595.html) (Published: 2025-12-12)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-13 14:23:23**_
 - [Broadcom (AVGO): Brasada Capital Management’s Best Year-To-Date Performer](https://finance.yahoo.com/news/broadcom-avgo-brasada-capital-management-140837515.html) (Published: 2025-12-12)
 - [Elon Musk Will Actually Have His Own Office at Samsung’s U.S. Chip Facility, Indicating Tesla’s Ambitions to Make Chipmaking a Priority](https://wccftech.com/elon-musk-will-actually-have-his-own-office-at-samsung-us-chip-facility/) (Published: 2025-12-12)
 - [Disney does a dubious deal with OpenAI, even as trust in AI wanes](https://siliconangle.com/2025/12/12/disney-dubious-deal-openai-even-trust-ai-wanes/) (Published: 2025-12-12)
-- [This $549 Acer gaming laptop is simply unbeatable value with Nvidia RTX 5050 GPU and 16GB RAM — rival model also on sale for $50 more, featuring AMD Ryzen CPU and 1200p display](https://www.tomshardware.com/laptops/gaming-laptops/this-usd549-acer-gaming-laptop-is-simply-unbeatable-value-with-nvidia-rtx-5050-gpu-and-16gb-ram-rival-model-also-on-sale-for-usd50-more-featuring-amd-ryzen-cpu-and-1200p-display) (Published: 2025-12-12)
