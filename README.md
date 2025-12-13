@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-13 07:19:31**_
+_Last updated: **2025-12-13 07:36:12**_
 
+- [CNBC Daily Open: Record high U.S. stocks as investors rotate out of tech](https://www.cnbc.com/2025/12/12/cnbc-daily-open-record-high-us-stocks-as-investors-rotate-out-of-tech.html) (Published: 2025-12-12)
 - [Nvidia-certified acquisition positions Lens Technology for rapid expansion in AI servers](https://www.digitimes.com/news/a20251212PD224/nvidia-supply-chain-acquisition-hardware-liquid-cooling.html) (Published: 2025-12-12)
 - [TIME Magazine’s 2025 person of the year is a group including Elon Musk, Nvidia CEO Jensen Huang, OpenAI's Sam Altman and …](https://timesofindia.indiatimes.com/technology/tech-news/time-magazines-2025-person-of-the-year-is-a-group-including-elon-musk-nvidia-ceo-jensen-huang-openais-sam-altman-and-/articleshow/125927980.cms) (Published: 2025-12-12)
 - [Intel has tested chipmaking tools from firm with sanctioned China unit](https://www.thehindubusinessline.com/news/world/intel-has-tested-chipmaking-tools-from-firm-with-sanctioned-china-unit/article70387574.ece) (Published: 2025-12-12)
