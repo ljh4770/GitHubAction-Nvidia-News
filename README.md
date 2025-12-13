@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-13 17:53:23**_
+_Last updated: **2025-12-13 18:20:33**_
 
+- [5 Nvidia Graphics Cards You Should Steer Clear Of (According To Users)](https://www.bgr.com/2044280/nvidia-graphics-cards-you-should-not-buy-bad-reviews/) (Published: 2025-12-12)
+- [Stocks drop as AI exuberance worries linger; US yields jump](https://www.channelnewsasia.com/business/stocks-drop-ai-exuberance-worries-linger-us-yields-jump-5577711) (Published: 2025-12-12)
+- [Stocks fall as tech fears stay; dollar up, but on track for third weekly drop](https://www.channelnewsasia.com/business/stocks-fall-tech-fears-stay-dollar-up-track-third-weekly-drop-5577711) (Published: 2025-12-12)
+- [Nvidia share price: NVDA stocks fall big even after big H200 AI chips development. What to know?](https://economictimes.indiatimes.com/news/international/us/nvidia-share-price-nvda-stocks-fall-big-even-after-big-h200-ai-chips-development-what-to-know/articleshow/125938550.cms) (Published: 2025-12-12)
+- [Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia](https://biztoc.com/x/0ecebd9dd13ff5d5) (Published: 2025-12-12)
+- [Nvidia weighs expanding H200 production as new China orders rush in, report claims — ByteDance and Alibaba listed as suitors for 'large orders' in the wake of sanctions lift](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-weighs-expanding-h200-production-as-demand-outstrips-supply) (Published: 2025-12-12)
+- [TIME Crowns the “Architects of AI” and Tim Cook Is Missing in Action](https://www.iphoneincanada.ca/2025/12/12/time-crowns-the-architects-of-ai-and-tim-cook-is-missing-in-action/) (Published: 2025-12-12)
+- [Falling tech stocks drag global shares lower](https://www.irishtimes.com/business/2025/12/12/falling-tech-stocks-drag-global-shares-lower/) (Published: 2025-12-12)
+- [2025.50: Netflix and a Hollywood Chill](https://stratechery.com/2025/netflix-and-a-hollywood-chill/) (Published: 2025-12-12)
 - [Broadcom CEO Hock Tan Just Delivered Incredible News for Nvidia Stock Investors](https://biztoc.com/x/e879bc0171d04f03) (Published: 2025-12-12)
-- [Trump Assembles Seemingly Motley Crew Of Allies To Stop China From Becoming World’s #1 Power](https://dailycaller.com/2025/12/12/trump-assembles-seemingly-motley-crew-of-allies-to-stop-china-from-becoming-worlds-1-power/) (Published: 2025-12-12)
-- [Broadcom tumbles 11% despite blockbuster earnings as 'AI angst' weighs on Oracle, Nvidia](https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html) (Published: 2025-12-12)
-- [Oracle reportedly delays several new OpenAI data centers because of shortages — tight material and labor supply frustrate expansion plans, possibly by a year or more](https://www.tomshardware.com/tech-industry/artificial-intelligence/oracle-reportedly-delays-several-new-openai-data-centers-because-of-shortages-tight-material-and-labor-supply-frustrate-expansion-plans-possibly-by-a-year-or-more) (Published: 2025-12-12)
-- [Allegra Stratton: Can the Economy Avoid Catching the Flu?](https://biztoc.com/x/0fd27b03459f120d) (Published: 2025-12-12)
-- [Musk’s X Posts Higher Sales Amid Costly Turnaround](https://biztoc.com/x/f96f7b8b728fed32) (Published: 2025-12-12)
-- [Walmart’s $19 Billion Nasdaq 100 Index Boost May Have to Wait](https://biztoc.com/x/6dd336af24a90bc4) (Published: 2025-12-12)
-- [AI Stocks Get Pummeled as Oracle Delay Adds to Broadcom Concerns](https://biztoc.com/x/dde4e5a1717c4135) (Published: 2025-12-12)
-- [Source: livestream shopping app Whatnot nears ~$1B in revenue for 2025; Whatnot says it has passed $6B in gross sales this year, more than doubling 2024's sales](https://biztoc.com/x/cbcc95053a8e0998) (Published: 2025-12-12)
-- [BofA Says the Fed’s T-Bill Buying Can Help Lower 10-Year Yields](https://biztoc.com/x/593e15d1f9cf1ec1) (Published: 2025-12-12)
