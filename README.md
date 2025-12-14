@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 10:39:09**_
+_Last updated: **2025-12-14 10:50:53**_
 
 - [Trump plans ‘C5’ group consisting of  India, China, Russia, Japan and US](https://mypeoplesreview.com/2025/12/13/trump-plans-c5-group-consisting-of-india-china-russia-japan-and-us/) (Published: 2025-12-13)
 - [nvfuser-cu128 0.2.35.dev20251213](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20251213/) (Published: 2025-12-13)
