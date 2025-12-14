@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 20:33:52**_
+_Last updated: **2025-12-14 20:47:16**_
 
 - [Lenovo LOQ Tower: Ryzen 7 8745HX, RTX 5060 Ti, 32GB DDR5, 1TB SSD $869.99 (6 replies)](https://slickdeals.net/f/18965704-lenovo-loq-tower-ryzen-7-8745hx-rtx-5060-ti-32gb-ddr5-1tb-ssd-869-99) (Published: 2025-12-13)
 - [Don’t go wobbly on China, Mr. President](https://www.wnd.com/2025/12/dont-go-wobbly-china-mr-president/) (Published: 2025-12-13)
