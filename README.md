@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 04:25:02**_
+_Last updated: **2025-12-14 04:53:37**_
 
+- [Nvidia may increase H200 AI chip output amid high demand from Chinese companies including Alibaba, ByteDance: Report](https://www.livemint.com/companies/news/nvidia-may-increase-h200-ai-chip-output-amid-high-demand-from-chinese-companies-including-alibaba-bytedance-report-11765596731165.html) (Published: 2025-12-13)
 - [Oracle-Broadcom one-two punch hits AI trade](https://economictimes.indiatimes.com/markets/stocks/news/oracle-broadcom-one-two-punch-hits-ai-trade/articleshow/125943790.cms) (Published: 2025-12-13)
 - [Broadcom CEO Hock Tan Just Delivered Incredible News for Nvidia Stock Investors - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=180374243) (Published: 2025-12-13)
 - [Will Trump's huge gamble on letting Nvidia sell AI chips to #China pay off? #tech #ai #shorts](https://biztoc.com/x/a324104a47a25b27) (Published: 2025-12-13)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-14 04:25:02**_
 - [Wall Street ends lower; fears of AI bubble and inflation send investors away](https://economictimes.indiatimes.com/markets/stocks/news/wall-street-ends-lower-fears-of-ai-bubble-and-inflation-send-investors-away/articleshow/125943209.cms) (Published: 2025-12-13)
 - [US lawmaker demands details on Trump's decision to sell Nvidia H200 chips to China](https://economictimes.indiatimes.com/news/international/world-news/us-lawmaker-demands-details-on-trumps-decision-to-sell-nvidia-h200-chips-to-china/articleshow/125942938.cms) (Published: 2025-12-13)
 - [Oracle Debt Trades Like Junk as Bond, CDS Spreads Flare - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=180373595) (Published: 2025-12-13)
-- [Lenovo Legion Y9000P Diabo IV gaming laptop arrives in China with up to RTX 5080 Laptop GPU and Core Ultra 9 275HX CPU](https://www.notebookcheck.net/Lenovo-Legion-Y9000P-Diabo-IV-gaming-laptop-arrives-in-China-with-up-to-RTX-5080-Laptop-GPU-and-Core-Ultra-9-275HX-CPU.1184304.0.html) (Published: 2025-12-13)
