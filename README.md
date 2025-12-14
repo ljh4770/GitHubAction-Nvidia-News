@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 07:36:24**_
+_Last updated: **2025-12-14 07:46:32**_
 
+- [CIX releases P1 CPU TRM and developer guides for GPU, AI accelerator, OS and firmware/BIOS](https://www.cnx-software.com/2025/12/13/cix-releases-p1-cpu-trm-and-developer-guides-for-gpu-ai-accelerator-os-and-firmware-bios/) (Published: 2025-12-13)
 - [Nvidia’s CEO is named Financial Times’ 2025 Person of the Year. Who is Jensen Huang?](https://biztoc.com/x/e2aec868fca38dba) (Published: 2025-12-13)
 - [US lawmakers question basis for allowing sale of Nvidia H200 chips to China](https://biztoc.com/x/f36af2ce9862893c) (Published: 2025-12-13)
 - [Broadcom's shares fell 11% on December 12, their biggest single-day drop since January, after the company's AI sales outlook fell short of investor expectations (Dina Bass/Bloomberg)](https://www.techmeme.com/251213/p5) (Published: 2025-12-13)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-14 07:36:24**_
 - [Is there an AI bubble? Howard Marks weighs in](https://www.irishtimes.com/your-money/2025/12/13/is-there-an-ai-bubble-howard-marks-weighs-in/) (Published: 2025-12-13)
 - [China Is ‘Rejecting’ H200s, Outfoxing US Strategy, Sacks Says - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=180374819) (Published: 2025-12-13)
 - [Tesla's latest launch isn't a car — it's a $350 pickleball paddle — and it's not even electric](https://www.businessinsider.com/tesla-latest-launch-expensive-lifestyle-product-pickleball-paddle-2025-12) (Published: 2025-12-13)
-- [Nvidia may increase H200 AI chip output amid high demand from Chinese companies including Alibaba, ByteDance: Report](https://www.livemint.com/companies/news/nvidia-may-increase-h200-ai-chip-output-amid-high-demand-from-chinese-companies-including-alibaba-bytedance-report-11765596731165.html) (Published: 2025-12-13)
