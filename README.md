@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 06:00:45**_
+_Last updated: **2025-12-14 06:40:54**_
 
 - [Is there an AI bubble? Howard Marks weighs in](https://www.irishtimes.com/your-money/2025/12/13/is-there-an-ai-bubble-howard-marks-weighs-in/) (Published: 2025-12-13)
 - [China Is ‘Rejecting’ H200s, Outfoxing US Strategy, Sacks Says - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=180374819) (Published: 2025-12-13)
