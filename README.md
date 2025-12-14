@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 07:46:32**_
+_Last updated: **2025-12-14 07:56:42**_
 
 - [CIX releases P1 CPU TRM and developer guides for GPU, AI accelerator, OS and firmware/BIOS](https://www.cnx-software.com/2025/12/13/cix-releases-p1-cpu-trm-and-developer-guides-for-gpu-ai-accelerator-os-and-firmware-bios/) (Published: 2025-12-13)
 - [Nvidia’s CEO is named Financial Times’ 2025 Person of the Year. Who is Jensen Huang?](https://biztoc.com/x/e2aec868fca38dba) (Published: 2025-12-13)
