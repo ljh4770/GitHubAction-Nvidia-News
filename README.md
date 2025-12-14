@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 13:43:20**_
+_Last updated: **2025-12-14 13:53:32**_
 
 - [Tumbling tech drags Wall Street off its records and toward its worst day in 3 weeks](https://www.mariettatimes.com/news/business/2025/12/tumbling-tech-drags-wall-street-off-its-records-and-toward-its-worst-day-in-3-weeks/) (Published: 2025-12-13)
 - [Nvidia details new software that enables location tracking for AI GPUs — opt-in remote data center GPU fleet management includes power usage and thermal monitoring](https://www.tomshardware.com/pc-components/gpus/nvidia-details-new-software-that-enables-location-tracking-for-ai-gpus-opt-in-remote-data-center-gpu-fleet-management-includes-power-usage-and-thermal-monitoring) (Published: 2025-12-13)
