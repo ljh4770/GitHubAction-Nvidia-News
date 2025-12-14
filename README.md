@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 23:29:08**_
+_Last updated: **2025-12-14 23:42:49**_
 
 - [This self-hosted tool turns audio into podcast-style Obsidian notes](https://www.xda-developers.com/this-self-hosted-tool-turns-audio-into-podcast-style-obsidian-notes/) (Published: 2025-12-13)
 - [Recommended? LG gram 17 Zoll Laptop, Intel Lunar Lake-Laptop, gram A](https://www.bleepingcomputer.com/forums/t/812378/recommended-lg-gram-17-zoll-laptop-intel-lunar-lake-laptop-gram-a/) (Published: 2025-12-13)
