@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 05:16:47**_
+_Last updated: **2025-12-14 05:39:12**_
 
 - [China Is ‘Rejecting’ H200s, Outfoxing US Strategy, Sacks Says - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=180374819) (Published: 2025-12-13)
 - [Tesla's latest launch isn't a car — it's a $350 pickleball paddle — and it's not even electric](https://www.businessinsider.com/tesla-latest-launch-expensive-lifestyle-product-pickleball-paddle-2025-12) (Published: 2025-12-13)
