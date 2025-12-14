@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 18:12:32**_
+_Last updated: **2025-12-14 18:43:38**_
 
 - [Jetson Thor industrial PC pairs 25GbE networking with optional GMSL2 camera support](https://linuxgizmos.com/jetson-thor-industrial-pc-pairs-25gbe-networking-with-optional-gmsl2-camera-support/) (Published: 2025-12-13)
 - [Updates on the AGI Debate, Humanoid Bots and Karpathy Insight](https://www.nextbigfuture.com/2025/12/updates-on-the-agi-debate-humanoid-bots-and-karpathy-insight.html) (Published: 2025-12-13)
