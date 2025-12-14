@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 17:40:04**_
+_Last updated: **2025-12-14 17:50:26**_
 
 - [Updates on the AGI Debate, Humanoid Bots and Karpathy Insight](https://www.nextbigfuture.com/2025/12/updates-on-the-agi-debate-humanoid-bots-and-karpathy-insight.html) (Published: 2025-12-13)
 - [Is Nvidia's Valuation Justified as New Competitors Close the AI Gap?](https://biztoc.com/x/d974e50ae309f574) (Published: 2025-12-13)
