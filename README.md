@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-14 07:22:10**_
+_Last updated: **2025-12-14 07:36:24**_
 
 - [Nvidia’s CEO is named Financial Times’ 2025 Person of the Year. Who is Jensen Huang?](https://biztoc.com/x/e2aec868fca38dba) (Published: 2025-12-13)
 - [US lawmakers question basis for allowing sale of Nvidia H200 chips to China](https://biztoc.com/x/f36af2ce9862893c) (Published: 2025-12-13)
