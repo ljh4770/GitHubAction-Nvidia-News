@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-13 23:57:38**_
+_Last updated: **2025-12-14 02:20:46**_
 
+- [US lawmaker demands details on Trump's decision to sell Nvidia H200 chips to China](https://economictimes.indiatimes.com/news/international/world-news/us-lawmaker-demands-details-on-trumps-decision-to-sell-nvidia-h200-chips-to-china/articleshow/125942938.cms) (Published: 2025-12-13)
+- [Oracle Debt Trades Like Junk as Bond, CDS Spreads Flare - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=180373595) (Published: 2025-12-13)
+- [Lenovo Legion Y9000P Diabo IV gaming laptop arrives in China with up to RTX 5080 Laptop GPU and Core Ultra 9 275HX CPU](https://www.notebookcheck.net/Lenovo-Legion-Y9000P-Diabo-IV-gaming-laptop-arrives-in-China-with-up-to-RTX-5080-Laptop-GPU-and-Core-Ultra-9-275HX-CPU.1184304.0.html) (Published: 2025-12-13)
+- [Nvidia chips for China, frozen Russian funds, and a lot of self-checkout stealing : The Indicator from Planet Money](https://biztoc.com/x/156d1b135fb89793) (Published: 2025-12-13)
+- [Rivian announces AI chip in move towards self-driving future](http://www.popsci.com/technology/rivian-ai-chip/) (Published: 2025-12-13)
+- [The US Stock Market Hits Record Highs, Even as Worries About an AI Bubble Continue](https://tjvnews.com/business-a-technology/business/the-us-stock-market-hits-record-highs-even-as-worries-about-an-ai-bubble-continue/) (Published: 2025-12-13)
+- [For Canada’s startups, AI was a dominant force in 2025](https://www.thestar.com/business/mars/for-canada-s-startups-ai-was-a-dominant-force-in-2025/article_1f1a1354-3b8c-40a9-9659-2c418effaa2f.html) (Published: 2025-12-13)
+- [ChatGPT: Everything you need to know about the AI chatbot](https://techcrunch.com/2025/12/12/chatgpt-everything-to-know-about-the-ai-chatbot/) (Published: 2025-12-13)
+- [US lawmakers question basis for allowing sale of Nvidia H200 chips to China](https://biztoc.com/x/bea3e1c472efd887) (Published: 2025-12-13)
 - [Thinking Machines makes its Tinker AI fine-tuning service generally available](https://siliconangle.com/2025/12/12/thinking-machines-makes-tinker-ai-fine-tuning-service-generally-available/) (Published: 2025-12-12)
-- [rapids-singlecell 0.13.5](https://pypi.org/project/rapids-singlecell/0.13.5/) (Published: 2025-12-12)
-- [Automated digital wealth management company Wealthfront's stock closed up 1.36% in its Nasdaq debut, valuing it at ~$2.7B, after raising $486M in its IPO](https://biztoc.com/x/af3f8c3846761114) (Published: 2025-12-12)
-- [Tech honchos rejoice as Trump signs order kneecapping California AI regulation](https://nypost.com/2025/12/12/us-news/silicon-valley-applauds-trump-executive-order-reducing-california-ai-regulation/) (Published: 2025-12-12)
-- [Shares of data center real estate company Fermi closed down 34% after a tenant terminated a $150M agreement to help fund an AI campus in West Texas](https://biztoc.com/x/e78eef158fc36f51) (Published: 2025-12-12)
-- [Thoma Looks to Create $12 Billion Shipping Tech Firm With Merger](https://biztoc.com/x/8782aa64830c1d56) (Published: 2025-12-12)
-- [Is the economy losing jobs? The Fed’s rate cut hints at bigger worries](https://biztoc.com/x/665a5c1cad9330be) (Published: 2025-12-12)
-- [Intel Nears $1.6 Billion Deal for AI Chip Startup SambaNova](https://biztoc.com/x/984586db0918474c) (Published: 2025-12-12)
-- [Canadians Rush to Buy Stockpiles of Boycotted U.S. Liquor](https://biztoc.com/x/1379b21cda1020b6) (Published: 2025-12-12)
-- [Hogs Posts Friday Gains](https://biztoc.com/x/f369ce1c7791c892) (Published: 2025-12-12)
