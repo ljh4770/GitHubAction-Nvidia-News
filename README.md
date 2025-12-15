@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-15 04:11:16**_
+_Last updated: **2025-12-15 04:53:11**_
 
 - [Figure AI CEO says over 170,000 people have applied to his robot company in the last 3 years. He hired fewer than 500.](https://www.businessinsider.com/figure-ai-robotics-startup-tech-job-market-competition-170k-resumes-2025-12) (Published: 2025-12-14)
 - [從『只有科技巨頭負擔得起』到『中型企業也能訓練大型模型』：AWS Trainium3 如何改變 AI 訓練的遊戲規則？](https://www.cool3c.com/article/245141) (Published: 2025-12-14)
