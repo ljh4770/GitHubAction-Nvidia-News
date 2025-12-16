@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-16 06:57:56**_
+_Last updated: **2025-12-16 07:29:29**_
 
+- [Nvidia CEO Jensen Huang Warned AI Compute Demand Is Exploding, Now Futurum CEO Daniel Newman Says We're Only '1% Into The AI Revolution'](https://biztoc.com/x/a16d0d2b91e01f6e) (Published: 2025-12-15)
 - [Goldman Sachs says the market's missing the 2026 boom — and a few sectors are poised to heat up](https://www.businessinsider.com/goldman-2026-stock-market-forecast-outlook-ai-cyclicals-earnings-winners-2025-12) (Published: 2025-12-15)
 - [Google’s ‘firebombs’ have sparked off battles over both hardware and software in the arena of AI](https://www.livemint.com/opinion/online-views/google-firebombs-battles-hardware-software-ai-openai-nvidia-artificial-intelligence-gemini-11765716856273.html) (Published: 2025-12-15)
 - [Review: Media Excel HERO 6000](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=172825) (Published: 2025-12-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-16 06:57:56**_
 - [CyberPowerPC - Gaming Desktop - Intel Core i9-14900F - NVIDIA GeForce RTX 5070 12GB - 32GB DDR5 - 1TB PCIe 4.0 SSD - Black $1349.99](https://slickdeals.net/f/18970954-cyberpowerpc-gaming-desktop-intel-core-i9-14900f-nvidia-geforce-rtx-5070-12gb-32gb-ddr5-1tb-pcie-4-0-ssd-black-1349-99) (Published: 2025-12-15)
 - [SK Hynix leads Samsung by 3-4 months, begins supplying paid HBM4 samples](https://www.digitimes.com/news/a20251215PD229/sk-hynix-hbm4-production-samsung-hbm.html) (Published: 2025-12-15)
 - [Nvidia H200 Exports Boost Odds of a World That ‘Runs on Chinese AI’](https://biztoc.com/x/eac433cb210a2c12) (Published: 2025-12-15)
-- [Intelが中国と関係の深い輸出規制対象となった企業の半導体製造装置をテスト中との報道、専門家からは「技術保護政策の重大な欠陥を浮き彫りにした」と批判の声](https://news.livedoor.com/article/detail/30206149/) (Published: 2025-12-15)
