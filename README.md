@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-16 03:40:20**_
+_Last updated: **2025-12-16 04:21:16**_
 
-- [Asian markets drop with Wall St as tech fears revive](https://www.digitaljournal.com/world/asian-markets-drop-with-wall-st-as-tech-fears-revive/article) (Published: 2025-12-15)
-- [Trump Letting China Have Nvidia H200 Chips Raises Chances Of Beijing Matching West In AI: 'Naive' To Assume They Won't Be Used For Military Purposes](https://biztoc.com/x/952c3451a065c646) (Published: 2025-12-15)
-- [Global funds view Indian stocks as a top hedge against AI risks](https://www.moneycontrol.com/news/business/markets/global-funds-view-indian-stocks-as-a-top-hedge-against-ai-risks-13724744.html) (Published: 2025-12-15)
-- [Weekly news roundup: TSMC pauses Japan fab plans, Tesla Powerwall demand rises in Taiwan, Huawei flags AI oversupply risks](https://www.digitimes.com/news/a20251215VL205/digitimes-asia-demand-huawei-fab-taiwan.html) (Published: 2025-12-15)
-- [Show HN: Bets on Post-GPU Compute](https://www.vishalv.com/notes/bets-on-post-GPU-compute) (Published: 2025-12-15)
-- [Skytech Azure3 Plus Gaming Desktop: Ryzen 9 9900X, RTX 5070 Ti, 32GB DDR5, 2TB SSD $1789.99 (2 replies)](https://slickdeals.net/f/18970255-skytech-azure3-plus-gaming-desktop-ryzen-9-9900x-rtx-5070-ti-32gb-ddr5-2tb-ssd-1789-99) (Published: 2025-12-15)
-- [CNBC Daily Open: Investors sell off tech despite steady Broadcom numbers](https://www.cnbc.com/2025/12/15/cnbc-daily-open-investors-sell-off-tech-despite-steady-broadcom-numbers.html) (Published: 2025-12-15)
-- [Trump loves a deal but these two are not going to plan](https://www.smh.com.au/business/the-economy/trump-loves-a-deal-but-these-two-are-not-going-to-plan-20251215-p5nnnf.html) (Published: 2025-12-15)
-- [Asian stocks fall on tech concerns, Bitcoin slips](https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-fall-on-tech-concerns-bitcoin-slips/articleshow/125968624.cms) (Published: 2025-12-15)
-- [Asian Stocks Fall On Tech Concerns, Bitcoin Slips: Markets Wrap](https://www.ndtvprofit.com/markets/global-stock-market-news-december-15-dow-jones-nikkei-hang-seng-s-and-p-500-nasdaq) (Published: 2025-12-15)
+- [Asian shares slip after Wall Street logs its worst day in 3 weeks](https://finance.yahoo.com/news/asian-shares-slip-wall-street-041632991.html) (Published: 2025-12-15)
+- [Asian shares slip after Wall Street logs its worst day in 3 weeks](https://finance.yahoo.com/news/asian-shares-slip-wall-street-041632322.html) (Published: 2025-12-15)
+- [Nvidia drives HVDC power with ST's 3-stage voltage conversion solution](https://www.digitimes.com/news/a20251215PD220/nvidia-data-center-technology-electricity-gan.html) (Published: 2025-12-15)
+- [Nvidia reportedly considers expanding H200 AI chip production amid potential surge in Chinese demand](https://www.digitimes.com/news/a20251215PD218/nvidia-china-ai-chip-production.html) (Published: 2025-12-15)
+- [Global funds view Indian stocks as a top hedge against AI risks](https://www.bloomberg.com/news/articles/2025-12-14/global-funds-view-indian-stocks-as-a-top-hedge-against-ai-risks) (Published: 2025-12-15)
+- [‘Dreams Won’t Pay Forever,’ Says Investor About Nvidia Stock](https://biztoc.com/x/4ee5842b459c07af) (Published: 2025-12-15)
+- [AMZN or META: Which ‘Strong Buy’ Magnificent 7 Stock Offers More Upside, According to Analysts?](https://biztoc.com/x/2efda9d27cc2e288) (Published: 2025-12-15)
+- [Looking for the Next NVDA? Top Analyst Flags 3 Quantum Computing Stocks to Buy (RGTI, IONQ, QBTS)](https://biztoc.com/x/d097ff1d4e591c9b) (Published: 2025-12-15)
+- [Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate](https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate/) (Published: 2025-12-15)
