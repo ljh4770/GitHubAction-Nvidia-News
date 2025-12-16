@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-16 20:43:15**_
+_Last updated: **2025-12-16 20:55:55**_
 
+- [Nvidia Acquires SchedMD to Support Open-Source Workload Management for AI](https://www.pymnts.com/acquisitions/2025/nvidia-acquires-schedmd-to-support-open-source-workload-management-for-ai/) (Published: 2025-12-15)
 - [iBUYPOWER RDY Y60 B02 Desktop: Intel Core 9-14900KF, RTX 5070, 32GB DDR5 6000MHz RAM, 2TB M.2 NVMe SSD $1599 + Free Shipping](https://slickdeals.net/f/18974902-ibuypower-rdy-y60-b02-desktop-intel-core-9-14900kf-rtx-5070-32gb-ddr5-6000mhz-ram-2tb-m-2-nvme-ssd-1599-free-shipping) (Published: 2025-12-15)
 - [Show HN: Cordon – Reduce large log files to anomalous sections](https://github.com/calebevans/cordon) (Published: 2025-12-15)
 - [AlphaTON Capital Secures First NVIDIA B300 Chips with Supermicro HGX Systems](https://www.globenewswire.com/news-release/2025/12/15/3205798/0/en/AlphaTON-Capital-Secures-First-NVIDIA-B300-Chips-with-Supermicro-HGX-Systems.html) (Published: 2025-12-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-16 20:43:15**_
 - [AI infrastructure selloff continues on Wall Street as Broadcom, Oracle shares slide](https://www.cnbc.com/2025/12/15/ai-infrastructure-selloff-continues-broadcom-oracle-coreweave-shares-slide.html) (Published: 2025-12-15)
 - [Former Instacart employee says she was fired over her Democratic congressional campaign](https://www.cnbc.com/2025/12/15/instacart-lawsuit-congress-campaign-trump.html) (Published: 2025-12-15)
 - [AI Factories, Physical AI, and Advances in Models, Agents, and Infrastructure That Shaped 2025](https://developer.nvidia.com/blog/ai-factories-physical-ai-and-advances-in-models-agents-and-infrastructure-that-shaped-2025/) (Published: 2025-12-15)
-- [Nvidia buys AI developer to expand open-source AI push](https://www.itnews.com.au/news/nvidia-buys-ai-developer-to-expand-open-source-ai-push-622617?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed) (Published: 2025-12-15)
