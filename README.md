@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-16 05:41:34**_
+_Last updated: **2025-12-16 05:54:13**_
 
 - [Nvidia H200 Exports Boost Odds of a World That ‘Runs on Chinese AI’](https://biztoc.com/x/eac433cb210a2c12) (Published: 2025-12-15)
 - [Intelが中国と関係の深い輸出規制対象となった企業の半導体製造装置をテスト中との報道、専門家からは「技術保護政策の重大な欠陥を浮き彫りにした」と批判の声](https://news.livedoor.com/article/detail/30206149/) (Published: 2025-12-15)
