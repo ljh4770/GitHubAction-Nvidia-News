@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-16 21:22:46**_
+_Last updated: **2025-12-16 21:40:03**_
 
+- [Built by and for People With Paralysis, This ALS Tech Gives A.I. a Human Voice](https://observer.com/2025/12/built-by-and-for-people-with-paralysis-this-als-tech-gives-a-i-a-human-voice/) (Published: 2025-12-15)
 - [Audio generation startup Mirelo nabs $41M investment](https://siliconangle.com/2025/12/15/audio-generation-startup-mirelo-nabs-41m-investment/) (Published: 2025-12-15)
 - [Google Search Gets New Plus Button to Upload Images and Docs to Search With AI](https://www.cnet.com/tech/services-and-software/google-search-new-plus-button-upload-images-and-docs-search-with-ai/) (Published: 2025-12-15)
 - [TUXEDO InfinityBook Max 15](https://thegadgetflow.com/product/tuxedo-infinitybook-max-15-gen10-amd-laptop/) (Published: 2025-12-15)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-16 21:22:46**_
 - [Show HN: Cordon – Reduce large log files to anomalous sections](https://github.com/calebevans/cordon) (Published: 2025-12-15)
 - [AlphaTON Capital Secures First NVIDIA B300 Chips with Supermicro HGX Systems](https://www.globenewswire.com/news-release/2025/12/15/3205798/0/en/AlphaTON-Capital-Secures-First-NVIDIA-B300-Chips-with-Supermicro-HGX-Systems.html) (Published: 2025-12-15)
 - [Welcome to your ice cream shop](https://www.niemanlab.org/2025/12/welcome-to-your-ice-cream-shop/) (Published: 2025-12-15)
-- [Would Warren Buffett buy Global X Fang+ ETF (FANG) units?](https://www.fool.com.au/2025/12/16/would-warren-buffett-buy-global-x-fang-etf-fang-units/) (Published: 2025-12-15)
