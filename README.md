@@ -1,15 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-16 15:01:14**_
+_Last updated: **2025-12-16 15:33:27**_
 
-- [Gold Prices Are Back in Record Territory](https://biztoc.com/x/e2b08b1e0c01ece3) (Published: 2025-12-15)
-- [Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control](https://biztoc.com/x/6b38b9f5a39924da) (Published: 2025-12-15)
-- [DOJ to Close Wamco Investigation Without Filing Charges](https://biztoc.com/x/e9953bb26cc733fa) (Published: 2025-12-15)
-- [Canada Inflation Steadies at 2.2% in November](https://biztoc.com/x/fa83b30134952723) (Published: 2025-12-15)
-- [Greece’s Eurobank Plans Two SRTs Tied to Corporate Loans](https://biztoc.com/x/271f32e63936137f) (Published: 2025-12-15)
-- [Here Monday's biggest analyst calls: Nvidia, Tesla, Apple, Viking, Hershey, Marriott, Dollar General & more](https://biztoc.com/x/c33bb3c17dccfd8f) (Published: 2025-12-15)
-- [Airbus’ Spanish Supplier Tells Workers Quality Fixes Are Coming](https://biztoc.com/x/3cf191b57213270a) (Published: 2025-12-15)
-- [Polish President Seeks Reset With Ukraine in Zelenskiy’s Visit](https://biztoc.com/x/99dfdd1cf663fe32) (Published: 2025-12-15)
-- [Fed's Miran: Current inflation not reflective of supply and demand in the economy](https://biztoc.com/x/b43399350fa810b7) (Published: 2025-12-15)
-- [Video
-Trump-related companies soared after the election. One year in, the picture’s not so rosy
-2:33](https://biztoc.com/x/b14c30cb7bb47323) (Published: 2025-12-15)
+- [Bridgewater warns Big Tech's reliance on external capital to fund AI boom is 'dangerous'](https://biztoc.com/x/7436d98289327f77) (Published: 2025-12-15)
+- [Bitcoin Miner IREN’s 47% Slide Flagged as a Buying Opportunity by B. Riley](https://biztoc.com/x/981434ebfd39241c) (Published: 2025-12-15)
+- [Spirit Airlines secures $100 million in bankruptcy funding](https://biztoc.com/x/c985e0ef2f6c2971) (Published: 2025-12-15)
+- [Dollar Falls on Expectations of Easier Fed Policy](https://biztoc.com/x/4f61e4b198ba953d) (Published: 2025-12-15)
+- [Poland's JSW needs over $830 million to stay afloat, says minister](https://biztoc.com/x/6ac0b9dfa98c4544) (Published: 2025-12-15)
+- [Nvidia Reportedly Seeing High Demand From China For H200 AI Chips](https://biztoc.com/x/575a7ee1a0e84c3a) (Published: 2025-12-15)
+- [The last major Wall Street bank to set its 2026 target forecasts double-digit gains for the S&P 500](https://biztoc.com/x/7796a2d40f8d55c9) (Published: 2025-12-15)
+- [Nvidia launches Nemotron 3 model family as open foundation for agentic AI systems](https://siliconangle.com/2025/12/15/nvidia-launches-nemotron-3-model-family-open-foundation-agentic-ai-systems/) (Published: 2025-12-15)
+- [Performance Comparison: NVIDIA And Competitors In Semiconductors & Semiconductor Equipment Industry](https://biztoc.com/x/9802759edc0cae0b) (Published: 2025-12-15)
+- [Ivory Coast Bonds Rise as Fitch Upgrade Hands It Near IG Status in Africa](https://biztoc.com/x/6b0c9427b657ffd3) (Published: 2025-12-15)
