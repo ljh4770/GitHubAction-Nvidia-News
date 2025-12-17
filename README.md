@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-16 23:52:13**_
+_Last updated: **2025-12-17 01:00:43**_
 
-- [Call center chatbot startup PolyAI raises $86M at a $750M valuation](https://siliconangle.com/2025/12/15/call-center-chatbot-startup-polyai-raises-86m-750m-valuation/) (Published: 2025-12-15)
-- [Nasdaq plans round-the-clock stock trading, targets global investors](https://www.thehindubusinessline.com/markets/nasdaq-plans-round-the-clock-stock-trading-targets-global-investors/article70400691.ece) (Published: 2025-12-15)
-- [Warner Bros. is blockbuster finale to $4.5 trillion M&A haul](https://fortune.com/2025/12/15/mergers-acquisitions-4-5-trillion-warner-bros-second-highest-year-ever/) (Published: 2025-12-15)
-- [Merriam‑Webster names “slop” as Word of the Year — officially recognizing AI‑generated low‑quality content as a cultural phenomenon](https://www.windowscentral.com/software-apps/merriam-webster-names-slop-as-word-of-the-year-officially-recognizing-ai-generated-low-quality-content-as-a-cultural-phenomenon) (Published: 2025-12-15)
-- [Trump Is Building a ‘U.S. Tech Force’ of 1,000+ Early Career Workers](https://gizmodo.com/trump-is-building-a-u-s-tech-force-of-1000-early-career-workers-2000699779) (Published: 2025-12-15)
-- [The RAM crisis will be a disaster for gaming laptops — here’s why](https://www.techradar.com/computing/memory/the-ram-crisis-will-be-a-disaster-for-gaming-laptops-heres-why) (Published: 2025-12-15)
-- [64GB RAM, RTX 5080 and Core Ultra 9: Lenovo Legion Pro 7 gets massive discount](https://www.notebookcheck.net/64GB-RAM-RTX-5080-and-Core-Ultra-9-Lenovo-Legion-Pro-7-gets-massive-discount.1184977.0.html) (Published: 2025-12-15)
-- [Masdar pulls the plug on going private with ReNew](https://economictimes.indiatimes.com/industry/renewables/masdar-pulls-the-plug-on-going-private-with-renew/articleshow/125989569.cms) (Published: 2025-12-15)
-- [Masdar pulls the plug on going private with ReNew](https://economictimes.indiatimes.com/industry/renewables/masdar-pulls-the-plug-on-going-private-with-renew/articleshow/125993074.cms) (Published: 2025-12-15)
-- [Nasdaq seeks to extend trading hours, as Wall Street gears up for 24/7 move](https://biztoc.com/x/92b69ca4abb451f7) (Published: 2025-12-15)
+- [Nvidia acquires Slurm developer SchedMD to enhance its software capabilities](https://siliconangle.com/2025/12/15/nvidia-acquires-slurm-developer-schedmd-enhance-software-capabilities/) (Published: 2025-12-16)
+- [NVIDIA がオープンモデルの Nemotron 3 ファミリーを発表](https://prtimes.jp/main/html/rd/p/000000579.000012662.html) (Published: 2025-12-16)
+- [hftool added to PyPI](https://pypi.org/project/hftool/) (Published: 2025-12-16)
+- [aule-attention 0.3.6](https://pypi.org/project/aule-attention/0.3.6/) (Published: 2025-12-16)
+- [Power of Ideas Inc: Rise of the Indian origin founder](https://economictimes.indiatimes.com/tech/artificial-intelligence/power-of-ideas-inc-rise-of-the-indian-origin-founder/articleshow/125989033.cms) (Published: 2025-12-16)
+- [Should Libertarians Support Federal AI Regulation?](https://reason.com/podcast/2025/12/15/should-libertarians-support-federal-ai-regulation/) (Published: 2025-12-16)
+- [iBUYPOWER - Y40 PRO Gaming Desktop PC -AMD Ryzen 9 7900X, NVIDIA GeForce RTX 5080 16GB, 32GB DDR5 RGB,2TB NVMe SSD - Black $1949.99](https://slickdeals.net/f/18975805-ibuypower-y40-pro-gaming-desktop-pc-amd-ryzen-9-7900x-nvidia-geforce-rtx-5080-16gb-32gb-ddr5-rgb-2tb-nvme-ssd-black-1949-99) (Published: 2025-12-16)
+- [Powerful Nvidia AI Chips Are Already In China: Here's How](https://www.slashgear.com/2052666/china-gray-market-nvidia-h200-ai-chips/) (Published: 2025-12-16)
+- [Jim Cramer makes the case for buying Procter & Gamble stock](https://www.cnbc.com/2025/12/15/jim-cramer-makes-the-case-for-buying-procter-gamble-stock.html) (Published: 2025-12-15)
