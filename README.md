@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-17 23:42:25**_
+_Last updated: **2025-12-17 23:53:03**_
 
+- [Nvidia seeks solutions as AI data centers push power supply limits](https://www.digitimes.com/news/a20251216PD205/nvidia-data-power-supply-growth-electricity.html) (Published: 2025-12-16)
 - [Tesla stock soars to record high today: What's driving TSLA rally?](https://economictimes.indiatimes.com/news/international/us/tesla-stock-soars-to-record-high-today-whats-driving-tsla-rally/articleshow/126025023.cms) (Published: 2025-12-16)
 - [Variety Announces Additional Speakers and Sessions for Expanded CES 2026 Programming](https://variety.com/2025/biz/news/variety-speakers-sessions-expanded-ces-2026-programming-1236610390/) (Published: 2025-12-16)
 - [This Is How China Is Rapidly Becoming The World’s Most Dominant Economic Superpower](https://www.activistpost.com/this-is-how-china-is-rapidly-becoming-the-worlds-most-dominant-economic-superpower/) (Published: 2025-12-16)
