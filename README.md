@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-17 22:47:21**_
+_Last updated: **2025-12-17 22:57:53**_
 
+- [Adaptive Security raises $81M to expand AI-driven social engineering defense platform](https://siliconangle.com/2025/12/16/adaptive-security-raises-81m-expand-ai-driven-social-engineering-defense-platform/) (Published: 2025-12-16)
 - [Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?](https://cointelegraph.com/news/spot-bitcoin-etfs-see-358m-outflow-are-investors-abandoning-btc) (Published: 2025-12-16)
 - [CoreWeave Has Lost a Staggering Amount of Stock Value Over the Past Six Months](http://futurism.com/artificial-intelligence/coreweave-lost-value-six-months) (Published: 2025-12-16)
 - [livekit-plugins-nvidia 1.3.7](https://pypi.org/project/livekit-plugins-nvidia/1.3.7/) (Published: 2025-12-16)
@@ -9,4 +10,3 @@ _Last updated: **2025-12-17 22:47:21**_
 - [Show HN: Deterministic PCIe Diagnostics for GPUs on Linux](https://github.com/parallelArchitect/gpu-pcie-diagnostic) (Published: 2025-12-16)
 - [The Evidence Is Piling Up: Should You Buy Nvidia Before 2026?](https://biztoc.com/x/1918805b4753b7c2) (Published: 2025-12-16)
 - [Optimizing Semiconductor Defect Classification with Generative AI and Vision Foundation Models](https://developer.nvidia.com/blog/optimizing-semiconductor-defect-classification-with-generative-ai-and-vision-foundation-models/) (Published: 2025-12-16)
-- [Accelerating Long-Context Inference with Skip Softmax in NVIDIA TensorRT-LLM](https://developer.nvidia.com/blog/accelerating-long-context-inference-with-skip-softmax-in-nvidia-tensorrt-llm/) (Published: 2025-12-16)
