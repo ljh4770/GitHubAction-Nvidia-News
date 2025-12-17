@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-17 21:49:40**_
+_Last updated: **2025-12-17 21:59:59**_
 
 - [Jim Cramer Says It's 'Time To Sell' This AI Infrastructure Stock Amid Steep Pullback, Despite New Partnerships, Bullish Analyst Ratings](https://finance.yahoo.com/news/jim-cramer-says-time-sell-213044796.html) (Published: 2025-12-16)
 - [Show HN: Deterministic PCIe Diagnostics for GPUs on Linux](https://github.com/parallelArchitect/gpu-pcie-diagnostic) (Published: 2025-12-16)
