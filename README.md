@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-17 22:30:37**_
+_Last updated: **2025-12-17 22:47:21**_
 
 - [Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?](https://cointelegraph.com/news/spot-bitcoin-etfs-see-358m-outflow-are-investors-abandoning-btc) (Published: 2025-12-16)
 - [CoreWeave Has Lost a Staggering Amount of Stock Value Over the Past Six Months](http://futurism.com/artificial-intelligence/coreweave-lost-value-six-months) (Published: 2025-12-16)
