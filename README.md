@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-17 07:54:39**_
+_Last updated: **2025-12-17 08:28:54**_
 
 - [Want to run and train an LLM model locally? I found the Minisforum MS-S1 Max mini PC to be an affordable option in my tests](https://www.techradar.com/computing/minisforum-ms-s1-max-mini-pc-review) (Published: 2025-12-16)
 - [Nasdaq seeks to extend its trading hours](https://www.rte.ie/news/business/2025/1216/1549230-nasdaq-seeks-to-extend-its-trading-hours/) (Published: 2025-12-16)
