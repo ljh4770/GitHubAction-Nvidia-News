@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-17 03:51:57**_
+_Last updated: **2025-12-17 04:25:37**_
 
 - [Japan's Nikkei falls 1% as AI stocks slip ahead of US jobs data](https://economictimes.indiatimes.com/markets/stocks/news/japans-nikkei-falls-1-as-ai-stocks-slip-ahead-of-us-jobs-data/articleshow/125994287.cms) (Published: 2025-12-16)
 - [Samsung nears deal to supply over 30% of Nvidia's HBM4 memory in 2026](https://www.digitimes.com/news/a20251216PD218/hbm4-samsung-nvidia-2026-sk-hynix.html) (Published: 2025-12-16)
