@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-18 08:34:04**_
+_Last updated: **2025-12-18 08:56:48**_
 
+- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Micron, Broadcom, Warner Bros, Nvidia, More Movers; Trump Venezuela Fears Lift Oil](https://biztoc.com/x/0ac0e94352dc101e) (Published: 2025-12-17)
+- [NVIDIA Is Now Rumored to Significantly Reduce the Production of RTX 50 GPUs, as It Factors in the Long-Term Impact of Memory Shortages](https://wccftech.com/nvidia-is-now-rumored-to-reduce-the-production-of-rtx-50-gpus/) (Published: 2025-12-17)
 - [Amazon in talks to invest about $10 billion in OpenAI](https://www.rte.ie/news/business/2025/1217/1549413-amazon-in-talks-to-invest-about-10-billion-in-openai/) (Published: 2025-12-17)
 - [This big-screen Lenovo carries portable aura for serious creatives](https://www.creativebloq.com/tech/laptops/lenovo-yoga-pro-9i-gen-10-aura-edition-review-portable-power-for-serious-creatives) (Published: 2025-12-17)
 - [OpenAI in talks to raise US$10 billion from Amazon and adopt Trainium chips](https://biztoc.com/x/63064a52a5d6afec) (Published: 2025-12-17)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-18 08:34:04**_
 - [livekit-plugins-nvidia 1.3.8](https://pypi.org/project/livekit-plugins-nvidia/1.3.8/) (Published: 2025-12-17)
 - [TornadoVM 2.0 Brings Automatic GPU Acceleration and LLM support to Java](https://www.infoq.com/news/2025/12/tornadovm-20-gpu-llm/) (Published: 2025-12-17)
 - [Top 10 most valuable companies in the world 2025: NVIDIA overtakes Microsoft and Apple as #1, with India’s largest company at #74](https://indianexpress.com/article/trending/top-10-listing/top-10-most-valuable-companies-in-the-world-2025-hurun-global-1000-10424256/) (Published: 2025-12-17)
-- [OpenAI in talks with Amazon about investment that could exceed $10 billion](https://www.cnbc.com/2025/12/16/openai-in-talks-with-amazon-about-investment-could-top-10-billion.html) (Published: 2025-12-17)
-- [OpenAI in talks to raise at least $12.9 billion from Amazon and use its AI chips](https://www.straitstimes.com/business/companies-markets/openai-in-talks-to-raise-at-least-12-9-billion-from-amazon-and-use-its-ai-chips) (Published: 2025-12-17)
