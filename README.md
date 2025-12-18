@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-18 04:37:43**_
+_Last updated: **2025-12-18 04:58:36**_
 
+- [OpenAI in talks with Amazon about investment that could exceed $10 billion](https://www.cnbc.com/2025/12/16/openai-in-talks-with-amazon-about-investment-could-top-10-billion.html) (Published: 2025-12-17)
 - [OpenAI in talks to raise at least $12.9 billion from Amazon and use its AI chips](https://www.straitstimes.com/business/companies-markets/openai-in-talks-to-raise-at-least-12-9-billion-from-amazon-and-use-its-ai-chips) (Published: 2025-12-17)
 - [Stock futures slip as traders absorb shaky U.S. economic data: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=180407911) (Published: 2025-12-17)
 - [China's AI chip war: Domestic GPUs challenge Nvidia H200 dominance](https://www.digitimes.com/news/a20251217PD210/biren-loongson-ai-chip-gpu-nvidia.html) (Published: 2025-12-17)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-18 04:37:43**_
 - [Elon Musk now richer than Jeff Bezos, Mark Zuckerberg and Jensen Huang, combined — he still has $69 billion to spare](https://www.livemint.com/companies/people/elon-musk-now-richer-than-jeff-bezos-mark-zuckerberg-and-jensen-huang-combined-he-still-has-69-billion-to-spare-11765936387564.html) (Published: 2025-12-17)
 - [MetaX soars 700% in debut as China AI chips push lures investors](https://finance.yahoo.com/news/chinese-ai-chipmaker-metax-shares-021911316.html) (Published: 2025-12-17)
 - [Nvidia H200 volatility disrupts China's SOE compute strategy](https://www.digitimes.com/news/a20251217PD203/nvidia-gpu-high-end-capacity-china.html) (Published: 2025-12-17)
-- [aule-attention 0.4.0](https://pypi.org/project/aule-attention/0.4.0/) (Published: 2025-12-17)
