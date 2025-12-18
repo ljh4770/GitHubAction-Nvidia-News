@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-18 07:45:53**_
+_Last updated: **2025-12-18 07:56:22**_
 
 - [Samsung Foundry reportedly wins Intel 8nm order after Nvidia](https://www.digitimes.com/news/a20251217PD225/samsung-intel-nvidia-samsung-foundry-chips.html) (Published: 2025-12-17)
 - [Intel close to tapping Samsung for 8nm chip development](https://www.sammobile.com/news/intel-close-to-tapping-samsung-for-8nm-chip-development/) (Published: 2025-12-17)
