@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-18 23:45:30**_
+_Last updated: **2025-12-18 23:56:09**_
 
 - [Stock market today: Why S&P 500, Nasdaq, Dow dropped - AI stocks crash hit Oracle, Nvidia, AMD, Broadcom, Alphabet](https://economictimes.indiatimes.com/news/international/us/stock-market-today-why-sp-500-nasdaq-dow-dropped-ai-stocks-crash-hit-oracle-nvidia-amd-broadcom-alphabet/articleshow/126047893.cms) (Published: 2025-12-17)
 - [Micron crushes expectations on earnings, revenue and guidance amid soaring AI memory demand](https://siliconangle.com/2025/12/17/micron-crushes-expectations-earnings-revenue-guidance-amid-soaring-ai-memory-demand/) (Published: 2025-12-17)
