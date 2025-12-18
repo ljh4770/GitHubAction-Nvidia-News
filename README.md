@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-18 04:58:36**_
+_Last updated: **2025-12-18 05:32:12**_
 
 - [OpenAI in talks with Amazon about investment that could exceed $10 billion](https://www.cnbc.com/2025/12/16/openai-in-talks-with-amazon-about-investment-could-top-10-billion.html) (Published: 2025-12-17)
 - [OpenAI in talks to raise at least $12.9 billion from Amazon and use its AI chips](https://www.straitstimes.com/business/companies-markets/openai-in-talks-to-raise-at-least-12-9-billion-from-amazon-and-use-its-ai-chips) (Published: 2025-12-17)
