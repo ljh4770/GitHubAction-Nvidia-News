@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-18 06:46:14**_
+_Last updated: **2025-12-18 07:01:44**_
 
 - [livekit-plugins-nvidia 1.3.8](https://pypi.org/project/livekit-plugins-nvidia/1.3.8/) (Published: 2025-12-17)
 - [TornadoVM 2.0 Brings Automatic GPU Acceleration and LLM support to Java](https://www.infoq.com/news/2025/12/tornadovm-20-gpu-llm/) (Published: 2025-12-17)
