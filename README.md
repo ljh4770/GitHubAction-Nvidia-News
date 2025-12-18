@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-18 08:56:48**_
+_Last updated: **2025-12-18 09:31:59**_
 
-- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Micron, Broadcom, Warner Bros, Nvidia, More Movers; Trump Venezuela Fears Lift Oil](https://biztoc.com/x/0ac0e94352dc101e) (Published: 2025-12-17)
-- [NVIDIA Is Now Rumored to Significantly Reduce the Production of RTX 50 GPUs, as It Factors in the Long-Term Impact of Memory Shortages](https://wccftech.com/nvidia-is-now-rumored-to-reduce-the-production-of-rtx-50-gpus/) (Published: 2025-12-17)
-- [Amazon in talks to invest about $10 billion in OpenAI](https://www.rte.ie/news/business/2025/1217/1549413-amazon-in-talks-to-invest-about-10-billion-in-openai/) (Published: 2025-12-17)
-- [This big-screen Lenovo carries portable aura for serious creatives](https://www.creativebloq.com/tech/laptops/lenovo-yoga-pro-9i-gen-10-aura-edition-review-portable-power-for-serious-creatives) (Published: 2025-12-17)
-- [OpenAI in talks to raise US$10 billion from Amazon and adopt Trainium chips](https://biztoc.com/x/63064a52a5d6afec) (Published: 2025-12-17)
-- [Samsung Foundry reportedly wins Intel 8nm order after Nvidia](https://www.digitimes.com/news/a20251217PD225/samsung-intel-nvidia-samsung-foundry-chips.html) (Published: 2025-12-17)
-- [Intel close to tapping Samsung for 8nm chip development](https://www.sammobile.com/news/intel-close-to-tapping-samsung-for-8nm-chip-development/) (Published: 2025-12-17)
-- [livekit-plugins-nvidia 1.3.8](https://pypi.org/project/livekit-plugins-nvidia/1.3.8/) (Published: 2025-12-17)
-- [TornadoVM 2.0 Brings Automatic GPU Acceleration and LLM support to Java](https://www.infoq.com/news/2025/12/tornadovm-20-gpu-llm/) (Published: 2025-12-17)
-- [Top 10 most valuable companies in the world 2025: NVIDIA overtakes Microsoft and Apple as #1, with India’s largest company at #74](https://indianexpress.com/article/trending/top-10-listing/top-10-most-valuable-companies-in-the-world-2025-hurun-global-1000-10424256/) (Published: 2025-12-17)
+- [The ugly truth at the heart of America's miserable job market](https://www.businessinsider.com/forget-ai-heres-the-real-reason-the-job-market-sucks-2025-12) (Published: 2025-12-17)
+- [BrowserStack Bridges Developer-QA Productivity Gap with Test Failure Analysis Agent](https://www.thehindubusinessline.com/brandhub/pr-release/browserstack-bridges-developer-qa-productivity-gap-with-test-failure-analysis-agent/article70406234.ece) (Published: 2025-12-17)
+- [nvfuser-cu128 0.2.35.dev20251217](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20251217/) (Published: 2025-12-17)
+- [nvfuser-cu126 0.2.35.dev20251217](https://pypi.org/project/nvfuser-cu126/0.2.35.dev20251217/) (Published: 2025-12-17)
+- [nvfuser-cu130 0.2.35.dev20251217](https://pypi.org/project/nvfuser-cu130/0.2.35.dev20251217/) (Published: 2025-12-17)
+- [Oil and Gold Advance After Venezuela; Dollar Rises: Markets Wrap](https://financialpost.com/pmn/business-pmn/oil-and-gold-advance-after-venezuela-dollar-rises-markets-wrap) (Published: 2025-12-17)
+- [US stock futures today show modest gains as Dow, S&P 500, Nasdaq turn green — top gainers and losers to watch](https://economictimes.indiatimes.com/news/international/us/us-stock-futures-today-show-modest-gains-as-dow-sp-500-nasdaq-turn-green-top-gainers-and-losers-to-watch/articleshow/126035147.cms) (Published: 2025-12-17)
+- [The Genesis Mission and Quantum Technologies](https://warontherocks.com/2025/12/the-genesis-mission-and-quantum-technologies/) (Published: 2025-12-17)
+- [Microsoft, Apple, Meta and Amazon’s stocks are lagging the S&P 500 this year—but Google is up 62% and AI investors think it has room to run](https://fortune.com/2025/12/17/microsoft-apple-meta-and-amazons-stocks-are-lagging-the-sp-500-this-year-but-google-is-up-62-and-ai-investors-think-it-has-room-to-run/) (Published: 2025-12-17)
