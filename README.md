@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-18 10:56:54**_
+_Last updated: **2025-12-18 11:23:28**_
 
-- [NVIDIA 30B Nemotron Review : Speedy Local AI Model with 1M Context Window](https://www.geeky-gadgets.com/nvidia-neotron-3-nano-30b-review/) (Published: 2025-12-17)
-- [Amazon in talks to invest $10 billion in OpenAI and supply its Trainium chips](https://slashdot.org/firehose.pl?op=view&amp;id=180409651) (Published: 2025-12-17)
-- [OpenAI in Initial Talks to Raise $10 Billion From Amazon](https://finance.yahoo.com/video/openai-initial-talks-raise-10-104609545.html) (Published: 2025-12-17)
-- [OLED Clarity vs QHD+ Speed: Legion Pro 7i and Strix G16 Compared for Real Play](https://www.geeky-gadgets.com/rtx-5080-rtx-5070ti-laptops-compared/) (Published: 2025-12-17)
-- [nvidia-nat-redis 1.5.0a20251217](https://pypi.org/project/nvidia-nat-redis/1.5.0a20251217/) (Published: 2025-12-17)
-- [nvidia-nat-data-flywheel 1.5.0a20251217](https://pypi.org/project/nvidia-nat-data-flywheel/1.5.0a20251217/) (Published: 2025-12-17)
-- [nvidia-nat-opentelemetry 1.5.0a20251217](https://pypi.org/project/nvidia-nat-opentelemetry/1.5.0a20251217/) (Published: 2025-12-17)
-- [nvidia-nat-llama-index 1.5.0a20251217](https://pypi.org/project/nvidia-nat-llama-index/1.5.0a20251217/) (Published: 2025-12-17)
-- [nvidia-nat-all 1.5.0a20251217](https://pypi.org/project/nvidia-nat-all/1.5.0a20251217/) (Published: 2025-12-17)
+- [nvidia-nat-nemo-customizer 1.4.0a20251217](https://pypi.org/project/nvidia-nat-nemo-customizer/1.4.0a20251217/) (Published: 2025-12-17)
+- [nvidia-nat-s3 1.4.0a20251217](https://pypi.org/project/nvidia-nat-s3/1.4.0a20251217/) (Published: 2025-12-17)
+- [nvidia-nat-weave 1.4.0a20251217](https://pypi.org/project/nvidia-nat-weave/1.4.0a20251217/) (Published: 2025-12-17)
+- [aiqtoolkit-crewai 1.4.0a20251217](https://pypi.org/project/aiqtoolkit-crewai/1.4.0a20251217/) (Published: 2025-12-17)
+- [aiqtoolkit-weave 1.4.0a20251217](https://pypi.org/project/aiqtoolkit-weave/1.4.0a20251217/) (Published: 2025-12-17)
+- [aiqtoolkit-test 1.4.0a20251217](https://pypi.org/project/aiqtoolkit-test/1.4.0a20251217/) (Published: 2025-12-17)
+- [aiqtoolkit-semantic-kernel 1.4.0a20251217](https://pypi.org/project/aiqtoolkit-semantic-kernel/1.4.0a20251217/) (Published: 2025-12-17)
+- [aiqtoolkit-agno 1.4.0a20251217](https://pypi.org/project/aiqtoolkit-agno/1.4.0a20251217/) (Published: 2025-12-17)
+- [aiqtoolkit-langchain 1.4.0a20251217](https://pypi.org/project/aiqtoolkit-langchain/1.4.0a20251217/) (Published: 2025-12-17)
+- [aiqtoolkit-zep-cloud 1.4.0a20251217](https://pypi.org/project/aiqtoolkit-zep-cloud/1.4.0a20251217/) (Published: 2025-12-17)
