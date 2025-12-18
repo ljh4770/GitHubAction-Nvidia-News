@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-18 20:25:36**_
+_Last updated: **2025-12-18 20:42:21**_
 
+- [Here's why Nvidia, Broadcom and other AI stocks are falling sharply today](https://biztoc.com/x/10f17dd49263758d) (Published: 2025-12-17)
 - [The Acer Predator Helios Neo 16-Inch OLED RTX 5070 Ti Gaming Laptop Drops to $1,450](https://www.ign.com/articles/acer-predator-helios-neo-rtx-5070-ti-gaming-laptop-deal-christmas-sale) (Published: 2025-12-17)
 - [Will Nvidia Turbocharge China’s AI Military?](https://biztoc.com/x/d388f197411e7e69) (Published: 2025-12-17)
 - [Experts say Amazon is playing the long game with its potential $10 billion OpenAI deal: ‘ChatGPT is still seen as the Kleenex of AI’](https://fortune.com/2025/12/17/amazon-openai-deal-trainium-chips-ai-charles-fitzgerald-anshel-sag/) (Published: 2025-12-17)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-18 20:25:36**_
 - [Google aims to make its TPUs better at running PyTorch](https://www.itnews.com.au/news/google-aims-to-make-its-tpus-better-at-running-pytorch-622648?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed) (Published: 2025-12-17)
 - [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.itnews.com.au/news/how-china-built-its-manhattan-project-to-rival-the-west-in-ai-chips-622647?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed) (Published: 2025-12-17)
 - [Google aims to make its TPUs better at running PyTorch](https://www.itnews.com.au/news/google-aims-to-make-its-tpus-better-at-running-pytorch-622648?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed) (Published: 2025-12-17)
-- [Google aims to make its TPUs better at running PyTorch](https://www.itnews.com.au/news/google-aims-to-make-its-tpus-better-at-running-pytorch-622648?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+) (Published: 2025-12-17)
