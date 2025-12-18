@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-18 19:46:17**_
+_Last updated: **2025-12-18 19:56:44**_
 
+- [NVIDIA RTX 50 GPU supply may decrease by nearly half in 2026](https://www.androidheadlines.com/2025/12/nvidia-rtx-50-gpu-supply-may-decrease-by-nearly-half-in-2026.html) (Published: 2025-12-17)
+- [Enterprise AI moves from pilots to production as HPE tackles the execution problem](https://siliconangle.com/2025/12/17/enterprise-ai-hpe-tackles-execution-problem-hpeaimomentum/) (Published: 2025-12-17)
+- [Google aims to make its TPUs better at running PyTorch](https://www.itnews.com.au/news/google-aims-to-make-its-tpus-better-at-running-pytorch-622648?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed) (Published: 2025-12-17)
+- [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.itnews.com.au/news/how-china-built-its-manhattan-project-to-rival-the-west-in-ai-chips-622647?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed) (Published: 2025-12-17)
+- [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.itnews.com.au/news/how-china-built-its-manhattan-project-to-rival-the-west-in-ai-chips-622647?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed) (Published: 2025-12-17)
+- [Google aims to make its TPUs better at running PyTorch](https://www.itnews.com.au/news/google-aims-to-make-its-tpus-better-at-running-pytorch-622648?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed) (Published: 2025-12-17)
+- [Google aims to make its TPUs better at running PyTorch](https://www.itnews.com.au/news/google-aims-to-make-its-tpus-better-at-running-pytorch-622648?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+) (Published: 2025-12-17)
+- [How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.itnews.com.au/news/how-china-built-its-manhattan-project-to-rival-the-west-in-ai-chips-622647?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+) (Published: 2025-12-17)
 - [nautobot-nvdatamodels 0.16.0](https://pypi.org/project/nautobot-nvdatamodels/0.16.0/) (Published: 2025-12-17)
 - [nautobot-nvdatamodels added to PyPI](https://pypi.org/project/nautobot-nvdatamodels/) (Published: 2025-12-17)
-- [ET Awards for Corporate Excellence 2025: Bharti Airtel named 'Company of the Year'](https://economictimes.indiatimes.com/industry/telecom/telecom-news/et-awards-for-corporate-excellence-2025-bharti-airtel-named-company-of-the-year/articleshow/126045104.cms) (Published: 2025-12-17)
-- [Hyperliquid is erasing $1 billion in token supply, but the market is still punishing the wrong metric](https://cryptoslate.com/hyperliquid-is-erasing-1-billion-in-token-supply-but-the-market-is-still-punishing-the-wrong-metric/) (Published: 2025-12-17)
-- [DRAM crisis could cause new GPU shortages, Nvidia expected to drastically cut GeForce RTX production](https://www.notebookcheck.net/DRAM-crisis-could-cause-new-GPU-shortages-Nvidia-expected-to-drastically-cut-GeForce-RTX-production.1187809.0.html) (Published: 2025-12-17)
-- [We’ll realize there’s no political journalism without tech journalism](https://www.niemanlab.org/2025/12/well-realize-theres-no-political-journalism-without-tech-journalism/) (Published: 2025-12-17)
-- [Fooocus 2.5.5](https://www.majorgeeks.com/files/details/fooocus.html) (Published: 2025-12-17)
-- [Nutanix broadens sovereign cloud support](https://siliconangle.com/2025/12/17/nutanix-broadens-sovereign-cloud-support/) (Published: 2025-12-17)
-- [Trump Asked Xi Jinping to Free Anti-Communist Hong Kong Media Mogul Jimmy Lai](https://freerepublic.com/focus/f-bloggers/4357843/posts) (Published: 2025-12-17)
-- [All aglow about DCs, investors launch $300M at microreactor startup](https://www.theregister.com/2025/12/17/smr_investment/) (Published: 2025-12-17)
