@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-19 21:38:49**_
+_Last updated: **2025-12-19 21:49:26**_
 
+- [AI Chip Lifespans: A Note on the Secondary Market](https://blog.citp.princeton.edu/2025/12/18/ai-chip-lifespans-a-note-on-the-secondary-market/) (Published: 2025-12-18)
+- [Bitwise Believes Bitcoin Will Deviate From Its Four-Year Cycle And Hit New All-Time Highs In 2026](https://zycrypto.com/bitwise-believes-bitcoin-will-deviate-from-its-four-year-cycle-and-hit-new-all-time-highs-in-2026/) (Published: 2025-12-18)
 - [Stocks Break Losing Streak After Inflation Update](https://www.newser.com/story/380648/stocks-break-losing-streak-after-inflation-update.html) (Published: 2025-12-18)
 - [AI coding startup Lovable raises $330M round backed by Nvidia, other tech heavyweights](https://siliconangle.com/2025/12/18/ai-coding-startup-lovable-raises-330m-round-backed-nvidia-tech-heavyweights/) (Published: 2025-12-18)
 - [Congressional stock trading ban bill to get a vote in new year, House Republicans say](https://www.cnbc.com/2025/12/18/congress-stock-trading-ban-trump.html) (Published: 2025-12-18)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-19 21:38:49**_
 - [US Energy Department taps Big Tech for AI-powered research push](https://www.channelnewsasia.com/business/us-energy-department-taps-big-tech-ai-powered-research-push-5639126) (Published: 2025-12-18)
 - [US Energy Department signs AI collaboration deals with Big Tech for Genesis Mission](https://www.channelnewsasia.com/business/us-energy-department-signs-ai-collaboration-deals-big-tech-genesis-mission-5639126) (Published: 2025-12-18)
 - [Bitcoin trips at $90K despite CPI showing curbed US inflation: What gives?](https://cointelegraph.com/news/bitcoin-trips-at-dollar90k-despite-cpi-showing-curbed-us-inflation-what-gives) (Published: 2025-12-18)
-- [Wall Street is raving about Micron earnings as one of the biggest-ever surprises for a chipmaker](https://www.businessinsider.com/micron-earnings-mu-stock-ai-chip-stocks-wall-street-reactions-2025-12) (Published: 2025-12-18)
-- [DVCon U.S. 2026 Announces Keynote Speakers, Tutorials and Workshops](https://www.globenewswire.com/news-release/2025/12/18/3208136/0/en/DVCon-U-S-2026-Announces-Keynote-Speakers-Tutorials-and-Workshops.html) (Published: 2025-12-18)
