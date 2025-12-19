@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-19 13:36:48**_
+_Last updated: **2025-12-19 13:53:02**_
 
+- [ITOT’s 37% Concentration in Top Ten Holdings Could Make or Break 2026 Returns](https://biztoc.com/x/4e7e8993c4ebb280) (Published: 2025-12-18)
 - [Foremost Clean Energy Issues Letter to Shareholders](https://financialpost.com/globe-newswire/foremost-clean-energy-issues-letter-to-shareholders) (Published: 2025-12-18)
 - [Nvidia Might Cut RTX 50 GPU Supply by Up to 40% in 2026 Due to Memory Shortages - PCMag](https://slashdot.org/firehose.pl?op=view&amp;id=180416277) (Published: 2025-12-18)
 - [Foremost Clean Energy Issues Letter to Shareholders](https://www.globenewswire.com/news-release/2025/12/18/3207710/0/en/Foremost-Clean-Energy-Issues-Letter-to-Shareholders.html) (Published: 2025-12-18)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-19 13:36:48**_
 - [Got $1,000? 3 Tech Stocks to Buy and Hold for Decades](https://biztoc.com/x/07d87c7913484749) (Published: 2025-12-18)
 - [NVIDIA put buyer realizes 21% same-day gains](https://thefly.com/permalinks/entry.php/id4259353/NVDA-NVIDIA-put-buyer-realizes--sameday-gains) (Published: 2025-12-18)
 - [Grab a punchy RTX 5060 Ti-powered iBuypower gaming PC for less than $900 — it even packs 32GB of DDR5 RGB RAM and an 8-core Ryzen processor](https://www.tomshardware.com/desktops/gaming-pcs/grab-a-punchy-rtx-5060-ti-powered-ibuypower-gaming-pc-for-less-than-usd900-it-even-packs-32gb-of-ddr5-rgb-ram-and-an-8-core-ryzen-processor) (Published: 2025-12-18)
-- [Salarius Pharmaceuticals Announces Planned Corporate Name and Ticker Symbol Change to Decoy Therapeutics, Reflecting Strategic Pivot to Next-Generation Antiviral and Peptide-Conjugate Platform](https://www.globenewswire.com/news-release/2025/12/18/3207623/0/en/Salarius-Pharmaceuticals-Announces-Planned-Corporate-Name-and-Ticker-Symbol-Change-to-Decoy-Therapeutics-Reflecting-Strategic-Pivot-to-Next-Generation-Antiviral-and-Peptide-Conjuga.html) (Published: 2025-12-18)
