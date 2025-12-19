@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-19 17:01:03**_
+_Last updated: **2025-12-19 17:27:30**_
 
+- [Build and deploy scalable AI agents with NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents](https://aws.amazon.com/blogs/machine-learning/build-and-deploy-scalable-ai-agents-with-nvidia-nemo-amazon-bedrock-agentcore-and-strands-agents/) (Published: 2025-12-18)
+- [Netanyahu: Alliances are made with the strong. Peace is made with the strong](https://www.israelnationalnews.com/news/419573) (Published: 2025-12-18)
+- [Huawei's AI chip capabilities still pale in comparison to American silicon — report from U.S. council details that despite fears, Nvidia continues to lead by a wide margin](https://www.tomshardware.com/tech-industry/semiconductors/huawei-still-cant-match-nvidia-on-ai-chips-says-cfr-report) (Published: 2025-12-18)
+- [OpenAI is a house still under construction — but no one agrees what it’s made of](https://fortune.com/2025/12/18/openai-is-a-house-still-under-construction-but-no-one-agrees-what-its-made-of/) (Published: 2025-12-18)
+- [US stocks jump after an encouraging inflation update, as Micron helps AI stocks stop their slide](https://www.bostonherald.com/2025/12/18/financial-markets-dec-18/) (Published: 2025-12-18)
+- [NVIDIA and AMD Explore Intel 14A Node, Apple and Broadcom Come After Intel EMIB Packaging](https://www.techpowerup.com/344228/nvidia-and-amd-explore-intel-14a-node-apple-and-broadcom-come-after-intel-emib-packaging) (Published: 2025-12-18)
+- [NVIDIA and AMD Explore Intel 14A Node, Apple and Broadcom Considering Intel EMIB Packaging](https://www.techpowerup.com/344228/nvidia-and-amd-explore-intel-14a-node-apple-and-broadcom-considering-intel-emib-packaging) (Published: 2025-12-18)
+- [(PR) NVIDIA Announces General Availability of RTX PRO 5000 72 GB GPU](https://www.techpowerup.com/344227/nvidia-announces-general-availability-of-rtx-pro-5000-72-gb-gpu) (Published: 2025-12-18)
 - [Coinbase pushes ‘everything exchange’ strategy with stock trading – Details](https://ambcrypto.com/coinbase-pushes-everything-exchange-strategy-with-stock-trading-details/) (Published: 2025-12-18)
 - [Ex-ASML workers reverse-engineered state of the art chipmaking machines to get China far closer than previously thought to independence from foreign tech](https://www.pcgamer.com/hardware/processors/ex-asml-workers-reverse-engineered-state-of-the-art-chipmaking-machines-to-get-china-far-closer-than-previously-thought-to-independence-from-foreign-tech/) (Published: 2025-12-18)
-- [Micron stock soars on earnings beat amid 'unprecedented' AI-fueled demand for memory chips](https://finance.yahoo.com/news/micron-stock-soars-on-earnings-beat-amid-unprecedented-ai-fueled-demand-for-memory-chips-164848986.html) (Published: 2025-12-18)
-- [NVIDIA release Linux driver version 590.48.01](https://www.gamingonlinux.com/2025/12/nvidia-release-linux-driver-version-590-48-01/.) (Published: 2025-12-18)
-- [Forget Nvidia and Broadcom. This Forgotten Retail Stock Is a Top Performer in 2025](https://biztoc.com/x/02ca2374a9216ecd) (Published: 2025-12-18)
-- [Larian Studios CEO says RAM crisis will affect game development – but I think it's actually a blessing in disguise](https://www.techradar.com/computing/memory/larian-studios-ceo-says-ram-crisis-will-affect-game-development-but-i-think-its-actually-a-blessing-in-disguise) (Published: 2025-12-18)
-- [JPMorgan flags 6 stocks that could be due for a sudden pullback — why investors may want to tread carefully](https://economictimes.indiatimes.com/news/international/us/jpmorgan-flags-6-stocks-that-could-be-due-for-a-sudden-pullback-why-investors-may-want-to-tread-carefully/articleshow/126060924.cms) (Published: 2025-12-18)
-- [Yakuza Kiwami 2, Splitgate: Arena Reloaded, and ARK: Lost Colony Get DLSS 4 Support, New GeForce Driver Released](https://wccftech.com/nvidia-dlss-4-support-yakuza-kiwami-2-splitgate-arena-reloaded-ark-lost-colony/) (Published: 2025-12-18)
-- [Mixed options sentiment in NVIDIA with shares up 2.47%](https://thefly.com/permalinks/entry.php/id4259673/NVDA-Mixed-options-sentiment-in-NVIDIA-with-shares-up-) (Published: 2025-12-18)
-- [Micron stock soars 11% after crushing Q1 results and strong forward guidance – will MU stock keep rising as analysts call it a strong buy?](https://economictimes.indiatimes.com/news/international/us/micron-stock-soars-11-after-crushing-q1-results-and-strong-forward-guidance-will-mu-stock-keep-rising-as-analysts-call-it-a-strong-buy/articleshow/126060793.cms) (Published: 2025-12-18)
