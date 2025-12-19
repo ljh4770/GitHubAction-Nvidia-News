@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-19 17:27:30**_
+_Last updated: **2025-12-19 17:40:49**_
 
 - [Build and deploy scalable AI agents with NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents](https://aws.amazon.com/blogs/machine-learning/build-and-deploy-scalable-ai-agents-with-nvidia-nemo-amazon-bedrock-agentcore-and-strands-agents/) (Published: 2025-12-18)
 - [Netanyahu: Alliances are made with the strong. Peace is made with the strong](https://www.israelnationalnews.com/news/419573) (Published: 2025-12-18)
