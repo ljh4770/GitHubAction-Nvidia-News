@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-19 14:41:21**_
+_Last updated: **2025-12-19 14:54:52**_
 
+- ["Unprecedented high demand from the AI industry" — G.Skill succinctly addresses the cause of the DRAM shortage and spiking consumer prices](https://www.windowscentral.com/hardware/g-skill-ram-price-update-ai) (Published: 2025-12-18)
 - [ITOT’s 37% Concentration in Top Ten Holdings Could Make or Break 2026 Returns](https://247wallst.com/investing/2025/12/18/itots-37-concentration-in-top-ten-holdings-could-make-or-break-2026-returns/) (Published: 2025-12-18)
 - [Google and Nvidia VC arms back vibe coding startup Lovable at $6.6 billion valuation](https://biztoc.com/x/fb73ee48124df7c4) (Published: 2025-12-18)
 - [Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation eases in November, Micron boosts tech](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-eases-in-november-micron-boosts-tech-143506528.html) (Published: 2025-12-18)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-19 14:41:21**_
 - [Micron stock pops 14% as AI memory demand soars: 'We are more than sold out'](https://www.cnbc.com/2025/12/18/micron-mu-stock-earnings-ai-memory-demand.html) (Published: 2025-12-18)
 - [Apple Vision Pro (M5)](https://uk.pcmag.com/vr-1/162141/apple-vision-pro-m5) (Published: 2025-12-18)
 - [Apple Vision Pro (M5)](https://me.pcmag.com/en/vr/34255/apple-vision-pro-m5) (Published: 2025-12-18)
-- [Microcenter in-store - Nintendo Switch 2 Console $399.99 (7 replies)](https://slickdeals.net/f/18988513-microcenter-in-store-nintendo-switch-2-console-399-99) (Published: 2025-12-18)
