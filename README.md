@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-19 23:46:30**_
+_Last updated: **2025-12-19 23:56:59**_
 
+- [Deals for Today: Last Chance MTG Deals and a Bargain 2025 Apple iPad Air](https://www.ign.com/articles/deals-for-today-last-chance-mtg-deals-and-a-bargain-2025-apple-ipad-air) (Published: 2025-12-18)
 - [Oracle has one last Ampere hurrah - new cloud platforms offer up to 192 custom Arm cores, and aren't OCI exclusive, unlike Graviton or Cobalt](https://www.techradar.com/pro/oracle-has-one-last-ampere-hurrah-new-cloud-platforms-offer-up-to-192-custom-arm-cores-and-arent-oci-exclusive-unlike-graviton-or-cobalt) (Published: 2025-12-18)
 - [Stock market today: Dow, S&P 500, Nasdaq rise with Wall Street set to wrap up latest volatile week](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-with-wall-street-set-to-wrap-up-latest-volatile-week-231719825.html) (Published: 2025-12-18)
 - [Check out the three most-traded ETFs on CommSec this past year](https://www.fool.com.au/2025/12/19/check-out-the-three-most-traded-etfs-on-commsec-this-past-year/) (Published: 2025-12-18)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-19 23:46:30**_
 - [India shuts visa services at some missions in Bangladesh](https://timesofindia.indiatimes.com/world/south-asia/india-shuts-visa-services-at-some-missions-in-bangladesh/articleshow/126064891.cms) (Published: 2025-12-18)
 - [AI Chip Lifespans: A Note on the Secondary Market](https://blog.citp.princeton.edu/2025/12/18/ai-chip-lifespans-a-note-on-the-secondary-market/) (Published: 2025-12-18)
 - [Bitwise Believes Bitcoin Will Deviate From Its Four-Year Cycle And Hit New All-Time Highs In 2026](https://zycrypto.com/bitwise-believes-bitcoin-will-deviate-from-its-four-year-cycle-and-hit-new-all-time-highs-in-2026/) (Published: 2025-12-18)
-- [Stocks Break Losing Streak After Inflation Update](https://www.newser.com/story/380648/stocks-break-losing-streak-after-inflation-update.html) (Published: 2025-12-18)
