@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-19 23:20:44**_
+_Last updated: **2025-12-19 23:35:56**_
 
 - [Oracle has one last Ampere hurrah - new cloud platforms offer up to 192 custom Arm cores, and aren't OCI exclusive, unlike Graviton or Cobalt](https://www.techradar.com/pro/oracle-has-one-last-ampere-hurrah-new-cloud-platforms-offer-up-to-192-custom-arm-cores-and-arent-oci-exclusive-unlike-graviton-or-cobalt) (Published: 2025-12-18)
 - [Stock market today: Dow, S&P 500, Nasdaq rise with Wall Street set to wrap up latest volatile week](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-with-wall-street-set-to-wrap-up-latest-volatile-week-231719825.html) (Published: 2025-12-18)
