@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-19 22:45:35**_
+_Last updated: **2025-12-19 22:55:49**_
 
 - [Nvidia doubles down on open-source AI to cement GPU dominance amid rivals' retreat](https://www.digitimes.com/news/a20251218PD203/nvidia-gpu-software-acquisition-hardware.html) (Published: 2025-12-18)
 - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5) (Published: 2025-12-18)
