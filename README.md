@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-19 04:46:10**_
+_Last updated: **2025-12-19 05:01:38**_
 
 - [NVIDIA to build landmark AI campus in Kiryat Tivon](https://www.israelnationalnews.com/news/419532) (Published: 2025-12-18)
 - [The Tim Ferriss Show Transcripts: Bill Gurley (#840)](https://tim.blog/2025/12/17/bill-gurley-running-down-a-dream-transcript/) (Published: 2025-12-18)
