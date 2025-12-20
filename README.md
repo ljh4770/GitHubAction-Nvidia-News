@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 18:20:20**_
+_Last updated: **2025-12-20 18:43:39**_
 
+- [Lenovo Legion Pro Rollable concept gaming laptop’s 16 inch screen expands to 24 inches](https://liliputing.com/lenovo-legion-pro-rollable-concept-gaming-laptops-16-inch-screen-expands-to-24-inches/) (Published: 2025-12-19)
 - [AI chip firm Cerebras set to file for US IPO after delay, sources say](https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-firm-cerebras-set-to-file-for-us-ipo-after-delay-sources-say/articleshow/126082866.cms) (Published: 2025-12-19)
 - [Memory Suppliers Have Become the New “Santa Claus,” Selectively Handing Out DRAM Capacity to Customers, Says Taiwan’s Etron Chairman](https://wccftech.com/memory-suppliers-have-become-the-new-santa-claus/) (Published: 2025-12-19)
 - [Data center deals hit record $61 billion in 2025 amid global construction frenzy](https://freerepublic.com/focus/f-news/4358171/posts) (Published: 2025-12-19)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-20 18:20:20**_
 - [CXC Simulations Pro Lite Off-Road Racing Simulator](https://bringatrailer.com/listing/short-course-off-road-racing-simulator-truck/) (Published: 2025-12-19)
 - [Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) (Published: 2025-12-19)
 - [Nvidia-Intel deal cleared by US antitrust agencies](https://economictimes.indiatimes.com/tech/technology/nvidia-intel-deal-cleared-by-us-antitrust-agencies/articleshow/126081883.cms) (Published: 2025-12-19)
-- [Nasdaq rises again today: Nasdaq jumps more than 1% as AI stocks rebound; Oracle, Nvidia and Micron lead market rally](https://economictimes.indiatimes.com/news/international/us/nasdaq-rises-again-today-nasdaq-jumps-more-than-1-as-ai-stocks-rebound-oracle-nvidia-and-micron-lead-market-rally/articleshow/126081466.cms) (Published: 2025-12-19)
