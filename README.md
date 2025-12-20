@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 20:29:33**_
+_Last updated: **2025-12-20 20:43:31**_
 
 - [(PR) SAMSON Dev Team Confirms Minimum PC Spec Requirements in Extensive FAQ Article](https://www.techpowerup.com/344283/samson-dev-team-confirms-minimum-pc-spec-requirements-in-extensive-faq-article) (Published: 2025-12-19)
 - [(PR) Eurocom launches Raptor X18 Mobile Server with Core Ultra 9 275HX and GeForce RTX 5090](https://www.techpowerup.com/344280/eurocom-launches-raptor-x18-mobile-server-with-core-ultra-9-275hx-and-geforce-rtx-5090) (Published: 2025-12-19)
