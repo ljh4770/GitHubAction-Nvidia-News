@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 15:27:17**_
+_Last updated: **2025-12-20 15:41:28**_
 
+- [My perfect MacBook Pro replacement is this powerful Windows laptop I didn't see coming](https://www.zdnet.com/article/razer-blade-14-review/) (Published: 2025-12-19)
+- [Oracle's 7% Surge Pushes Tech-Heavy Nasdaq Up 1%](https://www.ndtvprofit.com/markets/us-stock-markets-today-nasdaq-sp-rise-as-ai-hot-bets-oracle-nvidia-surge) (Published: 2025-12-19)
 - [Exploring the Future: Real-Time AI Video Processing Unleashes New Opportunities for Companies Globally](https://www.globenewswire.com/news-release/2025/12/19/3208598/28124/en/Exploring-the-Future-Real-Time-AI-Video-Processing-Unleashes-New-Opportunities-for-Companies-Globally.html) (Published: 2025-12-19)
 - [Don't bother with mobile cloud gaming controllers that feel like toys — an 'Xbox Edition' of the "truly magnificent" Backbone Pro is finally down to a reasonable price](https://www.windowscentral.com/accessories/backbone-pro-xbox-edition-controller-december-2025) (Published: 2025-12-19)
 - [US stock market gaining massively today: Nasdaq, Dow, S&P 500 jump - Nvidia, Oracle lift tech stocks](https://economictimes.indiatimes.com/news/international/us/us-stock-market-gaining-massively-today-nasdaq-dow-sp-500-jump-nvidia-oracle-lift-tech-stocks/articleshow/126079902.cms) (Published: 2025-12-19)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-20 15:27:17**_
 - [pearOS is a Linux that falls rather close to the Apple tree](https://www.theregister.com/2025/12/19/pearos/) (Published: 2025-12-19)
 - [Investors can’t get enough of OpenAI and Databricks — Oracle, not so much](https://siliconangle.com/2025/12/19/investors-cant-get-enough-openai-databricks-oracle-not-much/) (Published: 2025-12-19)
 - [AI Update, December 19, 2025: AI News and Views From the Past Week](https://www.marketingprofs.com/opinions/2025/54138/ai-update-december-19-2025-ai-news-and-views-from-the-past-week) (Published: 2025-12-19)
-- [‘The rocket ship keeps going off’: inside the Nvidia phenomenon with author Stephen Witt](https://fortune.com/2025/12/19/nvidia-jensen-huang-book-thinking-machine-stephen-witt-interview/) (Published: 2025-12-19)
-- [opentslm added to PyPI](https://pypi.org/project/opentslm/) (Published: 2025-12-19)
