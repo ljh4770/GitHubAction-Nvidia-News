@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 01:55:11**_
+_Last updated: **2025-12-20 03:15:04**_
 
+- [Bitcoin Could Remain Calmer Than Nvidia Through 2026, Bitwise Predicts](https://bitcoinist.com/bitcoin-could-remain-calmer-than-nvidia-through-2026-bitwise-predicts/) (Published: 2025-12-19)
+- [US launches review of advanced Nvidia AI chip sales to China, sources say](https://www.channelnewsasia.com/world/us-review-advanced-nvidia-ai-chip-sales-china-5639666) (Published: 2025-12-19)
+- [Analysis-As global scrutiny grows, Chinese firms look to call Singapore home](https://biztoc.com/x/902d7fb6490a213c) (Published: 2025-12-19)
+- [As global scrutiny grows, Chinese firms look to call Singapore home](https://economictimes.indiatimes.com/news/international/business/as-global-scrutiny-grows-chinese-firms-look-to-call-singapore-home/articleshow/126068058.cms) (Published: 2025-12-19)
+- [Silver Palace ‘Monotype’ beta test announced](https://www.gematsu.com/2025/12/silver-palace-monotype-beta-test-announced) (Published: 2025-12-19)
+- [50% off BeatSync PRO - AI Music Video Editor ($24.50/Month, Was $49)](https://www.ozbargain.com.au/node/940819) (Published: 2025-12-19)
+- [U.S. launches review of advanced Nvidia AI chip sales to China: Reuters](https://www.cnbc.com/2025/12/19/us-launches-review-of-advanced-nvidia-ai-chip-sales-to-china-reuters.html) (Published: 2025-12-19)
 - [Dell Refurbished Store Holiday Sale: 40% off any item, more + free shipping](https://www.dealnews.com/Dell-Refurbished-Store-Holiday-Sale-40-off-any-item-more-free-shipping/21797114.html) (Published: 2025-12-19)
 - [US approving Nvidia H200 exports to China is based on the idea that Huawei is a viable competitor, but data shows the gap between Nvidia and Huawei is widening (Chris McGuire/Council on Foreign ...)](https://www.techmeme.com/251218/p53) (Published: 2025-12-19)
 - [Samsung to supply SOCAMM2 LPDDR modules to Nvidia](https://www.digitimes.com/news/a20251219VL208/samsung-nvidia-ai-server-hbm-efficiency.html) (Published: 2025-12-19)
-- [VRAM容量72GBの「NVIDIA RTX PRO 5000 72GB」が登場](https://news.livedoor.com/article/detail/30230016/) (Published: 2025-12-19)
-- [24 Companies Join US Genesis Mission to Harness AI for Science](https://www.pymnts.com/artificial-intelligence-2/2025/24-companies-join-us-genesis-mission-to-harness-ai-for-science/) (Published: 2025-12-19)
-- [Lenovo LOQ: 15.6 144Hz IPS, Ryzen 7 250, RTX 5060, 16GB DDR5, 512GB SSD $869](https://slickdeals.net/f/18991375-lenovo-loq-15-6-144hz-ips-ryzen-7-250-rtx-5060-16gb-ddr5-512gb-ssd-869) (Published: 2025-12-19)
-- [Cell context-dependent in silico organelle localization in label-free microscopy images](https://www.nature.com/articles/s41592-025-02960-4) (Published: 2025-12-19)
-- [Deals for Today: Last Chance MTG Deals and a Bargain 2025 Apple iPad Air](https://www.ign.com/articles/deals-for-today-last-chance-mtg-deals-and-a-bargain-2025-apple-ipad-air) (Published: 2025-12-18)
-- [Oracle has one last Ampere hurrah - new cloud platforms offer up to 192 custom Arm cores, and aren't OCI exclusive, unlike Graviton or Cobalt](https://www.techradar.com/pro/oracle-has-one-last-ampere-hurrah-new-cloud-platforms-offer-up-to-192-custom-arm-cores-and-arent-oci-exclusive-unlike-graviton-or-cobalt) (Published: 2025-12-18)
-- [Stock market today: Dow, S&P 500, Nasdaq rise with Wall Street set to wrap up latest volatile week](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-with-wall-street-set-to-wrap-up-latest-volatile-week-231719825.html) (Published: 2025-12-18)
