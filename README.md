@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 13:57:04**_
+_Last updated: **2025-12-20 14:22:23**_
 
+- [US reviews Nvidia chip sales as Trump reverses policy](https://rollingout.com/2025/12/19/us-reviews-nvidia-chip-sales/) (Published: 2025-12-19)
+- [ASUS Clears Out Gaming Laptops After GPU Deals, Offloading the TUF Gaming F16 (2024) Ahead of Christmas](https://kotaku.com/asus-clears-out-gaming-laptops-after-gpu-deals-offloading-the-tuf-gaming-f16-2024-ahead-of-christmas-2000654695) (Published: 2025-12-19)
+- [Samsung’s 32-inch 4K OLED gaming monitor is $500 off today](https://www.pcworld.com/article/3017131/samsungs-32-inch-4k-oled-gaming-monitor-is-500-off-today.html) (Published: 2025-12-19)
+- [Primech AI Introduces Hytron, the World’s Most Advanced Autonomous Restroom Cleaning Robot, to North America at CES 2026](https://www.globenewswire.com/news-release/2025/12/19/3208527/0/en/Primech-AI-Introduces-Hytron-the-World-s-Most-Advanced-Autonomous-Restroom-Cleaning-Robot-to-North-America-at-CES-2026.html) (Published: 2025-12-19)
+- [Nvidia Vs. Alphabet: Which Could Be The World's Biggest Company By End-2026?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2027f568-42d5-441d-a440-eeee3425687d) (Published: 2025-12-19)
+- [Zero-shot deep learning for the annotation of unknown eDNA sequences using co-occurrences and phylogenetic embeddings](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013776) (Published: 2025-12-19)
+- [I’m a nerd, gamer, and dad. I want these 10 Christmas gifts because no one ever asks!](https://www.pcworld.com/article/3016431/christmas-gifts-for-nerd-gamer-dads.html) (Published: 2025-12-19)
+- [CABNas-nir: A near-infrared classification for urban pipe network sludge on the fusion algorithm of NAS framework and active learning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339347) (Published: 2025-12-19)
+- [AMD stealth-launches a new low power version of its Radeon RX 9060 XT graphics card that could be great for a DIY Steam Machine, though it's only shaved 13% off the energy consumption](https://www.pcgamer.com/hardware/graphics-cards/amd-stealth-launches-a-new-low-power-version-of-its-radeon-rx-9060-xt-graphics-card-that-could-be-great-for-a-diy-steam-machine-though-its-only-shaved-13-percent-off-the-energy-consumption/) (Published: 2025-12-19)
 - [Uber CEO says AI is turning his engineers into 'superhumans'](https://www.businessinsider.com/uber-dara-ai-bubble-tech-transportation-nvidia-burry-waymo-cars-2025-12) (Published: 2025-12-19)
-- [Krafton’s Rs 6,000 crore fund; India turns AI hotspot](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/kraftons-rs-6000-crore-fund-india-turns-ai-hotspot/articleshow/126078443.cms) (Published: 2025-12-19)
-- [“The Biggest Threat to NVIDIA’s AI Dominance Is Google,” Says the Author of Jensen Huang’s Biography, Claiming Fear of Failure Fuels Team Green’s CEO](https://wccftech.com/the-biggest-threat-to-nvidia-ai-dominance-is-google/) (Published: 2025-12-19)
-- [Inside Intel’s new Arizona fab, where the chipmaker’s fate hangs in the balance](https://www.cnbc.com/2025/12/19/intel-aims-to-find-clients-and-catch-tsmc-with-new-chip-fab-in-arizona.html) (Published: 2025-12-19)
-- [The Full Nerd awards: Our favorite PC hardware of 2025](https://www.pcworld.com/article/3016572/the-full-nerd-awards-our-favorite-pc-hardware-of-2025.html) (Published: 2025-12-19)
-- [LG’s B5 OLED smart TV w/ ‘FREE same-day delivery’ now at $550 ($750 under the 2025 list price)](http://9to5toys.com/2025/12/19/lg-b5-oled-smart-tv-delivery/) (Published: 2025-12-19)
-- [Lenovo leaks reveal surprise SteamOS-powered Legion Go 2 – and full specs for its bold rollable OLED gaming laptop](https://www.techradar.com/gaming/consoles-pc/lenovo-leaks-reveal-surprise-steamos-powered-legion-go-2-and-full-specs-for-its-bold-rollable-oled-gaming-laptop) (Published: 2025-12-19)
-- [Show HN: Seen – x-platform/selfhosted/open-src photo and video solution](https://github.com/markrai/seen) (Published: 2025-12-19)
-- [Olares One : All-in-One AI Mini PC Specifically Designed to Run Local AI Models](https://www.geeky-gadgets.com/olares-one-local-ai-hardware-kickstarter/) (Published: 2025-12-19)
-- [The MSI Raider 18 HX Distills the Best and Worst of Gaming Laptops](https://gizmodo.com/msi-raider-18-hx-review-distills-the-best-and-worst-of-gaming-laptops-2000700902) (Published: 2025-12-19)
