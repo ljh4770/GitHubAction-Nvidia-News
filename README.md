@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 19:50:10**_
+_Last updated: **2025-12-20 20:00:40**_
 
 - [(PR) Eurocom launches Raptor X18 Mobile Server with Core Ultra 9 275HX and GeForce RTX 5090](https://www.techpowerup.com/344280/eurocom-launches-raptor-x18-mobile-server-with-core-ultra-9-275hx-and-geforce-rtx-5090) (Published: 2025-12-19)
 - [How to Enable Resizable BAR for Better Gaming Performance on NVIDIA GPUs](https://wccftech.com/how-to-enable-resizable-bar-for-better-gaming-performance-on-nvidia-gpus/) (Published: 2025-12-19)
