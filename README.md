@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 22:55:26**_
+_Last updated: **2025-12-20 23:19:11**_
 
+- [Seeking the Marlboro of Marijuana](https://dailyreckoning.com/seeking-the-marlboro-of-marijuana/) (Published: 2025-12-19)
 - [Valve put up a release candidate for Proton 10.0-4 with lots more Linux / SteamOS gaming fixes](https://www.gamingonlinux.com/2025/12/valve-put-up-a-release-candidate-for-proton-10-0-4-with-lots-more-linux-steamos-gaming-fixes/.) (Published: 2025-12-19)
 - [The ongoing RAM shortage will likely "persist well into 2027"](https://www.xda-developers.com/ongoing-ram-shortage-will-likely-persist-well-into-2027/) (Published: 2025-12-19)
 - [The US Government Has a Big New AI Science Project Brewing, With Big Tech's Help](https://www.cnet.com/tech/services-and-software/the-us-government-has-a-big-new-ai-science-project-brewing-with-big-techs-help/) (Published: 2025-12-19)
@@ -9,4 +10,3 @@ _Last updated: **2025-12-20 22:55:26**_
 - [Tech Companies Lead Recovery to Close Out Week](https://www.newser.com/story/380707/tech-companies-lead-recovery-to-close-out-week.html) (Published: 2025-12-19)
 - [Inside enterprise AI’s turning point: 31 interviews on theCUBE that defined 2025](https://siliconangle.com/2025/12/19/top-tech-executives-share-ai-insights-thecube/) (Published: 2025-12-19)
 - [Concentrate to Get Rich (or Poor)](https://awealthofcommonsense.com/2025/12/concentrate-to-get-rich-or-poor/) (Published: 2025-12-19)
-- [Infinite Machine e-scooter is like the offspring of a Vespa and a Cybertruck](https://www.theregister.com/2025/12/19/infinite_machine_electric_scooter/) (Published: 2025-12-19)
