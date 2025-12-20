@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 21:30:01**_
+_Last updated: **2025-12-20 21:41:33**_
 
+- [Inside enterprise AI’s turning point: 31 interviews on theCUBE that defined 2025](https://siliconangle.com/2025/12/19/top-tech-executives-share-ai-insights-thecube/) (Published: 2025-12-19)
+- [Concentrate to Get Rich (or Poor)](https://awealthofcommonsense.com/2025/12/concentrate-to-get-rich-or-poor/) (Published: 2025-12-19)
 - [Infinite Machine e-scooter is like the offspring of a Vespa and a Cybertruck](https://www.theregister.com/2025/12/19/infinite_machine_electric_scooter/) (Published: 2025-12-19)
 - [brokkr-diagnostics 0.2.1](https://pypi.org/project/brokkr-diagnostics/0.2.1/) (Published: 2025-12-19)
 - [(PR) SAMSON Dev Team Confirms Minimum PC Spec Requirements in Extensive FAQ Article](https://www.techpowerup.com/344283/samson-dev-team-confirms-minimum-pc-spec-requirements-in-extensive-faq-article) (Published: 2025-12-19)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-20 21:30:01**_
 - [DOE recruits cloud, chip, and AI giants for Trump's Genesis Mission](https://www.theregister.com/2025/12/19/doe_genesis_agreements/) (Published: 2025-12-19)
 - [Witcher 4 Dev Is Says AI Can Unlock "Meaningful" Benefits](https://www.gamespot.com/articles/witcher-4-dev-is-says-ai-can-unlock-meaningful-benefits/1100-6537119/) (Published: 2025-12-19)
 - [More Republican Socialism](https://reason.com/2025/12/19/more-republican-socialism/) (Published: 2025-12-19)
-- [Lenovo Legion Pro Rollable concept gaming laptop’s 16 inch screen expands to 24 inches](https://liliputing.com/lenovo-legion-pro-rollable-concept-gaming-laptops-16-inch-screen-expands-to-24-inches/) (Published: 2025-12-19)
-- [AI chip firm Cerebras set to file for US IPO after delay, sources say](https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-firm-cerebras-set-to-file-for-us-ipo-after-delay-sources-say/articleshow/126082866.cms) (Published: 2025-12-19)
