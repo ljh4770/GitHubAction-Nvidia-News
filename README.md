@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 23:44:48**_
+_Last updated: **2025-12-20 23:55:06**_
 
 - [SoftBank races to fulfill $22.5 billion funding commitment to OpenAI by year-end](https://finance.yahoo.com/news/exclusive-softbank-races-fulfill-22-233202534.html) (Published: 2025-12-19)
 - [Seeking the Marlboro of Marijuana](https://dailyreckoning.com/seeking-the-marlboro-of-marijuana/) (Published: 2025-12-19)
