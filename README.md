@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 09:47:59**_
+_Last updated: **2025-12-20 09:58:07**_
 
 - [pyscfad-cuda12-plugin 0.2.0](https://pypi.org/project/pyscfad-cuda12-plugin/0.2.0/) (Published: 2025-12-19)
 - [Data center deals hit record $61 billion in 2025 as AI valuation risks and funding concerns grip investors](https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html) (Published: 2025-12-19)
