@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 21:41:33**_
+_Last updated: **2025-12-20 21:51:53**_
 
 - [Inside enterprise AI’s turning point: 31 interviews on theCUBE that defined 2025](https://siliconangle.com/2025/12/19/top-tech-executives-share-ai-insights-thecube/) (Published: 2025-12-19)
 - [Concentrate to Get Rich (or Poor)](https://awealthofcommonsense.com/2025/12/concentrate-to-get-rich-or-poor/) (Published: 2025-12-19)
@@ -10,4 +10,3 @@ _Last updated: **2025-12-20 21:41:33**_
 - [How to Enable Resizable BAR for Better Gaming Performance on NVIDIA GPUs](https://wccftech.com/how-to-enable-resizable-bar-for-better-gaming-performance-on-nvidia-gpus/) (Published: 2025-12-19)
 - [DOE recruits cloud, chip, and AI giants for Trump's Genesis Mission](https://www.theregister.com/2025/12/19/doe_genesis_agreements/) (Published: 2025-12-19)
 - [Witcher 4 Dev Is Says AI Can Unlock "Meaningful" Benefits](https://www.gamespot.com/articles/witcher-4-dev-is-says-ai-can-unlock-meaningful-benefits/1100-6537119/) (Published: 2025-12-19)
-- [More Republican Socialism](https://reason.com/2025/12/19/more-republican-socialism/) (Published: 2025-12-19)
