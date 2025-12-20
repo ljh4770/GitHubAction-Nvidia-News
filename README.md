@@ -1,14 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 17:53:17**_
+_Last updated: **2025-12-20 18:20:20**_
 
+- [AI chip firm Cerebras set to file for US IPO after delay, sources say](https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chip-firm-cerebras-set-to-file-for-us-ipo-after-delay-sources-say/articleshow/126082866.cms) (Published: 2025-12-19)
+- [Memory Suppliers Have Become the New “Santa Claus,” Selectively Handing Out DRAM Capacity to Customers, Says Taiwan’s Etron Chairman](https://wccftech.com/memory-suppliers-have-become-the-new-santa-claus/) (Published: 2025-12-19)
+- [Data center deals hit record $61 billion in 2025 amid global construction frenzy](https://freerepublic.com/focus/f-news/4358171/posts) (Published: 2025-12-19)
+- [Buying your next Windows laptop? This Lenovo with a tandem OLED display is my top pick](https://www.zdnet.com/article/lenovo-yoga-pro-9i-aura-edition-review/) (Published: 2025-12-19)
+- [Samsung introduces SOCAMM2 LPDDR5X memory module for AI data centers — new standard set to offer reduced power consumption and double the bandwidth versus DDR5 RDIMMs](https://www.tomshardware.com/tech-industry/samsung-introduces-socamm2-lpddr5x-memory-module-for-ai-data-centers) (Published: 2025-12-19)
+- [OpenAI’s Sora 2 AI Video Generation Tool Is More Realistic Than Ever, And That’s Causing Ethical And Legal Concerns](http://twistedsifter.com/2025/12/openais-sora-2-ai-video-generation-tool-is-more-realistic-than-ever-and-thats-causing-ethical-and-legal-concerns/) (Published: 2025-12-19)
 - [CXC Simulations Pro Lite Off-Road Racing Simulator](https://bringatrailer.com/listing/short-course-off-road-racing-simulator-truck/) (Published: 2025-12-19)
 - [Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) (Published: 2025-12-19)
 - [Nvidia-Intel deal cleared by US antitrust agencies](https://economictimes.indiatimes.com/tech/technology/nvidia-intel-deal-cleared-by-us-antitrust-agencies/articleshow/126081883.cms) (Published: 2025-12-19)
 - [Nasdaq rises again today: Nasdaq jumps more than 1% as AI stocks rebound; Oracle, Nvidia and Micron lead market rally](https://economictimes.indiatimes.com/news/international/us/nasdaq-rises-again-today-nasdaq-jumps-more-than-1-as-ai-stocks-rebound-oracle-nvidia-and-micron-lead-market-rally/articleshow/126081466.cms) (Published: 2025-12-19)
-- [A better way to provision NVIDIA BlueField DPUs at scale with MAAS](
-      https://maas.io/blog/a-better-way-to-provision-nvidia-bluefield-dpus-at-scale-with-maas) (Published: 2025-12-19)
-- [Stocks rise on Wall Street and pull closer to weekly gains as AI stocks climb](https://www.bostonherald.com/2025/12/19/financial-markets-ai-stocks-climb/) (Published: 2025-12-19)
-- [Lovable Raises $330M in Series B, Reaches $6.6B Valuation to Power the No-Code Builder Economy - All Marketing Updates](https://allmarketingupdates.com/lovable-raises-330m-in-series-b-reaches-6-6b-valuation-to-power-the-no-code-builder-economy/) (Published: 2025-12-19)
-- [It's an older node, sir, but it checks out: Samsung appears to have scooped a deal with Intel to make its next generation of motherboard chipsets in its 8 nm fabs](https://www.pcgamer.com/hardware/motherboards/its-an-older-node-sir-but-it-checks-out-samsung-appears-to-have-scooped-a-deal-with-intel-to-make-its-next-generation-of-motherboard-chipsets-in-its-8-nm-fabs/) (Published: 2025-12-19)
-- [Bitcoin battles $89,000 price ceiling as bulls try to break U.S. sell pattern](https://www.coindesk.com/markets/2025/12/19/can-bitcoin-break-the-curse-u-s-trading-hours-selloffs) (Published: 2025-12-19)
-- [Deals: Z Flip 7 $250 off, Moto 2025 razr+ $350 off, Tab S11 Amazon low, LG OLED $550, more](http://9to5google.com/2025/12/19/deals-z-flip-7-moto-razr-tab-s11-lg-oled-tv/) (Published: 2025-12-19)
