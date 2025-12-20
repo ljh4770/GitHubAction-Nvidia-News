@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 14:59:39**_
+_Last updated: **2025-12-20 15:27:17**_
 
+- [Exploring the Future: Real-Time AI Video Processing Unleashes New Opportunities for Companies Globally](https://www.globenewswire.com/news-release/2025/12/19/3208598/28124/en/Exploring-the-Future-Real-Time-AI-Video-Processing-Unleashes-New-Opportunities-for-Companies-Globally.html) (Published: 2025-12-19)
+- [Don't bother with mobile cloud gaming controllers that feel like toys — an 'Xbox Edition' of the "truly magnificent" Backbone Pro is finally down to a reasonable price](https://www.windowscentral.com/accessories/backbone-pro-xbox-edition-controller-december-2025) (Published: 2025-12-19)
+- [US stock market gaining massively today: Nasdaq, Dow, S&P 500 jump - Nvidia, Oracle lift tech stocks](https://economictimes.indiatimes.com/news/international/us/us-stock-market-gaining-massively-today-nasdaq-dow-sp-500-jump-nvidia-oracle-lift-tech-stocks/articleshow/126079902.cms) (Published: 2025-12-19)
+- [Securities firm research suggests that Intel is on track to garner chip manufacturing and packaging orders from Apple, Broadcom, Google, and maybe even Nvidia](https://www.pcgamer.com/hardware/securities-firm-research-suggests-that-intel-is-on-track-to-garner-chip-manufacturing-and-packaging-orders-from-apple-broadcom-google-and-maybe-even-nvidia/) (Published: 2025-12-19)
+- [Actionable Insights for Executives: Navigating Growth Trends in the Automotive Image Signal Processor Market](https://www.globenewswire.com/news-release/2025/12/19/3208583/28124/en/Actionable-Insights-for-Executives-Navigating-Growth-Trends-in-the-Automotive-Image-Signal-Processor-Market.html) (Published: 2025-12-19)
+- [pearOS is a Linux that falls rather close to the Apple tree](https://www.theregister.com/2025/12/19/pearos/) (Published: 2025-12-19)
+- [Investors can’t get enough of OpenAI and Databricks — Oracle, not so much](https://siliconangle.com/2025/12/19/investors-cant-get-enough-openai-databricks-oracle-not-much/) (Published: 2025-12-19)
+- [AI Update, December 19, 2025: AI News and Views From the Past Week](https://www.marketingprofs.com/opinions/2025/54138/ai-update-december-19-2025-ai-news-and-views-from-the-past-week) (Published: 2025-12-19)
 - [‘The rocket ship keeps going off’: inside the Nvidia phenomenon with author Stephen Witt](https://fortune.com/2025/12/19/nvidia-jensen-huang-book-thinking-machine-stephen-witt-interview/) (Published: 2025-12-19)
 - [opentslm added to PyPI](https://pypi.org/project/opentslm/) (Published: 2025-12-19)
-- [5 critical AI infrastructure moves that rattled markets](https://rollingout.com/2025/12/19/ai-infrastructure-market-moves-dec-19/) (Published: 2025-12-19)
-- [At Goldman and Citadel Securities, the Santa Rally Has Believers](https://finance.yahoo.com/news/goldman-citadel-securities-santa-rally-103000842.html) (Published: 2025-12-19)
-- [Putting data centres in space isn't going to happen any time soon](https://www.newscientist.com/article/2509368-putting-data-centres-in-space-isnt-going-to-happen-any-time-soon/) (Published: 2025-12-19)
-- [Nintendo Switch 2 : 6 Month Review, Bigger Screen, Better Comfort, but Is It Worth Upgrading?](https://www.geeky-gadgets.com/nintendo-switch-2-review/) (Published: 2025-12-19)
-- [TelecomTV’s top 10 stories 2025 (part 1)](https://www.telecomtv.com/content/ai/telecomtv-s-top-10-stories-2025-part-1-54563/) (Published: 2025-12-19)
-- [US reviews Nvidia chip sales as Trump reverses policy](https://rollingout.com/2025/12/19/us-reviews-nvidia-chip-sales/) (Published: 2025-12-19)
-- [ASUS Clears Out Gaming Laptops After GPU Deals, Offloading the TUF Gaming F16 (2024) Ahead of Christmas](https://kotaku.com/asus-clears-out-gaming-laptops-after-gpu-deals-offloading-the-tuf-gaming-f16-2024-ahead-of-christmas-2000654695) (Published: 2025-12-19)
-- [Samsung’s 32-inch 4K OLED gaming monitor is $500 off today](https://www.pcworld.com/article/3017131/samsungs-32-inch-4k-oled-gaming-monitor-is-500-off-today.html) (Published: 2025-12-19)
