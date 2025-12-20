@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 17:42:47**_
+_Last updated: **2025-12-20 17:53:17**_
 
 - [CXC Simulations Pro Lite Off-Road Racing Simulator](https://bringatrailer.com/listing/short-course-off-road-racing-simulator-truck/) (Published: 2025-12-19)
 - [Sam Altman says Google is 'still a huge threat' and ChatGPT will be declaring code red 'maybe twice a year for a long time'](https://www.pcgamer.com/software/ai/sam-altman-says-google-is-still-a-huge-threat-and-chatgpt-will-be-declaring-code-red-maybe-twice-a-year-for-a-long-time/) (Published: 2025-12-19)
