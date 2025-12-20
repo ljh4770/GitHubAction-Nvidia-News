@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 19:15:52**_
+_Last updated: **2025-12-20 19:28:39**_
 
+- [How to Enable Resizable BAR for Better Gaming Performance on NVIDIA GPUs](https://wccftech.com/how-to-enable-resizable-bar-for-better-gaming-performance-on-nvidia-gpus/) (Published: 2025-12-19)
 - [DOE recruits cloud, chip, and AI giants for Trump's Genesis Mission](https://www.theregister.com/2025/12/19/doe_genesis_agreements/) (Published: 2025-12-19)
 - [Witcher 4 Dev Is Says AI Can Unlock "Meaningful" Benefits](https://www.gamespot.com/articles/witcher-4-dev-is-says-ai-can-unlock-meaningful-benefits/1100-6537119/) (Published: 2025-12-19)
 - [More Republican Socialism](https://reason.com/2025/12/19/more-republican-socialism/) (Published: 2025-12-19)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-20 19:15:52**_
 - [Data center deals hit record $61 billion in 2025 amid global construction frenzy](https://freerepublic.com/focus/f-news/4358171/posts) (Published: 2025-12-19)
 - [Buying your next Windows laptop? This Lenovo with a tandem OLED display is my top pick](https://www.zdnet.com/article/lenovo-yoga-pro-9i-aura-edition-review/) (Published: 2025-12-19)
 - [Samsung introduces SOCAMM2 LPDDR5X memory module for AI data centers — new standard set to offer reduced power consumption and double the bandwidth versus DDR5 RDIMMs](https://www.tomshardware.com/tech-industry/samsung-introduces-socamm2-lpddr5x-memory-module-for-ai-data-centers) (Published: 2025-12-19)
-- [OpenAI’s Sora 2 AI Video Generation Tool Is More Realistic Than Ever, And That’s Causing Ethical And Legal Concerns](http://twistedsifter.com/2025/12/openais-sora-2-ai-video-generation-tool-is-more-realistic-than-ever-and-thats-causing-ethical-and-legal-concerns/) (Published: 2025-12-19)
