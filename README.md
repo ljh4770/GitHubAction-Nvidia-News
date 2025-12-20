@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 08:55:43**_
+_Last updated: **2025-12-20 09:21:26**_
 
+- [Stock Market Today: S&P 500, Nasdaq Set to Open Up; Dow Futures Fall; Trump Media, Micron, Nvidia, Tesla; BOJ Raises Rates](https://biztoc.com/x/95a14cb6514d7b98) (Published: 2025-12-19)
+- [$40K Apple Mac Studio RDMA Setup: 1 TFLOP per Node, 3.7 TFLOPS Across Four](https://www.geeky-gadgets.com/mac-thunderbolt-ai-cluster/) (Published: 2025-12-19)
 - [No middle managers? OnlyFans may have drawn inspiration from big tech’s management shake-up](https://www.livemint.com/companies/people/no-middle-managers-onlyfans-may-have-drawn-inspiration-from-big-tech-s-management-shake-up-ceo-keily-blair-42-employees-11766129723278.html) (Published: 2025-12-19)
 - [tensorrt-llm 1.1.0](https://pypi.org/project/tensorrt-llm/1.1.0/) (Published: 2025-12-19)
 - [GIGABYTEから、NVIDIA GeForce RTX 3050 デュアルファン搭載グラフィックボード『GV-N3050WF2OCV2-6GD』を発売](https://prtimes.jp/main/html/rd/p/000001070.000032645.html) (Published: 2025-12-19)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-20 08:55:43**_
 - [(PR) Samsung Introduces SOCAMM2, New LPDDR Memory Module Empowering Next-generation AI Infrastructure](https://www.techpowerup.com/344253/samsung-introduces-socamm2-new-lpddr-memory-module-empowering-next-generation-ai-infrastructure) (Published: 2025-12-19)
 - [A Short History of Performance Engineering](https://calendar.perfplanet.com/2025/a-short-history-of-performance-engineering/) (Published: 2025-12-19)
 - [Is that video fake? Gemini’s new update aims to solve the AI slop problem](https://www.androidauthority.com/gemini-video-synthid-detection-3626640/) (Published: 2025-12-19)
-- [Asian shares advance after Japan raises its key interest rate to its highest level in 30 years](https://abcnews.go.com/Business/wireStory/asian-shares-advance-after-japan-raises-key-interest-128544884) (Published: 2025-12-19)
-- [Examining why Bitcoin was less volatile than Nvidia in 2025](https://ambcrypto.com/examining-why-bitcoin-was-less-volatile-than-nvidia-in-2025/) (Published: 2025-12-19)
