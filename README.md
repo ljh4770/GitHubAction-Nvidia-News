@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 22:45:21**_
+_Last updated: **2025-12-20 22:55:26**_
 
 - [Valve put up a release candidate for Proton 10.0-4 with lots more Linux / SteamOS gaming fixes](https://www.gamingonlinux.com/2025/12/valve-put-up-a-release-candidate-for-proton-10-0-4-with-lots-more-linux-steamos-gaming-fixes/.) (Published: 2025-12-19)
 - [The ongoing RAM shortage will likely "persist well into 2027"](https://www.xda-developers.com/ongoing-ram-shortage-will-likely-persist-well-into-2027/) (Published: 2025-12-19)
