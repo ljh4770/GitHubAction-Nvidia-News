@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 04:29:36**_
+_Last updated: **2025-12-20 04:48:35**_
 
 - [Asian shares advance after weaker US price data push Wall Street higher, and a rate hike in Japan](https://financialpost.com/pmn/asian-shares-advance-after-weaker-us-price-data-push-wall-street-higher-and-a-rate-hike-in-japan) (Published: 2025-12-19)
 - [BOJ raises interest rates to 30-year high; sees potential for more hikes](https://biztoc.com/x/94624ab83cdba94c) (Published: 2025-12-19)
