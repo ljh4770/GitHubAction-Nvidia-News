@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 15:41:28**_
+_Last updated: **2025-12-20 15:52:06**_
 
+- [Leak Reveals Lenovo Gaming Laptop With a Screen That Rolls Sideways Into an Ultrawide](https://gizmodo.com/leak-reveals-lenovo-gaming-laptop-with-a-screen-that-rolls-sideways-into-an-ultrawide-2000701801) (Published: 2025-12-19)
 - [My perfect MacBook Pro replacement is this powerful Windows laptop I didn't see coming](https://www.zdnet.com/article/razer-blade-14-review/) (Published: 2025-12-19)
 - [Oracle's 7% Surge Pushes Tech-Heavy Nasdaq Up 1%](https://www.ndtvprofit.com/markets/us-stock-markets-today-nasdaq-sp-rise-as-ai-hot-bets-oracle-nvidia-surge) (Published: 2025-12-19)
 - [Exploring the Future: Real-Time AI Video Processing Unleashes New Opportunities for Companies Globally](https://www.globenewswire.com/news-release/2025/12/19/3208598/28124/en/Exploring-the-Future-Real-Time-AI-Video-Processing-Unleashes-New-Opportunities-for-Companies-Globally.html) (Published: 2025-12-19)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-20 15:41:28**_
 - [Actionable Insights for Executives: Navigating Growth Trends in the Automotive Image Signal Processor Market](https://www.globenewswire.com/news-release/2025/12/19/3208583/28124/en/Actionable-Insights-for-Executives-Navigating-Growth-Trends-in-the-Automotive-Image-Signal-Processor-Market.html) (Published: 2025-12-19)
 - [pearOS is a Linux that falls rather close to the Apple tree](https://www.theregister.com/2025/12/19/pearos/) (Published: 2025-12-19)
 - [Investors can’t get enough of OpenAI and Databricks — Oracle, not so much](https://siliconangle.com/2025/12/19/investors-cant-get-enough-openai-databricks-oracle-not-much/) (Published: 2025-12-19)
-- [AI Update, December 19, 2025: AI News and Views From the Past Week](https://www.marketingprofs.com/opinions/2025/54138/ai-update-december-19-2025-ai-news-and-views-from-the-past-week) (Published: 2025-12-19)
