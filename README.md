@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-20 03:56:28**_
+_Last updated: **2025-12-20 04:29:36**_
 
+- [Asian shares advance after weaker US price data push Wall Street higher, and a rate hike in Japan](https://financialpost.com/pmn/asian-shares-advance-after-weaker-us-price-data-push-wall-street-higher-and-a-rate-hike-in-japan) (Published: 2025-12-19)
 - [BOJ raises interest rates to 30-year high; sees potential for more hikes](https://biztoc.com/x/94624ab83cdba94c) (Published: 2025-12-19)
 - [US launches review of advanced Nvidia AI chip sales to China](https://economictimes.indiatimes.com/tech/technology/us-launches-review-of-advanced-nvidia-ai-chip-sales-to-china/articleshow/126069001.cms) (Published: 2025-12-19)
 - [SK Hynix reportedly to open new office in Seattle area to deepen ties with Nvidia and major tech firms](https://www.digitimes.com/news/a20251219PD202/sk-hynix-nvidia-amazon-microsoft-region.html) (Published: 2025-12-19)
@@ -9,5 +10,3 @@ _Last updated: **2025-12-20 03:56:28**_
 - [Analysis-As global scrutiny grows, Chinese firms look to call Singapore home](https://biztoc.com/x/902d7fb6490a213c) (Published: 2025-12-19)
 - [As global scrutiny grows, Chinese firms look to call Singapore home](https://economictimes.indiatimes.com/news/international/business/as-global-scrutiny-grows-chinese-firms-look-to-call-singapore-home/articleshow/126068058.cms) (Published: 2025-12-19)
 - [Silver Palace ‘Monotype’ beta test announced](https://www.gematsu.com/2025/12/silver-palace-monotype-beta-test-announced) (Published: 2025-12-19)
-- [50% off BeatSync PRO - AI Music Video Editor ($24.50/Month, Was $49)](https://www.ozbargain.com.au/node/940819) (Published: 2025-12-19)
-- [U.S. launches review of advanced Nvidia AI chip sales to China: Reuters](https://www.cnbc.com/2025/12/19/us-launches-review-of-advanced-nvidia-ai-chip-sales-to-china-reuters.html) (Published: 2025-12-19)
