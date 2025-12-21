@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 06:41:01**_
+_Last updated: **2025-12-21 06:57:29**_
 
 - [Ex-Nvidia Billionaire Unveils New AI Chips After China IPO Debut](https://financialpost.com/pmn/business-pmn/ex-nvidia-billionaire-unveils-new-ai-chips-after-china-ipo-debut) (Published: 2025-12-20)
 - [SoftBank races to fulfil $22.5 billion funding commitment to OpenAI by year-end, sources say](https://economictimes.indiatimes.com/tech/technology/softbank-races-to-fulfill-22-5-billion-funding-commitment-to-openai-by-year-end-sources-say/articleshow/126089318.cms) (Published: 2025-12-20)
