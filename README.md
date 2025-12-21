@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 16:22:28**_
+_Last updated: **2025-12-21 16:44:14**_
 
+- [nvidb 1.4.4](https://pypi.org/project/nvidb/1.4.4/) (Published: 2025-12-20)
+- [You can force FSR 4 Redstone to work on RDNA 3 GPUs with new workaround for Linux systems — solution requires Proton compatibility to work properly](https://www.tomshardware.com/pc-components/gpu-drivers/you-can-force-fsr-4-redstone-to-work-on-rdna-3-gpus-with-new-workaround-for-linux-systems-solution-requires-proton-compatibility-to-work-properly-gpu-drivers) (Published: 2025-12-20)
 - [GeForce NOW Adds Fallout: New Vegas To Its Catalog](https://www.ubergizmo.com/2025/12/geforce-now-fallout-new-vegas/) (Published: 2025-12-20)
 - [A year in mobile tech: What 2025 actually brought us](https://www.androidcentral.com/phones/mobile-tech-2025-report-card) (Published: 2025-12-20)
 - [Universal Studios Saudi Arabia Theme Park Planned](https://www.disneytouristblog.com/universal-studios-saudi-arabia-theme-park-planned/) (Published: 2025-12-20)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-21 16:22:28**_
 - [Did Nvidia Just Lose Its Spot as Wall Street’s AI Chip Darling? JPMorgan Says This ‘Overall Top Pick’ Is Better.](https://www.barchart.com/story/news/36729168/did-nvidia-just-lose-its-spot-as-wall-streets-ai-chip-darling-jpmorgan-says-this-overall-top-pick-is-better) (Published: 2025-12-20)
 - [Semiconductor Supply Chain Market Size to Worth $668.40 Billion by 2033 | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/12/20/3208840/0/en/Semiconductor-Supply-Chain-Market-Size-to-Worth-668-40-Billion-by-2033-Research-by-SNS-Insider.html) (Published: 2025-12-20)
 - [I play new games about once every never, but Killing Floor 3 reeled me in this year because it's basically not a new game](https://www.pcgamer.com/games/horror/i-play-new-games-about-once-every-never-but-killing-floor-3-reeled-me-in-this-year-because-its-basically-not-a-new-game/) (Published: 2025-12-20)
-- [Latest Steam stable update is live as Windows gets 64-bit](https://www.gamingonlinux.com/2025/12/latest-steam-stable-update-is-live-as-windows-gets-64-bit/.) (Published: 2025-12-20)
-- [If I needed a gaming laptop right now, this is the one I'd choose](https://www.xda-developers.com/if-i-needed-a-gaming-laptop-right-now-this-is-the-one-id-choose-2/) (Published: 2025-12-20)
