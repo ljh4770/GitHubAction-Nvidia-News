@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 18:32:25**_
+_Last updated: **2025-12-21 18:52:02**_
 
+- [You Might Need to Say Goodbye to Affordable PCs; A Price Hike Storm Is Set to Hit in H2 2026 as Memory Shortages & Windows 10 EOL Collide](https://wccftech.com/you-might-need-to-say-goodbye-to-affordable-pcs/) (Published: 2025-12-20)
 - [The Tables Are Turning for Samsung in the HBM Market, as It Has Now Overtaken Micron After Recent HBM3E & HBM4 Breakthroughs](https://wccftech.com/the-tables-are-turning-for-samsung-in-the-hbm-market/) (Published: 2025-12-20)
 - [RTX 5060 Ti 16 GB Rumored To Be At Risk Of Discontinuation Due To Increasing VRAM Prices](https://wccftech.com/rtx-5060-ti-16-gb-rumored-to-be-at-risk-of-discontinuation-due-to-increasing-vram-prices/) (Published: 2025-12-20)
 - [nvidb 1.4.5](https://pypi.org/project/nvidb/1.4.5/) (Published: 2025-12-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-21 18:32:25**_
 - [A year in mobile tech: What 2025 actually brought us](https://www.androidcentral.com/phones/mobile-tech-2025-report-card) (Published: 2025-12-20)
 - [Universal Studios Saudi Arabia Theme Park Planned](https://www.disneytouristblog.com/universal-studios-saudi-arabia-theme-park-planned/) (Published: 2025-12-20)
 - [Steam Deck's biggest competitor is now just $489 — Enjoy Xbox and PC titles on the go with this gaming handheld for Christmas](https://www.windowscentral.com/hardware/handheld-gaming-pc/xbox-ally-december-2025-super-saturday) (Published: 2025-12-20)
-- [2025 in review: AI in mittens](https://www.provideocoalition.com/holiday-ai/) (Published: 2025-12-20)
