@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 13:47:50**_
+_Last updated: **2025-12-21 13:58:29**_
 
+- [Latest Steam stable update is live as Windows gets 64-bit](https://www.gamingonlinux.com/2025/12/latest-steam-stable-update-is-live-as-windows-gets-64-bit/.) (Published: 2025-12-20)
 - [If I needed a gaming laptop right now, this is the one I'd choose](https://www.xda-developers.com/if-i-needed-a-gaming-laptop-right-now-this-is-the-one-id-choose-2/) (Published: 2025-12-20)
 - [Lucid's big SUV arrives with high expectations, and big risks](https://www.cnbc.com/2025/12/20/lucids-gravity-suv-arrives-with-high-expectations-and-big-risks.html) (Published: 2025-12-20)
 - [The AI Billionaires Who Are Barely Old Enough to Drink](https://www.theatlantic.com/technology/2025/12/ai-boom-young-billionaires/685360/) (Published: 2025-12-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-21 13:47:50**_
 - [How Build-A-Bear went from a penny stock to a retail winner](https://www.cnbc.com/2025/12/20/build-a-bear-workshop-bbw.html) (Published: 2025-12-20)
 - [Is NVIDIA Corporation (NVDA) the Best S&P 500 Stock to Buy Now?](https://finance.yahoo.com/news/nvidia-corporation-nvda-best-p-115627257.html) (Published: 2025-12-20)
 - [nvidia-nat-ragaai 1.4.0a20251220](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20251220/) (Published: 2025-12-20)
-- [nvidia-nat-test 1.4.0a20251220](https://pypi.org/project/nvidia-nat-test/1.4.0a20251220/) (Published: 2025-12-20)
