@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 23:29:19**_
+_Last updated: **2025-12-21 23:43:21**_
 
+- [Should You Buy Nvidia Before Jan. 6, 2026?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_213dee5a-122b-450d-bb16-f35012ad3f24) (Published: 2025-12-20)
 - [US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price](https://www.bostonherald.com/2025/12/20/us-tech-enabled-chinas-surveillance-empire-now-tibetan-refugees-in-nepal-are-paying-the-price/) (Published: 2025-12-20)
 - [Tech Trainwrecks: 2025's Biggest Fails](https://uk.pcmag.com/computers-electronics/162185/tech-trainwrecks-2025s-biggest-fails) (Published: 2025-12-20)
 - [Tech Trainwrecks: 2025's Biggest Fails](https://me.pcmag.com/en/computers-electronics/34300/tech-trainwrecks-2025s-biggest-fails) (Published: 2025-12-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-21 23:29:19**_
 - [Arch Linux's Main NVIDIA Driver Packages Now Using The Open Kernel Modules](https://www.phoronix.com/news/Arch-LInux-NVIDIA-Open-Default) (Published: 2025-12-20)
 - [Anthropic Rolls Out Its Chatbot Claude as a Chrome Extension](https://uk.pcmag.com/browsers/162184/anthropic-rolls-out-its-chatbot-claude-as-a-chrome-extension) (Published: 2025-12-20)
 - [Anthropic Rolls Out Its Chatbot Claude as a Chrome Extension](https://me.pcmag.com/en/browsers/34299/anthropic-rolls-out-its-chatbot-claude-as-a-chrome-extension) (Published: 2025-12-20)
-- [Monster Hunter Wilds Title Update 4 improves FPS & kills stutter, but at a cost](https://www.notebookcheck.net/Monster-Hunter-Wilds-Title-Update-4-improves-FPS-kills-stutter-but-at-a-cost.1189840.0.html) (Published: 2025-12-20)
