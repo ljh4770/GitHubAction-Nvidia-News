@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 07:38:14**_
+_Last updated: **2025-12-21 07:48:54**_
 
+- [nvertake 0.1.0](https://pypi.org/project/nvertake/0.1.0/) (Published: 2025-12-20)
+- [nvertake added to PyPI](https://pypi.org/project/nvertake/) (Published: 2025-12-20)
 - [S&P 500 posts back-to-back gains Friday as AI trade makes a comeback: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=180428251) (Published: 2025-12-20)
 - [Moore Threads Launches Yangtze AI SoC: 8 Cores Clocked at 2.65 GHz, 50 TOPS NPU, Up To 64 GB LPDDR5X Memory For “AI PC” Laptops & Mini PCs](https://wccftech.com/moore-threads-yangtze-ai-soc-8-cores-2-65-ghz-50-tops-npu-64-gb-lpddr5x-memory/) (Published: 2025-12-20)
 - [Ex-Nvidia Billionaire Unveils New AI Chips After China IPO Debut](https://financialpost.com/pmn/business-pmn/ex-nvidia-billionaire-unveils-new-ai-chips-after-china-ipo-debut) (Published: 2025-12-20)
@@ -9,4 +11,3 @@ _Last updated: **2025-12-21 07:38:14**_
 - [Chinese surveillance based on US tech is used to silence Tibetans in Nepal](https://apnews.com/article/china-tibet-nepal-surveillance-technology-silicon-valley-eadac8211c5d0ca88374afecfbba00d5) (Published: 2025-12-20)
 - [Intel Teases 32 GB Arc GPU In AI Playground v3.0.0, Is This Big Battlemage?](https://wccftech.com/intel-teases-32-gb-arc-gpu-ai-playground-is-this-big-battlemage/) (Published: 2025-12-20)
 - [US tech enabled China's surveillance empire. Tibetan refugees in Nepal pay the price](https://abcnews.go.com/International/wireStory/us-tech-enabled-chinas-surveillance-empire-now-tibetan-128576520) (Published: 2025-12-20)
-- [Stock Market on Dec. 19, 2025: Dow, S&P 500, Nasdaq close higher amid AI-trade comeback; S&P 500 ekes out weekly gain after tech rally on Friday - Marke](https://slashdot.org/firehose.pl?op=view&amp;id=180427731) (Published: 2025-12-20)
