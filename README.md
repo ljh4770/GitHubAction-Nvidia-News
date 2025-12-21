@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 16:44:14**_
+_Last updated: **2025-12-21 16:55:53**_
 
 - [nvidb 1.4.4](https://pypi.org/project/nvidb/1.4.4/) (Published: 2025-12-20)
 - [You can force FSR 4 Redstone to work on RDNA 3 GPUs with new workaround for Linux systems — solution requires Proton compatibility to work properly](https://www.tomshardware.com/pc-components/gpu-drivers/you-can-force-fsr-4-redstone-to-work-on-rdna-3-gpus-with-new-workaround-for-linux-systems-solution-requires-proton-compatibility-to-work-properly-gpu-drivers) (Published: 2025-12-20)
