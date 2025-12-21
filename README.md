@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 13:34:16**_
+_Last updated: **2025-12-21 13:47:50**_
 
 - [If I needed a gaming laptop right now, this is the one I'd choose](https://www.xda-developers.com/if-i-needed-a-gaming-laptop-right-now-this-is-the-one-id-choose-2/) (Published: 2025-12-20)
 - [Lucid's big SUV arrives with high expectations, and big risks](https://www.cnbc.com/2025/12/20/lucids-gravity-suv-arrives-with-high-expectations-and-big-risks.html) (Published: 2025-12-20)
