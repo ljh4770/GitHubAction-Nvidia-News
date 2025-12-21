@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 07:59:04**_
+_Last updated: **2025-12-21 08:35:13**_
 
+- [Ambient Computing Market Size to Surpass USD 269.68 Billion by 2033, at 25.30% CAGR | Research by SNS Insider](https://www.globenewswire.com/news-release/2025/12/20/3208811/0/en/Ambient-Computing-Market-Size-to-Surpass-USD-269-68-Billion-by-2033-at-25-30-CAGR-Research-by-SNS-Insider.html) (Published: 2025-12-20)
 - [nvertake 0.1.0](https://pypi.org/project/nvertake/0.1.0/) (Published: 2025-12-20)
 - [nvertake added to PyPI](https://pypi.org/project/nvertake/) (Published: 2025-12-20)
 - [S&P 500 posts back-to-back gains Friday as AI trade makes a comeback: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=180428251) (Published: 2025-12-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-21 07:59:04**_
 - [Lenovo LOQ: 15.6 144Hz IPS, Ryzen 7 250, RTX 5060, 16GB DDR5, 512GB SSD $849.99](https://slickdeals.net/f/18996703-lenovo-loq-15-6-144hz-ips-ryzen-7-250-rtx-5060-16gb-ddr5-512gb-ssd-849-99) (Published: 2025-12-20)
 - [Chinese surveillance based on US tech is used to silence Tibetans in Nepal](https://apnews.com/article/china-tibet-nepal-surveillance-technology-silicon-valley-eadac8211c5d0ca88374afecfbba00d5) (Published: 2025-12-20)
 - [Intel Teases 32 GB Arc GPU In AI Playground v3.0.0, Is This Big Battlemage?](https://wccftech.com/intel-teases-32-gb-arc-gpu-ai-playground-is-this-big-battlemage/) (Published: 2025-12-20)
-- [US tech enabled China's surveillance empire. Tibetan refugees in Nepal pay the price](https://abcnews.go.com/International/wireStory/us-tech-enabled-chinas-surveillance-empire-now-tibetan-128576520) (Published: 2025-12-20)
