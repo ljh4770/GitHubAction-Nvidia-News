@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 17:56:28**_
+_Last updated: **2025-12-21 18:32:25**_
 
 - [The Tables Are Turning for Samsung in the HBM Market, as It Has Now Overtaken Micron After Recent HBM3E & HBM4 Breakthroughs](https://wccftech.com/the-tables-are-turning-for-samsung-in-the-hbm-market/) (Published: 2025-12-20)
 - [RTX 5060 Ti 16 GB Rumored To Be At Risk Of Discontinuation Due To Increasing VRAM Prices](https://wccftech.com/rtx-5060-ti-16-gb-rumored-to-be-at-risk-of-discontinuation-due-to-increasing-vram-prices/) (Published: 2025-12-20)
