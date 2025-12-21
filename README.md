@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-21 22:17:44**_
+_Last updated: **2025-12-21 22:38:22**_
 
+- [US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price](https://www.bostonherald.com/2025/12/20/us-tech-enabled-chinas-surveillance-empire-now-tibetan-refugees-in-nepal-are-paying-the-price/) (Published: 2025-12-20)
 - [Tech Trainwrecks: 2025's Biggest Fails](https://uk.pcmag.com/computers-electronics/162185/tech-trainwrecks-2025s-biggest-fails) (Published: 2025-12-20)
 - [Tech Trainwrecks: 2025's Biggest Fails](https://me.pcmag.com/en/computers-electronics/34300/tech-trainwrecks-2025s-biggest-fails) (Published: 2025-12-20)
 - [polyinfer added to PyPI](https://pypi.org/project/polyinfer/) (Published: 2025-12-20)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-21 22:17:44**_
 - [Anthropic Rolls Out Its Chatbot Claude as a Chrome Extension](https://uk.pcmag.com/browsers/162184/anthropic-rolls-out-its-chatbot-claude-as-a-chrome-extension) (Published: 2025-12-20)
 - [Anthropic Rolls Out Its Chatbot Claude as a Chrome Extension](https://me.pcmag.com/en/browsers/34299/anthropic-rolls-out-its-chatbot-claude-as-a-chrome-extension) (Published: 2025-12-20)
 - [Monster Hunter Wilds Title Update 4 improves FPS & kills stutter, but at a cost](https://www.notebookcheck.net/Monster-Hunter-Wilds-Title-Update-4-improves-FPS-kills-stutter-but-at-a-cost.1189840.0.html) (Published: 2025-12-20)
-- [NVIDIA 590 driver drops Pascal and lower support; main packages switch to Open Kernel Modules](https://archlinux.org/news/nvidia-590-driver-drops-pascal-support-main-packages-switch-to-open-kernel-modules/) (Published: 2025-12-20)
