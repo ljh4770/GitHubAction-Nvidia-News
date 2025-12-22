@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 20:40:12**_
+_Last updated: **2025-12-22 20:53:51**_
 
+- [Reports Spark Questions About Bitmain Leadership and Internal Disputes](https://beincrypto.com/bitmain-cofounder-crisis-power-struggle/) (Published: 2025-12-21)
+- [BofA raises Micron rating and price target after earnings](https://www.thestreet.com/investing/stocks/bank-of-america-resets-micron-stock-price-target-and-rating) (Published: 2025-12-21)
 - [Analyst who nailed tech rally sets bold S&P 500 target](https://www.thestreet.com/investing/analyst-who-nailed-tech-rally-sets-bold-sp-500-target) (Published: 2025-12-21)
 - [Tigress Calls Nvidia (NVDA) the ‘Premier AI Investment,’ Lifts Target to $350](https://finance.yahoo.com/news/tigress-calls-nvidia-nvda-premier-202300460.html) (Published: 2025-12-21)
 - [Resident Evil Requiem – Everything We Know About the New Game in CAPCOM’s Beloved Horror Franchise](https://wccftech.com/roundup/resident-evil-requiem-everything-we-know-about-the-new-game-in-capcoms-beloved-horror-franchise/) (Published: 2025-12-21)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-22 20:40:12**_
 - [ARTY Is Probably The Single Best Way To Bet On AI Stocks Without Have To Pick Single Winners](https://247wallst.com/investing/2025/12/21/arty-is-probably-the-single-best-way-to-bet-on-ai-stocks-without-have-to-pick-single-winners/) (Published: 2025-12-21)
 - [Better Artificial Intelligence Stock: Palantir vs. Nvidia](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_23d7b3ae-d7fe-48f7-962e-572cbe6b1329) (Published: 2025-12-21)
 - [Controversial Nvidia rival may finally IPO](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae15e0ed-3e9c-41b4-b22c-a19c86ad1fdc) (Published: 2025-12-21)
-- [H1-B extension vs amendment: What's the difference?](https://timesofindia.indiatimes.com/education/news/explained-the-difference-between-an-h-1b-extension-and-an-amendment/articleshow/126105919.cms) (Published: 2025-12-21)
-- [Bigg Boss Telugu 9 Winner: Kalyan Padala lifts the trophy, takes home Rs 40 lakhs, and a brand new SUV](https://timesofindia.indiatimes.com/tv/news/telugu/bigg-boss-telugu-9-winner-kalyan-padala-lifts-the-trophy-takes-home-rs-40-lakhs-and-a-brand-new-suv/articleshow/126107747.cms) (Published: 2025-12-21)
