@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 17:54:59**_
+_Last updated: **2025-12-22 18:30:43**_
 
+- [Better Artificial Intelligence Stock: Palantir vs. Nvidia](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_23d7b3ae-d7fe-48f7-962e-572cbe6b1329) (Published: 2025-12-21)
+- [Controversial Nvidia rival may finally IPO](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ae15e0ed-3e9c-41b4-b22c-a19c86ad1fdc) (Published: 2025-12-21)
 - [H1-B extension vs amendment: What's the difference?](https://timesofindia.indiatimes.com/education/news/explained-the-difference-between-an-h-1b-extension-and-an-amendment/articleshow/126105919.cms) (Published: 2025-12-21)
 - [Bigg Boss Telugu 9 Winner: Kalyan Padala lifts the trophy, takes home Rs 40 lakhs, and a brand new SUV](https://timesofindia.indiatimes.com/tv/news/telugu/bigg-boss-telugu-9-winner-kalyan-padala-lifts-the-trophy-takes-home-rs-40-lakhs-and-a-brand-new-suv/articleshow/126107747.cms) (Published: 2025-12-21)
 - [Bigg Boss Tamil 9: FJ gets evicted from the show](https://timesofindia.indiatimes.com/tv/news/tamil/fj-evicted-from-bigg-boss-tamil-9-a-heartfelt-goodbye/articleshow/126107667.cms) (Published: 2025-12-21)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-22 17:54:59**_
 - [NGT pulls up officials over illegal quarrying near Navi Mumbai cancer hospital](https://timesofindia.indiatimes.com/india/ngt-pulls-up-officials-over-illegal-quarrying-near-navi-mumbai-cancer-hospital/articleshow/126107364.cms) (Published: 2025-12-21)
 - [nvidb 1.5.0](https://pypi.org/project/nvidb/1.5.0/) (Published: 2025-12-21)
 - [Irix HDR Pro / Classic Pro 2.3.56](https://post.rlsbb.to/irix-hdr-pro-classic-pro-2-3-56/) (Published: 2025-12-21)
-- [Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact](https://finance.yahoo.com/news/breaking-out-the-selective-scalpel-wall-street-sees-ai-stock-trade-as-intact-160048510.html) (Published: 2025-12-21)
-- [Jim Cramer Shows a Bullish Sentiment Toward Broadcom](https://finance.yahoo.com/news/jim-cramer-shows-bullish-sentiment-154448251.html) (Published: 2025-12-21)
