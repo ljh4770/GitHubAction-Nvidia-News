@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 06:36:45**_
+_Last updated: **2025-12-22 07:00:15**_
 
+- [The RTX 5060 Ti 16 GB GPU may be discontinued, according to rumors](https://www.xda-developers.com/the-rtx-5060-ti-16-gb-gpu-may-be-discontinued-according-to-rumors/) (Published: 2025-12-21)
 - [Lenovo LOQ 17IRX10 @ TechPowerUp](https://www.madshrimps.be/news/lenovo-loq-17irx10-techpowerup/) (Published: 2025-12-21)
 - [Lenovo Legion Pro 5i, Core Ultra 9 275HX, 5070ti, 240hz OLED, 32GB, 1TB $2997 @ Officeworks](https://www.ozbargain.com.au/node/941164) (Published: 2025-12-21)
 - [Acer Nitro V 16S Gaming Laptop – $1,298 (Save $600)](https://www.ozbargain.com.au/node/941151) (Published: 2025-12-21)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-22 06:36:45**_
 - [US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price](https://www.bostonherald.com/2025/12/20/us-tech-enabled-chinas-surveillance-empire-now-tibetan-refugees-in-nepal-are-paying-the-price/) (Published: 2025-12-20)
 - [Tech Trainwrecks: 2025's Biggest Fails](https://uk.pcmag.com/computers-electronics/162185/tech-trainwrecks-2025s-biggest-fails) (Published: 2025-12-20)
 - [Tech Trainwrecks: 2025's Biggest Fails](https://me.pcmag.com/en/computers-electronics/34300/tech-trainwrecks-2025s-biggest-fails) (Published: 2025-12-20)
-- [polyinfer added to PyPI](https://pypi.org/project/polyinfer/) (Published: 2025-12-20)
