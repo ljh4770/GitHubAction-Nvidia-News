@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 05:55:35**_
+_Last updated: **2025-12-22 06:36:45**_
 
 - [Lenovo LOQ 17IRX10 @ TechPowerUp](https://www.madshrimps.be/news/lenovo-loq-17irx10-techpowerup/) (Published: 2025-12-21)
 - [Lenovo Legion Pro 5i, Core Ultra 9 275HX, 5070ti, 240hz OLED, 32GB, 1TB $2997 @ Officeworks](https://www.ozbargain.com.au/node/941164) (Published: 2025-12-21)
