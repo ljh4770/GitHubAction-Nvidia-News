@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 07:46:52**_
+_Last updated: **2025-12-22 07:56:56**_
 
 - [I tested HP's take on the MacBook Pro - and the HP ZBook X G1i is a surprisingly impressive mobile workstation for professionals and creators](https://www.techradar.com/pro/hp-zbook-x-g1i-mobile-workstation-review) (Published: 2025-12-21)
 - [Transform any device into a Chromecast: the trick that’s blowing minds](https://www.talkandroid.com/519395-transform-any-device-into-a-chromecast-the-trick-thats-blowing-minds/) (Published: 2025-12-21)
