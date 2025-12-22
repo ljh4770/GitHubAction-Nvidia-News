@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 16:19:06**_
+_Last updated: **2025-12-22 16:46:31**_
 
+- [nvidb 1.5.0](https://pypi.org/project/nvidb/1.5.0/) (Published: 2025-12-21)
 - [Irix HDR Pro / Classic Pro 2.3.56](https://post.rlsbb.to/irix-hdr-pro-classic-pro-2-3-56/) (Published: 2025-12-21)
 - [Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact](https://finance.yahoo.com/news/breaking-out-the-selective-scalpel-wall-street-sees-ai-stock-trade-as-intact-160048510.html) (Published: 2025-12-21)
 - [Jim Cramer Shows a Bullish Sentiment Toward Broadcom](https://finance.yahoo.com/news/jim-cramer-shows-bullish-sentiment-154448251.html) (Published: 2025-12-21)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-22 16:19:06**_
 - [Jim Cramer Says “Micron’s a Cash Machine”](https://finance.yahoo.com/news/jim-cramer-says-micron-cash-151358517.html) (Published: 2025-12-21)
 - [Jim Cramer Comments “We Think That Credo Has One of the Great Growth Stories”](https://finance.yahoo.com/news/jim-cramer-comments-think-credo-151355129.html) (Published: 2025-12-21)
 - [How Oracle became a ‘poster child’ for AI bubble fears](https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html) (Published: 2025-12-21)
-- [China’s Tencent Gains Access to the “Banned” NVIDIA’s Blackwell B200 AI Chips by Leveraging the Rental Loophole in U.S. Export Controls](https://wccftech.com/china-tencent-gains-access-to-nvidia-blackwell-ai-chips-by-leveraging-the-rental-loophole/) (Published: 2025-12-21)
