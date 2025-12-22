@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 17:27:40**_
+_Last updated: **2025-12-22 17:44:30**_
 
+- [H1-B extension vs amendment: What's the difference?](https://timesofindia.indiatimes.com/education/news/explained-the-difference-between-an-h-1b-extension-and-an-amendment/articleshow/126105919.cms) (Published: 2025-12-21)
+- [Bigg Boss Telugu 9 Winner: Kalyan Padala lifts the trophy, takes home Rs 40 lakhs, and a brand new SUV](https://timesofindia.indiatimes.com/tv/news/telugu/bigg-boss-telugu-9-winner-kalyan-padala-lifts-the-trophy-takes-home-rs-40-lakhs-and-a-brand-new-suv/articleshow/126107747.cms) (Published: 2025-12-21)
 - [Bigg Boss Tamil 9: FJ gets evicted from the show](https://timesofindia.indiatimes.com/tv/news/tamil/fj-evicted-from-bigg-boss-tamil-9-a-heartfelt-goodbye/articleshow/126107667.cms) (Published: 2025-12-21)
 - [Don't call it a tax hike? Trump's demand for a cut of Nvidia's China profits raises novel questions. (Brian Faler/Politico)](https://www.memeorandum.com/251221/p31) (Published: 2025-12-21)
 - [Kerala government warns against 'communalisation' of schools](https://timesofindia.indiatimes.com/india/kerala-government-warns-against-communalisation-of-schools/articleshow/126107433.cms) (Published: 2025-12-21)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-22 17:27:40**_
 - [Irix HDR Pro / Classic Pro 2.3.56](https://post.rlsbb.to/irix-hdr-pro-classic-pro-2-3-56/) (Published: 2025-12-21)
 - [Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact](https://finance.yahoo.com/news/breaking-out-the-selective-scalpel-wall-street-sees-ai-stock-trade-as-intact-160048510.html) (Published: 2025-12-21)
 - [Jim Cramer Shows a Bullish Sentiment Toward Broadcom](https://finance.yahoo.com/news/jim-cramer-shows-bullish-sentiment-154448251.html) (Published: 2025-12-21)
-- [Trump Admin to Hire 1,000 for New 'Tech Force' to Build AI Infrastructure](https://news.slashdot.org/story/25/12/21/075239/trump-admin-to-hire-1000-for-new-tech-force-to-build-ai-infrastructure) (Published: 2025-12-21)
-- [The Magnificent Seven Myth Is Starting to Crack](https://247wallst.com/investing/2025/12/21/the-magnificent-seven-myth-is-starting-to-crack/) (Published: 2025-12-21)
