@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 21:15:45**_
+_Last updated: **2025-12-22 21:32:22**_
 
 - [Why Nvidia maintains its moat and Gemini won’t kill OpenAI](https://siliconangle.com/2025/12/21/nvidia-maintains-moat-gemini-wont-kill-openai/) (Published: 2025-12-21)
 - [Reports Spark Questions About Bitmain Leadership and Internal Disputes](https://beincrypto.com/bitmain-cofounder-crisis-power-struggle/) (Published: 2025-12-21)
