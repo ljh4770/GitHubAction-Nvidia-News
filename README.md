@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 07:31:56**_
+_Last updated: **2025-12-22 07:46:52**_
 
+- [I tested HP's take on the MacBook Pro - and the HP ZBook X G1i is a surprisingly impressive mobile workstation for professionals and creators](https://www.techradar.com/pro/hp-zbook-x-g1i-mobile-workstation-review) (Published: 2025-12-21)
 - [Transform any device into a Chromecast: the trick that’s blowing minds](https://www.talkandroid.com/519395-transform-any-device-into-a-chromecast-the-trick-thats-blowing-minds/) (Published: 2025-12-21)
 - [The RTX 5060 Ti 16 GB GPU may be discontinued, according to rumors](https://www.xda-developers.com/the-rtx-5060-ti-16-gb-gpu-may-be-discontinued-according-to-rumors/) (Published: 2025-12-21)
 - [Lenovo LOQ 17IRX10 @ TechPowerUp](https://www.madshrimps.be/news/lenovo-loq-17irx10-techpowerup/) (Published: 2025-12-21)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-22 07:31:56**_
 - [Prediction: ‘Nvidia Stock Could Be Set for a 90% Run,’ Says Ivan Feinseth - TipRanks](https://slashdot.org/firehose.pl?op=view&amp;id=180431453) (Published: 2025-12-20)
 - [Should You Buy Nvidia Before Jan. 6, 2026?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_213dee5a-122b-450d-bb16-f35012ad3f24) (Published: 2025-12-20)
 - [US tech enabled China’s surveillance empire. Now Tibetan refugees in Nepal are paying the price](https://www.bostonherald.com/2025/12/20/us-tech-enabled-chinas-surveillance-empire-now-tibetan-refugees-in-nepal-are-paying-the-price/) (Published: 2025-12-20)
-- [Tech Trainwrecks: 2025's Biggest Fails](https://uk.pcmag.com/computers-electronics/162185/tech-trainwrecks-2025s-biggest-fails) (Published: 2025-12-20)
