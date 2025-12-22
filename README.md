@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 11:20:55**_
+_Last updated: **2025-12-22 11:36:29**_
 
 - [China's open AI models are in a dead heat with the West - here's what happens next](https://www.zdnet.com/article/china-open-ai-models-versus-us-llms-power-performance-compared/) (Published: 2025-12-21)
 - [Moore Threads unveils next-gen gaming GPU with 15x performance and 50x ray tracing improvement — AI GPU with claimed performance between Hopper and Blackwell also in the works](https://www.tomshardware.com/pc-components/gpus/moore-threads-unveils-next-gen-gaming-gpu-with-15x-performance-and-50x-ray-tracing-improvement-ai-gpu-with-claimed-performance-between-hopper-and-blackwell-also-in-the-works) (Published: 2025-12-21)
