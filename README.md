@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 17:00:10**_
+_Last updated: **2025-12-22 17:27:40**_
 
+- [Bigg Boss Tamil 9: FJ gets evicted from the show](https://timesofindia.indiatimes.com/tv/news/tamil/fj-evicted-from-bigg-boss-tamil-9-a-heartfelt-goodbye/articleshow/126107667.cms) (Published: 2025-12-21)
+- [Don't call it a tax hike? Trump's demand for a cut of Nvidia's China profits raises novel questions. (Brian Faler/Politico)](https://www.memeorandum.com/251221/p31) (Published: 2025-12-21)
+- [Kerala government warns against 'communalisation' of schools](https://timesofindia.indiatimes.com/india/kerala-government-warns-against-communalisation-of-schools/articleshow/126107433.cms) (Published: 2025-12-21)
 - [NGT pulls up officials over illegal quarrying near Navi Mumbai cancer hospital](https://timesofindia.indiatimes.com/india/ngt-pulls-up-officials-over-illegal-quarrying-near-navi-mumbai-cancer-hospital/articleshow/126107364.cms) (Published: 2025-12-21)
 - [nvidb 1.5.0](https://pypi.org/project/nvidb/1.5.0/) (Published: 2025-12-21)
 - [Irix HDR Pro / Classic Pro 2.3.56](https://post.rlsbb.to/irix-hdr-pro-classic-pro-2-3-56/) (Published: 2025-12-21)
@@ -8,6 +11,3 @@ _Last updated: **2025-12-22 17:00:10**_
 - [Jim Cramer Shows a Bullish Sentiment Toward Broadcom](https://finance.yahoo.com/news/jim-cramer-shows-bullish-sentiment-154448251.html) (Published: 2025-12-21)
 - [Trump Admin to Hire 1,000 for New 'Tech Force' to Build AI Infrastructure](https://news.slashdot.org/story/25/12/21/075239/trump-admin-to-hire-1000-for-new-tech-force-to-build-ai-infrastructure) (Published: 2025-12-21)
 - [The Magnificent Seven Myth Is Starting to Crack](https://247wallst.com/investing/2025/12/21/the-magnificent-seven-myth-is-starting-to-crack/) (Published: 2025-12-21)
-- [Jim Cramer Calls NVIDIA a “Fabulous” Company](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6cac448a-ae96-4195-aa28-fbf8ea562a56) (Published: 2025-12-21)
-- [Jim Cramer Says “Micron’s a Cash Machine”](https://finance.yahoo.com/news/jim-cramer-says-micron-cash-151358517.html) (Published: 2025-12-21)
-- [Jim Cramer Comments “We Think That Credo Has One of the Great Growth Stories”](https://finance.yahoo.com/news/jim-cramer-comments-think-credo-151355129.html) (Published: 2025-12-21)
