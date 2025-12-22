@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-22 13:33:54**_
+_Last updated: **2025-12-22 13:53:38**_
 
+- [Custom Build - Legion 5 Gen 10 AMD (15â³) with up to RTX 5070 with 32GB RAM - $1232 after discounts (3 replies)](https://slickdeals.net/f/19001683-custom-build-legion-5-gen-10-amd-15-with-up-to-rtx-5070-with-32gb-ram-1232-after-discounts) (Published: 2025-12-21)
 - [Humanoid robots are coming. Eventually?](https://www.theverge.com/column/843418/humanoid-robot-hype) (Published: 2025-12-21)
 - [How Sony ‘stopped’ Chinese tech giant Tencent from releasing Horizon-inspired game](https://timesofindia.indiatimes.com/technology/gaming/how-sony-stopped-chinese-tech-giant-tencent-from-releasing-horizon-inspired-game/articleshow/126105486.cms) (Published: 2025-12-21)
 - [Three top Wall Street analysts stay bullish on Nvidia stock. Here's why](https://www.cnbc.com/2025/12/21/three-top-wall-street-analysts-stay-bullish-on-nvidia-stock-heres-why.html) (Published: 2025-12-21)
@@ -9,5 +10,3 @@ _Last updated: **2025-12-22 13:33:54**_
 - [FunctionGemma Launch: Google Infuses AI Into Smartphones](https://www.ndtvprofit.com/technology/functiongemma-launch-google-infuses-ai-into-smartphones) (Published: 2025-12-21)
 - [nvidia-nat-ragaai 1.4.0a20251221](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20251221/) (Published: 2025-12-21)
 - [Fears grow of AI bubble - and here are the pressure points that could burst it](https://news.sky.com/story/fears-grow-of-ai-bubble-and-here-are-the-pressure-points-that-could-burst-it-13486328) (Published: 2025-12-21)
-- [nvidia-nat-test 1.4.0a20251221](https://pypi.org/project/nvidia-nat-test/1.4.0a20251221/) (Published: 2025-12-21)
-- [nvidia-nat-strands 1.4.0a20251221](https://pypi.org/project/nvidia-nat-strands/1.4.0a20251221/) (Published: 2025-12-21)
