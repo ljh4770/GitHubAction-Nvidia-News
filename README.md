@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 23:30:14**_
+_Last updated: **2025-12-23 23:44:02**_
 
+- [Asia-Pacific markets are set for higher open after AI trade lifts Wall Street](https://www.cnbc.com/2025/12/23/asia-markets-live-nikkei-kospi-hang-seng-singapore.html) (Published: 2025-12-22)
 - [Show HN: A repo to turn any model into a reasoning model without training](https://github.com/dl1683/Latent-Space-Reasoning) (Published: 2025-12-22)
 - [Stock market today: Live updates](https://www.cnbc.com/2025/12/22/stock-market-today-live-updates.html) (Published: 2025-12-22)
 - [Wall Street’s bid on crypto dominated 2025 but what’s the demand outlook for 2026?](https://cointelegraph.com/news/wall-street-ruled-crypto-in-2025-what-s-the-demand-outlook-for-2026) (Published: 2025-12-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-23 23:30:14**_
 - [S&P 500 posts third-straight winning day, buoyed by AI trade: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=180441093) (Published: 2025-12-22)
 - [ChatGPT Gets Spotify Wrapped-Style Year-End Review](https://www.cnet.com/tech/services-and-software/openai-your-year-with-chatgpt-year-end-recap/) (Published: 2025-12-22)
 - [Secure Messaging and AI Don’t Mix](https://www.aclu.org/news/privacy-technology/secure-messaging-and-ai-dont-mix) (Published: 2025-12-22)
-- [Gold prices lift S&P/TSX composite, U.S. stock markets also rise](https://financialpost.com/pmn/gold-prices-lift-sp-tsx-composite-u-s-stock-markets-also-rise) (Published: 2025-12-22)
