@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 20:52:21**_
+_Last updated: **2025-12-23 21:13:19**_
 
+- [Watch out, Nvidia - Qualcomm acquires Alphawave Semi in latest addition to its AI data center push](https://www.techradar.com/pro/watch-out-nvidia-qualcomm-acquires-alphawave-semi-in-latest-addition-to-its-ai-data-center-push) (Published: 2025-12-22)
 - [Nvidia reorganizes cloud division and pivots focus, The Information reports](https://thefly.com/permalinks/entry.php/id4261094/NVDA;AMZN-Nvidia-reorganizes-cloud-division-and-pivots-focus-The-Information-reports) (Published: 2025-12-22)
 - [Children In Danger, Part Two](https://www.penny-arcade.com/news/post/2025/12/22/children-in-danger-part-two) (Published: 2025-12-22)
 - [SoftBank scrambling to come up with $22.5B in OpenAI funding before New Year](https://www.theregister.com/2025/12/22/softbank_funding_openai/) (Published: 2025-12-22)
@@ -9,4 +10,3 @@ _Last updated: **2025-12-23 20:52:21**_
 - [Too much power, too much risk? Big Short investor Michael Burry says Nvidia chips could hand AI edge to China](https://economictimes.indiatimes.com/news/international/us/michael-burry-warns-nvidia-chips-power-problem-could-hand-ai-edge-to-china/articleshow/126127856.cms) (Published: 2025-12-22)
 - [The holiday conversation finance pros dread: Which stocks should I buy?](https://www.businessinsider.com/holiday-investing-advice-pros-dread-stock-picks-market-outlook-crypto-2025-12) (Published: 2025-12-22)
 - [A chaotic 'up-crash' for markets riding a turbulent 2025](https://www.abc.net.au/news/2025-12-23/trump-tariffs-interest-rates-and-ai-2025-was-a-chaotic-up-crash/106086538) (Published: 2025-12-22)
-- [Understanding the Dangerous Trump-MAGA National Security Strategy](https://www.commondreams.org/opinion/trump-s-national-security-strategy) (Published: 2025-12-22)
