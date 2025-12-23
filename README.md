@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 14:48:05**_
+_Last updated: **2025-12-23 14:58:31**_
 
+- [Someone Bought 2 Unique RTX 3080 Ti 20GB Engineer Samples by Mistake](https://me.pcmag.com/en/graphics-cards/34321/someone-bought-2-unique-rtx-3080-ti-20gb-engineer-samples-by-mistake) (Published: 2025-12-22)
+- [Someone Bought 2 Unique RTX 3080 Ti 20GB Engineer Samples by Mistake](https://uk.pcmag.com/graphics-cards/162205/someone-bought-2-unique-rtx-3080-ti-20gb-engineer-samples-by-mistake) (Published: 2025-12-22)
 - [AI in Asia-Pacific's Digital Payments and E-Commerce Market 2025: AI Adoption Lifts Digital Payments and E-Commerce, Driven by China and High-growth Markets](https://www.globenewswire.com/news-release/2025/12/22/3209319/28124/en/AI-in-Asia-Pacific-s-Digital-Payments-and-E-Commerce-Market-2025-AI-Adoption-Lifts-Digital-Payments-and-E-Commerce-Driven-by-China-and-High-growth-Markets.html) (Published: 2025-12-22)
 - [CoreWeave stock explodes after Citigroup upgrade](https://rollingout.com/2025/12/22/coreweave-stock-explodes-after-upgrade/) (Published: 2025-12-22)
 - [The Global Market for Visual Effects 2025-2032: Revenues Forecast to More Than Double Reaching $25 Billion, Driven by the Expansion of Cloud-based Collaborative Platforms](https://www.globenewswire.com/news-release/2025/12/22/3209312/28124/en/The-Global-Market-for-Visual-Effects-2025-2032-Revenues-Forecast-to-More-Than-Double-Reaching-25-Billion-Driven-by-the-Expansion-of-Cloud-based-Collaborative-Platforms.html) (Published: 2025-12-22)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-23 14:48:05**_
 - [Kevin O'Leary warns China 'kicking our heinies' in AI race as regulatory roadblocks stall US](https://www.foxnews.com/media/kevin-oleary-warns-china-kicking-our-heinies-ai-race-regulatory-roadblocks-stall-us) (Published: 2025-12-22)
 - [Vultures rake our claws over COSMIC as Pop OS 24.04 LTS with 'Epoch 1' emerges](https://www.theregister.com/2025/12/22/popos_2404_cosmic_epoch_1/) (Published: 2025-12-22)
 - [These were the investing winners and losers that made or crushed portfolios in 2025](https://financialpost.com/investing/investing-winners-losers-crushed-portfolios-2025) (Published: 2025-12-22)
-- ['Big Short' investor Michael Burry warns the US will lose the AI race to China if it banks on Nvidia's 'power hungry' chips](https://www.businessinsider.com/big-short-michael-burry-nvidia-chips-ai-china-tech-power-2025-12) (Published: 2025-12-22)
-- [NVIDIA Corporation (NVDA) Plots $1.5B Server Farm Investment in Israel](https://finance.yahoo.com/news/nvidia-corporation-nvda-plots-1-133949329.html) (Published: 2025-12-22)
