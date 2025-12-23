@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 23:09:03**_
+_Last updated: **2025-12-23 23:30:14**_
 
+- [Show HN: A repo to turn any model into a reasoning model without training](https://github.com/dl1683/Latent-Space-Reasoning) (Published: 2025-12-22)
 - [Stock market today: Live updates](https://www.cnbc.com/2025/12/22/stock-market-today-live-updates.html) (Published: 2025-12-22)
 - [Wall Street’s bid on crypto dominated 2025 but what’s the demand outlook for 2026?](https://cointelegraph.com/news/wall-street-ruled-crypto-in-2025-what-s-the-demand-outlook-for-2026) (Published: 2025-12-22)
 - [Harvest ETFs Announces Revised Estimated Annual 2025 Reinvested Harvest High Income Shares ETFs Distributions](https://financialpost.com/pmn/business-wire-news-releases-pmn/harvest-etfs-announces-revised-estimated-annual-2025-reinvested-harvest-high-income-shares-etfs-distributions) (Published: 2025-12-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-23 23:09:03**_
 - [ChatGPT Gets Spotify Wrapped-Style Year-End Review](https://www.cnet.com/tech/services-and-software/openai-your-year-with-chatgpt-year-end-recap/) (Published: 2025-12-22)
 - [Secure Messaging and AI Don’t Mix](https://www.aclu.org/news/privacy-technology/secure-messaging-and-ai-dont-mix) (Published: 2025-12-22)
 - [Gold prices lift S&P/TSX composite, U.S. stock markets also rise](https://financialpost.com/pmn/gold-prices-lift-sp-tsx-composite-u-s-stock-markets-also-rise) (Published: 2025-12-22)
-- [Bolsas de Nova York avançam com rali em setor de tecnologia](https://www.infomoney.com.br/mercados/bolsas-de-nova-york-avancam-com-rali-em-setor-de-tecnologia/) (Published: 2025-12-22)
