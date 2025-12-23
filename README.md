@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 22:38:58**_
+_Last updated: **2025-12-23 22:50:38**_
 
 - [Xi promotes two generals; Japan nuclear weapons talk; US-China; Warning to Mexico; Nvidia chip smuggling investigation](https://sinocism.com/p/xi-promotes-two-generals-japan-nuclear) (Published: 2025-12-22)
 - [This $450 RTX laptop deal is too good to ignore — Acer Nitro V packs RTX 5050, 16GB RAM and 13th Gen Core i5 power](https://www.techradar.com/pro/this-usd450-rtx-laptop-deal-is-too-good-to-ignore-acer-nitro-v-packs-rtx-5050-16gb-ram-and-13th-gen-core-i5-power) (Published: 2025-12-22)
