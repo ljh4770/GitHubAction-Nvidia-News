@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 04:53:44**_
+_Last updated: **2025-12-23 05:21:10**_
 
+- [Call or Put? How options shape profits, protection and strategy across markets](https://economictimes.indiatimes.com/markets/stocks/news/call-or-put-how-options-shape-profits-protection-and-strategy-across-markets/articleshow/126114782.cms) (Published: 2025-12-22)
 - [How GIFT City is fuelling global portfolio shifts among Indian investors](https://www.thehindubusinessline.com/markets/how-gift-city-is-fuelling-global-portfolio-shifts-among-indian-investors/article70416313.ece) (Published: 2025-12-22)
 - [GAMEMAX Unveils NEX C56 and NEX C56 VC Dual-Chamber Cases](https://www.madshrimps.be/news/gamemax-unveils-nex-c56-and-nex-c56-vc-dual-chamber-cases-2/) (Published: 2025-12-22)
 - [Why a key Japanese Nvidia supplier is betting on a premium niche strategy](https://asia.nikkei.com/business/technology/why-a-key-japanese-nvidia-supplier-is-betting-on-a-premium-niche-strategy) (Published: 2025-12-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-23 04:53:44**_
 - [Java News Roundup: GlassFish, TornadoVM, Spring Shell, WildFly, Hibernate, Kotlin](https://www.infoq.com/news/2025/12/java-news-roundup-dec15-2025/) (Published: 2025-12-22)
 - [Hardcore PC Gaming Is About to Die](http://comicbook.com/gaming/feature/hardcore-pc-gaming-is-about-to-die/) (Published: 2025-12-22)
 - [As US battles China on AI, some companies choose Chinese](https://www.digitaljournal.com/tech-science/as-us-battles-china-on-ai-some-companies-choose-chinese/article) (Published: 2025-12-22)
-- [As US battles China on AI, some companies choose Chinese](https://finance.yahoo.com/news/us-battles-china-ai-companies-012305478.html) (Published: 2025-12-22)
