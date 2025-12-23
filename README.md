@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 06:38:23**_
+_Last updated: **2025-12-23 07:00:51**_
 
 - [配線太さがジュース缶並み!? 800V DC供給で電力損失7～10％削減を可能にする次世代データセンターラック技術 (1/3)](https://ascii.jp/elem/000/004/361/4361715/) (Published: 2025-12-22)
 - [Weekly news roundup: Intel's TSMC talent grab draws scrutiny, Samsung foundry lands Intel order, Moore's Law talent gap looms](https://www.digitimes.com/news/a20251222VL201/digitimes-asia-weekly-news-roundup-tsmc-intel-samsung-talent.html) (Published: 2025-12-22)
