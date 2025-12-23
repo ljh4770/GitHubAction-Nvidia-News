@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 07:46:51**_
+_Last updated: **2025-12-23 07:57:22**_
 
 - [Desktop power in a semi portable frame? I tested the Dell Pro Max 18 Plus and it's a tank you can take to a coffee shop](https://www.techradar.com/pro/dell-pro-max-18-plus-mobile-workstation-review) (Published: 2025-12-22)
 - [(PR) GMKtec Launches New NucBox K15 Mini PC With Core Ultra 5 125U Processor and OCuLink](https://www.techpowerup.com/344311/gmktec-launches-new-nucbox-k15-mini-pc-with-core-ultra-5-125u-processor-and-oculink) (Published: 2025-12-22)
