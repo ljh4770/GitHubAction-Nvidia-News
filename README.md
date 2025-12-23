@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 08:36:53**_
+_Last updated: **2025-12-23 08:58:18**_
 
 - [How is India's AI governance framework reshaping where AI runs?](https://www.digitimes.com/news/a20251222VL202/india-ai-governance-hardware-infrastructure-netweb.html) (Published: 2025-12-22)
 - [Haryana NEET PG counselling 2025 round 2 seat allotment result released: Check direct link to download here](https://timesofindia.indiatimes.com/education/news/haryana-neet-pg-counselling-2025-round-2-seat-allotment-result-out-direct-link-to-download-here/articleshow/126117481.cms) (Published: 2025-12-22)
