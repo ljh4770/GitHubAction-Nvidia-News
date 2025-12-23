@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 16:56:57**_
+_Last updated: **2025-12-23 17:24:48**_
 
+- [Amazon GameLift Streams launches Gen6-based stream classes and enhanced autoscaling for better performance and pricing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-gameliftstream-gen6-enhanced-autoscaling) (Published: 2025-12-22)
 - [AI names push stock markets higher on Friday](https://financialpost.com/pmn/ai-names-push-stock-markets-higher-on-friday-2) (Published: 2025-12-22)
 - [nvidb 1.6.0](https://pypi.org/project/nvidb/1.6.0/) (Published: 2025-12-22)
 - [When Strategy Meets Story, Enterprises Excel](https://brandingstrategyinsider.com/when-strategy-meets-story-enterprises-excel/) (Published: 2025-12-22)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-23 16:56:57**_
 - [Israeli high-tech funding rises to nearly $16 billion in 2025, report says](https://economictimes.indiatimes.com/tech/funding/israeli-high-tech-funding-rises-to-nearly-16-billion-in-2025-report-says/articleshow/126124805.cms) (Published: 2025-12-22)
 - [Israeli high-tech funding rises to nearly $16 billion in 2025, report says](https://www.channelnewsasia.com/business/israeli-high-tech-funding-rises-nearly-16-billion-in-2025-report-says-5673196) (Published: 2025-12-22)
 - [Amazon stock surge looms as delivery revolution begins](https://rollingout.com/2025/12/22/amazon-stock-openai-aws-delivery/) (Published: 2025-12-22)
-- [This gift-wrapping robot is quite funny, actually](https://www.techradar.com/ai-platforms-assistants/this-gift-wrapping-robot-is-quite-funny-actually) (Published: 2025-12-22)
