@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 21:44:45**_
+_Last updated: **2025-12-23 21:54:59**_
 
 - [Bolsas de Nova York avançam com rali em setor de tecnologia](https://www.infomoney.com.br/mercados/bolsas-de-nova-york-avancam-com-rali-em-setor-de-tecnologia/) (Published: 2025-12-22)
 - [Watch out, Nvidia - Qualcomm acquires Alphawave Semi in latest addition to its AI data center push](https://www.techradar.com/pro/watch-out-nvidia-qualcomm-acquires-alphawave-semi-in-latest-addition-to-its-ai-data-center-push) (Published: 2025-12-22)
