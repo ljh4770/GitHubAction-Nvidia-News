@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 23:44:02**_
+_Last updated: **2025-12-23 23:54:45**_
 
 - [Asia-Pacific markets are set for higher open after AI trade lifts Wall Street](https://www.cnbc.com/2025/12/23/asia-markets-live-nikkei-kospi-hang-seng-singapore.html) (Published: 2025-12-22)
 - [Show HN: A repo to turn any model into a reasoning model without training](https://github.com/dl1683/Latent-Space-Reasoning) (Published: 2025-12-22)
