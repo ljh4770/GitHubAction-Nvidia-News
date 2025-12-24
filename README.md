@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-24 08:34:32**_
+_Last updated: **2025-12-24 08:56:48**_
 
 - [Auvidea X242 – An NVIDIA Jetson Thor T5000 industrial carrier board with dual 10GbE, PCIe x16, CSI-2 camera support](https://www.cnx-software.com/2025/12/23/auvidea-x242-an-nvidia-jetson-thor-t5000-industrial-carrier-board-with-dual-10gbe-pcie-x16-csi-2-camera-support/) (Published: 2025-12-23)
 - [Truist Reaffirms Buy on NVIDIA (NVDA), Raises PT to $275 on AI Infrastructure Upside](https://finance.yahoo.com/news/truist-reaffirms-buy-nvidia-nvda-075136854.html) (Published: 2025-12-23)
