@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-24 23:11:20**_
+_Last updated: **2025-12-24 23:31:10**_
 
+- [Nvidia gains, hospitals hurt: Congress winners and losers](https://www.bostonherald.com/2025/12/23/congress-corporate-winners-losers/) (Published: 2025-12-23)
 - [Stock market today: Live updates](https://www.cnbc.com/2025/12/23/stock-market-today-live-updates.html) (Published: 2025-12-23)
 - [Stock market today: Dow, S&P 500 eye records, Nasdaq gains as Wall Street flies high into Christmas holiday](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-eye-records-nasdaq-gains-as-wall-street-flies-high-into-christmas-holiday-230346174.html) (Published: 2025-12-23)
 - [Hoping AI will give you more work-life balance in 2026? Fortune 500 CEOs warn otherwise](https://fortune.com/2025/12/23/work-life-balance-recap-2025-fortune-500-ceos-productivity-grind-secrets-for-success/) (Published: 2025-12-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-24 23:11:20**_
 - [S&P 500 Hits New All-Time High](https://www.newser.com/story/380898/sp-500-hits-new-all-time-high.html) (Published: 2025-12-23)
 - [S&P 500 reaches another record, beating the high it set earlier in December](https://www.boston25news.com/news/business/asian-shares-climb/LQN7KXPPCU2NFDR6H2KOB76UM4/) (Published: 2025-12-23)
 - [New U.S. military GenAI tool ‘critical first step’ in future of warfare, says expert](https://www.foxnews.com/politics/new-u-s-military-genai-tool-critical-first-step-future-warfare-says-expert) (Published: 2025-12-23)
-- [sentropy added to PyPI](https://pypi.org/project/sentropy/) (Published: 2025-12-23)
