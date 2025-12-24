@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-24 23:45:10**_
+_Last updated: **2025-12-24 23:55:48**_
 
+- [Stock Market Today: GDP Grows 4.3%; Gold Price Surge Hits New Milestone; Dow Slips - The Wall Street Journal](https://slashdot.org/firehose.pl?op=view&amp;id=180447539) (Published: 2025-12-23)
 - [Moore Threads challenges Nvidia as S5000 targets Hopper-class LLM training](https://www.digitimes.com/news/a20251223PD233/moore-threads-ai-chip-nvidia-training-llm.html) (Published: 2025-12-23)
 - [Asia markets set to track Wall Street gains in thin Christmas Eve trading](https://www.cnbc.com/2025/12/24/asia-markets-nikkei-225-hang-seng-index-csi-300.html) (Published: 2025-12-23)
 - [Nvidia gains, hospitals hurt: Congress winners and losers](https://www.bostonherald.com/2025/12/23/congress-corporate-winners-losers/) (Published: 2025-12-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-24 23:45:10**_
 - [The ROG Xbox Ally Is Great, But The Smart Money Buys A Cheaper Device](https://www.bgr.com/2056102/rog-xbox-ally-not-worth-it-cheaper-steam-deck/) (Published: 2025-12-23)
 - [$300 Intel B50 video card emerges as a surprisingly capable Pro GPU — but Nvidia's older Ada generation emerges as a bit of a bargain](https://www.techradar.com/pro/usd300-intel-b50-video-card-emerges-as-a-surprisingly-capable-pro-gpu-but-nvidias-older-ada-generation-emerges-as-a-bit-of-a-bargain) (Published: 2025-12-23)
 - [Stock markets rise with the latest U.S. economic data ‘sending the right signals’](https://financialpost.com/pmn/stock-markets-rise-with-the-latest-u-s-economic-data-sending-the-right-signals) (Published: 2025-12-23)
-- [S&P 500 Hits New All-Time High](https://www.newser.com/story/380898/sp-500-hits-new-all-time-high.html) (Published: 2025-12-23)
