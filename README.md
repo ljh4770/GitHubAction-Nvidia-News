@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-24 15:49:16**_
+_Last updated: **2025-12-24 15:59:51**_
 
+- [Best Buy 48-Hour PC Gaming Deals: Up to 56% off + free shipping](https://www.dealnews.com/Best-Buy-48-Hour-PC-Gaming-Deals-Up-to-56-off-free-shipping/21798108.html) (Published: 2025-12-23)
 - [CES 2026 trends to watch: 5 biggest topics we're expecting at the tech show](https://www.zdnet.com/article/ces-2026-biggest-trends/) (Published: 2025-12-23)
 - [The next AI pivot will be toward efficiency and lowering costs, ex-Facebook privacy chief says](https://www.cnbc.com/2025/12/23/ai-cost-efficiency-facebook-privacy.html) (Published: 2025-12-23)
 - [Bitcoin shows less volatility than Nvidia and Tesla stocks](https://cryptobriefing.com/bitcoin-volatility-nvdia-tesla/) (Published: 2025-12-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-24 15:49:16**_
 - [(PR) Mobvoi and Olares Announces World's First "Hybrid-Cloud" AI Note-Taking Earbuds](https://www.techpowerup.com/344370/mobvoi-and-olares-announces-worlds-first-hybrid-cloud-ai-note-taking-earbuds) (Published: 2025-12-23)
 - [OpenAI’s CEO Sam Altman says in 10 years’ time college graduates will be working ‘some completely new, exciting, super well-paid’ job in space](https://fortune.com/article/openai-sam-altman-gen-alpha-working-in-space-well-paid-jobs/) (Published: 2025-12-23)
 - [OpenAI’s CEO Sam Altman says in 10 years’ time college graduates will be working ‘some completely new, exciting, super well-paid’ job in space](https://www.yahoo.com/news/articles/openai-ceo-sam-altman-says-142824605.html) (Published: 2025-12-23)
-- [Google Cloud chief reveals the long game: a decade of silicon and the energy battle behind the AI boom](https://fortune.com/2025/12/23/google-cloud-ceo-thomas-kurian-ai-energy-tpu-battle/) (Published: 2025-12-23)
