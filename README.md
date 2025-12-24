@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-23 23:54:45**_
+_Last updated: **2025-12-24 01:37:46**_
 
+- [Asian stocks rise, extending record global rally](https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-rise-extending-record-global-rally/articleshow/126131456.cms) (Published: 2025-12-23)
+- [Nvidia targets pre-holiday H200 shipments to China via inventory; production ramp remains uncertain](https://www.digitimes.com/news/a20251223VL200/nvidia-production-shipments-chips-sales.html) (Published: 2025-12-23)
 - [Asia-Pacific markets are set for higher open after AI trade lifts Wall Street](https://www.cnbc.com/2025/12/23/asia-markets-live-nikkei-kospi-hang-seng-singapore.html) (Published: 2025-12-22)
 - [Show HN: A repo to turn any model into a reasoning model without training](https://github.com/dl1683/Latent-Space-Reasoning) (Published: 2025-12-22)
 - [Stock market today: Live updates](https://www.cnbc.com/2025/12/22/stock-market-today-live-updates.html) (Published: 2025-12-22)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-23 23:54:45**_
 - [Xi promotes two generals; Japan nuclear weapons talk; US-China; Warning to Mexico; Nvidia chip smuggling investigation](https://sinocism.com/p/xi-promotes-two-generals-japan-nuclear) (Published: 2025-12-22)
 - [This $450 RTX laptop deal is too good to ignore — Acer Nitro V packs RTX 5050, 16GB RAM and 13th Gen Core i5 power](https://www.techradar.com/pro/this-usd450-rtx-laptop-deal-is-too-good-to-ignore-acer-nitro-v-packs-rtx-5050-16gb-ram-and-13th-gen-core-i5-power) (Published: 2025-12-22)
 - [S&P 500 posts third-straight winning day, buoyed by AI trade: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=180441093) (Published: 2025-12-22)
-- [ChatGPT Gets Spotify Wrapped-Style Year-End Review](https://www.cnet.com/tech/services-and-software/openai-your-year-with-chatgpt-year-end-recap/) (Published: 2025-12-22)
-- [Secure Messaging and AI Don’t Mix](https://www.aclu.org/news/privacy-technology/secure-messaging-and-ai-dont-mix) (Published: 2025-12-22)
