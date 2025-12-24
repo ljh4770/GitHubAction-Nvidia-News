@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-24 19:41:58**_
+_Last updated: **2025-12-24 19:52:29**_
 
+- [NVIDIA & AMD Are Back in China Once Again —This Time With Far More Powerful AI Chips, But Regulatory Guardrails Have Tightened Significantly](https://wccftech.com/nvidia-amd-are-back-in-china-once-again/) (Published: 2025-12-23)
+- [Samsung's 2026 Gaming Monitors Promise 6K, 3D, and Up To 1,040Hz](https://entertainment.slashdot.org/story/25/12/23/1944212/samsungs-2026-gaming-monitors-promise-6k-3d-and-up-to-1040hz) (Published: 2025-12-23)
 - [Inside Succession Crisis at America's Top Companies...](https://www.townandcountrymag.com/society/money-and-power/a69383066/succession-ceos-2025/) (Published: 2025-12-23)
 - [Samsung’s 2026 gaming monitors promise 6K, 3D, and up to 1,040Hz](https://www.theverge.com/news/849850/samsung-odyssey-gaming-monitors-6k-3d-ces-2026) (Published: 2025-12-23)
 - [Nvidia aims at shipments of H200 chips to China by mid-February](https://economictimes.indiatimes.com/news/international/world-news/nvidia-aims-at-shipments-of-h200-chips-to-china-by-mid-february/articleshow/126147448.cms) (Published: 2025-12-23)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-24 19:41:58**_
 - [Silver hits record high above $71 as market cap approaches $4 trillion](https://cryptobriefing.com/silver-71-price-market-cap-2025/) (Published: 2025-12-23)
 - [GeForce Now’s 100-hour monthly game streaming limit kicks in for (almost) everyone in 2026](http://9to5google.com/2025/12/23/nvidia-geforce-now-100-hour-limit-2026/) (Published: 2025-12-23)
 - [Microsoft's year of shame](https://www.pcgamer.com/gaming-industry/microsofts-year-of-shame/) (Published: 2025-12-23)
-- [VideoProc Converter AI 8.7](https://post.rlsbb.to/videoproc-converter-ai-8-7-2/) (Published: 2025-12-23)
-- [NVIDIA Nemotron 3 Nano now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/nvidia-nemotron-3-nano-amazon-bedrock) (Published: 2025-12-23)
