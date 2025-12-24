@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-24 01:37:46**_
+_Last updated: **2025-12-24 03:13:23**_
 
+- [$2999.99 Lenovo Legion Pro 7i 16 Gaming Laptop - Intel Core Ultra 9 275HX 2.1GHz Processor; NVIDIA GeForce RTX 5090 24GB GDDR7; 64GB DDR5-6400 RAM at Micro Center](https://slickdeals.net/f/19008586-2999-99-lenovo-legion-pro-7i-16-gaming-laptop-intel-core-ultra-9-275hx-2-1ghz-processor-nvidia-geforce-rtx-5090-24gb-gddr7-64gb-ddr5-6400-ram-at-micro-center) (Published: 2025-12-23)
+- [BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks](https://cointelegraph.com/news/blackrock-bitcoin-etf-major-investment-theme-with-t-bills-tech-stocks) (Published: 2025-12-23)
+- [tensorrt-llm 1.2.0rc6](https://pypi.org/project/tensorrt-llm/1.2.0rc6/) (Published: 2025-12-23)
+- [This is the gaming laptop that can handle everything you can throw at it](https://www.xda-developers.com/this-is-the-gaming-laptop-to-get-if-need-slim-and-powerful/) (Published: 2025-12-23)
+- [Nvidia hopes to ship first H200 GPUs to China by February, report claims](https://siliconangle.com/2025/12/22/nvidia-hopes-ship-first-h200-gpus-china-february-report-claims/) (Published: 2025-12-23)
+- [Lenovo Legion Gaming CES Line-Up Tips AMD Ryzen AI 400 Refresh](https://www.techpowerup.com/344338/lenovo-legion-gaming-ces-line-up-tips-amd-ryzen-ai-400-refresh) (Published: 2025-12-23)
+- [Wall Street advances with broad gains, tech gains continue](https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-advances-with-broad-gains-tech-gains-continue/articleshow/126131711.cms) (Published: 2025-12-23)
+- [Report: SoftBank scrambles to find $22.5B for OpenAI before the end of the year](https://siliconangle.com/2025/12/22/report-softbank-scrambles-find-22-5b-openai-end-year/) (Published: 2025-12-23)
 - [Asian stocks rise, extending record global rally](https://economictimes.indiatimes.com/markets/stocks/news/asian-stocks-rise-extending-record-global-rally/articleshow/126131456.cms) (Published: 2025-12-23)
 - [Nvidia targets pre-holiday H200 shipments to China via inventory; production ramp remains uncertain](https://www.digitimes.com/news/a20251223VL200/nvidia-production-shipments-chips-sales.html) (Published: 2025-12-23)
-- [Asia-Pacific markets are set for higher open after AI trade lifts Wall Street](https://www.cnbc.com/2025/12/23/asia-markets-live-nikkei-kospi-hang-seng-singapore.html) (Published: 2025-12-22)
-- [Show HN: A repo to turn any model into a reasoning model without training](https://github.com/dl1683/Latent-Space-Reasoning) (Published: 2025-12-22)
-- [Stock market today: Live updates](https://www.cnbc.com/2025/12/22/stock-market-today-live-updates.html) (Published: 2025-12-22)
-- [Wall Street’s bid on crypto dominated 2025 but what’s the demand outlook for 2026?](https://cointelegraph.com/news/wall-street-ruled-crypto-in-2025-what-s-the-demand-outlook-for-2026) (Published: 2025-12-22)
-- [Harvest ETFs Announces Revised Estimated Annual 2025 Reinvested Harvest High Income Shares ETFs Distributions](https://financialpost.com/pmn/business-wire-news-releases-pmn/harvest-etfs-announces-revised-estimated-annual-2025-reinvested-harvest-high-income-shares-etfs-distributions) (Published: 2025-12-22)
-- [Xi promotes two generals; Japan nuclear weapons talk; US-China; Warning to Mexico; Nvidia chip smuggling investigation](https://sinocism.com/p/xi-promotes-two-generals-japan-nuclear) (Published: 2025-12-22)
-- [This $450 RTX laptop deal is too good to ignore — Acer Nitro V packs RTX 5050, 16GB RAM and 13th Gen Core i5 power](https://www.techradar.com/pro/this-usd450-rtx-laptop-deal-is-too-good-to-ignore-acer-nitro-v-packs-rtx-5050-16gb-ram-and-13th-gen-core-i5-power) (Published: 2025-12-22)
-- [S&P 500 posts third-straight winning day, buoyed by AI trade: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=180441093) (Published: 2025-12-22)
