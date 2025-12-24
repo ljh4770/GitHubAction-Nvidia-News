@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-24 04:05:51**_
+_Last updated: **2025-12-24 04:47:10**_
 
+- [Dow Jones Futures: Nvidia Tests Key Level; AppLovin, Apple, Palantir, Tesla In Buy Zones - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180442759) (Published: 2025-12-23)
 - [Sensex slips over 100 pts, Nifty below 26,200 as foreign outflows halt 2-day rally](https://economictimes.indiatimes.com/markets/stocks/news/sensex-slips-over-100-pts-nifty-below-26200-as-foreign-outflows-halt-2-day-rally/articleshow/126133030.cms) (Published: 2025-12-23)
 - [Nvidia's biggest Southeast Asia buyer placed under US chip smuggling probe](https://www.digitimes.com/news/a20251223VL206/nvidia-southeast-asia-chips-investigation.html) (Published: 2025-12-23)
 - [Watch: Ladakh surprises tourists with a rare red fox near Pangong Tso](https://timesofindia.indiatimes.com/etimes/trending/watch-ladakh-surprises-tourists-with-a-rare-red-fox-near-pangong-tso/articleshow/126132904.cms) (Published: 2025-12-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-24 04:05:51**_
 - [BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks](https://cointelegraph.com/news/blackrock-bitcoin-etf-major-investment-theme-with-t-bills-tech-stocks) (Published: 2025-12-23)
 - [tensorrt-llm 1.2.0rc6](https://pypi.org/project/tensorrt-llm/1.2.0rc6/) (Published: 2025-12-23)
 - [This is the gaming laptop that can handle everything you can throw at it](https://www.xda-developers.com/this-is-the-gaming-laptop-to-get-if-need-slim-and-powerful/) (Published: 2025-12-23)
-- [Nvidia hopes to ship first H200 GPUs to China by February, report claims](https://siliconangle.com/2025/12/22/nvidia-hopes-ship-first-h200-gpus-china-february-report-claims/) (Published: 2025-12-23)
