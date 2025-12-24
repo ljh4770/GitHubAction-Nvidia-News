@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-24 07:46:34**_
+_Last updated: **2025-12-24 07:56:42**_
 
+- [Truist Reaffirms Buy on NVIDIA (NVDA), Raises PT to $275 on AI Infrastructure Upside](https://finance.yahoo.com/news/truist-reaffirms-buy-nvidia-nvda-075136854.html) (Published: 2025-12-23)
 - [llmao-py added to PyPI](https://pypi.org/project/llmao-py/) (Published: 2025-12-23)
 - [Global investors turn to Chinese AI as Wall Street fears bubble](https://finance.yahoo.com/news/analysis-global-investors-turn-chinese-072806140.html) (Published: 2025-12-23)
 - [Lenovo Legion Gaming CES Line-Up Tips AMD Ryzen AI 400 Refresh](https://www.madshrimps.be/news/lenovo-legion-gaming-ces-line-up-tips-amd-ryzen-ai-400-refresh/) (Published: 2025-12-23)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-24 07:46:34**_
 - [Asian markets rally again as rate cut hopes bring Christmas cheer](https://www.digitaljournal.com/world/asian-markets-rally-again-as-rate-cut-hopes-bring-christmas-cheer/article) (Published: 2025-12-23)
 - [NZ sharemarket ends up again, end of year in sight - Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-ends-up-again-end-of-year-in-sight-market-close/premium/WJJFH7KMVFABTKSMTKIONUDEWQ/) (Published: 2025-12-23)
 - [Stock futures are little changed after S&P 500 notches three-day win streak: Live updates - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=180443021) (Published: 2025-12-23)
-- [Dow Jones Futures: Nvidia Tests Key Level; AppLovin, Apple, Palantir, Tesla In Buy Zones - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180442759) (Published: 2025-12-23)
