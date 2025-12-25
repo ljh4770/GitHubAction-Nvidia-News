@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-25 15:12:59**_
+_Last updated: **2025-12-25 15:34:20**_
 
+- [Trump’s Chip Embargo Against China Is Backfiring Spectacularly](http://futurism.com/future-society/trump-china-ai-chip-investors) (Published: 2025-12-24)
 - [S&P 500, Nasdaq Open Little Changed; Intel Stock Down 2%](https://www.ndtvprofit.com/markets/us-stock-market-today-sp-500-nasdaq-open-little-changed-intel-stock-down-2) (Published: 2025-12-24)
 - [US stock market today: Wall Street Santa Claus rally — S&P 500 trades near record highs, Dow and Nasdaq on the move](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-wall-street-santa-claus-rally-sp-500-trades-near-record-highs-dow-and-nasdaq-on-the-move/articleshow/126162260.cms) (Published: 2025-12-24)
 - [NVIDIA Nitrogen AI Open Source Gaming AI Without Game-Specific Tuning](https://www.geeky-gadgets.com/nvidia-nitrogen-ai-agent/) (Published: 2025-12-24)
@@ -9,5 +10,3 @@ _Last updated: **2025-12-25 15:12:59**_
 - [Billionaires are plotting to flee California if huge wealth tax passes](https://freerepublic.com/focus/f-chat/4358836/posts) (Published: 2025-12-24)
 - [Stocks Waver as ‘Santa Claus Rally’ Window Opens: Markets Wrap](https://financialpost.com/pmn/business-pmn/stocks-waver-as-santa-claus-rally-window-opens-markets-wrap) (Published: 2025-12-24)
 - [Gadgets that make it Santa’s ‘nice’ list 2025!](https://www.thehindubusinessline.com/specials/technophile/gadgets-that-make-it-santas-nice-list-2025/article70433419.ece) (Published: 2025-12-24)
-- [The Zacks Analyst Blog Highlights NVIDIA, Advanced Micro Devices, Intel, Micron Technology and BigBear.ai](https://finance.yahoo.com/news/zacks-analyst-blog-highlights-nvidia-144200337.html) (Published: 2025-12-24)
-- [Palladium tops $2,300, silver exceeds $72 as gold steadies near $4,500 per ounce](https://www.thehindubusinessline.com/markets/gold/palladium-tops-2300-silver-exceeds-72-as-gold-steadies-near-4500-per-ounce/article70434375.ece) (Published: 2025-12-24)
