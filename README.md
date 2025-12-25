@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-25 03:18:12**_
+_Last updated: **2025-12-25 04:09:25**_
 
+- [Top 10 AI stories of 2025](https://www.computerweekly.com/news/366635692/Top-10-AI-stories-of-2025) (Published: 2025-12-24)
+- [Arch Linux Drops Support for NVIDIA Pascal and Older GPUs](https://www.techpowerup.com/344385/arch-linux-drops-support-for-nvidia-pascal-and-older-gpus) (Published: 2025-12-24)
 - [‘Greater coop in semicon, critical tech with India’](https://timesofindia.indiatimes.com/india/greater-coop-in-semicon-critical-tech-with-india/articleshow/126151596.cms) (Published: 2025-12-24)
 - [APSC Grade 4 admit card released at apsc.nic.in: Direct link to download here](https://timesofindia.indiatimes.com/education/news/apsc-grade-4-admit-card-released-at-apsc-nic-in-direct-link-to-download-here/articleshow/126151565.cms) (Published: 2025-12-24)
 - [Cash transfers to women have gone from 1 to 15 states in 5 years](https://timesofindia.indiatimes.com/times-special/cash-transfers-to-women-have-gone-from-1-to-15-states-in-5-yrs/articleshow/126151448.cms) (Published: 2025-12-24)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-25 03:18:12**_
 - [S&P registers record close as growth stocks advance](https://economictimes.indiatimes.com/markets/us-stocks/news/sp-registers-record-close-as-growth-stocks-advance/articleshow/126150958.cms) (Published: 2025-12-24)
 - [TiKTok parent ByteDance to beef up AI spending to $23B next year](https://siliconangle.com/2025/12/23/tiktok-parent-bytedance-beef-ai-spending-23b-next-year/) (Published: 2025-12-24)
 - [nvidb 1.6.2](https://pypi.org/project/nvidb/1.6.2/) (Published: 2025-12-24)
-- [Tech Stocks Power S&P 500 To Record Close After GDP Surprise](https://www.ndtvprofit.com/markets/tech-stocks-power-sp-500-to-record-close-after-gdp-surprise) (Published: 2025-12-24)
-- [Edge AI Emerges as Critical Infrastructure for Real-Time Finance](https://www.pymnts.com/artificial-intelligence-2/2025/edge-ai-emerges-as-critical-infrastructure-for-real-time-finance/) (Published: 2025-12-24)
