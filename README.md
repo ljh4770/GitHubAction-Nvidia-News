@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-25 23:31:24**_
+_Last updated: **2025-12-25 23:45:00**_
 
 - [Nvidia to license technology from inference chip startup Groq in reported $20B deal](https://siliconangle.com/2025/12/24/nvidia-license-technology-inference-chip-startup-groq-reported-20b-deal/) (Published: 2025-12-24)
 - [Alienware AW3225QF OLED Gaming Monitor 31.6-Inch D (3840x2160) 240hz, 0.03ms, Amazon $1322](https://www.ozbargain.com.au/node/941748) (Published: 2025-12-24)
@@ -10,4 +10,4 @@ _Last updated: **2025-12-25 23:31:24**_
 - [Nvidia, Groq enter non-exclusive inference technology licensing agreement](https://thefly.com/permalinks/entry.php/id4261873/NVDA-Nvidia-Groq-enter-nonexclusive-inference-technology-licensing-agreement) (Published: 2025-12-24)
 - [Nvidia tests of Intel’s 18A chip manufacturing process “stopped moving forward.”](https://www.theverge.com/news/850149/nvidia-tests-of-intels-18a-chip-manufacturing-process-stopped-moving-forward) (Published: 2025-12-24)
 - [Democrats warn Trump greenlighting Nvidia AI chip sales could boost China's military edge (Fox News)](https://www.memeorandum.com/251224/p59) (Published: 2025-12-24)
-- [Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports](https://www.channelnewsasia.com/business/nvidia-buy-ai-chip-startup-groq-20-billion-cnbc-reports-5708586) (Published: 2025-12-24)
+- [Nvidia, joining Big Tech deal spree, to license Groq technology, hire executives](https://www.channelnewsasia.com/business/nvidia-joining-big-tech-deal-spree-license-groq-technology-hire-executives-5708586) (Published: 2025-12-24)
