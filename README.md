@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-25 09:32:42**_
+_Last updated: **2025-12-25 09:47:43**_
 
+- [Asian shares are mixed after Wall Street hits another record](https://www.wsbradio.com/news/business/asian-markets-mostly/M7AW53BU7Q6O5D4BCHOS5IPEPU/) (Published: 2025-12-24)
 - [Dow Jones Futures: S&P 500 Hits Record Close; Nvidia, Google Flash Buy Signals - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180449213) (Published: 2025-12-24)
 - [Nvidia CEO Jensen Huang says no job is too small: 5 reasons why humility is the ultimate career trait for every leader](https://timesofindia.indiatimes.com/education/careers/news/nvidia-ceo-jensen-huang-says-no-job-is-too-small-5-reasons-why-humility-is-the-ultimate-career-trait-for-every-leader/articleshow/126156883.cms) (Published: 2025-12-24)
 - [Lenovo Legion Tower 7i Desktop: Intel Ultra 9 285K, RTX 5080, 64GB DDR5, 2TB SSD $2499.99 (1 replies)](https://slickdeals.net/f/19013629-lenovo-legion-tower-7i-desktop-intel-ultra-9-285k-rtx-5080-64gb-ddr5-2tb-ssd-2499-99) (Published: 2025-12-24)
@@ -9,4 +10,3 @@ _Last updated: **2025-12-25 09:32:42**_
 - [Japan's Rapidus set to rival TSMC and Samsung for chip supremacy - Asia Times](https://asiatimes.com/2025/12/japans-rapidus-set-to-rival-tsmc-and-samsung-for-chip-supremacy/) (Published: 2025-12-24)
 - [Asian markets mostly advance after the S&P 500 hits record high](https://abcnews.go.com/Business/wireStory/asian-markets-advance-after-sp-500-hits-record-128671548) (Published: 2025-12-24)
 - [Asian markets mostly advance after the S&P 500 hits record high](https://financialpost.com/pmn/asian-markets-mostly-advance-after-the-sp-500-hits-record-high) (Published: 2025-12-24)
-- [Arch Linux Drops Support for NVIDIA Pascal and Older GPUs](https://www.madshrimps.be/news/arch-linux-drops-support-for-nvidia-pascal-and-older-gpus/) (Published: 2025-12-24)
