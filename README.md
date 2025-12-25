@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-25 20:39:25**_
+_Last updated: **2025-12-25 20:52:45**_
 
+- ['Deeply concerning': Dems sound off on Trump's latest turn toward China](https://www.rawstory.com/trump-2674827932/) (Published: 2025-12-24)
 - [nemo-evaluator 0.1.53](https://pypi.org/project/nemo-evaluator/0.1.53/) (Published: 2025-12-24)
 - [AI faces closing time at the cash buffet](https://www.theregister.com/2025/12/24/ai_spending_cooling_off/) (Published: 2025-12-24)
 - [Epstein files: Senators call for audit into DOJ's release](https://www.cnbc.com/2025/12/24/epstein-files-senators-call-for-audit-into-dojs-release.html) (Published: 2025-12-24)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-25 20:39:25**_
 - [Tech groups shift US$120 billion of AI data centre debt off balance sheets](https://financialpost.com/financial-times/tech-groups-ai-data-centre-debt-balance-sheets) (Published: 2025-12-24)
 - [Stocks Hit More Records on Holiday-Shortened Day](https://www.newser.com/story/380944/stocks-hit-more-records-on-holiday-shortened-day.html) (Published: 2025-12-24)
 - [Dow, S&P 500 close at record highs in holiday-shortened trading session](https://nypost.com/2025/12/24/business/dow-sampp-500-close-at-record-highs-in-holiday-shortened-trading-session/) (Published: 2025-12-24)
-- [Democrats warn Trump green-lighting Nvidia AI chip sales could boost China’s military edge](https://www.foxnews.com/politics/democrats-warn-trump-green-lighting-nvidia-ai-chip-sales-could-boost-chinas-military-edge) (Published: 2025-12-24)
