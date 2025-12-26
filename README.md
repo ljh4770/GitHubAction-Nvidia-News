@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-26 23:27:07**_
+_Last updated: **2025-12-26 23:42:20**_
 
 - [Nvidia makes its largest-ever purchase with Groq agreement - Mashable](https://slashdot.org/firehose.pl?op=view&amp;id=180456857) (Published: 2025-12-25)
 - [The ASX ETFs to buy now and not look at until next Christmas](https://www.fool.com.au/2025/12/26/the-asx-etfs-to-buy-now-and-not-look-at-until-next-christmas/) (Published: 2025-12-25)
