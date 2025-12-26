@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-26 15:26:42**_
+_Last updated: **2025-12-26 15:43:45**_
 
+- [Richtech (RR) Surges 8% Ahead of Robotics Showcase](https://finance.yahoo.com/news/richtech-rr-surges-8-ahead-153845019.html) (Published: 2025-12-25)
+- [This worrying RAM trend could cost you hundreds of dollars in the future](https://www.techradar.com/computing/memory/this-worrying-ram-trend-could-cost-you-hundreds-of-dollars-in-the-future) (Published: 2025-12-25)
 - [Startup proposes using retired Navy nuclear reactors from aircraft carriers and submarines for AI data centers — firm asks U.S. DOE for a loan guarantee to start the project](https://www.tomshardware.com/tech-industry/startup-proposes-using-retired-navy-nuclear-reactors-from-aircraft-carriers-and-submarines-for-ai-data-centers-firm-asks-u-s-doe-for-a-loan-guarantee-to-start-the-project) (Published: 2025-12-25)
 - [Nvidia Buying Groq's Assets For $20 Billion in Its Largest Deal on Record](https://slashdot.org/story/25/12/25/152201/nvidia-buying-groqs-assets-for-20-billion-in-its-largest-deal-on-record) (Published: 2025-12-25)
 - [I Asked ChatGPT What Will Happen To the Stock Market If the AI Bubble Bursts](https://finance.yahoo.com/news/asked-chatgpt-happen-stock-market-145705424.html) (Published: 2025-12-25)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-26 15:26:42**_
 - [Nvidia buys AI chip startup Groq's assets for $20 billion in the company's biggest deal ever — Transaction includes acquihires of key Groq employees, including CEO](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-buys-ai-chip-startup-groqs-assets-for-usd20-billion-in-the-companys-biggest-deal-ever-transaction-includes-acquihires-of-key-groq-employees-including-ceo) (Published: 2025-12-25)
 - [Arch Linux kills off Nvidia Pascal GPU support - users still running GTX 10-series graphics cards will have to manually install older drivers](https://www.tomshardware.com/pc-components/gpus/arch-linux-kills-off-pascal-gpu-support-users-still-running-gtx-10-series-graphics-cards-will-have-to-manually-install-older-drivers) (Published: 2025-12-25)
 - [Bigg Boss 19's Mridul Tiwari surprises little kids with Christmas gifts after returning from Thailand](https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-19s-mridul-tiwari-surprises-little-kids-with-christmas-gifts-after-returning-from-thailand/articleshow/126175028.cms) (Published: 2025-12-25)
-- [Make Spirits Bright With Holiday Hits on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-holiday-2025/) (Published: 2025-12-25)
-- [Show HN: Sentinel – 97 AI security engines, open-sourced as a Christmas gift](https://github.com/DmitrL-dev/AISecurity) (Published: 2025-12-25)
