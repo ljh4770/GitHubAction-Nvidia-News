@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-26 06:45:49**_
+_Last updated: **2025-12-26 07:01:42**_
 
 - [AI, Liberation Day chaos, and Irish taxpayers exiting AIB: Your A-Z of markets in 2025](https://www.irishtimes.com/business/2025/12/25/ai-liberation-day-chaos-and-irish-taxpayers-exiting-aib-your-a-z-of-markets-in-2025/) (Published: 2025-12-25)
 - [Exclusive: Nvidia buying AI chip startup Groq’s assets for about $20 billion in largest deal on record](https://freerepublic.com/focus/f-news/4358933/posts) (Published: 2025-12-25)
