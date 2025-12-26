@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-26 05:33:01**_
+_Last updated: **2025-12-26 05:49:43**_
 
 - [NVIDIA just brought back PhysX, and it’s a complete waste of time](https://www.madshrimps.be/news/nvidia-just-brought-back-physx-and-its-a-complete-waste-of-time/) (Published: 2025-12-25)
 - [NVIDIA Tested Intel’s 18A Node but Did Not Commit to Intel Foundry](https://www.madshrimps.be/news/nvidia-tested-intels-18a-node-but-did-not-commit-to-intel-foundry/) (Published: 2025-12-25)
