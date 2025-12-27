@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-27 06:30:32**_
+_Last updated: **2025-12-27 06:54:59**_
 
+- [Training a Model on Multiple GPUs with Data Parallelism](https://machinelearningmastery.com/training-a-model-on-multiple-gpus-with-data-parallelism/) (Published: 2025-12-26)
 - [Chip startup Groq’s Jonathan Ross will do ‘incredible things’ at Nvidia: Social Capital CEO Chamath Palihapitiya](https://economictimes.indiatimes.com/tech/technology/chip-startup-groqs-jonathan-ross-will-do-incredible-things-at-nvidia-social-capital-ceo-chamath-palihapitiya/articleshow/126184361.cms) (Published: 2025-12-26)
 - [Nvidia’s $20 billion licensing deal for Groq targets Google’s AI chip dominance](https://www.naturalnews.com/2025-12-26-nvidia-licensing-groq-targets-google-ai-dominance.html) (Published: 2025-12-26)
 - [Samsung could start making its most important AI memory chip ever in February](https://www.sammobile.com/news/samsung-start-mass-production-hbm4-memory-chips-february/) (Published: 2025-12-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-27 06:30:32**_
 - [GORDON CHANG: Trump Hands 21st Century To China, Reverses Biden’s Ban On Selling Advanced Chips](https://dailycaller.com/2025/12/25/opinion-trump-hands-21st-century-to-china-reverses-bidens-ban-on-selling-advanced-chips-gordon-chang/) (Published: 2025-12-26)
 - [Huawei sets Ascend 950 launch for 1H26; China hedges ahead of Nvidia H200](https://www.digitimes.com/news/a20251226PD222/huawei-ascend-nvidia-2025-market.html) (Published: 2025-12-26)
 - [WiFi DensePose: WiFi-based dense human pose estimation system through walls](https://github.com/ruvnet/wifi-densepose) (Published: 2025-12-26)
-- [NVIDIAがIntel 18Aでのチップ製造を断念との報道](https://news.livedoor.com/article/detail/30274697/) (Published: 2025-12-26)
