@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-27 07:55:37**_
+_Last updated: **2025-12-27 08:28:05**_
 
+- [AMD wins major Alibaba MI308 chip order to challenge Nvidia H200](https://www.digitimes.com/news/a20251226PD213/nvidia-amd-alibaba-market-ceo.html) (Published: 2025-12-26)
+- [ASUS - PRIME NVIDIA GeForce RTX 5050 OC Edition 8GB GDDR7 PCI Express 5.0 Graphics Card for $174 $173.99 (5 replies)](https://slickdeals.net/f/19021660-asus-prime-nvidia-geforce-rtx-5050-oc-edition-8gb-gddr7-pci-express-5-0-graphics-card-for-174-173-99) (Published: 2025-12-26)
 - [Come sta andando l’industria del videogioco? #Natale2025](https://www.infodata.ilsole24ore.com/2025/12/26/come-sta-andando-lindustria-del-videogioco/) (Published: 2025-12-26)
 - [I spent a year interviewing and listening to over 50 tech leaders talk about AI. Here are the 4 biggest lessons.](https://www.businessinsider.com/tech-leaders-ai-interview-podcast-conference-lessons-workforce-career-tips-2025-12) (Published: 2025-12-26)
 - [Skytech Aqua Gaming Desktop: Ryzen 7 9800X3D, RTX 5080, 32GB DDR5, 2TB SSD + Free KMA MSI Force CG30 V2 wireless controller $2321.99 (0 replies)](https://slickdeals.net/f/19021405-skytech-aqua-gaming-desktop-ryzen-7-9800x3d-rtx-5080-32gb-ddr5-2tb-ssd-free-kma-msi-force-cg30-v2-wireless-controller-2321-99) (Published: 2025-12-26)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-27 07:55:37**_
 - [Chip startup Groq’s Jonathan Ross will do ‘incredible things’ at Nvidia: Social Capital CEO Chamath Palihapitiya](https://economictimes.indiatimes.com/tech/technology/chip-startup-groqs-jonathan-ross-will-do-incredible-things-at-nvidia-social-capital-ceo-chamath-palihapitiya/articleshow/126184361.cms) (Published: 2025-12-26)
 - [Nvidia’s $20 billion licensing deal for Groq targets Google’s AI chip dominance](https://www.naturalnews.com/2025-12-26-nvidia-licensing-groq-targets-google-ai-dominance.html) (Published: 2025-12-26)
 - [Samsung could start making its most important AI memory chip ever in February](https://www.sammobile.com/news/samsung-start-mass-production-hbm4-memory-chips-february/) (Published: 2025-12-26)
-- [AI, earnings and the Fed: What could drive US markets in 2026](https://economictimes.indiatimes.com/markets/us-stocks/news/ai-earnings-and-the-fed-what-could-drive-us-markets-in-2026/articleshow/126183435.cms) (Published: 2025-12-26)
-- [SK Hynix targets February HBM4 ramp-up with TSMC, ships final samples to Nvidia](https://www.digitimes.com/news/a20251226PD215/sk-hynix-nvidia-hbm4-tsmc-production.html) (Published: 2025-12-26)
