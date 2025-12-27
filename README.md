@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-27 19:20:10**_
+_Last updated: **2025-12-27 19:30:56**_
 
+- [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats) (Published: 2025-12-26)
 - [Playtime cut off: Nvidia GeForce now will block gamers after 100 hours each month](https://economictimes.indiatimes.com/news/international/us/playtime-cut-off-nvidia-geforce-now-will-block-gamers-after-100-hours-each-month/articleshow/126194013.cms) (Published: 2025-12-26)
 - [AI Daily: Wall Street reacts to Nvidia, Groq deal](https://thefly.com/permalinks/entry.php/id4262017/NVDA;$PRIVATE-AI-Daily-Wall-Street-reacts-to-Nvidia-Groq-deal) (Published: 2025-12-26)
 - [Stocks Hover Near Record as Nvidia Gains on AI Licensing Deal](https://financialpost.com/pmn/business-pmn/stocks-hover-near-record-as-nvidia-gains-on-ai-licensing-deal) (Published: 2025-12-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-27 19:20:10**_
 - [Midday Fly By: Nvidia licensing technology from AI silicon startup Groq](https://thefly.com/permalinks/entry.php/id4262010/NVDA;BHVN;CARE;MDU;WMT;IKT;H;MASI;AAPL;NOC;BA;JPM;CPNG;TGT;NKE;COIN-Midday-Fly-By-Nvidia-licensing-technology-from-AI-silicon-startup-Groq) (Published: 2025-12-26)
 - [Naware's chemical-free weed killer tech could change how we treat lawns | TechCrunch](https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/) (Published: 2025-12-26)
 - [Dow Jones Today: Why is Dow down today as the US stock market paused after record highs?](https://economictimes.indiatimes.com/news/international/us/dow-jones-today-why-is-dow-down-today-as-the-us-stock-market-paused-after-record-highs/articleshow/126193108.cms) (Published: 2025-12-26)
-- [After a Year With the PS5 Pro, I'm Still Not Convinced It Was Worth the Money](https://me.pcmag.com/en/sony-playstation-games/34353/after-a-year-with-the-ps5-pro-im-still-not-convinced-it-was-worth-the-money) (Published: 2025-12-26)
