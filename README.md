@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-27 21:49:54**_
+_Last updated: **2025-12-27 21:59:59**_
 
+- [stringzillas-cuda 4.6.0](https://pypi.org/project/stringzillas-cuda/4.6.0/) (Published: 2025-12-26)
 - [Jimmy Kimmel went on UK TV to whine about Trump and 'fascism' in America:](https://freerepublic.com/focus/f-chat/4359098/posts) (Published: 2025-12-26)
 - [Jimmy Kimmel went on UK TV to whine about Trump and 'fascism' in America:](https://freerepublic.com/focus/f-news/4359098/posts) (Published: 2025-12-26)
 - [Billionaire Investing Legend Buys $4,200,000,000 of Assets in Massive Bet on AI and Tech Stocks](https://dailyhodl.com/2025/12/26/billionaire-investing-legend-buys-4200000000-of-assets-in-massive-bet-on-ai-and-tech-stocks/) (Published: 2025-12-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-27 21:49:54**_
 - [Memory Crisis & RAM Shortages – Here’s Everything You Need to Know About the New Trouble For Gamers, Courtesy of AI](https://wccftech.com/roundup/memory-crisis/) (Published: 2025-12-26)
 - [Nvidia-Groq deal is structured to keep 'fiction of competition alive,' analyst says](https://www.cnbc.com/2025/12/26/nvidia-groq-deal-is-structured-to-keep-fiction-of-competition-alive.html) (Published: 2025-12-26)
 - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats) (Published: 2025-12-26)
-- [Playtime cut off: Nvidia GeForce now will block gamers after 100 hours each month](https://economictimes.indiatimes.com/news/international/us/playtime-cut-off-nvidia-geforce-now-will-block-gamers-after-100-hours-each-month/articleshow/126194013.cms) (Published: 2025-12-26)
