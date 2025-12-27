@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-27 09:09:08**_
+_Last updated: **2025-12-27 09:32:06**_
 
+- [Quote of the Day by Jackie Chan: 'Sometimes it takes only one act of kindness and caring to change a person’s life'](https://economictimes.indiatimes.com/news/new-updates/quote-of-the-day-by-jackie-chan-sometimes-it-takes-only-one-act-of-kindness-and-caring-to-change-a-persons-life/articleshow/126187386.cms) (Published: 2025-12-26)
 - [Bitcoin eyes $90K, bullish trend breakout as gold, silver hit fresh records](https://cointelegraph.com/news/bitcoin-90k-bullish-trend-breakout-gold-silver-fresh-records) (Published: 2025-12-26)
 - [AMD wins major Alibaba MI308 chip order to challenge Nvidia H200](https://www.digitimes.com/news/a20251226PD213/nvidia-amd-alibaba-market-ceo.html) (Published: 2025-12-26)
 - [ASUS - PRIME NVIDIA GeForce RTX 5050 OC Edition 8GB GDDR7 PCI Express 5.0 Graphics Card for $174 $173.99 (5 replies)](https://slickdeals.net/f/19021660-asus-prime-nvidia-geforce-rtx-5050-oc-edition-8gb-gddr7-pci-express-5-0-graphics-card-for-174-173-99) (Published: 2025-12-26)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-27 09:09:08**_
 - [How to watch Boxing Day Horse Racing 2025 for *FREE* — Watch King George VI Chase live on ITVX](https://www.techradar.com/how-to-watch/horse-racing/boxing-day-horse-racing-2025-king-george-vi-chase-free-itv-racing) (Published: 2025-12-26)
 - [Training a Model on Multiple GPUs with Data Parallelism](https://machinelearningmastery.com/training-a-model-on-multiple-gpus-with-data-parallelism/) (Published: 2025-12-26)
 - [Chip startup Groq’s Jonathan Ross will do ‘incredible things’ at Nvidia: Social Capital CEO Chamath Palihapitiya](https://economictimes.indiatimes.com/tech/technology/chip-startup-groqs-jonathan-ross-will-do-incredible-things-at-nvidia-social-capital-ceo-chamath-palihapitiya/articleshow/126184361.cms) (Published: 2025-12-26)
-- [Nvidia’s $20 billion licensing deal for Groq targets Google’s AI chip dominance](https://www.naturalnews.com/2025-12-26-nvidia-licensing-groq-targets-google-ai-dominance.html) (Published: 2025-12-26)
