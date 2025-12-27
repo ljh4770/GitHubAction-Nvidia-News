@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-27 19:41:53**_
+_Last updated: **2025-12-27 19:52:30**_
 
 - [Nvidia-Groq deal is structured to keep 'fiction of competition alive,' analyst says](https://www.cnbc.com/2025/12/26/nvidia-groq-deal-is-structured-to-keep-fiction-of-competition-alive.html) (Published: 2025-12-26)
 - [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats) (Published: 2025-12-26)
