@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-27 14:42:54**_
+_Last updated: **2025-12-27 14:53:08**_
 
 - [ChatGPT loses traffic share as Google's Gemini, xAI's Grok gain ground: New report reveals changing AI landscape](https://www.livemint.com/companies/news/chatgpt-loses-traffic-share-as-googles-gemini-and-xais-grok-gain-ground-reveals-report-11766749377825.html) (Published: 2025-12-26)
 - [Nvidia licensing Groq technology strategically important, says Rosenblatt](https://thefly.com/permalinks/entry.php/id4261959/NVDA;GOOGL;GOOG-Nvidia-licensing-Groq-technology-strategically-important-says-Rosenblatt) (Published: 2025-12-26)
