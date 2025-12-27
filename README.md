@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-27 08:50:20**_
+_Last updated: **2025-12-27 09:09:08**_
 
 - [Bitcoin eyes $90K, bullish trend breakout as gold, silver hit fresh records](https://cointelegraph.com/news/bitcoin-90k-bullish-trend-breakout-gold-silver-fresh-records) (Published: 2025-12-26)
 - [AMD wins major Alibaba MI308 chip order to challenge Nvidia H200](https://www.digitimes.com/news/a20251226PD213/nvidia-amd-alibaba-market-ceo.html) (Published: 2025-12-26)
