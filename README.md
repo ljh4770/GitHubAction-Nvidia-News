@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 09:58:23**_
+_Last updated: **2025-12-28 10:29:18**_
 
+- [The top 5 things that happened in the AI race this year](https://www.businessinsider.com/what-happened-in-ai-this-year-2025-12) (Published: 2025-12-27)
+- [Immigration lawyers say the H-1B chaos is forcing tough business calls](https://www.businessinsider.com/h-1b-visa-changes-prompt-companies-to-tighten-sponsorship-staffing-2025-12) (Published: 2025-12-27)
+- [Nvidia's Groq deal rattled Silicon Valley. Here are 5 other AI startups split apart in Big Tech's new deals.](https://www.businessinsider.com/nvidia-groq-deals-silicon-valley-2025-12) (Published: 2025-12-27)
 - [ainfra added to PyPI](https://pypi.org/project/ainfra/) (Published: 2025-12-27)
+- [NVIDIA (NVDA)’s Got More IP Than a Dog Food Company, Says Jim Cramer](https://finance.yahoo.com/news/nvidia-nvda-got-more-ip-092159692.html) (Published: 2025-12-27)
 - [When Linux CEO Linus Torvalds warned the world about NVIDIA, called it the ‘worst company we've worked with’](https://www.livemint.com/companies/people/when-linux-ceo-linus-torvalds-warned-the-world-about-nvidia-called-it-the-worst-company-weve-worked-with-11766817904450.html) (Published: 2025-12-27)
+- [Analysts Maintain Positive Outlook on AMD With China Demand as a Catalyst](https://finance.yahoo.com/news/analysts-maintain-positive-outlook-amd-074440489.html) (Published: 2025-12-27)
 - [As inference splits into prefill and decode, Nvidia's Groq deal could enable a "Rubin SRAM" variant optimized for ultra-low latency agentic reasoning workloads (Gavin Baker/@gavinsbaker)](https://www.techmeme.com/251227/p4) (Published: 2025-12-27)
+- [Bernstein Sees Strong AI Tailwinds Supporting Nvidia (NVDA) Into 2026](https://finance.yahoo.com/news/bernstein-sees-strong-ai-tailwinds-073433046.html) (Published: 2025-12-27)
 - [One year on from the UK's grand AI plan: has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html) (Published: 2025-12-27)
-- [Trump wasting no time in rapid-fire fifth year in office](https://www.rte.ie/news/world/2025/1227/1550578-donald-trump-analysis/) (Published: 2025-12-27)
-- [HP Omen 16L Gaming Desktop To Get Raptor Lake-R CPUs Alongside RTX 50-Series GPUs](https://www.techpowerup.com/344461/hp-omen-16l-gaming-desktop-to-get-raptor-lake-r-cpus-alongside-rtx-50-series-gpus) (Published: 2025-12-27)
-- [Nvidia strengthens AI dominance with strategic Groq talent acquisition and licensing deal](https://www.naturalnews.com/2025-12-27-nvidia-dominance-groq-talent-acquisition-licensing-deal.html) (Published: 2025-12-27)
-- [Patrick Freyne: AI’s weird billionaires want us all to be atomised units of labour and consumption](https://www.irishtimes.com/life-style/people/2025/12/27/patrick-freyne-from-the-removal-of-joy-to-global-destruction16-reasons-i-hate-ai/) (Published: 2025-12-27)
-- [NVIDIA Drops Pascal Support on Linux, Causing Chaos on Arch Linux](https://www.madshrimps.be/news/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux/) (Published: 2025-12-27)
-- [US stocks end close to all-time highs in light, post-holiday session](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-end-close-to-all-time-highs-in-light-post-holiday-session/articleshow/126199996.cms) (Published: 2025-12-27)
