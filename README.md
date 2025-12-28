@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 19:35:33**_
+_Last updated: **2025-12-28 19:46:01**_
 
 - [NVIDIA’s RTX 5080 Is Now Being Sold in a “Chunky” 32GB VRAM Configuration in China, Gobbling Up GDDR7 Modules for AI Workloads](https://wccftech.com/nvidias-rtx-5080-is-now-being-sold-in-a-chunky-32gb-vram-configuration/) (Published: 2025-12-27)
 - [Stock Market Hits Record Highs On Nvidia, Google, GDP Data: Weekly Review - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180465711) (Published: 2025-12-27)
