@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 17:52:19**_
+_Last updated: **2025-12-28 18:19:33**_
 
+- [Cathie Wood drops $1.3 million on healthcare stock](https://www.thestreet.com/investing/cathie-wood-drops-1-3-million-on-healthcare-stock) (Published: 2025-12-27)
+- [PC gaming on Arm chips didn't quite happen in 2025, but the die is cast for an epic battle with x86 CPUs in the next few years](https://www.pcgamer.com/hardware/processors/pc-gaming-on-arm-chips-didnt-quite-happen-in-2025-but-the-die-is-cast-for-an-epic-battle-with-x86-cpus-in-the-next-few-years/) (Published: 2025-12-27)
 - [The biggest tech trends to expect in 2026](https://www.techradar.com/tech/the-biggest-tech-trends-to-expect-in-2026) (Published: 2025-12-27)
 - [Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%](https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a) (Published: 2025-12-27)
 - [Finding a High-VRAM GPU Is Getting Much Harder, With a Japanese Retailer Warning That Restocks May Be Off the Table For Now](https://wccftech.com/finding-a-high-vram-gpu-is-getting-much-harder/) (Published: 2025-12-27)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-28 17:52:19**_
 - [Why Nvidia Discontinued Support For Some Of The Most Popular Graphics Cards In 2025](https://www.bgr.com/2045248/why-nvidia-discontinued-support-pascal/) (Published: 2025-12-27)
 - [Today’s Best GPU Deals: RTX 5070 And RTX 5050 Available Under MSRP And More Amazing Deals](https://wccftech.com/todays-best-gpu-deals-rtx-5070-and-rtx-5050-available-under-msrp-and-more-amazing-deals/) (Published: 2025-12-27)
 - [6 under-the-radar stocks to play the AI boom in 2026: BofA](https://finance.yahoo.com/news/6-under-the-radar-stocks-to-play-the-ai-boom-in-2026-bofa-150019301.html) (Published: 2025-12-27)
-- [These Were SingularityHub’s Top 10 Stories in 2025](https://singularityhub.com/2025/12/27/these-were-singularityhubs-top-10-stories-in-2025/#article) (Published: 2025-12-27)
-- [Some Japanese shops start rationing GPUs — graphics cards with 16GB VRAM and up are becoming harder to find, says one store](https://www.tomshardware.com/pc-components/gpus/some-japanese-shops-start-rationing-gpus-graphics-cards-with-16gb-vram-and-up-are-becoming-harder-to-find-says-one-store) (Published: 2025-12-27)
