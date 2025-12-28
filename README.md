@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 13:54:38**_
+_Last updated: **2025-12-28 14:17:55**_
 
+- [In The Switch 2's First Year, Every Third-Party Port Tells A Story About The System](https://www.gamespot.com/articles/in-the-switch-2s-first-year-every-third-party-port-tells-a-story-about-the-system/1100-6536987/) (Published: 2025-12-27)
 - [AI Data Centers Demand More Than Copper Can Deliver](https://spectrum.ieee.org/rf-over-fiber) (Published: 2025-12-27)
 - [AMD And NVIDIA Are Expected To Hike GPU Prices Early 2026, And May Continue To Do So In The Following Months](https://wccftech.com/amd-and-nvidia-are-expected-to-hike-gpu-prices-early-2026/) (Published: 2025-12-27)
 - [OrangePi 6 Plus Review: The New Frontier for ARM64 SBC Performance](https://boilingsteam.com/orange-pi-6-plus-review/) (Published: 2025-12-27)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-28 13:54:38**_
 - [nvidia-nat-redis 1.4.0a20251227](https://pypi.org/project/nvidia-nat-redis/1.4.0a20251227/) (Published: 2025-12-27)
 - [nvidia-nat-data-flywheel 1.4.0a20251227](https://pypi.org/project/nvidia-nat-data-flywheel/1.4.0a20251227/) (Published: 2025-12-27)
 - [nvidia-nat-semantic-kernel 1.4.0a20251227](https://pypi.org/project/nvidia-nat-semantic-kernel/1.4.0a20251227/) (Published: 2025-12-27)
-- [nvidia-nat-opentelemetry 1.4.0a20251227](https://pypi.org/project/nvidia-nat-opentelemetry/1.4.0a20251227/) (Published: 2025-12-27)
