@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 19:23:11**_
+_Last updated: **2025-12-28 19:35:33**_
 
+- [NVIDIA’s RTX 5080 Is Now Being Sold in a “Chunky” 32GB VRAM Configuration in China, Gobbling Up GDDR7 Modules for AI Workloads](https://wccftech.com/nvidias-rtx-5080-is-now-being-sold-in-a-chunky-32gb-vram-configuration/) (Published: 2025-12-27)
+- [Stock Market Hits Record Highs On Nvidia, Google, GDP Data: Weekly Review - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180465711) (Published: 2025-12-27)
+- [Alphabet Crushed Mag 7 Stocks This Year — Only To Be Crushed By These 8 Country ETFs](https://finance.yahoo.com/news/alphabet-crushed-mag-7-stocks-193104649.html) (Published: 2025-12-27)
+- [2 Genius Stocks Nvidia Owns That You Should Buy for 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7cd1e13b-95bf-4b21-90cf-a5b65a3329a1) (Published: 2025-12-27)
 - [ACEMAGIC launches M1A Pro+ mini PC with Ryzen AI Max+ 395 and 128GB RAM for $2399](https://liliputing.com/acemagic-launches-m1a-pro-mini-pc-with-ryzen-ai-max-395-and-128gb-ram-for-2399/) (Published: 2025-12-27)
 - [Cathie Wood drops $1.3 million on healthcare stock](https://www.thestreet.com/investing/cathie-wood-drops-1-3-million-on-healthcare-stock) (Published: 2025-12-27)
 - [PC gaming on Arm chips didn't quite happen in 2025, but the die is cast for an epic battle with x86 CPUs in the next few years](https://www.pcgamer.com/hardware/processors/pc-gaming-on-arm-chips-didnt-quite-happen-in-2025-but-the-die-is-cast-for-an-epic-battle-with-x86-cpus-in-the-next-few-years/) (Published: 2025-12-27)
 - [The biggest tech trends to expect in 2026](https://www.techradar.com/tech/the-biggest-tech-trends-to-expect-in-2026) (Published: 2025-12-27)
 - [Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%](https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a) (Published: 2025-12-27)
 - [Finding a High-VRAM GPU Is Getting Much Harder, With a Japanese Retailer Warning That Restocks May Be Off the Table For Now](https://wccftech.com/finding-a-high-vram-gpu-is-getting-much-harder/) (Published: 2025-12-27)
-- [Prediction: 1 Hypergrowth Stock That Will Run Circles Around Nvidia Through 2030 - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=180464747) (Published: 2025-12-27)
-- [Fox host says AI race risks global market crash – and that it’s ‘worth it’ to ‘be on top’](https://www.rawstory.com/ai-2674832127/) (Published: 2025-12-27)
-- [Why Nvidia Discontinued Support For Some Of The Most Popular Graphics Cards In 2025](https://www.bgr.com/2045248/why-nvidia-discontinued-support-pascal/) (Published: 2025-12-27)
-- [Today’s Best GPU Deals: RTX 5070 And RTX 5050 Available Under MSRP And More Amazing Deals](https://wccftech.com/todays-best-gpu-deals-rtx-5070-and-rtx-5050-available-under-msrp-and-more-amazing-deals/) (Published: 2025-12-27)
