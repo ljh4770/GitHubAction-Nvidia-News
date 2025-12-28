@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 13:19:54**_
+_Last updated: **2025-12-28 13:43:30**_
 
 - [AI Data Centers Demand More Than Copper Can Deliver](https://spectrum.ieee.org/rf-over-fiber) (Published: 2025-12-27)
 - [AMD And NVIDIA Are Expected To Hike GPU Prices Early 2026, And May Continue To Do So In The Following Months](https://wccftech.com/amd-and-nvidia-are-expected-to-hike-gpu-prices-early-2026/) (Published: 2025-12-27)
