@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 16:48:41**_
+_Last updated: **2025-12-28 16:59:02**_
 
 - [Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%](https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a) (Published: 2025-12-27)
 - [Finding a High-VRAM GPU Is Getting Much Harder, With a Japanese Retailer Warning That Restocks May Be Off the Table For Now](https://wccftech.com/finding-a-high-vram-gpu-is-getting-much-harder/) (Published: 2025-12-27)
