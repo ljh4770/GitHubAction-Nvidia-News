@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 07:37:33**_
+_Last updated: **2025-12-28 07:48:20**_
 
+- [When Linux CEO Linus Torvalds warned the world about NVIDIA, called it the ‘worst company we've worked with’](https://www.livemint.com/companies/people/when-linux-ceo-linus-torvalds-warned-the-world-about-nvidia-called-it-the-worst-company-weve-worked-with-11766817904450.html) (Published: 2025-12-27)
 - [As inference splits into prefill and decode, Nvidia's Groq deal could enable a "Rubin SRAM" variant optimized for ultra-low latency agentic reasoning workloads (Gavin Baker/@gavinsbaker)](https://www.techmeme.com/251227/p4) (Published: 2025-12-27)
 - [One year on from the UK's grand AI plan: has its infrastructure buildout been a success?](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html) (Published: 2025-12-27)
 - [Trump wasting no time in rapid-fire fifth year in office](https://www.rte.ie/news/world/2025/1227/1550578-donald-trump-analysis/) (Published: 2025-12-27)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-28 07:37:33**_
 - [NVIDIA Drops Pascal Support on Linux, Causing Chaos on Arch Linux](https://www.madshrimps.be/news/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux/) (Published: 2025-12-27)
 - [US stocks end close to all-time highs in light, post-holiday session](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-end-close-to-all-time-highs-in-light-post-holiday-session/articleshow/126199996.cms) (Published: 2025-12-27)
 - [US stocks end close to all-time highs in light, post-holiday session](https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-end-close-to-all-time-highs-in-light-post-holiday-session/articleshow/126199996.cms) (Published: 2025-12-27)
-- [The €170bn 'resting' in Irish bank accounts](https://www.irishexaminer.com/business/economy/arid-41764874.html) (Published: 2025-12-27)
