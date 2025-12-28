@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 03:56:49**_
+_Last updated: **2025-12-28 04:46:44**_
 
 - [The €170bn 'resting' in Irish bank accounts](https://www.irishexaminer.com/business/economy/arid-41764874.html) (Published: 2025-12-27)
 - [The Groq deal secures key talent for Nvidia, including CEO Jonathan Ross, creator of the TPU, and keeps them from companies that may try to make their own chips (M.G. Siegler/Spyglass)](https://www.techmeme.com/251226/p15) (Published: 2025-12-27)
