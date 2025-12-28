@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 05:54:49**_
+_Last updated: **2025-12-28 06:30:34**_
 
+- [Nvidia strengthens AI dominance with strategic Groq talent acquisition and licensing deal](https://www.naturalnews.com/2025-12-27-nvidia-dominance-groq-talent-acquisition-licensing-deal.html) (Published: 2025-12-27)
+- [Patrick Freyne: AI’s weird billionaires want us all to be atomised units of labour and consumption](https://www.irishtimes.com/life-style/people/2025/12/27/patrick-freyne-from-the-removal-of-joy-to-global-destruction16-reasons-i-hate-ai/) (Published: 2025-12-27)
 - [NVIDIA Drops Pascal Support on Linux, Causing Chaos on Arch Linux](https://www.madshrimps.be/news/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux/) (Published: 2025-12-27)
 - [US stocks end close to all-time highs in light, post-holiday session](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-end-close-to-all-time-highs-in-light-post-holiday-session/articleshow/126199996.cms) (Published: 2025-12-27)
 - [US stocks end close to all-time highs in light, post-holiday session](https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-end-close-to-all-time-highs-in-light-post-holiday-session/articleshow/126199996.cms) (Published: 2025-12-27)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-28 05:54:49**_
 - [2025 in Review: The highs and lows of the 'Magnificent 7'](https://www.rte.ie/news/business/2025/1227/1550210-2025-in-review-magnificent-7/) (Published: 2025-12-27)
 - [2025 in Review: The highs and lows of the 'Magnificent 7'](https://www.rte.ie/news/business/2025/1227/1550210-2025-in-review-the-highs-and-lows-of-the-magnificent-7/) (Published: 2025-12-27)
 - [stringzillas-cuda 4.6.0](https://pypi.org/project/stringzillas-cuda/4.6.0/) (Published: 2025-12-26)
-- [Is MetaX a NVIDIA Threat—or Just Another DeepSeek Market Scare?](https://www.marketbeat.com/originals/is-meta-x-a-threat-to-NVDA-or-just-another-deepseek-market-scare/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2025-12-26)
-- [Jimmy Kimmel went on UK TV to whine about Trump and 'fascism' in America:](https://freerepublic.com/focus/f-news/4359098/posts) (Published: 2025-12-26)
