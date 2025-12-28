@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 14:39:11**_
+_Last updated: **2025-12-28 14:50:59**_
 
 - [Some Japanese shops start rationing GPUs — graphics cards with 16GB VRAM and up are becoming harder to find, says one store](https://www.tomshardware.com/pc-components/gpus/some-japanese-shops-start-rationing-gpus-graphics-cards-with-16gb-vram-and-up-are-becoming-harder-to-find-says-one-store) (Published: 2025-12-27)
 - [Nvidia Stock Is ‘Ripe’ for Gains in 2026, According to This Top Analyst](https://www.barchart.com/story/news/36801753/nvidia-stock-is-ripe-for-gains-in-2026-according-to-this-top-analyst) (Published: 2025-12-27)
