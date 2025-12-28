@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 05:42:12**_
+_Last updated: **2025-12-28 05:54:49**_
 
+- [NVIDIA Drops Pascal Support on Linux, Causing Chaos on Arch Linux](https://www.madshrimps.be/news/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux/) (Published: 2025-12-27)
 - [US stocks end close to all-time highs in light, post-holiday session](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-end-close-to-all-time-highs-in-light-post-holiday-session/articleshow/126199996.cms) (Published: 2025-12-27)
 - [US stocks end close to all-time highs in light, post-holiday session](https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-end-close-to-all-time-highs-in-light-post-holiday-session/articleshow/126199996.cms) (Published: 2025-12-27)
 - [The €170bn 'resting' in Irish bank accounts](https://www.irishexaminer.com/business/economy/arid-41764874.html) (Published: 2025-12-27)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-28 05:42:12**_
 - [stringzillas-cuda 4.6.0](https://pypi.org/project/stringzillas-cuda/4.6.0/) (Published: 2025-12-26)
 - [Is MetaX a NVIDIA Threat—or Just Another DeepSeek Market Scare?](https://www.marketbeat.com/originals/is-meta-x-a-threat-to-NVDA-or-just-another-deepseek-market-scare/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2025-12-26)
 - [Jimmy Kimmel went on UK TV to whine about Trump and 'fascism' in America:](https://freerepublic.com/focus/f-news/4359098/posts) (Published: 2025-12-26)
-- [Jimmy Kimmel went on UK TV to whine about Trump and 'fascism' in America:](https://freerepublic.com/focus/f-chat/4359098/posts) (Published: 2025-12-26)
