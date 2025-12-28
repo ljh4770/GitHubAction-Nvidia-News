@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 20:44:20**_
+_Last updated: **2025-12-28 20:55:14**_
 
 - [NVIDIA Drops Pascal Support On Linux, Causing Chaos On Arch Linux](https://linux.slashdot.org/story/25/12/27/0744237/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux) (Published: 2025-12-27)
 - [Longtime analyst resets Nvidia stock price target ahead of 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_21c739ab-7d2c-4fc3-80be-39ad2e6615db) (Published: 2025-12-27)
