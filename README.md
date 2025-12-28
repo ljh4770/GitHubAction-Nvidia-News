@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 09:47:55**_
+_Last updated: **2025-12-28 09:58:23**_
 
 - [ainfra added to PyPI](https://pypi.org/project/ainfra/) (Published: 2025-12-27)
 - [When Linux CEO Linus Torvalds warned the world about NVIDIA, called it the ‘worst company we've worked with’](https://www.livemint.com/companies/people/when-linux-ceo-linus-torvalds-warned-the-world-about-nvidia-called-it-the-worst-company-weve-worked-with-11766817904450.html) (Published: 2025-12-27)
