@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 22:52:37**_
+_Last updated: **2025-12-28 23:13:30**_
 
 - [This is the cheapest OCuLink mini PC you can buy right now — NucBox K15 costs just $360 barebone and supports up to 24TB SSD](https://www.techradar.com/pro/this-is-the-cheapest-oculink-mini-pc-you-can-buy-right-now-nucbox-k15-costs-just-usd360-barebone-and-supports-up-to-24tb-ssd) (Published: 2025-12-27)
 - [How to Properly Benchmark your PC Games Using CapFrameX](https://wccftech.com/how-to-properly-benchmark-your-pc-games-using-capframex/) (Published: 2025-12-27)
