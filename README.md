@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-29 20:41:33**_
+_Last updated: **2025-12-29 20:54:29**_
 
+- [Bigg Boss Kannada 12: Suraj Singh and Maalu Nipanal evicted in dramatic double elimination weekend](https://timesofindia.indiatimes.com/tv/news/kannada/bigg-boss-kannada-12-suraj-singh-and-maalu-nipanal-evicted-in-dramatic-double-elimination-weekend/articleshow/126219999.cms) (Published: 2025-12-28)
+- [Fed interest rate cut bets shift for January](https://www.thestreet.com/fed/fed-interest-rate-cut-bets-shift-for-january) (Published: 2025-12-28)
 - [Bernie Sanders Repeats Call For Data Center Moratorium As Pushback Against ‘Oligarchs’](https://dailycaller.com/2025/12/28/bernie-sanders-repeats-call-data-center-moratorium-jake-tapper-state-union/) (Published: 2025-12-28)
 - [8GB of VRAM could be all you can find in laptop GPUs soon — but is it enough? I tested the MSI Katana 15 HX to find out](https://www.techradar.com/computing/gaming-laptops/8gb-of-vram-could-be-all-you-can-find-in-laptop-gpus-soon-but-is-it-enough-i-tested-the-msi-katana-15-hx-to-find-out) (Published: 2025-12-28)
 - [What’s next for Nvidia stock in 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d38ec03b-510a-4a9b-8f4c-f1a3a8f31eaa) (Published: 2025-12-28)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-29 20:41:33**_
 - [NVIDIA’s Next-Gen Feynman GPUs Could See the Inclusion of Groq’s LPU Units By 2028, Stacked as Separate Dies Similar to AMD’s X3D Approach](https://wccftech.com/nvidia-feynman-gpus-could-see-the-inclusion-of-groq-lpu-units-by-2028/) (Published: 2025-12-28)
 - [Wall Street Remains Bullish on NVIDIA Corporation (NVDA)](https://finance.yahoo.com/news/wall-street-remains-bullish-nvidia-181750016.html) (Published: 2025-12-28)
 - [Well, this year's graphics card launches were a right shitshow, eh?](https://www.pcgamer.com/hardware/graphics-cards/well-this-years-graphics-card-launches-were-a-right-shitshow-eh/) (Published: 2025-12-28)
-- [Costco Members: CyberPowerPC Desktop: Ultra 5 225F, RTX 5060, 32GB RAM, 2TB SSD $899.99 + $14.99 Shipping](https://slickdeals.net/f/19030537-costco-members-cyberpowerpc-desktop-ultra-5-225f-rtx-5060-32gb-ram-2tb-ssd-899-99-14-99-shipping) (Published: 2025-12-28)
-- [Jeff Bezos’ idea of ‘other people’ becoming rich is more revealing of the rich than of being wealthy](https://economictimes.indiatimes.com/opinion/et-commentary/bezos-shareholders-and-the-price-of-risk-taking/articleshow/126217944.cms) (Published: 2025-12-28)
