@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-29 19:32:17**_
+_Last updated: **2025-12-29 19:43:21**_
 
 - [Full transcript of "Face the Nation with Margaret Brennan," Dec. 28, 2025](https://www.cbsnews.com/news/face-the-nation-full-transcript-12-28-2025/) (Published: 2025-12-28)
 - [Up Next for Arduino After Qualcomm Acquisition: High-Performance Computing](https://news.slashdot.org/story/25/12/28/1855208/up-next-for-arduino-after-qualcomm-acquisition-high-performance-computing) (Published: 2025-12-28)
