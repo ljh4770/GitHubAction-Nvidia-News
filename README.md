@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-29 15:27:07**_
+_Last updated: **2025-12-29 15:45:47**_
 
+- [Fedora Continued At The Forefront Of Upstream Linux Innovations In 2025](https://www.phoronix.com/news/Fedora-Linux-2025-Highlights) (Published: 2025-12-28)
 - [Taiwan Hit by One of Its Strongest Earthquakes in Years, Yet TSMC’s Chip Operations Remain Unfazed With 70% of Equipment Operational](https://wccftech.com/taiwan-hit-by-one-of-its-strongest-earthquakes-yet-tsmc-chip-operations-remain-unfazed/) (Published: 2025-12-28)
 - [Show HN: Future Hacker News](https://future-hacker-news.succinct.link) (Published: 2025-12-28)
 - [This is easily Lenovo's best-looking gaming laptop, but that doesn't mean it's the one you should buy](https://www.windowscentral.com/hardware/lenovo/lenovo-legion-7i-16-gen-10-review) (Published: 2025-12-28)
