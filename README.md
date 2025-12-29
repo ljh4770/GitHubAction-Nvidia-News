@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-29 08:26:02**_
+_Last updated: **2025-12-29 08:54:56**_
 
 - [$749.99: Skytech Gaming Edge Desktop PC, Ryzen 5 5500 3.6 GHz, NVIDIA RTX 5060, 1TB NVMe SSD, 16GB DDR4 RAM 3200, 650W Gold PSU, Wi-Fi, Win 11 at Amazon](https://slickdeals.net/f/19029166-749-99-skytech-gaming-edge-desktop-pc-ryzen-5-5500-3-6-ghz-nvidia-rtx-5060-1tb-nvme-ssd-16gb-ddr4-ram-3200-650w-gold-psu-wi-fi-win-11-at-amazon) (Published: 2025-12-28)
 - [ASUS - PRIME NVIDIA GeForce RTX 5050 OC Edition 8GB GDDR7 PCI Express 5.0 Graphics Card - Black for $173.99 (3 replies)](https://slickdeals.net/f/19029157-asus-prime-nvidia-geforce-rtx-5050-oc-edition-8gb-gddr7-pci-express-5-0-graphics-card-black-for-173-99) (Published: 2025-12-28)
