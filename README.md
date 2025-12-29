@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-29 06:49:55**_
+_Last updated: **2025-12-29 07:15:53**_
 
 - [Cert. Refurb: MSI Aegis R2 AI: Intel Ultra 9 285, RTX 5070 Ti, 32GB DDR5, 2TB SSD $1649.99 (0 replies)](https://slickdeals.net/f/19028923-cert-refurb-msi-aegis-r2-ai-intel-ultra-9-285-rtx-5070-ti-32gb-ddr5-2tb-ssd-1649-99) (Published: 2025-12-28)
 - [Sources: ~90% of Groq employees will join Nvidia and be paid cash for all vested shares; most shareholders will get per-share payouts tied to the $20B valuation (Dan Primack/Axios)](https://www.techmeme.com/251228/p2) (Published: 2025-12-28)
