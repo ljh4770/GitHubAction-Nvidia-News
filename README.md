@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-29 07:15:53**_
+_Last updated: **2025-12-29 07:41:03**_
 
+- [You can score a cool $700 off this RTX 5070 Ti laptop, if you're quick](https://www.xda-developers.com/score-700-off-rtx-5070-ti-laptop/) (Published: 2025-12-28)
 - [Cert. Refurb: MSI Aegis R2 AI: Intel Ultra 9 285, RTX 5070 Ti, 32GB DDR5, 2TB SSD $1649.99 (0 replies)](https://slickdeals.net/f/19028923-cert-refurb-msi-aegis-r2-ai-intel-ultra-9-285-rtx-5070-ti-32gb-ddr5-2tb-ssd-1649-99) (Published: 2025-12-28)
 - [Sources: ~90% of Groq employees will join Nvidia and be paid cash for all vested shares; most shareholders will get per-share payouts tied to the $20B valuation (Dan Primack/Axios)](https://www.techmeme.com/251228/p2) (Published: 2025-12-28)
 - [Bitcoin – Is it a case of ‘pain today, gains tomorrow’ for BTC’s price?](https://ambcrypto.com/bitcoin-is-it-a-case-of-pain-today-gains-tomorrow-for-btcs-price/) (Published: 2025-12-28)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-29 07:15:53**_
 - [How to Properly Benchmark your PC Games Using CapFrameX](https://wccftech.com/how-to-properly-benchmark-your-pc-games-using-capframex/) (Published: 2025-12-27)
 - [NVIDIA Drops Pascal Support On Linux, Causing Chaos On Arch Linux](https://linux.slashdot.org/story/25/12/27/0744237/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux) (Published: 2025-12-27)
 - [Longtime analyst resets Nvidia stock price target ahead of 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_21c739ab-7d2c-4fc3-80be-39ad2e6615db) (Published: 2025-12-27)
-- [NVIDIA’s RTX 5080 Is Now Being Sold in a “Chunky” 32GB VRAM Configuration in China, Gobbling Up GDDR7 Modules for AI Workloads](https://wccftech.com/nvidias-rtx-5080-is-now-being-sold-in-a-chunky-32gb-vram-configuration/) (Published: 2025-12-27)
