@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-29 22:54:35**_
+_Last updated: **2025-12-29 23:18:37**_
 
+- [City manager: Fort Worth’s economic growth continues to look strong](https://fortworthreport.org/2025/12/28/city-manager-fort-worths-economic-growth-continues-to-look-strong/) (Published: 2025-12-28)
 - [The most talked-about stocks online: Microsoft takes the top spot](https://www.digitaljournal.com/business/the-most-talked-about-stocks-online-microsoft-takes-the-top-spot/article) (Published: 2025-12-28)
 - [Show HN: Mini-vLLM in ~500 lines of Python](https://github.com/ubermenchh/mini-vllm) (Published: 2025-12-28)
 - [ytpipe added to PyPI](https://pypi.org/project/ytpipe/) (Published: 2025-12-28)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-29 22:54:35**_
 - [Bigg Boss Kannada 12: Suraj Singh and Maalu Nipanal evicted in dramatic double elimination weekend](https://timesofindia.indiatimes.com/tv/news/kannada/bigg-boss-kannada-12-suraj-singh-and-maalu-nipanal-evicted-in-dramatic-double-elimination-weekend/articleshow/126219999.cms) (Published: 2025-12-28)
 - [Fed interest rate cut bets shift for January](https://www.thestreet.com/fed/fed-interest-rate-cut-bets-shift-for-january) (Published: 2025-12-28)
 - [Bernie Sanders Repeats Call For Data Center Moratorium As Pushback Against ‘Oligarchs’](https://dailycaller.com/2025/12/28/bernie-sanders-repeats-call-data-center-moratorium-jake-tapper-state-union/) (Published: 2025-12-28)
-- [8GB of VRAM could be all you can find in laptop GPUs soon — but is it enough? I tested the MSI Katana 15 HX to find out](https://www.techradar.com/computing/gaming-laptops/8gb-of-vram-could-be-all-you-can-find-in-laptop-gpus-soon-but-is-it-enough-i-tested-the-msi-katana-15-hx-to-find-out) (Published: 2025-12-28)
