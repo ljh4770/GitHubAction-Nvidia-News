@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-29 05:47:41**_
+_Last updated: **2025-12-29 06:00:15**_
 
 - [Sources: ~90% of Groq employees will join Nvidia and be paid cash for all vested shares; most shareholders will get per-share payouts tied to the $20B valuation (Dan Primack/Axios)](https://www.techmeme.com/251228/p2) (Published: 2025-12-28)
 - [Bitcoin – Is it a case of ‘pain today, gains tomorrow’ for BTC’s price?](https://ambcrypto.com/bitcoin-is-it-a-case-of-pain-today-gains-tomorrow-for-btcs-price/) (Published: 2025-12-28)
