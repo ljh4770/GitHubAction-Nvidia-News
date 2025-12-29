@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-29 05:19:57**_
+_Last updated: **2025-12-29 05:47:41**_
 
+- [Sources: ~90% of Groq employees will join Nvidia and be paid cash for all vested shares; most shareholders will get per-share payouts tied to the $20B valuation (Dan Primack/Axios)](https://www.techmeme.com/251228/p2) (Published: 2025-12-28)
 - [Bitcoin – Is it a case of ‘pain today, gains tomorrow’ for BTC’s price?](https://ambcrypto.com/bitcoin-is-it-a-case-of-pain-today-gains-tomorrow-for-btcs-price/) (Published: 2025-12-28)
 - [TorchTPU collaboration makes software compatibility the new AI hardware battleground](https://www.digitimes.com/news/a20251226PD206/google-hardware-meta-software-nvidia.html) (Published: 2025-12-28)
 - [India startup funding hits $11B in 2025 as investors grow more selective | TechCrunch](https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/) (Published: 2025-12-28)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-29 05:19:57**_
 - [Longtime analyst resets Nvidia stock price target ahead of 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_21c739ab-7d2c-4fc3-80be-39ad2e6615db) (Published: 2025-12-27)
 - [NVIDIA’s RTX 5080 Is Now Being Sold in a “Chunky” 32GB VRAM Configuration in China, Gobbling Up GDDR7 Modules for AI Workloads](https://wccftech.com/nvidias-rtx-5080-is-now-being-sold-in-a-chunky-32gb-vram-configuration/) (Published: 2025-12-27)
 - [Stock Market Hits Record Highs On Nvidia, Google, GDP Data: Weekly Review - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180465711) (Published: 2025-12-27)
-- [Alphabet Crushed Mag 7 Stocks This Year — Only To Be Crushed By These 8 Country ETFs](https://finance.yahoo.com/news/alphabet-crushed-mag-7-stocks-193104649.html) (Published: 2025-12-27)
