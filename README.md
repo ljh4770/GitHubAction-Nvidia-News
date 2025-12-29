@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-29 14:56:26**_
+_Last updated: **2025-12-29 15:27:07**_
 
 - [Taiwan Hit by One of Its Strongest Earthquakes in Years, Yet TSMC’s Chip Operations Remain Unfazed With 70% of Equipment Operational](https://wccftech.com/taiwan-hit-by-one-of-its-strongest-earthquakes-yet-tsmc-chip-operations-remain-unfazed/) (Published: 2025-12-28)
 - [Show HN: Future Hacker News](https://future-hacker-news.succinct.link) (Published: 2025-12-28)
