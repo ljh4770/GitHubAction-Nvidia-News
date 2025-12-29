@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-28 23:56:24**_
+_Last updated: **2025-12-29 02:06:09**_
 
+- [India startup funding hits $11B in 2025 as investors grow more selective | TechCrunch](https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/) (Published: 2025-12-28)
 - [This is the cheapest OCuLink mini PC you can buy right now — NucBox K15 costs just $360 barebone and supports up to 24TB SSD](https://www.techradar.com/pro/this-is-the-cheapest-oculink-mini-pc-you-can-buy-right-now-nucbox-k15-costs-just-usd360-barebone-and-supports-up-to-24tb-ssd) (Published: 2025-12-27)
 - [How to Properly Benchmark your PC Games Using CapFrameX](https://wccftech.com/how-to-properly-benchmark-your-pc-games-using-capframex/) (Published: 2025-12-27)
 - [NVIDIA Drops Pascal Support On Linux, Causing Chaos On Arch Linux](https://linux.slashdot.org/story/25/12/27/0744237/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux) (Published: 2025-12-27)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-28 23:56:24**_
 - [Alphabet Crushed Mag 7 Stocks This Year — Only To Be Crushed By These 8 Country ETFs](https://finance.yahoo.com/news/alphabet-crushed-mag-7-stocks-193104649.html) (Published: 2025-12-27)
 - [2 Genius Stocks Nvidia Owns That You Should Buy for 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7cd1e13b-95bf-4b21-90cf-a5b65a3329a1) (Published: 2025-12-27)
 - [ACEMAGIC launches M1A Pro+ mini PC with Ryzen AI Max+ 395 and 128GB RAM for $2399](https://liliputing.com/acemagic-launches-m1a-pro-mini-pc-with-ryzen-ai-max-395-and-128gb-ram-for-2399/) (Published: 2025-12-27)
-- [Cathie Wood drops $1.3 million on healthcare stock](https://www.thestreet.com/investing/cathie-wood-drops-1-3-million-on-healthcare-stock) (Published: 2025-12-27)
