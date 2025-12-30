@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-30 23:19:26**_
+_Last updated: **2025-12-30 23:35:05**_
 
+- [Jim Cramer’s guide to investing: Pick out the obvious winners](https://www.cnbc.com/2025/12/29/jim-cramers-guide-to-investing-pick-out-the-obvious-winners.html) (Published: 2025-12-29)
+- [Skytech Azure 3 Plus: AMD 9900X3D, RTX 5070 Ti, 64GB DDR5 5600MHZ, 1 TB NVMe Gen4 $2030.99](https://slickdeals.net/f/19035427-skytech-azure-3-plus-amd-9900x3d-rtx-5070-ti-64gb-ddr5-5600mhz-1-tb-nvme-gen4-2030-99) (Published: 2025-12-29)
 - [Nvidia finalizes $5B purchase of Intel shares](https://siliconangle.com/2025/12/29/nvidia-finalizes-5b-purchase-intel-shares/) (Published: 2025-12-29)
 - [Stock market today: Live updates](https://www.cnbc.com/2025/12/29/stock-market-today-live-updates.html) (Published: 2025-12-29)
 - [The PS6 and next Xbox could be delayed amid the ongoing RAM apocalypse](https://www.xda-developers.com/ps6-and-next-xbox-could-be-delayed-amid-the-ongoing-ram-apocalypse/) (Published: 2025-12-29)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-30 23:19:26**_
 - [Precious metal prices send S&P/TSX composite lower, U.S. markets also decline](https://financialpost.com/pmn/precious-metal-prices-send-sp-tsx-composite-lower-u-s-markets-also-decline) (Published: 2025-12-29)
 - [Can fingernail-sized chips help America catch China in the race to quantum computing supremacy?](https://nypost.com/2025/12/29/business/quantum-computers-the-size-of-your-fingernail-are-being-built-in-westchester-ny/) (Published: 2025-12-29)
 - [Show HN: NeuronDB – Embeddings and vector search for PostgreSQL](https://github.com/neurondb/neurondb) (Published: 2025-12-29)
-- [Stocks Slip as 2025 Winds Down](https://www.newser.com/story/381126/stocks-slip-as-2025-winds-down.html) (Published: 2025-12-29)
-- [Google TV Streamer 4K - $74.99 (25% Off) - All-Time Low Price (7 replies)](https://slickdeals.net/f/19034998-google-tv-streamer-4k-74-99-25-off-all-time-low-price) (Published: 2025-12-29)
