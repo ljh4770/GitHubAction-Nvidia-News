@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-30 21:47:44**_
+_Last updated: **2025-12-30 21:57:55**_
 
+- [Can fingernail-sized chips help America catch China in the race to quantum computing supremacy?](https://nypost.com/2025/12/29/business/quantum-computers-the-size-of-your-fingernail-are-being-built-in-westchester-ny/) (Published: 2025-12-29)
+- [Show HN: NeuronDB – Embeddings and vector search for PostgreSQL](https://github.com/neurondb/neurondb) (Published: 2025-12-29)
 - [Stocks Slip as 2025 Winds Down](https://www.newser.com/story/381126/stocks-slip-as-2025-winds-down.html) (Published: 2025-12-29)
 - [Google TV Streamer 4K - $74.99 (25% Off) - All-Time Low Price (7 replies)](https://slickdeals.net/f/19034998-google-tv-streamer-4k-74-99-25-off-all-time-low-price) (Published: 2025-12-29)
 - [sauerkrautlm-colpali added to PyPI](https://pypi.org/project/sauerkrautlm-colpali/) (Published: 2025-12-29)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-30 21:47:44**_
 - [California's Ro Khanna faces Silicon Valley backlash after embracing wealth tax](https://www.cnbc.com/2025/12/29/silicon-valley-ro-khanna-faces-tech-backlash-over-wealth-tax.html) (Published: 2025-12-29)
 - [World's fastest mini PC doesn't run Windows 11 — $2,899 gets you a Core Ultra 9 CPU, 96GB of RAM, RTX 5090M, 2TB SSD, and yes, it is all about AI](https://www.techradar.com/pro/worlds-fastest-mini-pc-doesnt-run-windows-11-usd2899-gets-you-a-core-ultra-9-cpu-96gb-of-ram-rtx-5090m-2tb-ssd-and-yes-it-is-all-about-ai) (Published: 2025-12-29)
 - [Nvidia deal shows why inference is AI's next battleground - Axios](https://slashdot.org/firehose.pl?op=view&amp;id=180477635) (Published: 2025-12-29)
-- [CES 2026 Preview: Here is How the Show Could Look Like, as the PC Industry Enters the “Memory Pandemic” Era](https://wccftech.com/ces-2026-preview-here-is-how-the-show-could-look-like/) (Published: 2025-12-29)
-- [Zotac NVIDIA GeForce RTX 5070 SOLID Triple Fan 12GB GDDR7 PCIe 5.0 Graphics Card $499.99](https://slickdeals.net/f/19034749-zotac-nvidia-geforce-rtx-5070-solid-triple-fan-12gb-gddr7-pcie-5-0-graphics-card-499-99) (Published: 2025-12-29)
