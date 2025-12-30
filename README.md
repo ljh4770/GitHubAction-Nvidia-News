@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-30 15:25:45**_
+_Last updated: **2025-12-30 15:45:04**_
 
+- [US Stocks Slip as Risk-Off Sentiment Hits Big Tech, Lifts Energy](https://financialpost.com/pmn/business-pmn/us-stocks-slip-as-risk-off-sentiment-hits-big-tech-lifts-energy) (Published: 2025-12-29)
+- [India invites Chinese government to participate in AI Summit](https://www.thehindubusinessline.com/news/india-invites-chinese-government-to-participate-in-ai-summit/article70450447.ece) (Published: 2025-12-29)
+- [India invites Chinese government to participate in AI Summit](https://www.thehindubusinessline.com/info-tech/india-invites-chinese-government-to-participate-in-ai-summit/article70450447.ece) (Published: 2025-12-29)
+- [TSMC's average wafer prices increased by over 15% each year since 2019, report suggests — gross profit margins increase by 3.3x in 2025 alone, facing no real challengers](https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-average-wafer-prices-increased-by-over-15-percent-each-year-since-2019-report-suggests-gross-profit-margins-increase-by-3-3x-in-2025-alone-facing-no-real-challengers) (Published: 2025-12-29)
+- [Stock Market Today: Dow Lower As Nvidia Retreats; DigitalBridge Soars On Deal News (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180474353) (Published: 2025-12-29)
+- [The Final Shutdown: Pour One Out for the Tech That Died in 2025](https://uk.pcmag.com/news/162257/the-final-shutdown-pour-one-out-for-the-tech-that-died-in-2025) (Published: 2025-12-29)
+- [The Final Shutdown: Pour One Out for the Tech That Died in 2025](https://me.pcmag.com/en/news/34374/the-final-shutdown-pour-one-out-for-the-tech-that-died-in-2025) (Published: 2025-12-29)
+- [Witcher 3 DLC Would Make The Wait For Witcher 4 Slightly More Bearable](https://kotaku.com/witcher-3-dlc-ciri-geralt-sequel-cdpr-2000655922) (Published: 2025-12-29)
+- [Nvidia gives Intel a lifeline with $5 billion common stock deal — September deal gets FTC approval for more than 217.4 million Intel shares at $23.28 per share](https://www.tomshardware.com/tech-industry/nvidia-gives-intel-a-lifeline-with-usd5-billion-common-stock-deal-september-deal-gets-ftc-approval-for-more-than-217-4-million-intel-shares-at-usd23-28-per-share) (Published: 2025-12-29)
 - [Stocks slip on Wall Street as 2025 winds down](https://www.bostonherald.com/2025/12/29/stocks-start-final-week-2025/) (Published: 2025-12-29)
-- [Tech drags U.S. stocks as silver turns volatile](https://financialpost.com/investing/tech-drags-us-stocks-silver-volatile) (Published: 2025-12-29)
-- [CES 2026 trends to watch: 5 biggest topics we're expecting at the world's biggest tech show](https://www.zdnet.com/article/ces-2026-top-trends/) (Published: 2025-12-29)
-- [US Stock Market Today: Nvidia Drags Nasdaq, S&P 500 Lower; Tesla Falls Nearly 2%](https://www.ndtvprofit.com/markets/us-stock-market-today-nvidia-drags-nasdaq-sp-500-lower-tesla-falls-nearly-2) (Published: 2025-12-29)
-- [US stocks open lower as rally pauses in final week of 2025](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-open-lower-as-rally-pauses-in-final-week-of-2025/articleshow/126234216.cms) (Published: 2025-12-29)
-- [Nvidia's $20 billion Groq IP deal bolsters AI market domination — hardware stack and key engineer behind Google TPUs included in bombshell agreement](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-confirms-20-billion-groq-deal-to-bolster-ai-inference-dominance) (Published: 2025-12-29)
-- [SK hynix Plans to Make a Surprise Move Into U.S. Advanced Packaging, Aiming to Capitalize on the Region’s Urgent Need For It](https://wccftech.com/sk-hynix-plans-to-make-a-surprise-move-into-us-advanced-packaging/) (Published: 2025-12-29)
-- [Here’s What Gives Nvidia Corp. (NVDA) Dominance Across the AI Value Chain](https://finance.yahoo.com/news/gives-nvidia-corp-nvda-dominance-142412643.html) (Published: 2025-12-29)
-- [Acer Brings RTX 50-Series Gaming Laptops to Middle East with Nitro V 16 Slim](https://me.pcmag.com/en/laptops/34370/acer-brings-rtx-50-series-gaming-laptops-to-middle-east-with-nitro-v-16-slim) (Published: 2025-12-29)
