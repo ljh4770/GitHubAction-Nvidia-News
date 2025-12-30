@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-30 15:45:04**_
+_Last updated: **2025-12-30 15:56:31**_
 
 - [US Stocks Slip as Risk-Off Sentiment Hits Big Tech, Lifts Energy](https://financialpost.com/pmn/business-pmn/us-stocks-slip-as-risk-off-sentiment-hits-big-tech-lifts-energy) (Published: 2025-12-29)
 - [India invites Chinese government to participate in AI Summit](https://www.thehindubusinessline.com/news/india-invites-chinese-government-to-participate-in-ai-summit/article70450447.ece) (Published: 2025-12-29)
