@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-30 19:42:09**_
+_Last updated: **2025-12-30 19:52:50**_
 
 - [US stocks slip as tech loses steam in final week of 2025 - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=180475341) (Published: 2025-12-29)
 - [AI chipmakers that could steal some of Nvidia's spotlight in 2026](https://finance.yahoo.com/video/ai-chipmakers-could-steal-nvidias-193000972.html) (Published: 2025-12-29)
