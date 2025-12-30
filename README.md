@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-30 11:13:11**_
+_Last updated: **2025-12-30 11:32:10**_
 
 - [Stock market today: Dow, S&P 500, Nasdaq futures slip with Wall Street set to wrap up wild 2025](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-with-wall-street-set-to-wrap-up-wild-2025-110404385.html) (Published: 2025-12-29)
 - [Stock market today: Dow, S&P 500, Nasdaq futures slide as Nvidia, Tesla fall to start 2025's final week](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-nvidia-tesla-fall-to-start-2025s-final-week-110404612.html) (Published: 2025-12-29)
