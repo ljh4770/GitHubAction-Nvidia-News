@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-30 07:01:51**_
+_Last updated: **2025-12-30 07:31:35**_
 
+- [Nvidia finds Samsung’s HBM4 chip to be the best in the market](https://www.sammobile.com/news/nvidia-finds-samsungs-hbm4-chip-best-in-market/) (Published: 2025-12-29)
+- [Building the Ultimate Small Form-Factor PC: Flagship Power, No Compromises](https://me.pcmag.com/en/components/34368/building-the-ultimate-small-form-factor-pc-flagship-power-no-compromises) (Published: 2025-12-29)
 - [Forecasting the world in 2026: Will Trump win the Nobel peace prize? Will Starmer survive?](https://www.irishtimes.com/world/2025/12/29/forecasting-the-world-in-2026-will-trump-win-the-nobel-peace-prize-will-starmer-survive/) (Published: 2025-12-29)
 - [From data center spas to servers in space: How the energy crunch is reshaping cloud computing](https://www.cnbc.com/2025/12/29/future-of-the-cloud-from-spas-to-orbital-space-data-centers.html) (Published: 2025-12-29)
 - [The Best Artificial Intelligence (AI) Stocks to Buy Ahead of 2026, According to Wall Street Analysts (Hint: Not Palantir) - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=180472565) (Published: 2025-12-29)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-30 07:01:51**_
 - [From AI to chips, big tech is getting what it wants from Trump](https://indianexpress.com/article/technology/tech-news-technology/from-ai-to-chips-big-tech-is-getting-what-it-wants-from-trump-10444192/) (Published: 2025-12-29)
 - [The 11 big trades of 2025: Bubbles, cockroaches and a 367% jump](https://www.bloomberg.com/news/features/2025-12-28/ai-bubbles-jamie-dimon-cockroaches-gold-11-big-trades-of-2025) (Published: 2025-12-29)
 - [AMD and Nvidia set to raise GPU prices in early 2026 amid rising memory costs](https://www.digitimes.com/news/a20251229VL208/gpu-2026-amd-nvidia-price.html) (Published: 2025-12-29)
-- [Silver Overtakes Nvidia: White Metal Becomes Second-Largest Asset, Trailing Gold](https://www.ndtvprofit.com/markets/silver-overtakes-nvidia-the-47-trillion-market-cap-tussle-nobody-saw-coming) (Published: 2025-12-29)
-- [Nvidia reportedly sets 4Q26 target for 16-high HBM supply](https://www.digitimes.com/news/a20251229PD220/nvidia-2026-hbm-hbm4-sk-hynix.html) (Published: 2025-12-29)
