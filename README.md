@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-30 17:53:26**_
+_Last updated: **2025-12-30 18:24:55**_
 
+- [Nvidia Secures $5 Billion Stake in Intel](https://www.iphoneincanada.ca/2025/12/29/nvidia-secures-5-billion-stake-in-intel/) (Published: 2025-12-29)
+- [US stock market crashes today: Why Dow Jones, S&P 500, and Nasdaq all down today — gold and silver prices also plunge](https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-today-why-dow-jones-sp-500-and-nasdaq-all-down-today-gold-and-silver-prices-also-plunge-why-is-the-market-falling-at-once/articleshow/126236964.cms) (Published: 2025-12-29)
+- [PM Modi To Inaugurate India AI Impact Summit In Feb; Global Leaders, CEOs To Attend](https://www.ndtvprofit.com/technology/pm-modi-to-inaugurate-india-ai-impact-summit-in-feb-global-leaders-ceos-to-attend) (Published: 2025-12-29)
+- [Gaming on Linux? I found a distro that makes it pain-free](https://www.zdnet.com/article/pikaos-linux-distro-review/) (Published: 2025-12-29)
+- [The 11 big trades of 2025: Bubbles, cockroaches and a 367% jump](https://www.mercurynews.com/2025/12/29/the-11-big-trades-of-2025-bubbles-cockroaches-and-a-367-jump/) (Published: 2025-12-29)
+- [Last year I predicted all three of Valve's announcements so now I reckon I have the ability to speak these 2026 prophecies into reality](https://www.pcgamer.com/hardware/last-year-i-predicted-all-three-of-valves-announcements-so-now-i-reckon-i-have-the-ability-to-speak-these-2026-prophecies-into-reality/) (Published: 2025-12-29)
 - [Nvidia takes $5B in Intel shares as major financial lifeline for chipmaker](https://nypost.com/2025/12/29/tech/nvidia-takes-5b-in-intel-shares-as-major-financial-lifeline-for-chipmaker/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral) (Published: 2025-12-29)
 - [Cinebench 2026 out and ready to hammer CPUs and graphics cards six times as hard — updated benchmark includes an SMT core test](https://www.tomshardware.com/software/cinebench-2026-out-and-ready-to-hammer-cpus-and-graphics-cards-six-times-as-hard-updated-benchmark-includes-an-smt-core-test) (Published: 2025-12-29)
 - [5 expert-backed ways to start the New Year with less debt, and more breathing room](https://economictimes.indiatimes.com/news/international/us/5-expert-backed-ways-to-start-the-new-year-with-less-debt-and-more-breathing-room/articleshow/126236784.cms) (Published: 2025-12-29)
 - [Lisuan's G100 series has reportedly begun shipping out to customers in first batch of deliveries — China's first homegrown 6nm GPUs are no longer a show-floor exclusive](https://www.tomshardware.com/pc-components/gpus/lisuans-g100-series-has-reportedly-begun-shipping-out-to-customers-in-first-batch-of-deliveries-chinas-first-homegrown-6nm-gpus-are-no-longer-a-show-floor-exclusive) (Published: 2025-12-29)
-- [European shares touch record highs despite metal price pullback](https://www.irishtimes.com/business/markets/2025/12/29/european-shares-touch-record-highs-despite-metal-price-pullback/) (Published: 2025-12-29)
-- [Nvidia Finalizes $5 Billion Purchase of Intel Shares](https://www.pymnts.com/artificial-intelligence-2/2025/nvidia-finalizes-5-billion-purchase-of-intel-shares/) (Published: 2025-12-29)
-- [Five Years of Tinygrad](https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html) (Published: 2025-12-29)
-- [AMD stock faces its next big test in 2026](https://www.thestreet.com/investing/amd-stock-faces-its-next-big-test-in-2026) (Published: 2025-12-29)
-- [Why the electrical grid needs more software | TechCrunch](https://techcrunch.com/2025/12/29/why-the-electrical-grid-needs-more-software/) (Published: 2025-12-29)
-- [Kannada TV actress Nandini CM dies by suicide in Bengaluru](https://timesofindia.indiatimes.com/tv/news/kannada/kannada-tv-actress-nandini-cm-dies-by-suicide-in-bengaluru/articleshow/126236276.cms) (Published: 2025-12-29)
