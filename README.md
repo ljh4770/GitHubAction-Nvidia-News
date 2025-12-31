@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 19:36:04**_
+_Last updated: **2025-12-31 19:46:14**_
 
 - [The KEF XIO is pricey but worth it if you want a Dolby Atmos soundbar that’s equally skilled at movies and music](https://www.techradar.com/televisions/soundbars/kef-xio-review) (Published: 2025-12-30)
 - [An AI super-bull who just backed the Nvidia-Groq deal warns of a data center bust: ‘We foresee a significant financial crisis’](https://fortune.com/2025/12/30/ai-data-center-bust-financial-crisis-alex-davis-nvidia-groq/) (Published: 2025-12-30)
