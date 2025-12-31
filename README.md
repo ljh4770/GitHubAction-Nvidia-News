@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 08:38:05**_
+_Last updated: **2025-12-31 08:58:17**_
 
+- [Beyond Stocks: How ETFs and Fractional Investing Is Helping Indians Access the US Markets](https://economictimes.indiatimes.com/markets/us-stocks/news/beyond-stocks-how-etfs-and-fractional-investing-is-helping-indians-access-the-us-markets/articleshow/126248680.cms) (Published: 2025-12-30)
+- [Israel war prompts relocation requests from Microsoft, Intel, Nvidia, Amazon, Meta and Apple staff](https://economictimes.indiatimes.com/tech/technology/israel-war-prompts-relocation-requests-from-microsoft-intel-nvidia-amazon-meta-and-apple-staff/articleshow/126248676.cms) (Published: 2025-12-30)
 - [Rockchip RK1820/RK1828 SO-DIMM and M.2 LLM/VLM AI accelerator modules, devkits, and benchmarks](https://www.cnx-software.com/2025/12/30/rockchip-rk1820-rk1828-so-dimm-and-m-2-llm-vlm-ai-accelerator-modules-devkits-and-benchmarks/) (Published: 2025-12-30)
 - [NVIDIA NitroGen Gaming AI : Trained on 40,000 Hours of Video Gameplay](https://www.geeky-gadgets.com/multi-title-simulator-benchmark-nvidia-nitrogen/) (Published: 2025-12-30)
 - [Dow Jones Futures: AppLovin, Nvidia, Palantir, Tesla Slide During Stock Market Drop - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180485297) (Published: 2025-12-30)
@@ -9,5 +11,3 @@ _Last updated: **2025-12-31 08:38:05**_
 - [Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality](https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html) (Published: 2025-12-30)
 - [The Enshittifinancial Crisis](https://www.wheresyoured.at/the-enshittifinancial-crisis/) (Published: 2025-12-30)
 - [Asian shares follow Wall Street lower in final stretch of 2025](https://abcnews.go.com/Business/wireStory/asian-shares-follow-wall-street-lower-final-stretch-128773093) (Published: 2025-12-30)
-- [25 on 2025](https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-in-2025-25-milestones-including-mega-deals-bubble-fears-job-cuts-talent-wars-and-more/articleshow/126244497.cms) (Published: 2025-12-30)
-- [Asian shares follow Wall Street lower in final stretch of 2025](https://financialpost.com/pmn/asian-shares-follow-wall-street-lower-in-final-stretch-of-2025) (Published: 2025-12-30)
