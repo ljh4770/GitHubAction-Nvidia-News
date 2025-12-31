@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 09:59:49**_
+_Last updated: **2025-12-31 10:32:16**_
 
+- [Tis the season when tech leaders rub their crystal balls](https://www.theregister.com/2025/12/30/tech_leaders_predictions_2026/) (Published: 2025-12-30)
+- [These 8 big deals defined the year in artificial intelligence](https://www.businessinsider.com/biggest-ai-deals-acquisitions-of-the-year-2025-12) (Published: 2025-12-30)
+- [2025 was the year of VC FOMO. A 'reckoning' might be coming in 2026.](https://www.businessinsider.com/vc-fomo-a-reckoning-might-be-coming-in-2026-2025-12) (Published: 2025-12-30)
+- [Builder customizes 3D-printed PC case with worthwhile upgrades — premium 3D printing template with magnetically attached panels boasts ease of use, customizability, and design flair](https://www.tomshardware.com/pc-components/pc-cases/builder-customizes-3d-printed-pc-case-with-worthwhile-upgrades-premium-3d-printing-template-with-magnetically-attached-panels-boasts-ease-of-use-customizability-and-design-flair) (Published: 2025-12-30)
+- [This 8K ASUS monitor is a big deal in so many ways](https://www.creativebloq.com/tech/monitors/this-8k-asus-monitor-is-a-big-deal-in-so-many-ways) (Published: 2025-12-30)
 - [nvfuser-cu128 0.2.35.dev20251230](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20251230/) (Published: 2025-12-30)
 - [nvfuser-cu130 0.2.35.dev20251230](https://pypi.org/project/nvfuser-cu130/0.2.35.dev20251230/) (Published: 2025-12-30)
 - [Huawei hails Ascend AI ecosystem in New Year message as Atlas 900 supernode rolls out](https://finance.yahoo.com/news/huawei-hails-ascend-ai-ecosystem-093000165.html) (Published: 2025-12-30)
 - [(PR) Moaiplay Debuts Ora Pro G1 Series Power Supplies](https://www.techpowerup.com/344532/moaiplay-debuts-ora-pro-g1-series-power-supplies) (Published: 2025-12-30)
 - [Beyond Stocks: How ETFs and Fractional Investing Is Helping Indians Access the US Markets](https://economictimes.indiatimes.com/markets/us-stocks/news/beyond-stocks-how-etfs-and-fractional-investing-is-helping-indians-access-the-us-markets/articleshow/126248680.cms) (Published: 2025-12-30)
-- [Israel war prompts relocation requests from Microsoft, Intel, Nvidia, Amazon, Meta and Apple staff](https://economictimes.indiatimes.com/tech/technology/israel-war-prompts-relocation-requests-from-microsoft-intel-nvidia-amazon-meta-and-apple-staff/articleshow/126248676.cms) (Published: 2025-12-30)
-- [Rockchip RK1820/RK1828 SO-DIMM and M.2 LLM/VLM AI accelerator modules, devkits, and benchmarks](https://www.cnx-software.com/2025/12/30/rockchip-rk1820-rk1828-so-dimm-and-m-2-llm-vlm-ai-accelerator-modules-devkits-and-benchmarks/) (Published: 2025-12-30)
-- [NVIDIA NitroGen Gaming AI : Trained on 40,000 Hours of Video Gameplay](https://www.geeky-gadgets.com/multi-title-simulator-benchmark-nvidia-nitrogen/) (Published: 2025-12-30)
-- [Dow Jones Futures: AppLovin, Nvidia, Palantir, Tesla Slide During Stock Market Drop - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180485297) (Published: 2025-12-30)
-- [European markets set to open flat to higher as 2025 draws to a close](https://www.cnbc.com/2025/12/30/european-markets-on-decpoint30-stoxx-600-ftse-dax-cac.html) (Published: 2025-12-30)
