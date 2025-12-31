@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 15:51:02**_
+_Last updated: **2025-12-31 16:13:42**_
 
+- [US stocks tick down as tech jitters linger](https://timesofindia.indiatimes.com/business/international-business/us-stocks-tick-down-as-tech-jitters-linger/articleshow/126255663.cms) (Published: 2025-12-30)
 - [OpenAI Secures Massive $40 Billion Investment](https://www.iphoneincanada.ca/2025/12/30/openai-secures-massive-40-billion-investment/) (Published: 2025-12-30)
 - [Tech Trainwrecks: The Biggest Fails of 2025](https://uk.pcmag.com/computers-electronics/162273/tech-trainwrecks-the-biggest-fails-of-2025) (Published: 2025-12-30)
 - [Tech Trainwrecks: The Biggest Fails of 2025](https://me.pcmag.com/en/computers-electronics/34390/tech-trainwrecks-the-biggest-fails-of-2025) (Published: 2025-12-30)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-31 15:51:02**_
 - [Mixed options sentiment in NVIDIA with shares down 0.45%](https://thefly.com/permalinks/entry.php/id4262646/NVDA-Mixed-options-sentiment-in-NVIDIA-with-shares-down-) (Published: 2025-12-30)
 - [My Top 10 Learnings from 37 Podcasts with Harry Stebbings and Rory O’Driscoll This Year](https://www.saastr.com/my-top-10-learnings-from-37-podcasts-with-harry-stebbings-and-rory-odriscoll-this-year/) (Published: 2025-12-30)
 - [LLVM 22 Lands NVIDIA Olympus CPU Scheduling Model](https://www.phoronix.com/news/NVIDIA-Olympus-Sched-Model) (Published: 2025-12-30)
-- [Tron 2 Is $7,000 And It Might Break Humanoid Robotics As We Know It](https://bitrebels.com/technology/tron-2-is-7000-and-it-might-break-humanoid-robotics-as-we-know-it/) (Published: 2025-12-30)
