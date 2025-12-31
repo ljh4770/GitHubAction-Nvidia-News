@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 22:24:41**_
+_Last updated: **2025-12-31 22:44:03**_
 
 - [S&P/TSX composite changes direction to a negative finish, U.S. markets also slide](https://financialpost.com/pmn/sp-tsx-composite-changes-direction-to-a-negative-finish-u-s-markets-also-slide) (Published: 2025-12-30)
 - [We asked a humanoid robot if there is an AI bubble. Here's what it said.](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html) (Published: 2025-12-30)
