@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 20:27:06**_
+_Last updated: **2025-12-31 20:44:39**_
 
 - [Exclusive | Meta Buys AI Startup Manus for More Than $2 Billion - The Wall Street Journal](https://slashdot.org/firehose.pl?op=view&amp;id=180488167) (Published: 2025-12-30)
 - [ASX ends 'stressful' year with value of gold and lithium stocks soaring](https://www.abc.net.au/news/2025-12-31/asx-ends-stressful-year-with-gold-and-lithium-stocks-surging/106188730) (Published: 2025-12-30)
