@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 19:46:14**_
+_Last updated: **2025-12-31 19:56:36**_
 
+- [Show HN: Apache TacticalMesh – Open-source tactical mesh networking for defense](https://github.com/TamTunnel/Apache-TacticalMesh) (Published: 2025-12-30)
 - [The KEF XIO is pricey but worth it if you want a Dolby Atmos soundbar that’s equally skilled at movies and music](https://www.techradar.com/televisions/soundbars/kef-xio-review) (Published: 2025-12-30)
 - [An AI super-bull who just backed the Nvidia-Groq deal warns of a data center bust: ‘We foresee a significant financial crisis’](https://fortune.com/2025/12/30/ai-data-center-bust-financial-crisis-alex-davis-nvidia-groq/) (Published: 2025-12-30)
 - [Nvidia Looks to Acquire Israeli AI Startup AI21 Labs](https://www.pymnts.com/artificial-intelligence-2/2025/nvidia-looks-to-acquire-israeli-ai-startup-ai21-labs/) (Published: 2025-12-30)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-31 19:46:14**_
 - [Everything Meta could do with its new $2 billion AI agent](https://www.zdnet.com/article/meta-buys-manus-ai-agent-2-billion/) (Published: 2025-12-30)
 - [Love it or hate it, but frame generation is the one major graphics technology that really needs improving in 2026](https://www.pcgamer.com/hardware/graphics-cards/love-it-or-hate-it-but-frame-generation-is-the-one-major-graphics-technology-that-really-needs-improving-in-2026/) (Published: 2025-12-30)
 - [The 11 top-performing mini PCs that actually impressed us in 2025](https://www.techradar.com/pro/the-11-top-performing-mini-pcs-that-actually-impressed-us-in-2025) (Published: 2025-12-30)
-- [US stock market slips again today: Why Dow, S&P 500 and Nasdaq are down for a second straight day as gold and silver prices surge](https://economictimes.indiatimes.com/news/international/us/us-stock-market-slips-again-today-why-dow-sp-500-and-nasdaq-are-down-for-a-second-straight-day-as-gold-and-silver-prices-surge/articleshow/126256976.cms) (Published: 2025-12-30)
