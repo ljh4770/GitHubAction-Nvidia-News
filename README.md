@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 04:25:00**_
+_Last updated: **2025-12-31 04:56:21**_
 
 - [Top 10 European IT stories of 2025](https://www.computerweekly.com/news/366636160/Top-10-European-IT-stories-of-2025) (Published: 2025-12-30)
 - [Elecrow AI starter kit turns NVIDIA Jetson Orin Nano into a learning platform with 11.6-inch display, 30 electronics modules](https://www.cnx-software.com/2025/12/30/elecrow-ai-starter-kit-turns-nvidia-jetson-orin-nano-into-a-learning-platform-with-11-6-inch-display-30-electronics-modules/) (Published: 2025-12-30)
