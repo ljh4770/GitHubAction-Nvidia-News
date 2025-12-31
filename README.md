@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 12:19:30**_
+_Last updated: **2025-12-31 13:05:44**_
 
-- [nvidia-nat-profiling 1.5.0a20251230](https://pypi.org/project/nvidia-nat-profiling/1.5.0a20251230/) (Published: 2025-12-30)
-- [nvidia-nat-adk 1.5.0a20251230](https://pypi.org/project/nvidia-nat-adk/1.5.0a20251230/) (Published: 2025-12-30)
-- [nvidia-nat-nemo-customizer 1.5.0a20251230](https://pypi.org/project/nvidia-nat-nemo-customizer/1.5.0a20251230/) (Published: 2025-12-30)
-- [nvidia-nat-s3 1.5.0a20251230](https://pypi.org/project/nvidia-nat-s3/1.5.0a20251230/) (Published: 2025-12-30)
-- [nvidia-nat-weave 1.5.0a20251230](https://pypi.org/project/nvidia-nat-weave/1.5.0a20251230/) (Published: 2025-12-30)
-- [aiqtoolkit-crewai 1.5.0a20251230](https://pypi.org/project/aiqtoolkit-crewai/1.5.0a20251230/) (Published: 2025-12-30)
-- [aiqtoolkit-weave 1.5.0a20251230](https://pypi.org/project/aiqtoolkit-weave/1.5.0a20251230/) (Published: 2025-12-30)
-- [aiqtoolkit-test 1.5.0a20251230](https://pypi.org/project/aiqtoolkit-test/1.5.0a20251230/) (Published: 2025-12-30)
-- [Nvidia (NVDA): BlackRock Science and Technology Term Trust’s Strong Contributor](https://finance.yahoo.com/news/nvidia-nvda-blackrock-science-technology-121051990.html) (Published: 2025-12-30)
+- [Humanoid Robots Are Entering the Real World Faster Than Expected](https://www.geeky-gadgets.com/humanoid-robotics-competition/) (Published: 2025-12-30)
+- [SoftBank Eyes Next-Gen AI Data Centers with $4B DigitalBridge Acquisition](https://www.ibtimes.com/softbank-eyes-next-gen-ai-data-centers-4b-digitalbridge-acquisition-3793951) (Published: 2025-12-30)
+- [Nvidia in 2025: year in review](https://www.techradar.com/computing/gpu/nvidia-in-2025-year-in-review) (Published: 2025-12-30)
+- [nvidia-nat-ragaai 1.4.0a20251230](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20251230/) (Published: 2025-12-30)
+- [nvidia-nat-test 1.4.0a20251230](https://pypi.org/project/nvidia-nat-test/1.4.0a20251230/) (Published: 2025-12-30)
+- [nvidia-nat-strands 1.4.0a20251230](https://pypi.org/project/nvidia-nat-strands/1.4.0a20251230/) (Published: 2025-12-30)
+- [nvidia-nat-phoenix 1.4.0a20251230](https://pypi.org/project/nvidia-nat-phoenix/1.4.0a20251230/) (Published: 2025-12-30)
+- [nvidia-nat-mcp 1.4.0a20251230](https://pypi.org/project/nvidia-nat-mcp/1.4.0a20251230/) (Published: 2025-12-30)
+- [nvidia-nat-ingestion 1.4.0a20251230](https://pypi.org/project/nvidia-nat-ingestion/1.4.0a20251230/) (Published: 2025-12-30)
