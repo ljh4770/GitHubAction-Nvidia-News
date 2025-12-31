@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 07:57:46**_
+_Last updated: **2025-12-31 08:38:05**_
 
 - [Rockchip RK1820/RK1828 SO-DIMM and M.2 LLM/VLM AI accelerator modules, devkits, and benchmarks](https://www.cnx-software.com/2025/12/30/rockchip-rk1820-rk1828-so-dimm-and-m-2-llm-vlm-ai-accelerator-modules-devkits-and-benchmarks/) (Published: 2025-12-30)
 - [NVIDIA NitroGen Gaming AI : Trained on 40,000 Hours of Video Gameplay](https://www.geeky-gadgets.com/multi-title-simulator-benchmark-nvidia-nitrogen/) (Published: 2025-12-30)
