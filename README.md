@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 14:41:50**_
+_Last updated: **2025-12-31 14:53:51**_
 
+- [LLVM 22 Lands NVIDIA Olympus CPU Scheduling Model](https://www.phoronix.com/news/NVIDIA-Olympus-Sched-Model) (Published: 2025-12-30)
 - [Tron 2 Is $7,000 And It Might Break Humanoid Robotics As We Know It](https://bitrebels.com/technology/tron-2-is-7000-and-it-might-break-humanoid-robotics-as-we-know-it/) (Published: 2025-12-30)
 - [Softbank has fully funded $40 billion investment in OpenAI, sources tell CNBC](https://www.cnbc.com/2025/12/30/softbank-openai-investment.html) (Published: 2025-12-30)
 - [Samsung, SK Hynix get US approval to ship chipmaking tools to China in 2026](https://www.livemint.com/companies/news/samsung-sk-hynix-get-us-approval-to-ship-chipmaking-tools-to-china-in-2026-11767099857396.html) (Published: 2025-12-30)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-31 14:41:50**_
 - [2025 proved humanoid robots are here to stay. And fall down.](http://www.popsci.com/technology/humanoid-robots-falling-down-2025/) (Published: 2025-12-30)
 - [The Best Products of CES 2025: Where Are They Now?](https://uk.pcmag.com/topic-3/162264/the-best-products-of-ces-2025-where-are-they-now) (Published: 2025-12-30)
 - [The Best Products of CES 2025: Where Are They Now?](https://me.pcmag.com/en/ces/34381/the-best-products-of-ces-2025-where-are-they-now) (Published: 2025-12-30)
-- [How to watch the NVIDIA CES 2026 presentation live](https://slashdot.org/firehose.pl?op=view&amp;id=180486369) (Published: 2025-12-30)
