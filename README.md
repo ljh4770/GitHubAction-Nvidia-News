@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 23:47:38**_
+_Last updated: **2025-12-31 23:58:08**_
 
 - [Report: Samsung, SK Hynix receive US approval to ship American chipmaking gear to China](https://siliconangle.com/2025/12/30/report-samsung-sk-hynix-receive-us-approval-ship-american-chipmaking-gear-china/) (Published: 2025-12-30)
 - [Shotcut 25.12 Adds Full 10-Bit Video Editing Support](https://www.omgubuntu.co.uk/2025/12/shotcut-25-12-released-cpu-pipeline-improvements) (Published: 2025-12-30)
