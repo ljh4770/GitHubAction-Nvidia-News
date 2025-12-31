@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 17:41:07**_
+_Last updated: **2025-12-31 17:51:18**_
 
+- [The 11 top-performing mini PCs that actually impressed us in 2025](https://www.techradar.com/pro/the-11-top-performing-mini-pcs-that-actually-impressed-us-in-2025) (Published: 2025-12-30)
+- [US stock market slips again today: Why Dow, S&P 500 and Nasdaq are down for a second straight day as gold and silver prices surge](https://economictimes.indiatimes.com/news/international/us/us-stock-market-slips-again-today-why-dow-sp-500-and-nasdaq-are-down-for-a-second-straight-day-as-gold-and-silver-prices-surge/articleshow/126256976.cms) (Published: 2025-12-30)
+- [Sky-high RAM prices may delay the PS6 and next Xbox launches](https://www.androidheadlines.com/2025/12/sky-high-ram-prices-may-delay-the-ps6-and-next-xbox-launches.html) (Published: 2025-12-30)
 - [China’s Three Trump Lessons](http://foreignpolicy.com/2025/12/30/three-lessons-china-trump-2026/) (Published: 2025-12-30)
 - [Nvidia’s Groq bet shows that the economics of AI chip-building are still unsettled](https://fortune.com/2025/12/30/nvidias-groq-bet-shows-that-the-economics-of-ai-chip-building-are-still-unsettled/) (Published: 2025-12-30)
 - ['Friendslop' dominated 2025 by proving time and time again that graphics are overrated](https://www.pcgamer.com/games/friendslop-dominated-2025-by-proving-time-and-time-again-that-graphics-are-overrated/) (Published: 2025-12-30)
@@ -8,6 +11,3 @@ _Last updated: **2025-12-31 17:41:07**_
 - [Analysts Call NVIDIA Corporation (NVDA) Groq Deal a ‘Tech and Talent Grab’](https://finance.yahoo.com/news/analysts-call-nvidia-corporation-nvda-172707231.html) (Published: 2025-12-30)
 - [HDMI 2.2 Is Coming, But You You Don't Need To Upgrade (Yet)](https://www.bgr.com/2059951/hdmi-2-2-upgrade-explained/) (Published: 2025-12-30)
 - [Nvidia in advanced talks to buy Israel's AI21 Labs for up to $3 billion, report says](https://www.channelnewsasia.com/business/nvidia-in-advanced-talks-buy-israels-ai21-labs-up-3-billion-report-says-5770251) (Published: 2025-12-30)
-- [Nvidia in advanced talks to buy Israel's AI21 Labs for up to $3 billion, report says](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_622cc689-c797-4f45-b7af-fea2ff710f4a) (Published: 2025-12-30)
-- [ASUS Clears Out Prime Graphics Card, GeForce RTX 5060 Gets Even Cheaper Overnight After Another Price Drop](https://kotaku.com/asus-clears-out-prime-graphics-card-geforce-rtx-5060-gets-even-cheaper-overnight-after-another-price-drop-2000656038) (Published: 2025-12-30)
-- [Rhino Linux vs EndeavorOS: Which rolling release distro should you choose?](https://www.zdnet.com/article/rhino-linux-vs-endeavoros/) (Published: 2025-12-30)
