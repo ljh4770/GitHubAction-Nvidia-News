@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 10:49:40**_
+_Last updated: **2025-12-31 10:59:42**_
 
+- [aiqtoolkit-mem0ai 1.5.0a20251230](https://pypi.org/project/aiqtoolkit-mem0ai/1.5.0a20251230/) (Published: 2025-12-30)
 - [Bitcoin’s $90K rejection: Is BTC's digital gold narrative losing to bonds?](https://cointelegraph.com/news/bitcoin-90k-rejection-is-btc-digital-gold-narrative-losing-to-bonds) (Published: 2025-12-30)
 - [Tis the season when tech leaders rub their crystal balls](https://www.theregister.com/2025/12/30/tech_leaders_predictions_2026/) (Published: 2025-12-30)
 - [These 8 big deals defined the year in artificial intelligence](https://www.businessinsider.com/biggest-ai-deals-acquisitions-of-the-year-2025-12) (Published: 2025-12-30)
@@ -10,4 +11,3 @@ _Last updated: **2025-12-31 10:49:40**_
 - [nvfuser-cu128 0.2.35.dev20251230](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20251230/) (Published: 2025-12-30)
 - [nvfuser-cu130 0.2.35.dev20251230](https://pypi.org/project/nvfuser-cu130/0.2.35.dev20251230/) (Published: 2025-12-30)
 - [Huawei hails Ascend AI ecosystem in New Year message as Atlas 900 supernode rolls out](https://finance.yahoo.com/news/huawei-hails-ascend-ai-ecosystem-093000165.html) (Published: 2025-12-30)
-- [(PR) Moaiplay Debuts Ora Pro G1 Series Power Supplies](https://www.techpowerup.com/344532/moaiplay-debuts-ora-pro-g1-series-power-supplies) (Published: 2025-12-30)
