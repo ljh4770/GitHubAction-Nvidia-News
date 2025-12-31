@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 13:42:42**_
+_Last updated: **2025-12-31 13:56:06**_
 
 - [How to watch the NVIDIA CES 2026 presentation live](https://slashdot.org/firehose.pl?op=view&amp;id=180486369) (Published: 2025-12-30)
 - [Humanoid Robots Are Entering the Real World Faster Than Expected](https://www.geeky-gadgets.com/humanoid-robotics-competition/) (Published: 2025-12-30)
