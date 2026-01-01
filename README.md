@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-01 17:47:29**_
+_Last updated: **2026-01-01 17:58:01**_
 
+- [Will Nvidia Stock Boom in 2026?](https://biztoc.com/x/658d35d7252af429) (Published: 2025-12-31)
+- [Gold, silver bets shift ahead of 2026](https://biztoc.com/x/0b2b27a2e256d87a) (Published: 2025-12-31)
+- [Buyers of New Made-in-USA Cars Qualify Trump Tax Perk, IRS Says](https://biztoc.com/x/5a841ac5a61e5476) (Published: 2025-12-31)
+- [Ulta Stock ‘Unleashed’ Gains in 2025. Should You Keep Buying Shares in 2026?](https://biztoc.com/x/6cd175c289f0a2b3) (Published: 2025-12-31)
+- [A multistate salmonella outbreak may be linked to oysters. What people should know](https://biztoc.com/x/de8babb62c476b86) (Published: 2025-12-31)
+- [Canadian Stocks Set Record for Records in ‘Jaw-Dropping’ Year](https://biztoc.com/x/f4d55898817c43fd) (Published: 2025-12-31)
+- [Stock Market Today: Dow Dips Ahead Of Jobless Claims; Nvidia, Rocket Lab Rally (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180492799) (Published: 2025-12-31)
 - [Nvidia Could Buy AI21 Next. What Does That Mean for NVDA Stock?](https://biztoc.com/x/1d06efbad8a84c01) (Published: 2025-12-31)
 - [Mali and Burkina Faso impose retaliatory travel ban on US nationals](https://biztoc.com/x/37f41f00b29c56b3) (Published: 2025-12-31)
 - [Corcept Therapeutics Shares Plunge 50% After FDA Rejects Blood Pressure Drug](https://biztoc.com/x/777026d703e93097) (Published: 2025-12-31)
-- [Apollo to Sell Coinstar to Alaska Buyer, Bonds Set to Be Repaid](https://biztoc.com/x/c2a208a406adbcff) (Published: 2025-12-31)
-- [4 A.I. Themes That Defined 2025 and Are Shaping What Comes Next](https://observer.com/2025/12/top-ai-themes-2025/) (Published: 2025-12-31)
-- [Nike’s CEO joins Apple’s in sinking his own money into Nike shares](https://biztoc.com/x/33757f64374956cd) (Published: 2025-12-31)
-- [Can Donald Trump save American coal?](https://biztoc.com/x/f0e74ff024a1b95f) (Published: 2025-12-31)
-- [Everyone’s Watching Stocks. The Real Bubble Is AI Debt](https://biztoc.com/x/2c24cca9d2704a28) (Published: 2025-12-31)
-- [Residual fuel tops off Venezuela's tanks as exports remain almost paralyzed, sources say](https://biztoc.com/x/983b5d4c2b2d73d1) (Published: 2025-12-31)
-- [Markets close out the year on the up amid light volumes](https://www.irishtimes.com/business/2025/12/31/markets-close-out-the-year-on-the-up-amid-light-volumes/) (Published: 2025-12-31)
