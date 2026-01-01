@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-01 07:47:59**_
+_Last updated: **2026-01-01 07:58:03**_
 
+- [Asian shares trade mixed with some exchanges closed ahead of the New Year](https://abcnews.go.com/Business/wireStory/asian-shares-trade-mixed-exchanges-closed-ahead-new-128796553) (Published: 2025-12-31)
 - [One of Dan Ives’ top 5 AI stocks for 2026 is Apple, despite its “invisible AI strategy” - Sherwood News](https://slashdot.org/firehose.pl?op=view&amp;id=180490481) (Published: 2025-12-31)
 - [MSI CES Forecast: Thunderstorm With Lightning! The Flagship GeForce RTX “Lightning” Is Coming](https://wccftech.com/msi-ces-forecast-thunderstorm-lightning-flagship-geforce-rtx-lightning-is-coming/) (Published: 2025-12-31)
 - [Asian shares trade mixed ahead of the New Year](https://japantoday.com/category/business/asian-shares-trade-mixed-with-some-exchanges-closed-ahead-of-the-new-year) (Published: 2025-12-31)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-01 07:47:59**_
 - [An A-Z list of 2025’s biggest stories](https://www.aljazeera.com/news/longform/2025/12/31/an-a-z-list-of-2025s-biggest-stories) (Published: 2025-12-31)
 - [Six economic flashpoints to watch out for in 2026](https://www.irishtimes.com/business/2025/12/31/six-economic-flashpoints-to-watch-out-for-in-2026/) (Published: 2025-12-31)
 - [Tech’s biggest bull lists his top 5 AI stocks for 2026, and Nvidia isn’t one of them - MarketWatch](https://slashdot.org/firehose.pl?op=view&amp;id=180490315) (Published: 2025-12-31)
-- [India's IT Industry Didn't Ride The AI Hype: Now It's Paying To Catch Up](https://www.ndtvprofit.com/markets/tcs-infosys-hcltech-wipro-coforge-in-focus-as-indian-it-plays-catch-up-to-artificial-intelligence) (Published: 2025-12-31)
