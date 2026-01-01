@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2025-12-31 23:58:08**_
+_Last updated: **2026-01-01 02:32:35**_
 
-- [Report: Samsung, SK Hynix receive US approval to ship American chipmaking gear to China](https://siliconangle.com/2025/12/30/report-samsung-sk-hynix-receive-us-approval-ship-american-chipmaking-gear-china/) (Published: 2025-12-30)
-- [Shotcut 25.12 Adds Full 10-Bit Video Editing Support](https://www.omgubuntu.co.uk/2025/12/shotcut-25-12-released-cpu-pipeline-improvements) (Published: 2025-12-30)
-- [Groq Investor Sounds Alarm On Data Centers](https://slashdot.org/story/25/12/30/2016207/groq-investor-sounds-alarm-on-data-centers) (Published: 2025-12-30)
-- [China's first real gaming GPU is here, and the benchmarks are brutal](https://www.howtogeek.com/are-chinese-gpus-coming-to-eat-nvidias-lunch/) (Published: 2025-12-30)
-- [S&P/TSX composite changes direction to a negative finish, U.S. markets also slide](https://financialpost.com/pmn/sp-tsx-composite-changes-direction-to-a-negative-finish-u-s-markets-also-slide) (Published: 2025-12-30)
-- [We asked a humanoid robot if there is an AI bubble. Here's what it said.](https://www.cnbc.com/2025/12/30/we-asked-a-humanoid-robot-if-theres-an-ai-bubble-heres-what-it-said.html) (Published: 2025-12-30)
-- [Samsung gets US approval to ship chip equipment to China despite trade restrictions](https://www.androidheadlines.com/2025/12/samsung-gets-us-approval-to-ship-chip-equipment-to-china-despite-trade-restrictions.html) (Published: 2025-12-30)
-- [Business leaders from Palmer Luckey to David Sacks react to California's proposed billionaire tax](https://www.businessinsider.com/business-leaders-react-to-california-wealth-tax-proposal-2025-12) (Published: 2025-12-30)
-- [Unexpected Surprise: Windows 11 Outperforming Linux On An Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h) (Published: 2025-12-30)
-- [Commentary: The quantum era crept up while you were watching AI](https://www.channelnewsasia.com/commentary/quantum-computing-big-tech-microsoft-google-ibm-chips-5769781) (Published: 2025-12-30)
+- [Asian shares trade mixed with some exchanges closed ahead of the New Year](https://financialpost.com/pmn/asian-shares-trade-mixed-with-some-exchanges-closed-ahead-of-the-new-year) (Published: 2025-12-31)
+- [Taiwan’s TSMC says it has started mass production of ‘most advanced’ 2nm semiconductor chips](https://www.straitstimes.com/business/taiwans-tsmc-says-it-has-started-mass-production-of-most-advanced-2nm-semiconductor-chips) (Published: 2025-12-31)
+- [TSMC says started mass production of 'most advanced' 2nm chips](https://economictimes.indiatimes.com/tech/technology/tsmc-says-started-mass-production-of-most-advanced-2nm-chips/articleshow/126262323.cms) (Published: 2025-12-31)
+- [S&P 500, Nasdaq end slightly down in holiday-thin trade, Meta gains on deal](https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-end-slightly-down-in-holiday-thin-trade-meta-gains-on-deal/articleshow/126262215.cms) (Published: 2025-12-31)
+- [S&P 500, Nasdaq end slightly down in holiday-thin trade, Meta gains on deal](https://economictimes.indiatimes.com/markets/stocks/news/sp-500-nasdaq-end-slightly-down-in-holiday-thin-trade-meta-gains-on-deal/articleshow/126262215.cms) (Published: 2025-12-31)
+- [Elon Musk reveals plan to expand xAI’s ‘Colossus’ data center to 2 gigawatts](https://siliconangle.com/2025/12/30/elon-musk-reveals-plan-expand-xais-colossus-data-center-2-gigawatts/) (Published: 2025-12-31)
+- [Tuesday Night Open Thread](https://balloon-juice.com/2025/12/30/tuesday-night-open-thread-93/) (Published: 2025-12-31)
+- [TSMC says it started mass production of 'most advanced' 2nm chips](https://www.channelnewsasia.com/east-asia/tsmc-says-it-started-mass-production-most-advanced-2nm-chips-5770806) (Published: 2025-12-31)
+- [nemo-evaluator 0.1.57](https://pypi.org/project/nemo-evaluator/0.1.57/) (Published: 2025-12-31)
