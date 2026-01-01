@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-01 17:09:44**_
+_Last updated: **2026-01-01 17:33:26**_
 
-- [To Make its Largest Purchase From Groq](https://biztoc.com/x/d0a47f260d6c99b8) (Published: 2025-12-31)
-- [Falls as Nvidia Stops Testing its Intel 18](https://biztoc.com/x/1639e713b40edd2f) (Published: 2025-12-31)
-- [AI bubble concerns heading into 2026, Warren Buffett's last day as CEO](https://finance.yahoo.com/video/ai-bubble-concerns-heading-2026-170000569.html) (Published: 2025-12-31)
-- [Global Coffee Crop Concerns Underpin Prices](https://biztoc.com/x/882cbe1c91bd1c32) (Published: 2025-12-31)
-- [Saudi Arabia’s central bank foreign assets rise by $21.33 billion](https://biztoc.com/x/8cec372a1d5214c9) (Published: 2025-12-31)
-- [Midday Fly By: Nvidia said to see strong H200 demand in China](https://thefly.com/permalinks/entry.php/id4262982/CSX;NVDA;VNDA;CORT;WULF;GFS;PLUG;TSEM;TSM;NFLX;PFE;SNY;NVS;GSK;WBD;PSKY;META;ONDS;DJT;SERV;HOOD;OSS;STZ;RPM;JEF-Midday-Fly-By-Nvidia-said-to-see-strong-H-demand-in-China) (Published: 2025-12-31)
-- [RTX 5090 With 1350 W OC Saved From Melted Connector by ASRock PSU](https://www.techpowerup.com/344571/rtx-5090-with-1350-w-oc-saved-from-melted-connector-by-asrock-psu) (Published: 2025-12-31)
-- [Harvest ETFs Announces Final Annual 2025 Reinvested Harvest High Income Shares ETFs Distributions](https://financialpost.com/pmn/business-wire-news-releases-pmn/harvest-etfs-announces-final-annual-2025-reinvested-harvest-high-income-shares-etfs-distributions) (Published: 2025-12-31)
-- [1 Artificial Intelligence (AI) Revenue Machine You'll Want to Watch in 2026 (Hint: It's Beaten Everyone Except Nvidia)](https://biztoc.com/x/34f6d695b542e8ab) (Published: 2025-12-31)
+- [Nike’s CEO joins Apple’s in sinking his own money into Nike shares](https://biztoc.com/x/33757f64374956cd) (Published: 2025-12-31)
+- [Can Donald Trump save American coal?](https://biztoc.com/x/f0e74ff024a1b95f) (Published: 2025-12-31)
+- [Everyone’s Watching Stocks. The Real Bubble Is AI Debt](https://biztoc.com/x/2c24cca9d2704a28) (Published: 2025-12-31)
+- [Residual fuel tops off Venezuela's tanks as exports remain almost paralyzed, sources say](https://biztoc.com/x/983b5d4c2b2d73d1) (Published: 2025-12-31)
+- [Markets close out the year on the up amid light volumes](https://www.irishtimes.com/business/2025/12/31/markets-close-out-the-year-on-the-up-amid-light-volumes/) (Published: 2025-12-31)
+- [U.S. stocks slouch into year end with no sign of ‘Santa Claus rally’](https://financialpost.com/investing/us-stocks-year-end-no-sign-santa-claus-rally) (Published: 2025-12-31)
+- [US Stocks Slouch Into Year End With No Sign of Santa Claus Rally](https://financialpost.com/pmn/business-pmn/us-stocks-slouch-into-year-end-with-no-sign-of-santa-claus-rally) (Published: 2025-12-31)
+- [US Mortgage Rates Fall for a Third Week, Hitting a 2025 Low](https://biztoc.com/x/f67902fb9a595775) (Published: 2025-12-31)
+- [Jobless Claims Decreased Last Week](https://biztoc.com/x/c68c71af9e4860e1) (Published: 2025-12-31)
+- [Disney agrees to pay $10 million to resolve alleged violations of child privacy laws, Justice Dept. says](https://biztoc.com/x/db81e5ef33ff9f5c) (Published: 2025-12-31)
