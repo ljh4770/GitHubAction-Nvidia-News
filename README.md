@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-01 22:57:16**_
+_Last updated: **2026-01-01 23:25:56**_
 
+- [‘No one dies in prison, they die on the way to hospital’](https://timesofindia.indiatimes.com/city/mumbai/no-one-dies-in-prison-they-die-on-the-way-to-hospital/articleshow/126278200.cms) (Published: 2025-12-31)
+- [Mumbai: Digital trail leads police to man accused of raping 16-year-old girl](https://timesofindia.indiatimes.com/city/mumbai/mumbai-digital-trail-leads-police-to-man-accused-of-raping-16-year-old-girl/articleshow/126278135.cms) (Published: 2025-12-31)
+- [Wall Street Ends 2025 Grinning Despite Some Gloom](https://biztoc.com/x/37897ce16399f044) (Published: 2025-12-31)
+- [Cantor Says Closing of UBS Hedge Fund Deal to Continue into 2026](https://biztoc.com/x/a5788bb20e8117a4) (Published: 2025-12-31)
+- [Cattle Close 2025 with Strength](https://biztoc.com/x/d34eccbd3e1b5958) (Published: 2025-12-31)
+- [Drummers pound in the new year as others mark 2026 with defiance or hope](https://biztoc.com/x/4595ea0d3bfb9b2e) (Published: 2025-12-31)
+- [Media Stocks Winners & Losers In 2025: WBD Rides M&A Wave, EchoStar Jumps On SpaceX Speculation](http://deadline.com/2025/12/2025-media-stocks-winners-losers-1236658705/) (Published: 2025-12-31)
+- [NBA injury update: Is Josh Giddey playing tonight? Chicago Bulls suffer major blow as star face health setback, leaving offense shorthanded](https://timesofindia.indiatimes.com/sports/nba/top-stories/nba-injury-update-is-josh-giddey-playing-tonight-chicago-bulls-suffer-major-blow-as-star-face-health-setback-leaving-offense-shorthanded/articleshow/126280632.cms) (Published: 2025-12-31)
+- [Pentagon says Lockheed Martin gets $328.5 million Taiwan military sale contract](https://biztoc.com/x/61fe009a4c20cc66) (Published: 2025-12-31)
 - [Starmer Vows to Beat ‘Decline and Division’ in New Year Message](https://biztoc.com/x/c19ebe97b8ffdd1b) (Published: 2025-12-31)
-- [These national and regional retailers went out of business in 2025](https://biztoc.com/x/8687f5505735a48c) (Published: 2025-12-31)
-- [US applications for jobless benefits fell below 200,000 last week with layoffs historically low](https://biztoc.com/x/1bbfd68d257b91f3) (Published: 2025-12-31)
-- [How options trader ‘Captain Condor’ led his followers to a $50 million wipeout](https://biztoc.com/x/833afc376a148047) (Published: 2025-12-31)
-- [Mexico to Bring Back Some Food Tariffs to Aid Local Producers](https://biztoc.com/x/0b6fe1ee471d6bdd) (Published: 2025-12-31)
-- [Boeing awarded $2.7 billion contract for Apache helicopter support, Pentagon says](https://biztoc.com/x/d325dddb9584736a) (Published: 2025-12-31)
-- [South Korean Stocks Had a Breakout 2025. Can It Continue?](https://biztoc.com/x/3ddc14d4e9bee2b2) (Published: 2025-12-31)
-- [Clairvoyance Is Great for Hedge Fund Returns](https://biztoc.com/x/9f6adca4bb810e88) (Published: 2025-12-31)
-- [Trump made lots of tariff threats in 2025. Here are some that never materialized](https://biztoc.com/x/613b25b5792a15a8) (Published: 2025-12-31)
-- [Thiel Capital opens an office in Miami, as Peter Thiel and others reportedly look to cut ties with California over a proposed ballot measure to tax billionaires](https://biztoc.com/x/eb297de55598bb69) (Published: 2025-12-31)
