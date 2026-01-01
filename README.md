@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-01 22:47:07**_
+_Last updated: **2026-01-01 22:57:16**_
 
+- [Starmer Vows to Beat ‘Decline and Division’ in New Year Message](https://biztoc.com/x/c19ebe97b8ffdd1b) (Published: 2025-12-31)
+- [These national and regional retailers went out of business in 2025](https://biztoc.com/x/8687f5505735a48c) (Published: 2025-12-31)
 - [US applications for jobless benefits fell below 200,000 last week with layoffs historically low](https://biztoc.com/x/1bbfd68d257b91f3) (Published: 2025-12-31)
 - [How options trader ‘Captain Condor’ led his followers to a $50 million wipeout](https://biztoc.com/x/833afc376a148047) (Published: 2025-12-31)
 - [Mexico to Bring Back Some Food Tariffs to Aid Local Producers](https://biztoc.com/x/0b6fe1ee471d6bdd) (Published: 2025-12-31)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-01 22:47:07**_
 - [Clairvoyance Is Great for Hedge Fund Returns](https://biztoc.com/x/9f6adca4bb810e88) (Published: 2025-12-31)
 - [Trump made lots of tariff threats in 2025. Here are some that never materialized](https://biztoc.com/x/613b25b5792a15a8) (Published: 2025-12-31)
 - [Thiel Capital opens an office in Miami, as Peter Thiel and others reportedly look to cut ties with California over a proposed ballot measure to tax billionaires](https://biztoc.com/x/eb297de55598bb69) (Published: 2025-12-31)
-- [Sinkholes and Quake-Hit Roads Expose Japan’s Infrastructure Emergency](https://biztoc.com/x/cbaaf5b59bfbbd86) (Published: 2025-12-31)
-- [Wall Street ends year’s final session lower but posts big annual gains for 2025](https://www.straitstimes.com/business/companies-markets/wall-street-ends-years-final-session-lower-but-posts-big-annual-gains-for-2025) (Published: 2025-12-31)
