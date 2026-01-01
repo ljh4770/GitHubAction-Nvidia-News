@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-01 04:53:55**_
+_Last updated: **2026-01-01 05:24:32**_
 
+- [A Groq investor said he's 'deeply concerned' about the data center market](https://www.businessinsider.com/groq-investor-deeply-concerned-data-center-market-disruptive-tech-2025-12) (Published: 2025-12-31)
 - [Academic research for AI robots to focus on causal reasoning and chain-of-thought](https://www.digitimes.com/news/a20251231PD231/development-ceo-nstc-nvidia-tesla.html) (Published: 2025-12-31)
 - [What Five AIs Told Me About 2026’s Best Investment](https://www.mutualfundobserver.com/2025/12/what-five-ais-told-me-about-2026s-best-investment/) (Published: 2025-12-31)
 - [Sapphire AMD Radeon RX 9070 XT Nitro+ Melts Connector After “Almost a Year” in Use](https://www.madshrimps.be/news/sapphire-amd-radeon-rx-9070-xt-nitro-melts-connector-after-almost-a-year-in-use/) (Published: 2025-12-31)
