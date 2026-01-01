@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-01 16:50:22**_
+_Last updated: **2026-01-01 17:09:44**_
 
+- [To Make its Largest Purchase From Groq](https://biztoc.com/x/d0a47f260d6c99b8) (Published: 2025-12-31)
+- [Falls as Nvidia Stops Testing its Intel 18](https://biztoc.com/x/1639e713b40edd2f) (Published: 2025-12-31)
+- [AI bubble concerns heading into 2026, Warren Buffett's last day as CEO](https://finance.yahoo.com/video/ai-bubble-concerns-heading-2026-170000569.html) (Published: 2025-12-31)
+- [Global Coffee Crop Concerns Underpin Prices](https://biztoc.com/x/882cbe1c91bd1c32) (Published: 2025-12-31)
+- [Saudi Arabia’s central bank foreign assets rise by $21.33 billion](https://biztoc.com/x/8cec372a1d5214c9) (Published: 2025-12-31)
+- [Midday Fly By: Nvidia said to see strong H200 demand in China](https://thefly.com/permalinks/entry.php/id4262982/CSX;NVDA;VNDA;CORT;WULF;GFS;PLUG;TSEM;TSM;NFLX;PFE;SNY;NVS;GSK;WBD;PSKY;META;ONDS;DJT;SERV;HOOD;OSS;STZ;RPM;JEF-Midday-Fly-By-Nvidia-said-to-see-strong-H-demand-in-China) (Published: 2025-12-31)
+- [RTX 5090 With 1350 W OC Saved From Melted Connector by ASRock PSU](https://www.techpowerup.com/344571/rtx-5090-with-1350-w-oc-saved-from-melted-connector-by-asrock-psu) (Published: 2025-12-31)
+- [Harvest ETFs Announces Final Annual 2025 Reinvested Harvest High Income Shares ETFs Distributions](https://financialpost.com/pmn/business-wire-news-releases-pmn/harvest-etfs-announces-final-annual-2025-reinvested-harvest-high-income-shares-etfs-distributions) (Published: 2025-12-31)
 - [1 Artificial Intelligence (AI) Revenue Machine You'll Want to Watch in 2026 (Hint: It's Beaten Everyone Except Nvidia)](https://biztoc.com/x/34f6d695b542e8ab) (Published: 2025-12-31)
-- [These Five Stocks Had Their Worst Year in Decades](https://biztoc.com/x/798c7a8e85f767da) (Published: 2025-12-31)
-- [U.S. crude oil imports fell last week to lowest since February 2021, EIA says](https://biztoc.com/x/337bac23d6078d4c) (Published: 2025-12-31)
-- [Elon Musk’s Net Worth Went Orbital in 2025](https://biztoc.com/x/cf083ebbf7909f49) (Published: 2025-12-31)
-- [The nation's 250th anniversary arrives with a call for year-round community service](https://biztoc.com/x/b753d89491f4a317) (Published: 2025-12-31)
-- [NVIDIA Corporation (NVDA) To Make its Largest Purchase From Groq](https://finance.yahoo.com/news/nvidia-corporation-nvda-largest-purchase-164212458.html) (Published: 2025-12-31)
-- [Intel Corporation (INTC) Falls as Nvidia Stops Testing its Intel 18](https://finance.yahoo.com/news/intel-corporation-intc-falls-nvidia-164204662.html) (Published: 2025-12-31)
-- [Switzerland's SNB sharply reduces foreign currency purchases in third quarter](https://biztoc.com/x/40bef4ca9c76d3e3) (Published: 2025-12-31)
-- [Robo-Taxis and Home Runs? 40 Overlooked Bargain Stocks for 2026](https://biztoc.com/x/9b14fc3517aa7715) (Published: 2025-12-31)
-- [JPMorgan Says Javice Firms Billed Millions Just for ‘Attendance’](https://biztoc.com/x/abdf052b6fef808c) (Published: 2025-12-31)
