@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-02 17:26:15**_
+_Last updated: **2026-01-02 17:43:03**_
 
 - [llcuda 1.1.1.post1](https://pypi.org/project/llcuda/1.1.1.post1/) (Published: 2026-01-01)
 - [Haiku gets accelerated NVIDIA graphics driver](https://www.osnews.com/story/144097/haiku-gets-accelerated-nvidia-graphics-driver/) (Published: 2026-01-01)
