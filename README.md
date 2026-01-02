@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-02 20:46:21**_
+_Last updated: **2026-01-02 20:57:00**_
 
 - [NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + NVK/Zink](https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1) (Published: 2026-01-01)
 - [LG's dual-mode 4K 240Hz / 1080p 480Hz OLED gaming monitor is 42% off — premium flagship panel with HDR1300 drops to its lowest-ever price](https://www.tomshardware.com/pc-components/lgs-dual-mode-4k-240hz-1080p-480hz-oled-gaming-monitor-is-42-percent-off-premium-flagship-panel-with-hdr1300-drops-to-its-lowest-ever-price) (Published: 2026-01-01)
