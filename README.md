@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-02 21:44:11**_
+_Last updated: **2026-01-02 21:54:16**_
 
+- [Q&A: AI, the Edge, and the war machine](https://www.digitaljournal.com/tech-science/qa-ai-the-edge-and-the-war-machine/article) (Published: 2026-01-01)
 - [NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + NVK/Zink](https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1) (Published: 2026-01-01)
 - [LG's dual-mode 4K 240Hz / 1080p 480Hz OLED gaming monitor is 42% off — premium flagship panel with HDR1300 drops to its lowest-ever price](https://www.tomshardware.com/pc-components/lgs-dual-mode-4k-240hz-1080p-480hz-oled-gaming-monitor-is-42-percent-off-premium-flagship-panel-with-hdr1300-drops-to-its-lowest-ever-price) (Published: 2026-01-01)
 - [AI trade will fracture into winners & losers: Top stock picks](https://finance.yahoo.com/video/ai-trade-fracture-winners-losers-200000655.html) (Published: 2026-01-01)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-02 21:44:11**_
 - [500 Richest People Gained Record $2.2 Trillion in 2025, Fueling Calls for Wealth Tax](https://www.commondreams.org/news/billionaire-list-2025) (Published: 2026-01-01)
 - [TechRadar's Year in Review 2025 – the biggest trends in AI, phones, computing, TVs, gaming and more](https://www.techradar.com/ai-platforms-assistants/apple-intelligence/techradars-year-in-review-2025-the-biggest-trends-in-ai-phones-computing-tvs-gaming-and-more) (Published: 2026-01-01)
 - [Crypto’s 2026 investment playbook: Bitcoin, stablecoin infrastructure, tokenized assets](https://cointelegraph.com/news/crypto-investment-themes-2026-bitcoin-stablecoins-tokenized-assets) (Published: 2026-01-01)
-- [CES 2026: From new Intel chips to far too much AI, here's everything we expect to see](https://www.pcgamer.com/hardware/ces-2026-from-new-intel-chips-to-far-too-much-ai-heres-everything-we-expect-to-see/) (Published: 2026-01-01)
