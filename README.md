@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-02 19:36:34**_
+_Last updated: **2026-01-02 19:47:12**_
 
 - [NVIDIA’s GB200 NVL72 Racks Deliver a Staggering 28× Performance Uplift Over AMD’s MI355X Counterpart, Leading in Intelligence/$](https://wccftech.com/nvidia-gb200-nvl72-racks-deliver-a-28x-performance-uplift-over-amd-mi355x/) (Published: 2026-01-01)
 - [ASUS ROG Strix G16 ROG Nebula Laptop: 16" 2.5K 240Hz, Ryzen 9 9955HX, 32GB, 1TB, RTX 5070Ti $1850 + Free Shipping](https://slickdeals.net/f/19047910-asus-rog-strix-g16-rog-nebula-laptop-16-2-5k-240hz-ryzen-9-9955hx-32gb-1tb-rtx-5070ti-1850-free-shipping) (Published: 2026-01-01)
