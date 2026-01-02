@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-02 23:45:08**_
+_Last updated: **2026-01-02 23:55:12**_
 
 - [How to Set Up High Quality Performance Overlays with RTSS](https://wccftech.com/how-to-set-up-high-quality-performance-overlays-with-rtss/) (Published: 2026-01-01)
 - [Show HN: Elliptica – Make Art with Elliptic Boundary Value Problems](https://github.com/afolkest/elliptica) (Published: 2026-01-01)
