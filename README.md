@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-03 09:18:55**_
+_Last updated: **2026-01-03 09:37:20**_
 
+- [2026 Volvo ES90 ROI now open in Malaysia – electric sedan with up to 651 km WLTP range, 333 PS; CKD](https://paultan.org/2026/01/02/2026-volvo-es90-roi-now-open-in-malaysia/) (Published: 2026-01-02)
 - [(PR) LG Introduces 2026 LG gram Lineup Elevated by Aerominum](https://www.techpowerup.com/344610/lg-introduces-2026-lg-gram-lineup-elevated-by-aerominum) (Published: 2026-01-02)
 - [Could 2026 be the year of the 4-day workweek? Here’s what top business leaders have predicted about the shift](https://fortune.com/2026/01/02/four-day-workweek-possible-2026-business-leaders-jensen-huang-elon-musk-bill-gates-jamie-dimon/) (Published: 2026-01-02)
 - [China AI chipmaker Biren soars in Hong Kong debut as IPO wave builds](https://economictimes.indiatimes.com/tech/technology/china-ai-chipmaker-biren-soars-in-hong-kong-debut-as-ipo-wave-builds/articleshow/126302712.cms) (Published: 2026-01-02)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-03 09:18:55**_
 - [‘Samsung is back,’ hail the company’s chip clients](https://www.sammobile.com/news/samsung-is-back-hail-semiconductor-chip-clients/) (Published: 2026-01-02)
 - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia](https://biztoc.com/x/a1005992a0de18be) (Published: 2026-01-02)
 - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia (Kieran Smith/Financial Times)](https://www.techmeme.com/260102/p1) (Published: 2026-01-02)
-- [LG gram laptop 2026 series announced](https://www.yugatech.com/news/lg-gram-laptop-2026-series-announced/) (Published: 2026-01-02)
