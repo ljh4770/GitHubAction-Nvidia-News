@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-03 17:37:50**_
+_Last updated: **2026-01-03 17:48:27**_
 
 - [LG made up a new word for its next ultralight Gram laptops: 'Aerominum'](https://slashdot.org/firehose.pl?op=view&amp;id=180502935) (Published: 2026-01-02)
 - [We’re Already Getting Our First Gaming Price Hike Of 2026](https://kotaku.com/asus-rog-ally-price-increase-nvidia-amd-ai-ps6-delay-2000656448) (Published: 2026-01-02)
