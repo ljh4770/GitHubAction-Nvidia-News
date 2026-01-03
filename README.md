@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-03 12:38:17**_
+_Last updated: **2026-01-03 13:17:07**_
 
-- [The Morning After: Instagram boss says ‘more practical to fingerprint real media than fake media’](https://slashdot.org/firehose.pl?op=view&amp;id=180501765) (Published: 2026-01-02)
-- [Nvidia, AMD and Broadcom Are Facing Off. How the 2026 AI Chips Battle Is Shaping Up](https://biztoc.com/x/604ff4d797ecbc0d) (Published: 2026-01-02)
-- [Stock futures rise on first trading day of 2026: Live updates](https://biztoc.com/x/311e2d2b0e61a335) (Published: 2026-01-02)
-- [NHL injury update: William Nylander out for Leafs and Jets game due to lower-body concern](https://timesofindia.indiatimes.com/sports/nhl/news/nhl-injury-update-william-nylander-out-for-leafs-and-jets-game-due-to-lower-body-concern/articleshow/126305324.cms) (Published: 2026-01-02)
-- [How Nokia Went From iPhone Victim To $1 Billion Nvidia Deal](https://slashdot.org/story/26/01/02/070257/how-nokia-went-from-iphone-victim-to-1-billion-nvidia-deal) (Published: 2026-01-02)
-- [nvidia-nat-ragaai 1.4.0a20260102](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20260102/) (Published: 2026-01-02)
-- [nvidia-nat-test 1.4.0a20260102](https://pypi.org/project/nvidia-nat-test/1.4.0a20260102/) (Published: 2026-01-02)
-- [nvidia-nat-strands 1.4.0a20260102](https://pypi.org/project/nvidia-nat-strands/1.4.0a20260102/) (Published: 2026-01-02)
-- [nvidia-nat-phoenix 1.4.0a20260102](https://pypi.org/project/nvidia-nat-phoenix/1.4.0a20260102/) (Published: 2026-01-02)
+- [Get 25% off a vibrant MSI 4K QD-OLED gaming monitor with blistering 240Hz refresh rate — now $772, panel offers 3-year burn-in warranty in new year offer](https://www.tomshardware.com/monitors/gaming-monitors/get-25-percent-off-a-vibrant-msi-4k-qd-oled-gaming-monitor-with-blistering-240hz-refresh-rate-now-usd772-panel-offers-3-year-burn-in-warranty-in-new-year-offer) (Published: 2026-01-02)
+- [Radeon Linux Driver Enhancements, Linux 6.19 Activity & Other December Highlights](https://www.phoronix.com/news/December-2025-Recap) (Published: 2026-01-02)
+- [Nvidia (NASDAQ: NVDA) Bull, Base, & Bear Stock Price Prediction and Forecast (Jan 2)](https://biztoc.com/x/1e46004784676e55) (Published: 2026-01-02)
+- [NVIDIA put buyer realizes 104% same-day gains](https://thefly.com/permalinks/entry.php/id4263186/NVDA-NVIDIA-put-buyer-realizes--sameday-gains) (Published: 2026-01-02)
+- [Windows 11 surges among PC gamers on Steam as Linux stalls — the open-source OS mildly loses momentum after a brief uptick](https://www.windowscentral.com/gaming/pc-gaming/windows-11-surges-among-pc-gamers-on-steam-as-linux-stalls) (Published: 2026-01-02)
+- [Rumor Suggests RTX 5080 32 GB Was Originally Planned For Cloud Gaming; Might Take An Year To Appear In The Market](https://wccftech.com/rumor-suggests-rtx-5080-32-gb-was-originally-planned-for-cloud-gaming/) (Published: 2026-01-02)
+- [Hyderabad start-ups test and intergrate mini-satellite in Ahmedabad, ship to Sriharikota for ISRO PSLV launch](https://www.thehindubusinessline.com/news/science/hyderabad-start-ups-test-and-intergrate-mini-satellite-in-ahmedabad-ship-to-sriharikota-for-isro-pslv-launch/article70463906.ece) (Published: 2026-01-02)
+- [Alienware Aurora 16 review: Gaming glory gets a mid-range makeover](https://www.thehindubusinessline.com/specials/technophile/gaming-glory-gets-a-mid-range-makeover/article70456652.ece) (Published: 2026-01-02)
+- [Continued Momentum in AI and Accelerated Computing Boosted Nvidia (NVDA)](https://biztoc.com/x/c86c34d666b1e3ab) (Published: 2026-01-02)
+- [What to expect at CES 2026](https://www.theverge.com/tech/851165/ces-2026-what-to-expect) (Published: 2026-01-02)
