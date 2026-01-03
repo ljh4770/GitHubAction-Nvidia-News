@@ -1,10 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-03 17:58:38**_
+_Last updated: **2026-01-03 18:38:40**_
 
-- [U.S. stocks fade on concern about ‘expensive’ S&P 500 metrics](https://financialpost.com/investing/us-stocks-fade-on-concern-about-expensive-sp-500-metrics) (Published: 2026-01-02)
-- [US Stocks Fade on Concern About ‘Expensive’ S&P 500 Metrics](https://financialpost.com/pmn/business-pmn/us-stocks-fade-on-concern-about-expensive-sp-500-metrics) (Published: 2026-01-02)
-- [LG made up a new word for its next ultralight Gram laptops: 'Aerominum'](https://slashdot.org/firehose.pl?op=view&amp;id=180502935) (Published: 2026-01-02)
-- [We’re Already Getting Our First Gaming Price Hike Of 2026](https://kotaku.com/asus-rog-ally-price-increase-nvidia-amd-ai-ps6-delay-2000656448) (Published: 2026-01-02)
-- [S&P 500 today: Why the S&P 500 reversed today’s gains as the U.S. stock market opens 2026 on uneven footing - Dow Jones holds up while Nasdaq remains under pressure](https://economictimes.indiatimes.com/news/international/us/sp-500-today-why-the-sp-500-reversed-todays-gains-as-the-u-s-stock-market-opens-2026-on-uneven-footing-dow-jones-holds-up-while-nasdaq-remains-under-pressure/articleshow/126309946.cms) (Published: 2026-01-02)
-- [Micron secures $318 million Taiwanese subsidy for HBM R&D as AI memory arms race intensifies — three-year project aims to develop leading-edge, high-performance memory](https://www.tomshardware.com/tech-industry/micron-secures-318-million-taiwanese-subsidy-for-hbm-rd-as-ai-memory-arms-race-intensifies) (Published: 2026-01-02)
-- [‘We’ve Done Our Country a Great Disservice’ by Offshoring: Nvidia’s Jensen Huang Says ‘We Have to Create Prosperity’ for All, Not Just PhDs](https://biztoc.com/x/aa2195e10abe3d76) (Published: 2026-01-02)
+- [(PR) NVIDIA GeForce NOW Gets 14 New Games in January](https://www.techpowerup.com/344628/nvidia-geforce-now-gets-14-new-games-in-january) (Published: 2026-01-02)
+- [Nokia Finds New Life Through $1 Billion Nvidia Deal](https://www.iphoneincanada.ca/2026/01/02/nokia-finds-new-life-through-1-billion-nvidia-deal/) (Published: 2026-01-02)
+- [This Billionaire Investor Dumped Palantir for Nvidia Last Quarter. Why It’s a Brilliant Move](https://biztoc.com/x/a57fdfedb8563e00) (Published: 2026-01-02)
+- [bedsheet added to PyPI](https://pypi.org/project/bedsheet/) (Published: 2026-01-02)
+- [SimXperience Stage 5 Simulator at No Reserve](https://bringatrailer.com/listing/2024-sim-experience-stage-5-racing-simulator/) (Published: 2026-01-02)
+- [Show HN: A Triton windowing test with ray tracing and GUI](https://github.com/mehmetoguzderin/triton-windowing) (Published: 2026-01-02)
+- [It’s a new year and traders want the same old AI stocks](https://biztoc.com/x/5dce38b832593989) (Published: 2026-01-02)
+- [European shares hit record high in first trading day of 2026](https://www.irishtimes.com/business/2026/01/02/european-shares-hit-record-high-in-first-trading-day-of-2026/) (Published: 2026-01-02)
+- ['Queen City' Charlotte was the king of the stock market in 2025](https://www.cnbc.com/2026/01/02/queen-city-charlotte-was-the-king-of-the-stock-market-in-2025.html) (Published: 2026-01-02)
+- [Forget what you heard, there's plenty of PC hardware to be excited about in 2026](https://www.pcgamer.com/hardware/forget-what-you-heard-theres-plenty-of-pc-hardware-to-be-excited-about-in-2026/) (Published: 2026-01-02)
