@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-03 06:39:24**_
+_Last updated: **2026-01-03 06:57:53**_
 
+- [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia](https://biztoc.com/x/a1005992a0de18be) (Published: 2026-01-02)
+- [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia (Kieran Smith/Financial Times)](https://www.techmeme.com/260102/p1) (Published: 2026-01-02)
 - [LG gram laptop 2026 series announced](https://www.yugatech.com/news/lg-gram-laptop-2026-series-announced/) (Published: 2026-01-02)
 - [GeForce NOW is gaining support for 14 games in January just as 100-hour play limits kick in - Neowin](https://slashdot.org/firehose.pl?op=view&amp;id=180500733) (Published: 2026-01-02)
 - [AI and Machine Learning in Java: TensorFlow, DJL, and Enterprise AI](https://www.javacodegeeks.com/2026/01/ai-and-machine-learning-in-java-tensorflow-djl-and-enterprise-ai.html) (Published: 2026-01-02)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-03 06:39:24**_
 - [TikTok parent ByteDance goes all in with $14B Nvidia chip SPLURGE](https://www.naturalnews.com/2026-01-02-bytedance-goes-all-in-nvidia-chip-splurge.html) (Published: 2026-01-02)
 - [LLMs and a chipmaking boom: Here's what Xi Jinping said about China's AI wins in his New Year's address](https://www.businessinsider.com/xi-jinping-china-ai-wins-new-year-address-2026-1) (Published: 2026-01-02)
 - [Chinese tech stocks charged into 2026 with an AI chip IPO surge and more listings lined up](https://www.businessinsider.com/china-ai-chip-ipo-surge-hong-kong-tech-stocks-outlook-2026-1) (Published: 2026-01-02)
-- [Nvidia Is Getting Creative as Options to Use Its Cash Flood Narrow](https://biztoc.com/x/53ef75b53f118f7b) (Published: 2026-01-02)
-- [Baidu’s semiconductor unit Kunlunxin files for Hong Kong listing amid AI chip boom in China](https://www.cnbc.com/2026/01/02/baidus-semiconductor-kunlunxin-hong-kong-ipo-ai-chips-listing-china.html) (Published: 2026-01-02)
