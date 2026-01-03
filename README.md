@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-03 09:59:24**_
+_Last updated: **2026-01-03 10:30:10**_
 
 - [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; New Year Rally; China AI IPOs Boost Tech Names; Baidu Chip Unit; Silver Price Jumps; Nvidia, Tesla, Micron, Intel, Palantir and More Movers](https://biztoc.com/x/c7a7e8dc2be769a1) (Published: 2026-01-02)
 - [AI chip designer Biren’s shares surge 76% on debut in Hong Kong](https://fortune.com/2026/01/02/ai-chip-designer-birens-shares-surge-76-on-debut-in-hong-kong/) (Published: 2026-01-02)
