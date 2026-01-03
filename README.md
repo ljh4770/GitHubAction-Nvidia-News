@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-03 07:49:44**_
+_Last updated: **2026-01-03 08:00:11**_
 
+- [‘Samsung is back,’ hail the company’s chip clients](https://www.sammobile.com/news/samsung-is-back-hail-semiconductor-chip-clients/) (Published: 2026-01-02)
 - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia](https://biztoc.com/x/a1005992a0de18be) (Published: 2026-01-02)
 - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia (Kieran Smith/Financial Times)](https://www.techmeme.com/260102/p1) (Published: 2026-01-02)
 - [LG gram laptop 2026 series announced](https://www.yugatech.com/news/lg-gram-laptop-2026-series-announced/) (Published: 2026-01-02)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-03 07:49:44**_
 - [South Korean President Lee to visit Beijing for pivotal 2nd summit with Xi](https://www.aljazeera.com/news/2026/1/2/south-korean-president-lee-to-visit-beijing-for-pivotal-2nd-summit-with-xi) (Published: 2026-01-02)
 - [TikTok parent ByteDance goes all in with $14B Nvidia chip SPLURGE](https://www.naturalnews.com/2026-01-02-bytedance-goes-all-in-nvidia-chip-splurge.html) (Published: 2026-01-02)
 - [LLMs and a chipmaking boom: Here's what Xi Jinping said about China's AI wins in his New Year's address](https://www.businessinsider.com/xi-jinping-china-ai-wins-new-year-address-2026-1) (Published: 2026-01-02)
-- [Chinese tech stocks charged into 2026 with an AI chip IPO surge and more listings lined up](https://www.businessinsider.com/china-ai-chip-ipo-surge-hong-kong-tech-stocks-outlook-2026-1) (Published: 2026-01-02)
