@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-04 13:38:02**_
+_Last updated: **2026-01-04 13:51:19**_
 
 - [The Groq deal shows the challenges Nvidia faces as options to deploy its cash flood narrow; its annual free cash flow has risen from $4.2B in 2020 to $80B+ now](https://biztoc.com/x/06a093da1cd08ba2) (Published: 2026-01-03)
 - [NVIDIA put buyer realizes 104% same-day gains](https://biztoc.com/x/e96a522177f5f400) (Published: 2026-01-03)
