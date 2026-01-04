@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-04 19:40:07**_
+_Last updated: **2026-01-04 19:50:21**_
 
+- [goodreads-tools added to PyPI](https://pypi.org/project/goodreads-tools/) (Published: 2026-01-03)
+- [Jeremie Frimpong and Tamira Blankson combined net worth: Liverpool contract, brand deals, and why they’re football’s most talked-about couple](https://timesofindia.indiatimes.com/sports/international-sports/jeremie-frimpong-and-tamira-blankson-combined-net-worth-liverpool-contract-brand-deals-and-why-theyre-footballs-most-talked-about-couple/articleshow/126327578.cms) (Published: 2026-01-03)
+- [Could AI Bring Us Four-Day Workweeks?](https://it.slashdot.org/story/26/01/03/0510258/could-ai-bring-us-four-day-workweeks) (Published: 2026-01-03)
 - [llcuda 1.2.0](https://pypi.org/project/llcuda/1.2.0/) (Published: 2026-01-03)
 - [Xsight Labs E1 DPU a 64-Core Arm Neoverse N2 800G DPU](https://www.servethehome.com/this-is-the-xsight-labs-e1-dpu-a-64-core-arm-neoverse-n2-800g-dpu/) (Published: 2026-01-03)
 - [Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due](https://biztoc.com/x/ed581f024a2e1468) (Published: 2026-01-03)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-04 19:40:07**_
 - [Scottie Scheffler and Meredith Scheffler’s combined net worth: Inside the fortune of the world’s No. 1 golfer](https://timesofindia.indiatimes.com/sports/international-sports/scottie-scheffler-and-meredith-schefflers-combined-net-worth-inside-the-fortune-of-the-worlds-no-1-golfer/articleshow/126327049.cms) (Published: 2026-01-03)
 - [Morgan Stanley drops surprising message on tech stocks](https://www.thestreet.com/investing/morgan-stanley-drops-surprising-message-on-tech-stocks) (Published: 2026-01-03)
 - [Intel Arc B570 GPU kicks off new year at just $199 — save $30 on one of the best budget GPUs around](https://www.tomshardware.com/pc-components/gpus/intel-arc-b570-gpu-kicks-off-new-year-at-just-usd199-save-usd30-on-one-of-the-best-budget-gpus-around) (Published: 2026-01-03)
-- [MSI’s RTX 5090 Lightning shatters GPU records before launch — 40-phase VRAM and dual 12V-2x6 connectors turn heads on upcoming overclocking monster](https://www.tomshardware.com/pc-components/gpus/msis-rtx-5090-lightning-shatters-gpu-records-before-launch-40-phase-vram-and-dual-12v-2x6-connectors-turn-heads-on-upcoming-overclocking-monster) (Published: 2026-01-03)
-- [LG's 2026 Gram laptops look to dethrone the MacBook Air with this new build material](https://www.zdnet.com/home-and-office/home-entertainment/lg-gram-pro-2026-ces/) (Published: 2026-01-03)
-- [VectorStyler 1.3.006](https://post.rlsbb.to/vectorstyler-1-3-006/) (Published: 2026-01-03)
