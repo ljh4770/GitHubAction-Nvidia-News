@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-04 20:35:04**_
+_Last updated: **2026-01-04 20:49:48**_
 
+- [Mumbai: Widow killed, mother-in-law and friend arrested](https://timesofindia.indiatimes.com/city/mumbai/mumbai-widow-killed-mother-in-law-and-friend-arrested/articleshow/126326610.cms) (Published: 2026-01-03)
+- [Karnataka sets up tech enabled command centre to reduce human–animal conflicts](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-sets-up-tech-enabled-command-centre-to-reduce-humananimal-conflicts/articleshow/126326612.cms) (Published: 2026-01-03)
 - [In country's cleanest city, wary of illness, people now pause before drinking water](https://timesofindia.indiatimes.com/india/in-countrys-cleanest-city-wary-of-illness-people-now-pause-before-drinking-water/articleshow/126327693.cms) (Published: 2026-01-03)
 - [MP pollution board probe found toxic water across Indore](https://timesofindia.indiatimes.com/india/mp-pollution-board-probe-found-toxic-water-across-indore/articleshow/126327688.cms) (Published: 2026-01-03)
 - [95% of demolished houses in Bengaluru’s Kogilu built in last 2 years: BJP’s fact-finding panel](https://timesofindia.indiatimes.com/city/bengaluru/95-of-demolished-houses-in-bengalurus-kogilu-built-in-last-2-years-bjps-fact-finding-panel/articleshow/126326600.cms) (Published: 2026-01-03)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-04 20:35:04**_
 - [Maharashtra: Forest department steps up vigilance after leopard sightings in Thane](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-forest-department-steps-up-vigilance-after-leopard-sightings-in-thane/articleshow/126326515.cms) (Published: 2026-01-03)
 - [NHL Update: Casey DeSmith takes personal leave, Remi Poirier called up by Dallas Stars](https://timesofindia.indiatimes.com/sports/nhl/news/nhl-update-casey-desmith-takes-personal-leave-remi-poirier-called-up-by-dallas-stars/articleshow/126327446.cms) (Published: 2026-01-03)
 - [George Kittle injury update: Is 49ers TE playing today vs. Seahawks?](https://timesofindia.indiatimes.com/sports/nfl/news/george-kittle-injury-update-is-49ers-te-playing-today-vs-seahawks/articleshow/126327667.cms) (Published: 2026-01-03)
-- [Bam Adebayo and A’ja Wilson’s combined net worth in 2025: NBA power couple’s career earnings, endorsements, and more](https://timesofindia.indiatimes.com/sports/nba/top-stories/bam-adebayo-and-aja-wilsons-combined-net-worth-in-2025-nba-power-couples-career-earnings-endorsements-and-more/articleshow/126327656.cms) (Published: 2026-01-03)
-- [MP residents seek culpable homicide case against guilty](https://timesofindia.indiatimes.com/india/mp-residents-seek-culpable-homicide-case-against-guilty/articleshow/126327650.cms) (Published: 2026-01-03)
