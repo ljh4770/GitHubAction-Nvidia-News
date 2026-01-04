@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-04 18:29:59**_
+_Last updated: **2026-01-04 18:52:17**_
 
+- [Morgan Stanley drops surprising message on tech stocks](https://www.thestreet.com/investing/morgan-stanley-drops-surprising-message-on-tech-stocks) (Published: 2026-01-03)
 - [Intel Arc B570 GPU kicks off new year at just $199 — save $30 on one of the best budget GPUs around](https://www.tomshardware.com/pc-components/gpus/intel-arc-b570-gpu-kicks-off-new-year-at-just-usd199-save-usd30-on-one-of-the-best-budget-gpus-around) (Published: 2026-01-03)
 - [MSI’s RTX 5090 Lightning shatters GPU records before launch — 40-phase VRAM and dual 12V-2x6 connectors turn heads on upcoming overclocking monster](https://www.tomshardware.com/pc-components/gpus/msis-rtx-5090-lightning-shatters-gpu-records-before-launch-40-phase-vram-and-dual-12v-2x6-connectors-turn-heads-on-upcoming-overclocking-monster) (Published: 2026-01-03)
 - [LG's 2026 Gram laptops look to dethrone the MacBook Air with this new build material](https://www.zdnet.com/home-and-office/home-entertainment/lg-gram-pro-2026-ces/) (Published: 2026-01-03)
