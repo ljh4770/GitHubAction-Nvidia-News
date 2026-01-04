@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-04 15:23:00**_
+_Last updated: **2026-01-04 15:38:50**_
 
 - [The Race for Global Domination in AI](https://www.theatlantic.com/international/2026/01/china-ai-competition-differences/685389/) (Published: 2026-01-03)
 - [Corsair reverses course and honors gaming PC order after $700 price hike uproar — order was erroneously flagged, but the company sends a coupon to the buyer to snag the PC at the original price](https://www.tomshardware.com/desktops/gaming-pcs/corsair-reverses-course-and-honors-gaming-pc-order-after-usd700-price-hike-uproar-order-was-erroneously-flagged-but-the-company-sends-a-coupon-to-the-buyer-to-snag-the-pc-at-the-original-price) (Published: 2026-01-03)
