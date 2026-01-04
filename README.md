@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-04 05:19:12**_
+_Last updated: **2026-01-04 05:44:41**_
 
 - [NVIDIA GeForce NOW Gets 14 New Games in January](https://www.madshrimps.be/news/nvidia-geforce-now-gets-14-new-games-in-january/) (Published: 2026-01-03)
 - [NVIDIA GeForce NOW adds a 100-hour monthly playtime cap for all subscribers - VideoCardz.com](https://slashdot.org/firehose.pl?op=view&amp;id=180505531) (Published: 2026-01-03)
