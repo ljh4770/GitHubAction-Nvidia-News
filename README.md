@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-04 20:49:48**_
+_Last updated: **2026-01-04 21:00:27**_
 
+- [GIGABYTE AORUS RTX 5090 AI BOX](https://thegadgetflow.com/?p=701640) (Published: 2026-01-03)
 - [Mumbai: Widow killed, mother-in-law and friend arrested](https://timesofindia.indiatimes.com/city/mumbai/mumbai-widow-killed-mother-in-law-and-friend-arrested/articleshow/126326610.cms) (Published: 2026-01-03)
 - [Karnataka sets up tech enabled command centre to reduce human–animal conflicts](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-sets-up-tech-enabled-command-centre-to-reduce-humananimal-conflicts/articleshow/126326612.cms) (Published: 2026-01-03)
 - [In country's cleanest city, wary of illness, people now pause before drinking water](https://timesofindia.indiatimes.com/india/in-countrys-cleanest-city-wary-of-illness-people-now-pause-before-drinking-water/articleshow/126327693.cms) (Published: 2026-01-03)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-04 20:49:48**_
 - [Ballari clash: Karnataka government will review private firearm licence norms, says DK Shivakumar](https://timesofindia.indiatimes.com/city/bengaluru/ballari-clash-karnataka-government-will-review-private-firearm-licence-norms-says-dk-shivakumar/articleshow/126326606.cms) (Published: 2026-01-03)
 - [Maharashtra: Forest department steps up vigilance after leopard sightings in Thane](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-forest-department-steps-up-vigilance-after-leopard-sightings-in-thane/articleshow/126326515.cms) (Published: 2026-01-03)
 - [NHL Update: Casey DeSmith takes personal leave, Remi Poirier called up by Dallas Stars](https://timesofindia.indiatimes.com/sports/nhl/news/nhl-update-casey-desmith-takes-personal-leave-remi-poirier-called-up-by-dallas-stars/articleshow/126327446.cms) (Published: 2026-01-03)
-- [George Kittle injury update: Is 49ers TE playing today vs. Seahawks?](https://timesofindia.indiatimes.com/sports/nfl/news/george-kittle-injury-update-is-49ers-te-playing-today-vs-seahawks/articleshow/126327667.cms) (Published: 2026-01-03)
