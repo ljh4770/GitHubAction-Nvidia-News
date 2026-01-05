@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-05 04:03:17**_
+_Last updated: **2026-01-05 05:02:28**_
 
+- [Win a Custom-Built Xotic PC X50 Desktop from Xotic PC](https://www.ozbargain.com.au/node/943050) (Published: 2026-01-04)
 - [I may be infected, would like to be sure.](https://www.bleepingcomputer.com/forums/t/812659/i-may-be-infected-would-like-to-be-sure/) (Published: 2026-01-04)
 - [Show HN: Spectral Lab – An optics simulator in WebGL](https://artepants.fun/posts/spectral-lab-1/) (Published: 2026-01-04)
 - [Potential PS6 Delay, GPU Price Rises Talk](https://www.darkhorizons.com/potential-ps6-delay-gpu-price-rises-talk/) (Published: 2026-01-04)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-05 04:03:17**_
 - [Countries must move beyond seeing AI as a race, where one side must beat the other](https://fortune.com/2026/01/03/ai-geopolitics-chips-race-stag-hunt-boris-babic-brian-wong/) (Published: 2026-01-04)
 - [Is Micron Technology Stock a 'Buy' or 'Sell' In 2026? - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=180509137) (Published: 2026-01-03)
 - [Nvidia Just Made a Major Move for 2026. Time to Buy?](https://biztoc.com/x/f8f09e9468d64358) (Published: 2026-01-03)
-- [Not exactly a DeepSeek moment for AI accelerators - but this Chinese optical chip may well be 100x faster than Nvidia's A100 on some tasks](https://www.techradar.com/pro/not-exactly-a-deepseek-moment-for-ai-accelerators-but-this-chinese-optical-chip-may-well-be-100x-faster-than-nvidias-a100-on-some-tasks) (Published: 2026-01-03)
