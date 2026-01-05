@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-05 20:43:48**_
+_Last updated: **2026-01-05 20:57:22**_
 
 - [How to watch the NVIDIA CES 2026 press conference with Jensen Huang live](https://slashdot.org/firehose.pl?op=view&amp;id=180514047) (Published: 2026-01-04)
 - [Why I'm only making two gaming hardware purchases in 2026](https://www.xda-developers.com/the-only-2-gaming-hardware-purchases-im-making-in-2026/) (Published: 2026-01-04)
