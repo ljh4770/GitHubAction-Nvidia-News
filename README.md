@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-05 19:43:08**_
+_Last updated: **2026-01-05 19:53:47**_
 
+- [Show HN: I made R/place for LLMs](https://art.heimdal.dev) (Published: 2026-01-04)
 - [CES 2026 must-sees: the hit list of demos, devices, and big ideas](https://thegadgetflow.com/blog/ces-2026-must-sees/) (Published: 2026-01-04)
 - [Jim Cramer says achieving early retirement comes down to just 3 key assets in your investment portfolio](https://finance.yahoo.com/news/jim-cramer-says-achieving-early-191500398.html) (Published: 2026-01-04)
 - [Sunday links: unvarnished facts](https://biztoc.com/x/db531aef476477ea) (Published: 2026-01-04)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-05 19:43:08**_
 - [How to Watch AMD's CES 2026 Keynote](https://me.pcmag.com/en/news/34432/how-to-watch-amds-ces-2026-keynote) (Published: 2026-01-04)
 - [CES 2026, Sector Rotation and Other Key Things to Watch this Week](https://biztoc.com/x/004a532a95e997b1) (Published: 2026-01-04)
 - [4 Reasons to Buy Nvidia Stock Like There's No Tomorrow](https://biztoc.com/x/cd66ab6d16972ac7) (Published: 2026-01-04)
-- [usd-rerun-logger 0.3.0](https://pypi.org/project/usd-rerun-logger/0.3.0/) (Published: 2026-01-04)
