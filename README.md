@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-06 05:52:25**_
+_Last updated: **2026-01-06 06:23:18**_
 
+- [NVIDIA To Bring Back The GeForce RTX 3060 In Q1 2026 To Tackle Current-Gen GPU & Memory Shortages](https://wccftech.com/nvidia-to-bring-back-geforce-rtx-3060-q1-2026-tackle-memory-shortages/) (Published: 2026-01-05)
+- [ASUS TUF T500 Gaming Desktop: i5 13420H, RTX 5060, 16GB DDR5, 1TB SSD $789.99](https://slickdeals.net/f/19060657-asus-tuf-t500-gaming-desktop-i5-13420h-rtx-5060-16gb-ddr5-1tb-ssd-789-99) (Published: 2026-01-05)
+- [How To Watch Nvidia CEO Jensen Huang's CES 2026 Keynote— And What To Expect On AI, GPUs And The Next Big Chip](https://biztoc.com/x/662625f3d28e8639) (Published: 2026-01-05)
+- [How To Watch Nvidia CEO Jensen Huang's CES 2026 Keynote— And What To Expect On AI, GPUs And The Next Big Chip](https://biztoc.com/x/662625f3d28e8639) (Published: 2026-01-05)
+- [Show HN: Living Memory Dynamics – "living" episodic memory embedding space](https://github.com/mordiaky/LMD) (Published: 2026-01-05)
+- [Mike Adams Announces BrightAnswers.ai – A Deep Research AI Engine Built on Millions of Curated Articles, Books and Science Papers](https://www.naturalnews.com/2026-01-05-mike-adams-announces-brightanswers-ai-deep-research-engine.html) (Published: 2026-01-05)
 - [Nvidia just admitted the general-purpose GPU era is ending](https://venturebeat.com/infrastructure/inference-is-splitting-in-two-nvidias-usd20b-groq-bet-explains-its-next-act) (Published: 2026-01-05)
 - [MSI GeForce RTX 5090 Lightning Features Next-Gen AIO Cooler, Massive LCD, & Monster 1600W PCB, Co-Developed With NVIDIA For Extreme Power & Clocks](https://wccftech.com/msi-rtx-5090-lightning-next-gen-aio-cooler-massive-lcd-1600w-pcb-co-developed-with-nvidia/) (Published: 2026-01-05)
 - [Markets show mixed reactions after US capture of Venezuelan leader](https://abcnews.go.com/Business/wireStory/markets-show-mixed-reactions-after-us-capture-venezuelan-128899522) (Published: 2026-01-05)
 - [Markets show mixed reactions after US capture of Venezuelan leader](https://abcnews.go.com/US/wireStory/markets-show-mixed-reactions-after-us-capture-venezuelan-128899521) (Published: 2026-01-05)
-- [Elon Musk dined with Donald Trump during a very busy weekend for the president](https://www.businessinsider.com/elon-musk-dine-donald-trump-melania-mar-a-lago-venezuela-2026-1) (Published: 2026-01-05)
-- [TSMC Shares Jump Most Since April After Goldman Lifts Target 35%](https://www.livemint.com/companies/news/tsmc-shares-jump-most-since-april-after-goldman-lifts-target-35-11767589006454.html) (Published: 2026-01-05)
-- [Openterface KVM-GO – An ultra-compact KVM-over-USB solution with HDMI, DP, or VGA video input](https://www.cnx-software.com/2026/01/05/openterface-kvm-go-an-ultra-compact-kvm-over-usb-solution-with-hdmi-dp-or-vga-video-input/) (Published: 2026-01-05)
-- [LG announces new OLED TVs at CES — brighter G6, the C6 splits in two, ultra-thin Wallpaper OLED, and the world's first 4K 120Hz cloud gaming TVs](https://www.techradar.com/televisions/lg-announces-the-lg-oled-evo-g6-tv-at-ces-2026-20-percent-brighter-lower-reflections-and-the-worlds-first-with-4k-120hz-cloud-gaming) (Published: 2026-01-05)
-- [Weekly news roundup: TSMC widens 2 nm edge as South Korea boosts chip spending; Huawei eyes memory bottlenecks](https://www.digitimes.com/news/a20260105VL202/digitimes-asia-weekly-news-roundup-huawei-tsmc-intel-2026.html) (Published: 2026-01-05)
-- [Ready to Buy Nvidia Stock? Check Out This Option.](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_95dd7826-b41b-49b4-a19f-eb763392ad17) (Published: 2026-01-05)
