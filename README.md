@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-06 06:57:04**_
+_Last updated: **2026-01-06 07:30:40**_
 
+- [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html) (Published: 2026-01-05)
 - [Watch The Intel CES 2026 Launch Event Live Here: Panther Lake Official, Refreshed CPUs & New AI Updates Expected - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=180516229) (Published: 2026-01-05)
 - [Markets show mixed reaction after US capture of Venezuelan leader](https://www.wlwt.com/article/markets-mixed-reactions-after-us-venezuelan-leader/69913299) (Published: 2026-01-05)
 - [NVIDIA To Bring Back The GeForce RTX 3060 In Q1 2026 To Tackle Current-Gen GPU & Memory Shortages](https://wccftech.com/nvidia-to-bring-back-geforce-rtx-3060-q1-2026-tackle-memory-shortages/) (Published: 2026-01-05)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-06 06:57:04**_
 - [Show HN: Living Memory Dynamics – "living" episodic memory embedding space](https://github.com/mordiaky/LMD) (Published: 2026-01-05)
 - [Mike Adams Announces BrightAnswers.ai – A Deep Research AI Engine Built on Millions of Curated Articles, Books and Science Papers](https://www.naturalnews.com/2026-01-05-mike-adams-announces-brightanswers-ai-deep-research-engine.html) (Published: 2026-01-05)
 - [Nvidia just admitted the general-purpose GPU era is ending](https://venturebeat.com/infrastructure/inference-is-splitting-in-two-nvidias-usd20b-groq-bet-explains-its-next-act) (Published: 2026-01-05)
-- [MSI GeForce RTX 5090 Lightning Features Next-Gen AIO Cooler, Massive LCD, & Monster 1600W PCB, Co-Developed With NVIDIA For Extreme Power & Clocks](https://wccftech.com/msi-rtx-5090-lightning-next-gen-aio-cooler-massive-lcd-1600w-pcb-co-developed-with-nvidia/) (Published: 2026-01-05)
