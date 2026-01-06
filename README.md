@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-06 23:38:21**_
+_Last updated: **2026-01-06 23:49:04**_
 
+- [(PR) NVIDIA DGX Spark and DGX Station Power the Latest Open-Source and Frontier Models](https://www.techpowerup.com/344762/nvidia-dgx-spark-and-dgx-station-power-the-latest-open-source-and-frontier-models) (Published: 2026-01-05)
+- [Nvidia debuts Rubin chip with 336B transistors and 50 petaflops of AI performance](https://siliconangle.com/2026/01/05/nvidia-debuts-rubin-chip-336b-transistors-50-petaflops-ai-performance/) (Published: 2026-01-05)
+- [(PR) NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems](https://www.techpowerup.com/344761/nvidia-dgx-superpod-sets-the-stage-for-rubin-based-systems) (Published: 2026-01-05)
+- [(PR) NVIDIA BlueField-Powered Cybersecurity and Acceleration Arrive on NVIDIA Enterprise AI Factory Validated Design](https://www.techpowerup.com/344760/nvidia-bluefield-powered-cybersecurity-and-acceleration-arrive-on-nvidia-enterprise-ai-factory-validated-design) (Published: 2026-01-05)
+- [Nvidia unveils 'reasoning' AI technology for self-driving cars](https://biztoc.com/x/39e16c5a14d4c331) (Published: 2026-01-05)
+- [NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development](https://biztoc.com/x/52c21ed571848eb5) (Published: 2026-01-05)
+- [Nvidia just laid out what’s next for the tech that made it the world’s most valuable company](https://biztoc.com/x/50ca3e9fa14a58b3) (Published: 2026-01-05)
+- [Nvidia unveils 'reasoning' AI technology for self-driving cars](https://www.bbc.com/news/articles/c0jv1vd571wo) (Published: 2026-01-05)
+- [Nvidia CEO Jensen Huang calls AI titan’s latest chips ‘gigantic step up in performance’](https://nypost.com/2026/01/05/business/nvidia-ceo-jensen-huang-calls-ai-titans-latest-chips-gigantic-step-up-in-performance/) (Published: 2026-01-05)
 - [Bluescope Steel Shares Surge After $8.8 Billion Takeover Bid](https://biztoc.com/x/c50cb2c39523864a) (Published: 2026-01-05)
-- [Gold Steadies as Traders Look Beyond Venezuela Risk to US Data](https://biztoc.com/x/db4c1b2feb2c3115) (Published: 2026-01-05)
-- [Dell brings back XPS branding with the new XPS 14 and 16 laptops, which address some complaints about the previous XPS design but lack dedicated GPU support](https://biztoc.com/x/18875ee4e5cdfb8f) (Published: 2026-01-05)
-- [AI Video Generation Leads China’s Kuaishou to 84% Stock Surge](https://biztoc.com/x/fab72e5bfe14a4b2) (Published: 2026-01-05)
-- [Maduro Case Judge, 92, Brings History of Dealing With Trump](https://biztoc.com/x/a0f44ba92d7121dc) (Published: 2026-01-05)
-- [Sebastian Wick: Improving the Flatpak Graphics Drivers Situation](https://blog.sebastianwick.net/posts/flatpak-graphics-drivers/) (Published: 2026-01-05)
-- [Hawaiian Electric reaches $47.75 million shareholder settlement over Maui wildfires](https://biztoc.com/x/59b6bf4bdcd07928) (Published: 2026-01-05)
-- [Mercedes to offer autonomous driving tech for US city streets](https://biztoc.com/x/8c1c120066e486fa) (Published: 2026-01-05)
-- [Nvidia says next-gen Rubin AI chips in 'full production'](https://biztoc.com/x/ac0f1c250757b78c) (Published: 2026-01-05)
-- [At CES, Nvidia CEO Jensen Huang delivers 6 words investors will appreciate](https://biztoc.com/x/176f3876d53e1e37) (Published: 2026-01-05)
