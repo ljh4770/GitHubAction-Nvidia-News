@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-06 07:48:07**_
+_Last updated: **2026-01-06 07:58:10**_
 
 - [DGX Spark vs Radeon 960 XT vs M3 Ultra : One Million AI Tokens Performance Testing](https://www.geeky-gadgets.com/million-token-speed-test/) (Published: 2026-01-05)
 - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html) (Published: 2026-01-05)
