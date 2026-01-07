@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-07 22:19:26**_
+_Last updated: **2026-01-07 22:41:54**_
 
+- [2026 could be the year of the (KDE) Linux desktop](https://www.howtogeek.com/2026-could-be-the-year-of-the-kde-linux-desktop/) (Published: 2026-01-06)
+- [Nvidia just unexpectedly tanked these stocks, and here’s why](https://biztoc.com/x/d5ae993b05ee188d) (Published: 2026-01-06)
+- [AI boom warning sign? Nvidia's new chips hit data center cooling stocks](https://www.nbcnews.com/business/markets/nvidia-vera-rubin-chip-warning-ai-investing-boom-rcna252679) (Published: 2026-01-06)
+- [AMD hints at officially open-sourcing FSR 4 upscaling and frame generation technology in the wake of accidental release — accidental release may have forced the company's hand](https://www.tomshardware.com/pc-components/gpus/amd-hints-at-officially-open-sourcing-fsr-4-upscaling-and-frame-generation-technology-in-the-wake-of-accidental-release-accidental-release-may-have-forced-the-companys-hand) (Published: 2026-01-06)
+- [(PR) Supermicro Announces Support for Upcoming NVIDIA Vera Rubin NVL72 and HGX Rubin NVL8 Platforms](https://www.techpowerup.com/344871/supermicro-announces-support-for-upcoming-nvidia-vera-rubin-nvl72-and-hgx-rubin-nvl8-platforms) (Published: 2026-01-06)
+- [High-Performance GPU Cuckoo Filter](https://github.com/tdortman/cuckoo-filter) (Published: 2026-01-06)
+- [As Tesla’s stock falls, Elon Musk brushes off Nvidia’s competitive threat - MarketWatch](https://slashdot.org/firehose.pl?op=view&amp;id=180530165) (Published: 2026-01-06)
+- [Chip stocks jump on AI optimism; Dow ends at record high | Honolulu Star-Advertiser](https://www.staradvertiser.com/2026/01/06/breaking-news/chip-stocks-jump-on-ai-optimism-dow-ends-at-record-high/) (Published: 2026-01-06)
+- [Jake Sullivan is furious that Trump destroyed his AI foreign policy](https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump) (Published: 2026-01-06)
 - [Nvidia CEO Jensen Huang says robots are 'AI immigrants' that can address labor shortages — can 'do the type of work that maybe we decided not to do anymore'](https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-says-robots-are-ai-immigrants-that-can-address-labor-shortages-can-do-the-type-of-work-that-maybe-we-decided-not-to-do-anymore) (Published: 2026-01-06)
-- [The biggest Nvidia announcements at CES 2026](https://biztoc.com/x/66151316714d21a7) (Published: 2026-01-06)
-- [Alienware Brings Anti-Glare OLED Panels for its New Laptops to CES 2026](https://www.techpowerup.com/344868/alienware-brings-anti-glare-oled-panels-for-its-new-laptops-to-ces-2026) (Published: 2026-01-06)
-- [Nvidia Details New AI Chips and Autonomous Car Project With Mercedes](https://slashdot.org/submission/17343823/nvidia-details-new-ai-chips-and-autonomous-car-project-with-mercedes) (Published: 2026-01-06)
-- [World Wide Technology Unveils ARMOR: A Collaborative AI Security Framework with NVIDIA AI](https://financialpost.com/pmn/business-wire-news-releases-pmn/world-wide-technology-unveils-armor-a-collaborative-ai-security-framework-with-nvidia-ai) (Published: 2026-01-06)
-- [Elon Musk's xAI raises $20 billion from investors including Nvidia, Cisco, Fidelity](https://biztoc.com/x/071ac255446f5f18) (Published: 2026-01-06)
-- [Nvidia CEO: ‘The future [of GPUs] is neural rendering. That’s the way graphics ought to be’](https://www.pcworld.com/article/3024884/nvidia-ceo-the-future-of-gpus-is-neural-rendering-thats-the-way-graphics-ought-to-be.html) (Published: 2026-01-06)
-- [New grand strategy game launches on Steam with promising reviews and 35% launch discount](https://www.notebookcheck.net/New-grand-strategy-game-launches-on-Steam-with-promising-reviews-and-35-launch-discount.1197887.0.html) (Published: 2026-01-06)
-- [Big Tech Gains Lift Wall Street to New Records](https://www.newser.com/story/381516/big-tech-gains-lift-wall-street-to-new-records.html) (Published: 2026-01-06)
-- [Nvidia says H200 demand in China is 'very high' as export licenses near completion — a month after the green light, Huang has high hopes for China buy-in despite political sensitivity](https://www.tomshardware.com/pc-components/gpus/nvidia-says-h200-demand-in-china-is-very-high-as-export-licenses-near-completion) (Published: 2026-01-06)
