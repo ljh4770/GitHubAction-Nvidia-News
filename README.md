@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-07 23:37:34**_
+_Last updated: **2026-01-07 23:50:21**_
 
+- [xAI Has Raised $20 Billion and Has About $235 Post Money Valuation](https://www.nextbigfuture.com/2026/01/xai-has-raised-20-billion-and-has-about-235-post-money-valuation.html) (Published: 2026-01-06)
 - [Sandisk stock’s 1000% rally turbocharged by Nvidia CEO’s remarks](https://www.straitstimes.com/business/companies-markets/sandisk-stocks-1000-rally-turbocharged-by-nvidia-ceos-remarks) (Published: 2026-01-06)
 - [With GeForce Super GPUs missing in action, Nvidia focuses on software upgrades](https://slashdot.org/firehose.pl?op=view&amp;id=180530391) (Published: 2026-01-06)
 - [LG's 2026 OLED Wallpaper TVs Could Completely Change Your Home Theater](https://www.bgr.com/2069590/lg-2026-oled-wallpaper-tv-wireless-home-theater/) (Published: 2026-01-06)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-07 23:37:34**_
 - [Cooler Master CES 2026 Demo Previews Revived Hyper 812 and Slew of New Air Cooling Hardware](https://www.techpowerup.com/344842/cooler-master-ces-2026-demo-previews-revived-hyper-812-and-slew-of-new-air-cooling-hardware) (Published: 2026-01-06)
 - [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://biztoc.com/x/f9b629c2ca69c43b) (Published: 2026-01-06)
 - [AI boom warning sign? Nvidia's new chips hit data center cooling stocks](https://biztoc.com/x/33ed75c9a168e633) (Published: 2026-01-06)
-- [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities  | TechCrunch](https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/) (Published: 2026-01-06)
