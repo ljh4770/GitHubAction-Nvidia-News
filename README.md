@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-07 20:16:04**_
+_Last updated: **2026-01-07 20:42:57**_
 
+- [Nvidia's New G-Sync Pulsar Monitors Target Motion Blur at the Human Retina Level](https://tech.slashdot.org/story/26/01/06/1859211/nvidias-new-g-sync-pulsar-monitors-target-motion-blur-at-the-human-retina-level) (Published: 2026-01-06)
+- [3 semiconductor stocks to play the AI supercycle, according to analysts](https://finance.yahoo.com/news/3-semiconductor-stocks-to-play-the-ai-supercycle-according-to-analysts-203840729.html) (Published: 2026-01-06)
+- [Uber, Nuro and Lucid Plan to Launch Robotaxi Service This Year](https://www.pymnts.com/transportation/2026/uber-nuro-and-lucid-plan-to-launch-robotaxi-service-this-year/) (Published: 2026-01-06)
+- [BofA says Nvidia autonomous vehicle initiatives critical for Uber](https://thefly.com/permalinks/entry.php/id4265395/UBER;NVDA-BofA-says-Nvidia-autonomous-vehicle-initiatives-critical-for-Uber) (Published: 2026-01-06)
+- [Elon Musk's xAI raises $20 billion from investors including Nvidia, Cisco, Fidelity](https://biztoc.com/x/40fb24eadee40c67) (Published: 2026-01-06)
+- [Samsung Supercharges Galaxy Book Series with Intel Core Ultra 300 “Panther Lake”, Featuring Efficient Performance & Long-Lasting Battery Life](https://wccftech.com/samsung-supercharges-galaxy-book-series-with-panther-lake/) (Published: 2026-01-06)
+- [Elon Musk's xAI raises $20 billion from investors including Nvidia, Cisco, Fidelity](https://www.cnbc.com/2026/01/06/elon-musk-xai-raises-20-billion-from-nvidia-cisco-investors.html) (Published: 2026-01-06)
+- [Calling All Hackers: How money works (2024)](https://phrack.org/issues/71/17) (Published: 2026-01-06)
+- [Musk’s XAI Closed $20 Billion Funding Round With Nvidia Backing](https://biztoc.com/x/a291fb6cfe34813f) (Published: 2026-01-06)
 - [GoPro and Asus Are Making a Co-Branded ProArt Laptop](https://petapixel.com/2026/01/06/gopro-and-asus-are-making-a-co-branded-proart-laptop/) (Published: 2026-01-06)
-- [Jensen Huang says he isn't concerned about a billionaires tax under consideration in California, and plans to remain in Silicon Valley](https://biztoc.com/x/0b7b8edc4e4487fe) (Published: 2026-01-06)
-- [xAI raised a $20B Series E, exceeding the $15B targeted round size, with participation from Valor, Nvidia, and others, and says Grok 5 is currently in training](https://biztoc.com/x/0400eb33c7835141) (Published: 2026-01-06)
-- [xAI raises $20B Series E to scale Grok and build world’s largest AI infrastructure](https://cryptobriefing.com/xai-raises-20b-series-e-funding/) (Published: 2026-01-06)
-- [Universal Music signs a new AI deal with Nvidia](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal) (Published: 2026-01-06)
-- [CES 2026: Behold The Power Of The Newest G-SYNC Pulsar Gaming Monitor](https://pcper.com/2026/01/g-sync-pulsar-gaming-monitor/) (Published: 2026-01-06)
-- [Nvidia, Cisco strategic investors in xAI Series E funding round](https://thefly.com/permalinks/entry.php/id4265366/NVDA;CSCO;TSLA;$PRIVATE-Nvidia-Cisco-strategic-investors-in-xAI-Series-E-funding-round) (Published: 2026-01-06)
-- [Nvidia Picks A New Lidar Supplier. It's Stock Soared 35%](https://biztoc.com/x/81a6586eba0994f9) (Published: 2026-01-06)
-- [NVIDIA BlueField-4 Powers New Class of AI-Native Storage Infrastructure for the Next Frontier of AI](https://biztoc.com/x/cc390218c011a350) (Published: 2026-01-06)
-- [Asus TUF Gaming desktops upgraded for 2026 with AMD Radeon 9060 XT and Nvidia GeForce RTX 50 series GPUs](https://www.notebookcheck.net/Asus-TUF-Gaming-desktops-upgraded-for-2026-with-AMD-Radeon-9060-XT-and-Nvidia-GeForce-RTX-50-series-GPUs.1198205.0.html) (Published: 2026-01-06)
