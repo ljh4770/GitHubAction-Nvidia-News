@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-07 10:22:47**_
+_Last updated: **2026-01-07 10:47:27**_
 
+- [These Stocks Are Moving the Most Today: Nvidia, AMD, JPMorgan, Zeta Global, Vistra, Microchip, and More](https://biztoc.com/x/ab7c6c5a1bada544) (Published: 2026-01-06)
+- [aiqtoolkit-test 1.5.0a20260106](https://pypi.org/project/aiqtoolkit-test/1.5.0a20260106/) (Published: 2026-01-06)
+- [aiqtoolkit-weave 1.5.0a20260106](https://pypi.org/project/aiqtoolkit-weave/1.5.0a20260106/) (Published: 2026-01-06)
+- [aiqtoolkit-mem0ai 1.5.0a20260106](https://pypi.org/project/aiqtoolkit-mem0ai/1.5.0a20260106/) (Published: 2026-01-06)
+- [aiqtoolkit-langchain 1.5.0a20260106](https://pypi.org/project/aiqtoolkit-langchain/1.5.0a20260106/) (Published: 2026-01-06)
+- [France Colocation Data Center Portfolio Analysis Report 2025-2029: Detailed Analysis of 139 Existing Data Centers, 23 Upcoming Data Centers, and 60 Major Operators/Investors](https://www.globenewswire.com/news-release/2026/01/06/3213384/28124/en/France-Colocation-Data-Center-Portfolio-Analysis-Report-2025-2029-Detailed-Analysis-of-139-Existing-Data-Centers-23-Upcoming-Data-Centers-and-60-Major-Operators-Investors.html) (Published: 2026-01-06)
+- [NVIDIA launches DLSS 4.5](https://www.cgchannel.com/2026/01/nvidia-launches-dlss-4-5/) (Published: 2026-01-06)
+- [Nvidia Has 91% of Its Portfolio Invested in 2 Brilliant Artificial Intelligence (AI) Stocks](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_340124c7-f14f-4044-ab05-d70a15b9246b) (Published: 2026-01-06)
+- [Nvidia CEO confirms Vera Rubin NVL72 is now in production — Jensen Huang uses CES keynote to announce the milestone](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-confirms-vera-rubin-nvl72-is-now-in-production-jensen-huang-uses-ces-keynote-to-announce-the-milestone) (Published: 2026-01-06)
 - [Elon Musk Says Nvidia's Alpamayo Technology Could Be 'Competitive' With Tesla's FSD In Next '5 Or 6 Years'](https://biztoc.com/x/818006f5b460181b) (Published: 2026-01-06)
-- [The AI Power List](https://www.businessinsider.com/ai-power-list) (Published: 2026-01-06)
-- [Nvidia looks to further eradicate motion blur with new G-Sync Pulsar improvements for '4x the effective motion clarity'](https://www.pcgamer.com/hardware/gaming-monitors/nvidia-looks-to-further-eradicate-motion-blur-with-new-g-sync-pulsar-improvements-for-4x-the-effective-motion-clarity/) (Published: 2026-01-06)
-- [5 clean-energy stocks to buy for 2026, according to a director overseeing $150 million](https://www.businessinsider.com/top-clean-energy-stock-picks-myrg-rxrx-fslr-solar-renewables-2026-1) (Published: 2026-01-06)
-- [CES 2026: LG Announces 2026 LG gram lineup with AI and portability](https://thegadgetflow.com/blog/ces-2026-lg-gram-lineup/) (Published: 2026-01-06)
-- [Next Generation of Chips is in Production, Nvidia’s Huang Says](https://biztoc.com/x/cf20fa423a40840d) (Published: 2026-01-06)
-- [What AP saw on Day 1 of CES](https://www.wsoctv.com/news/business/most-interesting/NZIREIOHZMYFHDJSCKTDZJEIWY/) (Published: 2026-01-06)
-- [CoreWeave Adds Nvidia Rubin To Power Next-Gen AI](https://biztoc.com/x/06d529c9fb9ac4c4) (Published: 2026-01-06)
-- [The Slow and Steady passive portfolio update: Q4 2025](https://monevator.com/the-slow-and-steady-passive-portfolio-update-q4-2025/) (Published: 2026-01-06)
-- [What scares AI investors the most about their own bets](https://qz.com/ai-stocks-boom-bubble-investor-fears) (Published: 2026-01-06)
