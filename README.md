@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-08 06:26:46**_
+_Last updated: **2026-01-08 06:57:40**_
 
+- [CES 2026: Nvidia's Alpamayo launch spotlights China's self-driving ambition](https://www.digitimes.com/news/a20260107PD235/2026-autonomous-driving-ces-2026-ces-launch-nvidia.html) (Published: 2026-01-07)
+- [Resident Evil Requiem's Latest Trailer Teases Bustling City Environment](https://www.nintendolife.com/news/2026/01/resident-evil-requiems-latest-trailer-teases-bustling-city-environment) (Published: 2026-01-07)
+- [CES 2026: Why Nvidia thinks reasoning, not rules, is the future of self-driving](https://www.digitimes.com/news/a20260107PD228/nvidia-ai-autonomous-driving-ces-2026.html) (Published: 2026-01-07)
+- [AmazonがAI用途に最適なNVIDIA H200 GPU搭載インスタンスを約15％値上げ](https://news.livedoor.com/article/detail/30331717/) (Published: 2026-01-07)
+- [At CES, auto and tech companies transform cars into proactive companions](https://abcnews.go.com/Technology/wireStory/ces-auto-tech-companies-transform-cars-proactive-companions-128971263) (Published: 2026-01-07)
+- [I've seen Nvidia's G-Sync Pulsar in action and it's kinda ruined all other gaming monitors for me](https://www.pcgamer.com/hardware/gaming-monitors/ive-seen-nvidias-g-sync-pulsar-in-action-and-its-kinda-ruined-all-other-gaming-monitors-for-me/) (Published: 2026-01-07)
+- [AI Stocks Pressured In Early 2026 Test. Lumentum, Ciena Jump, Nvidia Edges Down](https://biztoc.com/x/080d26203b2fc455) (Published: 2026-01-07)
+- [CES 2026: Phison leverages DRAM shortage to push AI PC with Nvidia, AMD, Intel](https://www.digitimes.com/news/a20260107PD222/phison-dram-nvidia-ces-2026.html) (Published: 2026-01-07)
 - [Sabrina Ionescu vs Sophie Cunningham net worth: Career earnings, contract details, endorsements and more](https://timesofindia.indiatimes.com/sports/nba/top-stories/sabrina-ionescu-vs-sophie-cunningham-net-worth-career-earnings-contract-details-endorsements-and-more/articleshow/126388263.cms) (Published: 2026-01-07)
 - [SanDisk Trending After Nvidia CEO Jensen Huang Flags Memory As Major 'Unserved Market' With Surging Demand And Prices](https://biztoc.com/x/59ca2f240f9ee2e2) (Published: 2026-01-07)
-- [Now it’s getting serious – AI is coming for south Co Dublin](https://www.irishtimes.com/business/2026/01/07/now-its-getting-serious-ai-is-coming-for-south-co-dublin/) (Published: 2026-01-07)
-- [Gold, silver briefly reclaim top spot by market cap amid uncertainty](https://cointelegraph.com/news/stores-of-value-gold-and-silver-top-global-asset-charts) (Published: 2026-01-07)
-- [CES 2026: Samsung Display, Intel Unveil OLED Tech That Cuts Laptop Power Use By Up To 22%](https://www.freepressjournal.in/tech/ces-2026-samsung-display-intel-unveil-oled-tech-that-cuts-laptop-power-use-by-up-to-22) (Published: 2026-01-07)
-- [AI-powered cars at CES show a vision of the future with personalized driving experiences](https://apnews.com/article/ces-ai-auto-travel-mobility-las-vegas-de4ab551c3102c119a01b7a81fe3e8af) (Published: 2026-01-07)
-- [MSI 27" Gaming Monitor | QHD 2560x1440 | 320Hz IPS Panel | AMD FreeSync | NVIDIA G-SYNC | MAG 274QRFW X32 Factory Reconditioned $99.99 (2 replies)](https://slickdeals.net/f/19069753-msi-27-gaming-monitor-qhd-2560x1440-320hz-ips-panel-amd-freesync-nvidia-g-sync-mag-274qrfw-x32-factory-reconditioned-99-99) (Published: 2026-01-07)
-- [動画生成AI「LTX-2」登場、ローカル動作するオープンモデルでNVIDIAによる「4K動画生成パイプライン」もあり](https://news.livedoor.com/article/detail/30331415/) (Published: 2026-01-07)
-- [The coolest technology from Day 2 of CES 2026](https://abcnews.go.com/Technology/wireStory/coolest-technology-day-2-ces-2026-128971169) (Published: 2026-01-07)
-- [The coolest technology from Day 2 of CES 2026](https://abcnews.go.com/Business/wireStory/coolest-technology-day-2-ces-2026-128971168) (Published: 2026-01-07)
