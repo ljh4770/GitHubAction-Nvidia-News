@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-08 07:46:50**_
+_Last updated: **2026-01-08 07:56:56**_
 
+- [Saudi Stocks Climb on High Hopes for More Market Liberalization](https://biztoc.com/x/b1a3d6b64791d58d) (Published: 2026-01-07)
+- [Czech Premier Signals Ammunition Program for Ukraine Will Go On](https://biztoc.com/x/b108ae13a45fce56) (Published: 2026-01-07)
+- [Jensen Huang Won't Regularly Update Nvidia's $500B AI Visibility, But CFO Says Figure Has 'Definitely Gotten Larger' As Customers Rush To Rubin](https://biztoc.com/x/e917ada20d821187) (Published: 2026-01-07)
+- [A look at Kalshi and Polymarket's lucrative shift toward sports, as high-profile real-world bets raise questions about access, integrity, and US CFTC regulation](https://biztoc.com/x/277ba26390814826) (Published: 2026-01-07)
+- [Indonesia May Seize 5 Million Hectares of Illegal Land This Year](https://biztoc.com/x/e501ab93849fc369) (Published: 2026-01-07)
+- [How the huge data center buildout is heating up local politics in US towns across red and blue states on issues like water, electricity, and noise](https://biztoc.com/x/74c58d9ef1d564af) (Published: 2026-01-07)
+- [Elon Musk’s xAI Raises $20 Billion - The New York Times](https://slashdot.org/firehose.pl?op=view&amp;id=180531885) (Published: 2026-01-07)
 - [Google DeepMind & Boston Dynamics Announce New Partnership to Bring AI to Humanoid Robots](https://www.geeky-gadgets.com/google-deepmind-boston-dynamics-partnership/) (Published: 2026-01-07)
 - [Lenovo is building an AI assistant that ‘can act on your behalf’ - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=180531821) (Published: 2026-01-07)
 - [CES 2026: pushing AI to the edge](https://www.digitimes.com/news/a20260107VL209/ces-2026-2026-amd-ces-nvidia-taiwan.html) (Published: 2026-01-07)
-- [UBER Stock Surges 6% After Nvidia's Alpamayo Reveal: Gary Black Says It Eases Obsolescence Fears As Tesla, Waymo Robotaxis Loom](https://biztoc.com/x/8187957ddc7ff0c0) (Published: 2026-01-07)
-- [xAI Raises $20B Series E - xAI](https://slashdot.org/firehose.pl?op=view&amp;id=180531777) (Published: 2026-01-07)
-- [Why Nvidia Stock Didn't Move On $500 Billion Market Opportunity: Gene Munster Flags AI Trade 'Reluctance'](https://biztoc.com/x/50e6ecfa21a29e36) (Published: 2026-01-07)
-- [CES 2026: Nvidia's Alpamayo launch spotlights China's self-driving ambition](https://www.digitimes.com/news/a20260107PD235/2026-autonomous-driving-ces-2026-ces-launch-nvidia.html) (Published: 2026-01-07)
-- [Resident Evil Requiem's Latest Trailer Teases Bustling City Environment](https://www.nintendolife.com/news/2026/01/resident-evil-requiems-latest-trailer-teases-bustling-city-environment) (Published: 2026-01-07)
-- [CES 2026: Why Nvidia thinks reasoning, not rules, is the future of self-driving](https://www.digitimes.com/news/a20260107PD228/nvidia-ai-autonomous-driving-ces-2026.html) (Published: 2026-01-07)
-- [AmazonがAI用途に最適なNVIDIA H200 GPU搭載インスタンスを約15％値上げ](https://news.livedoor.com/article/detail/30331717/) (Published: 2026-01-07)
