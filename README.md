@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-08 13:40:22**_
+_Last updated: **2026-01-08 14:01:03**_
 
+- [A distributed framework for zero-day malware detection using federated ensemble models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339907) (Published: 2026-01-07)
+- [Is AMD About to Surpass Nvidia In the AI Chip Race?](https://biztoc.com/x/f93ed1753e6f9f13) (Published: 2026-01-07)
+- [Michael Burry Was Right About Valero Energy. Is He Right About an AI Bubble?](https://biztoc.com/x/5ad52fbd70b5ba94) (Published: 2026-01-07)
+- [Salarius Pharmaceuticals Changes Corporate Name to Decoy Therapeutics and Nasdaq Ticker Symbol to DCOY Reflecting Focus on Next-Generation Peptide Conjugate Therapeutics](https://www.globenewswire.com/news-release/2026/01/07/3214543/0/en/Salarius-Pharmaceuticals-Changes-Corporate-Name-to-Decoy-Therapeutics-and-Nasdaq-Ticker-Symbol-to-DCOY-Reflecting-Focus-on-Next-Generation-Peptide-Conjugate-Therapeutics.html) (Published: 2026-01-07)
+- [AMD may resurrect some older CPUs to help users dodge the worst of the RAM crisis](https://www.pcgamer.com/hardware/processors/amd-may-resurrect-some-older-cpus-to-help-users-dodge-the-worst-of-the-ram-crisis/) (Published: 2026-01-07)
+- [AMD suggests that FSR 4 will eventually be open-sourced, bar the core technology, as part of its 'long term plan'](https://www.pcgamer.com/hardware/graphics-cards/amd-suggests-that-fsr-4-will-eventually-be-open-sourced-bar-the-core-technology-as-part-of-its-long-term-plan/) (Published: 2026-01-07)
 - [Europe Colocation Data Center Portfolio Report 2025-2029: Detailed Analysis of 1,446 Existing Data Centers, 373 Upcoming Data Centers, and 311 Major Operators/Investors](https://www.globenewswire.com/news-release/2026/01/07/3214539/28124/en/Europe-Colocation-Data-Center-Portfolio-Report-2025-2029-Detailed-Analysis-of-1-446-Existing-Data-Centers-373-Upcoming-Data-Centers-and-311-Major-Operators-Investors.html) (Published: 2026-01-07)
 - [Mental health focus areas for every zodiac sign in 2026](https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/mental-health-focus-areas-for-every-zodiac-sign-in-2026/articleshow/126396009.cms) (Published: 2026-01-07)
 - [Is Giancarlo Stanton dating anyone right now? A closer look at the New York Yankees slugger’s private love life](https://timesofindia.indiatimes.com/sports/mlb/news/is-giancarlo-stanton-dating-anyone-right-now-a-closer-look-at-the-new-york-yankees-sluggers-private-love-life/articleshow/126393243.cms) (Published: 2026-01-07)
-- [Viral video: Man risks everything, hangs from crane to rescue bird trapped high above wires](https://timesofindia.indiatimes.com/etimes/trending/viral-video-man-risks-everything-hangs-from-crane-to-rescue-bird-trapped-high-above-wires/articleshow/126395945.cms) (Published: 2026-01-07)
-- [Universal Music Group and tech giant Nvidia describe new partnership as ‘antidote to AI Slop’](https://djmag.com/news/universal-music-group-and-tech-giant-nvidia-describe-new-partnership-antidote-ai-slop) (Published: 2026-01-07)
-- [xAI's $20 billion fundraise; General Catalyst CEO on AI](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/xais-20-billion-fundraise-general-catalyst-ceo-on-ai/articleshow/126395684.cms) (Published: 2026-01-07)
-- [Smorgasbord Of Buy Points Kicks Off 2026. Google, Nvidia On The Menu](https://biztoc.com/x/e4439127700ef88b) (Published: 2026-01-07)
-- [007 First Light gets PC specifications released and that's a lot of RAM needed](https://www.gamingonlinux.com/2026/01/007-first-light-gets-pc-specifications-released-and-thats-a-lot-of-ram-needed/.) (Published: 2026-01-07)
-- [Fusion power nearly ready for prime time as Commonwealth builds first pilot for limitless, clean energy with AI help from Siemens, Nvidia](https://biztoc.com/x/0f7b0c224fbddd0e) (Published: 2026-01-07)
