@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-08 18:17:35**_
+_Last updated: **2026-01-08 18:49:17**_
 
+- [Modine extends losses on Nvidia Rubin chip cooling concerns](https://thefly.com/permalinks/entry.php/id4266362/NVDA;MOD;AAON;JCI;TT;CARR;VRT;ETN;EMR;HUBB-Modine-extends-losses-on-Nvidia-Rubin-chip-cooling-concerns) (Published: 2026-01-07)
+- [Nvidia CEO Jensen Huang Reports Strong Chinese Demand for AI Chips](https://www.breitbart.com/tech/2026/01/07/nvidia-ceo-jensen-huang-reports-strong-chinese-demand-for-ai-chips/) (Published: 2026-01-07)
+- [Anthropic seeks $10B raise at $350B valuation as AI funding race accelerates](https://cryptobriefing.com/anthropic-ai-funding-raise/) (Published: 2026-01-07)
+- [Anthropic reportedly raising $10B at $350B valuation | TechCrunch](https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/) (Published: 2026-01-07)
+- [ROOKE: It Only Took A Couple Weeks For Dark Skies To Clear Up For GOP’s Future](https://dailycaller.com/2026/01/07/trump-venezuela-maduro-economy-gop-2026-midterms-somalia-minnesota-fraud/) (Published: 2026-01-07)
+- [Elon Musk wishes NVIDIA luck on self-driving, strangely silent on Hyundai’s humanoid robot](http://electrek.co/2026/01/07/elon-musk-wishes-nvidia-luck-self-driving-stays-strangely-silent-on-hyundais-humanoid-robot/) (Published: 2026-01-07)
+- [Beijing tells companies to pause H200 purchases — China govt deliberating terms for letting local tech companies buy US chips while still growing homegrown semiconductors](https://www.tomshardware.com/tech-industry/beijing-tells-companies-to-pause-h200-purchases-china-govt-deliberating-terms-for-letting-local-tech-companies-buy-us-chips-while-still-growing-homegrown-semiconductors) (Published: 2026-01-07)
 - [A look at the new technology announced on Day 1 of CES 2026 - PBS](https://slashdot.org/firehose.pl?op=view&amp;id=180536213) (Published: 2026-01-07)
 - [Jensen Huang Just Made a Bold Prediction About Humanoid Robots—and Says It Will Happen ‘This Year’](https://biztoc.com/x/9e5e61fc439e3301) (Published: 2026-01-07)
 - [Terrified Investors Are Bracing for an AI Bubble “Reckoning”](http://futurism.com/artificial-intelligence/investors-bracing-ai-bubble-reckoning) (Published: 2026-01-07)
-- [Nvidia CEO Jensen Huang explains why SRAM isn't here to eat HBM's lunch — high bandwidth memory offers more flexibility in AI deployments across a range of workloads](https://www.tomshardware.com/tech-industry/nvidia-ceo-jensen-huang-makes-the-case-against-optimizing-ai-hardware-too-narrowly-at-ces) (Published: 2026-01-07)
-- [ASUS Shows ROG GR70, ExpertCenter PN55 Mini PCs and Ascent GX10 Ultra-Small AI Supercomputer](https://www.techpowerup.com/344930/asus-shows-rog-gr70-expertcenter-pn55-mini-pcs-and-ascent-gx10-ultra-small-ai-supercomputer) (Published: 2026-01-07)
-- [Nvidia's next-gen RTX 60 series might not debut until the second half of 2027, says leaker — rumor claims Rubin architecture will power future consumer GPUs](https://www.tomshardware.com/pc-components/gpus/nvidias-next-gen-rtx-60-series-might-not-debut-until-the-second-half-of-2027-says-leaker-rumor-claims-rubin-architecture-will-power-future-consumer-gpus) (Published: 2026-01-07)
-- [China Tells Tech Firms To Stop Nvidia H200 Chip Orders](https://biztoc.com/x/13611f6b857bb695) (Published: 2026-01-07)
-- [This Data Center Play Sees Breakout Fake-Out](https://biztoc.com/x/f19eec7947776e56) (Published: 2026-01-07)
-- [Samsung chief buys Labubu in Beijing, goes viral on Chinese internet](https://www.sammobile.com/news/samsung-chief-buys-labubu-in-beijing-goes-viral-on-chinese-internet/) (Published: 2026-01-07)
-- [PhotoCHAT AI 0.3.0.0](https://post.rlsbb.to/photochat-ai-0-3-0-0/) (Published: 2026-01-07)
