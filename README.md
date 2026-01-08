@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-08 14:01:03**_
+_Last updated: **2026-01-08 14:36:41**_
 
-- [A distributed framework for zero-day malware detection using federated ensemble models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339907) (Published: 2026-01-07)
-- [Is AMD About to Surpass Nvidia In the AI Chip Race?](https://biztoc.com/x/f93ed1753e6f9f13) (Published: 2026-01-07)
-- [Michael Burry Was Right About Valero Energy. Is He Right About an AI Bubble?](https://biztoc.com/x/5ad52fbd70b5ba94) (Published: 2026-01-07)
-- [Salarius Pharmaceuticals Changes Corporate Name to Decoy Therapeutics and Nasdaq Ticker Symbol to DCOY Reflecting Focus on Next-Generation Peptide Conjugate Therapeutics](https://www.globenewswire.com/news-release/2026/01/07/3214543/0/en/Salarius-Pharmaceuticals-Changes-Corporate-Name-to-Decoy-Therapeutics-and-Nasdaq-Ticker-Symbol-to-DCOY-Reflecting-Focus-on-Next-Generation-Peptide-Conjugate-Therapeutics.html) (Published: 2026-01-07)
-- [AMD may resurrect some older CPUs to help users dodge the worst of the RAM crisis](https://www.pcgamer.com/hardware/processors/amd-may-resurrect-some-older-cpus-to-help-users-dodge-the-worst-of-the-ram-crisis/) (Published: 2026-01-07)
-- [AMD suggests that FSR 4 will eventually be open-sourced, bar the core technology, as part of its 'long term plan'](https://www.pcgamer.com/hardware/graphics-cards/amd-suggests-that-fsr-4-will-eventually-be-open-sourced-bar-the-core-technology-as-part-of-its-long-term-plan/) (Published: 2026-01-07)
-- [Europe Colocation Data Center Portfolio Report 2025-2029: Detailed Analysis of 1,446 Existing Data Centers, 373 Upcoming Data Centers, and 311 Major Operators/Investors](https://www.globenewswire.com/news-release/2026/01/07/3214539/28124/en/Europe-Colocation-Data-Center-Portfolio-Report-2025-2029-Detailed-Analysis-of-1-446-Existing-Data-Centers-373-Upcoming-Data-Centers-and-311-Major-Operators-Investors.html) (Published: 2026-01-07)
-- [Mental health focus areas for every zodiac sign in 2026](https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/mental-health-focus-areas-for-every-zodiac-sign-in-2026/articleshow/126396009.cms) (Published: 2026-01-07)
-- [Is Giancarlo Stanton dating anyone right now? A closer look at the New York Yankees slugger’s private love life](https://timesofindia.indiatimes.com/sports/mlb/news/is-giancarlo-stanton-dating-anyone-right-now-a-closer-look-at-the-new-york-yankees-sluggers-private-love-life/articleshow/126393243.cms) (Published: 2026-01-07)
+- [What surprised us the most at CES 2026](https://www.theverge.com/tech/857406/ces-2026-surprises) (Published: 2026-01-07)
+- [Nvidia CEO Jensen Huang: This Is Why I'm Lucky to Be an Engineer](https://uk.pcmag.com/ces-1/162430/nvidia-ceo-jensen-huang-this-is-why-im-lucky-to-be-an-engineer) (Published: 2026-01-07)
+- [Nvidia CEO Jensen Huang: This Is Why I'm Lucky to Be an Engineer](https://me.pcmag.com/en/ces/34550/nvidia-ceo-jensen-huang-this-is-why-im-lucky-to-be-an-engineer) (Published: 2026-01-07)
+- [Lego announced Smart Bricks at CES 2026 — and the first sets are already on sale](https://tech.yahoo.com/deals/article/lego-announced-smart-bricks-at-ces-2026--and-the-first-sets-are-already-on-sale-143409146.html) (Published: 2026-01-07)
+- [Cuba Libre](https://reason.com/2026/01/07/cuba-libre-2/) (Published: 2026-01-07)
+- [Bitget Crosses $1B Tokenized Stock Spot Volume Amid 4,900% Spike in Tokenized Gold Trading](https://www.globenewswire.com/news-release/2026/01/07/3214625/0/en/Bitget-Crosses-1B-Tokenized-Stock-Spot-Volume-Amid-4-900-Spike-in-Tokenized-Gold-Trading.html) (Published: 2026-01-07)
+- [Elon Musk Says It Is 'Super Hard' To Solve Distribution As Nvidia Announces Competitor To Tesla FSD, But Adds 'Honestly Hope They Succeed'](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_72b777e4-b2df-4a6c-aa7a-c5c2cf508623) (Published: 2026-01-07)
+- [Rallied Following the Partnership Announcement with NVIDIA](https://biztoc.com/x/9cc3ce042d3b8f02) (Published: 2026-01-07)
+- [Why Intel Stock Soared 84% in 2025](https://biztoc.com/x/eabcabbc6927c069) (Published: 2026-01-07)
+- [Best 2026 Gaming Laptops at CES, from ASUS’s Dual OLED Setup to RTX 5090 Muscle](https://www.geeky-gadgets.com/ces-2026-best-gaming-laptops/) (Published: 2026-01-07)
