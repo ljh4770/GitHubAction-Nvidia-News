@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-08 23:21:53**_
+_Last updated: **2026-01-08 23:36:47**_
 
+- [Labor market anxieties grow](https://www.marketplace.org/episode/2026/01/07/labor-market-anxieties-grow) (Published: 2026-01-07)
 - [AMD threatens to go medieval on Nvidia with Epyc and Instinct: What we know so far](https://biztoc.com/x/f376f668a3ae3bcc) (Published: 2026-01-07)
 - [AMD threatens to go medieval on Nvidia with Epyc and Instinct: What we know so far](https://www.theregister.com/2026/01/07/mi500x_amd_ai/) (Published: 2026-01-07)
 - [MSI Stealth 16 AI+ B3W Gaming Laptop](https://thegadgetflow.com/product/stealth-16-ai-plus-b3wx-gaming-laptop/) (Published: 2026-01-07)
