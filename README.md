@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-09 20:17:48**_
+_Last updated: **2026-01-09 20:41:46**_
 
-- [Universal partners with Nvidia on AI music creation, discovery](https://biztoc.com/x/dd9f739922081afd) (Published: 2026-01-08)
-- [MSI AI Edge mini-PC based on AMD Ryzen AI Max+ 395 and 128 GB LPDDR5X RAM launching soon](https://www.notebookcheck.net/MSI-AI-Edge-mini-PC-based-on-AMD-Ryzen-AI-Max-395-and-128-GB-LPDDR5X-RAM-launching-soon.1199933.0.html) (Published: 2026-01-08)
-- [China’s humanoids were everywhere at America’s top tech show](https://financialpost.com/news/chinas-robots-ces) (Published: 2026-01-08)
-- [Universal partners with Nvidia on AI music creation, discovery](https://www.bostonherald.com/2026/01/08/universal-partners-with-nvidia-on-ai-music-creation-discovery/) (Published: 2026-01-08)
-- [Good news keeps coming for Nvidia but not the stock. Time to buy?](https://biztoc.com/x/670e8eb5f603ecc5) (Published: 2026-01-08)
-- [MSI Launches New PRO MAX Series During CES 2026](https://bleedingcool.com/games/msi-launches-new-pro-max-series-during-ces-2026/) (Published: 2026-01-08)
-- [AI Daily: China to approve imports of Nvidia H200 chips this quarter](https://thefly.com/permalinks/entry.php/id4267558/NVDA;MSFT;GOOGL;GOOG;FISV;SHOP;$PRIVATE-AI-Daily-China-to-approve-imports-of-Nvidia-H-chips-this-quarter) (Published: 2026-01-08)
-- [AMD will launch its first PC in 2026, and it will compete with a very familiar brand — Ryzen AI Halo will go head-to-head against Nvidia's DGX Spark mini PC](https://www.techradar.com/pro/amd-will-launch-its-first-pc-in-2026-and-it-will-compete-with-a-very-familiar-brand-ryzen-ai-halo-will-go-head-to-head-against-nvidias-dgx-spark-mini-pc) (Published: 2026-01-08)
-- [Best of CES 2026: Samsung S95H OLED TV](https://www.androidheadlines.com/best-of-ces-2026-samsung-s95h-oled-tv) (Published: 2026-01-08)
+- [Apple And NVIDIA To Turn Into Rivals Over TSMC Advanced Packaging With The M5 Ultra Or M6 Ultra Chip](https://wccftech.com/apple-and-nvidia-to-turn-into-rivals-over-tsmc-advanced-packaging-with-the-m5-ultra-or-m6-ultra-chip/) (Published: 2026-01-08)
+- [Lenovo's 'AI Twin,' Nvidia's Self-Driving Plans, and LG's Home Robot | Tech Today video](https://www.cnet.com/videos/lenovos-ai-twin-nvidias-self-driving-plans-and-lgs-home-robot-tech-today/) (Published: 2026-01-08)
+- [Pay and pray: Nvidia reportedly wants money up front for Chinese H200 orders](https://biztoc.com/x/6f57bfb4a1161263) (Published: 2026-01-08)
+- [Engadget's best of CES 2026: All the new tech that caught our eye in Las Vegas](https://slashdot.org/firehose.pl?op=view&amp;id=180549955) (Published: 2026-01-08)
+- [Best of CES 2026: Alienware 16X Aurora & Area-51](https://www.androidheadlines.com/best-of-ces-2026-alienware-16x-aurora-area-51) (Published: 2026-01-08)
+- [Google billionaire Larry Page copies the Jeff Bezos playbook, buying a $173 million Miami compound that will save him millions in taxes](https://fortune.com/2026/01/08/google-billionaire-larry-page-moves-to-florida-wealth-tax-jeff-bezos-playbook/) (Published: 2026-01-08)
+- [MSI's new 16-inch laptop has a hybrid form factor that's right up my alley](https://www.zdnet.com/article/msi-stealth-16-ai-hands-on/) (Published: 2026-01-08)
+- [Pay and pray: Nvidia reportedly wants money up front for Chinese H200 orders](https://www.theregister.com/2026/01/08/nvidia_h200_china/) (Published: 2026-01-08)
+- [CES keynote analysis from theCUBE: How agentic AI is laying the groundwork for real-world impact](https://siliconangle.com/2026/01/08/agentic-ai-setting-stage-thecube-keynote-ces2026/) (Published: 2026-01-08)
+- [The coolest laptops we saw at CES 2026](https://www.theverge.com/tech/858897/ces-2026-best-laptops-asus-dell-acer-msi-hp-lenovo-concepts) (Published: 2026-01-08)
