@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-09 09:00:20**_
+_Last updated: **2026-01-09 09:37:10**_
 
+- [nvfuser-cu130 0.2.35.dev20260108](https://pypi.org/project/nvfuser-cu130/0.2.35.dev20260108/) (Published: 2026-01-08)
+- [nvfuser-cu128 0.2.35.dev20260108](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260108/) (Published: 2026-01-08)
+- [Nvidia CEO Jensen Huang Envisioned Compressing 'Excess Energy' Into AI Models — Grayscale Touts This Crypto As Right Match](https://biztoc.com/x/4572e8e69a9d8c32) (Published: 2026-01-08)
+- [Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Down; Nvidia, Intel, Tesla, Strategy, More Movers](https://biztoc.com/x/bfb2bed47e261e8f) (Published: 2026-01-08)
+- [Artificial Intelligence (AI) Model Watermarking Global Market Research Report 2025 with Long-term Prospects to 2029 and 2034](https://www.globenewswire.com/news-release/2026/01/08/3215089/28124/en/Artificial-Intelligence-AI-Model-Watermarking-Global-Market-Research-Report-2025-with-Long-term-Prospects-to-2029-and-2034.html) (Published: 2026-01-08)
+- [MSI CES 2026 Booth Tour: 5K Monitors, Next-Gen Ready Motherboards, 5090 Lightning GPU, Powerful Prestige Laptops, & 16-Pin Protection](https://wccftech.com/msi-ces-2026-booth-tour-5k-monitors-next-gen-ready-motherboards-5090-lightning-gpu-powerful-prestige-laptops-16-pin-protection/) (Published: 2026-01-08)
 - [CES 2026: Nvidia and Samsung signal possible talks on next-generation memory](https://www.digitimes.com/news/a20260108PD251/nvidia-samsung-hbm4-ces-2026.html) (Published: 2026-01-08)
 - [Nvidia requires full upfront payment for H200 chips in China, sources say](https://www.channelnewsasia.com/business/nvidia-h200-chips-china-requires-full-upfront-payment-5845621) (Published: 2026-01-08)
 - [Nvidia overhauls server design as Vera Rubin gears up for volume shipments](https://www.digitimes.com/news/a20260108PD215/nvidia-rubin-ai-server-design-shipments.html) (Published: 2026-01-08)
 - [CES 2026: Hyundai explores next-gen self-driving tech with Nvidia](https://www.digitimes.com/news/a20260108PD244/hyundai-nvidia-autonomous-driving-ces-2026.html) (Published: 2026-01-08)
-- [What NVIDIA Cosmos Transfer, Predict, Reason, and Isaac GR00T Are and How to Use Them Together](https://www.c-sharpcorner.com/article/what-nvidia-cosmos-transfer-predict-reason-and-isaac-gr00t-are-and-how-to-use/) (Published: 2026-01-08)
-- [AI helps pave the way for self-driving cars](https://www.rte.ie/news/business/2026/0108/1552054-ai-helps-pave-the-way-for-self-driving-cars/) (Published: 2026-01-08)
-- [NVIDIA Rubin Platform Adds NVLink 6 at 3.6 TBps & HBM4 with 22 TBps Bandwidth](https://www.geeky-gadgets.com/nvidia-rubin-platform-overview-ces-2026/) (Published: 2026-01-08)
-- [Isaac GR00T N1.6 Explained: What It Is & How Nvidia’s Advanced VLA Model Powers Humanoid Robots](https://www.c-sharpcorner.com/article/isaac-gr00t-n1-6-explained-what-it-is-how-nvidias-advanced-vla-model-powers/) (Published: 2026-01-08)
-- [「CES 2026」MSI 正式推出新一代Prestige商務筆電，全新Raider, Stealth, Crosshair系列電競筆電同步亮相](https://www.koc.com.tw/archives/626516) (Published: 2026-01-08)
-- [CNBC Daily Open: Magnificent Seven competition heats up](https://www.cnbc.com/2026/01/08/cnbc-daily-open-magnificent-seven-competition-heats-up.html) (Published: 2026-01-08)
