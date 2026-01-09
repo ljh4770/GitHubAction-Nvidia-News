@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-09 21:21:12**_
+_Last updated: **2026-01-09 21:39:08**_
 
 - [Why so many San Francisco 49ers executives live in this quiet Bay Area suburb](https://www.sfgate.com/travel/article/why-many-sf-49ers-executives-live-quiet-bay-area-21279658.php) (Published: 2026-01-08)
 - [California’s proposed billionaire tax has Silicon Valley titans fleeing for Florida — where they’re on the prowl for grand homes](https://nypost.com/2026/01/08/real-estate/tech-titans-leaving-california-for-florida-over-billionaire-tax/) (Published: 2026-01-08)
