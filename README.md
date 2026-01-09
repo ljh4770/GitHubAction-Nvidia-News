@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-09 23:33:13**_
+_Last updated: **2026-01-09 23:46:49**_
 
 - [Tech titans divided over whether to pay billionaire tax or flee California - The Guardian](https://slashdot.org/firehose.pl?op=view&amp;id=180550747) (Published: 2026-01-08)
 - [U.S. stocks close mixed after defense shares advance](https://www.thestar.com.my/news/world/2026/01/09/us-stocks-close-mixed-after-defense-shares-advance) (Published: 2026-01-08)
