@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-09 04:29:28**_
+_Last updated: **2026-01-09 04:59:35**_
 
 - [Startups go public in litmus test for Chinese AI](https://www.digitaljournal.com/world/startups-go-public-in-litmus-test-for-chinese-ai/article) (Published: 2026-01-08)
 - [CES 2026: Nvidia CEO declares robotics has reached breakthrough](https://www.digitimes.com/news/a20260108PD207/2026-ceo-ces-2026-ces-jensen-huang-nvidia.html) (Published: 2026-01-08)
