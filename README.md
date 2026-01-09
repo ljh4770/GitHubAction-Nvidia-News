@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-09 09:37:10**_
+_Last updated: **2026-01-09 09:55:21**_
 
+- [Quantum Artificial Intelligence-Powered Digital Advertising Bidding Global Markets, 2019-2024, 2025-2029F, 2034F](https://www.globenewswire.com/news-release/2026/01/08/3215100/28124/en/Quantum-Artificial-Intelligence-Powered-Digital-Advertising-Bidding-Global-Markets-2019-2024-2025-2029F-2034F.html) (Published: 2026-01-08)
 - [nvfuser-cu130 0.2.35.dev20260108](https://pypi.org/project/nvfuser-cu130/0.2.35.dev20260108/) (Published: 2026-01-08)
 - [nvfuser-cu128 0.2.35.dev20260108](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260108/) (Published: 2026-01-08)
 - [Nvidia CEO Jensen Huang Envisioned Compressing 'Excess Energy' Into AI Models — Grayscale Touts This Crypto As Right Match](https://biztoc.com/x/4572e8e69a9d8c32) (Published: 2026-01-08)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-09 09:37:10**_
 - [CES 2026: Nvidia and Samsung signal possible talks on next-generation memory](https://www.digitimes.com/news/a20260108PD251/nvidia-samsung-hbm4-ces-2026.html) (Published: 2026-01-08)
 - [Nvidia requires full upfront payment for H200 chips in China, sources say](https://www.channelnewsasia.com/business/nvidia-h200-chips-china-requires-full-upfront-payment-5845621) (Published: 2026-01-08)
 - [Nvidia overhauls server design as Vera Rubin gears up for volume shipments](https://www.digitimes.com/news/a20260108PD215/nvidia-rubin-ai-server-design-shipments.html) (Published: 2026-01-08)
-- [CES 2026: Hyundai explores next-gen self-driving tech with Nvidia](https://www.digitimes.com/news/a20260108PD244/hyundai-nvidia-autonomous-driving-ces-2026.html) (Published: 2026-01-08)
