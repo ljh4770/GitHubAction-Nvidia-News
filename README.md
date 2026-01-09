@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-09 12:42:36**_
+_Last updated: **2026-01-09 13:27:36**_
 
-- [My Winter Car is out now - a frosty early access sequel to the hateful motoring sim that has you "spiraling even deeper"](https://www.rockpapershotgun.com/my-winter-car-is-out-now-a-frosty-early-access-sequel-to-the-hateful-motoring-sim-that-has-you-spiraling-even-deeper) (Published: 2026-01-08)
-- [The State of Enterprise Linux for networking](https://www.networkworld.com/article/4114186/the-state-of-enterprise-linux-for-networking.html) (Published: 2026-01-08)
-- [Comeback plan: Intel executive explains how it anticipates getting ahead in AI](https://www.cnn.com/2026/01/08/tech/comeback-intel-ai-ces) (Published: 2026-01-08)
-- [Exclusive: Nvidia requires full upfront payment for H200 chips in China, sources say - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=180547423) (Published: 2026-01-08)
-- [Under Pressure: Global CEO Pay Tectonics](https://corpgov.law.harvard.edu/2026/01/08/under-pressure-global-ceo-pay-tectonics/) (Published: 2026-01-08)
-- [Jin Cramer on Intel: “I Am Confident It Is Indeed Headed in the Right Direction”](https://finance.yahoo.com/news/jin-cramer-intel-am-confident-122027072.html) (Published: 2026-01-08)
-- [Score a speedy gaming PC with an RTX 5060 and 32GB of RAM for less than $1,000 — ABS machine unlocks 1080p gameplay with a 10-core Intel CPU and 1TB of storage](https://www.tomshardware.com/desktops/gaming-pcs/score-a-speedy-gaming-pc-with-an-rtx-5060-and-32gb-of-ram-for-less-than-usd1-000-abs-machine-unlocks-1080p-gameplay-with-a-10-core-intel-cpu-and-1tb-of-storage) (Published: 2026-01-08)
-- [Microchip Releases Custom Firmware For NVIDIA DGX Spark For Its MEC1723 Embedded Controllers](https://www.globenewswire.com/news-release/2026/01/08/3215230/0/en/Microchip-Releases-Custom-Firmware-For-NVIDIA-DGX-Spark-For-Its-MEC1723-Embedded-Controllers.html) (Published: 2026-01-08)
-- [Gizmodo’s Best of CES 2026 Awards: See the Winners](https://gizmodo.com/gizmodo-best-of-ces-2026-awards-see-the-winners-2000697475) (Published: 2026-01-08)
-- [Links 1/8/2026](https://www.nakedcapitalism.com/2026/01/links-1-8-2026.html) (Published: 2026-01-08)
+- [LG and Samsung announce new TV OLED panel tech cranking out 4,500 nits of brightness, but don't expect anything like that for PC monitors](https://www.pcgamer.com/hardware/gaming-monitors/lg-and-samsung-announce-new-tv-oled-panel-tech-cranking-out-4-500-nits-of-brightness-but-dont-expect-anything-like-that-for-pc-monitors/) (Published: 2026-01-08)
+- [The gaming monitors that caught our eye at CES 2026](https://slashdot.org/firehose.pl?op=view&amp;id=180547569) (Published: 2026-01-08)
+- [Tesla 'Faces Increased Competition' In Autonomy Race With Nvidia Entering Market](https://biztoc.com/x/b6586441554d5dc9) (Published: 2026-01-08)
+- [Samsung Reaps Memory Dividends As Operating Profits Surge By ~3x](https://wccftech.com/samsung-reaps-memory-dividends-as-operating-profits-surge-by-3x/) (Published: 2026-01-08)
+- [Alphacool at CES 2026: Waterblocks, Manifolds, and Massive Monoblocks](https://www.madshrimps.be/news/alphacool-at-ces-2026-waterblocks-manifolds-and-massive-monoblocks/) (Published: 2026-01-08)
+- [Ace Computers Shows “Firestorm” PCs and “Nightsky” Workstation Laptops at CES 2026](https://www.madshrimps.be/news/ace-computers-shows-firestorm-pcs-and-nightsky-workstation-laptops-at-ces-2026/) (Published: 2026-01-08)
+- [Skyx Platforms joins NVIDIA Connect Program](https://thefly.com/permalinks/entry.php/id4267064/SKYX;NVDA-Skyx-Platforms-joins-NVIDIA-Connect-Program) (Published: 2026-01-08)
+- [Trane upgraded to Buy at Melius Research after pullback](https://biztoc.com/x/2b2781ab5c84d882) (Published: 2026-01-08)
+- [SteamOS Continues Its Slow Spread Across the PC Gaming Landscape](https://games.slashdot.org/story/26/01/08/052240/steamos-continues-its-slow-spread-across-the-pc-gaming-landscape) (Published: 2026-01-08)
