@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-09 07:57:14**_
+_Last updated: **2026-01-09 08:38:10**_
 
+- [Nvidia overhauls server design as Vera Rubin gears up for volume shipments](https://www.digitimes.com/news/a20260108PD215/nvidia-rubin-ai-server-design-shipments.html) (Published: 2026-01-08)
+- [CES 2026: Hyundai explores next-gen self-driving tech with Nvidia](https://www.digitimes.com/news/a20260108PD244/hyundai-nvidia-autonomous-driving-ces-2026.html) (Published: 2026-01-08)
 - [What NVIDIA Cosmos Transfer, Predict, Reason, and Isaac GR00T Are and How to Use Them Together](https://www.c-sharpcorner.com/article/what-nvidia-cosmos-transfer-predict-reason-and-isaac-gr00t-are-and-how-to-use/) (Published: 2026-01-08)
 - [AI helps pave the way for self-driving cars](https://www.rte.ie/news/business/2026/0108/1552054-ai-helps-pave-the-way-for-self-driving-cars/) (Published: 2026-01-08)
 - [NVIDIA Rubin Platform Adds NVLink 6 at 3.6 TBps & HBM4 with 22 TBps Bandwidth](https://www.geeky-gadgets.com/nvidia-rubin-platform-overview-ces-2026/) (Published: 2026-01-08)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-09 07:57:14**_
 - [CNBC Daily Open: Magnificent Seven competition heats up](https://www.cnbc.com/2026/01/08/cnbc-daily-open-magnificent-seven-competition-heats-up.html) (Published: 2026-01-08)
 - [Cosmos Reason 2: What NVIDIA’s reasoning VLM is and how to use it for physical AI](https://www.c-sharpcorner.com/article/cosmos-reason-2-what-nvidias-reasoning-vlm-is-and-how-to-use-it-for-physical-a/) (Published: 2026-01-08)
 - [Google's Larry Page Reportedly Exits California Over Proposed Billionaire Tax, Joining Peter Thiel, But This CEO Hasn't 'Thought About It Even Once'](https://biztoc.com/x/c8b6ab452c2e6e83) (Published: 2026-01-08)
-- [Nvidia requires full upfront payment for H200 chips in China: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-requires-full-upfront-payment-for-h200-chips-in-china-report/articleshow/126409169.cms) (Published: 2026-01-08)
-- [What is Cosmos Transfer 2.5 and How It Generates Synthetic Data — NVIDIA World Model Explained](https://www.c-sharpcorner.com/article/what-is-cosmos-transfer-2-5-and-how-it-generates-synthetic-data-nvidia-world-m/) (Published: 2026-01-08)
