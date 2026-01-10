@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-10 05:10:56**_
+_Last updated: **2026-01-10 05:36:09**_
 
 - [NZ sharemarket ends first week up over 1% – Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-ends-first-week-up-over-1-market-close/premium/BHN7JCVKCJDHFFDPJA3JA6OMHY/) (Published: 2026-01-09)
 - [Union Minister Ashwini Vaishnaw discusses manufacturing of sovereign, high-end GPUs in India with Nvidia officials](https://economictimes.indiatimes.com/tech/technology/union-minister-ashwini-vaishnaw-discusses-manufacturing-of-sovereign-high-end-gpus-in-india-with-nvidia-officials/articleshow/126427209.cms) (Published: 2026-01-09)
