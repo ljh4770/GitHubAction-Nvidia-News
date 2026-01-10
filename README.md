@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-10 07:40:59**_
+_Last updated: **2026-01-10 07:51:31**_
 
 - [Startups go public in litmus test for Chinese AI](https://economictimes.indiatimes.com/tech/artificial-intelligence/startups-go-public-in-litmus-test-for-chinese-ai/articleshow/126430235.cms) (Published: 2026-01-09)
 - [Jensen Huang defends the safety of Nvidia's new autonomous driving system](https://www.digitimes.com/news/a20260108PD227/nvidia-jensen-huang-autonomous-driving-tesla-training.html) (Published: 2026-01-09)
