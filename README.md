@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-10 07:27:12**_
+_Last updated: **2026-01-10 07:40:59**_
 
+- [Startups go public in litmus test for Chinese AI](https://economictimes.indiatimes.com/tech/artificial-intelligence/startups-go-public-in-litmus-test-for-chinese-ai/articleshow/126430235.cms) (Published: 2026-01-09)
 - [Jensen Huang defends the safety of Nvidia's new autonomous driving system](https://www.digitimes.com/news/a20260108PD227/nvidia-jensen-huang-autonomous-driving-tesla-training.html) (Published: 2026-01-09)
 - [Lenovo launches hybrid AI platform Qira for cross-device personal AI](https://www.digitimes.com/news/a20260108PD250/lenovo-ces-2026-nvidia-amd.html) (Published: 2026-01-09)
 - [World's largest chipmaker TSMC on track to beat Q4 revenue forecasts, say reports — details](https://www.livemint.com/companies/company-results/world-largest-chipmaker-tsmc-on-track-to-beat-q4-revenue-forecasts-say-reports-details-data-20-pc-yoy-t-1-046-08-billion-11767941155501.html) (Published: 2026-01-09)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-10 07:27:12**_
 - [Lenovo - Legion 7i 16" 2.5k OLED Gaming Laptop: Intel Ultra 7 255HX 2025, 32GB, NVIDIA GeForce RTX 5060, 1TB SSD (Glacier White) $1234.99](https://slickdeals.net/f/19078204-lenovo-legion-7i-16-2-5k-oled-gaming-laptop-intel-ultra-7-255hx-2025-32gb-nvidia-geforce-rtx-5060-1tb-ssd-glacier-white-1234-99) (Published: 2026-01-09)
 - [MSI Aegis ZS2 (Cert. Refurb): Ryzen 9 9900X, RTX 5080, 32GB DDR5, 2TB SSD $1999.99 (3 replies)](https://slickdeals.net/f/19078201-msi-aegis-zs2-cert-refurb-ryzen-9-9900x-rtx-5080-32gb-ddr5-2tb-ssd-1999-99) (Published: 2026-01-09)
 - [iBUYPOWER - Element Gaming Desktop PC-Intel Core Ultra 7 265F, NVIDIA GeForce RTX 5070 12GB, 32GB DDR5 RGB,2TB SSD - Black $1349.99 (1 replies)](https://slickdeals.net/f/19078165-ibuypower-element-gaming-desktop-pc-intel-core-ultra-7-265f-nvidia-geforce-rtx-5070-12gb-32gb-ddr5-rgb-2tb-ssd-black-1349-99) (Published: 2026-01-09)
-- [TSMC posts Q4 revenue of T$1,046.08 billion, above forecasts](https://www.channelnewsasia.com/business/tsmc-posts-q4-revenue-t104608-billion-above-forecasts-5848036) (Published: 2026-01-09)
