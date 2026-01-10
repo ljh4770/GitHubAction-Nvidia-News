@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-10 07:00:15**_
+_Last updated: **2026-01-10 07:27:12**_
 
+- [Jensen Huang defends the safety of Nvidia's new autonomous driving system](https://www.digitimes.com/news/a20260108PD227/nvidia-jensen-huang-autonomous-driving-tesla-training.html) (Published: 2026-01-09)
+- [Lenovo launches hybrid AI platform Qira for cross-device personal AI](https://www.digitimes.com/news/a20260108PD250/lenovo-ces-2026-nvidia-amd.html) (Published: 2026-01-09)
+- [World's largest chipmaker TSMC on track to beat Q4 revenue forecasts, say reports — details](https://www.livemint.com/companies/company-results/world-largest-chipmaker-tsmc-on-track-to-beat-q4-revenue-forecasts-say-reports-details-data-20-pc-yoy-t-1-046-08-billion-11767941155501.html) (Published: 2026-01-09)
 - [Zealand Pharma enters agreement with DCAI to use Gefion AI supercomputer to accelerate drug discovery and support Metabolic Frontier 2030 strategy](https://www.globenewswire.com/news-release/2026/01/09/3215901/0/en/Zealand-Pharma-enters-agreement-with-DCAI-to-use-Gefion-AI-supercomputer-to-accelerate-drug-discovery-and-support-Metabolic-Frontier-2030-strategy.html) (Published: 2026-01-09)
 - [シーメンスと NVIDIA、産業用 AI オペレーティングシステム構築に向けたパートナーシップを拡大](https://prtimes.jp/main/html/rd/p/000000584.000012662.html) (Published: 2026-01-09)
 - [Kickboxing robots, self-driving cars: AI-powered tech dominates first major tech showcase of 2026](https://www.channelnewsasia.com/world/ces-las-vegas-tech-showcase-artificial-intelligence-ai-humanoid-robots-5848076) (Published: 2026-01-09)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-10 07:00:15**_
 - [MSI Aegis ZS2 (Cert. Refurb): Ryzen 9 9900X, RTX 5080, 32GB DDR5, 2TB SSD $1999.99 (3 replies)](https://slickdeals.net/f/19078201-msi-aegis-zs2-cert-refurb-ryzen-9-9900x-rtx-5080-32gb-ddr5-2tb-ssd-1999-99) (Published: 2026-01-09)
 - [iBUYPOWER - Element Gaming Desktop PC-Intel Core Ultra 7 265F, NVIDIA GeForce RTX 5070 12GB, 32GB DDR5 RGB,2TB SSD - Black $1349.99 (1 replies)](https://slickdeals.net/f/19078165-ibuypower-element-gaming-desktop-pc-intel-core-ultra-7-265f-nvidia-geforce-rtx-5070-12gb-32gb-ddr5-rgb-2tb-ssd-black-1349-99) (Published: 2026-01-09)
 - [TSMC posts Q4 revenue of T$1,046.08 billion, above forecasts](https://www.channelnewsasia.com/business/tsmc-posts-q4-revenue-t104608-billion-above-forecasts-5848036) (Published: 2026-01-09)
-- [NZ sharemarket ends first week up over 1% – Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-ends-first-week-up-over-1-market-close/premium/BHN7JCVKCJDHFFDPJA3JA6OMHY/) (Published: 2026-01-09)
-- [Union Minister Ashwini Vaishnaw discusses manufacturing of sovereign, high-end GPUs in India with Nvidia officials](https://economictimes.indiatimes.com/tech/technology/union-minister-ashwini-vaishnaw-discusses-manufacturing-of-sovereign-high-end-gpus-in-india-with-nvidia-officials/articleshow/126427209.cms) (Published: 2026-01-09)
-- [Ubuntu’s New ARM Steam Snap is Available for Testing](https://www.omgubuntu.co.uk/2026/01/steam-snap-arm64-ubuntu-gaming-performance) (Published: 2026-01-09)
