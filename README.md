@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-10 18:56:06**_
+_Last updated: **2026-01-10 19:17:49**_
 
+- [Billie Eilish, Viola Davis, Cathy Hughes, 2Chainz, Clifford ‘TI’ Harris, Robert Smith, Anika Noni Rose, Jamal Roberts, John Hope Bryant and Rev. A.R Bernard, Sr. slated to Join The King Center for the 41st Annual King Holiday Observance](https://www.globenewswire.com/news-release/2026/01/09/3216292/0/en/Billie-Eilish-Viola-Davis-Cathy-Hughes-2Chainz-Clifford-TI-Harris-Robert-Smith-Anika-Noni-Rose-Jamal-Roberts-John-Hope-Bryant-and-Rev-A-R-Bernard-Sr-slated-to-Join-The-King-Center-.html) (Published: 2026-01-09)
 - [Minisforum Shows Intel "Panther Lake" Mini PC and More at CES 2026](https://www.techpowerup.com/345034/minisforum-shows-intel-panther-lake-mini-pc-and-more-at-ces-2026) (Published: 2026-01-09)
 - [Thunderobot Launches ZERO Air Gaming Laptops with Intel Panther Lake at CES 2026](https://www.techpowerup.com/345033/thunderobot-launches-zero-air-gaming-laptops-with-intel-panther-lake-at-ces-2026) (Published: 2026-01-09)
 - [CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show](https://www.businessinsider.com/jensen-huang-ceo-criticism-nvidia-dgx-spark-2026-1) (Published: 2026-01-09)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-10 18:56:06**_
 - [Hey Gamers, There's Only Hours Left to Snag the Lenovo Legion 7i Gaming Laptop for Over $600 Off](https://www.cnet.com/deals/lenovo-legion-7i-gaming-laptop-deal/) (Published: 2026-01-09)
 - [Viking Global's longtime head of trading is stepping down from the $55 billion asset manager](https://www.businessinsider.com/viking-global-head-of-trading-stuart-brown-exits-2026-1) (Published: 2026-01-09)
 - [Big GPU & Kernel Update Headed to Ubuntu 24.04 LTS](https://www.omgubuntu.co.uk/2026/01/ubuntu-24-04-4-lts-hwe-update-kernel-mesa) (Published: 2026-01-09)
-- [CES 2026 proved the PC industry is hosed this year](https://slashdot.org/firehose.pl?op=view&amp;id=180554732) (Published: 2026-01-09)
