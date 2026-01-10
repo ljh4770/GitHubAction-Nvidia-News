@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-10 19:30:18**_
+_Last updated: **2026-01-10 19:42:08**_
 
+- [brokkr-diagnostics 0.2.3](https://pypi.org/project/brokkr-diagnostics/0.2.3/) (Published: 2026-01-09)
+- [RTX 5090 and Raspberry Pi: Can It Game?](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/) (Published: 2026-01-09)
 - ['It's just a matter of time': Asus suggests integrated GPUs could be the future for gaming laptops sooner than you think](https://www.techradar.com/computing/gpu/its-just-a-matter-of-time-asus-suggests-integrated-gpus-could-be-the-future-for-gaming-laptops-sooner-than-you-think) (Published: 2026-01-09)
 - [Asus ROG Strix OLED XG34WCDMTG to receive global release with Nvidia GeForce Now](https://www.notebookcheck.net/Asus-ROG-Strix-OLED-XG34WCDMTG-to-receive-global-release-with-Nvidia-GeForce-Now.1200708.0.html) (Published: 2026-01-09)
 - [NVIDIA kicks off 2026 for GeForce NOW with a new app](https://www.androidheadlines.com/2026/01/nvidia-kicks-off-2026-for-geforce-now-with-a-new-app.html) (Published: 2026-01-09)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-10 19:30:18**_
 - [Thunderobot Launches ZERO Air Gaming Laptops with Intel Panther Lake at CES 2026](https://www.techpowerup.com/345033/thunderobot-launches-zero-air-gaming-laptops-with-intel-panther-lake-at-ces-2026) (Published: 2026-01-09)
 - [CEO Jensen Huang stepped in as criticism mounted over a key Nvidia product launch, internal emails show](https://www.businessinsider.com/jensen-huang-ceo-criticism-nvidia-dgx-spark-2026-1) (Published: 2026-01-09)
 - [This Ludicrously Light Headset Restored My Passion for VR](https://gizmodo.com/this-ludicrously-light-headset-restored-my-passion-for-vr-2000708053) (Published: 2026-01-09)
-- [Dell Pro Max 16 Plus mobile workstation review: Backpack-friendly desktop-class power with a beautiful display](https://www.techradar.com/pro/dell-pro-max-16-plus-mobile-workstation-review) (Published: 2026-01-09)
-- [Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/) (Published: 2026-01-09)
