@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-10 20:51:29**_
+_Last updated: **2026-01-10 21:09:58**_
 
+- [Brain Scanning Headsets, Cool New Controllers, AI Gaming Companions: CES 2026 Roundup](https://www.gamespot.com/videos/brain-scanning-headsets-cool-new-controllers-ai-gaming-companions-ces-2026-roundup/2300-6466635/) (Published: 2026-01-09)
 - [RAM Shortages May Lead To More Expensive TVs And Devices, Warns Samsung](https://www.gamespot.com/articles/ram-shortages-may-lead-to-more-expensive-tvs-and-devices-warns-samsung/1100-6537306/) (Published: 2026-01-09)
 - [brokkr-diagnostics 0.2.5.dev20260109204216](https://pypi.org/project/brokkr-diagnostics/0.2.5.dev20260109204216/) (Published: 2026-01-09)
 - [From climbing vacuums to cyber pets: Some highlights of CES 2026](https://financialpost.com/pmn/business-pmn/from-climbing-vacuums-to-cyber-pets-some-highlights-of-ces-2026-2) (Published: 2026-01-09)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-10 20:51:29**_
 - [‘What we call corruption’: Harvard economist and former Venezuelan minister says Trump’s oil profit motives have no place in Venezuela’s future](https://fortune.com/2026/01/09/harvard-economist-ricardo-hausmann-venezuela-trump-profit-motive-corruption/) (Published: 2026-01-09)
 - [nvidia-nat-mysql 1.4.0a20260109](https://pypi.org/project/nvidia-nat-mysql/1.4.0a20260109/) (Published: 2026-01-09)
 - [aiqtoolkit-semantic-kernel 1.4.0a20260109](https://pypi.org/project/aiqtoolkit-semantic-kernel/1.4.0a20260109/) (Published: 2026-01-09)
-- [aiqtoolkit-crewai 1.4.0a20260109](https://pypi.org/project/aiqtoolkit-crewai/1.4.0a20260109/) (Published: 2026-01-09)
