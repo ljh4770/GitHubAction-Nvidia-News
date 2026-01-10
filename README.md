@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-10 08:15:18**_
+_Last updated: **2026-01-10 08:43:14**_
 
+- [Why Big Tech wants to gobble AI startups like Manus: The logic of industry consolidation](https://www.livemint.com/opinion/online-views/big-tech-wants-ai-startups-manus-industry-consolidation-nvidia-china-openai-11767946400722.html) (Published: 2026-01-09)
+- [TSMC's fourth quarter revenue beats forecasts](https://www.rte.ie/news/business/2026/0109/1552255-tsmcs-fourth-quarter-revenue-beats-forecasts/) (Published: 2026-01-09)
+- [Jim Cramer Says “Taiwan Semi Is a Very Good Company”](https://finance.yahoo.com/news/jim-cramer-says-taiwan-semi-081652388.html) (Published: 2026-01-09)
 - [gwatch 0.0.0](https://pypi.org/project/gwatch/0.0.0/) (Published: 2026-01-09)
 - [gwatch added to PyPI](https://pypi.org/project/gwatch/) (Published: 2026-01-09)
 - [ASUS Unveils Gaming and AI-Powered Laptop Lineup at CES 2026](https://me.pcmag.com/en/graphics-cards/34601/asus-unveils-gaming-and-ai-powered-laptop-lineup-at-ces-2026) (Published: 2026-01-09)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-10 08:15:18**_
 - [Jensen Huang defends the safety of Nvidia's new autonomous driving system](https://www.digitimes.com/news/a20260108PD227/nvidia-jensen-huang-autonomous-driving-tesla-training.html) (Published: 2026-01-09)
 - [Lenovo launches hybrid AI platform Qira for cross-device personal AI](https://www.digitimes.com/news/a20260108PD250/lenovo-ces-2026-nvidia-amd.html) (Published: 2026-01-09)
 - [World's largest chipmaker TSMC on track to beat Q4 revenue forecasts, say reports — details](https://www.livemint.com/companies/company-results/world-largest-chipmaker-tsmc-on-track-to-beat-q4-revenue-forecasts-say-reports-details-data-20-pc-yoy-t-1-046-08-billion-11767941155501.html) (Published: 2026-01-09)
-- [Zealand Pharma enters agreement with DCAI to use Gefion AI supercomputer to accelerate drug discovery and support Metabolic Frontier 2030 strategy](https://www.globenewswire.com/news-release/2026/01/09/3215901/0/en/Zealand-Pharma-enters-agreement-with-DCAI-to-use-Gefion-AI-supercomputer-to-accelerate-drug-discovery-and-support-Metabolic-Frontier-2030-strategy.html) (Published: 2026-01-09)
-- [シーメンスと NVIDIA、産業用 AI オペレーティングシステム構築に向けたパートナーシップを拡大](https://prtimes.jp/main/html/rd/p/000000584.000012662.html) (Published: 2026-01-09)
-- [Kickboxing robots, self-driving cars: AI-powered tech dominates first major tech showcase of 2026](https://www.channelnewsasia.com/world/ces-las-vegas-tech-showcase-artificial-intelligence-ai-humanoid-robots-5848076) (Published: 2026-01-09)
