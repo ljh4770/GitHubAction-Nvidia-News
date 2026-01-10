@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-10 13:38:53**_
+_Last updated: **2026-01-10 13:51:46**_
 
 - [SoftBank pares Ola Electric stake; Snowflake CEO on browser wars](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/softbank-pares-ola-electric-stake-snowflake-ceo-on-browser-wars/articleshow/126436754.cms) (Published: 2026-01-09)
 - [SoftBank pares Ola Electric stake; Snowflake CEO on AI & search](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/softbank-pares-ola-electric-stake-snowflake-ceo-on-ai-search/articleshow/126436754.cms) (Published: 2026-01-09)
@@ -10,4 +10,3 @@ _Last updated: **2026-01-10 13:38:53**_
 - [Physical AI dominates CES but humanity will still have to wait a while for humanoid servants](https://economictimes.indiatimes.com/tech/technology/physical-ai-dominates-ces-but-humanity-will-still-have-to-wait-a-while-for-humanoid-servants/articleshow/126436532.cms) (Published: 2026-01-09)
 - [Let It Be Light 2.0.11](https://post.rlsbb.to/let-it-be-light-2-0-11/) (Published: 2026-01-09)
 - [Google Surges to Nearly $4 Trillion, Overtakes Apple for First Time as AI Threatens OpenAI and NVIDIA](https://www.ibtimes.com/google-surges-nearly-4-trillion-overtakes-apple-first-time-ai-threatens-openai-nvidia-3794868) (Published: 2026-01-09)
-- [Humanoid robots take over CES in Las Vegas as tech industry touts future of AI](https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html) (Published: 2026-01-09)
