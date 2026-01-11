@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 19:28:36**_
+_Last updated: **2026-01-11 19:41:17**_
 
 - [The 5 Biggest No-Shows of CES 2026](https://www.techpowerup.com/345051/the-5-biggest-no-shows-of-ces-2026) (Published: 2026-01-10)
 - [The 5 Things We Didn't Get at CES 2026: NVIDIA RTX 50 SUPER and Laptop SoC, AMD Ryzen 9 9950X3D2, Intel Arrow Lake Refresh and Arc B770](https://www.techpowerup.com/345051/the-5-things-we-didnt-get-at-ces-2026-nvidia-rtx-50-super-and-laptop-soc-amd-ryzen-9-9950x3d2-intel-arrow-lake-refresh-and-arc-b770) (Published: 2026-01-10)
