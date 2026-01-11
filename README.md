@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 14:45:00**_
+_Last updated: **2026-01-11 14:55:26**_
 
 - [China semiconductor leaders urge caution on Nvidia H200 deals](https://www.digitimes.com/news/a20260109PD256/nvidia-china-government-policy-chips-exports.html) (Published: 2026-01-10)
 - [Canonical call for testing their Steam gaming Snap for Arm Linux](https://www.gamingonlinux.com/2026/01/canonical-call-for-testing-their-steam-gaming-snap-for-arm-linux/.) (Published: 2026-01-10)
