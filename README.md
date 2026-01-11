@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 21:10:11**_
+_Last updated: **2026-01-11 21:30:16**_
 
+- [See the list of California's 200-plus billionaires who could be hit by the proposed wealth tax](https://www.businessinsider.com/california-billionaires-list-wealth-tax-2026-1) (Published: 2026-01-10)
 - [PNY Reveals New Dual Slot Slim RTX 50 Series GPUs at CES 2026](https://bleedingcool.com/games/pny-reveals-new-dual-slot-slim-rtx-50-series-gpus-at-ces-2026/) (Published: 2026-01-10)
 - [Jim Cramer on Procter & Gamble: “It Has the Opportunity to Shake Things Up”](https://finance.yahoo.com/news/jim-cramer-procter-gamble-opportunity-195641824.html) (Published: 2026-01-10)
 - [NVIDIA GeForce RTX 60 Series May Tap Rubin GPU Architecture But When?](https://hothardware.com/news/nvidia-geforce-rtx-60-series-rubin) (Published: 2026-01-10)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-11 21:10:11**_
 - [Intel Core Ultra X9 388H "Panther Lake" iGPU Doubles AMD "Strix Point" Performance in Cyberpunk 2077](https://www.techpowerup.com/345053/intel-core-ultra-x9-388h-panther-lake-igpu-doubles-amd-strix-point-performance-in-cyberpunk-2077) (Published: 2026-01-10)
 - [aisentry added to PyPI](https://pypi.org/project/aisentry/) (Published: 2026-01-10)
 - [Upgrade your gaming PC with an RTX 5060 for just $259.99 and instantly pocket $50 in savings](https://www.tomshardware.com/pc-components/upgrade-your-gaming-pc-with-an-rtx-5060-for-just-usd259-99-and-instantly-pocket-usd50-in-savings) (Published: 2026-01-10)
-- [Bigasoft WTV Converter 5.8.2.9497](https://post.rlsbb.to/bigasoft-wtv-converter-5-8-2-9497/) (Published: 2026-01-10)
