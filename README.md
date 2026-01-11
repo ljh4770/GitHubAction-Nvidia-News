@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 19:41:17**_
+_Last updated: **2026-01-11 19:51:50**_
 
+- [NVIDIA GeForce RTX 60 Series May Tap Rubin GPU Architecture But When?](https://hothardware.com/news/nvidia-geforce-rtx-60-series-rubin) (Published: 2026-01-10)
 - [The 5 Biggest No-Shows of CES 2026](https://www.techpowerup.com/345051/the-5-biggest-no-shows-of-ces-2026) (Published: 2026-01-10)
 - [The 5 Things We Didn't Get at CES 2026: NVIDIA RTX 50 SUPER and Laptop SoC, AMD Ryzen 9 9950X3D2, Intel Arrow Lake Refresh and Arc B770](https://www.techpowerup.com/345051/the-5-things-we-didnt-get-at-ces-2026-nvidia-rtx-50-super-and-laptop-soc-amd-ryzen-9-9950x3d2-intel-arrow-lake-refresh-and-arc-b770) (Published: 2026-01-10)
 - [fashn-human-parser added to PyPI](https://pypi.org/project/fashn-human-parser/) (Published: 2026-01-10)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-11 19:41:17**_
 - [Bigasoft WTV Converter 5.8.2.9497](https://post.rlsbb.to/bigasoft-wtv-converter-5-8-2-9497/) (Published: 2026-01-10)
 - [Topaz Video 1.1.1](https://post.rlsbb.to/topaz-video-1-1-1/) (Published: 2026-01-10)
 - [The chip that actually matters — Snapdragon X2 Plus brings real disruption to the mainstream Windows PC market](https://www.windowscentral.com/hardware/qualcomm/the-chip-that-actually-matters-snapdragon-x2-plus-brings-real-disruption-to-the-mainstream-windows-pc-market) (Published: 2026-01-10)
-- [A new venture led by will.i.am, Trinity is an electric, AI-powered ‘brain on wheels’](https://www.wallpaper.com/transportation/a-new-venture-led-by-will-i-am-trinity-is-an-electric-ai-powered-brain-on-wheels) (Published: 2026-01-10)
