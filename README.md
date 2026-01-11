@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 05:38:05**_
+_Last updated: **2026-01-11 05:53:34**_
 
 - [Walmart to replace Astrazeneca on Nasdaq-100 on Jan 20](https://www.thehindubusinessline.com/markets/walmart-to-replace-astrazeneca-on-nasdaq-100-on-jan-20/article70493702.ece) (Published: 2026-01-10)
 - [【5090速報】グラボ、ついに消費電力2,500W（最大）へ‥‥「GeForce RTX 5090 32G LIGHTNING Z」](https://lifehack2ch.livedoor.biz/archives/51919804.html) (Published: 2026-01-10)
