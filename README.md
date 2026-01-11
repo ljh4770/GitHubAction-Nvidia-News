@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 16:52:34**_
+_Last updated: **2026-01-11 17:11:56**_
 
+- [The chip that actually matters — Snapdragon X2 Plus brings real disruption to the mainstream Windows PC market](https://www.windowscentral.com/hardware/qualcomm/the-chip-that-actually-matters-snapdragon-x2-plus-brings-real-disruption-to-the-mainstream-windows-pc-market) (Published: 2026-01-10)
+- [A new venture led by will.i.am, Trinity is an electric, AI-powered ‘brain on wheels’](https://www.wallpaper.com/transportation/a-new-venture-led-by-will-i-am-trinity-is-an-electric-ai-powered-brain-on-wheels) (Published: 2026-01-10)
 - [Nvidia’s Blackwell gaming GPUs go through blower-style transformation to fuel AI data centers — RTX 5080, RTX 5070 Ti, RTX 5060 Ti blower GPUs up for purchase in China](https://www.tomshardware.com/pc-components/gpus/nvidias-blackwell-gaming-gpus-go-through-blower-style-transformation-to-fuel-ai-data-centers-rtx-5080-rtx-5070-ti-rtx-5060-ti-blower-gpus-up-for-purchase-in-china) (Published: 2026-01-10)
 - [2026 ROG Zephyrus Duo, ASUS Zenbook DUO: Versatility You Can Use Today](https://www.yankodesign.com/2026/01/10/2026-rog-zephyrus-duo-asus-zenbook-duo-versatility-you-can-use-today/) (Published: 2026-01-10)
 - ["Nobody can avoid AI - but it will not replace humans" - Lenovo CEO explains why your next work PC could be an AI-enabled device](https://www.techradar.com/pro/nobody-can-avoid-ai-but-it-will-not-replace-humans-lenovo-ceo-explains-why-your-next-work-pc-could-be-an-ai-enabled-device) (Published: 2026-01-10)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-11 16:52:34**_
 - [Awesome All-in-Ones, Potent Components: The Top Desktops and PC Parts of CES 2026](https://uk.pcmag.com/desktop-pcs/162517/awesome-all-in-ones-potent-components-the-top-desktops-and-pc-parts-of-ces-2026) (Published: 2026-01-10)
 - [Awesome All-in-Ones, Potent Components: The Top Desktops and PC Parts of CES 2026](https://me.pcmag.com/en/old-desktop-pcs/34638/awesome-all-in-ones-potent-components-the-top-desktops-and-pc-parts-of-ces-2026) (Published: 2026-01-10)
 - [HP reportedly eyes Chinese suppliers for DRAM as global shortage sparks shake-up — analyst says memory chips are commodities that can easily be replaced](https://www.tomshardware.com/pc-components/ram/hp-reportedly-eyes-chinese-suppliers-for-dram-as-global-shortage-sparks-shake-up-analyst-says-memory-chips-are-commodities-that-can-easily-be-replaced) (Published: 2026-01-10)
-- [China semiconductor leaders urge caution on Nvidia H200 deals](https://www.digitimes.com/news/a20260109PD256/nvidia-china-government-policy-chips-exports.html) (Published: 2026-01-10)
-- [Canonical call for testing their Steam gaming Snap for Arm Linux](https://www.gamingonlinux.com/2026/01/canonical-call-for-testing-their-steam-gaming-snap-for-arm-linux/.) (Published: 2026-01-10)
