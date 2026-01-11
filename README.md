@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 22:39:11**_
+_Last updated: **2026-01-11 22:51:41**_
 
+- [MSI Vector 16 inch QHD+ 240Hz Gaming Laptop AMD Ryzen 9 8940HX NVIDIA GeForce RTX 5070Ti - 16GB RAM 1TB SSD Gray (2025) $1299 @ Walmart](https://slickdeals.net/f/19084234-msi-vector-16-inch-qhd-240hz-gaming-laptop-amd-ryzen-9-8940hx-nvidia-geforce-rtx-5070ti-16gb-ram-1tb-ssd-gray-2025-1299-walmart) (Published: 2026-01-10)
 - [Four More Tech Bloggers are Switching to Linux](https://linux.slashdot.org/story/26/01/10/2231218/four-more-tech-bloggers-are-switching-to-linux) (Published: 2026-01-10)
 - [Is Nvidia Stock a Buy for 2026?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_47a107bf-c413-4c22-8276-eb5ca9f6abe3) (Published: 2026-01-10)
 - [Here are some of my favorite CES 2026 announcements for iPhone and Mac users](https://9to5mac.com/2026/01/10/my-favorite-apple-accessory-ces-2026-announcements-for-iphone-and-mac/) (Published: 2026-01-10)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-11 22:39:11**_
 - [Jim Cramer on Procter & Gamble: “It Has the Opportunity to Shake Things Up”](https://finance.yahoo.com/news/jim-cramer-procter-gamble-opportunity-195641824.html) (Published: 2026-01-10)
 - [NVIDIA GeForce RTX 60 Series May Tap Rubin GPU Architecture But When?](https://hothardware.com/news/nvidia-geforce-rtx-60-series-rubin) (Published: 2026-01-10)
 - [The 5 Biggest No-Shows of CES 2026](https://www.techpowerup.com/345051/the-5-biggest-no-shows-of-ces-2026) (Published: 2026-01-10)
-- [The 5 Things We Didn't Get at CES 2026: NVIDIA RTX 50 SUPER and Laptop SoC, AMD Ryzen 9 9950X3D2, Intel Arrow Lake Refresh and Arc B770](https://www.techpowerup.com/345051/the-5-things-we-didnt-get-at-ces-2026-nvidia-rtx-50-super-and-laptop-soc-amd-ryzen-9-9950x3d2-intel-arrow-lake-refresh-and-arc-b770) (Published: 2026-01-10)
