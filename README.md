@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 05:05:42**_
+_Last updated: **2026-01-11 05:38:05**_
 
+- [Walmart to replace Astrazeneca on Nasdaq-100 on Jan 20](https://www.thehindubusinessline.com/markets/walmart-to-replace-astrazeneca-on-nasdaq-100-on-jan-20/article70493702.ece) (Published: 2026-01-10)
 - [【5090速報】グラボ、ついに消費電力2,500W（最大）へ‥‥「GeForce RTX 5090 32G LIGHTNING Z」](https://lifehack2ch.livedoor.biz/archives/51919804.html) (Published: 2026-01-10)
 - [CES 2026: The Future is Here](https://www.prnewswire.co.uk/news-releases/ces-2026-the-future-is-here-302657761.html) (Published: 2026-01-10)
 - [Intel Panther Lake with Arc B390 takes on AMD Ryzen Strix Halo and GeForce RTX 4050 in our first gaming benchmarks](https://www.notebookcheck.net/Intel-Panther-Lake-with-Arc-B390-takes-on-AMD-Ryzen-Strix-Halo-and-GeForce-RTX-4050-in-our-first-gaming-benchmarks.1200743.0.html) (Published: 2026-01-10)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-11 05:05:42**_
 - [chatterbox-mlx added to PyPI](https://pypi.org/project/chatterbox-mlx/) (Published: 2026-01-10)
 - [Jim Cramer says don’t trade Apple and Nvidia as money rotates into overlooked stocks ahead of earnings season](https://www.cnbc.com/2026/01/09/jim-cramer-own-apple-and-nvidia-as-broad-rally-expands-before-earnings.html) (Published: 2026-01-10)
 - [Updated Debian 12: 12.13 released](https://www.debian.org/News/2026/2026011002.en.html) (Published: 2026-01-10)
-- [AI cloud provider Lambda reportedly raising $350M round](https://siliconangle.com/2026/01/09/ai-cloud-provider-lambda-reportedly-raising-350m-round/) (Published: 2026-01-09)
