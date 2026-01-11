@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 15:49:44**_
+_Last updated: **2026-01-11 15:59:55**_
 
 - [Investor Michael Burry reveals options bet against Oracle](https://fortune.com/2026/01/10/big-short-investor-michael-burry-put-options-bet-oracle-stock-orcl/) (Published: 2026-01-10)
 - [Awesome All-in-Ones, Potent Components: The Top Desktops and PC Parts of CES 2026](https://uk.pcmag.com/desktop-pcs/162517/awesome-all-in-ones-potent-components-the-top-desktops-and-pc-parts-of-ces-2026) (Published: 2026-01-10)
