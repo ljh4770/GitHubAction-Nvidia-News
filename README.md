@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 15:20:32**_
+_Last updated: **2026-01-11 15:38:02**_
 
 - [Awesome All-in-Ones, Potent Components: The Top Desktops and PC Parts of CES 2026](https://uk.pcmag.com/desktop-pcs/162517/awesome-all-in-ones-potent-components-the-top-desktops-and-pc-parts-of-ces-2026) (Published: 2026-01-10)
 - [Awesome All-in-Ones, Potent Components: The Top Desktops and PC Parts of CES 2026](https://me.pcmag.com/en/old-desktop-pcs/34638/awesome-all-in-ones-potent-components-the-top-desktops-and-pc-parts-of-ces-2026) (Published: 2026-01-10)
