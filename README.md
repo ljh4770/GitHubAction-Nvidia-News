@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 09:38:22**_
+_Last updated: **2026-01-11 09:50:07**_
 
 - [nvfuser-cu128 0.2.35.dev20260110](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260110/) (Published: 2026-01-10)
 - [Nvidia CEO Jensen Huang says AI doomerism has 'done a lot of damage' and is 'not helpful to society'](https://www.businessinsider.com/nvidia-jensen-huang-ai-doomerism-damage-investments-2026-1) (Published: 2026-01-10)
