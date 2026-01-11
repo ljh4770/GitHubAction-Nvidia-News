@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 21:30:16**_
+_Last updated: **2026-01-11 21:43:44**_
 
 - [See the list of California's 200-plus billionaires who could be hit by the proposed wealth tax](https://www.businessinsider.com/california-billionaires-list-wealth-tax-2026-1) (Published: 2026-01-10)
 - [PNY Reveals New Dual Slot Slim RTX 50 Series GPUs at CES 2026](https://bleedingcool.com/games/pny-reveals-new-dual-slot-slim-rtx-50-series-gpus-at-ces-2026/) (Published: 2026-01-10)
