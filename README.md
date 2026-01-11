@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 03:52:05**_
+_Last updated: **2026-01-11 04:41:02**_
 
 - [【5090速報】グラボ、ついに消費電力2,500W（最大）へ‥‥「GeForce RTX 5090 32G LIGHTNING Z」](https://lifehack2ch.livedoor.biz/archives/51919804.html) (Published: 2026-01-10)
 - [CES 2026: The Future is Here](https://www.prnewswire.co.uk/news-releases/ces-2026-the-future-is-here-302657761.html) (Published: 2026-01-10)
