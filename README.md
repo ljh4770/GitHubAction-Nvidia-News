@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 17:32:49**_
+_Last updated: **2026-01-11 17:46:02**_
 
+- [aisentry added to PyPI](https://pypi.org/project/aisentry/) (Published: 2026-01-10)
 - [Upgrade your gaming PC with an RTX 5060 for just $259.99 and instantly pocket $50 in savings](https://www.tomshardware.com/pc-components/upgrade-your-gaming-pc-with-an-rtx-5060-for-just-usd259-99-and-instantly-pocket-usd50-in-savings) (Published: 2026-01-10)
 - [Bigasoft WTV Converter 5.8.2.9497](https://post.rlsbb.to/bigasoft-wtv-converter-5-8-2-9497/) (Published: 2026-01-10)
 - [Topaz Video 1.1.1](https://post.rlsbb.to/topaz-video-1-1-1/) (Published: 2026-01-10)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-11 17:32:49**_
 - [2026 ROG Zephyrus Duo, ASUS Zenbook DUO: Versatility You Can Use Today](https://www.yankodesign.com/2026/01/10/2026-rog-zephyrus-duo-asus-zenbook-duo-versatility-you-can-use-today/) (Published: 2026-01-10)
 - ["Nobody can avoid AI - but it will not replace humans" - Lenovo CEO explains why your next work PC could be an AI-enabled device](https://www.techradar.com/pro/nobody-can-avoid-ai-but-it-will-not-replace-humans-lenovo-ceo-explains-why-your-next-work-pc-could-be-an-ai-enabled-device) (Published: 2026-01-10)
 - [I've never tested a gaming laptop that offers so much for so little — but you’ll have to accept a few flaws](https://www.techradar.com/computing/gaming-laptops/medion-erazer-major-16-x1-review) (Published: 2026-01-10)
-- [Investor Michael Burry reveals options bet against Oracle](https://fortune.com/2026/01/10/big-short-investor-michael-burry-put-options-bet-oracle-stock-orcl/) (Published: 2026-01-10)
