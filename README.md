@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 16:35:19**_
+_Last updated: **2026-01-11 16:52:34**_
 
+- [Nvidia’s Blackwell gaming GPUs go through blower-style transformation to fuel AI data centers — RTX 5080, RTX 5070 Ti, RTX 5060 Ti blower GPUs up for purchase in China](https://www.tomshardware.com/pc-components/gpus/nvidias-blackwell-gaming-gpus-go-through-blower-style-transformation-to-fuel-ai-data-centers-rtx-5080-rtx-5070-ti-rtx-5060-ti-blower-gpus-up-for-purchase-in-china) (Published: 2026-01-10)
 - [2026 ROG Zephyrus Duo, ASUS Zenbook DUO: Versatility You Can Use Today](https://www.yankodesign.com/2026/01/10/2026-rog-zephyrus-duo-asus-zenbook-duo-versatility-you-can-use-today/) (Published: 2026-01-10)
 - ["Nobody can avoid AI - but it will not replace humans" - Lenovo CEO explains why your next work PC could be an AI-enabled device](https://www.techradar.com/pro/nobody-can-avoid-ai-but-it-will-not-replace-humans-lenovo-ceo-explains-why-your-next-work-pc-could-be-an-ai-enabled-device) (Published: 2026-01-10)
 - [I've never tested a gaming laptop that offers so much for so little — but you’ll have to accept a few flaws](https://www.techradar.com/computing/gaming-laptops/medion-erazer-major-16-x1-review) (Published: 2026-01-10)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-11 16:35:19**_
 - [HP reportedly eyes Chinese suppliers for DRAM as global shortage sparks shake-up — analyst says memory chips are commodities that can easily be replaced](https://www.tomshardware.com/pc-components/ram/hp-reportedly-eyes-chinese-suppliers-for-dram-as-global-shortage-sparks-shake-up-analyst-says-memory-chips-are-commodities-that-can-easily-be-replaced) (Published: 2026-01-10)
 - [China semiconductor leaders urge caution on Nvidia H200 deals](https://www.digitimes.com/news/a20260109PD256/nvidia-china-government-policy-chips-exports.html) (Published: 2026-01-10)
 - [Canonical call for testing their Steam gaming Snap for Arm Linux](https://www.gamingonlinux.com/2026/01/canonical-call-for-testing-their-steam-gaming-snap-for-arm-linux/.) (Published: 2026-01-10)
-- [The Week in AI: Physical AI Vaporware, ChatGPT Health, Grok Gets Inappropriate](https://uk.pcmag.com/ai/162511/the-week-in-ai-physical-ai-vaporware-chatgpt-health-grok-gets-inappropriate) (Published: 2026-01-10)
