@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 13:59:54**_
+_Last updated: **2026-01-11 14:28:10**_
 
 - [Canonical call for testing their Steam gaming Snap for Arm Linux](https://www.gamingonlinux.com/2026/01/canonical-call-for-testing-their-steam-gaming-snap-for-arm-linux/.) (Published: 2026-01-10)
 - [The Week in AI: Physical AI Vaporware, ChatGPT Health, Grok Gets Inappropriate](https://uk.pcmag.com/ai/162511/the-week-in-ai-physical-ai-vaporware-chatgpt-health-grok-gets-inappropriate) (Published: 2026-01-10)
