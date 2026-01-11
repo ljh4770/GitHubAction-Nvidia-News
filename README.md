@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-11 20:14:09**_
+_Last updated: **2026-01-11 20:37:55**_
 
 - [PNY Reveals New Dual Slot Slim RTX 50 Series GPUs at CES 2026](https://bleedingcool.com/games/pny-reveals-new-dual-slot-slim-rtx-50-series-gpus-at-ces-2026/) (Published: 2026-01-10)
 - [Jim Cramer on Procter & Gamble: “It Has the Opportunity to Shake Things Up”](https://finance.yahoo.com/news/jim-cramer-procter-gamble-opportunity-195641824.html) (Published: 2026-01-10)
