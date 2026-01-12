@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-12 05:51:06**_
+_Last updated: **2026-01-12 06:21:25**_
 
 - [The AI revolution is here. Will the economy survive the transition?](https://post.substack.com/p/the-ai-revolution-is-here-will-the) (Published: 2026-01-11)
 - [tensorrt-llm 1.2.0rc6.post1](https://pypi.org/project/tensorrt-llm/1.2.0rc6.post1/) (Published: 2026-01-11)
