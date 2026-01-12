@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-12 12:48:06**_
+_Last updated: **2026-01-12 13:33:30**_
 
 - [AMD’s Next-Gen RDNA 5 Gaming GPUs Might Launch After NVIDIA’s RTX 60 Series In 2027](https://wccftech.com/amd-next-gen-rdna-5-gaming-gpus-might-launch-after-nvidia-rtx-60-series-in-2027/) (Published: 2026-01-11)
 - [nvidia-nat-ragaai 1.4.0a20260111](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20260111/) (Published: 2026-01-11)
