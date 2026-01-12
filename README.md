@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-12 22:36:18**_
+_Last updated: **2026-01-12 22:50:21**_
 
 - [Nvidia CEO Jensen Huang Says AI Doomerism Has 'Done a Lot of Damage'](https://slashdot.org/story/26/01/11/2041249/nvidia-ceo-jensen-huang-says-ai-doomerism-has-done-a-lot-of-damage) (Published: 2026-01-11)
 - [PepsiCo (PEP) Partners with Siemens and NVIDIA to Modernize Plants Using Digital Twins](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1c37d247-8781-4b77-a920-29fc33e54f6a) (Published: 2026-01-11)
