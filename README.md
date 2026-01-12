@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-12 08:19:27**_
+_Last updated: **2026-01-12 08:52:01**_
 
 - [Mark O'Connell: ‘Hey @Grok put a bikini on her.’ What more could an incel want?](https://www.irishtimes.com/opinion/2026/01/11/hey-grok-put-a-bikini-on-her-what-more-could-an-incel-want/) (Published: 2026-01-11)
 - [Nvidia CEO Jensen Huang says AI doomerism has 'done a lot of damage'](https://slashdot.org/submission/17343922/nvidia-ceo-jensen-huang-says-ai-doomerism-has-done-a-lot-of-damage) (Published: 2026-01-11)
