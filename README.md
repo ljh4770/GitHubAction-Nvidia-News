@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-12 09:24:28**_
+_Last updated: **2026-01-12 09:53:17**_
 
+- [MSI GeForce RTX 5060 8G VENTUS 3X OC - Graphics card - GeForce RTX 5060 - 8 GB GDDR7 - PCIe 5.0 x16 - 3 x DisplayPort, HDMI](https://slickdeals.net/f/19085887-msi-geforce-rtx-5060-8g-ventus-3x-oc-graphics-card-geforce-rtx-5060-8-gb-gddr7-pcie-5-0-x16-3-x-displayport-hdmi) (Published: 2026-01-11)
+- [Alienware brings back Area-51 gaming laptops with RTX 50-series power](https://www.yugatech.com/news/alienware-brings-back-area-51-gaming-laptops-with-rtx-50-series-power/) (Published: 2026-01-11)
+- [nvfuser-cu128 0.2.35.dev20260111](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260111/) (Published: 2026-01-11)
 - [Daily Tech News 11 January 2026](https://acecomments.mu.nu/?post=418068) (Published: 2026-01-11)
 - [Mark O'Connell: ‘Hey @Grok put a bikini on her.’ What more could an incel want?](https://www.irishtimes.com/opinion/2026/01/11/hey-grok-put-a-bikini-on-her-what-more-could-an-incel-want/) (Published: 2026-01-11)
 - [Nvidia CEO Jensen Huang says AI doomerism has 'done a lot of damage'](https://slashdot.org/submission/17343922/nvidia-ceo-jensen-huang-says-ai-doomerism-has-done-a-lot-of-damage) (Published: 2026-01-11)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-12 09:24:28**_
 - [z-image-studio added to PyPI](https://pypi.org/project/z-image-studio/) (Published: 2026-01-11)
 - [The AI revolution is here. Will the economy survive the transition?](https://post.substack.com/p/the-ai-revolution-is-here-will-the) (Published: 2026-01-11)
 - [tensorrt-llm 1.2.0rc6.post1](https://pypi.org/project/tensorrt-llm/1.2.0rc6.post1/) (Published: 2026-01-11)
-- [AI bubble anxiety is everywhere, but are valuation concerns overstated?](https://www.irishtimes.com/your-money/2026/01/11/ai-bubble-anxiety-is-everywhere-but-are-valuation-concerns-overstated/) (Published: 2026-01-11)
-- [Commentary: California made them rich. Now billionaires flee when the state asks for a little something back. - Los Angeles Times](https://slashdot.org/firehose.pl?op=view&amp;id=180561832) (Published: 2026-01-11)
-- [CES 2026: Nvidia CEO says memory supply secure but AI demands more fabs](https://www.digitimes.com/news/a20260107PD250/nvidia-jensen-huang-hbm-ces-2026.html) (Published: 2026-01-11)
