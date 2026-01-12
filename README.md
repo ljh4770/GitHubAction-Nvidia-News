@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-12 19:40:23**_
+_Last updated: **2026-01-12 19:50:41**_
 
+- [Bank of America makes bold call on bank stocks](https://www.thestreet.com/investing/bank-of-america-makes-bold-call-on-bank-stocks) (Published: 2026-01-11)
 - [China Insight: Cutting Through the Hype — the Transformation of China’s Fashion Industry as AI Enters Deeper Waters](http://wwd.com/business-news/technology/china-fashion-industry-artificial-intelligence-1238441860/) (Published: 2026-01-11)
 - [HP Omen Max Gaming Laptop: 16" 240Hz QHD+ 240Hz OLED, Core Ultra 7 255HX, 32GB DDR5, RTX 5080, 1TB Gen4 SSD @ $1983.19 + F/S (6 replies)](https://slickdeals.net/f/19087042-hp-omen-max-gaming-laptop-16-240hz-qhd-240hz-oled-core-ultra-7-255hx-32gb-ddr5-rtx-5080-1tb-gen4-ssd-1983-19-f-s) (Published: 2026-01-11)
 - [Nvidia CEO sends strong message on Taiwan Semiconductor](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ffb6295a-5087-45a1-9030-a4f3f76485f2) (Published: 2026-01-11)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-12 19:40:23**_
 - [Show HN: Rick and Morty Inspired Multiverse News](https://greenportal.news) (Published: 2026-01-11)
 - [Quote of the day by Nvidia co-founder Jensen Huang: ‘There’s plenty of time, if you prioritize yourself properly and…’](https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-nvidia-co-founder-jensen-huang-theres-plenty-of-time-if-you-prioritize-yourself-properly-and/articleshow/126467407.cms) (Published: 2026-01-11)
 - [I Investigated Every Windows 12 Clue. These Are the Features I'm Betting Will Actually Arrive](https://uk.pcmag.com/migrated-3765-windows-10/162527/i-investigated-every-windows-12-clue-these-are-the-features-im-betting-will-actually-arrive) (Published: 2026-01-11)
-- [I Investigated Every Windows 12 Clue. These Are the Features I'm Betting Will Actually Arrive](https://me.pcmag.com/en/migrated-18166-windows-10/34647/i-investigated-every-windows-12-clue-these-are-the-features-im-betting-will-actually-arrive) (Published: 2026-01-11)
