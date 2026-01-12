@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-12 20:40:40**_
+_Last updated: **2026-01-12 20:55:45**_
 
+- [Pimax Dream Air SE VR Headset](https://thegadgetflow.com/product/dream-air-se-vr-headset/) (Published: 2026-01-11)
 - [Wccftech’s Most Anticipated Games of 2026 – The Return of AAA?](https://wccftech.com/wccftechs-most-anticipated-games-of-2026-the-return-of-aaa/) (Published: 2026-01-11)
 - [Bank of America makes bold call on bank stocks](https://www.thestreet.com/investing/bank-of-america-makes-bold-call-on-bank-stocks) (Published: 2026-01-11)
 - [China Insight: Cutting Through the Hype — the Transformation of China’s Fashion Industry as AI Enters Deeper Waters](http://wwd.com/business-news/technology/china-fashion-industry-artificial-intelligence-1238441860/) (Published: 2026-01-11)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-12 20:40:40**_
 - [A dual-screen gaming beast is born — ROG Zephyrus Duo levels up for creators and gamers alike with NVIDIA GeForce RTX 5090 L and versatile design](https://www.windowscentral.com/hardware/asus/a-dual-screen-gaming-beast-is-born-rog-zephyrus-duo-levels-up-for-creators-and-gamers-alike-with-nvidia-geforce-rtx-5090-l-and-versatile-design) (Published: 2026-01-11)
 - [Legion Pro gaming laptop concept is a shape‑shifting OLED — goes from 16 inches to 24 inches for an ultrawide experience](https://www.windowscentral.com/hardware/lenovo/legion-pro-gaming-laptop-concept-is-a-shape-shifting-oled-goes-from-21-5-inches-to-24-inches-for-ultrawide-experience) (Published: 2026-01-11)
 - [Show HN: Rick and Morty Inspired Multiverse News](https://greenportal.news) (Published: 2026-01-11)
-- [Quote of the day by Nvidia co-founder Jensen Huang: ‘There’s plenty of time, if you prioritize yourself properly and…’](https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-nvidia-co-founder-jensen-huang-theres-plenty-of-time-if-you-prioritize-yourself-properly-and/articleshow/126467407.cms) (Published: 2026-01-11)
