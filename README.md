@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-12 23:41:26**_
+_Last updated: **2026-01-12 23:52:05**_
 
 - [More than just AI, here are the three Gigabyte CES 2026 products to watch](https://www.techradar.com/computing/more-than-just-ai-here-are-the-three-gigabyte-ces-2026-products-to-watch) (Published: 2026-01-11)
 - [Macquarie’s Latest Data Center Bet is a Tiny German Startup](https://financialpost.com/pmn/business-pmn/macquaries-latest-data-center-bet-is-a-tiny-german-startup) (Published: 2026-01-11)
