@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-12 19:24:19**_
+_Last updated: **2026-01-12 19:40:23**_
 
 - [China Insight: Cutting Through the Hype — the Transformation of China’s Fashion Industry as AI Enters Deeper Waters](http://wwd.com/business-news/technology/china-fashion-industry-artificial-intelligence-1238441860/) (Published: 2026-01-11)
 - [HP Omen Max Gaming Laptop: 16" 240Hz QHD+ 240Hz OLED, Core Ultra 7 255HX, 32GB DDR5, RTX 5080, 1TB Gen4 SSD @ $1983.19 + F/S (6 replies)](https://slickdeals.net/f/19087042-hp-omen-max-gaming-laptop-16-240hz-qhd-240hz-oled-core-ultra-7-255hx-32gb-ddr5-rtx-5080-1tb-gen4-ssd-1983-19-f-s) (Published: 2026-01-11)
