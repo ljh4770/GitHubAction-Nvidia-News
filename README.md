@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-13 20:41:38**_
+_Last updated: **2026-01-13 20:56:39**_
 
 - [The Best Consumer Tech Of CES 2026 – Our Picks!](https://wccftech.com/best/best-consumer-tech-of-ces-2026/) (Published: 2026-01-12)
 - [Jensen Huang claims that 'god AI' is a myth — Nvidia chief says 'doomer narrative' is 'extremely hurtful'](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-claims-that-god-ai-is-a-myth-nvidia-chief-says-doomer-narrative-is-extremely-hurtful) (Published: 2026-01-12)
