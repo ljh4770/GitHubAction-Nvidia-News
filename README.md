@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-13 21:44:09**_
+_Last updated: **2026-01-13 21:55:16**_
 
 - [Nvidia to invest US$1 billion in AI drug laboratory with Eli Lilly](https://financialpost.com/news/nvidia-invest-ai-drug-laboratory-eli-lilly) (Published: 2026-01-12)
 - [Asus ProArt PX13 convertible notebook update brings up Ryzen AI Max+ 395 Strix Halo option](https://liliputing.com/asus-proart-px13-convertible-notebook-update-brings-up-ryzen-ai-max-395-strix-halo-option/) (Published: 2026-01-12)
@@ -10,4 +10,3 @@ _Last updated: **2026-01-13 21:44:09**_
 - [Jensen Huang claims that 'god AI' is a myth — Nvidia chief says 'doomer narrative' is 'extremely hurtful'](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-claims-that-god-ai-is-a-myth-nvidia-chief-says-doomer-narrative-is-extremely-hurtful) (Published: 2026-01-12)
 - [Lenovo unveils laptops with touchpads that can be used as graphics tablet with stylus support](https://liliputing.com/lenovo-unveils-laptops-with-touchpads-that-can-be-used-as-graphics-tablet-with-stylus-support/) (Published: 2026-01-12)
 - [Moderately bullish activity in NVIDIA with shares up 1.17%](https://thefly.com/permalinks/entry.php/id4269622/NVDA-Moderately-bullish-activity-in-NVIDIA-with-shares-up-) (Published: 2026-01-12)
-- [‘Apple Intelligence,’ powered by Gemini, marks a ‘major validation moment for Google,’ top tech analyst says](https://fortune.com/2026/01/12/apple-intelligence-powered-by-gemini-marks-a-major-validation-moment-for-google-top-tech-analyst-says/) (Published: 2026-01-12)
