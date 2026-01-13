@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-13 03:01:32**_
+_Last updated: **2026-01-13 04:06:59**_
 
 - [Weekly news roundup: AI memory effects in DRAM, HBM4, and TSMC's global expansion](https://www.digitimes.com/news/a20260112VL201/digitimes-asia-weekly-news-roundup-dram-hbm4-tsmc-nvidia-apple.html) (Published: 2026-01-12)
 - [Nvidia set to hit US$200 billion revenue milestone on Blackwell and China H200 chip sales](https://www.digitimes.com/news/a20260109PD246/nvidia-revenue-blackwell-sales-2026.html) (Published: 2026-01-12)
