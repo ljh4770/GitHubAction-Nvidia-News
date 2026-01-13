@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-13 19:51:30**_
+_Last updated: **2026-01-13 20:14:17**_
 
+- [Lenovo unveils laptops with touchpads that can be used as graphics tablet with stylus support](https://liliputing.com/lenovo-unveils-laptops-with-touchpads-that-can-be-used-as-graphics-tablet-with-stylus-support/) (Published: 2026-01-12)
 - [Moderately bullish activity in NVIDIA with shares up 1.17%](https://thefly.com/permalinks/entry.php/id4269622/NVDA-Moderately-bullish-activity-in-NVIDIA-with-shares-up-) (Published: 2026-01-12)
 - [‘Apple Intelligence,’ powered by Gemini, marks a ‘major validation moment for Google,’ top tech analyst says](https://fortune.com/2026/01/12/apple-intelligence-powered-by-gemini-marks-a-major-validation-moment-for-google-top-tech-analyst-says/) (Published: 2026-01-12)
 - [Apple calls on Google to help smarten up Siri and bring other AI features to iPhone](https://abcnews.go.com/Technology/wireStory/apple-calls-google-smarten-siri-bring-ai-features-129141852) (Published: 2026-01-12)
