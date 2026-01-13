@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-13 06:39:58**_
+_Last updated: **2026-01-13 07:02:33**_
 
 - [Linux 6.19-rc5 Brings Fix For Newer NVIDIA GPUs, Logitech HID++ For Anywhere 3S & Fixes](https://www.phoronix.com/news/Linux-6.19-rc5-Released) (Published: 2026-01-12)
 - [Five thoughts from Nvidia’s keynote at CES](https://siliconangle.com/2026/01/12/five-thoughts-nvidias-keynote-ces/) (Published: 2026-01-12)
