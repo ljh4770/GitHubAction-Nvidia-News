@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-14 11:47:08**_
+_Last updated: **2026-01-14 11:57:32**_
 
+- [nvidia-nat-ragaai 1.4.0a20260113](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20260113/) (Published: 2026-01-13)
+- [nvidia-nat-test 1.4.0a20260113](https://pypi.org/project/nvidia-nat-test/1.4.0a20260113/) (Published: 2026-01-13)
+- [nvidia-nat-strands 1.4.0a20260113](https://pypi.org/project/nvidia-nat-strands/1.4.0a20260113/) (Published: 2026-01-13)
 - [Framework Desktop now cost up to $460 more due to RAM shortage](https://www.notebookcheck.net/Framework-Desktop-now-cost-up-to-460-more-due-to-RAM-shortage.1203235.0.html) (Published: 2026-01-13)
 - [Framework Desktop now costs up to $460 more due to RAM shortage](https://www.notebookcheck.net/Framework-Desktop-now-costs-up-to-460-more-due-to-RAM-shortage.1203235.0.html) (Published: 2026-01-13)
 - [PC shipments grew in 2025 but the market 'will be far different in 12 months given how quickly the memory situation is evolving'](https://www.pcgamer.com/hardware/gaming-pcs/pc-shipments-grew-in-2025-but-the-market-will-be-far-different-in-12-months-given-how-quickly-the-memory-situation-is-evolving/) (Published: 2026-01-13)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-14 11:47:08**_
 - [$104+ Bn Composable Infrastructure Markets - Global Forecast to 2032: Expanding Significance of Edge Computing and Distributed Data Processing Influencing Composable Infrastructure Design](https://www.globenewswire.com/news-release/2026/01/13/3217609/28124/en/104-Bn-Composable-Infrastructure-Markets-Global-Forecast-to-2032-Expanding-Significance-of-Edge-Computing-and-Distributed-Data-Processing-Influencing-Composable-Infrastructure-Desi.html) (Published: 2026-01-13)
 - [U.S. House passes bill to stop Chinese companies from accessing export-controlled American AI chips using offshore rental loophole — Remote Access Security Access Act effectively extends export controls to the cloud](https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-house-passes-bill-to-stop-chinese-companies-from-accessing-export-controlled-american-ai-chips-using-offshore-rental-loophole-remote-access-security-access-act-effectively-extends-export-controls-to-the-cloud) (Published: 2026-01-13)
 - [Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz | TechCrunch](https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/) (Published: 2026-01-13)
-- [PC prices were a mystery at CES 2026 as RAM costs spark chaos](https://www.pcworld.com/article/3027533/pc-prices-were-a-mystery-at-ces-2026-as-ram-costs-spark-chaos.html) (Published: 2026-01-13)
-- [The state of Apple and AI: The good (Gemini), the bad (xAI), and the ugly (Grok)](https://www.macworld.com/article/3030258/apples-app-store-cowardice.html) (Published: 2026-01-13)
-- [The AI boom is really a race to own the future of human labor, a safety pioneer says](https://www.businessinsider.com/ai-boom-bet-on-free-human-labor-ai-safety-pioneer-2026-1) (Published: 2026-01-13)
