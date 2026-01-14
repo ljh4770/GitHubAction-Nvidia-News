@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-14 07:41:20**_
+_Last updated: **2026-01-14 07:53:39**_
 
 - [Nvidia and Eli Lilly launch joint AI lab to advance drug discovery and manufacturing](https://www.digitimes.com/news/a20260113VL203/nvidia-manufacturing-development-infrastructure-production.html) (Published: 2026-01-13)
 - [AI in Aviation Market Set to Hit USD 171.53 Billion by 2033, Driven by Predictive Maintenance and Flight Operations Optimization | Report by SNS Insider](https://www.globenewswire.com/news-release/2026/01/13/3217471/0/en/AI-in-Aviation-Market-Set-to-Hit-USD-171-53-Billion-by-2033-Driven-by-Predictive-Maintenance-and-Flight-Operations-Optimization-Report-by-SNS-Insider.html) (Published: 2026-01-13)
