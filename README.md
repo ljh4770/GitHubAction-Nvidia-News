@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-14 00:51:48**_
+_Last updated: **2026-01-14 02:59:36**_
 
-- [brokkr-diagnostics 0.2.8](https://pypi.org/project/brokkr-diagnostics/0.2.8/) (Published: 2026-01-12)
-- [Win a Custom Gaming PC from PNY + Starforge Systems](https://www.ozbargain.com.au/node/944070) (Published: 2026-01-12)
-- [GigaDevice Set for Hong Kong Debut After $600 Million Offering](https://financialpost.com/pmn/business-pmn/gigadevice-set-for-hong-kong-debut-after-600-million-offering) (Published: 2026-01-12)
-- [Skytech Gaming PC Ryzen 7 9800X3D,64GB DDR5,2TB SSD,NVIDIA RTX 5080 (Open Box) - $2534.20 at VIPOUTLET via eBay](https://slickdeals.net/f/19092028-skytech-gaming-pc-ryzen-7-9800x3d-64gb-ddr5-2tb-ssd-nvidia-rtx-5080-open-box-2534-20-at-vipoutlet-via-ebay) (Published: 2026-01-12)
-- [Plucky startup Bolt Graphics still wants to use RISC-V to compete with Nvidia, AMD in AI and beyond — and given CUDA's port on RISC-V, there may be something there](https://www.techradar.com/pro/plucky-startup-bolt-graphics-still-wants-to-use-risc-v-to-compete-with-nvidia-amd-in-ai-and-beyond-and-given-cudas-port-on-risc-v-there-may-be-something-there) (Published: 2026-01-12)
-- [Apple teams up with Google Gemini for AI-powered Siri](https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/) (Published: 2026-01-12)
-- [Here's why Apple leaning on Google for Siri's AI overhaul makes sense](https://www.androidcentral.com/apps-software/ai/why-apple-leaning-on-google-for-siri-ai-overhaul-makes-sense) (Published: 2026-01-12)
-- [Dems need backbone infusion!](https://www.portlandmercury.com/i-anonymous/2026/01/12/48251862/dems-need-backbone-infusion) (Published: 2026-01-12)
-- [Mobile DRAM, NAND Flash Prices Have Risen By More Than 70% And 100%, Respectively; Separate Analysis States That Memory Accounts For 20% Of Total Smartphone Manufacturing Costs](https://wccftech.com/smartphone-dram-and-nand-prices-rise-more-than-70-percent-and-100-percent/) (Published: 2026-01-12)
+- [SK Hynix to invest $13 billion in new plant amid memory chip shortage](https://www.cnbc.com/2026/01/13/sk-hynix-invest-13-billion-new-fab-memory-chip-shortage-advanced-packaging-ai-memory.html) (Published: 2026-01-13)
+- [Nvidia says no upfront payment needed for its H200 chips](https://economictimes.indiatimes.com/tech/technology/nvidia-says-no-upfront-payment-needed-for-its-h200-chips/articleshow/126495370.cms) (Published: 2026-01-13)
+- [Nvidia says no upfront payment needed for its H200 chips](https://www.channelnewsasia.com/business/nvidia-says-no-upfront-payment-needed-its-h200-chips-5854656) (Published: 2026-01-13)
+- [Alphabet’s rise to $4 trillion cements status as AI trade winner](https://www.livemint.com/companies/news/alphabet-google-parent-rises-4-trillion-market-cap-cements-status-ai-trade-winner-artificial-intelligence-boom-investors-11768268015276.html) (Published: 2026-01-13)
+- [Want to get paid on a regular schedule? Check which investment type is a fixed income source?](https://economictimes.indiatimes.com/news/international/us/want-to-get-paid-on-a-regular-schedule-check-which-investment-type-is-a-fixed-income-source/articleshow/126495064.cms) (Published: 2026-01-13)
+- [nemo-evaluator 0.1.63](https://pypi.org/project/nemo-evaluator/0.1.63/) (Published: 2026-01-13)
+- [NVIDIAのCEOがTSMCに「先進チップの未来は台湾にある」とメッセージ](https://news.livedoor.com/article/detail/30360384/) (Published: 2026-01-13)
+- [Alphabet hits $4 trillion valuation milestone on AI momentum](https://www.thehindubusinessline.com/markets/alphabet-hits-4-trillion-valuation-milestone-on-ai-momentum/article70503833.ece) (Published: 2026-01-13)
+- [Apple turns to Google AI to upgrade Siri and catch up in AI race](https://www.thehindubusinessline.com/info-tech/apple-turns-to-google-ai-to-upgrade-siri-and-catch-up-in-ai-race/article70503825.ece) (Published: 2026-01-13)
+- [Nvidia, Lilly to invest up to $1B in new AI medical research lab](https://siliconangle.com/2026/01/12/nvidia-lilly-invest-1b-new-ai-medical-research-lab/) (Published: 2026-01-13)
