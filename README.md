@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-14 23:20:14**_
+_Last updated: **2026-01-14 23:33:20**_
 
 - [AI-driven rise in server power fuels shift to advanced cooling fan technologies](https://www.digitimes.com/news/a20260112PD203/2026-ces-nvidia-cooling-fan-rubin.html) (Published: 2026-01-13)
 - [BlueField creates storage-powered AI boom, controller market expected to expand](https://www.digitimes.com/news/a20260112PD221/data-storage-infrastructure-jensen-huang-nvidia-ces-2026.html) (Published: 2026-01-13)
