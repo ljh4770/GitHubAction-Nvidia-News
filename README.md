@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-14 19:28:25**_
+_Last updated: **2026-01-14 19:43:40**_
 
+- [Google's parent company Alphabet hits $4 trillion — Google’s AI deal with Apple pays off](https://www.windowscentral.com/artificial-intelligence/googles-parent-company-alphabet-hits-usd4-trillion-googles-ai-deal-with-apple-pays-off) (Published: 2026-01-13)
+- [AI to move from pilots to production, see wider adoption in 2026: Neysa CEO](https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-to-move-from-pilots-to-production-see-wider-adoption-in-2026-neysa-ceo/articleshow/126512478.cms) (Published: 2026-01-13)
 - [SK Hynix's $13B packaging facility promises more HBM for the AI bubble](https://www.theregister.com/2026/01/13/sk_hbm_packaging/) (Published: 2026-01-13)
 - [As ‘agentic commerce’ gains ground, companies shouldn’t put too much faith in ‘GEO,’ one industry insider warns](https://fortune.com/2026/01/13/agentic-commerce-generative-engine-optimization-geo-unreliable-aivo-standard/) (Published: 2026-01-13)
 - [Qwen boss says Chinese AI models have 'less than 20%' chance of leapfrogging Western counterparts — despite China's $1 billion AI IPO week, capital can't close the gap alone](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-1-billion-ai-ipo-week-highlights-the-limits-of-capital-without-compute) (Published: 2026-01-13)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-14 19:28:25**_
 - [Deepseek research touts memory breakthrough, decoupling compute power and RAM pools to bypass GPU & HBM constraints — Engram conditional memory module commits static knowledge to system RAM](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-touts-memory-breakthrough-engram) (Published: 2026-01-13)
 - [Century-old California College of the Arts to close, handing campus to Vanderbilt](https://sfstandard.com/2026/01/13/california-college-arts-close/) (Published: 2026-01-13)
 - [Moderately bullish activity in NVIDIA with shares up 0.14%](https://thefly.com/permalinks/entry.php/id4270560/NVDA-Moderately-bullish-activity-in-NVIDIA-with-shares-up-) (Published: 2026-01-13)
-- [UltraGear Evo 27GM950B: New Mini LED gaming monitor launching soon with 1,250 nits brightness](https://www.notebookcheck.net/UltraGear-Evo-27GM950B-New-Mini-LED-gaming-monitor-launching-soon-with-1-250-nits-brightness.1203723.0.html) (Published: 2026-01-13)
-- [AI Daily: Nvidia H200 AI chip purchases restricted by China](https://thefly.com/permalinks/entry.php/id4270556/NVDA;MSFT;W;GOOGL;GOOG;TMO;FIVN;$PRIVATE-AI-Daily-Nvidia-H-AI-chip-purchases-restricted-by-China) (Published: 2026-01-13)
