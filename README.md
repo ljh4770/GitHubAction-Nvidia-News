@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-14 04:13:32**_
+_Last updated: **2026-01-14 04:55:54**_
 
 - [HCL Tech shares in focus after Q3 net profit declines 11% YoY. Should you buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/hcl-tech-shares-in-focus-after-q3-net-profit-declines-11-yoy-should-you-buy-sell-or-hold/articleshow/126496098.cms) (Published: 2026-01-13)
 - [Khadas Mind Pro Mini PC Gets Intel Panther Lake, New Mind Graphics 2 eGPU Packs RTX 5060 Ti](https://www.techpowerup.com/345118/khadas-mind-pro-mini-pc-gets-intel-panther-lake-new-mind-graphics-2-egpu-packs-rtx-5060-ti) (Published: 2026-01-13)
