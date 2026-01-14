@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-14 20:40:28**_
+_Last updated: **2026-01-14 20:54:38**_
 
 - [NVIDIA reportedly shifts RTX 50 supply toward RTX 5060 and 5060 Ti 8GB in 2026 - VideoCardz.com](https://slashdot.org/firehose.pl?op=view&amp;id=180575792) (Published: 2026-01-13)
 - [Learn How NVIDIA cuOpt Accelerates Mixed Integer Optimization using Primal Heuristics](https://developer.nvidia.com/blog/learn-how-nvidia-cuopt-accelerates-mixed-integer-optimization-using-primal-heuristics/) (Published: 2026-01-13)
