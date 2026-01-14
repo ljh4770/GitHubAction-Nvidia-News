@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-14 02:59:36**_
+_Last updated: **2026-01-14 04:13:32**_
 
+- [HCL Tech shares in focus after Q3 net profit declines 11% YoY. Should you buy, sell or hold?](https://economictimes.indiatimes.com/markets/stocks/news/hcl-tech-shares-in-focus-after-q3-net-profit-declines-11-yoy-should-you-buy-sell-or-hold/articleshow/126496098.cms) (Published: 2026-01-13)
+- [Khadas Mind Pro Mini PC Gets Intel Panther Lake, New Mind Graphics 2 eGPU Packs RTX 5060 Ti](https://www.techpowerup.com/345118/khadas-mind-pro-mini-pc-gets-intel-panther-lake-new-mind-graphics-2-egpu-packs-rtx-5060-ti) (Published: 2026-01-13)
+- [SK Hynix to invest nearly $13 billion in chip packaging plant in South Korea](https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-invest-nearly-13-billion-in-chip-packaging-plant-in-south-korea/articleshow/126496080.cms) (Published: 2026-01-13)
+- [The Gadgeteer’s Best in Show at CES 2026: 25 products that earned our trophies this year](https://the-gadgeteer.com/2026/01/12/the-gadgeteers-best-in-show-at-ces-2026-25-products-that-earned-our-trophies-this-year/) (Published: 2026-01-13)
+- [Why Apple has called on Google to help smarten up Siri and bring other AI features to the iPhone](https://economictimes.indiatimes.com/tech/artificial-intelligence/why-apple-has-called-on-google-to-help-smarten-up-siri-and-bring-other-ai-features-to-the-iphone/articleshow/126495889.cms) (Published: 2026-01-13)
+- [Physical AI is the next frontier - and it's already all around you](https://www.zdnet.com/article/what-is-physical-ai-qualcomm-ces/) (Published: 2026-01-13)
 - [SK Hynix to invest $13 billion in new plant amid memory chip shortage](https://www.cnbc.com/2026/01/13/sk-hynix-invest-13-billion-new-fab-memory-chip-shortage-advanced-packaging-ai-memory.html) (Published: 2026-01-13)
 - [Nvidia says no upfront payment needed for its H200 chips](https://economictimes.indiatimes.com/tech/technology/nvidia-says-no-upfront-payment-needed-for-its-h200-chips/articleshow/126495370.cms) (Published: 2026-01-13)
 - [Nvidia says no upfront payment needed for its H200 chips](https://www.channelnewsasia.com/business/nvidia-says-no-upfront-payment-needed-its-h200-chips-5854656) (Published: 2026-01-13)
 - [Alphabet’s rise to $4 trillion cements status as AI trade winner](https://www.livemint.com/companies/news/alphabet-google-parent-rises-4-trillion-market-cap-cements-status-ai-trade-winner-artificial-intelligence-boom-investors-11768268015276.html) (Published: 2026-01-13)
-- [Want to get paid on a regular schedule? Check which investment type is a fixed income source?](https://economictimes.indiatimes.com/news/international/us/want-to-get-paid-on-a-regular-schedule-check-which-investment-type-is-a-fixed-income-source/articleshow/126495064.cms) (Published: 2026-01-13)
-- [nemo-evaluator 0.1.63](https://pypi.org/project/nemo-evaluator/0.1.63/) (Published: 2026-01-13)
-- [NVIDIAのCEOがTSMCに「先進チップの未来は台湾にある」とメッセージ](https://news.livedoor.com/article/detail/30360384/) (Published: 2026-01-13)
-- [Alphabet hits $4 trillion valuation milestone on AI momentum](https://www.thehindubusinessline.com/markets/alphabet-hits-4-trillion-valuation-milestone-on-ai-momentum/article70503833.ece) (Published: 2026-01-13)
-- [Apple turns to Google AI to upgrade Siri and catch up in AI race](https://www.thehindubusinessline.com/info-tech/apple-turns-to-google-ai-to-upgrade-siri-and-catch-up-in-ai-race/article70503825.ece) (Published: 2026-01-13)
-- [Nvidia, Lilly to invest up to $1B in new AI medical research lab](https://siliconangle.com/2026/01/12/nvidia-lilly-invest-1b-new-ai-medical-research-lab/) (Published: 2026-01-13)
