@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-14 23:45:53**_
+_Last updated: **2026-01-14 23:56:22**_
 
+- [degiro-portfolio added to PyPI](https://pypi.org/project/degiro-portfolio/) (Published: 2026-01-13)
 - [AI-driven rise in server power fuels shift to advanced cooling fan technologies](https://www.digitimes.com/news/a20260112PD203/2026-ces-nvidia-cooling-fan-rubin.html) (Published: 2026-01-13)
 - [BlueField creates storage-powered AI boom, controller market expected to expand](https://www.digitimes.com/news/a20260112PD221/data-storage-infrastructure-jensen-huang-nvidia-ces-2026.html) (Published: 2026-01-13)
 - [Stock market today: Live updates](https://www.cnbc.com/2026/01/13/stock-market-today-live-updates.html) (Published: 2026-01-13)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-14 23:45:53**_
 - [nvidia-nvfatbin 13.1.115](https://pypi.org/project/nvidia-nvfatbin/13.1.115/) (Published: 2026-01-13)
 - [nvidia-npp 13.0.3.3](https://pypi.org/project/nvidia-npp/13.0.3.3/) (Published: 2026-01-13)
 - [US gives green light to Nvidia H200 chip exports to China](https://www.channelnewsasia.com/business/us-gives-green-light-nvidia-h200-chip-exports-china-5856941) (Published: 2026-01-13)
-- [nvidia-cusparse 12.7.3.1](https://pypi.org/project/nvidia-cusparse/12.7.3.1/) (Published: 2026-01-13)
