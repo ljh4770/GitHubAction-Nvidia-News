@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-15 18:57:33**_
+_Last updated: **2026-01-15 19:30:11**_
 
 - [AI Daily: U.S. to review Nvidia, AMD chip exports case by case](https://thefly.com/permalinks/entry.php/id4271506/GOOG;GOOGL;$PRIVATE;AMD;NVDA;MSFT;AVGO;AAPL;TSM-AI-Daily-US-to-review-Nvidia-AMD-chip-exports-case-by-case) (Published: 2026-01-14)
 - [Apple, Qualcomm Face Glass Cloth Shortage](https://www.iphoneincanada.ca/2026/01/14/apple-qualcomm-face-glass-cloth-shortage/) (Published: 2026-01-14)
