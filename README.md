@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-15 11:00:27**_
+_Last updated: **2026-01-15 11:29:40**_
 
+- [Silicon Wars: Nvidia GPUs vs Google TPUs](https://timesofindia.indiatimes.com/technology/tech-news/silicon-wars-nvidia-gpus-vs-google-tpus/articleshow/126525405.cms) (Published: 2026-01-14)
+- [I hate to agree with Nvidia about an AI thing, but come on, PC gamers — it's time to stop whining about 'fake frames' and take the free performance boosts](https://www.techradar.com/computing/gpu/i-hate-to-agree-with-nvidia-about-an-ai-thing-but-come-on-pc-gamers-its-time-to-stop-whining-about-fake-frames-and-take-the-free-performance-boosts) (Published: 2026-01-14)
+- [Xi welcomes stream of leaders shaken by Trump’s new world order](https://economictimes.indiatimes.com/news/international/world-news/xi-welcomes-stream-of-leaders-shaken-by-trumps-new-world-order/articleshow/126525060.cms) (Published: 2026-01-14)
+- [Vietnam Data Center Market Investment Analysis Report 2026-2031 Featuring Key DC Investors - CMC, Edge Centres, FPT, Hanoi Telecom, NTT DATA, ST Telemedia, Viettel IDC, VNPT, VNTT](https://www.globenewswire.com/news-release/2026/01/14/3218469/28124/en/Vietnam-Data-Center-Market-Investment-Analysis-Report-2026-2031-Featuring-Key-DC-Investors-CMC-Edge-Centres-FPT-Hanoi-Telecom-NTT-DATA-ST-Telemedia-Viettel-IDC-VNPT-VNTT.html) (Published: 2026-01-14)
 - [US to review exports of Nvidia, AMD chips on case-by-case basis, Bloomberg says](https://thefly.com/permalinks/entry.php/id4270764/NVDA;AMD-US-to-review-exports-of-Nvidia-AMD-chips-on-casebycase-basis-Bloomberg-says) (Published: 2026-01-14)
 - [Indonesia Data Center Investment Analysis Report 2026: A $6.08 Billion Market by 2031 - Coverage of 88 Existing Facilities, 25 Upcoming Facilities, and 17 Cities](https://www.globenewswire.com/news-release/2026/01/14/3218457/28124/en/Indonesia-Data-Center-Investment-Analysis-Report-2026-A-6-08-Billion-Market-by-2031-Coverage-of-88-Existing-Facilities-25-Upcoming-Facilities-and-17-Cities.html) (Published: 2026-01-14)
 - [Thailand Data Center Market Investment Analysis Report 2026-2031: Bangkok Remains the Nation's Premier Hub with 31 Active and 8 Upcoming Data Centers](https://www.globenewswire.com/news-release/2026/01/14/3218456/28124/en/Thailand-Data-Center-Market-Investment-Analysis-Report-2026-2031-Bangkok-Remains-the-Nation-s-Premier-Hub-with-31-Active-and-8-Upcoming-Data-Centers.html) (Published: 2026-01-14)
 - [Goldman Sachs breaks down what the doomsayers get wrong about the US economy in 8 charts](https://www.businessinsider.com/goldman-sachs-bears-are-wrong-us-stocks-will-rise-2026-1) (Published: 2026-01-14)
 - [nvidia-nat-mem0ai 1.4.0rc2](https://pypi.org/project/nvidia-nat-mem0ai/1.4.0rc2/) (Published: 2026-01-14)
 - [nvidia-nat-ragaai 1.5.0a20260114](https://pypi.org/project/nvidia-nat-ragaai/1.5.0a20260114/) (Published: 2026-01-14)
-- [nvidia-nat-test 1.5.0a20260114](https://pypi.org/project/nvidia-nat-test/1.5.0a20260114/) (Published: 2026-01-14)
-- [nvidia-nat-strands 1.5.0a20260114](https://pypi.org/project/nvidia-nat-strands/1.5.0a20260114/) (Published: 2026-01-14)
-- [South Korea Data Center Market Investment Analysis Report 2026-2031: Coverage of 58 Existing Facilities, 26 Upcoming Facilities, and 16+ Locations](https://www.globenewswire.com/news-release/2026/01/14/3218455/28124/en/South-Korea-Data-Center-Market-Investment-Analysis-Report-2026-2031-Coverage-of-58-Existing-Facilities-26-Upcoming-Facilities-and-16-Locations.html) (Published: 2026-01-14)
-- [nvidia-nat-phoenix 1.5.0a20260114](https://pypi.org/project/nvidia-nat-phoenix/1.5.0a20260114/) (Published: 2026-01-14)
