@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-15 07:58:19**_
+_Last updated: **2026-01-15 08:41:02**_
 
 - [Bitget Captures 89% Tokenized Stock Market Share in December, Extends 0 Fee Trading Through April 2026](https://www.globenewswire.com/news-release/2026/01/14/3218423/0/en/Bitget-Captures-89-Tokenized-Stock-Market-Share-in-December-Extends-0-Fee-Trading-Through-April-2026.html) (Published: 2026-01-14)
 - [ライフ サイエンスの主要なリーダーが NVIDIA BioNeMo プラットフォームを採用、AI 駆動の創薬を高速化](https://prtimes.jp/main/html/rd/p/000000586.000012662.html) (Published: 2026-01-14)
