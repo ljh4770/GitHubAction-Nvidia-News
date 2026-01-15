@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-15 22:40:52**_
+_Last updated: **2026-01-15 22:54:47**_
 
 - [Sales of a powerful Nvidia AI chip to China gets the greenlight, with conditions](https://www.bostonherald.com/2026/01/14/sales-of-a-powerful-nvidia-ai-chip-to-china-gets-the-greenlight-with-conditions/) (Published: 2026-01-14)
 - [The way is cleared for sale of Nvidia chip in China](https://www.kiro7.com/news/business/sales-powerful/CXRJSWIOCIYXLKUEUX5VYSBIEU/) (Published: 2026-01-14)
