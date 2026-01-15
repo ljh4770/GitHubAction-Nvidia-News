@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-15 07:47:49**_
+_Last updated: **2026-01-15 07:58:19**_
 
+- [Bitget Captures 89% Tokenized Stock Market Share in December, Extends 0 Fee Trading Through April 2026](https://www.globenewswire.com/news-release/2026/01/14/3218423/0/en/Bitget-Captures-89-Tokenized-Stock-Market-Share-in-December-Extends-0-Fee-Trading-Through-April-2026.html) (Published: 2026-01-14)
 - [ライフ サイエンスの主要なリーダーが NVIDIA BioNeMo プラットフォームを採用、AI 駆動の創薬を高速化](https://prtimes.jp/main/html/rd/p/000000586.000012662.html) (Published: 2026-01-14)
 - [NVIDIA To Prioritize RTX 5060 at Expense of Rest of 50 Series](https://www.madshrimps.be/news/nvidia-to-prioritize-rtx-5060-at-expense-of-rest-of-50-series/) (Published: 2026-01-14)
 - [China's customs agents told Nvidia's H200 chips are not permitted, sources say](https://economictimes.indiatimes.com/news/international/business/chinas-customs-agents-told-nvidias-h200-chips-are-not-permitted-sources-say/articleshow/126520383.cms) (Published: 2026-01-14)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-15 07:47:49**_
 - [Bitwise CIO Defends Bitcoin In 401(k)s Amid Sen. Warren’s New Warning](https://bitcoinist.com/bitwise-cio-defends-bitcoin-401ks-warrens-warning/) (Published: 2026-01-14)
 - [Keeping 20,000 GPUs healthy](https://modal.com/blog/gpu-health) (Published: 2026-01-14)
 - [videosdk-plugins-nvidia 0.0.59](https://pypi.org/project/videosdk-plugins-nvidia/0.0.59/) (Published: 2026-01-14)
-- [NVIDIA To Prioritize RTX 5060 at Expense of Rest of 50 Series](https://www.techpowerup.com/345167/nvidia-to-prioritize-rtx-5060-at-expense-of-rest-of-50-series) (Published: 2026-01-14)
