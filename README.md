@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-15 11:29:40**_
+_Last updated: **2026-01-15 11:45:43**_
 
+- [SK hynix shows 16-Hi HBM4 memory for AI accelerators — 48 GB at 10 GT/s over a 2,048 interface](https://www.tomshardware.com/tech-industry/sk-hynix-shows-16-hi-hbm4-memory-for-ai-accelerators-48-gb-at-10-gt-s-over-a-2-048-interface) (Published: 2026-01-14)
+- [The ‘Magnificent 7’ stocks are dying, and Wall Street is pretty happy about it](https://finance.yahoo.com/news/magnificent-7-stocks-dying-wall-113857386.html) (Published: 2026-01-14)
+- [20 years ago, the first MacBook Pro changed the world. Will history repeat itself?](https://www.macworld.com/article/3028720/macbook-pro-20th-anniversary.html) (Published: 2026-01-14)
 - [Silicon Wars: Nvidia GPUs vs Google TPUs](https://timesofindia.indiatimes.com/technology/tech-news/silicon-wars-nvidia-gpus-vs-google-tpus/articleshow/126525405.cms) (Published: 2026-01-14)
 - [I hate to agree with Nvidia about an AI thing, but come on, PC gamers — it's time to stop whining about 'fake frames' and take the free performance boosts](https://www.techradar.com/computing/gpu/i-hate-to-agree-with-nvidia-about-an-ai-thing-but-come-on-pc-gamers-its-time-to-stop-whining-about-fake-frames-and-take-the-free-performance-boosts) (Published: 2026-01-14)
 - [Xi welcomes stream of leaders shaken by Trump’s new world order](https://economictimes.indiatimes.com/news/international/world-news/xi-welcomes-stream-of-leaders-shaken-by-trumps-new-world-order/articleshow/126525060.cms) (Published: 2026-01-14)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-15 11:29:40**_
 - [US to review exports of Nvidia, AMD chips on case-by-case basis, Bloomberg says](https://thefly.com/permalinks/entry.php/id4270764/NVDA;AMD-US-to-review-exports-of-Nvidia-AMD-chips-on-casebycase-basis-Bloomberg-says) (Published: 2026-01-14)
 - [Indonesia Data Center Investment Analysis Report 2026: A $6.08 Billion Market by 2031 - Coverage of 88 Existing Facilities, 25 Upcoming Facilities, and 17 Cities](https://www.globenewswire.com/news-release/2026/01/14/3218457/28124/en/Indonesia-Data-Center-Investment-Analysis-Report-2026-A-6-08-Billion-Market-by-2031-Coverage-of-88-Existing-Facilities-25-Upcoming-Facilities-and-17-Cities.html) (Published: 2026-01-14)
 - [Thailand Data Center Market Investment Analysis Report 2026-2031: Bangkok Remains the Nation's Premier Hub with 31 Active and 8 Upcoming Data Centers](https://www.globenewswire.com/news-release/2026/01/14/3218456/28124/en/Thailand-Data-Center-Market-Investment-Analysis-Report-2026-2031-Bangkok-Remains-the-Nation-s-Premier-Hub-with-31-Active-and-8-Upcoming-Data-Centers.html) (Published: 2026-01-14)
-- [Goldman Sachs breaks down what the doomsayers get wrong about the US economy in 8 charts](https://www.businessinsider.com/goldman-sachs-bears-are-wrong-us-stocks-will-rise-2026-1) (Published: 2026-01-14)
-- [nvidia-nat-mem0ai 1.4.0rc2](https://pypi.org/project/nvidia-nat-mem0ai/1.4.0rc2/) (Published: 2026-01-14)
-- [nvidia-nat-ragaai 1.5.0a20260114](https://pypi.org/project/nvidia-nat-ragaai/1.5.0a20260114/) (Published: 2026-01-14)
