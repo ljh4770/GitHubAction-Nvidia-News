@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-16 07:48:43**_
+_Last updated: **2026-01-16 07:58:52**_
 
 - [CNBC Daily Open: Greenland and Iran tensions drive investors to gold and silver](https://www.cnbc.com/2026/01/15/cnbc-daily-open-greenland-and-iran-tensions-drive-investors-to-gold-and-silver.html) (Published: 2026-01-15)
 - [TSMC retains pricing power using Apple and AI dual structure](https://www.digitimes.com/news/a20260115PD237/tsmc-apple-nvidia-genai-revenue-cowos.html) (Published: 2026-01-15)
