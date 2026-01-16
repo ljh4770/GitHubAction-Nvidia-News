@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-16 23:37:49**_
+_Last updated: **2026-01-16 23:49:58**_
 
+- [20VC x SaaStr This Week: Anthropic at $350B, OpenAI’s Existential Risk, and Why a16z’s $15B Fund Actually Makes Mathematical Sense](https://www.saastr.com/20vc-x-saastr-this-week-anthropic-at-350b-openais-existential-risk-and-why-a16zs-15b-fund-actually-makes-mathematical-sense-the-top-insights-from-20vc-x-saastr/) (Published: 2026-01-15)
 - [China just 'months' behind U.S. AI models, Google DeepMind CEO says](https://www.cnbc.com/2026/01/16/google-deepmind-china-ai-demis-hassabis.html) (Published: 2026-01-15)
 - [Taiwan Semiconductor's record quarter renewed investors' faith in AI stocks, Jim Cramer says](https://www.cnbc.com/2026/01/15/jim-cramer-taiwan-semiconductors-ai-stocks.html) (Published: 2026-01-15)
 - [US and Taiwan sign $250B trade deal, cutting tariffs on Taiwanese goods](https://www.bostonherald.com/2026/01/15/taiwan-tsmc/) (Published: 2026-01-15)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-16 23:37:49**_
 - [I would put $10,000 of my savings into these ETFs](https://www.fool.com.au/2026/01/16/i-would-put-10000-of-my-savings-into-these-etfs/) (Published: 2026-01-15)
 - [US says reached deal with Taiwan to lower tariffs, boost investments](https://www.channelnewsasia.com/world/us-reached-deal-taiwan-lower-tariffs-boost-investments-5862636) (Published: 2026-01-15)
 - [Adams Diversified Equity Fund Announces 2025 Performance](https://www.globenewswire.com/news-release/2026/01/15/3220053/0/en/Adams-Diversified-Equity-Fund-Announces-2025-Performance.html) (Published: 2026-01-15)
-- [Stock market today: Live updates](https://www.cnbc.com/2026/01/15/stock-market-today-live-updates.html) (Published: 2026-01-15)
