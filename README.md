@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-16 13:26:32**_
+_Last updated: **2026-01-16 13:55:26**_
 
 - [Asus is killing off the RTX 5070 Ti according to fresh report... the first casualty of the memory crisis in the GPU world?](https://www.pcgamer.com/hardware/graphics-cards/asus-is-killing-off-the-rtx-5070-ti-according-to-fresh-report-the-first-casualty-of-the-memory-crisis-in-the-gpu-world/) (Published: 2026-01-15)
 - [Taiwan computer chipmaker TSMC's to expand investment as profit jumps 35%](https://economictimes.indiatimes.com/tech/technology/taiwan-computer-chipmaker-tsmcs-to-expand-investment-as-profit-jumps-35/articleshow/126546979.cms) (Published: 2026-01-15)
