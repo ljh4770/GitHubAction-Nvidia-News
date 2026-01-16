@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-16 06:39:20**_
+_Last updated: **2026-01-16 07:01:20**_
 
+- [Asian shares mostly fall and oil drops $2 after Trump says Iran stopped killings](https://apnews.com/article/stock-markets-tech-trump-iran-10049feb11f3a6bf7b2a79f1ad997edc) (Published: 2026-01-15)
 - [Gesture Recognition Market to Hit USD 200.99 Billion by 2033, Owing to Rising Touchless Interfaces and AI-Enabled Human–Machine Interaction | Report by SNS Insider](https://www.globenewswire.com/news-release/2026/01/15/3219237/0/en/Gesture-Recognition-Market-to-Hit-USD-200-99-Billion-by-2033-Owing-to-Rising-Touchless-Interfaces-and-AI-Enabled-Human-Machine-Interaction-Report-by-SNS-Insider.html) (Published: 2026-01-15)
 - [TSMC fourth-quarter profit beats estimates, soaring 35%, as AI chip demand stays strong](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html) (Published: 2026-01-15)
 - [TSMC fourth-quarter profit leaps to record driven by AI boom](https://economictimes.indiatimes.com/tech/technology/tsmc-fourth-quarter-profit-leaps-to-record-driven-by-ai-boom/articleshow/126539247.cms) (Published: 2026-01-15)
@@ -9,4 +10,3 @@ _Last updated: **2026-01-16 06:39:20**_
 - [Handy – free open source speech-to-text app](https://github.com/cjpais/Handy) (Published: 2026-01-15)
 - [What Is NVIDIA Blackwell Architecture and Why Is It Important?](https://www.c-sharpcorner.com/article/what-is-nvidia-blackwell-architecture-and-why-is-it-important/) (Published: 2026-01-15)
 - [Asian shares are mostly lower and oil sinks $2 after Trump says Iran stopped killings](https://abcnews.go.com/Business/wireStory/asian-shares-lower-oil-sinks-2-after-trump-129229811) (Published: 2026-01-15)
-- [US Stocks| ETFs first, stock picks later: how Indians should invest in US markets](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-etfs-first-stock-picks-later-how-indians-should-invest-in-us-markets/articleshow/126521498.cms) (Published: 2026-01-15)
