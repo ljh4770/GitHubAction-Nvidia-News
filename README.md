@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-16 17:25:44**_
+_Last updated: **2026-01-16 17:48:01**_
 
+- [NVIDIA Reportedly Cuts AIC Partner GPU Supply by up to 20%](https://www.techpowerup.com/345244/nvidia-reportedly-cuts-aic-partner-gpu-supply-by-up-to-20) (Published: 2026-01-15)
+- [Nvidia reportedly ends RTX 5070 Ti and 5060 Ti 16GB production as GPU prices surge](https://cryptobriefing.com/nvidia-halts-rtx-5070ti-production/) (Published: 2026-01-15)
+- [Apple forced to ‘fight’ for chip capacity, pay higher TSMC prices: report](https://9to5mac.com/2026/01/15/apple-forced-to-fight-for-chip-capacity-pay-higher-tsmc-prices-report/) (Published: 2026-01-15)
+- [Gamers face another crushing blow as Nvidia allegedly slashes GPU supply by 20%, leaker claims — no new GeForce gaming GPU until 2027](https://www.tomshardware.com/pc-components/gpus/gamers-face-another-crushing-blow-as-nvidia-allegedly-slashes-gpu-supply-by-20-percent-leaker-claims-no-new-geforce-gaming-gpu-until-2027) (Published: 2026-01-15)
+- [Apple makes high-stakes Siri change as Services growth takes center stage](https://www.thestreet.com/investing/apple-makes-high-stakes-siri-change-as-services-growth-takes-center-stage) (Published: 2026-01-15)
+- [Is Nvidia Replacing Apple as TSMC’s Most Important Customer?](https://www.iphoneincanada.ca/2026/01/15/is-nvidia-replacing-apple-as-tsmcs-most-important-customer/) (Published: 2026-01-15)
 - [Efficient Lab Private Photo Move 1.1.0.6](https://post.rlsbb.to/efficient-lab-private-photo-move-1-1-0-6/) (Published: 2026-01-15)
 - [Rumor claims Nvidia has 'essentially killed off' the RTX 5070 Ti and 5060 Ti 16GB – possibly leaving AMD free to dominate mid-range GPUs](https://www.techradar.com/computing/gpu/rumor-claims-nvidia-has-essentially-killed-off-the-rtx-5070-ti-and-5060-ti-16gb-possibly-leaving-amd-free-to-dominate-mid-range-gpus) (Published: 2026-01-15)
 - ['TSMC 'very nervous' about AI bubble concerns despite another record-setting quarter, but assured of demand — CEO says careless investment 'would be a disaster for TSMC for sure,' company will invest $52-$56 billion in capex](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-very-nervous-about-ai-bubble-concerns-despite-another-record-setting-quarter-but-assured-of-demand-ceo-says-careless-investment-would-be-a-disaster-for-tsmc-for-sure-company-will-invest-usd52-usd56-billion-in-capex) (Published: 2026-01-15)
 - [Asus reportedly cancels the RTX 5070 Ti, as Nvidia scales back on 16GB cards](https://www.pcworld.com/article/3034021/asus-reportedly-cancels-the-rtx-5070-ti-as-nvidia-scales-back-on-16gb-cards.html) (Published: 2026-01-15)
-- [Why Elon Musk’s Tesla is betting on FSD subscriptions to protect its $1.5 trillion valuation?](https://www.livemint.com/companies/news/why-elon-musk-s-tesla-is-betting-on-fsd-subscriptions-to-protect-its-1-5-trillion-valuation-11768486511976.html) (Published: 2026-01-15)
-- [Burn 0.20 Released: Rust-Based Deep Learning With Speedy Perf Across CPUs & GPUs](https://www.phoronix.com/news/Burn-0.20-Released) (Published: 2026-01-15)
-- [Robocar Startup Tensor Is Said to Seek New Funds Before US IPO](https://financialpost.com/pmn/business-pmn/robocar-startup-tensor-is-said-to-seek-new-funds-before-us-ipo) (Published: 2026-01-15)
-- [The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China | TechCrunch](https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/) (Published: 2026-01-15)
-- [Trump introduces 25% tariff on export of chips, including Nvidia H200, AMD MI325X — figure could increase in the future](https://www.tomshardware.com/tech-industry/semiconductors/trump-introduces-25-percent-tariff-on-export-of-chips-including-nvidia-h200-amd-mi325x-figure-could-increase-in-the-future) (Published: 2026-01-15)
-- [Ahead of Market: 10 things that will decide stock market action on Friday](https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/126549884.cms) (Published: 2026-01-15)
