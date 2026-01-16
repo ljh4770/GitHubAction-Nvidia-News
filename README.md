@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-16 04:03:38**_
+_Last updated: **2026-01-16 04:48:52**_
 
 - [US Stocks| ETFs first, stock picks later: how Indians should invest in US markets](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-etfs-first-stock-picks-later-how-indians-should-invest-in-us-markets/articleshow/126521498.cms) (Published: 2026-01-15)
 - [China drafting purchase rules for Nvidia H200 chips, Nikkei Asia reports](https://finance.yahoo.com/news/china-drafting-purchase-rules-nvidia-032124261.html) (Published: 2026-01-15)
@@ -10,4 +10,3 @@ _Last updated: **2026-01-16 04:03:38**_
 - [An emerging markets supercycle has just begun: Shuli Ren](https://economictimes.indiatimes.com/markets/stocks/news/an-emerging-markets-supercycle-has-just-begun-shuli-ren/articleshow/126537289.cms) (Published: 2026-01-15)
 - [CNBC Daily Open: Gold and silver pop over geopolitical turmoil, including U.S.-Denmark rift over Greenland](https://www.cnbc.com/2026/01/15/gold-and-silver-surge-as-geopolitics-heat-up-from-greenland-to-iran.html) (Published: 2026-01-15)
 - [China's Z.ai claims it trained a model using only Huawei hardware](https://www.theregister.com/2026/01/15/zhipu_glm_image_huawei_hardware/) (Published: 2026-01-15)
-- [Mira Murati's startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI | TechCrunch](https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/) (Published: 2026-01-15)
