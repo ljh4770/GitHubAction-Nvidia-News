@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-16 19:39:21**_
+_Last updated: **2026-01-16 19:49:59**_
 
 - [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html) (Published: 2026-01-15)
 - [Taiwan will invest $250 billion in U.S. chipmaking under new trade deal](https://www.cnbc.com/2026/01/15/us-taiwan-chips-deal-china.html) (Published: 2026-01-15)
