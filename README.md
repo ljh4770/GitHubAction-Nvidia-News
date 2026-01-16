@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-16 17:48:01**_
+_Last updated: **2026-01-16 17:58:09**_
 
+- [The RAM Shortage Is Killing Nvidia’s Cheapest GPU for 4K Gaming](https://gizmodo.com/the-ram-shortage-is-killing-nvidias-cheapest-gpu-for-4k-gaming-2000710662) (Published: 2026-01-15)
+- [Acer Nitro V15 (2025) review](https://www.pcgamer.com/hardware/gaming-laptops/acer-nitro-v15-2025-review/) (Published: 2026-01-15)
+- [4 semiconductor stocks giving the AI boom 'more legs'](https://finance.yahoo.com/news/4-semiconductor-stocks-giving-the-ai-boom-more-legs-175135867.html) (Published: 2026-01-15)
+- [brokkr-diagnostics 0.3.3](https://pypi.org/project/brokkr-diagnostics/0.3.3/) (Published: 2026-01-15)
+- [(PR) NVIDIA GeForce NOW Gets Star Wars Outlaws, Quarantine Zone: The Last Check, Styx Series, and More](https://www.techpowerup.com/345245/nvidia-geforce-now-gets-star-wars-outlaws-quarantine-zone-the-last-check-styx-series-and-more) (Published: 2026-01-15)
+- [Topaz Video 1.1.2 RC](https://post.rlsbb.to/topaz-video-1-1-2-rc/) (Published: 2026-01-15)
+- [The best gaming laptop 2026 - Omen leads the pack at the start of the year](https://www.gamesradar.com/hardware/laptops/the-best-gaming-laptops-tested-by-experts/) (Published: 2026-01-15)
 - [NVIDIA Reportedly Cuts AIC Partner GPU Supply by up to 20%](https://www.techpowerup.com/345244/nvidia-reportedly-cuts-aic-partner-gpu-supply-by-up-to-20) (Published: 2026-01-15)
 - [Nvidia reportedly ends RTX 5070 Ti and 5060 Ti 16GB production as GPU prices surge](https://cryptobriefing.com/nvidia-halts-rtx-5070ti-production/) (Published: 2026-01-15)
-- [Apple forced to ‘fight’ for chip capacity, pay higher TSMC prices: report](https://9to5mac.com/2026/01/15/apple-forced-to-fight-for-chip-capacity-pay-higher-tsmc-prices-report/) (Published: 2026-01-15)
-- [Gamers face another crushing blow as Nvidia allegedly slashes GPU supply by 20%, leaker claims — no new GeForce gaming GPU until 2027](https://www.tomshardware.com/pc-components/gpus/gamers-face-another-crushing-blow-as-nvidia-allegedly-slashes-gpu-supply-by-20-percent-leaker-claims-no-new-geforce-gaming-gpu-until-2027) (Published: 2026-01-15)
-- [Apple makes high-stakes Siri change as Services growth takes center stage](https://www.thestreet.com/investing/apple-makes-high-stakes-siri-change-as-services-growth-takes-center-stage) (Published: 2026-01-15)
-- [Is Nvidia Replacing Apple as TSMC’s Most Important Customer?](https://www.iphoneincanada.ca/2026/01/15/is-nvidia-replacing-apple-as-tsmcs-most-important-customer/) (Published: 2026-01-15)
-- [Efficient Lab Private Photo Move 1.1.0.6](https://post.rlsbb.to/efficient-lab-private-photo-move-1-1-0-6/) (Published: 2026-01-15)
-- [Rumor claims Nvidia has 'essentially killed off' the RTX 5070 Ti and 5060 Ti 16GB – possibly leaving AMD free to dominate mid-range GPUs](https://www.techradar.com/computing/gpu/rumor-claims-nvidia-has-essentially-killed-off-the-rtx-5070-ti-and-5060-ti-16gb-possibly-leaving-amd-free-to-dominate-mid-range-gpus) (Published: 2026-01-15)
-- ['TSMC 'very nervous' about AI bubble concerns despite another record-setting quarter, but assured of demand — CEO says careless investment 'would be a disaster for TSMC for sure,' company will invest $52-$56 billion in capex](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-very-nervous-about-ai-bubble-concerns-despite-another-record-setting-quarter-but-assured-of-demand-ceo-says-careless-investment-would-be-a-disaster-for-tsmc-for-sure-company-will-invest-usd52-usd56-billion-in-capex) (Published: 2026-01-15)
-- [Asus reportedly cancels the RTX 5070 Ti, as Nvidia scales back on 16GB cards](https://www.pcworld.com/article/3034021/asus-reportedly-cancels-the-rtx-5070-ti-as-nvidia-scales-back-on-16gb-cards.html) (Published: 2026-01-15)
