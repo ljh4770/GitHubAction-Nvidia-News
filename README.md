@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-16 20:00:30**_
+_Last updated: **2026-01-16 20:30:37**_
 
+- [BlackRock Says AI Partnership Raises $12.5 Billion Toward $30 Billion Goal](https://www.pymnts.com/news/artificial-intelligence/2026/blackrock-says-ai-partnership-raises-12-billion-dollars-toward-goal/) (Published: 2026-01-15)
+- [Thunderobot STATION is a cube-shaped PC with Ryzen AI Max+ 395 inside](https://liliputing.com/thunderobot-station-is-a-cube-shaped-pc-with-ryzen-ai-max-395-inside/) (Published: 2026-01-15)
 - [After Micron's 200%+ Surge, This AI Chip Stock Could Be Next](https://finance.yahoo.com/news/microns-200-surge-ai-chip-200000306.html) (Published: 2026-01-15)
 - [TSMC CEO Remains Confident as Intel Pushes Forward in Chip Manufacturing](https://www.androidheadlines.com/2026/01/tsmc-ceo-remains-confident-as-intel-pushes-forward-in-chip-manufacturing.html) (Published: 2026-01-15)
 - [AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks](https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html) (Published: 2026-01-15)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-16 20:00:30**_
 - [Asus Prime GeForce RTX 5070 Graphics Card Drops Below MSRP Today, But It Won't Last](https://www.ign.com/articles/asus-prime-geforce-rtx-5070-graphics-card-gpu-deal) (Published: 2026-01-15)
 - [OpenAI to serve up ChatGPT on Cerebras’ AI dinner plates in $10B+ deal](https://www.theregister.com/2026/01/15/openai_cerebras_ai/) (Published: 2026-01-15)
 - [Asus confirms RTX 5070 Ti is now discontinued as Nvidia effectively kills Blackwell 16 GB midrange, RTX 5060 Ti 16 GB next on the chopping block](https://www.notebookcheck.net/Asus-confirms-RTX-5070-Ti-is-now-discontinued-as-Nvidia-effectively-kills-Blackwell-16-GB-midrange-RTX-5060-Ti-16-GB-next-on-the-chopping-block.1204994.0.html) (Published: 2026-01-15)
-- [Worried about AI taking your job? New Anthropic research shows it’s not that simple](https://fortune.com/2026/01/15/worried-about-ai-taking-your-job-new-anthropic-research-shows-its-not-that-simple/) (Published: 2026-01-15)
-- [isagellm 0.1.0.2](https://pypi.org/project/isagellm/0.1.0.2/) (Published: 2026-01-15)
