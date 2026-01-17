@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 20:57:01**_
+_Last updated: **2026-01-17 21:22:35**_
 
 - [US FTC to scrutinize Big Tech's talent acquisition deals, Bloomberg News reports](https://www.channelnewsasia.com/business/us-ftc-scrutinize-big-techs-talent-acquisition-deals-bloomberg-news-reports-5864951) (Published: 2026-01-16)
 - [Silver gains over $3.9 trillion in market cap in 12 months, eclipsing stocks, crypto, and gold](https://cryptobriefing.com/silver-market-growth-outpaces-bitcoin/) (Published: 2026-01-16)
