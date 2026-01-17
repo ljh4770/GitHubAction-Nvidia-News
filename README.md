@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 21:57:10**_
+_Last updated: **2026-01-17 22:25:27**_
 
+- [Arknights: Endfield Surpasses 35 Million Pre-Registrations; New Trailers Unveiled Ahead of Jan. 22 Global Launch](https://www.animenewsnetwork.com/press-release/2026-01-16/arknights-endfield-surpasses-35-million-pre-registrations-new-trailers-unveiled-ahead-of-jan-22-/.233165) (Published: 2026-01-16)
 - [Nvidia says RTX 50 Series GPU shipments continue, while reportedly taking losses during memory shortage](https://www.notebookcheck.net/Nvidia-says-RTX-50-Series-GPU-shipments-continue-while-reportedly-taking-losses-during-memory-shortage.1206098.0.html) (Published: 2026-01-16)
 - [TSMC Tells Apple to Get in Line for Its Advanced Chips](https://www.mactrast.com/2026/01/tsmc-tells-apple-to-get-in-line-for-its-advanced-chips/) (Published: 2026-01-16)
 - [The Legend Of Zelda Movie Will Stream Exclusively On Netflix Once It Leaves Theaters](https://kotaku.com/zelda-movie-netflix-streaming-trailer-release-date-2000660665) (Published: 2026-01-16)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-17 21:57:10**_
 - [Silver gains over $3.9 trillion in market cap in 12 months, eclipsing stocks, crypto, and gold](https://cryptobriefing.com/silver-market-growth-outpaces-bitcoin/) (Published: 2026-01-16)
 - [nvidia-libmathdx-cu12 0.3.1.9](https://pypi.org/project/nvidia-libmathdx-cu12/0.3.1.9/) (Published: 2026-01-16)
 - [nvidia-libmathdx-cu13 0.3.1.9](https://pypi.org/project/nvidia-libmathdx-cu13/0.3.1.9/) (Published: 2026-01-16)
-- [From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development](https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/) (Published: 2026-01-16)
