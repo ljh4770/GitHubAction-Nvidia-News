@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 20:31:00**_
+_Last updated: **2026-01-17 20:46:36**_
 
 - [Silver gains over $3.9 trillion in market cap in 12 months, eclipsing stocks, crypto, and gold](https://cryptobriefing.com/silver-market-growth-outpaces-bitcoin/) (Published: 2026-01-16)
 - [nvidia-libmathdx-cu12 0.3.1.9](https://pypi.org/project/nvidia-libmathdx-cu12/0.3.1.9/) (Published: 2026-01-16)
