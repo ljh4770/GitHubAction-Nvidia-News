@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 21:36:40**_
+_Last updated: **2026-01-17 21:46:58**_
 
 - [The Legend Of Zelda Movie Will Stream Exclusively On Netflix Once It Leaves Theaters](https://kotaku.com/zelda-movie-netflix-streaming-trailer-release-date-2000660665) (Published: 2026-01-16)
 - [(PR) GIGABYTE & NVIDIA Strengthen Partnership - Driving Innovation in AI-Powered Gaming](https://www.techpowerup.com/345300/gigabyte-nvidia-strengthen-partnership-driving-innovation-in-ai-powered-gaming) (Published: 2026-01-16)
