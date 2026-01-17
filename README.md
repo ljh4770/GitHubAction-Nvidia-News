@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 13:52:43**_
+_Last updated: **2026-01-17 14:13:22**_
 
+- [Stock Market Today: Dow Futures Gain; Wavers Near Record-Highs — Live Updates - The Wall Street Journal](https://slashdot.org/firehose.pl?op=view&amp;id=180599472) (Published: 2026-01-16)
+- [Major Apple supplier TSMC boosts U.S. footprint with Arizona land purchase, driving total $165 billion investment](https://macdailynews.com/2026/01/16/major-apple-supplier-tsmc-boosts-u-s-footprint-with-arizona-land-purchase-driving-total-165-billion-investment/) (Published: 2026-01-16)
+- [Acer Nitro V 16S AI: 16" QHD+ 180Hz IPS, Ryzen 7 260, RTX 5070, 16GB DDR5, 1TB SSD $999.99](https://slickdeals.net/f/19106560-acer-nitro-v-16s-ai-16-qhd-180hz-ips-ryzen-7-260-rtx-5070-16gb-ddr5-1tb-ssd-999-99) (Published: 2026-01-16)
+- [AI lifts Alphabet to $4T valuation, but competition remains fierce](https://siliconangle.com/2026/01/16/ai-lifts-alphabet-4t-valuation-competition-remains-fierce/) (Published: 2026-01-16)
+- [Cisco Announces its Second Annual AI Summit Featuring the Builders of the AI Economy](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/cisco-announces-its-second-annual-ai-summit-featuring-the-builders-of-the-ai-economy.html) (Published: 2026-01-16)
+- [Towards practical AI for agriculture: A self-supervised attention framework for Spinach leaf disease detection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340989) (Published: 2026-01-16)
+- [Five Takeaways From The 2026 J.P. Morgan Healthcare Conference](https://www.forbes.com/sites/juergeneckhardt/2026/01/16/five-takeaways-from-the-2026-jp-morgan-healthcare-conference/) (Published: 2026-01-16)
 - [Arknights: Endfield tops 35 million pre-registrations; new trailers](https://www.gematsu.com/2026/01/arknights-endfield-tops-35-million-pre-registrations-new-trailers) (Published: 2026-01-16)
 - [Fusion Vision Computing Chip Market Size to Surpass USD 1616.73 Million by 2033 | Research by SNS Insider](https://www.globenewswire.com/news-release/2026/01/16/3220323/0/en/Fusion-Vision-Computing-Chip-Market-Size-to-Surpass-USD-1616-73-Million-by-2033-Research-by-SNS-Insider.html) (Published: 2026-01-16)
 - [AMD Asserts Its Strategy Is To Keep GPU Prices As Low As Possible Amid The Ongoing DRAM Shortage](https://wccftech.com/amd-asserts-its-strategy-is-to-keep-gpu-prices-as-low-as-possible-amid-the-ongoing-dram-shortage/) (Published: 2026-01-16)
-- [Nearly 3,000 global leaders from 130 countries expected at WEF 2026 beginning January 19 at Davos](https://economictimes.indiatimes.com/news/international/world-news/nearly-3000-global-leaders-from-130-countries-expected-at-wef-2026-beginning-january-19-at-davos/articleshow/126569539.cms) (Published: 2026-01-16)
-- [Inside NVIDIA Rubin : Six-Chip AI System Built to Cut Power and Spend](https://www.geeky-gadgets.com/nvidia-rubin-ai-inference/) (Published: 2026-01-16)
-- [Apple is no longer the apple of TSMC's eye, with Nvidia taking centre stage in the supply of wafers, according to one report](https://www.pcgamer.com/hardware/apple-is-no-longer-the-apple-of-tsmcs-eye-with-nvidia-taking-centre-stage-in-the-supply-of-wafers-according-to-one-report/) (Published: 2026-01-16)
-- [AI chip trade, Saks' bankruptcy woes, Trump's health-care plan and more in Morning Squawk](https://www.cnbc.com/2026/01/16/5-things-to-know-before-the-stock-market-opens.html) (Published: 2026-01-16)
-- [Meritech’s Look at 2025 Exits: M&A at $587B Hits a Decade+ High … But IPOs Were a Whimper](https://www.saastr.com/meritechs-look-at-2025-exits-ma-at-587b-hits-a-decade-high-but-ipos-were-a-whimper/) (Published: 2026-01-16)
-- [MAGA Lawmaker Accused of Insider Trading Musk's xAI Shares Days Before US DoD, Pentagon Expansion](https://www.ibtimes.com/maga-lawmaker-accused-insider-trading-musks-xai-shares-days-before-us-dod-pentagon-expansion-3795506) (Published: 2026-01-16)
-- [War Atlas, Numismatic History of Paraguay, Global Conversations in Librarianship, More: Friday ResearchBuzz, January 16, 2026](https://researchbuzz.me/2026/01/16/war-atlas-numismatic-history-of-paraguay-global-conversations-in-librarianship-more-friday-researchbuzz-january-16-2026/) (Published: 2026-01-16)
