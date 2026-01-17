@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 09:36:08**_
+_Last updated: **2026-01-17 09:47:45**_
 
 - [U.S. Stock Market futures are up in Friday morning pre-market. Check factors that will drive S&P 500, Dow Jones, Nasdaq today](https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-futures-are-up-in-friday-morning-pre-market-check-factors-that-will-drive-sp-500-dow-jones-nasdaq-today/articleshow/126562767.cms) (Published: 2026-01-16)
 - [Asus says it’s dropping the RTX 5070 Ti as the memory shortage squeezes supply - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=180597552) (Published: 2026-01-16)
