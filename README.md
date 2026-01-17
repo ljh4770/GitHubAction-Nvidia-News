@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 13:41:49**_
+_Last updated: **2026-01-17 13:52:43**_
 
 - [Arknights: Endfield tops 35 million pre-registrations; new trailers](https://www.gematsu.com/2026/01/arknights-endfield-tops-35-million-pre-registrations-new-trailers) (Published: 2026-01-16)
 - [Fusion Vision Computing Chip Market Size to Surpass USD 1616.73 Million by 2033 | Research by SNS Insider](https://www.globenewswire.com/news-release/2026/01/16/3220323/0/en/Fusion-Vision-Computing-Chip-Market-Size-to-Surpass-USD-1616-73-Million-by-2033-Research-by-SNS-Insider.html) (Published: 2026-01-16)
