@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 11:54:14**_
+_Last updated: **2026-01-17 12:35:50**_
 
+- [The Morning After: ASUS stops making some NVIDIA GPUs due to memory supply crunch](https://slashdot.org/firehose.pl?op=view&amp;id=180598226) (Published: 2026-01-16)
+- [Watch February Earnings From NVIDIA and Microsoft to Predict Where This Mag7 ETF Goes Next](https://biztoc.com/x/a62963ee5b51ba55) (Published: 2026-01-16)
+- [Data Center Chips: Global Market Trends and Growth Forecast 2026-2032 | Workload Diversification Rises, Making Specialized Silicon for AI, Analytics, and Real-Time Processing Central to Infrastructure Planning](https://www.globenewswire.com/news-release/2026/01/16/3220262/28124/en/Data-Center-Chips-Global-Market-Trends-and-Growth-Forecast-2026-2032-Workload-Diversification-Rises-Making-Specialized-Silicon-for-AI-Analytics-and-Real-Time-Processing-Central-to-.html) (Published: 2026-01-16)
+- [The Global Data Center Liquid Cooling Equipment Market 2026-2032 - Rising Computational Density and New Workloads Demand Innovative Cooling Technologies, Driving a Shift from Air to Liquid Systems](https://www.globenewswire.com/news-release/2026/01/16/3220255/28124/en/The-Global-Data-Center-Liquid-Cooling-Equipment-Market-2026-2032-Rising-Computational-Density-and-New-Workloads-Demand-Innovative-Cooling-Technologies-Driving-a-Shift-from-Air-to-L.html) (Published: 2026-01-16)
+- [NVIDIA’s Strategy Amid GPU Memory Shortages Is to Prioritize “Profit/GB”, Turning 8GB GPUs Into Hot Picks Over Higher-VRAM Models](https://wccftech.com/nvidias-strategy-amid-gpu-memory-shortages-is-to-prioritize-profit-gb/) (Published: 2026-01-16)
+- [Asus now claims it’s not dropping the RTX 5070 Ti amid memory shortages](https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages) (Published: 2026-01-16)
+- [Show HN: Native PyAnnote (speaker diarizer) in Rust](https://github.com/RustedBytes/pyannote-rs) (Published: 2026-01-16)
 - [AI Speech Recognition Chip Market Size to Hit USD 10.19 Billion by 2033 | Research by SNS Insider](https://www.globenewswire.com/news-release/2026/01/16/3220206/0/en/AI-Speech-Recognition-Chip-Market-Size-to-Hit-USD-10-19-Billion-by-2033-Research-by-SNS-Insider.html) (Published: 2026-01-16)
 - [The ASUS Prime GeForce RTX 5070 Packs Sufficient GPU Horsepower While Being Compact, But Amazon Prime Members Should Hurry Before It Exceeds Its $549.99 MSRP](https://wccftech.com/asus-prime-rtx-5070-available-for-549-99-for-amazon-prime-members/) (Published: 2026-01-16)
-- [Memory Shortage Threatens Nvidia's China AI Chip Ambitions](https://biztoc.com/x/b0b1e92d6825ada2) (Published: 2026-01-16)
-- [The Fight Over the Fed](https://www.project-syndicate.org/onpoint/the-fight-over-the-fed) (Published: 2026-01-16)
-- [nvidia-nat-profiling 1.5.0a20260116](https://pypi.org/project/nvidia-nat-profiling/1.5.0a20260116/) (Published: 2026-01-16)
-- [nvidia-nat-opentelemetry 1.5.0a20260116](https://pypi.org/project/nvidia-nat-opentelemetry/1.5.0a20260116/) (Published: 2026-01-16)
-- [nvidia-nat-nemo-customizer 1.5.0a20260116](https://pypi.org/project/nvidia-nat-nemo-customizer/1.5.0a20260116/) (Published: 2026-01-16)
-- [nvidia-nat-mem0ai 1.5.0a20260116](https://pypi.org/project/nvidia-nat-mem0ai/1.5.0a20260116/) (Published: 2026-01-16)
-- [nvidia-nat-mysql 1.5.0a20260116](https://pypi.org/project/nvidia-nat-mysql/1.5.0a20260116/) (Published: 2026-01-16)
-- [nvidia-nat-data-flywheel 1.5.0a20260116](https://pypi.org/project/nvidia-nat-data-flywheel/1.5.0a20260116/) (Published: 2026-01-16)
