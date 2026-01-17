@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 19:10:37**_
+_Last updated: **2026-01-17 19:26:48**_
 
+- [The two things AMD subtly revealed at CES that actually excite me](https://www.theverge.com/tech/862861/amd-ces-2026-socketed-laptop-chips-strix-halo-price) (Published: 2026-01-16)
 - [ED searches 26 locations; 12 in Goa in drug money case](https://timesofindia.indiatimes.com/city/goa/ed-searches-26-locations-12-in-goa-in-drug-money-case/articleshow/126590348.cms) (Published: 2026-01-16)
 - [Omar Abdullah urges tour operators, filmmakers to promote J&K as safe, vibrant tourism destination](https://timesofindia.indiatimes.com/india/omar-abdullah-urges-tour-operators-filmmakers-to-promote-jk-as-safe-vibrant-tourism-destination/articleshow/126590332.cms) (Published: 2026-01-16)
 - [‘In Kurar, BJP lost as Marathi voters backed NCP (SP) man’](https://timesofindia.indiatimes.com/city/mumbai/in-kurar-bjp-lost-as-marathi-voters-backed-ncp-sp-man/articleshow/126587740.cms) (Published: 2026-01-16)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-17 19:10:37**_
 - [CAG uncovers ₹3.1cr excess payment in Sal desilting](https://timesofindia.indiatimes.com/city/goa/cag-uncovers-3-1cr-excess-payment-in-sal-desilting/articleshow/126336193.cms) (Published: 2026-01-16)
 - [CAG estimates about 35,000 tonnes of e-waste lost to shadow scrap dealers](https://timesofindia.indiatimes.com/city/goa/cag-estimates-about-35000-tonnes-of-e-waste-lost-to-shadow-scrap-dealers/articleshow/126589889.cms) (Published: 2026-01-16)
 - [Sam Altman Is Tearing Apart His Former Colleague’s Startup](https://gizmodo.com/sam-altman-is-tearing-apart-his-former-colleagues-startup-2000711135) (Published: 2026-01-16)
-- [nsys2prv 0.6.0.dev2601161](https://pypi.org/project/nsys2prv/0.6.0.dev2601161/) (Published: 2026-01-16)
