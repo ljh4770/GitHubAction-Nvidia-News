@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 04:47:38**_
+_Last updated: **2026-01-17 05:00:56**_
 
 - [US, Taiwan sign $250 billion trade deal, cutting tariffs on Taiwanese goods](https://www.thehindubusinessline.com/news/world/us-taiwan-sign-250-billion-trade-deal-cutting-tariffs-on-taiwanese-goods/article70513293.ece) (Published: 2026-01-16)
 - [Everything We Learned From The ‘Resident Evil’ Showcase](https://hiphopwired.com/3002254/everything-we-learned-from-resident-evil-showcase-resident-evil-requiem/) (Published: 2026-01-16)
