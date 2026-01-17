@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 05:47:10**_
+_Last updated: **2026-01-17 05:57:26**_
 
 - [NZ sharemarket up 1.3% for the year - Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-up-13-for-the-year-market-close/premium/SUK3P6VEWFBRFIOQAMKAE7KSOU/) (Published: 2026-01-16)
 - [US, Taiwan sign $250 billion trade deal, cutting tariffs on Taiwanese goods](https://www.thehindubusinessline.com/news/world/us-taiwan-sign-250-billion-trade-deal-cutting-tariffs-on-taiwanese-goods/article70513293.ece) (Published: 2026-01-16)
