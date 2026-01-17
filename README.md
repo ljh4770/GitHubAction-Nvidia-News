@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 09:58:13**_
+_Last updated: **2026-01-17 10:29:08**_
 
+- [Asus denies RTX 5070 Ti and RTX 5060 Ti discontinuation after conflicting end-of-life claims — says it has no plans to stop selling these models, but confirms memory supply has impacted production and restocking](https://www.tomshardware.com/pc-components/gpus/asus-denies-rtx-5070-ti-and-rtx-5060-ti-discontinuation-after-conflicting-end-of-life-claims-says-it-has-no-plans-to-stop-selling-these-models-but-confirms-memory-supply-has-impacted-production-and-restocking) (Published: 2026-01-16)
+- ['Task' versus 'purpose': Nvidia CEO Jensen Huang explains why AI won't kill jobs](https://biztoc.com/x/edf9f584940181f8) (Published: 2026-01-16)
+- ['Task' versus 'purpose': Nvidia CEO Jensen Huang explains why AI won't kill jobs.](https://www.businessinsider.com/task-versus-purpose-nvidia-jensen-huang-ai-wont-kill-jobs-2026-1) (Published: 2026-01-16)
 - [nvfuser-cu126 0.2.35.dev20260116](https://pypi.org/project/nvfuser-cu126/0.2.35.dev20260116/) (Published: 2026-01-16)
 - [nvfuser-cu128 0.2.35.dev20260116](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260116/) (Published: 2026-01-16)
 - [nvfuser-cu130 0.2.35.dev20260116](https://pypi.org/project/nvfuser-cu130/0.2.35.dev20260116/) (Published: 2026-01-16)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-17 09:58:13**_
 - [Asus says it’s dropping the RTX 5070 Ti as the memory shortage squeezes supply - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=180597552) (Published: 2026-01-16)
 - [The AI Takeover of All Media Is Coming](https://www.project-syndicate.org/onpoint/ai-takeover-of-media-will-be-sweeping-and-profound-by-charles-ferguson-2026-01) (Published: 2026-01-16)
 - [Apple taps Google Gemini to power Siri, pushing private cloud and Taiwan's AI supply chain](https://www.digitimes.com/news/a20260116PD236/apple-google-gemini-siri-supply-chain.html) (Published: 2026-01-16)
-- [Show HN: GitHub – Burn – Rust tensor library and deep learning framework](https://github.com/tracel-ai/burn) (Published: 2026-01-16)
-- [Daily Tech News 16 January 2026](https://acecomments.mu.nu/?post=418134) (Published: 2026-01-16)
-- [FluentVox text to speech and voice cloning in your PHP](https://github.com/b7s/fluentvox) (Published: 2026-01-16)
