@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 21:46:58**_
+_Last updated: **2026-01-17 21:57:10**_
 
+- [Nvidia says RTX 50 Series GPU shipments continue, while reportedly taking losses during memory shortage](https://www.notebookcheck.net/Nvidia-says-RTX-50-Series-GPU-shipments-continue-while-reportedly-taking-losses-during-memory-shortage.1206098.0.html) (Published: 2026-01-16)
+- [TSMC Tells Apple to Get in Line for Its Advanced Chips](https://www.mactrast.com/2026/01/tsmc-tells-apple-to-get-in-line-for-its-advanced-chips/) (Published: 2026-01-16)
 - [The Legend Of Zelda Movie Will Stream Exclusively On Netflix Once It Leaves Theaters](https://kotaku.com/zelda-movie-netflix-streaming-trailer-release-date-2000660665) (Published: 2026-01-16)
 - [(PR) GIGABYTE & NVIDIA Strengthen Partnership - Driving Innovation in AI-Powered Gaming](https://www.techpowerup.com/345300/gigabyte-nvidia-strengthen-partnership-driving-innovation-in-ai-powered-gaming) (Published: 2026-01-16)
 - [S&P 500, Dow Jones, Nasdaq fall ahead of long weekend. Nvidia share price, technology, U.S. regional banks' stocks jump at Wall Street](https://economictimes.indiatimes.com/news/international/us/sp-500-dow-jones-nasdaq-fall-ahead-of-long-weekend-nvidia-share-price-technology-u-s-regional-banks-stocks-jump-at-wall-street/articleshow/126593060.cms) (Published: 2026-01-16)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-17 21:46:58**_
 - [nvidia-libmathdx-cu12 0.3.1.9](https://pypi.org/project/nvidia-libmathdx-cu12/0.3.1.9/) (Published: 2026-01-16)
 - [nvidia-libmathdx-cu13 0.3.1.9](https://pypi.org/project/nvidia-libmathdx-cu13/0.3.1.9/) (Published: 2026-01-16)
 - [From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development](https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/) (Published: 2026-01-16)
-- [OpenAI has committed billions to recent chip deals. Some big names have been left out](https://www.cnbc.com/2026/01/16/openai-chip-deal-with-cerebras-adds-to-roster-of-nvidia-amd-broadcom.html) (Published: 2026-01-16)
-- [JP Morgan Boss Sounds Alarm on AI Bubble and Sticky Inflation Threat](https://oilprice.com/Finance/the-Economy/JP-Morgan-Boss-Sounds-Alarm-on-AI-Bubble-and-Sticky-Inflation-Threat.html) (Published: 2026-01-16)
