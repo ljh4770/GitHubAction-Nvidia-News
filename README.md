@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 06:57:22**_
+_Last updated: **2026-01-17 07:24:27**_
 
 - [NVIDIA GeForce NOW Gets Star Wars Outlaws, Quarantine Zone: The Last Check, Styx Series, and More](https://www.madshrimps.be/news/nvidia-geforce-now-gets-star-wars-outlaws-quarantine-zone-the-last-check-styx-series-and-more/) (Published: 2026-01-16)
 - [NVIDIA Reportedly Cuts AIC Partner GPU Supply by up to 20%](https://www.madshrimps.be/news/nvidia-reportedly-cuts-aic-partner-gpu-supply-by-up-to-20/) (Published: 2026-01-16)
