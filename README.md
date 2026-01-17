@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 22:25:27**_
+_Last updated: **2026-01-17 22:42:50**_
 
+- [Why Your Next Smartphone Will Be Significantly Pricier—And It’s Not Just Inflation](https://www.androidheadlines.com/2026/01/smartphone-price-hike-2026-ai-memory-chip-dram-crisis-shortage.html) (Published: 2026-01-16)
 - [Arknights: Endfield Surpasses 35 Million Pre-Registrations; New Trailers Unveiled Ahead of Jan. 22 Global Launch](https://www.animenewsnetwork.com/press-release/2026-01-16/arknights-endfield-surpasses-35-million-pre-registrations-new-trailers-unveiled-ahead-of-jan-22-/.233165) (Published: 2026-01-16)
 - [Nvidia says RTX 50 Series GPU shipments continue, while reportedly taking losses during memory shortage](https://www.notebookcheck.net/Nvidia-says-RTX-50-Series-GPU-shipments-continue-while-reportedly-taking-losses-during-memory-shortage.1206098.0.html) (Published: 2026-01-16)
 - [TSMC Tells Apple to Get in Line for Its Advanced Chips](https://www.mactrast.com/2026/01/tsmc-tells-apple-to-get-in-line-for-its-advanced-chips/) (Published: 2026-01-16)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-17 22:25:27**_
 - [US FTC to scrutinize Big Tech's talent acquisition deals, Bloomberg News reports](https://www.channelnewsasia.com/business/us-ftc-scrutinize-big-techs-talent-acquisition-deals-bloomberg-news-reports-5864951) (Published: 2026-01-16)
 - [Silver gains over $3.9 trillion in market cap in 12 months, eclipsing stocks, crypto, and gold](https://cryptobriefing.com/silver-market-growth-outpaces-bitcoin/) (Published: 2026-01-16)
 - [nvidia-libmathdx-cu12 0.3.1.9](https://pypi.org/project/nvidia-libmathdx-cu12/0.3.1.9/) (Published: 2026-01-16)
-- [nvidia-libmathdx-cu13 0.3.1.9](https://pypi.org/project/nvidia-libmathdx-cu13/0.3.1.9/) (Published: 2026-01-16)
