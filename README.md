@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 23:15:45**_
+_Last updated: **2026-01-17 23:33:23**_
 
 - [Why Your Next Smartphone Will Be Significantly Pricier—And It’s Not Just Inflation](https://www.androidheadlines.com/2026/01/smartphone-price-hike-2026-ai-memory-chip-dram-crisis-shortage.html) (Published: 2026-01-16)
 - [Arknights: Endfield Surpasses 35 Million Pre-Registrations; New Trailers Unveiled Ahead of Jan. 22 Global Launch](https://www.animenewsnetwork.com/press-release/2026-01-16/arknights-endfield-surpasses-35-million-pre-registrations-new-trailers-unveiled-ahead-of-jan-22-/.233165) (Published: 2026-01-16)
