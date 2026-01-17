@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 17:15:33**_
+_Last updated: **2026-01-17 17:33:31**_
 
 - [BofA Touts Uber Technologies Inc. (UBER) Prospects in Autonomous Vehicles on Nvidia Partnership](https://finance.yahoo.com/news/bofa-touts-uber-technologies-inc-171223652.html) (Published: 2026-01-16)
 - [Piper Sandler Bullish on NVIDIA Corporation (NVDA) Amid Technological Innovation and AI Opportunities](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dee2852e-e2d3-424e-936e-e7c1452efa6d) (Published: 2026-01-16)
