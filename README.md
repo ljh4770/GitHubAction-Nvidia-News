@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-17 19:39:13**_
+_Last updated: **2026-01-17 19:49:41**_
 
 - [Taiwan tariffs fall after trade deal, hopefully easing tech prices](https://www.pcworld.com/article/3035328/taiwan-tariffs-fall-after-trade-deal-hopefully-easing-tech-prices.html) (Published: 2026-01-16)
 - [Sam Altman’s Latest Startup Takes On Elon Musk’s Neuralink](https://observer.com/2026/01/sam-altman-launch-brain-computer-interface-startup/) (Published: 2026-01-16)
