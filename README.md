@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 20:49:32**_
+_Last updated: **2026-01-18 20:59:43**_
 
 - [Updated ZEEKR 007 gets 900V system, better ADAS, Q2 release date](http://electrek.co/2026/01/17/updated-zeekr-007-gets-900v-system-better-adas-q2-release-date/) (Published: 2026-01-17)
 - [AMD Expected To Focus More On RX 9070 XT Than Its Non-XT Variant As It Needs Less Price Adjustments](https://wccftech.com/amd-expected-to-focus-more-on-rx-9070-xt-than-its-non-xt-variant/) (Published: 2026-01-17)
