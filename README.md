@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 14:10:34**_
+_Last updated: **2026-01-18 14:33:07**_
 
 - [Show HN: Optimized vLLM for Blackwell (SM_120) – 59T/S on DeepSeek-R1](https://github.com/informatico-madrid/blackwell-linux-infra-optimizer) (Published: 2026-01-17)
 - [Fox News AI Newsletter: Data center alarm](https://www.foxnews.com/tech/fox-news-ai-newsletter-data-center-alarm) (Published: 2026-01-17)
