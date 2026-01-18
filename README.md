@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 08:20:19**_
+_Last updated: **2026-01-18 08:44:56**_
 
+- [isagellm 0.1.0.3](https://pypi.org/project/isagellm/0.1.0.3/) (Published: 2026-01-17)
+- [Public Statement to Clarify Recent Reports Regarding the ASUS GeForce RTX 5070 Ti and RTX 5060 Ti 16 GB - ASUS Press](https://slashdot.org/firehose.pl?op=view&amp;id=180604840) (Published: 2026-01-17)
 - [South Korea says US chip tariff to have limited immediate impact](https://www.channelnewsasia.com/east-asia/south-korea-semiconductor-chips-us-tariffs-donald-trump-5865376) (Published: 2026-01-17)
 - [Super Micro (SMCI) Soars 10.9% on Strong Chip Demand](https://finance.yahoo.com/news/super-micro-smci-soars-10-073108306.html) (Published: 2026-01-17)
 - [kagglerun added to PyPI](https://pypi.org/project/kagglerun/) (Published: 2026-01-17)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-18 08:20:19**_
 - [AWS Launches AWS European Sovereign Cloud and Announces Expansion Across Europe](https://en.antaranews.com/news/400298/aws-launches-aws-european-sovereign-cloud-and-announces-expansion-across-europe) (Published: 2026-01-17)
 - [Nvidia H200 chip parts suppliers halt output after China blocks shipments: Report](https://economictimes.indiatimes.com/tech/technology/nvidia-h200-chip-parts-suppliers-halt-output-after-china-blocks-shipments-ft-reports/articleshow/126600392.cms) (Published: 2026-01-17)
 - [Jensen Huang's Nvidia hit by surprise customs block in China for flagship H200 chip, suppliers pause production: Report](https://www.livemint.com/companies/news/jensen-huang-nvidia-hit-surprise-customs-block-china-flagship-h200-ai-chip-processor-suppliers-pause-production-report-11768615576859.html) (Published: 2026-01-17)
-- [Nvidia H200 chip parts suppliers halt output after China blocks shipments, FT reports](https://economictimes.indiatimes.com/news/international/business/nvidia-h200-chip-parts-suppliers-halt-output-after-china-blocks-shipments-ft-reports/articleshow/126599564.cms) (Published: 2026-01-17)
-- [Nvidia H200 chip parts suppliers halt output after China blocks shipments, FT reports](https://finance.yahoo.com/news/nvidia-h200-chip-parts-suppliers-021157064.html) (Published: 2026-01-17)
