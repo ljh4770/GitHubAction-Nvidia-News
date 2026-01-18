@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 05:33:40**_
+_Last updated: **2026-01-18 05:50:18**_
 
 - [AWS Launches AWS European Sovereign Cloud and Announces Expansion Across Europe](https://en.antaranews.com/news/400298/aws-launches-aws-european-sovereign-cloud-and-announces-expansion-across-europe) (Published: 2026-01-17)
 - [Nvidia H200 chip parts suppliers halt output after China blocks shipments: Report](https://economictimes.indiatimes.com/tech/technology/nvidia-h200-chip-parts-suppliers-halt-output-after-china-blocks-shipments-ft-reports/articleshow/126600392.cms) (Published: 2026-01-17)
