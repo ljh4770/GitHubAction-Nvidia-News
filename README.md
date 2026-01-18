@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 20:11:49**_
+_Last updated: **2026-01-18 20:35:15**_
 
 - [AMD Expected To Focus More On RX 9070 XT Than Its Non-XT Variant As It Needs Less Price Adjustments](https://wccftech.com/amd-expected-to-focus-more-on-rx-9070-xt-than-its-non-xt-variant/) (Published: 2026-01-17)
 - [Behind the Curtain: The AI future has arrived - Axios](https://slashdot.org/firehose.pl?op=view&amp;id=180607176) (Published: 2026-01-17)
