@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 17:34:41**_
+_Last updated: **2026-01-18 17:46:53**_
 
 - [Gene Munster Warns Wall Street Is Underestimating 2026 AI Demand As Nvidia And TSMC Signal Strong Upside](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_29395d22-094e-431e-acc4-f723cbecde20) (Published: 2026-01-17)
 - [ASUS Declares “All In AI” Strategy as Server Revenue Soars Beyond Expectation; A Massive Hedge Against Consumer PC Uncertainty](https://wccftech.com/asus-declares-all-in-ai-strategy-as-server-revenue-soars-beyond-expectation/) (Published: 2026-01-17)
