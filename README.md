@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 19:11:51**_
+_Last updated: **2026-01-18 19:27:46**_
 
+- [Goldman Sachs revamps Microsoft stock price target before earnings](https://www.thestreet.com/investing/stocks/goldman-sachs-revamps-microsoft-stock-price-target-before-earnings) (Published: 2026-01-17)
 - [You don’t need a gaming distro — these Linux tweaks matter more](https://www.makeuseof.com/these-linux-gaming-tweaks-matter-more-than-the-distro/) (Published: 2026-01-17)
 - [Inside xAI and Future of Millions of Emulated Humans](https://www.nextbigfuture.com/2026/01/inside-xai-and-future-of-millions-of-emulated-humans.html) (Published: 2026-01-17)
 - [Can Nvidia graphics card drivers be updated during an operating system update?](https://askubuntu.com/questions/1562970/can-nvidia-graphics-card-drivers-be-updated-during-an-operating-system-update) (Published: 2026-01-17)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-18 19:11:51**_
 - [ASUS Declares “All In AI” Strategy as Server Revenue Soars Beyond Expectation; A Massive Hedge Against Consumer PC Uncertainty](https://wccftech.com/asus-declares-all-in-ai-strategy-as-server-revenue-soars-beyond-expectation/) (Published: 2026-01-17)
 - [PC hardware is entering a golden age of design and engineering, while Windows — with its newfound AI obsession — has never felt worse. Something must change.](https://www.windowscentral.com/microsoft/windows/pc-hardware-golden-age-windows-never-worse) (Published: 2026-01-17)
 - [Intel's 'Panther Lake' Graphics Let Me Play Cyberpunk at 170FPS—This Could Be Huge for PC Gaming](https://uk.pcmag.com/laptops/162655/intels-panther-lake-graphics-let-me-play-cyberpunk-at-170fps-this-could-be-huge-for-pc-gaming) (Published: 2026-01-17)
-- [Intel's 'Panther Lake' Graphics Let Me Play Cyberpunk at 170FPS—This Could Be Huge for PC Gaming](https://me.pcmag.com/en/laptops/34774/intels-panther-lake-graphics-let-me-play-cyberpunk-at-170fps-this-could-be-huge-for-pc-gaming) (Published: 2026-01-17)
