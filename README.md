@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 21:51:15**_
+_Last updated: **2026-01-18 22:10:52**_
 
 - ['Big Short' investor Michael Burry says the AI boom will end badly. He shared an old Warren Buffett story to explain why. - Business Insider](https://slashdot.org/firehose.pl?op=view&amp;id=180607538) (Published: 2026-01-17)
 - [Updated ZEEKR 007 gets 900V system, better ADAS, Q2 release date](http://electrek.co/2026/01/17/updated-zeekr-007-gets-900v-system-better-adas-q2-release-date/) (Published: 2026-01-17)
