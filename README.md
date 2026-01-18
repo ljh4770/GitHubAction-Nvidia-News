@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 18:35:27**_
+_Last updated: **2026-01-18 18:53:13**_
 
 - [Can Nvidia graphics card drivers be updated during an operating system update?](https://askubuntu.com/questions/1562970/can-nvidia-graphics-card-drivers-be-updated-during-an-operating-system-update) (Published: 2026-01-17)
 - [Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9935f5a6-254f-4939-b168-de7f382322e3) (Published: 2026-01-17)
