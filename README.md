@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 22:34:58**_
+_Last updated: **2026-01-18 22:49:29**_
 
 - [Artificial intelligence: These prophets of economic doom are worried about another collapse](https://www.nzherald.co.nz/world/artificial-intelligence-these-prophets-of-economic-doom-are-worried-about-another-collapse/premium/OKOSW5W3KVEUXPYE45L6QO3TJU/) (Published: 2026-01-17)
 - ['Big Short' investor Michael Burry says the AI boom will end badly. He shared an old Warren Buffett story to explain why. - Business Insider](https://slashdot.org/firehose.pl?op=view&amp;id=180607538) (Published: 2026-01-17)
