@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 18:53:13**_
+_Last updated: **2026-01-18 19:11:51**_
 
+- [You don’t need a gaming distro — these Linux tweaks matter more](https://www.makeuseof.com/these-linux-gaming-tweaks-matter-more-than-the-distro/) (Published: 2026-01-17)
+- [Inside xAI and Future of Millions of Emulated Humans](https://www.nextbigfuture.com/2026/01/inside-xai-and-future-of-millions-of-emulated-humans.html) (Published: 2026-01-17)
 - [Can Nvidia graphics card drivers be updated during an operating system update?](https://askubuntu.com/questions/1562970/can-nvidia-graphics-card-drivers-be-updated-during-an-operating-system-update) (Published: 2026-01-17)
 - [Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9935f5a6-254f-4939-b168-de7f382322e3) (Published: 2026-01-17)
 - [Nvidia Stock Only Seems to Be Losing Its AI Halo. This Analyst Says It’s Time to Buy. - Barron's](https://slashdot.org/firehose.pl?op=view&amp;id=180606770) (Published: 2026-01-17)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-18 18:53:13**_
 - [PC hardware is entering a golden age of design and engineering, while Windows — with its newfound AI obsession — has never felt worse. Something must change.](https://www.windowscentral.com/microsoft/windows/pc-hardware-golden-age-windows-never-worse) (Published: 2026-01-17)
 - [Intel's 'Panther Lake' Graphics Let Me Play Cyberpunk at 170FPS—This Could Be Huge for PC Gaming](https://uk.pcmag.com/laptops/162655/intels-panther-lake-graphics-let-me-play-cyberpunk-at-170fps-this-could-be-huge-for-pc-gaming) (Published: 2026-01-17)
 - [Intel's 'Panther Lake' Graphics Let Me Play Cyberpunk at 170FPS—This Could Be Huge for PC Gaming](https://me.pcmag.com/en/laptops/34774/intels-panther-lake-graphics-let-me-play-cyberpunk-at-170fps-this-could-be-huge-for-pc-gaming) (Published: 2026-01-17)
-- [WEF Chief Borge Brende warns debt, geopolitics as key threats to global growth](https://economictimes.indiatimes.com/news/international/world-news/wef-chief-borge-brende-warns-debt-geopolitics-as-key-threats-to-global-growth/articleshow/126621353.cms) (Published: 2026-01-17)
-- [The first year of Trump 2.0](https://www.thehindubusinessline.com/portfolio/big-story/the-first-year-of-trump-20/article70515498.ece) (Published: 2026-01-17)
