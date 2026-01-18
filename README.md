@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 04:37:46**_
+_Last updated: **2026-01-18 05:01:06**_
 
 - [Nvidia H200 chip parts suppliers halt output after China blocks shipments: Report](https://economictimes.indiatimes.com/tech/technology/nvidia-h200-chip-parts-suppliers-halt-output-after-china-blocks-shipments-ft-reports/articleshow/126600392.cms) (Published: 2026-01-17)
 - [Jensen Huang's Nvidia hit by surprise customs block in China for flagship H200 chip, suppliers pause production: Report](https://www.livemint.com/companies/news/jensen-huang-nvidia-hit-surprise-customs-block-china-flagship-h200-ai-chip-processor-suppliers-pause-production-report-11768615576859.html) (Published: 2026-01-17)
