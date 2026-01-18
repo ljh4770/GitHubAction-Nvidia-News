@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 19:40:37**_
+_Last updated: **2026-01-18 19:51:09**_
 
 - [NVIDIA DLSS 4.5 Super Resolution: Full Guide, Image Quality Analysis & Performance Impact](https://wccftech.com/nvidia-dlss-4-5-super-resolution-how-to-guide-image-quality-analysis-performance-impact/) (Published: 2026-01-17)
 - [Goldman Sachs revamps Microsoft stock price target before earnings](https://www.thestreet.com/investing/stocks/goldman-sachs-revamps-microsoft-stock-price-target-before-earnings) (Published: 2026-01-17)
