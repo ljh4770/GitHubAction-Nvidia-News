@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-18 20:59:43**_
+_Last updated: **2026-01-18 21:25:53**_
 
+- ['Big Short' investor Michael Burry says the AI boom will end badly. He shared an old Warren Buffett story to explain why. - Business Insider](https://slashdot.org/firehose.pl?op=view&amp;id=180607538) (Published: 2026-01-17)
 - [Updated ZEEKR 007 gets 900V system, better ADAS, Q2 release date](http://electrek.co/2026/01/17/updated-zeekr-007-gets-900v-system-better-adas-q2-release-date/) (Published: 2026-01-17)
 - [AMD Expected To Focus More On RX 9070 XT Than Its Non-XT Variant As It Needs Less Price Adjustments](https://wccftech.com/amd-expected-to-focus-more-on-rx-9070-xt-than-its-non-xt-variant/) (Published: 2026-01-17)
 - [Behind the Curtain: The AI future has arrived - Axios](https://slashdot.org/firehose.pl?op=view&amp;id=180607176) (Published: 2026-01-17)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-18 20:59:43**_
 - [Inside xAI and Future of Millions of Emulated Humans](https://www.nextbigfuture.com/2026/01/inside-xai-and-future-of-millions-of-emulated-humans.html) (Published: 2026-01-17)
 - [Can Nvidia graphics card drivers be updated during an operating system update?](https://askubuntu.com/questions/1562970/can-nvidia-graphics-card-drivers-be-updated-during-an-operating-system-update) (Published: 2026-01-17)
 - [Nvidia (NVDA) Added to Wolfe Alpha List as Favorite AI Idea for 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9935f5a6-254f-4939-b168-de7f382322e3) (Published: 2026-01-17)
-- [Nvidia Stock Only Seems to Be Losing Its AI Halo. This Analyst Says It’s Time to Buy. - Barron's](https://slashdot.org/firehose.pl?op=view&amp;id=180606770) (Published: 2026-01-17)
