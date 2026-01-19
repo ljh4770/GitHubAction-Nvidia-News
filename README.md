@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-19 19:32:02**_
+_Last updated: **2026-01-19 19:44:57**_
 
+- [Microsoft Forced to Issue Emergency Out-of-Band Windows Update](https://tech.slashdot.org/story/26/01/18/1932246/microsoft-forced-to-issue-emergency-out-of-band-windows-update) (Published: 2026-01-18)
 - ['Apple went in, Nvidia went in, a lot of smart people went in': Did Apple join Nvidia in investing in Intel? Trump seems to suggest so - or was it just a slip of the tongue?](https://www.techradar.com/pro/apple-went-in-nvidia-went-in-a-lot-of-smart-people-went-in-did-apple-join-nvidia-in-investing-in-intel-trump-seems-to-suggest-so-or-was-it-just-a-slip-of-the-tongue) (Published: 2026-01-18)
 - [Show HN: Nvidia's CUDA libraries are generic and not optimized for LLM inference](https://github.com/Venkat2811/yali) (Published: 2026-01-18)
 - [Lenovo Legion 5i Gen 10](https://uk.pcmag.com/laptops/162663/lenovo-legion-5i-gen-10) (Published: 2026-01-18)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-19 19:32:02**_
 - [US-Taiwan tariff deal boosts TSMC, will help iPhone, AI PC shoppers](https://www.thestreet.com/investing/us-taiwan-tariff-deal-boosts-tsmc-will-help-iphone-ai-pc-shoppers) (Published: 2026-01-18)
 - [Microsoft Confirms Emergency Updates For Most Windows PCs - Forbes](https://slashdot.org/firehose.pl?op=view&amp;id=180610898) (Published: 2026-01-18)
 - [Jefferies Remains Bullish on NVIDIA Corporation (NVDA)](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4eb5e492-d31f-4a3f-a204-ad709e08da9a) (Published: 2026-01-18)
-- [TechCrunch Mobility: 'Physical AI' enters the hype machine | TechCrunch](https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/) (Published: 2026-01-18)
