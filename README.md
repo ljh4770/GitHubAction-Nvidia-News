@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-19 21:42:10**_
+_Last updated: **2026-01-19 21:52:42**_
 
 - [EXCLUSIVE: Xbox Cloud Gaming will get ad-supported access this year — rumors coalesce after ad support notices appear prematurely](https://www.windowscentral.com/gaming/xbox/exclusive-xbox-cloud-gaming-will-get-an-ad-supported-tier-this-year-rumors-coalesce-after-ad-support-notices-appear-prematurely) (Published: 2026-01-18)
 - [Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=180611552) (Published: 2026-01-18)
