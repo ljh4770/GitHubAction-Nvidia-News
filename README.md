@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-19 20:25:06**_
+_Last updated: **2026-01-19 20:45:24**_
 
 - [Memory Manufacturers Now Have a New Threat Looming Over Their Heads, as Failing to Produce in the U.S. Could Trigger a Whopping 100% Tariff - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=180611436) (Published: 2026-01-18)
 - [Microsoft Forced to Issue Emergency Out-of-Band Windows Update](https://tech.slashdot.org/story/26/01/18/1932246/microsoft-forced-to-issue-emergency-out-of-band-windows-update) (Published: 2026-01-18)
