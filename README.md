@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-19 15:45:32**_
+_Last updated: **2026-01-19 15:59:45**_
 
 - [Nvidia stock's next move hinges on Q4 earnings, Blackwell ramp](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_516fc501-1109-424b-a66c-db9ea7f93c49) (Published: 2026-01-18)
 - [I Predicted Nvidia Was a Better Dow Stock Than Amazon in 2025, and I Was Right. But Which Is the Better "Magnificent Seven" Stock for 2026?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3009ec48-6615-431c-bbe8-b2c39c56c563) (Published: 2026-01-18)
