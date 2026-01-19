@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-19 19:13:19**_
+_Last updated: **2026-01-19 19:32:02**_
 
+- ['Apple went in, Nvidia went in, a lot of smart people went in': Did Apple join Nvidia in investing in Intel? Trump seems to suggest so - or was it just a slip of the tongue?](https://www.techradar.com/pro/apple-went-in-nvidia-went-in-a-lot-of-smart-people-went-in-did-apple-join-nvidia-in-investing-in-intel-trump-seems-to-suggest-so-or-was-it-just-a-slip-of-the-tongue) (Published: 2026-01-18)
+- [Show HN: Nvidia's CUDA libraries are generic and not optimized for LLM inference](https://github.com/Venkat2811/yali) (Published: 2026-01-18)
 - [Lenovo Legion 5i Gen 10](https://uk.pcmag.com/laptops/162663/lenovo-legion-5i-gen-10) (Published: 2026-01-18)
 - [Lenovo Legion 5i Gen 10](https://me.pcmag.com/en/laptops/34784/lenovo-legion-5i-gen-10) (Published: 2026-01-18)
 - [Andhra CM leaves for World Economic Forum in Davos](https://economictimes.indiatimes.com/news/india/andhra-cm-leaves-for-world-economic-forum-in-davos/articleshow/126656240.cms) (Published: 2026-01-18)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-19 19:13:19**_
 - [Microsoft Confirms Emergency Updates For Most Windows PCs - Forbes](https://slashdot.org/firehose.pl?op=view&amp;id=180610898) (Published: 2026-01-18)
 - [Jefferies Remains Bullish on NVIDIA Corporation (NVDA)](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4eb5e492-d31f-4a3f-a204-ad709e08da9a) (Published: 2026-01-18)
 - [TechCrunch Mobility: 'Physical AI' enters the hype machine | TechCrunch](https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/) (Published: 2026-01-18)
-- [2026 data predictions: Scaling AI agents via contextual intelligence](https://siliconangle.com/2026/01/18/2026-data-predictions-scaling-ai-agents-via-contextual-intelligence/) (Published: 2026-01-18)
-- [Elon Musk reveals roadmap with nine-month cadence for new AI processor releases, beating Nvidia and AMD's yearly cadence — Musk plans to have the highest-volume chips in the world](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-reveals-roadmap-with-nine-month-cadence-for-new-ai-processor-releases-beating-nvidia-and-amds-yearly-cadence-musk-plans-to-have-the-highest-volume-chips-in-the-world) (Published: 2026-01-18)
