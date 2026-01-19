@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-19 18:20:27**_
+_Last updated: **2026-01-19 18:51:49**_
 
 - [Andhra CM leaves for World Economic Forum in Davos](https://economictimes.indiatimes.com/news/india/andhra-cm-leaves-for-world-economic-forum-in-davos/articleshow/126656240.cms) (Published: 2026-01-18)
 - [Jim Cramer on NVIDIA: “It’s Meant to Be Owned, Not Traded”](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e5f723d4-7483-4f94-87ad-768a96ce936e) (Published: 2026-01-18)
