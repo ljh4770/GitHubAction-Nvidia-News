@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-19 19:44:57**_
+_Last updated: **2026-01-19 19:55:18**_
 
 - [Microsoft Forced to Issue Emergency Out-of-Band Windows Update](https://tech.slashdot.org/story/26/01/18/1932246/microsoft-forced-to-issue-emergency-out-of-band-windows-update) (Published: 2026-01-18)
 - ['Apple went in, Nvidia went in, a lot of smart people went in': Did Apple join Nvidia in investing in Intel? Trump seems to suggest so - or was it just a slip of the tongue?](https://www.techradar.com/pro/apple-went-in-nvidia-went-in-a-lot-of-smart-people-went-in-did-apple-join-nvidia-in-investing-in-intel-trump-seems-to-suggest-so-or-was-it-just-a-slip-of-the-tongue) (Published: 2026-01-18)
