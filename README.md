@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-19 22:54:39**_
+_Last updated: **2026-01-19 23:19:20**_
 
 - [Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT | TechCrunch](https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/) (Published: 2026-01-18)
 - [Sequoia Seeks Part in Anthropic’s $25 Billion Funding Round](https://www.pymnts.com/artificial-intelligence-2/2026/sequoia-seeks-part-in-anthropics-25-billion-funding-round/) (Published: 2026-01-18)
