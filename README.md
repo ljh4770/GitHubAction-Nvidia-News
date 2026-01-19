@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-19 21:52:42**_
+_Last updated: **2026-01-19 22:15:31**_
 
+- [Sequoia Seeks Part in Anthropic’s $25 Billion Funding Round](https://www.pymnts.com/artificial-intelligence-2/2026/sequoia-seeks-part-in-anthropics-25-billion-funding-round/) (Published: 2026-01-18)
+- [Davos 2026: What to expect, who's coming and how to follow (bugz alert)](https://freerepublic.com/focus/f-news/4362831/posts) (Published: 2026-01-18)
 - [EXCLUSIVE: Xbox Cloud Gaming will get ad-supported access this year — rumors coalesce after ad support notices appear prematurely](https://www.windowscentral.com/gaming/xbox/exclusive-xbox-cloud-gaming-will-get-an-ad-supported-tier-this-year-rumors-coalesce-after-ad-support-notices-appear-prematurely) (Published: 2026-01-18)
 - [Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=180611552) (Published: 2026-01-18)
 - [Memory Manufacturers Now Have a New Threat Looming Over Their Heads, as Failing to Produce in the U.S. Could Trigger a Whopping 100% Tariff - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=180611436) (Published: 2026-01-18)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-19 21:52:42**_
 - [Show HN: Nvidia's CUDA libraries are generic and not optimized for LLM inference](https://github.com/Venkat2811/yali) (Published: 2026-01-18)
 - [Lenovo Legion 5i Gen 10](https://uk.pcmag.com/laptops/162663/lenovo-legion-5i-gen-10) (Published: 2026-01-18)
 - [Lenovo Legion 5i Gen 10](https://me.pcmag.com/en/laptops/34784/lenovo-legion-5i-gen-10) (Published: 2026-01-18)
-- [Andhra CM leaves for World Economic Forum in Davos](https://economictimes.indiatimes.com/news/india/andhra-cm-leaves-for-world-economic-forum-in-davos/articleshow/126656240.cms) (Published: 2026-01-18)
-- [Jim Cramer on NVIDIA: “It’s Meant to Be Owned, Not Traded”](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e5f723d4-7483-4f94-87ad-768a96ce936e) (Published: 2026-01-18)
