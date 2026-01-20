@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-20 21:42:35**_
+_Last updated: **2026-01-20 21:53:01**_
 
 - [Dell Alienware Aurora ACT1250 Gaming PC Intel Core Ultra 9 285K 3.2GHz Processor; NVIDIA GeForce RTX 5080 16GB GDDR7; 32GB DDR5-5200 RAM; 2TB Solid State Drive $2199.99 (11 replies)](https://slickdeals.net/f/19117432-dell-alienware-aurora-act1250-gaming-pc-intel-core-ultra-9-285k-3-2ghz-processor-nvidia-geforce-rtx-5080-16gb-gddr7-32gb-ddr5-5200-ram-2tb-solid-state-drive-2199-99) (Published: 2026-01-19)
 - [Elon Musk drops a surprise curveball on Nvidia](https://freerepublic.com/focus/f-news/4362984/posts) (Published: 2026-01-19)
