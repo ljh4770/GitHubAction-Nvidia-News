@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-20 23:28:46**_
+_Last updated: **2026-01-20 23:46:39**_
 
 - [Trump is going to Davos — here are the big names who aren't (Lucy Handley/CNBC)](https://www.memeorandum.com/260119/p93) (Published: 2026-01-19)
 - [Inside Mercedes’ Nvidia-powered AI car and what it means for drivers – Review](https://www.nzherald.co.nz/business/inside-mercedes-nvidia-powered-ai-car-and-what-it-means-for-drivers-review/premium/ZO4AQKLPQ5EGXPVZMZ3QDWYRLQ/) (Published: 2026-01-19)
