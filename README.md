@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-20 09:45:05**_
+_Last updated: **2026-01-20 10:01:08**_
 
 - [Inequality and unease are rising as elite Davos event opens with pro-business Trump set to attend](https://apnews.com/article/trump-davos-wef-economy-wealth-housing-affordability-1b6ef1ad007d795d29bef5681fa97280) (Published: 2026-01-19)
 - [nvfuser-cu128 0.2.35.dev20260119](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260119/) (Published: 2026-01-19)
