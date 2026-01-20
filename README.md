@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-20 20:56:17**_
+_Last updated: **2026-01-20 21:24:37**_
 
 - [Xbox Cloud Gaming to debut ad tier later this year: report](https://mobilesyrup.com/2026/01/19/xbox-cloud-gaming-ads-tier-report/) (Published: 2026-01-19)
 - [Tesla Goes All-In on Chipmaking As Musk Backs Dojo3—Can It Beat Nvidia on Value?](https://www.ibtimes.com/tesla-goes-all-chipmaking-musk-backs-dojo3can-it-beat-nvidia-value-3795659) (Published: 2026-01-19)
