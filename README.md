@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-20 22:57:17**_
+_Last updated: **2026-01-20 23:28:46**_
 
+- [Trump is going to Davos — here are the big names who aren't (Lucy Handley/CNBC)](https://www.memeorandum.com/260119/p93) (Published: 2026-01-19)
+- [Inside Mercedes’ Nvidia-powered AI car and what it means for drivers – Review](https://www.nzherald.co.nz/business/inside-mercedes-nvidia-powered-ai-car-and-what-it-means-for-drivers-review/premium/ZO4AQKLPQ5EGXPVZMZ3QDWYRLQ/) (Published: 2026-01-19)
 - [Nvidia Contacted Anna's Archive to Secure Access to Millions of Pirated Books](https://slashdot.org/submission/17344160/nvidia-contacted-annas-archive-to-secure-access-to-millions-of-pirated-books) (Published: 2026-01-19)
 - [edgetam-dimos added to PyPI](https://pypi.org/project/edgetam-dimos/) (Published: 2026-01-19)
 - [crunch-synth added to PyPI](https://pypi.org/project/crunch-synth/) (Published: 2026-01-19)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-20 22:57:17**_
 - [Elon Musk drops a surprise curveball on Nvidia](https://freerepublic.com/focus/f-news/4362984/posts) (Published: 2026-01-19)
 - [Xbox Cloud Gaming to debut ad tier later this year: report](https://mobilesyrup.com/2026/01/19/xbox-cloud-gaming-ads-tier-report/) (Published: 2026-01-19)
 - [Tesla Goes All-In on Chipmaking As Musk Backs Dojo3—Can It Beat Nvidia on Value?](https://www.ibtimes.com/tesla-goes-all-chipmaking-musk-backs-dojo3can-it-beat-nvidia-value-3795659) (Published: 2026-01-19)
-- [NZXT C-Series Gold Core 80 PLUS Gold Fully Modular Desktop PSU: 1000W $85, 850W $60 + $10 Shipping](https://slickdeals.net/f/19115956-nzxt-c-series-gold-core-80-plus-gold-fully-modular-desktop-psu-1000w-85-850w-60-10-shipping) (Published: 2026-01-19)
-- [Right-Wing Influencers Caught Flooding Social With Near-Identical Posts On Obscure Bill Hated By Tech Giant](https://dailycaller.com/2026/01/19/right-wing-influencers-caught-flooding-social-with-near-identical-posts-on-obscure-bill-hated-by-tech-giant/) (Published: 2026-01-19)
