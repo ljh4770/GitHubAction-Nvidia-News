@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-20 04:13:45**_
+_Last updated: **2026-01-20 04:58:08**_
 
 - [Micron says ‘unprecedented’ memory shortage to last beyond 2026](https://economictimes.indiatimes.com/tech/technology/micron-says-unprecedented-memory-shortage-to-last-beyond-2026/articleshow/126667383.cms) (Published: 2026-01-19)
 - [Volvo ES90 spotted in KL, EV is launching this month](https://paultan.org/2026/01/19/volvo-es90-spotted-in-kl-ev-is-launching-this-month/) (Published: 2026-01-19)
