@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-21 11:39:09**_
+_Last updated: **2026-01-21 11:53:25**_
 
+- [Surrounded by billionaires in Davos, Trump plans to lay out how he’ll make housing more affordable](https://www.bostonherald.com/2026/01/20/trump-davos-affordability-housing/) (Published: 2026-01-20)
+- [New Asus ROG NUC rival: Minisforum releases AtomMan G7 Pro mini-PC globally with Nvidia GeForce RTX 5070](https://www.notebookcheck.net/New-Asus-ROG-NUC-rival-Minisforum-releases-AtomMan-G7-Pro-mini-PC-globally-with-Nvidia-GeForce-RTX-5070.1208053.0.html) (Published: 2026-01-20)
 - [Processor ARM race heats up as Nvidia could soon challenge Intel, AMD and Apple with its N1X laptop CPU](https://www.techradar.com/computing/cpu/processor-arm-race-heats-up-as-nvidia-could-soon-challenge-intel-amd-and-apple-with-its-n1x-laptop-cpu) (Published: 2026-01-20)
 - [Bernard Arnault’s Fortune Drops By $12.5 Billion After Trump’s 200% Tariff Threat Against French Wines](https://www.forbes.com/sites/siladityaray/2026/01/20/bernard-arnaults-fortune-drops-by-125-billion-after-trumps-200-tariff-threat-against-french-wines/) (Published: 2026-01-20)
 - [Oh, great, now the rest of Apple is doomed because of AI too](https://www.macworld.com/article/3036876/ai-demnd-chip-apple-tsmc.html) (Published: 2026-01-20)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-21 11:39:09**_
 - [DRAM shortage fuels fake GPU scams as China-based fraudsters exploit the supply crisis — RTX 4080 GPU sold at cut price was actually an RTX 3060 mobile chip with fake VRAM](https://www.tomshardware.com/pc-components/gpus/dram-shortage-fuels-fake-gpu-scams-as-china-based-fraudsters-exploit-the-supply-crisis-rtx-4080-gpu-sold-at-cut-price-was-actually-an-rtx-3060-mobile-chip-with-fake-vram) (Published: 2026-01-20)
 - [Wall Street slumps and Europe stocks sink as Trump threatens tariffs on 8 NATO members](https://www.denverpost.com/2026/01/20/stock-market-reacts-trump-threats/) (Published: 2026-01-20)
 - [Elon Musk restarts Dojo3 'space' supercomputer project as AI5 chip design gets in 'good shape' — will be first Tesla-built supercomputer to feature all-in-house hardware, with no help from Nvidia](https://www.tomshardware.com/tech-industry/supercomputers/elon-musk-restarts-dojo3-space-supercomputer-project-as-ai5-chip-design-gets-in-good-shape-will-be-first-tesla-built-supercomputer-to-feature-all-in-house-hardware-with-no-help-from-nvidia) (Published: 2026-01-20)
-- [Nvidia targeting 2026 launch for Windows on Arm notebook, DigiTimes reports](https://thefly.com/permalinks/entry.php/id4273600/NVDA;MSFT;ARM-Nvidia-targeting--launch-for-Windows-on-Arm-notebook-DigiTimes-reports) (Published: 2026-01-20)
-- [Nvidia targeting 2026 launch for Windows on Arm notebook, DigiTimes reports](https://legacy.thefly.com/permalinks/entry.php/id4273600/NVDA;MSFT;ARM-Nvidia-targeting--launch-for-Windows-on-Arm-notebook-DigiTimes-reports) (Published: 2026-01-20)
