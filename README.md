@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-21 09:49:12**_
+_Last updated: **2026-01-21 10:13:11**_
 
+- [Bungie Reveals Mild Marathon PC System Requirements](https://wccftech.com/bungie-reveals-mild-marathon-pc-system-requirements/) (Published: 2026-01-20)
+- [Taiwan's Inventec says decision on Nvidia's H200 chip 'appears to be stuck' on China's side](https://economictimes.indiatimes.com/tech/technology/taiwans-inventec-says-decision-on-nvidias-h200-chip-appears-to-be-stuck-on-chinas-side/articleshow/126782371.cms) (Published: 2026-01-20)
+- [NVIDIA’s Laptop Chips, After a Long-Awaited Build-Up, Are Set to Debut This Year By Q2; N1/N1X SoCs to Challenge x86 Supremacy - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=180618950) (Published: 2026-01-20)
 - [Show HN: Rerankers – Models, benchmarks, and papers for RAG](https://github.com/agentset-ai/awesome-rerankers) (Published: 2026-01-20)
 - [NVIDIA Upgrades "Vera Rubin" Memory Bandwidth Ahead of AMD Instinct MI400 Launch](https://www.techpowerup.com/345388/nvidia-upgrades-vera-rubin-memory-bandwidth-ahead-of-amd-instinct-mi400-launch) (Published: 2026-01-20)
 - [US stock futures crash today: Dow, S&P 500, Nasdaq sink more than 1.5% each - Gold and silver prices touch levels unseen before as Trump’s Greenland tariff threat rattles markets](https://economictimes.indiatimes.com/news/international/us/us-stock-futures-crash-today-dow-sp-500-nasdaq-sink-more-than-1-5-each-gold-and-silver-prices-touch-levels-unseen-before-as-trumps-greenland-tariff-threat-rattles-markets/articleshow/126777501.cms) (Published: 2026-01-20)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-21 09:49:12**_
 - [DLSS 4.5 image quality and performance analysis: 2nd gen Transformer brings improved visual fidelity with hidden performance penalty](https://www.notebookcheck.net/DLSS-4-5-image-quality-and-performance-analysis-2nd-gen-Transformer-brings-improved-visual-fidelity-with-hidden-performance-penalty.1194908.0.html) (Published: 2026-01-20)
 - [Surrounded by billionaires in Davos, Trump plans to lay out how he''ll make housing more affordable](https://economictimes.indiatimes.com/news/international/global-trends/surrounded-by-billionaires-in-davos-trump-plans-to-lay-out-how-hell-make-housing-more-affordable/articleshow/126774554.cms) (Published: 2026-01-20)
 - [GitHub - dnobori/DN_SuperBook_PDF_Converter: DN_SuperBook_PDF_Converter - スキャン書籍 PDF をデジタル書籍並みに大変クリアに読みやすくする AI PDF 高品質化・各種調整ツール](https://github.com/dnobori/DN_SuperBook_PDF_Converter) (Published: 2026-01-20)
-- [The Left in shock over President Maria…of Niki (Lord have mercy), Brussels eats up Davos, “for sale” signs in IT, Marios shops from Attica](https://en.protothema.gr/2026/01/20/the-left-in-shock-over-president-mariaof-niki-lord-have-mercy-brussels-eats-up-davos-for-sale-signs-in-it-marios-shops-from-attica/) (Published: 2026-01-20)
-- [Samsung reveals Galaxy Book 6 series pricing and availability](https://www.sammobile.com/news/samsung-reveals-galaxy-book-6-series-pricing-availability-korea/) (Published: 2026-01-20)
-- [Zephyr “Sakura Snow X” GeForce RTX 4070 Ti SUPER Custom Card Nears Completion](https://www.madshrimps.be/news/zephyr-sakura-snow-x-geforce-rtx-4070-ti-super-custom-card-nears-completion/) (Published: 2026-01-20)
