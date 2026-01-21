@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-21 09:16:20**_
+_Last updated: **2026-01-21 09:49:12**_
 
+- [Show HN: Rerankers – Models, benchmarks, and papers for RAG](https://github.com/agentset-ai/awesome-rerankers) (Published: 2026-01-20)
+- [NVIDIA Upgrades "Vera Rubin" Memory Bandwidth Ahead of AMD Instinct MI400 Launch](https://www.techpowerup.com/345388/nvidia-upgrades-vera-rubin-memory-bandwidth-ahead-of-amd-instinct-mi400-launch) (Published: 2026-01-20)
+- [US stock futures crash today: Dow, S&P 500, Nasdaq sink more than 1.5% each - Gold and silver prices touch levels unseen before as Trump’s Greenland tariff threat rattles markets](https://economictimes.indiatimes.com/news/international/us/us-stock-futures-crash-today-dow-sp-500-nasdaq-sink-more-than-1-5-each-gold-and-silver-prices-touch-levels-unseen-before-as-trumps-greenland-tariff-threat-rattles-markets/articleshow/126777501.cms) (Published: 2026-01-20)
 - [NVIDIA N1 and N1X Laptop Chips Scheduled for This Quarter](https://www.techpowerup.com/345386/nvidia-n1-and-n1x-laptop-chips-scheduled-for-this-quarter) (Published: 2026-01-20)
 - [DLSS 4.5 image quality and performance analysis: 2nd gen Transformer brings improved visual fidelity with hidden performance penalty](https://www.notebookcheck.net/DLSS-4-5-image-quality-and-performance-analysis-2nd-gen-Transformer-brings-improved-visual-fidelity-with-hidden-performance-penalty.1194908.0.html) (Published: 2026-01-20)
 - [Surrounded by billionaires in Davos, Trump plans to lay out how he''ll make housing more affordable](https://economictimes.indiatimes.com/news/international/global-trends/surrounded-by-billionaires-in-davos-trump-plans-to-lay-out-how-hell-make-housing-more-affordable/articleshow/126774554.cms) (Published: 2026-01-20)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-21 09:16:20**_
 - [The Left in shock over President Maria…of Niki (Lord have mercy), Brussels eats up Davos, “for sale” signs in IT, Marios shops from Attica](https://en.protothema.gr/2026/01/20/the-left-in-shock-over-president-mariaof-niki-lord-have-mercy-brussels-eats-up-davos-for-sale-signs-in-it-marios-shops-from-attica/) (Published: 2026-01-20)
 - [Samsung reveals Galaxy Book 6 series pricing and availability](https://www.sammobile.com/news/samsung-reveals-galaxy-book-6-series-pricing-availability-korea/) (Published: 2026-01-20)
 - [Zephyr “Sakura Snow X” GeForce RTX 4070 Ti SUPER Custom Card Nears Completion](https://www.madshrimps.be/news/zephyr-sakura-snow-x-geforce-rtx-4070-ti-super-custom-card-nears-completion/) (Published: 2026-01-20)
-- [“I wish upon you pain and suffering”: Why Jensen Huang once told Stanford students to lower their expectations](https://timesofindia.indiatimes.com/education/news/i-wish-upon-you-pain-and-suffering-why-jensen-huang-once-told-stanford-students-to-lower-their-expectations/articleshow/126767511.cms) (Published: 2026-01-20)
-- [Economic resilience fuels optimism despite geopolitical turmoil: WEF President Brende](https://economictimes.indiatimes.com/news/international/world-news/davos-2026-economic-resilience-fuels-optimism-despite-geopolitical-turmoil-wef-president-brende/articleshow/126768543.cms) (Published: 2026-01-20)
-- [World Economic Forum at Davos 2026: Dates, location and what to expect](https://www.aljazeera.com/economy/2026/1/20/world-economic-forum-at-davos-2026-dates-location-and-what-to-expect) (Published: 2026-01-20)
