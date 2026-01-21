@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-21 07:58:43**_
+_Last updated: **2026-01-21 08:43:08**_
 
+- [Surrounded by billionaires in Davos, Trump plans to lay out how he''ll make housing more affordable](https://economictimes.indiatimes.com/news/international/global-trends/surrounded-by-billionaires-in-davos-trump-plans-to-lay-out-how-hell-make-housing-more-affordable/articleshow/126774554.cms) (Published: 2026-01-20)
+- [GitHub - dnobori/DN_SuperBook_PDF_Converter: DN_SuperBook_PDF_Converter - スキャン書籍 PDF をデジタル書籍並みに大変クリアに読みやすくする AI PDF 高品質化・各種調整ツール](https://github.com/dnobori/DN_SuperBook_PDF_Converter) (Published: 2026-01-20)
+- [The Left in shock over President Maria…of Niki (Lord have mercy), Brussels eats up Davos, “for sale” signs in IT, Marios shops from Attica](https://en.protothema.gr/2026/01/20/the-left-in-shock-over-president-mariaof-niki-lord-have-mercy-brussels-eats-up-davos-for-sale-signs-in-it-marios-shops-from-attica/) (Published: 2026-01-20)
+- [Samsung reveals Galaxy Book 6 series pricing and availability](https://www.sammobile.com/news/samsung-reveals-galaxy-book-6-series-pricing-availability-korea/) (Published: 2026-01-20)
 - [Zephyr “Sakura Snow X” GeForce RTX 4070 Ti SUPER Custom Card Nears Completion](https://www.madshrimps.be/news/zephyr-sakura-snow-x-geforce-rtx-4070-ti-super-custom-card-nears-completion/) (Published: 2026-01-20)
 - [“I wish upon you pain and suffering”: Why Jensen Huang once told Stanford students to lower their expectations](https://timesofindia.indiatimes.com/education/news/i-wish-upon-you-pain-and-suffering-why-jensen-huang-once-told-stanford-students-to-lower-their-expectations/articleshow/126767511.cms) (Published: 2026-01-20)
 - [Economic resilience fuels optimism despite geopolitical turmoil: WEF President Brende](https://economictimes.indiatimes.com/news/international/world-news/davos-2026-economic-resilience-fuels-optimism-despite-geopolitical-turmoil-wef-president-brende/articleshow/126768543.cms) (Published: 2026-01-20)
 - [World Economic Forum at Davos 2026: Dates, location and what to expect](https://www.aljazeera.com/economy/2026/1/20/world-economic-forum-at-davos-2026-dates-location-and-what-to-expect) (Published: 2026-01-20)
 - [Microsoft releases list of 40 job roles most exposed to Artificial Intelligence. Is yours on the list?](https://economictimes.indiatimes.com/news/new-updates/microsoft-releases-list-of-40-job-roles-most-exposed-to-artificial-intelligence-is-yours-on-the-list/articleshow/126766513.cms) (Published: 2026-01-20)
 - [GeForce RTX 5050 8G SHADOW 2X OC | 1TB SSD Combo Pack $299](https://slickdeals.net/f/19118896-geforce-rtx-5050-8g-shadow-2x-oc-1tb-ssd-combo-pack-299) (Published: 2026-01-20)
-- [New free-to-play hybrid action-RPG launches on Steam with Warframe elements and 67% positive reviews](https://www.notebookcheck.net/New-free-to-play-hybrid-action-RPG-launches-on-Steam-with-Warframe-elements-and-67-positive-reviews.1208023.0.html) (Published: 2026-01-20)
-- [isagellm 0.2.2.0](https://pypi.org/project/isagellm/0.2.2.0/) (Published: 2026-01-20)
-- [isagellm 0.2.1.0](https://pypi.org/project/isagellm/0.2.1.0/) (Published: 2026-01-20)
-- [Surrounded by billionaires in Davos, Trump plans to lay out how he'll make housing more affordable](https://japantoday.com/category/world/surrounded-by-billionaires-in-davos-trump-plans-to-lay-out-how-he%27ll-make-housing-more-affordable) (Published: 2026-01-20)
