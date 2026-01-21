@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-21 19:03:13**_
+_Last updated: **2026-01-21 19:36:58**_
 
+- [Who Gained the Most During Trump’s First Year? Billionaires and Corporations.](https://truthout.org/articles/who-gained-the-most-during-trumps-first-year-billionaires-and-corporations/) (Published: 2026-01-20)
+- [Where did the RTX 5090 go? GPU stock has disappeared in the US — and third-party prices are headed into orbit](https://www.windowscentral.com/hardware/nvidia/rtx-5090-disappears-us-stores) (Published: 2026-01-20)
 - [The 9 most disruptive deals of Trump’s first year back in the White House](https://fortune.com/2026/01/20/the-9-most-disruptive-deals-of-trumps-first-year-back-in-the-white-house/) (Published: 2026-01-20)
 - [I highly recommend this LG OLED TV - especially at 50% off](https://www.zdnet.com/home-and-office/home-entertainment/lg-b5-oled-tv-best-buy-deal/) (Published: 2026-01-20)
 - [Marathon's system requirements look to continue one of 2025's best PC trends: great performance and low min specs](https://www.pcgamer.com/games/fps/marathons-system-requirements-look-to-continue-one-of-2025s-best-pc-trends-great-performance-and-low-min-specs/) (Published: 2026-01-20)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-21 19:03:13**_
 - [S&P 500, Dow Jones, Nasdaq crash: Here are the stocks that took the biggest hit today](https://economictimes.indiatimes.com/news/international/us/sp-500-dow-jones-nasdaq-crash-stocks-biggest-hit-today-crwv-nvda-avgo-orcl-amzn-aapl-meta-googl-tsla/articleshow/126845011.cms) (Published: 2026-01-20)
 - [Nvidia invests $150M in AI startup Baseten as part of $300M round, WSJ reports](https://legacy.thefly.com/permalinks/entry.php/id4274313/$PRIVATE;NVDA;GOOG;GOOGL-Nvidia-invests-M-in-AI-startup-Baseten-as-part-of-M-round-WSJ-reports) (Published: 2026-01-20)
 - [Automotive LiDAR Market Projected to Reach US$ 25.75 Billion by 2035, Supported by Increasing Series Production Adoption Says Astute Analytica](https://www.globenewswire.com/news-release/2026/01/20/3222187/0/en/Automotive-LiDAR-Market-Projected-to-Reach-US-25-75-Billion-by-2035-Supported-by-Increasing-Series-Production-Adoption-Says-Astute-Analytica.html) (Published: 2026-01-20)
-- ['Like Selling Nuclear Weapons to North Korea:' Anthropic CEO Criticizes Decision to Allow AI Chip Sales to China](https://www.breitbart.com/tech/2026/01/20/like-selling-nuclear-weapons-to-north-korea-anthropic-ceo-criticizes-decision-to-allow-ai-chip-sales-to-china/) (Published: 2026-01-20)
-- [Anthropic CEO fears AI development is exponentially compounding, fearing it could erase entry‑level jobs — "it will overwhelm our ability to adapt"](https://www.windowscentral.com/artificial-intelligence/anthropic-ceo-fears-ai-development-is-exponentially-compounding-fearing-it-could-erase-entry-level-jobs-it-will-overwhelm-our-ability-to-adapt) (Published: 2026-01-20)
