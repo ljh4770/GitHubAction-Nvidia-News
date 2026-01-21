@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-21 11:13:00**_
+_Last updated: **2026-01-21 11:39:09**_
 
+- [Processor ARM race heats up as Nvidia could soon challenge Intel, AMD and Apple with its N1X laptop CPU](https://www.techradar.com/computing/cpu/processor-arm-race-heats-up-as-nvidia-could-soon-challenge-intel-amd-and-apple-with-its-n1x-laptop-cpu) (Published: 2026-01-20)
+- [Bernard Arnault’s Fortune Drops By $12.5 Billion After Trump’s 200% Tariff Threat Against French Wines](https://www.forbes.com/sites/siladityaray/2026/01/20/bernard-arnaults-fortune-drops-by-125-billion-after-trumps-200-tariff-threat-against-french-wines/) (Published: 2026-01-20)
+- [Oh, great, now the rest of Apple is doomed because of AI too](https://www.macworld.com/article/3036876/ai-demnd-chip-apple-tsmc.html) (Published: 2026-01-20)
+- [AMD and Nvidia to set fake MSRPs as Asus and Gigabyte reportedly raising GPU prices soon by up to 15%](https://www.notebookcheck.net/AMD-and-Nvidia-to-set-fake-MSRPs-as-Asus-and-Gigabyte-reportedly-raising-GPU-prices-soon-by-up-to-15.1208040.0.html) (Published: 2026-01-20)
+- [Key Apple, Nvidia, and Tesla supplier sees confidential files allegedly exposed in major breach - here's what we know so far](https://www.techradar.com/pro/security/key-apple-nvidia-and-tesla-supplier-sees-confidential-files-allegedly-exposed-in-major-breach-heres-what-we-know-so-far) (Published: 2026-01-20)
+- [DRAM shortage fuels fake GPU scams as China-based fraudsters exploit the supply crisis — RTX 4080 GPU sold at cut price was actually an RTX 3060 mobile chip with fake VRAM](https://www.tomshardware.com/pc-components/gpus/dram-shortage-fuels-fake-gpu-scams-as-china-based-fraudsters-exploit-the-supply-crisis-rtx-4080-gpu-sold-at-cut-price-was-actually-an-rtx-3060-mobile-chip-with-fake-vram) (Published: 2026-01-20)
+- [Wall Street slumps and Europe stocks sink as Trump threatens tariffs on 8 NATO members](https://www.denverpost.com/2026/01/20/stock-market-reacts-trump-threats/) (Published: 2026-01-20)
 - [Elon Musk restarts Dojo3 'space' supercomputer project as AI5 chip design gets in 'good shape' — will be first Tesla-built supercomputer to feature all-in-house hardware, with no help from Nvidia](https://www.tomshardware.com/tech-industry/supercomputers/elon-musk-restarts-dojo3-space-supercomputer-project-as-ai5-chip-design-gets-in-good-shape-will-be-first-tesla-built-supercomputer-to-feature-all-in-house-hardware-with-no-help-from-nvidia) (Published: 2026-01-20)
 - [Nvidia targeting 2026 launch for Windows on Arm notebook, DigiTimes reports](https://thefly.com/permalinks/entry.php/id4273600/NVDA;MSFT;ARM-Nvidia-targeting--launch-for-Windows-on-Arm-notebook-DigiTimes-reports) (Published: 2026-01-20)
 - [Nvidia targeting 2026 launch for Windows on Arm notebook, DigiTimes reports](https://legacy.thefly.com/permalinks/entry.php/id4273600/NVDA;MSFT;ARM-Nvidia-targeting--launch-for-Windows-on-Arm-notebook-DigiTimes-reports) (Published: 2026-01-20)
-- [nvidia-nat-redis 1.5.0a20260120](https://pypi.org/project/nvidia-nat-redis/1.5.0a20260120/) (Published: 2026-01-20)
-- [nvidia-nat-data-flywheel 1.5.0a20260120](https://pypi.org/project/nvidia-nat-data-flywheel/1.5.0a20260120/) (Published: 2026-01-20)
-- [nvidia-nat-semantic-kernel 1.5.0a20260120](https://pypi.org/project/nvidia-nat-semantic-kernel/1.5.0a20260120/) (Published: 2026-01-20)
-- [“It’s NVIDIA (NVDA) That You Should Be Buying,” Says Jim Cramer](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c1097651-5333-404c-9ea7-26ff30347bb6) (Published: 2026-01-20)
-- [nvidia-nat-opentelemetry 1.5.0a20260120](https://pypi.org/project/nvidia-nat-opentelemetry/1.5.0a20260120/) (Published: 2026-01-20)
-- [nvidia-nat-openpipe-art 1.5.0a20260120](https://pypi.org/project/nvidia-nat-openpipe-art/1.5.0a20260120/) (Published: 2026-01-20)
-- [One Year of Wins: Trump's Top Accomplishments in First Year of 'Golden Age'](https://www.breitbart.com/politics/2026/01/20/trumps-top-accomplishments-first-year-golden-age/) (Published: 2026-01-20)
