@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-22 21:40:37**_
+_Last updated: **2026-01-22 21:55:36**_
 
+- [Washington Is Divided on AI Chip Exports as Anthropic CEO Deems China Sales a ‘Mistake’](https://gizmodo.com/washington-is-divided-on-ai-chips-exports-as-anthropic-ceo-deems-china-sales-a-mistake-2000712639) (Published: 2026-01-21)
 - [US House panel advances bill to give Congress authority on AI chip exports](https://www.aljazeera.com/economy/2026/1/21/us-house-panel-advances-bill-to-give-congress-authority-on-ai-chip-exports) (Published: 2026-01-21)
 - [Streamlining CUB with a Single-Call API](https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/) (Published: 2026-01-21)
 - [Apple world’s most valuable brand, per Brand Finance’s Global 500 2026 list](https://9to5mac.com/2026/01/21/apple-world-most-valuable-brand-per-brand-finance-global-500-list/) (Published: 2026-01-21)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-22 21:40:37**_
 - [The AI Boom Just Cost Apple Its Exclusive Spot in TSMC's Chip Line](https://www.androidheadlines.com/2026/01/apple-loses-tsmc-priority-shipment-status-ai-boom-impact.html) (Published: 2026-01-21)
 - [House GOP wants final say on AI chip exports after Trump gives Nvidia a China hall pass](https://www.theregister.com/2026/01/21/house_gop_ai_chip_exports_trump_china_nvidia/) (Published: 2026-01-21)
 - [China Is Cracking Down On Nvidia Graphics Cards (For Good Reasons)](https://www.bgr.com/2077746/why-china-cracking-down-nvidia-gpus-ai/) (Published: 2026-01-21)
-- [Dow surges 700 points after Trump announces Greenland framework, calls off tariff threat](https://nypost.com/2026/01/21/business/dow-surges-700-points-amid-trump-greenland-framework-tariff-threat-called-off/) (Published: 2026-01-21)
