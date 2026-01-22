@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-22 19:21:50**_
+_Last updated: **2026-01-22 19:42:18**_
 
 - [Intel shares surge 11% to four-year high ahead of Q4 earnings call](https://cryptobriefing.com/intel-shares-surge-four-year-high/) (Published: 2026-01-21)
 - [(PR) NVIDIA DLSS Comes to Arknights: Endfield and More Games](https://www.techpowerup.com/345477/nvidia-dlss-comes-to-arknights-endfield-and-more-games) (Published: 2026-01-21)
