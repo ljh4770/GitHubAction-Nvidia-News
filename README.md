@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-22 11:48:30**_
+_Last updated: **2026-01-22 11:59:14**_
 
 - [Nvidia Shares Gain After Report of CEO's China Visit](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_58d04d50-50d6-4721-bb2d-67a3e30cd109) (Published: 2026-01-21)
 - [Nvidia's long-awaited N1X Arm chip for the PC will be released within months according to a new report](https://www.pcgamer.com/hardware/gaming-laptops/nvidias-long-awaited-n1x-arm-chip-for-the-pc-will-be-released-within-months-according-to-a-new-report/) (Published: 2026-01-21)
