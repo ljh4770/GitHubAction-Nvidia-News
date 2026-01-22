@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-22 23:46:35**_
+_Last updated: **2026-01-22 23:57:15**_
 
+- [nvidia-ml-py 13.580.126](https://pypi.org/project/nvidia-ml-py/13.580.126/) (Published: 2026-01-21)
 - [Nvidia CEO says AI will create ‘six-figure salary’ jobs for electricians and plumbers](https://www.straitstimes.com/business/companies-markets/nvidia-ceo-says-ai-will-create-six-figure-salary-jobs-for-electricians-and-plumbers) (Published: 2026-01-21)
 - [Upscale AI raises $200M to develop scale-up AI networking chips](https://siliconangle.com/2026/01/21/upscale-ai-raises-200m-develop-scale-ai-networking-chips/) (Published: 2026-01-21)
 - [Stock market today: Live updates](https://www.cnbc.com/2026/01/21/stock-market-today-live-updates.html) (Published: 2026-01-21)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-22 23:46:35**_
 - [A timeline of the US semiconductor market in 2025 | TechCrunch](https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/) (Published: 2026-01-21)
 - [Tough luck, Elon - EPA shuts loophole that lets hyperscalers quickly deploy power generators without needing a permit](https://www.techradar.com/pro/tough-luck-elon-epa-shuts-loophole-that-lets-hyperscalers-quickly-deploy-power-generators-without-needing-a-permit) (Published: 2026-01-21)
 - [Video Game God Of War Congratulates Live Action God Of War](https://kotaku.com/christopher-judge-kratos-actor-ryan-hurst-2000661932) (Published: 2026-01-21)
-- [Cathie Wood’s ARK Invest Makes Bold Bitcoin and Nvidia Prediction](https://beincrypto.com/cathie-wood-ark-invest-bitcoin-prediction/) (Published: 2026-01-21)
