@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-22 10:58:51**_
+_Last updated: **2026-01-22 11:30:43**_
 
+- [4 tech moguls who attended or donated to Trumps inauguration got $288 billion richer, cumulatively, in his first year back](https://www.businessinsider.com/tech-billionaires-wealth-increased-trump-first-year-inauguration-2026-1) (Published: 2026-01-21)
+- [Exclusive: Alphabet’s CapitalG names Jill Chase and Alex Nichols as general partners](https://fortune.com/2026/01/21/alphabet-capitalg-jill-chase-alex-nichols-general-partners/) (Published: 2026-01-21)
+- [Nvidia and Broadcom Look Attractive Again. Citi Names Top Chip Picks](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_116fc582-000e-436a-98f2-d3279ac444d8) (Published: 2026-01-21)
+- [several crashes and halts daily for the last few weeks](https://www.bleepingcomputer.com/forums/t/813024/several-crashes-and-halts-daily-for-the-last-few-weeks/) (Published: 2026-01-21)
+- [Wall Street Loses Ground as Trump Threatens European Tariffs, Global Markets Fall](https://www.ibtimes.com.au/wall-street-loses-ground-trump-threatens-european-tariffs-global-markets-fall-1861175) (Published: 2026-01-21)
 - [High Bandwidth Memory Report 2026-2031: Surging Demand for AI Servers Spurs High Bandwidth Memory Market Growth; 25.58% CAGR Through 2026-2031](https://www.globenewswire.com/news-release/2026/01/21/3222551/28124/en/High-Bandwidth-Memory-Report-2026-2031-Surging-Demand-for-AI-Servers-Spurs-High-Bandwidth-Memory-Market-Growth-25-58-CAGR-Through-2026-2031.html) (Published: 2026-01-21)
 - [Optical Modulators Market Analysis Report 2026-2031: Emerging Economies Drive Strong Growth with Accelerated 5G and FTTH Rollout](https://www.globenewswire.com/news-release/2026/01/21/3222541/28124/en/Optical-Modulators-Market-Analysis-Report-2026-2031-Emerging-Economies-Drive-Strong-Growth-with-Accelerated-5G-and-FTTH-Rollout.html) (Published: 2026-01-21)
 - [Nvidia reportedly overtook Apple to become TSMC's biggest customer in 2025 due to exceptional Data Center revenue growth](https://www.notebookcheck.net/Nvidia-reportedly-overtook-Apple-to-become-TSMC-s-biggest-customer-in-2025-due-to-exceptional-Data-Center-revenue-growth.1208840.0.html) (Published: 2026-01-21)
 - [Nvidia accused of trying to cut a deal with Anna’s Archive for high‑speed access to the massive pirated book haul — allegedly chased stolen data to fuel its LLMs](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-accused-of-trying-to-cut-a-deal-with-annas-archive-for-high-speed-access-to-the-massive-pirated-book-haul-allegedly-chased-stolen-data-to-fuel-its-llms) (Published: 2026-01-21)
 - [nvidia-nat-redis 1.5.0a20260121](https://pypi.org/project/nvidia-nat-redis/1.5.0a20260121/) (Published: 2026-01-21)
-- [nvidia-nat-data-flywheel 1.5.0a20260121](https://pypi.org/project/nvidia-nat-data-flywheel/1.5.0a20260121/) (Published: 2026-01-21)
-- [nvidia-nat-semantic-kernel 1.5.0a20260121](https://pypi.org/project/nvidia-nat-semantic-kernel/1.5.0a20260121/) (Published: 2026-01-21)
-- [nvidia-nat-opentelemetry 1.5.0a20260121](https://pypi.org/project/nvidia-nat-opentelemetry/1.5.0a20260121/) (Published: 2026-01-21)
-- [nvidia-nat-openpipe-art 1.5.0a20260121](https://pypi.org/project/nvidia-nat-openpipe-art/1.5.0a20260121/) (Published: 2026-01-21)
-- [nvidia-nat-llama-index 1.5.0a20260121](https://pypi.org/project/nvidia-nat-llama-index/1.5.0a20260121/) (Published: 2026-01-21)
