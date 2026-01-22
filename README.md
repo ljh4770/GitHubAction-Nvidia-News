@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-22 20:27:49**_
+_Last updated: **2026-01-22 20:52:05**_
 
 - [China Is Cracking Down On Nvidia Graphics Cards (For Good Reasons)](https://www.bgr.com/2077746/why-china-cracking-down-nvidia-gpus-ai/) (Published: 2026-01-21)
 - [Dow surges 700 points after Trump announces Greenland framework, calls off tariff threat](https://nypost.com/2026/01/21/business/dow-surges-700-points-amid-trump-greenland-framework-tariff-threat-called-off/) (Published: 2026-01-21)
