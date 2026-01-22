@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-22 17:17:21**_
+_Last updated: **2026-01-22 17:49:01**_
 
-- [TE Connectivity Q1 Earnings Call Highlights](https://www.marketbeat.com/instant-alerts/te-connectivity-q1-earnings-call-highlights-2026-01-21/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-01-21)
-- [Volvo aims for an EV reset with the new EX60 crossover](https://www.theverge.com/news/864561/volvo-ex60-range-price-specs) (Published: 2026-01-21)
-- [Trump says Mark Zuckerberg showed him a ‘Manhattan-sized’ AI data center](https://fortune.com/2026/01/21/trump-says-mark-zuckerberg-showed-him-a-manhattan-sized-ai-data-center/) (Published: 2026-01-21)
-- [“Engineers don’t write code anymore” — Anthropic CEO says AI is about to eat the entire profession](https://www.windowscentral.com/artificial-intelligence/engineers-dont-write-code-anymore-anthropic-ceo-says-ai-is-about-to-eat-the-entire-profession) (Published: 2026-01-21)
-- [Nvidia CEO Says the AI Boom Will Lead to More Jobs for Plumbers](https://gizmodo.com/nvidia-ceo-says-the-ai-boom-will-lead-to-more-jobs-for-plumbers-2000712516) (Published: 2026-01-21)
-- [Red AI: Nvidia CEO Jensen Huang Plans Visit to China as Trade Tensions Simmer](https://www.breitbart.com/tech/2026/01/21/red-ai-nvidia-ceo-jensen-huang-plans-visit-to-china-as-trade-tensions-simmer/) (Published: 2026-01-21)
-- [RTX 5090 cards sell out while scalpers make bank](https://www.pcworld.com/article/3038922/rtx-5090-cards-sell-out-while-scalpers-make-bank.html) (Published: 2026-01-21)
-- [CyberLink PowerDirector Ultimate 2026 v24.1.1320](https://post.rlsbb.to/cyberlink-powerdirector-ultimate-2026-v24-1-1320/) (Published: 2026-01-21)
-- [AI startup known as ‘ChatGPT for doctors’ doubles valuation to $12B in latest funding round](https://nypost.com/2026/01/21/business/ai-startup-openevidence-doubles-valuation-to-12b-in-latest-funding-round/) (Published: 2026-01-21)
-- [Tech stocks rebound after Trump says U.S. won't use military force in Greenland](https://www.cnbc.com/2026/01/21/trump-tech-stocks-jump-greenland-military.html) (Published: 2026-01-21)
+- [Nvidia report finds AI set to take off in retail, but openness is required for scale](https://siliconangle.com/2026/01/21/nvidia-report-finds-ai-set-take-off-retail-openness-required-scale/) (Published: 2026-01-21)
+- [NVIDIA CEO Jensen Huang Reflects on Selling Shares at $300M to Buy Parents a Mercedes S-Class After the IPO, Saying He Now Regrets the Timing](https://wccftech.com/nvidia-ceo-reflects-on-selling-shares-at-300m-to-buy-parents-a-mercedes/) (Published: 2026-01-21)
+- [The Alienware Area-51 is an absolutely monstrous gaming PC, but I sort of wish it felt more otherworldly](https://www.gamesradar.com/hardware/desktop-pc/alienware-area-51-review/) (Published: 2026-01-21)
+- [This Super Semiconductor Stock Crushed Nvidia in 2025, and Jan. 28 Could Be a Very Big Day for Its Investors](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b2ea616b-23ac-456f-9578-a6a68658cb00) (Published: 2026-01-21)
+- [The MSI Katana 15 HX B14W shows just how far budget gaming laptops have come | Review](https://www.gamesradar.com/hardware/laptops/msi-katana-15-hx-b14w-review/) (Published: 2026-01-21)
+- [Volvo EX60 SUV preview: 400-mile range, 670 hp and Google Gemini onboard](https://slashdot.org/firehose.pl?op=view&amp;id=180633632) (Published: 2026-01-21)
+- [Volvo's New EX60 Is Here and It Might Be the Brand's Most Important EV Yet](https://www.cnet.com/home/electric-vehicles/volvo-new-ex60-electric-suv-debut/) (Published: 2026-01-21)
+- [Volvo’s EX60 Promises 400-mile Range in a More Competitive EV Climate](https://gizmodo.com/volvos-ex60-promises-400-mile-range-in-a-more-competitive-ev-climate-2000712520) (Published: 2026-01-21)
+- [2027 Volvo EX60 Debuts With Rugged Cross Country Trim, Chiseled Looks And Lots Of Tech](https://www.jalopnik.com/2080969/volvo-ex60-debut-cross-country-trim-design-specs-details/) (Published: 2026-01-21)
