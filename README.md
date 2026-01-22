@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-22 21:55:36**_
+_Last updated: **2026-01-22 22:24:45**_
 
+- [Video Game God Of War Congratulates Live Action God Of War](https://kotaku.com/christopher-judge-kratos-actor-ryan-hurst-2000661932) (Published: 2026-01-21)
+- [Cathie Wood’s ARK Invest Makes Bold Bitcoin and Nvidia Prediction](https://beincrypto.com/cathie-wood-ark-invest-bitcoin-prediction/) (Published: 2026-01-21)
 - [Washington Is Divided on AI Chip Exports as Anthropic CEO Deems China Sales a ‘Mistake’](https://gizmodo.com/washington-is-divided-on-ai-chips-exports-as-anthropic-ceo-deems-china-sales-a-mistake-2000712639) (Published: 2026-01-21)
 - [US House panel advances bill to give Congress authority on AI chip exports](https://www.aljazeera.com/economy/2026/1/21/us-house-panel-advances-bill-to-give-congress-authority-on-ai-chip-exports) (Published: 2026-01-21)
 - [Streamlining CUB with a Single-Call API](https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/) (Published: 2026-01-21)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-22 21:55:36**_
 - [OpenEvidence Founder Doubles His Wealth As Medical AI Startup Hits $12 Billion Valuation](https://www.forbes.com/sites/rashishrivastava/2026/01/21/openevidence-founder-doubles-his-wealth-as-medical-ai-startup-hits-12-billion-valuation/) (Published: 2026-01-21)
 - [‘Tough tech’ requires a different kind of venture capital](https://insights.som.yale.edu/insights/tough-tech-requires-different-kind-of-venture-capital) (Published: 2026-01-21)
 - [The AI Boom Just Cost Apple Its Exclusive Spot in TSMC's Chip Line](https://www.androidheadlines.com/2026/01/apple-loses-tsmc-priority-shipment-status-ai-boom-impact.html) (Published: 2026-01-21)
-- [House GOP wants final say on AI chip exports after Trump gives Nvidia a China hall pass](https://www.theregister.com/2026/01/21/house_gop_ai_chip_exports_trump_china_nvidia/) (Published: 2026-01-21)
-- [China Is Cracking Down On Nvidia Graphics Cards (For Good Reasons)](https://www.bgr.com/2077746/why-china-cracking-down-nvidia-gpus-ai/) (Published: 2026-01-21)
