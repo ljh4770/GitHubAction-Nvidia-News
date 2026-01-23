@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-23 20:33:54**_
+_Last updated: **2026-01-23 20:52:56**_
 
 - [RAM shortage 2026: How Lenovo, HP, Dell, Apple, and other PC makers face rising costs](https://thegadgetflow.com/blog/ram-shortage-2026-how-lenovo-hp-dell-apple-and-other-pc-makers-face-rising-costs/) (Published: 2026-01-22)
 - [The era of the Small Giant](https://changelog.com/podcast/673) (Published: 2026-01-22)
