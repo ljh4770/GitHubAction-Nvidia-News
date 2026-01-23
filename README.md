@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-23 15:31:38**_
+_Last updated: **2026-01-23 15:53:37**_
 
+- [Microsoft's Xbox app has been released for Arm PCs—just in time for Nvidia's new chip?](https://www.pcgamer.com/software/operating-systems/microsofts-xbox-app-has-been-released-for-arm-pcs-just-in-time-for-nvidias-new-chip/) (Published: 2026-01-22)
+- [The “Famous” Claude Code Has Managed to Port NVIDIA’s CUDA Backend to ROCm in Just 30 Minutes, and Folks Are Calling It the End of the CUDA Moat](https://wccftech.com/the-claude-code-has-managed-to-port-nvidia-cuda-backend-to-rocm-in-just-30-minutes/) (Published: 2026-01-22)
 - [Grinning Wolf Tells Little Red Riding Hood That Her Safety Is His Top Priority](http://futurism.com/artificial-intelligence/ai-startup-red-riding-hood) (Published: 2026-01-22)
 - [Lenovo ThinkPad P1 Gen 8 Review: A Laptop That Will Torpedo Your Work/Life Balance](https://gizmodo.com/lenovo-thinkpad-p1-gen-8-review-a-laptop-that-will-torpedo-your-work-life-balance-2000712654) (Published: 2026-01-22)
 - [US stock market rallied for a second straight day: Why the Dow, S&P 500, and Nasdaq are climbing toward record highs as Greenland tensions ease and key inflation data looms](https://economictimes.indiatimes.com/news/international/us/us-stock-market-rallied-for-a-second-straight-day-why-the-dow-sp-500-and-nasdaq-are-climbing-toward-record-highs-as-greenland-tensions-ease-and-key-inflation-data-looms/articleshow/127166974.cms) (Published: 2026-01-22)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-23 15:31:38**_
 - [5 ETFs That Could Outperform the S&P 500 in the Next 5 Years](https://finance.yahoo.com/news/5-etfs-could-outperform-p-150233933.html) (Published: 2026-01-22)
 - [(PR) Corvex Secures Long-Term NVIDIA H200 GPU Deployment](https://www.techpowerup.com/345502/corvex-secures-long-term-nvidia-h200-gpu-deployment) (Published: 2026-01-22)
 - [These AI Models Might Take Down Superbugs](https://www.forbes.com/sites/the-prototype/2026/01/22/these-ai-models-might-take-down-superbugs/) (Published: 2026-01-22)
-- [(2026.01.23) (various)](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/01.html#20260123_various) (Published: 2026-01-22)
-- [Where is the US-China AI 'race' heading in 2026?](https://www.dw.com/en/where-is-the-us-china-ai-race-heading-in-2026/a-75608670) (Published: 2026-01-22)
