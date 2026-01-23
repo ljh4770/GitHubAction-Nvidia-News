@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-23 18:47:33**_
+_Last updated: **2026-01-23 19:13:39**_
 
+- [Lovecraftian Horror Dread Meridian Struggles With Combat](https://www.uploadvr.com/lovecraftian-horror-dread-meridian/) (Published: 2026-01-22)
+- [Nvidia DLSS Gaming on ARM](https://slashdot.org/submission/17344258/nvidia-dlss-gaming-on-arm) (Published: 2026-01-22)
 - [Deloitte to scrap traditional job titles as AI ushers in a ‘modernization’ of the Big Four](https://fortune.com/2026/01/22/deloitte-job-title-change-ai-reshapes-big-4-accounting-consulting-firms/) (Published: 2026-01-22)
 - [NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award](https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award/) (Published: 2026-01-22)
 - [OpenAI’s former head of sales is entering VC. She still calls herself an ‘AGI sherpa’](https://fortune.com/2026/01/22/openais-former-head-of-sales-is-entering-vc-she-still-calls-herself-an-agi-sherpa/) (Published: 2026-01-22)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-23 18:47:33**_
 - [GeForce Now adds support for flight controllers](https://slashdot.org/firehose.pl?op=view&amp;id=180638984) (Published: 2026-01-22)
 - [Crashes no blue screen, unknown programs, BHO's and strange hidden processes](https://www.bleepingcomputer.com/forums/t/813048/crashes-no-blue-screen-unknown-programs-bhos-and-strange-hidden-processes/) (Published: 2026-01-22)
 - [Solana-based Natix brings DePIN data into self-driving AI with Valeo](https://cointelegraph.com/news/solana-depin-project-self-driving-camera) (Published: 2026-01-22)
-- [(PR) Jensen Outlines "Largest Infrastructure Buildout in Human History" During WEF Q&A](https://www.techpowerup.com/345510/jensen-outlines-largest-infrastructure-buildout-in-human-history-during-wef-q-a) (Published: 2026-01-22)
-- [How FPS Limiters Impact Gameplay: A Guide](https://wccftech.com/how-fps-limiters-impact-gameplay-a-guide/) (Published: 2026-01-22)
