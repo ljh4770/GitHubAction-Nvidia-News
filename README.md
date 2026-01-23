@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-23 22:59:54**_
+_Last updated: **2026-01-23 23:30:21**_
 
+- [Jim Cramer says he's not abandoning the Mag 7 stocks despite recent struggles. Here's why](https://www.cnbc.com/2026/01/22/jim-cramer-says-hes-not-bailing-on-the-mag-7-amid-storage-stock-rally.html) (Published: 2026-01-22)
 - [The Powerful 4K-Ready Skytech O11 Vision Radeon 9070 XT Gaming PC Drops to $1,597](https://www.ign.com/articles/skytech-o11-vision-radeon-9070-xt-gaming-pc-drops-to-1597) (Published: 2026-01-22)
 - [Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell](https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell/) (Published: 2026-01-22)
 - [RAM prices are wild in 2026, yet good PC deals still exist - here's how I find them](https://www.zdnet.com/article/high-ram-prices-how-to-find-laptop-deal/) (Published: 2026-01-22)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-23 22:59:54**_
 - [VIDEO: Larry Fink vs Larry Fink at Davos](https://freerepublic.com/focus/f-bloggers/4363474/posts) (Published: 2026-01-22)
 - [(PR) Intel Reports Q4 and Full-Year 2025 Financial Results](https://www.techpowerup.com/345529/intel-reports-q4-and-full-year-2025-financial-results) (Published: 2026-01-22)
 - [(PR) Intel Reports Q4 and Full-Year 2025 Financial Results, Shares Down 11%](https://www.techpowerup.com/345529/intel-reports-q4-and-full-year-2025-financial-results-shares-down-11) (Published: 2026-01-22)
-- [Intel stock falls after company offers soft first-quarter guidance](https://www.cnbc.com/2026/01/22/intel-intc-earnings-report-q4-2025-.html) (Published: 2026-01-22)
