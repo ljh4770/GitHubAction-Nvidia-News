@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-23 22:34:04**_
+_Last updated: **2026-01-23 22:49:37**_
 
 - [The Powerful 4K-Ready Skytech O11 Vision Radeon 9070 XT Gaming PC Drops to $1,597](https://www.ign.com/articles/skytech-o11-vision-radeon-9070-xt-gaming-pc-drops-to-1597) (Published: 2026-01-22)
 - [Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell](https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell/) (Published: 2026-01-22)
