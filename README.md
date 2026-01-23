@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-23 17:48:27**_
+_Last updated: **2026-01-23 17:58:36**_
 
+- [OpenAI’s former head of sales is entering VC. She still calls herself an ‘AGI sherpa’](https://fortune.com/2026/01/22/openais-former-head-of-sales-is-entering-vc-she-still-calls-herself-an-agi-sherpa/) (Published: 2026-01-22)
+- [Double salary, same job: Nvidia’s Jensen Huang says one career path will benefit most in AI era. It's not IT roles](https://economictimes.indiatimes.com/magazines/panache/double-salary-same-job-nvidias-jensen-huang-says-one-career-path-will-benefit-most-in-ai-era-its-not-it-roles/articleshow/127180310.cms) (Published: 2026-01-22)
 - [Beyond The Robots: What CES 2026 Really Means For Digital Workplace Leaders](https://www.forrester.com/blogs/beyond-the-robots-what-ces-2026-really-means-for-digital-workplace-leaders/) (Published: 2026-01-22)
 - [GeForce Now adds support for flight controllers](https://slashdot.org/firehose.pl?op=view&amp;id=180638984) (Published: 2026-01-22)
 - [Crashes no blue screen, unknown programs, BHO's and strange hidden processes](https://www.bleepingcomputer.com/forums/t/813048/crashes-no-blue-screen-unknown-programs-bhos-and-strange-hidden-processes/) (Published: 2026-01-22)
@@ -9,4 +11,3 @@ _Last updated: **2026-01-23 17:48:27**_
 - [How FPS Limiters Impact Gameplay: A Guide](https://wccftech.com/how-fps-limiters-impact-gameplay-a-guide/) (Published: 2026-01-22)
 - [Russell 2000 index hits record high, up 1.25%: U.S. stock market surges as small caps lead the broad rally - Dow also rises on stronger GDP](https://economictimes.indiatimes.com/news/international/us/russell-2000-index-hits-record-high-up-1-25-u-s-stock-market-surges-as-small-caps-lead-the-broad-rally-dow-also-rises-on-stronger-gdp/articleshow/127177882.cms) (Published: 2026-01-22)
 - [Nvidia CEO Jensen Huang Predicts Six-Figure Salaries for Workers Building AI Infrastructure](https://www.breitbart.com/tech/2026/01/22/nvidia-ceo-jensen-huang-predicts-six-figure-salaries-for-workers-building-ai-infrastructure/) (Published: 2026-01-22)
-- [Pathologic 3 review](https://www.pcgamer.com/games/adventure/pathologic-3-review/) (Published: 2026-01-22)
