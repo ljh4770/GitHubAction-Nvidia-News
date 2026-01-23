@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-22 23:57:15**_
+_Last updated: **2026-01-23 02:08:28**_
 
+- [I found the Lenovo ThinkPad to rule them all - and its modular RAM changes everything](https://www.zdnet.com/article/lenovo-thinkpad-p1-gen-8-review/) (Published: 2026-01-22)
+- [This OS quietly powers all AI - and most future IT jobs, too](https://www.zdnet.com/article/why-ai-runs-on-linux/) (Published: 2026-01-22)
+- [Arknights: Endfield now available](https://www.gematsu.com/2026/01/arknights-endfield-now-available) (Published: 2026-01-22)
+- [The Wildly Powerful Lenovo Legion Pro 7 Gaming Laptop with RTX 5090 GPU Drops to Just $3,300](https://www.ign.com/articles/lenovo-legion-pro-7-rtx-5090-gaming-laptop-deal) (Published: 2026-01-22)
+- [Taiwanese firms prepare for silicon photonics and CPO packaging opportunities as AI data center continues growth](https://www.digitimes.com/news/a20260122PD210/siph-cpo-packaging-data-center.html) (Published: 2026-01-22)
+- [Runway Gen-4.5 Image to Video Tool](https://www.newsshooter.com/2026/01/21/runway-gen-4-5-image-to-video-tool/) (Published: 2026-01-22)
+- [Future jobs in AI will come with a hardhat and boots, tech bigshots argue](https://www.theregister.com/2026/01/22/future_ai_jobs_tech_bigshots/) (Published: 2026-01-22)
+- [AI networking startup Upscale scores $200M to challenge Nvidia's NVSwitch](https://www.theregister.com/2026/01/22/upscale_skyhammer_nvidia/) (Published: 2026-01-22)
+- [Daily Hacker News for 2026-01-21](https://www.daemonology.net/hn-daily/2026-01-21.html) (Published: 2026-01-22)
 - [nvidia-ml-py 13.580.126](https://pypi.org/project/nvidia-ml-py/13.580.126/) (Published: 2026-01-21)
-- [Nvidia CEO says AI will create ‘six-figure salary’ jobs for electricians and plumbers](https://www.straitstimes.com/business/companies-markets/nvidia-ceo-says-ai-will-create-six-figure-salary-jobs-for-electricians-and-plumbers) (Published: 2026-01-21)
-- [Upscale AI raises $200M to develop scale-up AI networking chips](https://siliconangle.com/2026/01/21/upscale-ai-raises-200m-develop-scale-ai-networking-chips/) (Published: 2026-01-21)
-- [Stock market today: Live updates](https://www.cnbc.com/2026/01/21/stock-market-today-live-updates.html) (Published: 2026-01-21)
-- [More than 1TB of Confidential Apple Information Stolen in Luxshare Cyberattack](https://www.mactrast.com/2026/01/more-than-1tb-of-confidential-apple-information-stolen-in-luxshare-cyberattack/) (Published: 2026-01-21)
-- [What Bubble? Nvidia CEO Says AI Needs Trillions More in Investments](https://decrypt.co/355345/what-bubble-nvidia-ceo-says-ai-needs-trillions-more-investments) (Published: 2026-01-21)
-- [Revolut Makes One-Tap Checkout Compatible With Google’s Agent Payments Protocol](https://www.pymnts.com/news/payments-innovation/2026/revolut-makes-one-tap-checkout-compatible-with-google-agent-payments-protocol/) (Published: 2026-01-21)
-- [A timeline of the US semiconductor market in 2025 | TechCrunch](https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/) (Published: 2026-01-21)
-- [Tough luck, Elon - EPA shuts loophole that lets hyperscalers quickly deploy power generators without needing a permit](https://www.techradar.com/pro/tough-luck-elon-epa-shuts-loophole-that-lets-hyperscalers-quickly-deploy-power-generators-without-needing-a-permit) (Published: 2026-01-21)
-- [Video Game God Of War Congratulates Live Action God Of War](https://kotaku.com/christopher-judge-kratos-actor-ryan-hurst-2000661932) (Published: 2026-01-21)
