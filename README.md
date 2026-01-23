@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-23 09:16:33**_
+_Last updated: **2026-01-23 09:47:00**_
 
+- [More expensive iPhones and MacBooks: TSMC rumored to slap Apple with biggest price increase in years](https://www.notebookcheck.net/More-expensive-iPhones-and-MacBooks-TSMC-rumored-to-slap-Apple-with-biggest-price-increase-in-years.1208847.0.html) (Published: 2026-01-22)
+- [Ayodhya museum gets rare 233-year-old Valmiki Ramayana manuscript: What makes it so special?](https://timesofindia.indiatimes.com/etimes/trending/ayodhya-museum-gets-rare-233-year-old-valmiki-ramayana-manuscript-what-makes-it-so-special/articleshow/127134586.cms) (Published: 2026-01-22)
 - [The RTX 5090 is now $5,800: 4 GPUs that are complete rip-offs](https://www.madshrimps.be/news/the-rtx-5090-is-now-5800-4-gpus-that-are-complete-rip-offs/) (Published: 2026-01-22)
 - [NVIDIA DLSS Comes to Arknights: Endfield and More Games](https://www.madshrimps.be/news/nvidia-dlss-comes-to-arknights-endfield-and-more-games/) (Published: 2026-01-22)
 - [Japan Data Center Market Analysis and Investment Opportunity, 2026-2031 - Medium-Sized Data Centers Outpace Larger Builds, Offering Speed-to-Market Advantages](https://www.globenewswire.com/news-release/2026/01/22/3223440/28124/en/Japan-Data-Center-Market-Analysis-and-Investment-Opportunity-2026-2031-Medium-Sized-Data-Centers-Outpace-Larger-Builds-Offering-Speed-to-Market-Advantages.html) (Published: 2026-01-22)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-23 09:16:33**_
 - [The world needs more plumbers and electricians](https://www.computerweekly.com/blog/Cliff-Sarans-Enterprise-blog/The-world-needs-more-plumbers-and-electricians) (Published: 2026-01-22)
 - [Show HN: An accurate AI password guesser based on personal information](https://github.com/Tzohar/PassLLM) (Published: 2026-01-22)
 - [AI PC battle heats up as Nvidia and MediaTek join forces](https://www.digitimes.com/news/a20260122PD242/nvidia-trends-ai-pc-mediatek-pc.html) (Published: 2026-01-22)
-- [jboat added to PyPI](https://pypi.org/project/jboat/) (Published: 2026-01-22)
-- [RAM prices are out of control, but you can still buy a good laptop in 2026 - here's how](https://www.zdnet.com/article/high-ram-prices-how-to-buy-a-laptop/) (Published: 2026-01-22)
