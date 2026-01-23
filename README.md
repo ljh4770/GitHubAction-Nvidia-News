@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-23 11:25:33**_
+_Last updated: **2026-01-23 11:43:35**_
 
+- [Show HN: Local-First AI Video Upscaler with CPU Fallback](https://github.com/pratik227/upscale_video_4k) (Published: 2026-01-22)
+- [Chinese companies reportedly considering sourcing H200 chips from the black market as chips held at the border — demand for Nvidia AI GPUs remain high despite political uncertainty](https://www.tomshardware.com/tech-industry/chinese-companies-reportedly-considering-sourcing-h200-chips-from-the-black-market-as-chips-held-at-the-border-demand-for-nvidia-ai-gpus-remain-high-despite-political-uncertainty) (Published: 2026-01-22)
+- [AMD ROCm CES 2026 press Q&A roundtable transcript — 'ROCm from 2023 is completely unrecognizable to ROCm today' company details, as it seeks to break down barriers to AI development](https://www.tomshardware.com/pc-components/gpu-drivers/amd-rocm-ces-2026-press-q-and-a-roundtable-transcript-rocm-from-2023-is-completely-unrecognizable-to-rocm-today-company-details-as-it-seeks-to-break-down-barriers-to-ai-development) (Published: 2026-01-22)
 - [Userful’s Infinity Platform Achieves Breakthroughs in Security, Operational Awareness, and Response with New Features, Integrations and Partnerships](https://www.globenewswire.com/news-release/2026/01/22/3223527/0/en/Userful-s-Infinity-Platform-Achieves-Breakthroughs-in-Security-Operational-Awareness-and-Response-with-New-Features-Integrations-and-Partnerships.html) (Published: 2026-01-22)
 - [How Netflix's stock lost its FANG-era mojo](https://www.businessinsider.com/netflix-q4-earnings-stock-price-reaction-selloff-outlook-wbd-deal-2026-1) (Published: 2026-01-22)
 - [AMD China and Micro Center Confirm Ryzen 7 9850X3D Launch on January 28](https://www.techpowerup.com/345495/amd-china-and-micro-center-confirm-ryzen-7-9850x3d-launch-on-january-28) (Published: 2026-01-22)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-23 11:25:33**_
 - [nvidia-nat-phoenix 1.5.0a20260122](https://pypi.org/project/nvidia-nat-phoenix/1.5.0a20260122/) (Published: 2026-01-22)
 - [nvidia-nat-crewai 1.5.0a20260122](https://pypi.org/project/nvidia-nat-crewai/1.5.0a20260122/) (Published: 2026-01-22)
 - [nvidia-nat-agno 1.5.0a20260122](https://pypi.org/project/nvidia-nat-agno/1.5.0a20260122/) (Published: 2026-01-22)
-- [nvidia-nat-strands 1.5.0a20260122](https://pypi.org/project/nvidia-nat-strands/1.5.0a20260122/) (Published: 2026-01-22)
-- [nvidia-nat-mysql 1.5.0a20260122](https://pypi.org/project/nvidia-nat-mysql/1.5.0a20260122/) (Published: 2026-01-22)
-- [nvidia-nat-vanna 1.5.0a20260122](https://pypi.org/project/nvidia-nat-vanna/1.5.0a20260122/) (Published: 2026-01-22)
