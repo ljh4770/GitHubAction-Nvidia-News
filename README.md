@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-23 14:56:55**_
+_Last updated: **2026-01-23 15:31:38**_
 
+- [Grinning Wolf Tells Little Red Riding Hood That Her Safety Is His Top Priority](http://futurism.com/artificial-intelligence/ai-startup-red-riding-hood) (Published: 2026-01-22)
+- [Lenovo ThinkPad P1 Gen 8 Review: A Laptop That Will Torpedo Your Work/Life Balance](https://gizmodo.com/lenovo-thinkpad-p1-gen-8-review-a-laptop-that-will-torpedo-your-work-life-balance-2000712654) (Published: 2026-01-22)
+- [US stock market rallied for a second straight day: Why the Dow, S&P 500, and Nasdaq are climbing toward record highs as Greenland tensions ease and key inflation data looms](https://economictimes.indiatimes.com/news/international/us/us-stock-market-rallied-for-a-second-straight-day-why-the-dow-sp-500-and-nasdaq-are-climbing-toward-record-highs-as-greenland-tensions-ease-and-key-inflation-data-looms/articleshow/127166974.cms) (Published: 2026-01-22)
+- [From invisibility cloaks to AI chips: Neurophos raises $110M to build tiny optical processors for inferencing | TechCrunch](https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/) (Published: 2026-01-22)
+- [Xbox app is now available on all Arm-based Windows 11 devices — Microsoft says ‘more than 85% of Game Pass catalog is compatible with these PCs’](https://www.tomshardware.com/pc-components/cpus/xbox-app-is-now-available-on-all-arm-based-windows-11-devices-microsoft-says-more-than-85-percent-of-game-pass-catalog-is-compatible-with-these-pcs) (Published: 2026-01-22)
+- [5 ETFs That Could Outperform the S&P 500 in the Next 5 Years](https://finance.yahoo.com/news/5-etfs-could-outperform-p-150233933.html) (Published: 2026-01-22)
+- [(PR) Corvex Secures Long-Term NVIDIA H200 GPU Deployment](https://www.techpowerup.com/345502/corvex-secures-long-term-nvidia-h200-gpu-deployment) (Published: 2026-01-22)
+- [These AI Models Might Take Down Superbugs](https://www.forbes.com/sites/the-prototype/2026/01/22/these-ai-models-might-take-down-superbugs/) (Published: 2026-01-22)
+- [(2026.01.23) (various)](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/01.html#20260123_various) (Published: 2026-01-22)
 - [Where is the US-China AI 'race' heading in 2026?](https://www.dw.com/en/where-is-the-us-china-ai-race-heading-in-2026/a-75608670) (Published: 2026-01-22)
-- [One of the best OLED gaming laptops from last year is a bargain in 2026 — Lenovo's RTX 5060 winner offers great specs and an OLED display that are 100% worth the money](https://www.windowscentral.com/hardware/laptops/lenovo-legion-5i-rtx-5060-january-2026) (Published: 2026-01-22)
-- [Apple product plans stolen after major cyberattack on key supplier Luxshare](https://www.androidheadlines.com/2026/01/apple-product-plans-stolen-after-major-cyberattack-on-key-supplier-luxshare.html) (Published: 2026-01-22)
-- [Nvidia Allegedly Sought 'High-Speed Access' To Pirated Book Library for AI Training](https://yro.slashdot.org/story/26/01/22/1343205/nvidia-allegedly-sought-high-speed-access-to-pirated-book-library-for-ai-training) (Published: 2026-01-22)
-- [Show HN: LLM-X – Know How Much Memory Your LLM Needs](https://github.com/Sheikyon/LLM-X) (Published: 2026-01-22)
-- [Intel earnings set to test stock rally as Wall Street grows bullish on chipmaker’s AI position](https://finance.yahoo.com/news/intel-earnings-set-to-test-stock-rally-as-wall-street-grows-bullish-on-chipmakers-ai-position-143443999.html) (Published: 2026-01-22)
-- [Jim Cramer Remains Bullish on Vertiv Despite Newer Nvidia Chips](https://finance.yahoo.com/news/jim-cramer-remains-bullish-vertiv-141031315.html) (Published: 2026-01-22)
-- [Hackers threaten to release ‘exact’ details of unreleased Apple products](https://www.macworld.com/article/3039870/hackers-threaten-to-release-exact-details-of-unreleased-apple-products.html) (Published: 2026-01-22)
-- [Congress wants veto power over Trump administration for AI chip exports — new proposed AI Overwatch Act would shift ultimate control of high-performance chip exports](https://www.tomshardware.com/tech-industry/artificial-intelligence/congress-wants-veto-power-over-trump-administration-for-ai-chip-exports-new-proposed-ai-overwatch-act-would-shift-ultimate-control-of-high-performance-chip-exports) (Published: 2026-01-22)
-- [Volvo EX60: Sweden’s answer to BMW iX3, up to 810km on a single charge](https://soyacincau.com/2026/01/22/volvo-ex60-swedens-answer-to-bmw-ix3-up-to-810km-on-a-single-charge/) (Published: 2026-01-22)
