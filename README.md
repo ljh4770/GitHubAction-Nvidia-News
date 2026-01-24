@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 20:55:38**_
+_Last updated: **2026-01-24 21:19:35**_
 
+- [Fei-Fei Li’s World Labs reportedly raising funding at $5B valuation](https://siliconangle.com/2026/01/23/fei-fei-lis-world-labs-reportedly-raising-funding-5b-valuation/) (Published: 2026-01-23)
 - [Jamie Dimon is learning what happens when a CEO dares to defy Trump | CNN Business](https://www.cnn.com/2026/01/23/business/jamie-dimon-donald-trump) (Published: 2026-01-23)
 - [GPU price tracking 2026: Lowest price on every graphics card from Nvidia, AMD, and Intel today — here are the best deals during the AI-driven pricing crisis](https://www.tomshardware.com/pc-components/gpus/lowest-gpu-prices-tracking) (Published: 2026-01-23)
 - [Intel shares plunge as chipmaker suffers manufacturing woes, inventory shortages](https://nypost.com/2026/01/23/business/intel-shares-plunge-as-chipmaker-suffers-manufacturing-woes-inventory-shortages/) (Published: 2026-01-23)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-24 20:55:38**_
 - [5 ASX ETFs for genuine global exposure](https://www.fool.com.au/2026/01/24/5-asx-etfs-for-genuine-global-exposure/) (Published: 2026-01-23)
 - [Is this the future of trading? NYSE reportedly building a venue for 24/7 tokenized stock and EDF settling](https://www.techradar.com/pro/is-this-the-future-of-trading-nyse-reportedly-building-a-venue-for-24-7-tokenized-stock-and-edf-settling) (Published: 2026-01-23)
 - [GeForce NOW just became a flight risk](https://www.androidheadlines.com/2026/01/geforce-now-just-became-a-flight-risk.html) (Published: 2026-01-23)
-- [China allows Alibaba, others to prep Nvidia orders](https://economictimes.indiatimes.com/news/international/business/china-allows-alibaba-others-to-prep-nvidia-orders/articleshow/127322202.cms) (Published: 2026-01-23)
