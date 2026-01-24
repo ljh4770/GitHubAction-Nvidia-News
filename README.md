@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 23:33:44**_
+_Last updated: **2026-01-24 23:46:45**_
 
 - [Nvidia director Persis Drell resigns with $26 million worth of stock after decade on board](https://www.cnbc.com/2026/01/23/nvidia-director-persis-drell-resigns-decade-on-board-26-million-stock.html) (Published: 2026-01-23)
 - [Windows 11 KB5074109 update: Microsoft advises rollback](https://www.notebookcheck.net/Windows-11-KB5074109-update-Microsoft-advises-rollback.1211166.0.html) (Published: 2026-01-23)
