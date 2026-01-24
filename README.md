@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 11:22:12**_
+_Last updated: **2026-01-24 11:36:23**_
 
+- [Big Tech and AI lobbying 'skyrockets' under Trump — and experts are sounding the alarm](https://www.rawstory.com/raw-investigates/trump-plays-favorites-as-big-tech-and-ai-giants-splash-record-lobbying-funds-experts/) (Published: 2026-01-23)
+- [Anime Market Analysis Report 2026 - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031](https://www.globenewswire.com/news-release/2026/01/23/3224566/28124/en/Anime-Market-Analysis-Report-2026-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html) (Published: 2026-01-23)
+- [MSI MPG 271QR QD-OLED X50 review: Two-fer monitor pairs 500Hz with USB-C](https://www.pcworld.com/article/3040438/msi-mpg-271qr-qd-oled-x50-review.html) (Published: 2026-01-23)
 - [Intel shares down 13% as company only manages to shrink losses in latest earnings, demand to outpace 2026 supply — $300 million deficit comes despite more than $20 billion in outside investment from Nvidia and friends](https://www.tomshardware.com/pc-components/cpus/intel-shares-down-13-percent-as-company-only-manages-to-shrink-losses-in-latest-earnings-demand-to-outpace-2026-supply-usd300-million-deficit-comes-despite-more-than-usd20-billion-in-outside-investment-from-nvidia) (Published: 2026-01-23)
 - [Intel shares tumble as supply chain snarls hamper turnaround](https://www.channelnewsasia.com/business/intel-shares-tumble-supply-chain-snarls-hamper-turnaround-5878946) (Published: 2026-01-23)
 - [No ‘job apocalypse’: Goldman Sachs CEO denies the AI hiring nightmare is real](https://fortune.com/2026/01/23/no-job-apocalypse-goldman-sachs-ceo-david-solomon-ai-hiring-nightmare/) (Published: 2026-01-23)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-24 11:22:12**_
 - [30% price shock incoming as Nvidia reportedly halts RTX 5060 supply for six months](https://www.notebookcheck.net/30-price-shock-incoming-as-Nvidia-reportedly-halts-RTX-5060-supply-for-six-months.1209919.0.html) (Published: 2026-01-23)
 - [$4.5 Billion Whole Genome Sequencing Market Outlook, 2031 Featuring Profiles of Illumina, Thermo Fisher Scientific, Oxford Nanopore Technologies and Other Leading Players](https://www.globenewswire.com/news-release/2026/01/23/3224528/28124/en/4-5-Billion-Whole-Genome-Sequencing-Market-Outlook-2031-Featuring-Profiles-of-Illumina-Thermo-Fisher-Scientific-Oxford-Nanopore-Technologies-and-Other-Leading-Players.html) (Published: 2026-01-23)
 - [NVIDIA Ends "Open Price Program," Pushing GPUs Way Past MSRPs](https://www.techpowerup.com/345537/nvidia-ends-open-price-program-pushing-gpus-way-past-msrps) (Published: 2026-01-23)
-- [$120+ Bn Stock Trading and Investing Applications Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031](https://www.globenewswire.com/news-release/2026/01/23/3224527/28124/en/120-Bn-Stock-Trading-and-Investing-Applications-Market-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html) (Published: 2026-01-23)
-- [nvidia-nat-llama-index 1.5.0a20260123](https://pypi.org/project/nvidia-nat-llama-index/1.5.0a20260123/) (Published: 2026-01-23)
-- [nvidia-nat-profiling 1.5.0a20260123](https://pypi.org/project/nvidia-nat-profiling/1.5.0a20260123/) (Published: 2026-01-23)
