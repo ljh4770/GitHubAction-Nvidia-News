@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 19:47:25**_
+_Last updated: **2026-01-24 19:57:52**_
 
 - [New Nvidia N1X and Nvidia N1V laptops revealed](https://www.notebookcheck.net/New-Nvidia-N1X-and-Nvidia-N1V-laptops-revealed.1211019.0.html) (Published: 2026-01-23)
 - [livekit-plugins-nvidia 1.4.0rc2](https://pypi.org/project/livekit-plugins-nvidia/1.4.0rc2/) (Published: 2026-01-23)
