@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 11:36:23**_
+_Last updated: **2026-01-24 11:47:06**_
 
+- [Malaysia Data Center Market Trends and Investment Opportunity 2026-2031: FinTech and E-commerce Drive Demand for Data Centers in Malaysia](https://www.globenewswire.com/news-release/2026/01/23/3224573/28124/en/Malaysia-Data-Center-Market-Trends-and-Investment-Opportunity-2026-2031-FinTech-and-E-commerce-Drive-Demand-for-Data-Centers-in-Malaysia.html) (Published: 2026-01-23)
 - [Big Tech and AI lobbying 'skyrockets' under Trump — and experts are sounding the alarm](https://www.rawstory.com/raw-investigates/trump-plays-favorites-as-big-tech-and-ai-giants-splash-record-lobbying-funds-experts/) (Published: 2026-01-23)
 - [Anime Market Analysis Report 2026 - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031](https://www.globenewswire.com/news-release/2026/01/23/3224566/28124/en/Anime-Market-Analysis-Report-2026-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html) (Published: 2026-01-23)
 - [MSI MPG 271QR QD-OLED X50 review: Two-fer monitor pairs 500Hz with USB-C](https://www.pcworld.com/article/3040438/msi-mpg-271qr-qd-oled-x50-review.html) (Published: 2026-01-23)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-24 11:36:23**_
 - [Vulkan 1.4.340 Released With Descriptor Heap & Other New Extensions](https://www.phoronix.com/news/Vulkan-1.4.340-Descriptor-Heap) (Published: 2026-01-23)
 - [30% price shock incoming as Nvidia reportedly halts RTX 5060 supply for six months](https://www.notebookcheck.net/30-price-shock-incoming-as-Nvidia-reportedly-halts-RTX-5060-supply-for-six-months.1209919.0.html) (Published: 2026-01-23)
 - [$4.5 Billion Whole Genome Sequencing Market Outlook, 2031 Featuring Profiles of Illumina, Thermo Fisher Scientific, Oxford Nanopore Technologies and Other Leading Players](https://www.globenewswire.com/news-release/2026/01/23/3224528/28124/en/4-5-Billion-Whole-Genome-Sequencing-Market-Outlook-2031-Featuring-Profiles-of-Illumina-Thermo-Fisher-Scientific-Oxford-Nanopore-Technologies-and-Other-Leading-Players.html) (Published: 2026-01-23)
-- [NVIDIA Ends "Open Price Program," Pushing GPUs Way Past MSRPs](https://www.techpowerup.com/345537/nvidia-ends-open-price-program-pushing-gpus-way-past-msrps) (Published: 2026-01-23)
