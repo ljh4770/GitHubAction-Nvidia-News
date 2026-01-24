@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 14:28:28**_
+_Last updated: **2026-01-24 14:45:51**_
 
+- [Samsung raising wholesale DRAM and SSD memory prices up to 80% as gap between consumer and enterprise products widened](https://www.notebookcheck.net/Samsung-raising-wholesale-DRAM-and-SSD-memory-prices-up-to-80-as-gap-between-consumer-and-enterprise-products-widened.1211058.0.html) (Published: 2026-01-23)
+- [AI in Medical Imaging Market Size to Hit Nearly USD 22.97 Trillion by 2035, Driven by Rising Demand for Early Disease Detection and Workflow Automation](https://www.globenewswire.com/news-release/2026/01/23/3224892/0/en/AI-in-Medical-Imaging-Market-Size-to-Hit-Nearly-USD-22-97-Trillion-by-2035-Driven-by-Rising-Demand-for-Early-Disease-Detection-and-Workflow-Automation.html) (Published: 2026-01-23)
+- [Lenovo Reportedly Prepares Several NVIDIA N1 And N1X SoCs-Based Windows On Arm Laptops](https://wccftech.com/lenovo-reportedly-prepares-several-nvidia-n1-and-n1x-socs-based-windows-on-arm-laptops/) (Published: 2026-01-23)
+- [Intel stock drops 14% as manufacturing troubles overshadow earnings beat](https://www.cnbc.com/2026/01/23/intel-stock-earnings-q4-2025-supply.html) (Published: 2026-01-23)
+- [Global Asset Tracking Software Market Analysis and Growth Outlook to 2031 Featuring Strategic Profiles of Zebra Technologies, IBM Corporation, Honeywell, Datalogic, Trimble and Other Key Competitors](https://www.globenewswire.com/news-release/2026/01/23/3224879/28124/en/Global-Asset-Tracking-Software-Market-Analysis-and-Growth-Outlook-to-2031-Featuring-Strategic-Profiles-of-Zebra-Technologies-IBM-Corporation-Honeywell-Datalogic-Trimble-and-Other-K.html) (Published: 2026-01-23)
+- [Intel stock sinks as company's Q1 outlook falls short of Wall Street expectations](https://finance.yahoo.com/news/intel-stock-sinks-as-companys-q1-outlook-falls-short-of-wall-street-expectations-143343615.html) (Published: 2026-01-23)
+- [AI labs wage a reputational knife fight at Davos](https://www.theverge.com/column/866573/ai-labs-wage-a-reputational-knife-fight-at-davos) (Published: 2026-01-23)
 - [BitGo kicks off what could be a huge year for IPOs](https://siliconangle.com/2026/01/23/bitgo-kicks-off-huge-year-ipos/) (Published: 2026-01-23)
 - [What techies really talked about at Davos](https://www.businessinsider.com/davos-tech-highlights-ai-deals-2026-1) (Published: 2026-01-23)
 - [After 160 years, Huntington is still opening branches—and it’s powering digital growth, says CFO](https://fortune.com/2026/01/23/160-years-huntington-opening-branches-powering-digital-growth-cfo/) (Published: 2026-01-23)
-- [The Week in AI: The Hype Is Bad for Your Wallet, and Ben Affleck's Surprising Rant](https://me.pcmag.com/en/ai/34863/the-week-in-ai-the-hype-is-bad-for-your-wallet-and-ben-afflecks-surprising-rant) (Published: 2026-01-23)
-- [The Week in AI: The Hype Is Bad for Your Wallet, and Ben Affleck's Surprising Rant](https://uk.pcmag.com/ai/162738/the-week-in-ai-the-hype-is-bad-for-your-wallet-and-ben-afflecks-surprising-rant) (Published: 2026-01-23)
-- [Super-Resolution pedestrian re-identification method based on bidirectional generative adversarial network](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340378) (Published: 2026-01-23)
-- [Molecular mechanism of ziresovir targeting the fusion glycoprotein of respiratory syncytial virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013864) (Published: 2026-01-23)
-- [a16z’s State of Markets: $4.7T in Private Unicorns,](https://www.saastr.com/a16zs-state-of-markets-4-7t-in-private-unicorns/) (Published: 2026-01-23)
-- [NVIDIA N1X resurfaces in fresh Lenovo leak — Is Windows on Arm finally ready for a PC gaming revolution?](https://www.windowscentral.com/hardware/lenovo/lenovo-legion-nvidia-n1x-leak) (Published: 2026-01-23)
-- [Should Investors Buy Nvidia Stock Before Feb. 25?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_68d33a37-9ac6-4fce-9cb6-621368122536) (Published: 2026-01-23)
