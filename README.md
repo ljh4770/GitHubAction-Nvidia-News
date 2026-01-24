@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 05:13:40**_
+_Last updated: **2026-01-24 05:39:29**_
 
 - [Future of Marketing Briefing: AI companies are staffing up for a reputation fight](http://digiday.com/marketing/future-of-marketing-briefing-ai-companies-are-staffing-up-for-a-reputation-fight/) (Published: 2026-01-23)
 - [Show HN: C/C++ Cheatsheet – a modern, practical reference for C and C++](https://github.com/crazyguitar/cppcheatsheet) (Published: 2026-01-23)
