@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 20:29:45**_
+_Last updated: **2026-01-24 20:45:30**_
 
 - [Jamie Dimon is learning what happens when a CEO dares to defy Trump | CNN Business](https://www.cnn.com/2026/01/23/business/jamie-dimon-donald-trump) (Published: 2026-01-23)
 - [GPU price tracking 2026: Lowest price on every graphics card from Nvidia, AMD, and Intel today — here are the best deals during the AI-driven pricing crisis](https://www.tomshardware.com/pc-components/gpus/lowest-gpu-prices-tracking) (Published: 2026-01-23)
