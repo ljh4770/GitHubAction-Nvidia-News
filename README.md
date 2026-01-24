@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 21:46:04**_
+_Last updated: **2026-01-24 21:56:25**_
 
 - [Fei-Fei Li’s World Labs reportedly raising funding at $5B valuation](https://siliconangle.com/2026/01/23/fei-fei-lis-world-labs-reportedly-raising-funding-5b-valuation/) (Published: 2026-01-23)
 - [Jamie Dimon is learning what happens when a CEO dares to defy Trump | CNN Business](https://www.cnn.com/2026/01/23/business/jamie-dimon-donald-trump) (Published: 2026-01-23)
