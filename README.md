@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 07:32:31**_
+_Last updated: **2026-01-24 07:45:05**_
 
+- [CNBC Daily Open: 'TACO' trade boosts markets amid ongoing geopolitical tensions around Greenland and Ukraine](https://www.cnbc.com/2026/01/23/cnbc-daily-open-taco-trade-boosts-markets-amid-ongoing-geopolitical-tensions.html) (Published: 2026-01-23)
 - [Intel struggles to meet AI data centre demand](https://www.rte.ie/news/business/2026/0123/1554644-intel-quarterly-results/) (Published: 2026-01-23)
 - [Intel shares tumble 14% as projections fall well short of Wall Street estimates](https://www.irishtimes.com/business/2026/01/23/intel-shares-tumble-14-as-projections-fall-well-short-of-wall-street-estimates/) (Published: 2026-01-23)
 - [China’s DeepSeek V4: The AI Tool That Could Make ChatGPT Obsolete](https://www.naturalnews.com/2026-01-23-chinas-deepseek-v4-could-make-chatgpt-obsolete.html) (Published: 2026-01-23)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-24 07:32:31**_
 - [Future of Marketing Briefing: AI companies are staffing up for a reputation fight](http://digiday.com/marketing/future-of-marketing-briefing-ai-companies-are-staffing-up-for-a-reputation-fight/) (Published: 2026-01-23)
 - [Show HN: C/C++ Cheatsheet – a modern, practical reference for C and C++](https://github.com/crazyguitar/cppcheatsheet) (Published: 2026-01-23)
 - [Taiwan-based Delta Electronics redefines value as power becomes AI development lifeline](https://www.digitimes.com/news/a20260123PD226/delta-electronics-ai-infrastructure-power-supply.html) (Published: 2026-01-23)
-- [HP EPP/EDU: OMEN MAX 45L Gaming Desktop RTX 5090, 1 Stick 32GB DDR5 , 1TB NVME, Ryzen 7 9700X $3669.99 (5 replies)](https://slickdeals.net/f/19129432-hp-epp-edu-omen-max-45l-gaming-desktop-rtx-5090-1-stick-32gb-ddr5-1tb-nvme-ryzen-7-9700x-3669-99) (Published: 2026-01-23)
