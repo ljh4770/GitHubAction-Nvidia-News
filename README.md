@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-24 22:23:19**_
+_Last updated: **2026-01-24 22:42:12**_
 
 - [Metadata management moves to the center of AI scale challenges](https://siliconangle.com/2026/01/23/metadata-management-ai-scale-challenges-futureofdataplatforms/) (Published: 2026-01-23)
 - [Samsung and Sandisk are set to integrate rival HBF technology into AI products from Nvidia, AMD, and Google within 24 months, and that's a huge deal](https://www.techradar.com/pro/samsung-and-sandisk-are-set-to-integrate-rival-hbf-technology-into-ai-products-from-nvidia-amd-and-google-within-24-months-and-thats-a-huge-deal) (Published: 2026-01-23)
