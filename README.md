@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 09:46:31**_
+_Last updated: **2026-01-25 09:56:43**_
 
 - [nvfuser-cu128 0.2.35.dev20260124](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260124/) (Published: 2026-01-24)
 - [nvfuser-cu126 0.2.35.dev20260124](https://pypi.org/project/nvfuser-cu126/0.2.35.dev20260124/) (Published: 2026-01-24)
