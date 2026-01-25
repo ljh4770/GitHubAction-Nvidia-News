@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 22:09:12**_
+_Last updated: **2026-01-25 22:35:08**_
 
+- [Alphabet, IBM and 3 other tech stocks could be big winners this earnings season - MarketWatch](https://slashdot.org/firehose.pl?op=view&amp;id=180651332) (Published: 2026-01-24)
 - [Bank of America delivers blunt stock market warning investors can’t ignore](https://www.thestreet.com/economy/bank-of-america-delivers-blunt-stock-market-warning-investors-cant-ignore) (Published: 2026-01-24)
 - [Tech CEOs boast and bicker about AI at Davos | TechCrunch](https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/) (Published: 2026-01-24)
 - [The state of homelab tech (2026)](https://changelog.com/friends/125) (Published: 2026-01-24)
@@ -9,4 +10,3 @@ _Last updated: **2026-01-25 22:09:12**_
 - [$1 Million Moon Hotel Reservations Are Live and the Future of Vacationing Just Got Weird](https://geektyrant.com/news/1-million-moon-hotel-reservations-are-live-and-the-future-of-vacationing-just-got-weird) (Published: 2026-01-24)
 - [Topaz Gigapixel Pro 1.1.1](https://post.rlsbb.to/topaz-gigapixel-pro-1-1-1/) (Published: 2026-01-24)
 - [oprel added to PyPI](https://pypi.org/project/oprel/) (Published: 2026-01-24)
-- [NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made and It Changed Everything](https://wccftech.com/nvidia-and-amd-choosing-tsmc-became-one-of-the-biggest-bets/) (Published: 2026-01-24)
