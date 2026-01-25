@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 15:47:05**_
+_Last updated: **2026-01-25 15:57:12**_
 
 - [Jim Cramer Discusses President Trump & CoreWeave (CRWV)](https://finance.yahoo.com/news/jim-cramer-discusses-president-trump-153422838.html) (Published: 2026-01-24)
 - [Zotac reportedly cancels GPU orders and raises MSRP by $200 or more across the board — the company blames 'system error' for cancellations](https://www.tomshardware.com/pc-components/gpus/zotac-reportedly-cancels-gpu-orders-and-raises-msrp-by-usd200-or-more-across-the-board-the-company-blames-system-error-for-cancellations) (Published: 2026-01-24)
