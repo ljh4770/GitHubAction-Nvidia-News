@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 05:34:23**_
+_Last updated: **2026-01-25 05:53:50**_
 
 - [Davos delegates stress AI’s employment upside as layoff fears linger](https://indianexpress.com/article/technology/tech-news-technology/davos-delegates-stress-ais-employment-upside-as-layoff-fears-linger-10491807/) (Published: 2026-01-24)
 - [Nvidia director Persis Drell resigns from board, leaves with 1,43,000 shares and stock price gain of 22,000%](https://www.livemint.com/companies/people/nvidia-stock-price-gain-22000-pc-director-persis-drell-resigns-board-leaves-holding-143000-shares-worth-26-million-huang-11769218511247.html) (Published: 2026-01-24)
