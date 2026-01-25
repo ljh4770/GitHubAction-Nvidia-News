@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 15:11:14**_
+_Last updated: **2026-01-25 15:33:05**_
 
 - [Zotac reportedly cancels GPU orders and raises MSRP by $200 or more across the board — the company blames 'system error' for cancellations](https://www.tomshardware.com/pc-components/gpus/zotac-reportedly-cancels-gpu-orders-and-raises-msrp-by-usd200-or-more-across-the-board-the-company-blames-system-error-for-cancellations) (Published: 2026-01-24)
 - [Workers Say AI Is Useless, While Oblivious Bosses Insist It’s a Productivity Miracle](http://futurism.com/artificial-intelligence/workers-ai-useless-bosses-miracle) (Published: 2026-01-24)
