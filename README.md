@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 14:37:41**_
+_Last updated: **2026-01-25 14:51:24**_
 
+- [Workers Say AI Is Useless, While Oblivious Bosses Insist It’s a Productivity Miracle](http://futurism.com/artificial-intelligence/workers-ai-useless-bosses-miracle) (Published: 2026-01-24)
 - [31-year-old's porta-potty company brings in $4.3 million a year: We've built 'a low-tech, AI-proof business'](https://www.cnbc.com/2026/01/24/porta-potty-company-owner-how-i-built-a-low-tech-ai-proof-business.html) (Published: 2026-01-24)
 - [NVIDIA (NVDA) CEO Jensen Huang Frames AI as the Largest Infrastructure Buildout in Human History](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a901b4c-378d-4b7c-9f02-447fdcc3471f) (Published: 2026-01-24)
 - [27 Inch UltraGear™ IPS QHD 1440p 300Hz 1ms NVIDIA G-Sync Compatible Gaming Monitor for $229.99](https://slickdeals.net/f/19134304-27-inch-ultragear-ips-qhd-1440p-300hz-1ms-nvidia-g-sync-compatible-gaming-monitor-for-229-99) (Published: 2026-01-24)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-25 14:37:41**_
 - [AMD Adds GFX13 To LLVM, Confirming Early Support For RDNA 5](https://wccftech.com/amd-adds-gfx13-to-llvm-confirming-early-support-for-rdna-5/) (Published: 2026-01-24)
 - [nvidia-nat-ragaai 1.4.0a20260124](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20260124/) (Published: 2026-01-24)
 - [nvidia-nat-test 1.4.0a20260124](https://pypi.org/project/nvidia-nat-test/1.4.0a20260124/) (Published: 2026-01-24)
-- [nvidia-nat-phoenix 1.4.0a20260124](https://pypi.org/project/nvidia-nat-phoenix/1.4.0a20260124/) (Published: 2026-01-24)
