@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 10:47:31**_
+_Last updated: **2026-01-25 10:57:45**_
 
 - [nvidia-nat-semantic-kernel 1.5.0a20260124](https://pypi.org/project/nvidia-nat-semantic-kernel/1.5.0a20260124/) (Published: 2026-01-24)
 - [nvidia-nat-opentelemetry 1.5.0a20260124](https://pypi.org/project/nvidia-nat-opentelemetry/1.5.0a20260124/) (Published: 2026-01-24)
