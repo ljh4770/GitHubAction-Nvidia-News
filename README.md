@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 15:33:05**_
+_Last updated: **2026-01-25 15:47:05**_
 
+- [Jim Cramer Discusses President Trump & CoreWeave (CRWV)](https://finance.yahoo.com/news/jim-cramer-discusses-president-trump-153422838.html) (Published: 2026-01-24)
 - [Zotac reportedly cancels GPU orders and raises MSRP by $200 or more across the board — the company blames 'system error' for cancellations](https://www.tomshardware.com/pc-components/gpus/zotac-reportedly-cancels-gpu-orders-and-raises-msrp-by-usd200-or-more-across-the-board-the-company-blames-system-error-for-cancellations) (Published: 2026-01-24)
 - [Workers Say AI Is Useless, While Oblivious Bosses Insist It’s a Productivity Miracle](http://futurism.com/artificial-intelligence/workers-ai-useless-bosses-miracle) (Published: 2026-01-24)
 - [31-year-old's porta-potty company brings in $4.3 million a year: We've built 'a low-tech, AI-proof business'](https://www.cnbc.com/2026/01/24/porta-potty-company-owner-how-i-built-a-low-tech-ai-proof-business.html) (Published: 2026-01-24)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-25 15:33:05**_
 - [Lenovo Legion Pro 7i 16&quot; Laptop Intel Core Ultra 9 275HX 2.1GHz Processor; NVIDIA RTX 5090 24GB GDDR7; 64GB DDR5-6400 RAM; 2x 1TB $3199.99 (from $3999) (9 replies)](https://slickdeals.net/f/19134283-lenovo-legion-pro-7i-16-amp-quot-laptop-intel-core-ultra-9-275hx-2-1ghz-processor-nvidia-rtx-5090-24gb-gddr7-64gb-ddr5-6400-ram-2x-1tb-3199-99-from-3999) (Published: 2026-01-24)
 - [videosdk-plugins-nvidia 0.0.61](https://pypi.org/project/videosdk-plugins-nvidia/0.0.61/) (Published: 2026-01-24)
 - [AMD Adds GFX13 To LLVM, Confirming Early Support For RDNA 5](https://wccftech.com/amd-adds-gfx13-to-llvm-confirming-early-support-for-rdna-5/) (Published: 2026-01-24)
-- [nvidia-nat-ragaai 1.4.0a20260124](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20260124/) (Published: 2026-01-24)
