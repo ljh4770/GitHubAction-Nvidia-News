@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 18:39:58**_
+_Last updated: **2026-01-25 18:57:26**_
 
 - [oprel added to PyPI](https://pypi.org/project/oprel/) (Published: 2026-01-24)
 - [NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made and It Changed Everything](https://wccftech.com/nvidia-and-amd-choosing-tsmc-became-one-of-the-biggest-bets/) (Published: 2026-01-24)
