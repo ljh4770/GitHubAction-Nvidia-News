@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 06:27:22**_
+_Last updated: **2026-01-25 06:55:55**_
 
+- [Nvidia CEO Jensen Huang in Shanghai amid China regulatory headwinds](https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-jensen-huang-in-shanghai-amid-china-regulatory-headwinds/articleshow/127371340.cms) (Published: 2026-01-24)
 - [I spent the week with tech CEOs. Here's what they're talking about](https://www.cnbc.com/2026/01/24/tech-davos-ai-agentic-robotics.html) (Published: 2026-01-24)
 - [Taiwan is booming, but unease is creeping in amid Beijing threats and potential Trump abandonment](https://www.irishtimes.com/world/asia-pacific/2026/01/24/taiwan-is-booming-but-an-air-of-unease-is-creeping-in-amid-threats-from-beijing-and-potential-abandonment-by-trump/) (Published: 2026-01-24)
 - [Davos delegates stress AI’s employment upside as layoff fears linger](https://indianexpress.com/article/technology/tech-news-technology/davos-delegates-stress-ais-employment-upside-as-layoff-fears-linger-10491807/) (Published: 2026-01-24)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-25 06:27:22**_
 - [Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops](https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell) (Published: 2026-01-24)
 - [Three more global companies set to hop on India’s GCC train](https://economictimes.indiatimes.com/tech/technology/three-more-global-companies-set-to-hop-on-indias-gcc-train/articleshow/127314247.cms) (Published: 2026-01-24)
 - [Three more global companies set to hop on India’s GCC train](https://economictimes.indiatimes.com/tech/technology/three-more-global-companies-set-to-hop-on-indias-gcc-train/articleshow/127348472.cms) (Published: 2026-01-24)
-- [GeForce Now adds support for flight controllers - Engadget](https://slashdot.org/firehose.pl?op=view&amp;id=180646536) (Published: 2026-01-24)
