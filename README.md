@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 23:32:14**_
+_Last updated: **2026-01-25 23:47:13**_
 
 - [RTX 4070 Super is not initializing on Ubuntu 24.04.3, "PCI I/O region assigned is invalid", nvidia-smi fails, black screen on GPU output](https://askubuntu.com/questions/1563235/rtx-4070-super-is-not-initializing-on-ubuntu-24-04-3-pci-i-o-region-assigned-i) (Published: 2026-01-24)
 - [Nvidia CEO Jensen Huang in Shanghai amid China regulatory headwinds - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=180651470) (Published: 2026-01-24)
