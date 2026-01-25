@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 11:48:33**_
+_Last updated: **2026-01-25 11:58:40**_
 
 - [Bill Gates-backed startup aims to revive Moore's Law with optical transistors](https://www.theregister.com/2026/01/24/neurophos_hopes_to_revive_moores_law/) (Published: 2026-01-24)
 - [Acer Nitro V 17 vs. Lenovo LOQ 17: Which RTX 5070 gaming laptop is the better budget choice?](https://www.notebookcheck.net/Acer-Nitro-V-17-vs-Lenovo-LOQ-17-Which-RTX-5070-gaming-laptop-is-the-better-budget-choice.1210874.0.html) (Published: 2026-01-24)
