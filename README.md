@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 07:23:40**_
+_Last updated: **2026-01-25 07:40:42**_
 
 - [FOSDEM 2026 schedule – Embedded, RISC-V, Robotics, Rust, Open Hardware, and more](https://www.cnx-software.com/2026/01/24/fosdem-2026-schedule-embedded-risc-v-robotics-rust-open-hardware/) (Published: 2026-01-24)
 - [First Steam Machine Accessories Arrive : From Glow Skins to Native ‘GeForce NOW’ App on Ubuntu](https://www.geeky-gadgets.com/valve-steam-machine-addons-2026/) (Published: 2026-01-24)
