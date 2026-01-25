@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-25 17:58:02**_
+_Last updated: **2026-01-25 18:39:58**_
 
+- [oprel added to PyPI](https://pypi.org/project/oprel/) (Published: 2026-01-24)
+- [NVIDIA and AMD Choosing TSMC as Their Primary Foundry Partner Became One of the Biggest Bets They Ever Made and It Changed Everything](https://wccftech.com/nvidia-and-amd-choosing-tsmc-became-one-of-the-biggest-bets/) (Published: 2026-01-24)
+- [Podcast #853 – RIP Cheap SSDs, RTX 5070 Ti EOL Denied, Micron Fab, Bluetooth security flaw, Kent Builds a PC, and MORE](https://pcper.com/2026/01/podcast-853/) (Published: 2026-01-24)
 - [CachyOS Starts 2026 By Switching To Plasma Login Manager & Live ISO Using Wayland](https://www.phoronix.com/news/CachyOS-January-2026) (Published: 2026-01-24)
 - [India Inc’s high margins may hit a brick wall](https://www.thehindubusinessline.com/portfolio/personal-finance/india-incs-high-margins-may-hit-a-brick-wall/article70545772.ece) (Published: 2026-01-24)
 - [If You'd Invested $1,000 in Nvidia 5 Years Ago, Here's How Much You'd Have Today](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7a43e3f1-f7c9-453a-9808-7f732418751b) (Published: 2026-01-24)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-25 17:58:02**_
 - [Jim Cramer Discusses President Trump & CoreWeave (CRWV)](https://finance.yahoo.com/news/jim-cramer-discusses-president-trump-153422838.html) (Published: 2026-01-24)
 - [Zotac reportedly cancels GPU orders and raises MSRP by $200 or more across the board — the company blames 'system error' for cancellations](https://www.tomshardware.com/pc-components/gpus/zotac-reportedly-cancels-gpu-orders-and-raises-msrp-by-usd200-or-more-across-the-board-the-company-blames-system-error-for-cancellations) (Published: 2026-01-24)
 - [Workers Say AI Is Useless, While Oblivious Bosses Insist It’s a Productivity Miracle](http://futurism.com/artificial-intelligence/workers-ai-useless-bosses-miracle) (Published: 2026-01-24)
-- [31-year-old's porta-potty company brings in $4.3 million a year: We've built 'a low-tech, AI-proof business'](https://www.cnbc.com/2026/01/24/porta-potty-company-owner-how-i-built-a-low-tech-ai-proof-business.html) (Published: 2026-01-24)
-- [NVIDIA (NVDA) CEO Jensen Huang Frames AI as the Largest Infrastructure Buildout in Human History](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5a901b4c-378d-4b7c-9f02-447fdcc3471f) (Published: 2026-01-24)
-- [27 Inch UltraGear™ IPS QHD 1440p 300Hz 1ms NVIDIA G-Sync Compatible Gaming Monitor for $229.99](https://slickdeals.net/f/19134304-27-inch-ultragear-ips-qhd-1440p-300hz-1ms-nvidia-g-sync-compatible-gaming-monitor-for-229-99) (Published: 2026-01-24)
