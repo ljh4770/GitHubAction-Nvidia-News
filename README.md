@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-26 22:58:14**_
+_Last updated: **2026-01-26 23:30:51**_
 
+- [This founder cracked firefighting -- now he's creating an AI gold mine | TechCrunch](https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/) (Published: 2026-01-25)
 - [motidivya-dlogs added to PyPI](https://pypi.org/project/motidivya-dlogs/) (Published: 2026-01-25)
 - [A mini PC killed the enterprise server in my home lab](https://www.xda-developers.com/mini-pc-killed-the-enterprise-server-in-my-home-lab/) (Published: 2026-01-25)
 - [NVIDIA DGX Spark Thermal Test: How OEM Cooling Designs Stack Up](https://www.storagereview.com/review/nvidia-dgx-spark-thermal-test-how-oem-cooling-designs-stack-up) (Published: 2026-01-25)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-26 22:58:14**_
 - [result-companion 0.0.1](https://pypi.org/project/result-companion/) (Published: 2026-01-25)
 - [isagellm 0.2.2.8](https://pypi.org/project/isagellm/0.2.2.8/) (Published: 2026-01-25)
 - [isagellm 0.2.2.7](https://pypi.org/project/isagellm/0.2.2.7/) (Published: 2026-01-25)
-- [LACT 0.8.4 Brings Improved Overclocking UI For GPUs On Linux](https://www.phoronix.com/news/LACT-0.8.4-Released) (Published: 2026-01-25)
