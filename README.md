@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-26 15:02:20**_
+_Last updated: **2026-01-26 15:39:40**_
 
 - [The SSD Markets Are About to Get Hammered With NAND Shortages & Price Hikes, And There’s Probably Nothing We Can Do](https://wccftech.com/the-ssd-markets-are-about-to-get-destroyed-with-nand-shortages/) (Published: 2026-01-25)
 - [Apple Mac Mini Fly Off The Shelves As Clawdbot Dents The CUDA Moat](https://wccftech.com/apple-mac-mini-fly-off-the-shelves-as-clawdbot-dents-the-cuda-moat/) (Published: 2026-01-25)
