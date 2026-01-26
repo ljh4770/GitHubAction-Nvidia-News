@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-26 15:59:34**_
+_Last updated: **2026-01-26 16:47:04**_
 
+- [Not the Linux You Remember: 16 Every Day Tasks That No Longer Need the Terminal](https://itsfoss.com/no-longer-need-terminal/) (Published: 2026-01-25)
+- [Enterprise technology predictions: What’s coming in 2026](https://siliconangle.com/2026/01/25/enterprise-technology-predictions-whats-coming-2026/) (Published: 2026-01-25)
+- [Liberal Podcaster Called Billionaires 'Ungrateful Piece of S***' for Fleeing Destructive Wealth Tax](https://www.westernjournal.com/ungrateful-piece-sht-left-wing-podcaster-berates-californians-fleeing-new-wealth-tax/) (Published: 2026-01-25)
 - [The SSD Markets Are About to Get Hammered With NAND Shortages & Price Hikes, And There’s Probably Nothing We Can Do](https://wccftech.com/the-ssd-markets-are-about-to-get-destroyed-with-nand-shortages/) (Published: 2026-01-25)
 - [Apple Mac Mini Fly Off The Shelves As Clawdbot Dents The CUDA Moat](https://wccftech.com/apple-mac-mini-fly-off-the-shelves-as-clawdbot-dents-the-cuda-moat/) (Published: 2026-01-25)
 - [Looking for recommendation on best pc graphics card for gaming](https://www.bleepingcomputer.com/forums/t/813084/looking-for-recommendation-on-best-pc-graphics-card-for-gaming/) (Published: 2026-01-25)
@@ -8,6 +11,3 @@ _Last updated: **2026-01-26 15:59:34**_
 - [ChatGPT found to be sourcing data from AI-generated content — popular LLM uses content from Grokipedia as source for more obscure queries](https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-found-to-be-sourcing-data-from-ai-generated-content-popular-llm-uses-content-from-grokipedia-as-source-for-more-obscure-queries) (Published: 2026-01-25)
 - [No hands, no driver, no problem? San Francisco’s love affair with robo-taxis](https://www.irishtimes.com/world/us/2026/01/25/no-hands-no-driver-no-problem-san-franciscos-love-affair-with-robot-taxis/) (Published: 2026-01-25)
 - [Future-proofing my PC: GPU recommendations](https://www.bleepingcomputer.com/forums/t/813083/future-proofing-my-pc-gpu-recommendations/) (Published: 2026-01-25)
-- [Modder turns RTX 2080 Ti Hall of Fame into a supercharged 900W Titan RTX with transplanted core and memory — fully unlocked TU102 die with a 900W power limit hits 18k on 3DMark TimeSpy Extreme](https://www.tomshardware.com/pc-components/gpus/modder-turns-rtx-2080-ti-hall-of-fame-into-a-supercharged-900w-titan-rtx-fully-unlocked-tu102-die-with-a-900w-power-limit-hits-18k-on-3dmark-timespy-extreme) (Published: 2026-01-25)
-- [nvidia-nat-profiling 1.4.0a20260125](https://pypi.org/project/nvidia-nat-profiling/1.4.0a20260125/) (Published: 2026-01-25)
-- [nvidia-nat-opentelemetry 1.4.0a20260125](https://pypi.org/project/nvidia-nat-opentelemetry/1.4.0a20260125/) (Published: 2026-01-25)
