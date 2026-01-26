@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-26 07:57:27**_
+_Last updated: **2026-01-26 08:41:20**_
 
+- [GitHub - clearclown/Rust_DN_SuperBook_PDF_Converter_Linux_Docker: DN_SuperBook_PDF_Converter - スキャン書籍 PDF をデジタル書籍並みに大変クリアに読みやすくする AI PDF 高品質化・各種調整ツール](https://github.com/clearclown/Rust_DN_SuperBook_PDF_Converter_Linux_Docker) (Published: 2026-01-25)
 - [Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://github.com/divyaprakash0426/autoshorts) (Published: 2026-01-25)
 - [Intel hits a new stumbling block](https://www.irishtimes.com/business/2026/01/25/intel-hits-a-new-stumbling-block/) (Published: 2026-01-25)
 - [isagellm 0.2.2.4](https://pypi.org/project/isagellm/0.2.2.4/) (Published: 2026-01-25)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-26 07:57:27**_
 - [America’s AI Strategy: Infrastructure, Regulation, and Global Competition](https://www.nextbigfuture.com/2026/01/americas-ai-strategy-infrastructure-regulation-and-global-competition.html) (Published: 2026-01-25)
 - [lalo-tts added to PyPI](https://pypi.org/project/lalo-tts/) (Published: 2026-01-25)
 - [Two Weeks Until Tapeout](https://essenceia.github.io/projects/two_weeks_until_tapeout/) (Published: 2026-01-25)
-- [Lenovo Legion 5i 15 OLED gamer with 20-core CPU and RTX 5070 Laptop GPU scores $736 price cut](https://www.notebookcheck.net/Lenovo-Legion-5i-15-OLED-gamer-with-20-core-CPU-and-RTX-5070-Laptop-GPU-scores-736-price-cut.1211763.0.html) (Published: 2026-01-25)
