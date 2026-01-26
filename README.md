@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-26 20:23:27**_
+_Last updated: **2026-01-26 20:48:41**_
 
 - [Crimson Desert – Everything We Know About the New Open World Fantasy Action/Adventure Game](https://wccftech.com/roundup/crimson-desert-everything-we-know-about-the-new-open-world-fantasy-action-adventure-game/) (Published: 2026-01-25)
 - [Nvidia CEO Jensen Huang gives AI warning Wall Street can’t ignore](https://www.thestreet.com/economy/nvidia-ceo-jensen-huang-gives-ai-warning-wall-street-cant-ignore) (Published: 2026-01-25)
