@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-26 17:17:23**_
+_Last updated: **2026-01-26 17:48:46**_
 
+- [Funding, AI and Politics Take Center Stage at FOSDEM 2026](https://www.omgubuntu.co.uk/2026/01/fosdem-2026-open-source-funding-ai-talks) (Published: 2026-01-25)
 - [Best Buy is selling last year's LG OLED TV for 50% off right now, and it's a top choice for me](https://www.zdnet.com/home-and-office/home-entertainment/best-buy-lg-b5-oled-tv-deal/) (Published: 2026-01-25)
 - [Samsung Set to Be Among the First to Feature HBM4 in NVIDIA’s Vera Rubin AI Lineup, Having Reportedly Passed All Verification Stages](https://wccftech.com/samsung-set-to-be-one-of-the-first-to-have-hbm4-featured-in-nvidia-vera-rubin/) (Published: 2026-01-25)
 - [TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo | TechCrunch](https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/) (Published: 2026-01-25)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-26 17:17:23**_
 - [Not the Linux You Remember: 16 Every Day Tasks That No Longer Need the Terminal](https://itsfoss.com/no-longer-need-terminal/) (Published: 2026-01-25)
 - [Enterprise technology predictions: What’s coming in 2026](https://siliconangle.com/2026/01/25/enterprise-technology-predictions-whats-coming-2026/) (Published: 2026-01-25)
 - [Liberal Podcaster Called Billionaires 'Ungrateful Piece of S***' for Fleeing Destructive Wealth Tax](https://www.westernjournal.com/ungrateful-piece-sht-left-wing-podcaster-berates-californians-fleeing-new-wealth-tax/) (Published: 2026-01-25)
-- [The SSD Markets Are About to Get Hammered With NAND Shortages & Price Hikes, And There’s Probably Nothing We Can Do](https://wccftech.com/the-ssd-markets-are-about-to-get-destroyed-with-nand-shortages/) (Published: 2026-01-25)
