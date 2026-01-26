@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-26 18:01:05**_
+_Last updated: **2026-01-26 18:51:36**_
 
 - [Funding, AI and Politics Take Center Stage at FOSDEM 2026](https://www.omgubuntu.co.uk/2026/01/fosdem-2026-open-source-funding-ai-talks) (Published: 2026-01-25)
 - [Best Buy is selling last year's LG OLED TV for 50% off right now, and it's a top choice for me](https://www.zdnet.com/home-and-office/home-entertainment/best-buy-lg-b5-oled-tv-deal/) (Published: 2026-01-25)
