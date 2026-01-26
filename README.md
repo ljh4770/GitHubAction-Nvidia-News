@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-26 21:39:02**_
+_Last updated: **2026-01-26 21:55:08**_
 
 - [NVIDIA DGX Spark Thermal Test: How OEM Cooling Designs Stack Up](https://www.storagereview.com/review/nvidia-dgx-spark-thermal-test-how-oem-cooling-designs-stack-up) (Published: 2026-01-25)
 - [Crimson Desert – Everything We Know About the New Open World Fantasy Action/Adventure Game](https://wccftech.com/roundup/crimson-desert-everything-we-know-about-the-new-open-world-fantasy-action-adventure-game/) (Published: 2026-01-25)
