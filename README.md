@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-26 23:48:26**_
+_Last updated: **2026-01-26 23:59:02**_
 
+- [Qwen3-TTSってなんだ？〜3秒の音声でボイスクローンできる最新AIを日本語環境で完全攻略〜 - Qiita](https://qiita.com/GeneLab_999/items/79d8020799c6f9e329dc) (Published: 2026-01-25)
+- [Lenovo launching new 15-inch gaming laptop with AMD Strix Halo](https://www.notebookcheck.net/Lenovo-launching-new-15-inch-gaming-laptop-with-AMD-Strix-Halo.1212114.0.html) (Published: 2026-01-25)
 - [The ASIC server wars begin as Nvidia squeezes the margins](https://www.digitimes.com/news/a20260122PD223/nvidia-asic-2026-supplier-growth.html) (Published: 2026-01-25)
 - [This founder cracked firefighting -- now he's creating an AI gold mine | TechCrunch](https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/) (Published: 2026-01-25)
 - [motidivya-dlogs added to PyPI](https://pypi.org/project/motidivya-dlogs/) (Published: 2026-01-25)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-26 23:48:26**_
 - [Crimson Desert – Everything We Know About the New Open World Fantasy Action/Adventure Game](https://wccftech.com/roundup/crimson-desert-everything-we-know-about-the-new-open-world-fantasy-action-adventure-game/) (Published: 2026-01-25)
 - [Nvidia CEO Jensen Huang gives AI warning Wall Street can’t ignore](https://www.thestreet.com/economy/nvidia-ceo-jensen-huang-gives-ai-warning-wall-street-cant-ignore) (Published: 2026-01-25)
 - [Microsoft unveils first robotics model targeted at boosting physical AI in a bid to free robots from the production line](https://www.techradar.com/pro/microsoft-unveils-first-robotics-model-targeted-at-boosting-physical-ai-in-a-bid-to-free-robots-from-the-production-line) (Published: 2026-01-25)
-- [result-companion 0.0.1](https://pypi.org/project/result-companion/) (Published: 2026-01-25)
-- [isagellm 0.2.2.8](https://pypi.org/project/isagellm/0.2.2.8/) (Published: 2026-01-25)
