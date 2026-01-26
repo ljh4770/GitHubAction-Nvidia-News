@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-26 07:45:33**_
+_Last updated: **2026-01-26 07:57:27**_
 
 - [Show HN: AutoShorts – Local, GPU-accelerated AI video pipeline for creators](https://github.com/divyaprakash0426/autoshorts) (Published: 2026-01-25)
 - [Intel hits a new stumbling block](https://www.irishtimes.com/business/2026/01/25/intel-hits-a-new-stumbling-block/) (Published: 2026-01-25)
