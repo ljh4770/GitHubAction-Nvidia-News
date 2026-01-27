@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-27 17:58:22**_
+_Last updated: **2026-01-27 18:52:18**_
 
+- [Nvidia's Synthesia wants its talking AI avatars to recruit and train](https://economictimes.indiatimes.com/news/international/business/nvidias-synthesia-wants-its-talking-ai-avatars-to-recruit-and-train/articleshow/127569558.cms) (Published: 2026-01-26)
+- [Microsoft introduces newest in-house AI chip — Maia 200 is faster than other bespoke Nvidia competitors, built on TSMC 3nm with 216GB of HBM3e](https://www.tomshardware.com/pc-components/cpus/microsoft-introduces-newest-in-house-ai-chip-maia-200-is-faster-than-other-bespoke-nvidia-competitors-built-on-tsmc-3nm-with-216gb-of-hbm3e) (Published: 2026-01-26)
+- [Relitigating hiQ Labs and Scraping Through the Lens of the DMCA 1201 Anti-Circumvention (Guest Blog Post)](https://blog.ericgoldman.org/archives/2026/01/relitigating-hiq-labs-and-scraping-through-the-lens-of-the-dmca-1201-anti-circumvention-guest-blog-post.htm) (Published: 2026-01-26)
+- [Micron Slips on Samsung HBM4 Nvidia Report](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aaaed1bc-ec09-460f-a59c-f9cc209a30ca) (Published: 2026-01-26)
+- [Amazon layoffs: Is Amazon’s plan to cut 14,000 jobs while spending $35 billion on AI drive growth or stall shares - investors wait for AWS profit](https://economictimes.indiatimes.com/news/international/us/amazon-layoffs-is-amazons-plan-to-cut-14000-jobs-while-spending-35-billion-on-ai-drive-growth-or-stall-shares-investors-wait-for-aws-profit/articleshow/127565126.cms) (Published: 2026-01-26)
+- [Nvidia Chief Promotes Chinese 'Wet Markets,' Made Infamous in Coronavirus Disaster](https://www.breitbart.com/national-security/2026/01/26/nvidia-chief-promotes-chinese-wet-markets-made-infamous-in-coronavirus-disaster/) (Published: 2026-01-26)
+- [Jensen Huang says it's 'ridiculous' to say Nvidia's $2 billion investment in CoreWeave is another circular deal](https://www.businessinsider.com/jensen-huang-nvidia-coreweave-investment-not-circular-deal-2026-1) (Published: 2026-01-26)
+- [This new Linux distro folds a gorgeous COSMIC desktop into an immutable Fedora base](https://www.zdnet.com/article/origami-linux-cosmic-desktop-immutable-fedora-base/) (Published: 2026-01-26)
 - [Nvidia Invests $2 Billion in CoreWeave Amid Data Center Project](https://www.pymnts.com/artificial-intelligence-2/2026/nvidia-invests-2-billion-in-coreweave-amid-data-center-project/) (Published: 2026-01-26)
 - [Microsoft’s Latest AI Chip to Reduce Reliance on Nvidia](https://financialpost.com/pmn/business-pmn/microsofts-latest-ai-chip-to-reduce-reliance-on-nvidia) (Published: 2026-01-26)
-- [Microsoft’s latest AI chip to reduce reliance on Nvidia](https://financialpost.com/technology/microsofts-ai-chip-reduce-reliance-nvidia) (Published: 2026-01-26)
-- [Nvidia invests $2 billion in CoreWeave to expand US AI data centers](https://www.thehindubusinessline.com/info-tech/nvidia-invests-2-billion-in-coreweave-to-expand-us-ai-data-centers/article70554141.ece) (Published: 2026-01-26)
-- [Show HN: a Rust-based multimodal inference server](https://github.com/mixpeek/multimodal-inference-server) (Published: 2026-01-26)
-- [AI Monopolists Could Be a Disaster for Workers](https://insights.som.yale.edu/insights/ai-monopolists-could-be-disaster-for-workers) (Published: 2026-01-26)
-- [American AI coding agents are impressive. But so are China’s](https://www.cnbc.com/2026/01/26/american-ai-coding-agents-are-impressive-but-so-are-chinas.html) (Published: 2026-01-26)
-- [Microsoft rolls out Maia 200 AI chip to reduce reliance on Nvidia](https://cryptobriefing.com/microsoft-maia-ai-chip-rollout/) (Published: 2026-01-26)
-- [Microsoft unveils Maia 200 AI chip to challenge Nvidia dominance](https://www.thehindubusinessline.com/info-tech/microsoft-unveils-maia-200-ai-chip-to-challenge-nvidia-dominance/article70554027.ece) (Published: 2026-01-26)
-- [The KDnuggets ComfyUI Crash Course](https://www.kdnuggets.com/the-kdnuggets-comfyui-crash-course) (Published: 2026-01-26)
