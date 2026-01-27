@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-27 22:49:55**_
+_Last updated: **2026-01-27 23:00:01**_
 
 - [Microsoft's Latest AI Chip Claims Performance Edge Over Amazon and Google](https://slashdot.org/submission/17344358/microsofts-latest-ai-chip-claims-performance-edge-over-amazon-and-google) (Published: 2026-01-26)
 - [Windows 11 update KB5074109 is “breaking” modems — and Microsoft says it’s not a bug. Here's what's going on.](https://www.windowscentral.com/microsoft/windows-11/windows-11-update-kb5074109-breaks-modems-for-some-users-but-it-is-not-a-bug) (Published: 2026-01-26)
