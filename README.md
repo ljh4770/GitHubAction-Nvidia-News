@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-27 06:50:57**_
+_Last updated: **2026-01-27 07:18:56**_
 
 - [Lenovo LOQ 15 with 144 Hz screen, RTX 5050 discounted to record-low $599](https://www.notebookcheck.net/Lenovo-LOQ-15-with-144-Hz-screen-RTX-5050-discounted-to-record-low-599.1212278.0.html) (Published: 2026-01-26)
 - [Lenovo Inadvertently Confirms Existence of New Laptop Models with NVIDIA N1(X) APUs](https://www.madshrimps.be/news/lenovo-inadvertently-confirms-existence-of-new-laptop-models-with-nvidia-n1x-apus/) (Published: 2026-01-26)
