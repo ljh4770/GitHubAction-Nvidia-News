@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-28 07:18:03**_
+_Last updated: **2026-01-28 07:43:35**_
 
 - [Why a 70:30 India-global portfolio makes sense in a changing world, Subho Moulik decodes](https://economictimes.indiatimes.com/markets/us-stocks/news/why-a-7030-india-global-portfolio-makes-sense-in-a-changing-world-subho-moulik-decodes/articleshow/127604085.cms) (Published: 2026-01-27)
 - [NVIDIA & CoreWeave’s Strengthened Collab to Accelerate Buildout of AI Factories](https://www.madshrimps.be/news/nvidia-coreweaves-strengthened-collab-to-accelerate-buildout-of-ai-factories/) (Published: 2026-01-27)
