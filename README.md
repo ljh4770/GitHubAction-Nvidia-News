@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-28 20:00:25**_
+_Last updated: **2026-01-28 20:44:19**_
 
+- [Bitcoin miners surge higher as Anthropic's fundraising efforts boost AI spirits](https://www.coindesk.com/markets/2026/01/27/bitcoin-miners-rise-on-fresh-usd20-billion-anthropic-funding-round) (Published: 2026-01-27)
+- [Anthropic closes latest funding round above $10 billion and could go higher, sources say](https://www.cnbc.com/2026/01/27/anthropic-fundraising-microsoft-nvidia.html) (Published: 2026-01-27)
+- [Jeff Bezos Retakes World’s No. 3 Richest Title—Passing Sergey Brin After Amazon Shutters Retail Stores](https://www.forbes.com/sites/tylerroush/2026/01/27/jeff-bezos-retakes-worlds-no-3-richest-title-passing-sergey-brin-after-amazon-shutters-retail-stores/) (Published: 2026-01-27)
+- [Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare](https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/) (Published: 2026-01-27)
+- [NVIDIA Releases GeForce 591.86 WHQL Game Ready Drivers](https://www.techpowerup.com/345711/nvidia-releases-geforce-591-86-whql-game-ready-drivers) (Published: 2026-01-27)
+- [You can buy a new Alienware 16 Aurora gaming laptop for less than a RAM upgrade right now](https://www.zdnet.com/article/alienware-16-aurora-gaming-laptop-deal/) (Published: 2026-01-27)
+- [The Powerful 4K-Ready Skytech O11 Vision Radeon 9070 XT Gaming PC Drops to $1,630](https://www.ign.com/articles/skytech-o11-vision-radeon-9070-xt-gaming-pc-deal-at-best-buy) (Published: 2026-01-27)
+- [Anthropic Close to Finalizing Fundraising Deal at $350 Billion Valuation](https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-close-to-finalizing-fundraising-deal-at-350-billion-valuation/) (Published: 2026-01-27)
+- [A Meta deal just turned this 175-year-old company into a linchpin of the AI data center boom](https://fortune.com/2026/01/27/corning-meta-deal-175-year-old-company-ai-data-center-boom/) (Published: 2026-01-27)
 - [LOQ 15APH11: Lenovo releases new budget gaming laptop with up to 32 GB RAM](https://www.notebookcheck.net/LOQ-15APH11-Lenovo-releases-new-budget-gaming-laptop-with-up-to-32-GB-RAM.1213506.0.html) (Published: 2026-01-27)
-- [Gamers Ditch GeForce RTX 5060 Ti 16 GB As Prices Skyrocket, Crossing $700 At Retail](https://wccftech.com/gamers-ditch-geforce-rtx-5060-ti-16-gb-as-the-gpu-soars-in-price-significantly/) (Published: 2026-01-27)
-- [Asus launching new 4K OLED gaming monitor later this year](https://www.notebookcheck.net/Asus-launching-new-4K-OLED-gaming-monitor-later-this-year.1213492.0.html) (Published: 2026-01-27)
-- [Anthropic targets $20B raise at $350B valuation as investor demand surges](https://cryptobriefing.com/anthropic-targets-20b-raise/) (Published: 2026-01-27)
-- [Arm's Cortex A725 Ft. Dell's Pro Max with GB10](https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max) (Published: 2026-01-27)
-- [DVCon U.S. 2026 Announces Conference Program & Panel Focused on AI and its Potential Role in Ending the Verification Bottleneck](https://www.globenewswire.com/news-release/2026/01/27/3227010/0/en/DVCon-U-S-2026-Announces-Conference-Program-Panel-Focused-on-AI-and-its-Potential-Role-in-Ending-the-Verification-Bottleneck.html) (Published: 2026-01-27)
-- [How Apple glassmaker Corning inked a $6 billion AI deal with Meta](https://macdailynews.com/2026/01/27/how-apple-glassmaker-corning-inked-a-6-billion-ai-deal-with-meta/) (Published: 2026-01-27)
-- [Show HN: EduFSDP – Minimal and Educational Sharded Data Parallel](https://github.com/0xNaN/edufsdp) (Published: 2026-01-27)
-- [Save $1,600 Off the Lenovo Legion Pro 7 16" OLED RTX 5090 Gaming Laptop with 64GB of DDR5 RAM](https://www.ign.com/articles/lenovo-legion-pro-7-16-rtx-5090-gaming-laptop-deal-january-2026) (Published: 2026-01-27)
-- [Anthropic and OpenAI CEOs condemn ICE violence, praise Trump | TechCrunch](https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/) (Published: 2026-01-27)
