@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-28 19:45:50**_
+_Last updated: **2026-01-28 20:00:25**_
 
 - [LOQ 15APH11: Lenovo releases new budget gaming laptop with up to 32 GB RAM](https://www.notebookcheck.net/LOQ-15APH11-Lenovo-releases-new-budget-gaming-laptop-with-up-to-32-GB-RAM.1213506.0.html) (Published: 2026-01-27)
 - [Gamers Ditch GeForce RTX 5060 Ti 16 GB As Prices Skyrocket, Crossing $700 At Retail](https://wccftech.com/gamers-ditch-geforce-rtx-5060-ti-16-gb-as-the-gpu-soars-in-price-significantly/) (Published: 2026-01-27)
