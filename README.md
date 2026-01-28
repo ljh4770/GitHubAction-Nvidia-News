@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-28 23:42:27**_
+_Last updated: **2026-01-28 23:57:53**_
 
 - [Intel Panther Lake Arc B390 performance and efficiency analysis: Intel's new iGPU trades blows with the Nvidia GeForce RTX 4050 - Notebookcheck](https://slashdot.org/firehose.pl?op=view&amp;id=180667778) (Published: 2026-01-27)
 - [Stock market today: Live updates](https://www.cnbc.com/2026/01/27/stock-market-today-live-updates.html) (Published: 2026-01-27)
