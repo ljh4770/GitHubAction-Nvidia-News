@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-28 04:47:12**_
+_Last updated: **2026-01-28 05:17:13**_
 
+- [7 of the most interesting quotes from Anthropic CEO's sprawling 19,000-word essay about AI](https://www.businessinsider.com/dario-amodei-ai-essay-most-interesting-quotes-2026-1) (Published: 2026-01-27)
 - [As tech chiefs woo Trump, Silicon Valley seethes over Minneapolis shootings](https://economictimes.indiatimes.com/tech/technology/as-tech-chiefs-woo-trump-silicon-valley-seethes-over-minneapolis-shootings/articleshow/127594790.cms) (Published: 2026-01-27)
 - [Nvidia Supply Deal In Crosshairs, Samsung Set To Start HBM4 Chip Production Next Month As Korean Giant Takes On SK Hynix: Report](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_21c389a0-f82a-4a8c-a9b6-c09bd2add814) (Published: 2026-01-27)
 - [Gaming PC 26L mATX: AMD R7 7800X3D, RTX 5070 Ti, 850W PSU, 32GB 6000MHz CL36, 1TB 7400NVMe SSD $3139 + Del (VIC C&C) @ Evatech](https://www.ozbargain.com.au/node/945665) (Published: 2026-01-27)
@@ -9,5 +10,3 @@ _Last updated: **2026-01-28 04:47:12**_
 - [AI Summit in Singapore Focuses on Infrastructure Shift as Industry Moves Beyond Experimentation](https://variety.com/2026/digital/news/ai-summit-singapore-infrastructure-era-1236641155/) (Published: 2026-01-27)
 - [Commentary: Behind the scenes of Jensen Huang's China trip](https://www.digitimes.com/news/a20260127PD210/nvidia-jensen-huang-shanghai-market.html) (Published: 2026-01-27)
 - [Microsoft製AIチップ「Maia 200」が稼働開始、3nmプロセスで製造されGPT-5.2などの推論をサポート](https://news.livedoor.com/article/detail/30452221/) (Published: 2026-01-27)
-- [Llama Lounge 22 at AWS, Jan 2026](https://web-strategist.com/blog/2026/01/26/llama-lounge-22-at-aws-2026/) (Published: 2026-01-27)
-- [From Steam To Silicon: Edge AI And The Birth Of An Intelligent Economy](https://www.forbes.com/sites/philkafarakis/2026/01/26/from-steam-to-silicon-edge-ai-and-the-birth-of-an-intelligent-economy/) (Published: 2026-01-27)
