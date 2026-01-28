@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-28 09:45:57**_
+_Last updated: **2026-01-28 10:01:55**_
 
+- [Emails show Bank of America's struggles with Nvidia AI: 'You have to help us as local car mechanics drive the race car!'](https://www.businessinsider.com/bank-of-america-nvidia-ai-internal-emails-2026-1) (Published: 2026-01-27)
+- [2degrees turns to HPE for private AI platform](https://www.telecomtv.com/content/ai/2degrees-turns-to-hpe-for-private-ai-platform-54713/) (Published: 2026-01-27)
 - [Valve released Proton 10.0-4 bringing more game compatibility to SteamOS / Linux](https://www.gamingonlinux.com/2026/01/valve-released-proton-10-0-4-bringing-more-game-compatibility-to-steamos-linux/.) (Published: 2026-01-27)
 - [Nvidia launches open models to speed weather forecasting](https://www.digitimes.com/news/a20260127VL208/nvidia-ai-weather-2026.html) (Published: 2026-01-27)
 - [NVIDIA Offers "Vera" CPU as a Standalone Competitor to Intel's Xeon and AMD's EPYC Processors](https://www.techpowerup.com/345664/nvidia-offers-vera-cpu-as-a-standalone-competitor-to-intels-xeon-and-amds-epyc-processors) (Published: 2026-01-27)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-28 09:45:57**_
 - [Teradata's AgentStack aims to simplify building, managing AI](https://www.techtarget.com/searchdatamanagement/news/366637641/Teradatas-AgentStack-aims-to-simplify-building-managing-AI) (Published: 2026-01-27)
 - [Nvidia’s Rally Shows DeepSeek Fears Were Unfounded a Year Later](https://www.insurancejournal.com/news/international/2026/01/27/855640.htm) (Published: 2026-01-27)
 - [Asian shares track Wall Street gains as gold edges lower](https://abcnews.go.com/Business/wireStory/asian-shares-track-wall-street-gains-gold-edges-129588172) (Published: 2026-01-27)
-- [TSMC and Nvidia ignite AI growth, Taiwan supply chain accelerates expansion](https://www.digitimes.com/news/a20260126PD211/ai-chip-demand-usa-expansion-nvidia-tsmc.html) (Published: 2026-01-27)
-- [MSI's Panther Lake Laptop Delivers on Intel's Promise of Power Plus Efficiency](https://www.cnet.com/tech/computing/msis-panther-lake-laptop-delivers-on-intels-promise-of-power-plus-efficiency/) (Published: 2026-01-27)
