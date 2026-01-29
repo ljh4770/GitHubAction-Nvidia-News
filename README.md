@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-29 09:56:39**_
+_Last updated: **2026-01-29 10:41:14**_
 
-- [Chip equipment maker ASML cuts nearly 4% of staff while trimming 1,700 jobs](https://economictimes.indiatimes.com/tech/technology/chip-equipment-maker-asml-cuts-nearly-4-of-staff-while-trimming-1700-jobs/articleshow/127694580.cms) (Published: 2026-01-28)
-- [My Prediction For Nvidia Stock in 2025 Came True. Here's What I Expect to Happen Next.](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3fcb50c-a798-484c-b8b0-b953780c538b) (Published: 2026-01-28)
-- [Automation as a Service Industry Research 2026 - Global Market Size, Share, Trends, Opportunities, and Forecasts, 2021-2025 & 2026-2031](https://www.globenewswire.com/news-release/2026/01/28/3227274/28124/en/Automation-as-a-Service-Industry-Research-2026-Global-Market-Size-Share-Trends-Opportunities-and-Forecasts-2021-2025-2026-2031.html) (Published: 2026-01-28)
-- [India bets big on homegrown AI as Dell and NVIDIA power NxtGen’s mega AI factory](https://www.livemint.com/companies/news/india-bets-big-on-homegrown-ai-as-dell-and-nvidia-power-nxtgen-s-mega-ai-factory-11769588009493.html) (Published: 2026-01-28)
-- [SK Hynix posts record quarterly profit on huge AI demand, trounces expectations](https://economictimes.indiatimes.com/tech/technology/sk-hynix-posts-record-quarterly-profit-on-huge-ai-demand-trounces-expectations/articleshow/127688719.cms) (Published: 2026-01-28)
-- [The $250 million ASML 'printer' behind Nvidia's chips: All you need to know](https://economictimes.indiatimes.com/tech/technology/the-250-million-asml-printer-behind-nvidias-chips-all-you-need-to-know/articleshow/127688796.cms) (Published: 2026-01-28)
-- [ASUS GPU Tweak Now Has Level Sense GPU Sag Detector Support for ROG Astral Cards](https://www.madshrimps.be/news/asus-gpu-tweak-now-has-level-sense-gpu-sag-detector-support-for-rog-astral-cards/) (Published: 2026-01-28)
-- [NVIDIA Releases GeForce 591.86 WHQL Game Ready Drivers](https://www.madshrimps.be/news/nvidia-releases-geforce-591-86-whql-game-ready-drivers/) (Published: 2026-01-28)
-- [LG 45GS95QE Ultragear OLED Curved Gaming Monitor 45-Inch WQHD 800R 240Hz 0.03ms DisplayHDR True Black 400 Tilt/Height/Swivel Stand - Black $999.99 (3 replies)](https://slickdeals.net/f/19146943-lg-45gs95qe-ultragear-oled-curved-gaming-monitor-45-inch-wqhd-800r-240hz-0-03ms-displayhdr-true-black-400-tilt-height-swivel-stand-black-999-99) (Published: 2026-01-28)
+- [nvidia-nat-phoenix 1.5.0a20260128](https://pypi.org/project/nvidia-nat-phoenix/1.5.0a20260128/) (Published: 2026-01-28)
+- [nvidia-nat-mcp 1.5.0a20260128](https://pypi.org/project/nvidia-nat-mcp/1.5.0a20260128/) (Published: 2026-01-28)
+- [nvidia-nat-ingestion 1.5.0a20260128](https://pypi.org/project/nvidia-nat-ingestion/1.5.0a20260128/) (Published: 2026-01-28)
+- [nvidia-nat-adk 1.5.0a20260128](https://pypi.org/project/nvidia-nat-adk/1.5.0a20260128/) (Published: 2026-01-28)
+- [nvidia-nat-openpipe-art 1.5.0a20260128](https://pypi.org/project/nvidia-nat-openpipe-art/1.5.0a20260128/) (Published: 2026-01-28)
+- [nvfuser-cu126 0.2.35.dev20260128](https://pypi.org/project/nvfuser-cu126/0.2.35.dev20260128/) (Published: 2026-01-28)
+- [Tech giant ASML announces record orders in boost for AI boom](https://www.aljazeera.com/economy/2026/1/28/tech-giant-asml-announces-record-orders-in-boost-for-ai-boom) (Published: 2026-01-28)
+- [nvfuser-cu128 0.2.35.dev20260128](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260128/) (Published: 2026-01-28)
+- [nvfuser-cu130 0.2.35.dev20260128](https://pypi.org/project/nvfuser-cu130/0.2.35.dev20260128/) (Published: 2026-01-28)
+- [nvidia-nat-llama-index 1.5.0a20260128](https://pypi.org/project/nvidia-nat-llama-index/1.5.0a20260128/) (Published: 2026-01-28)
