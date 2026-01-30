@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-30 17:55:27**_
+_Last updated: **2026-01-30 18:44:21**_
 
-- [20VC x SaaStr This Week: The $5 Billion Exit That Felt Weird, Why Inference Costs Are the Final Nail for Mid Growth SaaS, and Andreessen’s 2/3 AI Domination](https://www.saastr.com/20vc-x-saastr-this-week-the-5-billion-exit-that-felt-weird-why-inference-costs-are-the-final-nail-for-mid-growth-saas-and-andreessens-2-3-ai-domination/) (Published: 2026-01-29)
-- [Jim Cramer on NVIDIA: “I Think It Should Catch Up With the Rest of Some of These Big Mag Seven Names”](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_07fbe23c-53c5-4794-806c-54d29828c0e1) (Published: 2026-01-29)
-- [Ongoing trade war has TSMC and Taiwan stuck between a rock and a hard place — concerns mount surrounding U.S deals cracking the nation's silicon shield](https://www.tomshardware.com/tech-industry/semiconductors/ongoing-trade-war-has-tsmc-and-taiwan-stuck-between-a-rock-and-a-hard-place-concerns-mount-surrounding-u-s-deals-cracking-the-nations-silicon-shield) (Published: 2026-01-29)
-- [Nvidia CEO denies that U.S. wants to shift 40% of Taiwan's chipmaking capacity to America — Jensen Huang says onshoring is all new capacity, will preserve island nation's silicon shield](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-ceo-denies-that-u-s-wants-to-shift-40-percent-of-taiwans-chipmaking-capacity-to-america-jensen-huang-says-onshoring-is-all-new-capacity-will-preserve-island-nations-silicon-shield) (Published: 2026-01-29)
-- [Dell Outlet Has an Alienware Aurora R16 RTX 5070 Ti Gaming PC for Just $1,650, Will Sell Out Quickly](https://www.ign.com/articles/alienware-aurora-r16-rtx-5070-ti-gaming-pc-deal-for-1650-at-dell-outlet) (Published: 2026-01-29)
-- [Computer History Museum Names New Fellows to Honor Lifetime Achievements in Computing](https://www.globenewswire.com/news-release/2026/01/29/3228959/28639/en/Computer-History-Museum-Names-New-Fellows-to-Honor-Lifetime-Achievements-in-Computing.html) (Published: 2026-01-29)
-- [Samsung's Innovative PM9E1 Gen5 SSD Is Optimized For AI And NVIDIA DGX Spark](https://hothardware.com/news/samsung-pm9e1-gen5-2242-ssd) (Published: 2026-01-29)
-- [Is chip giant ASML about to hit a ceiling, or break through it?](https://economictimes.indiatimes.com/tech/technology/is-chip-giant-asml-about-to-hit-a-ceiling-or-break-through-it/articleshow/127781602.cms) (Published: 2026-01-29)
-- [Oracle shares fall over 50% as AI spending and OpenAI deals worry investor](https://economictimes.indiatimes.com/news/international/us/oracle-shares-fall-over-50-as-ai-spending-and-openai-deals-worry-investor/articleshow/127781832.cms) (Published: 2026-01-29)
+- [WonderFox DVD Video Converter 31.2](https://post.rlsbb.to/wonderfox-dvd-video-converter-31-2/) (Published: 2026-01-29)
+- [Google’s Sergey Brin teams up with Eric Schmidt, rich techies to fight California’s 5% billionaire tax](https://nypost.com/2026/01/29/business/sergey-brin-teams-up-with-eric-schmidt-to-fight-california-billionaire-tax/) (Published: 2026-01-29)
+- [Chaos Enscape 4.15.0.276](https://post.rlsbb.to/chaos-enscape-4-15-0-276/) (Published: 2026-01-29)
+- [Regularly $1,600 LG UltraGear 39-inch 240Hz WQHD OLED curved gaming monitor is 56% off at $700 all-time low](http://9to5toys.com/2026/01/29/lg-ultragear-39-inch-240hz-wqhd-oled-curved-gaming-monitor-56-off/) (Published: 2026-01-29)
+- [AI Daily: Nvidia, Microsoft said to eye up to $60B investment in OpenAI](https://legacy.thefly.com/permalinks/entry.php/id4280895/NVDA;AMZN;MSFT;UBER;NOW;AAPL;GOOGL;GOOG;META;$PRIVATE-AI-Daily-Nvidia-Microsoft-said-to-eye-up-to-B-investment-in-OpenAI) (Published: 2026-01-29)
+- [OpenAI Eyes $60 Billion Investment from Nvidia, Microsoft, and Amazon](https://www.iphoneincanada.ca/2026/01/29/openai-eyes-60-billion-investment-from-nvidia-microsoft-and-amazon/) (Published: 2026-01-29)
+- [Aiarty Video Enhancer 3.5](https://post.rlsbb.to/aiarty-video-enhancer-3-5/) (Published: 2026-01-29)
+- [Maingear's latest retro gaming desktop takes you back to the Quake era](https://slashdot.org/firehose.pl?op=view&amp;id=180688750) (Published: 2026-01-29)
+- [Steve Ballmer Falls From World’s No. 9 To No. 14 Richest As Microsoft Plummets On Slowed Cloud Growth](https://www.forbes.com/sites/tylerroush/2026/01/29/steve-ballmer-falls-from-worlds-no-9-to-no-14-richest-as-microsoft-plummets-on-slowed-cloud-growth/) (Published: 2026-01-29)
+- [AI has made hacking cheap. That changes everything for business](https://fortune.com/2026/01/29/ai-has-made-hacking-cheap-that-changes-everything-for-business/) (Published: 2026-01-29)
