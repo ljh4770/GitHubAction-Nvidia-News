@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 11:50:28**_
+_Last updated: **2026-01-31 12:19:15**_
 
+- [DeepSeek has reportedly been given conditional approval by the Chinese government to buy Nvidia's AI GPUs](https://www.pcgamer.com/hardware/deepseek-has-reportedly-been-given-conditional-approval-by-the-chinese-government-to-buy-nvidias-ai-gpus/) (Published: 2026-01-30)
+- [Amazon is reportedly in talks to invest $50B in OpenAI - TechCrunch](https://slashdot.org/firehose.pl?op=view&amp;id=180698196) (Published: 2026-01-30)
+- [Nvidia says Chinese military dependence on American tech would be 'nonsensical,' following US govt agency's claims it assisted Deepseek with training AI models — says Admin's critics 'are unintentionally promoting the interests of foreign competitors'](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-says-chinese-military-dependence-on-american-tech-would-be-nonsensical-following-us-govt-agencys-claims-it-assisted-deepseek-with-training-ai-models-says-admins-critics-are-unintentionally-promoting-the-interests-of-foreign-competitors) (Published: 2026-01-30)
+- [pynvvideocodec 2.1.0](https://pypi.org/project/pynvvideocodec/2.1.0/) (Published: 2026-01-30)
+- [Land an RTX 5080 gaming PC deal with 64GB of RAM for just $2,279 — this factory-reconditioned rig saves you hundreds of dollars, RAM and GPU alone worth $1,938 in today's market](https://www.tomshardware.com/desktops/gaming-pcs/land-an-rtx-5080-gaming-pc-deal-with-64gb-of-ram-for-just-usd2-279-this-factory-reconditioned-rig-saves-you-hundreds-of-dollars-ram-and-gpu-alone-worth-usd1-938-in-todays-market) (Published: 2026-01-30)
 - [Data Center Robotics Market Trends and Emerging Revenue Opportunities by Region, 2026-2031, Featuring Profiles of ABB, KUKA, FANUC, Yaskawa Electric, Siemens and More](https://www.globenewswire.com/news-release/2026/01/30/3229423/28124/en/Data-Center-Robotics-Market-Trends-and-Emerging-Revenue-Opportunities-by-Region-2026-2031-Featuring-Profiles-of-ABB-KUKA-FANUC-Yaskawa-Electric-Siemens-and-More.html) (Published: 2026-01-30)
 - [Microsoft's gaming division flounders while the firm makes more money than ever — Xbox consoles sales drop 32%](https://www.tomshardware.com/video-games/xbox/microsofts-gaming-division-flounders-while-the-firm-makes-more-money-than-ever-xbox-consoles-sales-drop-32-percent) (Published: 2026-01-30)
 - [Open-Source Nova Driver In Linux 7.0 Continues Preparing For NVIDIA Turing GPU Support](https://www.phoronix.com/news/Rust-DRM-For-Linux-7.0) (Published: 2026-01-30)
 - [Grab this 1440p Samsung Odyssey gaming monitor at its lowest-ever price, just $159 — save big on this IPS display with a fast 200Hz refresh rate](https://www.tomshardware.com/monitors/gaming-monitors/grab-this-1440p-samsung-odyssey-gaming-monitor-at-its-lowest-ever-price-just-usd159-save-big-on-this-ips-display-with-a-fast-200hz-refresh-rate) (Published: 2026-01-30)
 - [GeForce Now launches on Linux with a Flatpak build — native app brings 5K and 360FPS support to Linux gamers](https://www.tomshardware.com/video-games/cloud-gaming/geforce-now-launches-on-linux-with-a-flatpak-build-native-app-brings-5k-and-360fps-support-to-linux-gamers) (Published: 2026-01-30)
-- [nvidia-nat-llama-index 1.5.0a20260130](https://pypi.org/project/nvidia-nat-llama-index/1.5.0a20260130/) (Published: 2026-01-30)
-- [nvidia-nat-profiling 1.5.0a20260130](https://pypi.org/project/nvidia-nat-profiling/1.5.0a20260130/) (Published: 2026-01-30)
-- [nvidia-nat-opentelemetry 1.5.0a20260130](https://pypi.org/project/nvidia-nat-opentelemetry/1.5.0a20260130/) (Published: 2026-01-30)
-- [nvidia-nat-nemo-customizer 1.5.0a20260130](https://pypi.org/project/nvidia-nat-nemo-customizer/1.5.0a20260130/) (Published: 2026-01-30)
-- [nvidia-nat-mem0ai 1.5.0a20260130](https://pypi.org/project/nvidia-nat-mem0ai/1.5.0a20260130/) (Published: 2026-01-30)
