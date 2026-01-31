@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 01:00:01**_
+_Last updated: **2026-01-31 03:26:11**_
 
+- [Amazon in talks to invest billions in OpenAI, source says](https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-in-talks-to-invest-billions-in-openai-source-says/articleshow/127789978.cms) (Published: 2026-01-30)
+- [GeniGods: Nezha Is a New “Chinese God of War” from the Creators of My Hero Academia](https://wccftech.com/genigods-nezha-chinese-god-of-war-creators-my-hero-academia/) (Published: 2026-01-30)
+- [Tech Giants Circle OpenAI in Funding Round That Could Top $100 Billion](https://decrypt.co/356442/openai-funding-round-top-100-billion) (Published: 2026-01-30)
+- [Samsung Profits Triple: AI Chip Demand Drives Record-Breaking Q4 2025 Results](https://www.androidheadlines.com/2026/01/samsung-q4-2025-earnings-ai-chip-record-profit.html) (Published: 2026-01-30)
+- [Apple warns memory costs are starting to bite as Samsung, SK Hynix prioritise AI chips](https://economictimes.indiatimes.com/tech/technology/apple-warns-memory-costs-are-starting-to-bite-as-samsung-sk-hynix-prioritise-ai-chips/articleshow/127789502.cms) (Published: 2026-01-30)
+- [Nvidia just gave gamers another reason to switch to Linux — a shiny new GeForce Now app](https://www.techradar.com/gaming/pc-gaming/nvidia-just-gave-gamers-another-reason-to-switch-to-linux-a-shiny-new-geforce-now-app) (Published: 2026-01-30)
+- [RAM prices are ridiculous in 2026 - here's how my PC buying advice is changing this year](https://www.zdnet.com/article/how-to-find-laptop-pc-deals-with-ram-prices-rising-2026/) (Published: 2026-01-30)
+- [I tested Samsung's first laptop with Intel's Panther Lake chip - it's a sleeper hit for Windows users](https://www.zdnet.com/article/samsung-galaxy-book6-ultra-review/) (Published: 2026-01-30)
 - [Xi meets Starmer; Services consumption work plan; Soccer corruption; Nvidia and China](https://sinocism.com/p/xi-meets-starmer-services-consumption) (Published: 2026-01-30)
 - [Why Elon Musk wants to put AI data centres in space](https://www.thehindubusinessline.com/info-tech/explainer-why-elon-musk-wants-to-put-ai-data-centres-in-space/article70568629.ece) (Published: 2026-01-30)
-- [NVIDIA and Mercedes-Benz Bring Level 4 Autonomous Driving to the S-Class With DRIVE AV Platform](https://www.c-sharpcorner.com/news/nvidia-and-mercedesbenz-bring-level-4-autonomous-driving-to-the-sclass-with-drive-av-platform) (Published: 2026-01-30)
-- [Friday Five — January 30, 2026](https://www.redhat.com/en/blog/friday-five-january-30-2026-red-hat) (Published: 2026-01-30)
-- [Cramer says Microsoft and Meta's earnings offer a clear lesson: Don't give up on the tech giants](https://www.cnbc.com/2026/01/29/cramer-lesson-investors-microsoft-meta-earnings.html) (Published: 2026-01-29)
-- [Modder Puts vBIOS From ASUS ROG Matrix RTX 5090 With +200 W Extra Power Onto Astral RTX 5090](https://www.techpowerup.com/345813/modder-puts-vbios-from-asus-rog-matrix-rtx-5090-with-200-w-extra-power-onto-astral-rtx-5090) (Published: 2026-01-29)
-- [Microsoft suffers $451 billion stock rout as investors question AI spending](https://www.straitstimes.com/business/companies-markets/microsoft-suffers-451-billion-stock-rout-as-investors-question-ai-spending) (Published: 2026-01-29)
-- [Amazon could invest up to $50B in OpenAI: report](https://nypost.com/2026/01/29/business/amazon-could-invest-up-to-50b-in-openai-report/) (Published: 2026-01-29)
-- [Lenovo ThinkCentre M90a Pro Gen 6 (27-Inch)](https://me.pcmag.com/en/old-desktop-pcs/34999/lenovo-thinkcentre-m90a-pro-gen-6-27-inch) (Published: 2026-01-29)
-- [Lenovo ThinkCentre M90a Pro Gen 6 (27-Inch)](https://uk.pcmag.com/desktop-pcs/162872/lenovo-thinkcentre-m90a-pro-gen-6-27-inch) (Published: 2026-01-29)
