@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 18:40:43**_
+_Last updated: **2026-01-31 19:02:00**_
 
 - [Amazon’s Big Bet: A $50B OpenAI Deal to Challenge Tech Dominance](https://www.androidheadlines.com/2026/01/amazon-50-billion-openai-deal-tech-dominance.html) (Published: 2026-01-30)
 - [Morgan Stanley sets bold new price target on Nvidia stock](https://www.thestreet.com/investing/stocks/morgan-stanley-sets-bold-new-price-target-on-nvidia-stock) (Published: 2026-01-30)
