@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 11:35:47**_
+_Last updated: **2026-01-31 11:50:28**_
 
 - [Data Center Robotics Market Trends and Emerging Revenue Opportunities by Region, 2026-2031, Featuring Profiles of ABB, KUKA, FANUC, Yaskawa Electric, Siemens and More](https://www.globenewswire.com/news-release/2026/01/30/3229423/28124/en/Data-Center-Robotics-Market-Trends-and-Emerging-Revenue-Opportunities-by-Region-2026-2031-Featuring-Profiles-of-ABB-KUKA-FANUC-Yaskawa-Electric-Siemens-and-More.html) (Published: 2026-01-30)
 - [Microsoft's gaming division flounders while the firm makes more money than ever — Xbox consoles sales drop 32%](https://www.tomshardware.com/video-games/xbox/microsofts-gaming-division-flounders-while-the-firm-makes-more-money-than-ever-xbox-consoles-sales-drop-32-percent) (Published: 2026-01-30)
