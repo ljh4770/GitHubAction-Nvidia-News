@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 09:38:27**_
+_Last updated: **2026-01-31 09:55:52**_
 
 - [Exclusive: China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=180697282) (Published: 2026-01-30)
 - [Artificial Intelligence Chip Research Report 2025 - Global Industry Size, Share, Trends, Opportunities, & Forecasts, 2020-2024 & 2025-2030](https://www.globenewswire.com/news-release/2026/01/30/3229295/28124/en/Artificial-Intelligence-Chip-Research-Report-2025-Global-Industry-Size-Share-Trends-Opportunities-Forecasts-2020-2024-2025-2030.html) (Published: 2026-01-30)
