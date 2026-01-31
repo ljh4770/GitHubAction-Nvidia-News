@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 14:44:47**_
+_Last updated: **2026-01-31 14:59:36**_
 
+- [Big three memory chip manufacturers policing customers to prevent hoarding — employee says industry relationships ‘matter in a crunch’](https://www.tomshardware.com/pc-components/dram/big-three-memory-chip-manufacturers-policing-customers-to-prevent-hoarding-employee-says-industry-relationships-matter-in-a-crunch) (Published: 2026-01-30)
+- [US Stocks Slide After Trump’s Fed Chair Pick, Hotter PPI Data](https://financialpost.com/pmn/business-pmn/us-stocks-slide-after-trumps-fed-chair-pick-hotter-ppi-data) (Published: 2026-01-30)
 - [What role is left for decentralized GPU networks in AI?](https://cointelegraph.com/news/what-role-is-left-for-decentralized-gpu-networks-in-ai) (Published: 2026-01-30)
 - [Cartoon Crocodile - Lowpoly Stylized Animal Pack by 3D Game Objects](https://assetstore.unity.com/packages/3d/characters/animals/reptiles/cartoon-crocodile-lowpoly-stylized-animal-pack-349668) (Published: 2026-01-30)
 - [Samsung Moves Odyssey Curved Gaming Monitor Into Clearance, 49″ G93SC Series Hits an All-Time Low](https://kotaku.com/samsung-moves-odyssey-curved-gaming-monitor-into-clearance-49-g93sc-series-hits-an-all-time-low-2000664187) (Published: 2026-01-30)
@@ -9,5 +11,3 @@ _Last updated: **2026-01-31 14:44:47**_
 - [New Report All But Confirms Apple’s New Split iPhone Launch Strategy](https://www.mactrast.com/2026/01/new-report-all-but-confirms-apples-new-split-iphone-launch-strategy/) (Published: 2026-01-30)
 - [BTCC Exchange’s Tokenized Precious Metals Hit Record $301M Daily Volume as Silver Surges Amid Global Uncertainty](https://www.globenewswire.com/news-release/2026/01/30/3229556/0/en/BTCC-Exchange-s-Tokenized-Precious-Metals-Hit-Record-301M-Daily-Volume-as-Silver-Surges-Amid-Global-Uncertainty.html) (Published: 2026-01-30)
 - [AlphaTON’s Claude Connector Accelerates User Shift Away From Big Tech AI Practices That Steal Ideas and Data](https://www.globenewswire.com/news-release/2026/01/30/3229522/0/en/AlphaTON-s-Claude-Connector-Accelerates-User-Shift-Away-From-Big-Tech-AI-Practices-That-Steal-Ideas-and-Data.html) (Published: 2026-01-30)
-- [DeepSeek reportedly gets China's approval to buy NVIDIA's H200 AI chips](https://slashdot.org/firehose.pl?op=view&amp;id=180698928) (Published: 2026-01-30)
-- [nvidia-nat-ragaai 1.4.0a20260130](https://pypi.org/project/nvidia-nat-ragaai/1.4.0a20260130/) (Published: 2026-01-30)
