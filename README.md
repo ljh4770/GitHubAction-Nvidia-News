@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 22:58:23**_
+_Last updated: **2026-01-31 23:31:00**_
 
+- [Nvidia just turned my 1440p gaming PC into a 4K capable machine overnight](https://www.xda-developers.com/nvidia-just-turned-my-1440p-gaming-pc-into-a-4k-machine-overnight/) (Published: 2026-01-30)
 - [Inside Nvidia’s 10-year effort to make the Shield TV the most updated Android device ever - Ars Technica](https://slashdot.org/firehose.pl?op=view&amp;id=180703982) (Published: 2026-01-30)
 - [Tech layoffs roundup: Every major company cutting jobs in 2025-2026](https://www.androidheadlines.com/2026/01/tech-layoffs-roundup-every-major-company-cutting-jobs-in-2025-2026.html) (Published: 2026-01-30)
 - [Time Warp Back to the 1990s With Maingear's Retro98 PC](https://www.cnet.com/tech/computing/maingears-1990s-inspired-retro98-pc-has-working-turbo-button/) (Published: 2026-01-30)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-31 22:58:23**_
 - [Streamer's MSI RTX 4090 Gaming Trio Takes a Smoke Break as 12vHPWR Nearly Claims Another Victim](https://www.techpowerup.com/345845/streamers-msi-rtx-4090-gaming-trio-takes-a-smoke-break-as-12vhpwr-nearly-claims-another-victim) (Published: 2026-01-30)
 - [Experts Warn Data Center Backlash Could Slow AI Infrastructure Growth](https://decrypt.co/356519/experts-warn-data-center-backlash-slow-ai-infrastructure-growth) (Published: 2026-01-30)
 - [NVIDIA releases driver update for Maxwell and Pascal GPUs — it focuses only on security fixes, but it's still crucial for the older cards](https://www.windowscentral.com/hardware/nvidia/nvidia-maxwell-pascal-volta-security-driver-update) (Published: 2026-01-30)
-- [The Xbox Ally, with its 1080p, 120Hz display and comfy grips, is putting the Steam Deck on notice — and it's now just below $490 instead of $599](https://www.windowscentral.com/hardware/handheld-gaming-pc/the-xbox-ally-with-its-1080p-120hz-display-and-comfy-grips-is-putting-the-steam-deck-on-notice-and-its-now-just-below-usd490-instead-of-usd599) (Published: 2026-01-30)
