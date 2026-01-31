@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 08:00:43**_
+_Last updated: **2026-01-31 08:42:05**_
 
+- [Taiwan Q4 economic growth beats forecasts on solid AI demand](https://www.channelnewsasia.com/business/taiwan-q4-economic-growth-beats-forecasts-solid-ai-demand-5896171) (Published: 2026-01-30)
 - [Kioxia Seeks Growth in AI Storage While Rivals Chase HBM Profits](https://financialpost.com/pmn/business-pmn/kioxia-seeks-growth-in-ai-storage-while-rivals-chase-hbm-profits) (Published: 2026-01-30)
 - [DeepSeek can now buy Nvidia’s H200 chips, but China has conditions](https://www.thehindubusinessline.com/info-tech/deepseek-can-now-buy-nvidias-h200-chips-but-china-has-conditions/article70569328.ece) (Published: 2026-01-30)
 - [Ex-Google engineer convicted of stealing AI secrets for Chinese companies](https://www.thehindubusinessline.com/info-tech/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies/article70569309.ece) (Published: 2026-01-30)
