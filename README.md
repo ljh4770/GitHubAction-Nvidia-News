@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 04:48:10**_
+_Last updated: **2026-01-31 05:29:08**_
 
+- [A shortage in memory chips is hitting tech hard, and even Apple's not immune](https://www.businessinsider.com/memory-chip-shortage-apple-earnings-first-quarter-tim-cook-2026-1) (Published: 2026-01-30)
+- [Future of Marketing Briefing: Advertising’s tracking system meets a new political reality](http://digiday.com/marketing/future-of-marketing-briefing-advertisings-tracking-system-meets-a-new-political-reality/) (Published: 2026-01-30)
+- [Artificial Intelligence in Defense Market to Reach USD 29.48 Billion by 2035, Driven by Defense Modernization and Autonomous Warfare Technologies – SNS Insider](https://www.globenewswire.com/news-release/2026/01/30/3229219/0/en/Artificial-Intelligence-in-Defense-Market-to-Reach-USD-29-48-Billion-by-2035-Driven-by-Defense-Modernization-and-Autonomous-Warfare-Technologies-SNS-Insider.html) (Published: 2026-01-30)
+- [Chinese AI goes next level in geometry at a top US maths Olympiad](https://www.thestar.com.my/tech/tech-news/2026/01/30/chinese-ai-goes-next-level-in-geometry-at-a-top-us-maths-olympiad) (Published: 2026-01-30)
+- [Jupiter 2 – RVA23-compliant SBC features SpacemiT K3 octa-core RISC-V AI SoC, up to 32GB RAM, 256GB UFS](https://www.cnx-software.com/2026/01/30/jupiter-2-an-rva23-compliant-sbc-powered-features-spacemit-k3-octa-core-risc-v-ai-soc-up-to-32gb-ram-256gb-ufs/) (Published: 2026-01-30)
 - [AI 승자와 패자 누구? 메모리 가격 급등이 수익성에 미치는 영향](https://ryueyes11.tistory.com/512074) (Published: 2026-01-30)
 - [cutile-gpt added to PyPI](https://pypi.org/project/cutile-gpt/) (Published: 2026-01-30)
 - [Is any other investment as good as gold? This one asset that outpaced them all and here's the reason why](https://freerepublic.com/focus/f-chat/4364630/posts) (Published: 2026-01-30)
 - [Show HN: Qwen 3 TTS ported to Rust](https://github.com/TrevorS/qwen3-tts-rs) (Published: 2026-01-30)
 - [Gold, Silver and US stock markets see massive volatility as markets swing nearly $9 trillion](https://www.thehindubusinessline.com/markets/gold-silver-and-us-stock-markets-see-massive-volatility-as-markets-swing-nearly-9-trillion/article70568773.ece) (Published: 2026-01-30)
-- [『ソニックランブル』期間限定イベント『ソニックレーシング クロスワールド』とのコラボイベント開催！](https://prtimes.jp/main/html/rd/p/000007125.000005397.html) (Published: 2026-01-30)
-- [Amazon and Google eat into Nvidia's AI chip supremacy](https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-and-google-eat-into-nvidias-ai-chip-supremacy/articleshow/127790235.cms) (Published: 2026-01-30)
-- [Why does Elon Musk want to put AI data centers in space?](https://economictimes.indiatimes.com/tech/technology/why-does-elon-musk-want-to-put-ai-data-centers-in-space/articleshow/127790193.cms) (Published: 2026-01-30)
-- [Microsofts $357 Billion Rout Is Worst Since Deepseek Hit Nvidia](https://www.ndtvprofit.com/markets/microsofts-357-billion-rout-is-worst-since-deepseek-hit-nvidia-10911232) (Published: 2026-01-30)
-- [Amazon in talks to invest billions in OpenAI, source says](https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-in-talks-to-invest-billions-in-openai-source-says/articleshow/127789978.cms) (Published: 2026-01-30)
