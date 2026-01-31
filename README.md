@@ -1,11 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 06:55:11**_
+_Last updated: **2026-01-31 07:28:20**_
 
+- [DeepSeek can now buy Nvidia’s H200 chips, but China has conditions](https://www.thehindubusinessline.com/info-tech/deepseek-can-now-buy-nvidias-h200-chips-but-china-has-conditions/article70569328.ece) (Published: 2026-01-30)
+- [Ex-Google engineer convicted of stealing AI secrets for Chinese companies](https://www.thehindubusinessline.com/info-tech/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies/article70569309.ece) (Published: 2026-01-30)
+- [Modder Puts vBIOS From ASUS ROG Matrix RTX 5090 With +200 W Extra Power Onto Astral RTX 5090](https://www.madshrimps.be/news/modder-puts-vbios-from-asus-rog-matrix-rtx-5090-with-200-w-extra-power-onto-astral-rtx-5090/) (Published: 2026-01-30)
+- [Open Image Denoise 3 will support temporal denoising](https://www.cgchannel.com/2026/01/open-image-denoise-3-will-support-temporal-denoising/) (Published: 2026-01-30)
+- [Apple to focus on foldable, high-end iPhones in 2026 as supply constraints bite](https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-to-focus-on-foldable-high-end-iphones-in-2026-as-supply-constraints-bite/articleshow/127793586.cms) (Published: 2026-01-30)
 - [China conditionally approves DeepSeek to buy Nvidia's H200 chips, say sources](https://economictimes.indiatimes.com/tech/technology/china-conditionally-approves-deepseek-to-buy-nvidias-h200-chips-sources/articleshow/127793709.cms) (Published: 2026-01-30)
 - [Liberia's largest gold miner repeatedly spilled dangerous chemicals, records show](https://abcnews.go.com/Technology/wireStory/liberias-largest-gold-miner-repeatedly-spilled-dangerous-chemicals-129694026) (Published: 2026-01-30)
 - [Apple enjoys most profitable quarter ever amid record iPhone sales](https://www.irishtimes.comhttps://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html) (Published: 2026-01-30)
 - [Liberia's largest gold miner spilled dangerous chemicals, records show](https://apnews.com/article/liberia-gold-investigation-bea-mountain-pollution-9f4879611ac06d3beb8205af25740ef4) (Published: 2026-01-30)
-- [MSI AEGIS ZS2 B9NVR-1433US, AMD Ryzenâ¢ 7 9700X, 64GB DDR5 6000 (2 x 32GB), 2TB M.2 NVMe Gen4 SSD, NVIDIAÂ® GeForce RTX 5070 Ti Factory Reconditioned $1849.99 (2 replies)](https://slickdeals.net/f/19154419-msi-aegis-zs2-b9nvr-1433us-amd-ryzen-7-9700x-64gb-ddr5-6000-2-x-32gb-2tb-m-2-nvme-gen4-ssd-nvidia-geforce-rtx-5070-ti-factory-reconditioned-1849-99) (Published: 2026-01-30)
-- [MSI Codex Z2 B8NVP-434US Gaming PC AMD Ryzen 7 8700F 4.1GHz Processor NVIDIA GeForce RTX 5070 12GB GDDR7 - 32GB DDR5-6000 RAM - 1TB SSD Factory Reconditioned $1199.99](https://slickdeals.net/f/19154380-msi-codex-z2-b8nvp-434us-gaming-pc-amd-ryzen-7-8700f-4-1ghz-processor-nvidia-geforce-rtx-5070-12gb-gddr7-32gb-ddr5-6000-ram-1tb-ssd-factory-reconditioned-1199-99) (Published: 2026-01-30)
-- [MSI AEGIS ZS2 A9NVP-1407US, AMD Ryzen™ 9 9900X, 32GB DDR5, 2TB Factory Reconditioned $1279.99](https://slickdeals.net/f/19154350-msi-aegis-zs2-a9nvp-1407us-amd-ryzen-9-9900x-32gb-ddr5-2tb-factory-reconditioned-1279-99) (Published: 2026-01-30)
-- [A shortage in memory chips is hitting tech hard, and even Apple's not immune](https://www.businessinsider.com/memory-chip-shortage-apple-earnings-first-quarter-tim-cook-2026-1) (Published: 2026-01-30)
