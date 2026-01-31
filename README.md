@@ -1,13 +1,11 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 06:01:54**_
+_Last updated: **2026-01-31 06:55:11**_
 
+- [China conditionally approves DeepSeek to buy Nvidia's H200 chips, say sources](https://economictimes.indiatimes.com/tech/technology/china-conditionally-approves-deepseek-to-buy-nvidias-h200-chips-sources/articleshow/127793709.cms) (Published: 2026-01-30)
+- [Liberia's largest gold miner repeatedly spilled dangerous chemicals, records show](https://abcnews.go.com/Technology/wireStory/liberias-largest-gold-miner-repeatedly-spilled-dangerous-chemicals-129694026) (Published: 2026-01-30)
+- [Apple enjoys most profitable quarter ever amid record iPhone sales](https://www.irishtimes.comhttps://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html) (Published: 2026-01-30)
+- [Liberia's largest gold miner spilled dangerous chemicals, records show](https://apnews.com/article/liberia-gold-investigation-bea-mountain-pollution-9f4879611ac06d3beb8205af25740ef4) (Published: 2026-01-30)
+- [MSI AEGIS ZS2 B9NVR-1433US, AMD Ryzenâ¢ 7 9700X, 64GB DDR5 6000 (2 x 32GB), 2TB M.2 NVMe Gen4 SSD, NVIDIAÂ® GeForce RTX 5070 Ti Factory Reconditioned $1849.99 (2 replies)](https://slickdeals.net/f/19154419-msi-aegis-zs2-b9nvr-1433us-amd-ryzen-7-9700x-64gb-ddr5-6000-2-x-32gb-2tb-m-2-nvme-gen4-ssd-nvidia-geforce-rtx-5070-ti-factory-reconditioned-1849-99) (Published: 2026-01-30)
+- [MSI Codex Z2 B8NVP-434US Gaming PC AMD Ryzen 7 8700F 4.1GHz Processor NVIDIA GeForce RTX 5070 12GB GDDR7 - 32GB DDR5-6000 RAM - 1TB SSD Factory Reconditioned $1199.99](https://slickdeals.net/f/19154380-msi-codex-z2-b8nvp-434us-gaming-pc-amd-ryzen-7-8700f-4-1ghz-processor-nvidia-geforce-rtx-5070-12gb-gddr7-32gb-ddr5-6000-ram-1tb-ssd-factory-reconditioned-1199-99) (Published: 2026-01-30)
 - [MSI AEGIS ZS2 A9NVP-1407US, AMD Ryzen™ 9 9900X, 32GB DDR5, 2TB Factory Reconditioned $1279.99](https://slickdeals.net/f/19154350-msi-aegis-zs2-a9nvp-1407us-amd-ryzen-9-9900x-32gb-ddr5-2tb-factory-reconditioned-1279-99) (Published: 2026-01-30)
 - [A shortage in memory chips is hitting tech hard, and even Apple's not immune](https://www.businessinsider.com/memory-chip-shortage-apple-earnings-first-quarter-tim-cook-2026-1) (Published: 2026-01-30)
-- [Future of Marketing Briefing: Advertising’s tracking system meets a new political reality](http://digiday.com/marketing/future-of-marketing-briefing-advertisings-tracking-system-meets-a-new-political-reality/) (Published: 2026-01-30)
-- [Artificial Intelligence in Defense Market to Reach USD 29.48 Billion by 2035, Driven by Defense Modernization and Autonomous Warfare Technologies – SNS Insider](https://www.globenewswire.com/news-release/2026/01/30/3229219/0/en/Artificial-Intelligence-in-Defense-Market-to-Reach-USD-29-48-Billion-by-2035-Driven-by-Defense-Modernization-and-Autonomous-Warfare-Technologies-SNS-Insider.html) (Published: 2026-01-30)
-- [Chinese AI goes next level in geometry at a top US maths Olympiad](https://www.thestar.com.my/tech/tech-news/2026/01/30/chinese-ai-goes-next-level-in-geometry-at-a-top-us-maths-olympiad) (Published: 2026-01-30)
-- [Jupiter 2 – RVA23-compliant SBC features SpacemiT K3 octa-core RISC-V AI SoC, up to 32GB RAM, 256GB UFS](https://www.cnx-software.com/2026/01/30/jupiter-2-an-rva23-compliant-sbc-powered-features-spacemit-k3-octa-core-risc-v-ai-soc-up-to-32gb-ram-256gb-ufs/) (Published: 2026-01-30)
-- [AI 승자와 패자 누구? 메모리 가격 급등이 수익성에 미치는 영향](https://ryueyes11.tistory.com/512074) (Published: 2026-01-30)
-- [cutile-gpt added to PyPI](https://pypi.org/project/cutile-gpt/) (Published: 2026-01-30)
-- [Is any other investment as good as gold? This one asset that outpaced them all and here's the reason why](https://freerepublic.com/focus/f-chat/4364630/posts) (Published: 2026-01-30)
-- [Show HN: Qwen 3 TTS ported to Rust](https://github.com/TrevorS/qwen3-tts-rs) (Published: 2026-01-30)
