@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 05:29:08**_
+_Last updated: **2026-01-31 06:01:54**_
 
+- [MSI AEGIS ZS2 A9NVP-1407US, AMD Ryzen™ 9 9900X, 32GB DDR5, 2TB Factory Reconditioned $1279.99](https://slickdeals.net/f/19154350-msi-aegis-zs2-a9nvp-1407us-amd-ryzen-9-9900x-32gb-ddr5-2tb-factory-reconditioned-1279-99) (Published: 2026-01-30)
 - [A shortage in memory chips is hitting tech hard, and even Apple's not immune](https://www.businessinsider.com/memory-chip-shortage-apple-earnings-first-quarter-tim-cook-2026-1) (Published: 2026-01-30)
 - [Future of Marketing Briefing: Advertising’s tracking system meets a new political reality](http://digiday.com/marketing/future-of-marketing-briefing-advertisings-tracking-system-meets-a-new-political-reality/) (Published: 2026-01-30)
 - [Artificial Intelligence in Defense Market to Reach USD 29.48 Billion by 2035, Driven by Defense Modernization and Autonomous Warfare Technologies – SNS Insider](https://www.globenewswire.com/news-release/2026/01/30/3229219/0/en/Artificial-Intelligence-in-Defense-Market-to-Reach-USD-29-48-Billion-by-2035-Driven-by-Defense-Modernization-and-Autonomous-Warfare-Technologies-SNS-Insider.html) (Published: 2026-01-30)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-31 05:29:08**_
 - [cutile-gpt added to PyPI](https://pypi.org/project/cutile-gpt/) (Published: 2026-01-30)
 - [Is any other investment as good as gold? This one asset that outpaced them all and here's the reason why](https://freerepublic.com/focus/f-chat/4364630/posts) (Published: 2026-01-30)
 - [Show HN: Qwen 3 TTS ported to Rust](https://github.com/TrevorS/qwen3-tts-rs) (Published: 2026-01-30)
-- [Gold, Silver and US stock markets see massive volatility as markets swing nearly $9 trillion](https://www.thehindubusinessline.com/markets/gold-silver-and-us-stock-markets-see-massive-volatility-as-markets-swing-nearly-9-trillion/article70568773.ece) (Published: 2026-01-30)
