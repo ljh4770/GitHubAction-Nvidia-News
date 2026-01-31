@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 07:50:05**_
+_Last updated: **2026-01-31 08:00:43**_
 
 - [Kioxia Seeks Growth in AI Storage While Rivals Chase HBM Profits](https://financialpost.com/pmn/business-pmn/kioxia-seeks-growth-in-ai-storage-while-rivals-chase-hbm-profits) (Published: 2026-01-30)
 - [DeepSeek can now buy Nvidia’s H200 chips, but China has conditions](https://www.thehindubusinessline.com/info-tech/deepseek-can-now-buy-nvidias-h200-chips-but-china-has-conditions/article70569328.ece) (Published: 2026-01-30)
