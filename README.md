@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 21:35:28**_
+_Last updated: **2026-01-31 21:51:40**_
 
+- [Apple’s $2B AI Deal, Microsoft Loses $360B, Meta’s AI Jobs Shift | Daily Tech Updates - Jan 30, 2026](https://www.c-sharpcorner.com/article/apples-2b-ai-deal-microsoft-loses-360b-metas-ai-jobs-shift-daily-tech-up/) (Published: 2026-01-30)
 - [Streamer's MSI RTX 4090 Gaming Trio Takes a Smoke Break as 12vHPWR Nearly Claims Another Victim](https://www.techpowerup.com/345845/streamers-msi-rtx-4090-gaming-trio-takes-a-smoke-break-as-12vhpwr-nearly-claims-another-victim) (Published: 2026-01-30)
 - [Experts Warn Data Center Backlash Could Slow AI Infrastructure Growth](https://decrypt.co/356519/experts-warn-data-center-backlash-slow-ai-infrastructure-growth) (Published: 2026-01-30)
 - [NVIDIA releases driver update for Maxwell and Pascal GPUs — it focuses only on security fixes, but it's still crucial for the older cards](https://www.windowscentral.com/hardware/nvidia/nvidia-maxwell-pascal-volta-security-driver-update) (Published: 2026-01-30)
@@ -10,4 +11,3 @@ _Last updated: **2026-01-31 21:35:28**_
 - [NVIDIA’S Shield Android TV, IoT Done Right](https://pcper.com/2026/01/nvidias-shield-android-tv-iot-done-right/) (Published: 2026-01-30)
 - [NVIDIA Keeps SHIELD TV Updated a Decade Later, Promising More Updates](https://www.techpowerup.com/345846/nvidia-keeps-shield-tv-updated-a-decade-later-promising-more-updates) (Published: 2026-01-30)
 - [Advancing GPU Programming with the CUDA Tile IR Backend for OpenAI Triton](https://developer.nvidia.com/blog/advancing-gpu-programming-with-the-cuda-tile-ir-backend-for-openai-triton/) (Published: 2026-01-30)
-- [Bitwise CIO Matt Hougan says bitcoin could hit $6.5 million in 20 years](https://www.coindesk.com/markets/2026/01/30/bitwise-cio-matt-hougan-says-bitcoin-could-hit-usd6-5-million-in-20-years) (Published: 2026-01-30)
