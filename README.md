@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 10:31:45**_
+_Last updated: **2026-01-31 10:52:20**_
 
 - [nvidia-nat-llama-index 1.5.0a20260130](https://pypi.org/project/nvidia-nat-llama-index/1.5.0a20260130/) (Published: 2026-01-30)
 - [nvidia-nat-profiling 1.5.0a20260130](https://pypi.org/project/nvidia-nat-profiling/1.5.0a20260130/) (Published: 2026-01-30)
