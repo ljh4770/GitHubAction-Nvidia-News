@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 03:26:11**_
+_Last updated: **2026-01-31 04:48:10**_
 
+- [AI 승자와 패자 누구? 메모리 가격 급등이 수익성에 미치는 영향](https://ryueyes11.tistory.com/512074) (Published: 2026-01-30)
+- [cutile-gpt added to PyPI](https://pypi.org/project/cutile-gpt/) (Published: 2026-01-30)
+- [Is any other investment as good as gold? This one asset that outpaced them all and here's the reason why](https://freerepublic.com/focus/f-chat/4364630/posts) (Published: 2026-01-30)
+- [Show HN: Qwen 3 TTS ported to Rust](https://github.com/TrevorS/qwen3-tts-rs) (Published: 2026-01-30)
+- [Gold, Silver and US stock markets see massive volatility as markets swing nearly $9 trillion](https://www.thehindubusinessline.com/markets/gold-silver-and-us-stock-markets-see-massive-volatility-as-markets-swing-nearly-9-trillion/article70568773.ece) (Published: 2026-01-30)
+- [『ソニックランブル』期間限定イベント『ソニックレーシング クロスワールド』とのコラボイベント開催！](https://prtimes.jp/main/html/rd/p/000007125.000005397.html) (Published: 2026-01-30)
+- [Amazon and Google eat into Nvidia's AI chip supremacy](https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-and-google-eat-into-nvidias-ai-chip-supremacy/articleshow/127790235.cms) (Published: 2026-01-30)
+- [Why does Elon Musk want to put AI data centers in space?](https://economictimes.indiatimes.com/tech/technology/why-does-elon-musk-want-to-put-ai-data-centers-in-space/articleshow/127790193.cms) (Published: 2026-01-30)
+- [Microsofts $357 Billion Rout Is Worst Since Deepseek Hit Nvidia](https://www.ndtvprofit.com/markets/microsofts-357-billion-rout-is-worst-since-deepseek-hit-nvidia-10911232) (Published: 2026-01-30)
 - [Amazon in talks to invest billions in OpenAI, source says](https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-in-talks-to-invest-billions-in-openai-source-says/articleshow/127789978.cms) (Published: 2026-01-30)
-- [GeniGods: Nezha Is a New “Chinese God of War” from the Creators of My Hero Academia](https://wccftech.com/genigods-nezha-chinese-god-of-war-creators-my-hero-academia/) (Published: 2026-01-30)
-- [Tech Giants Circle OpenAI in Funding Round That Could Top $100 Billion](https://decrypt.co/356442/openai-funding-round-top-100-billion) (Published: 2026-01-30)
-- [Samsung Profits Triple: AI Chip Demand Drives Record-Breaking Q4 2025 Results](https://www.androidheadlines.com/2026/01/samsung-q4-2025-earnings-ai-chip-record-profit.html) (Published: 2026-01-30)
-- [Apple warns memory costs are starting to bite as Samsung, SK Hynix prioritise AI chips](https://economictimes.indiatimes.com/tech/technology/apple-warns-memory-costs-are-starting-to-bite-as-samsung-sk-hynix-prioritise-ai-chips/articleshow/127789502.cms) (Published: 2026-01-30)
-- [Nvidia just gave gamers another reason to switch to Linux — a shiny new GeForce Now app](https://www.techradar.com/gaming/pc-gaming/nvidia-just-gave-gamers-another-reason-to-switch-to-linux-a-shiny-new-geforce-now-app) (Published: 2026-01-30)
-- [RAM prices are ridiculous in 2026 - here's how my PC buying advice is changing this year](https://www.zdnet.com/article/how-to-find-laptop-pc-deals-with-ram-prices-rising-2026/) (Published: 2026-01-30)
-- [I tested Samsung's first laptop with Intel's Panther Lake chip - it's a sleeper hit for Windows users](https://www.zdnet.com/article/samsung-galaxy-book6-ultra-review/) (Published: 2026-01-30)
-- [Xi meets Starmer; Services consumption work plan; Soccer corruption; Nvidia and China](https://sinocism.com/p/xi-meets-starmer-services-consumption) (Published: 2026-01-30)
-- [Why Elon Musk wants to put AI data centres in space](https://www.thehindubusinessline.com/info-tech/explainer-why-elon-musk-wants-to-put-ai-data-centres-in-space/article70568629.ece) (Published: 2026-01-30)
