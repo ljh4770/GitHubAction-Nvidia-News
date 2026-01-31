@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-01-31 07:28:20**_
+_Last updated: **2026-01-31 07:50:05**_
 
+- [Kioxia Seeks Growth in AI Storage While Rivals Chase HBM Profits](https://financialpost.com/pmn/business-pmn/kioxia-seeks-growth-in-ai-storage-while-rivals-chase-hbm-profits) (Published: 2026-01-30)
 - [DeepSeek can now buy Nvidia’s H200 chips, but China has conditions](https://www.thehindubusinessline.com/info-tech/deepseek-can-now-buy-nvidias-h200-chips-but-china-has-conditions/article70569328.ece) (Published: 2026-01-30)
 - [Ex-Google engineer convicted of stealing AI secrets for Chinese companies](https://www.thehindubusinessline.com/info-tech/ex-google-engineer-convicted-of-stealing-ai-secrets-for-chinese-companies/article70569309.ece) (Published: 2026-01-30)
 - [Modder Puts vBIOS From ASUS ROG Matrix RTX 5090 With +200 W Extra Power Onto Astral RTX 5090](https://www.madshrimps.be/news/modder-puts-vbios-from-asus-rog-matrix-rtx-5090-with-200-w-extra-power-onto-astral-rtx-5090/) (Published: 2026-01-30)
@@ -9,4 +10,3 @@ _Last updated: **2026-01-31 07:28:20**_
 - [China conditionally approves DeepSeek to buy Nvidia's H200 chips, say sources](https://economictimes.indiatimes.com/tech/technology/china-conditionally-approves-deepseek-to-buy-nvidias-h200-chips-sources/articleshow/127793709.cms) (Published: 2026-01-30)
 - [Liberia's largest gold miner repeatedly spilled dangerous chemicals, records show](https://abcnews.go.com/Technology/wireStory/liberias-largest-gold-miner-repeatedly-spilled-dangerous-chemicals-129694026) (Published: 2026-01-30)
 - [Apple enjoys most profitable quarter ever amid record iPhone sales](https://www.irishtimes.comhttps://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html) (Published: 2026-01-30)
-- [Liberia's largest gold miner spilled dangerous chemicals, records show](https://apnews.com/article/liberia-gold-investigation-bea-mountain-pollution-9f4879611ac06d3beb8205af25740ef4) (Published: 2026-01-30)
