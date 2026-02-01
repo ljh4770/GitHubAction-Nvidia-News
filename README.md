@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-01 15:53:36**_
+_Last updated: **2026-02-01 16:23:57**_
 
 - [Nvidia CEO Jensen Huang questions investment in OpenAI: No 100 billion for ChatGPT](https://www.notebookcheck.net/Nvidia-CEO-Jensen-Huang-questions-investment-in-OpenAI-No-100-billion-for-ChatGPT.1217167.0.html) (Published: 2026-01-31)
 - [Nvidia's plan to invest $100 billion in OpenAI appears unlikely — Jensen reportedly criticizing OpenAI's business decisions in private discussions](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-plan-to-invest-usd100-billion-in-openai-appears-unlikely-jensen-reportedly-criticizing-openais-business-decisions-in-private-discussions) (Published: 2026-01-31)
