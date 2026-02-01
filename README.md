@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-01 08:46:49**_
+_Last updated: **2026-02-01 09:16:15**_
 
+- [Blue drum murders: A chilling pattern of spousal betrayal and brutal killings](https://timesofindia.indiatimes.com/city/meerut/blue-drum-murders-a-chilling-pattern-of-spousal-betrayal-and-brutal-killings/articleshow/127815099.cms) (Published: 2026-01-31)
+- [Jharkhand charts a new path beyond mining at Davos 2026](https://timesofindia.indiatimes.com/business/jharkhand-charts-a-new-path-beyond-mining-at-davos-2026/articleshow/127816507.cms) (Published: 2026-01-31)
+- [UPPSC exam calendar 2026 released: UP PCS mains scheduled for March end, more dates here](https://timesofindia.indiatimes.com/education/news/uppsc-exam-calendar-2026-released-up-pcs-mains-scheduled-for-march-end-more-dates-here/articleshow/127817076.cms) (Published: 2026-01-31)
+- [2026 Hyundai Exter spied: What's new in updated Tata Punch rival](https://timesofindia.indiatimes.com/auto/cars/2026-hyundai-exter-spied-whats-new-in-updated-tata-punch-rival/articleshow/127817061.cms) (Published: 2026-01-31)
+- [Economic survey flags revival of village commons as key to sustainable rural growth](https://timesofindia.indiatimes.com/city/kolkata/economic-survey-flags-revival-of-village-commons-as-key-to-sustainable-rural-growth/articleshow/127816547.cms) (Published: 2026-01-31)
+- [NVIDIA Dynamo Planner Brings SLO-Driven Automation to Multi-Node LLM Inference](https://www.infoq.com/news/2026/01/nvidia-dynamo-ai-kubernetes/) (Published: 2026-01-31)
+- [Daily Tech News 31 January 2026](https://acecomments.mu.nu/?post=418336) (Published: 2026-01-31)
+- [Prediction: Nvidia Stock Will Soar to This Price in 2026 as the AI Boom Expands From Data Centers to Robotaxis](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1c4ca1fe-235e-4dad-8629-dceb53dd96a1) (Published: 2026-01-31)
+- [Morgan Stanley sets bold new price target on Nvidia stock - thestreet.com](https://slashdot.org/firehose.pl?op=view&amp;id=180707688) (Published: 2026-01-31)
 - [Legion Pro 5 Laptop: 16" 1600p 165Hz OLED, Ryzen 9 9955HX, RTX 5070, 32GB RAM $1248 + Free Shipping](https://slickdeals.net/f/19158304-lenovo-legion-5-16-qhd-165hz-oled-ryzen-9-9955hx-rtx-5070-32gb-ddr5-2tb-ssd-1247-99) (Published: 2026-01-31)
-- [Lenovo Legion Pro 7i 240Hz OLED gaming laptop with Core Ultra 9 and RTX 5080 enjoys $1780+ discount](https://www.notebookcheck.net/Lenovo-Legion-Pro-7i-240Hz-OLED-gaming-laptop-with-Core-Ultra-9-and-RTX-5080-enjoys-1780-discount.1216964.0.html) (Published: 2026-01-31)
-- [Exclusive | The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice - The Wall Street Journal](https://slashdot.org/firehose.pl?op=view&amp;id=180706774) (Published: 2026-01-31)
-- [gpulegion 0.1.1](https://pypi.org/project/gpulegion/) (Published: 2026-01-31)
-- [Nvidia's plan to invest up to $100 billion in OpenAI has stalled, WSJ reports](https://www.thehindubusinessline.com/info-tech/nvidias-plan-to-invest-up-to-100-billion-in-openai-has-stalled-wsj-reports/article70573141.ece) (Published: 2026-01-31)
-- [Nvidia won’t give up on Shield TV updates ‘any time soon,’ new hardware could happen - 9to5Google](https://slashdot.org/firehose.pl?op=view&amp;id=180705798) (Published: 2026-01-31)
-- [Nvidia Halts Plan To Invest $100 Billion In OpenAI, WSJ Says](https://www.ndtvprofit.com/world/nvidia-halts-plan-to-invest-100-billion-in-openai-wsj-says-10917590) (Published: 2026-01-31)
-- [Nvidia's plan to invest up to $100 billion in OpenAI has stalled, WSJ reports](https://economictimes.indiatimes.com/tech/technology/nvidias-plan-to-invest-up-to-100-billion-in-openai-has-stalled-wsj-reports/articleshow/127812695.cms) (Published: 2026-01-31)
-- [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/) (Published: 2026-01-31)
