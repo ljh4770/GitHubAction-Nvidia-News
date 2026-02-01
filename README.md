@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-01 20:49:52**_
+_Last updated: **2026-02-01 21:10:48**_
 
 - [Nvidia CEO Denies OpenAI's $100B Investment from Nvidia is 'Stalled'](https://hardware.slashdot.org/story/26/01/31/205245/nvidia-ceo-denies-openais-100b-investment-from-nvidia-is-stalled) (Published: 2026-01-31)
 - [VideoProc Converter AI 8.8](https://post.rlsbb.to/videoproc-converter-ai-8-8-2/) (Published: 2026-01-31)
@@ -10,4 +10,3 @@ _Last updated: **2026-02-01 20:49:52**_
 - [2 excellent ASX ETFs I rate as buys in February](https://www.fool.com.au/2026/02/01/2-excellent-asx-etfs-i-rate-as-buys-in-february/) (Published: 2026-01-31)
 - [This Artificial Intelligence (AI) Giant Is Up 72% Since the Start of 2025, and It Looks Even More Attractive in 2026 (Hint: Not Nvidia)](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4e8b862d-6268-4475-9e30-52568478ff93) (Published: 2026-01-31)
 - [xerv-crayon 4.1.9](https://pypi.org/project/xerv-crayon/4.1.9/) (Published: 2026-01-31)
-- [Bitcoin falls out of global top 10 assets by market capitalization after price dumps below $80,000](https://www.coindesk.com/markets/2026/01/31/bitcoin-falls-out-of-global-top-10-assets-by-market-capitalization-after-price-dumps-below-usd80-000) (Published: 2026-01-31)
