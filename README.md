@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-01 11:47:55**_
+_Last updated: **2026-02-01 11:58:30**_
 
 - [Nvidia Shield TV software updates are going to keep coming – and we might even see a new device one day](https://www.techradar.com/televisions/streaming-devices/nvidia-shield-tv-software-updates-are-going-to-keep-coming-and-we-might-even-see-a-new-device-one-day) (Published: 2026-01-31)
 - [Jensen Huang touts MediaTek-powered AI PC roadmap while debuting new VP from TSMC](https://www.digitimes.com/news/a20260131PD202/nvidia-jensen-huang-taiwan-partnership-mediatek.html) (Published: 2026-01-31)
