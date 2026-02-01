@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-01 21:37:56**_
+_Last updated: **2026-02-01 21:54:02**_
 
 - [NVIDIA is still planning to make a 'huge' investment in OpenAI, CEO says](https://slashdot.org/firehose.pl?op=view&amp;id=180710620) (Published: 2026-01-31)
 - [Nvidia CEO Denies OpenAI's $100B Investment from Nvidia is 'Stalled'](https://hardware.slashdot.org/story/26/01/31/205245/nvidia-ceo-denies-openais-100b-investment-from-nvidia-is-stalled) (Published: 2026-01-31)
