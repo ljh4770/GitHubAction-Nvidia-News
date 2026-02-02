@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-02 15:47:34**_
+_Last updated: **2026-02-02 16:19:26**_
 
+- [Microsoft investors fret as capital spending and Azure growth decouple](https://siliconangle.com/2026/02/01/microsoft-investors-fret-capital-spending-azure-growth-decouple/) (Published: 2026-02-01)
 - [xerv-crayon 4.3.0](https://pypi.org/project/xerv-crayon/4.3.0/) (Published: 2026-02-01)
 - [media-engine added to PyPI](https://pypi.org/project/media-engine/) (Published: 2026-02-01)
 - [1 Brilliant Stock That Nvidia Owns That You Should Buy Hand Over Fist in 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_79177e2d-f90f-4a0e-b81a-96943213d103) (Published: 2026-02-01)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-02 15:47:34**_
 - [The ‘smart money’ isn’t acting like we’re in a bubble, top economist says. The AI ballgame is in its ‘early innings’](https://fortune.com/2026/02/01/is-ai-a-bubble-top-economist-says-no-because-ipos-fraud/) (Published: 2026-02-01)
 - [Elon Musk Warns Viral AI-Only Social Network Moltbook is ‘the Singularity’](https://www.iphoneincanada.ca/2026/02/01/elon-musk-warns-viral-ai-only-social-network-moltbook-is-the-singularity/) (Published: 2026-02-01)
 - [nvidia-nat-llama-index 1.4.0a20260201](https://pypi.org/project/nvidia-nat-llama-index/1.4.0a20260201/) (Published: 2026-02-01)
-- [nvidia-nat-profiling 1.4.0a20260201](https://pypi.org/project/nvidia-nat-profiling/1.4.0a20260201/) (Published: 2026-02-01)
