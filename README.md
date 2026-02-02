@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-02 07:39:22**_
+_Last updated: **2026-02-02 08:24:33**_
 
 - [It’s more than just the sleek aesthetics that impressed as I tested the AI-enhanced Asus ExpertBook Ultra (2026) business laptop](https://www.techradar.com/computing/asus-expertbook-ultra-2026-business-laptop-review) (Published: 2026-02-01)
 - [Fusion HAT+ Review – Adding AI voice and servo/motor control to Raspberry Pi for robotics, Smart Home, or education](https://www.cnx-software.com/2026/02/01/fusion-hat-review-adding-ai-voice-and-servo-motor-control-to-raspberry-pi-5-for-robotics-smart-home-and-education/) (Published: 2026-02-01)
