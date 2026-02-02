@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-02 09:08:14**_
+_Last updated: **2026-02-02 10:06:04**_
 
 - [Zotac to introduce CM5-PICO, the world's smallest and most feature-dense Raspberry Pi CM5 SBC computer](https://www.notebookcheck.net/Zotac-to-introduce-CM5-PICO-the-world-s-smallest-and-most-feature-dense-Raspberry-Pi-CM5-computer.1215274.0.html) (Published: 2026-02-01)
 - [Daily Tech News 1 February 2026](https://acecomments.mu.nu/?post=418340) (Published: 2026-02-01)
