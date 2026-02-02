@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-02 17:56:11**_
+_Last updated: **2026-02-02 23:05:38**_
 
+- [1 Brilliant Stock That Nvidia Owns That You Should Buy Hand Over Fist in 2026 - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=180717354) (Published: 2026-02-01)
+- [Nvidia boss insists 'huge' investment in OpenAI on track](https://japantoday.com/category/tech/nvidia-boss-insists-%27huge%27-investment-in-openai-on-track) (Published: 2026-02-01)
+- [This Artificial Intelligence (AI) Giant Is Up 72% Since the Start of 2025, and It Looks Even More Attractive in 2026 (Hint: Not Nvidia) - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=180716860) (Published: 2026-02-01)
+- [This five-year-old GPU refuses to go away, and it's only going to get more popular](https://www.makeuseof.com/old-gpu-refuses-to-go-away-and-its-only-going-to-get-more-popular/) (Published: 2026-02-01)
+- [Nvidia CEO Jensen Huang: Chinese Government Has Not Approved H200 AI Chip Imports](https://www.breitbart.com/tech/2026/02/01/nvidia-ceo-jensen-huang-chinese-government-has-not-approved-h200-ai-chip-imports/) (Published: 2026-02-01)
+- [United Arab Emirates' 'Spy Sheikh' bought secret stake in Trump crypto company: WSJ](https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html) (Published: 2026-02-01)
+- [Nvidia CEO: We’ll Make Our ‘Largest Ever Investment’ in OpenAI](https://me.pcmag.com/en/ai/35040/nvidia-ceo-well-make-our-largest-ever-investment-in-openai) (Published: 2026-02-01)
+- [Nvidia CEO: We’ll Make Our ‘Largest Ever Investment’ in OpenAI](https://uk.pcmag.com/ai/162911/nvidia-ceo-well-make-our-largest-ever-investment-in-openai) (Published: 2026-02-01)
+- [Is CoreWeave a Buy After This Big News From Nvidia?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56bcbf18-271b-4b41-95e8-1490ab60e5ad) (Published: 2026-02-01)
 - [Wall Street Projects 38% Upside To Broadcom Inc. (AVGO)](https://finance.yahoo.com/news/wall-street-projects-38-upside-175425192.html) (Published: 2026-02-01)
-- [Is NVIDIA Corporation (NVDA) the Most Profitable NASDAQ Stock to Buy Right Now?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1fc6948e-1067-4d6c-bea2-0ab70050ab72) (Published: 2026-02-01)
-- [TSMC Needs to Double Production Over the Next Decade Just to Meet NVIDIA’s Demand, Says Jensen Huang, Highlighting the Future Scale of the AI Boom](https://wccftech.com/tsmc-needs-to-double-production-over-the-next-decade-just-to-meet-nvidia-demand/) (Published: 2026-02-01)
-- [RTX 5070 FE Founders Edition in stock at Nvidia store $549.99 (10 replies)](https://slickdeals.net/f/19162369-rtx-5070-fe-founders-edition-in-stock-at-nvidia-store-549-99) (Published: 2026-02-01)
-- [5 Reasons Why Nvidia Will Be an Incredible Stock to Own in 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5afe341c-66dc-4c82-ab4b-796c70a5a1b0) (Published: 2026-02-01)
-- [Microsoft investors fret as capital spending and Azure growth decouple](https://siliconangle.com/2026/02/01/microsoft-investors-fret-capital-spending-azure-growth-decouple/) (Published: 2026-02-01)
-- [xerv-crayon 4.3.0](https://pypi.org/project/xerv-crayon/4.3.0/) (Published: 2026-02-01)
-- [media-engine added to PyPI](https://pypi.org/project/media-engine/) (Published: 2026-02-01)
-- [1 Brilliant Stock That Nvidia Owns That You Should Buy Hand Over Fist in 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_79177e2d-f90f-4a0e-b81a-96943213d103) (Published: 2026-02-01)
-- [Microsoft’s $381 billion rout exposes dark side of the AI binge](https://finance.yahoo.com/news/microsoft-381-billion-rout-exposes-140007699.html) (Published: 2026-02-01)
