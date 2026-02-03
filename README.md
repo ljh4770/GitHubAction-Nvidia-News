@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-03 21:48:13**_
+_Last updated: **2026-02-03 22:19:12**_
 
+- [Oracle's credit default swaps are plummeting as financing plan boosts investor confidence](https://www.cnbc.com/2026/02/02/oracles-credit-default-swaps-are-plummeting-after-financing-plans.html) (Published: 2026-02-02)
+- [SpaceX is acquiring xAI | CNN Business](https://www.cnn.com/2026/02/02/tech/spacex-acquires-xai-elon-musk) (Published: 2026-02-02)
 - [Code Vein II PC Graphics Optimization Guide — Our Recommendations for Balancing Performance and Visuals](https://wccftech.com/code-vein-ii-pc-graphics-optimization-guide-our-recommendations-for-balancing-performance-visuals/) (Published: 2026-02-02)
 - [Stocks Climb as Gold, Silver Slump](https://www.newser.com/story/383001/stocks-climb-as-gold-silver-slump.html) (Published: 2026-02-02)
 - [Nvidia and Oracle are flashing similar warning signs about the AI trade - MarketWatch](https://slashdot.org/firehose.pl?op=view&amp;id=180722890) (Published: 2026-02-02)
@@ -9,5 +11,3 @@ _Last updated: **2026-02-03 21:48:13**_
 - [Palantir beats fourth-quarter estimates on the strength of AI and defense demand](https://www.cnbc.com/2026/02/02/palantir-pltr-q4-2025-earnings.html) (Published: 2026-02-02)
 - [Apple concedes it is constrained by TSMC's supply of advanced chips; storage and memory are also in short supply — firm isn't projecting supply conditions beyond the second quarter](https://www.tomshardware.com/tech-industry/semiconductors/apple-concedes-it-is-constrained-by-tsmcs-supply-of-advanced-chips-storage-and-memory-are-also-in-short-supply-firm-isnt-projecting-supply-conditions-beyond-the-second-quarter) (Published: 2026-02-02)
 - ['Just remember, you have to be ahead for all time to come': Microsoft CEO Satya Nadella reveals AI chip shopping spree - says it will still buy Nvidia, AMD chips, despite recent launch of in-house Maia 200 hardware](https://www.techradar.com/pro/security/just-remember-you-have-to-be-ahead-for-all-time-to-come-microsoft-ceo-satya-nadella-reveals-ai-chip-shopping-spree-says-it-will-still-buy-nvidia-amd-chips-despite-recent-launch-of-in-house-maia-200-hardware) (Published: 2026-02-02)
-- [AMD to report Q4 earnings amid AI spending concerns](https://finance.yahoo.com/news/amd-to-report-q4-earnings-amid-ai-spending-concerns-204747721.html) (Published: 2026-02-02)
-- [Two Stanford students launch $2M startup accelator for students nationwide | TechCrunch](https://techcrunch.com/2026/02/02/two-stanford-students-launch-2m-startup-accelerator-for-students-nationwide/) (Published: 2026-02-02)
