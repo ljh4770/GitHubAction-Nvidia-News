@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-03 20:28:29**_
+_Last updated: **2026-02-03 21:04:13**_
 
+- [Apple concedes it is constrained by TSMC's supply of advanced chips; storage and memory are also in short supply — firm isn't projecting supply conditions beyond the second quarter](https://www.tomshardware.com/tech-industry/semiconductors/apple-concedes-it-is-constrained-by-tsmcs-supply-of-advanced-chips-storage-and-memory-are-also-in-short-supply-firm-isnt-projecting-supply-conditions-beyond-the-second-quarter) (Published: 2026-02-02)
+- ['Just remember, you have to be ahead for all time to come': Microsoft CEO Satya Nadella reveals AI chip shopping spree - says it will still buy Nvidia, AMD chips, despite recent launch of in-house Maia 200 hardware](https://www.techradar.com/pro/security/just-remember-you-have-to-be-ahead-for-all-time-to-come-microsoft-ceo-satya-nadella-reveals-ai-chip-shopping-spree-says-it-will-still-buy-nvidia-amd-chips-despite-recent-launch-of-in-house-maia-200-hardware) (Published: 2026-02-02)
+- [AMD to report Q4 earnings amid AI spending concerns](https://finance.yahoo.com/news/amd-to-report-q4-earnings-amid-ai-spending-concerns-204747721.html) (Published: 2026-02-02)
+- [Two Stanford students launch $2M startup accelator for students nationwide | TechCrunch](https://techcrunch.com/2026/02/02/two-stanford-students-launch-2m-startup-accelerator-for-students-nationwide/) (Published: 2026-02-02)
+- [Europe just started building a 'kill switch' for U.S. tech](https://www.morningstar.com/news/marketwatch/2026020252/europe-just-started-building-a-kill-switch-for-us-tech-and-the-market-isnt-priced-for-it-says-this-strategist) (Published: 2026-02-02)
+- [Modders Resurrect Half-Dead RTX 5070 Ti, Break Benchmark Record](https://me.pcmag.com/en/graphics-cards/35059/modders-resurrect-half-dead-rtx-5070-ti-break-benchmark-record) (Published: 2026-02-02)
+- [Modders Resurrect Half-Dead RTX 5070 Ti, Break Benchmark Record](https://uk.pcmag.com/graphics-cards/162930/modders-resurrect-half-dead-rtx-5070-ti-break-benchmark-record) (Published: 2026-02-02)
 - [Wow! Save $400 on LG’s 27-inch 1440p OLED gaming monitor now](https://www.pcworld.com/article/3050006/wow-save-400-on-lgs-27-inch-1440p-oled-gaming-monitor-now.html) (Published: 2026-02-02)
 - [Nvidia N1X ARM APU reportedly suffers from software issues resulting in N1X laptops slipping to Q2 or summer 2026](https://www.notebookcheck.net/Nvidia-N1X-ARM-APU-reportedly-suffers-from-software-issues-resulting-in-N1X-laptops-slipping-to-Q2-or-summer-2026.1217819.0.html) (Published: 2026-02-02)
 - [Coffee Break: The Mask of Unreality Slipping?](https://www.nakedcapitalism.com/2026/02/trump-mask-of-unreality-slipping-epstein-texas-election-silver-market.html) (Published: 2026-02-02)
-- [The AI Boom Is Coming for Apple's Profit Margins](https://apple.slashdot.org/story/26/02/02/1741244/the-ai-boom-is-coming-for-apples-profit-margins) (Published: 2026-02-02)
-- [Samsung says its 2026 OLED TVs and Odyssey monitors are now NVIDIA G-SYNC Compatible - VideoCardz.com](https://slashdot.org/firehose.pl?op=view&amp;id=180722128) (Published: 2026-02-02)
-- [Optimizing Communication for Mixture-of-Experts Training with Hybrid Expert Parallel](https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/) (Published: 2026-02-02)
-- [Nvidia CEO denies ‘nonsense’ report he’s unhappy with OpenAI. ‘I really love working with Sam’](https://fortune.com/2026/02/02/nvidia-ceo-jensen-huang-investment-openai-fund-raising-round-sam-altman/) (Published: 2026-02-02)
-- [While Bitcoin’s market Crashes, Theo4 Is Quietly Dominating Polymarket](http://www.newsbtc.com/news/bitcoin/bitcoins-market-crashes/) (Published: 2026-02-02)
-- [Samsung confirms G-Sync support for its 2026 OLED TVs and monitors](https://www.androidheadlines.com/2026/02/samsung-confirms-g-sync-support-for-its-2026-oled-tvs-and-monitors.html) (Published: 2026-02-02)
-- [Alipay+ May Enter India, Musk Denies Epstein Claims, Nvidia CEO Praises TSMC | Daily Tech Updates - Feb 2, 2026](https://www.c-sharpcorner.com/article/alipay-may-enter-india-musk-denies-epstein-claims-nvidia-ceo-praises-tsmc-d/) (Published: 2026-02-02)
