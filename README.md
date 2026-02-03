@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-03 11:47:10**_
+_Last updated: **2026-02-03 12:25:28**_
 
+- [US futures and world shares slip on worries over Fed chief pick, AI](https://www.bostonherald.com/2026/02/02/markets-react-fed-pick-ai/) (Published: 2026-02-02)
+- [Should You Buy Nvidia Before Feb. 25? Here's What History Says.](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dff49987-64b1-4b5f-9376-751715ae6b5c) (Published: 2026-02-02)
+- [Fake degrees, deepfakes, and the new hiring risk: Why one-time background checks are losing relevance](https://timesofindia.indiatimes.com/education/careers/news/fake-degrees-deepfakes-and-the-new-hiring-risk-why-one-time-background-checks-are-losing-relevance/articleshow/127861495.cms) (Published: 2026-02-02)
+- [⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats](https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html) (Published: 2026-02-02)
+- [US stock futures slide as commodity rout rattles markets](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-slide-as-commodity-rout-rattles-markets/articleshow/127861266.cms) (Published: 2026-02-02)
+- ['TSMC needs to work very hard this year because I need a lot of wafers' says Nvidia CEO Jensen Huang outside a 'trillion-dollar dinner' for top tech manufacturers in Taiwan](https://www.pcgamer.com/hardware/tsmc-needs-to-work-very-hard-this-year-because-i-need-a-lot-of-wafers-says-nvidia-ceo-jensen-huang-outside-a-trillion-dollar-dinner-for-top-tech-manufacturers-in-taiwan/) (Published: 2026-02-02)
+- [Huge $400 discount knocks LG’s 27-inch QHD 240Hz OLED gaming monitor down to its lowest price](http://9to5toys.com/2026/02/02/lg-27-inch-qhd-240hz-oled-gaming-monitor-down-to-lowest-price/) (Published: 2026-02-02)
 - [Nvidia shares are down 2% after a report that its OpenAI investment stalled. Here's what's happening](https://www.cnbc.com/2026/02/02/nvidia-stock-price-openai-funding.html) (Published: 2026-02-02)
 - [Smart ways to help your PC survive through the PC component pricing apocalypse — check temps, replace old AIOs and PSUs, keep an eye on your boot drive's TBW, and more](https://www.tomshardware.com/desktops/gaming-pcs/smart-ways-to-help-your-pc-survive-through-the-pc-component-pricing-apocalypse-check-temps-replace-old-aios-and-psus-keep-an-eye-on-your-boot-drives-tbw-and-more) (Published: 2026-02-02)
 - [Mercedes CEO’s last shot at luxury crown hinges on revamped S-Class](https://economictimes.indiatimes.com/magazines/luxury/mercedes-ceos-last-shot-at-luxury-crown-hinges-on-revamped-s-class/articleshow/127857029.cms) (Published: 2026-02-02)
-- [Oracle dips 3% after announcing $50 billion fundraising plans. Here's why](https://www.cnbc.com/2026/02/02/oracle-stock-price-funding-plans.html) (Published: 2026-02-02)
-- [MG Majestor teased again: Key details about new Fortuner rival](https://timesofindia.indiatimes.com/auto/cars/mg-majestor-teased-again-key-details-about-new-fortuner-rival/articleshow/127859242.cms) (Published: 2026-02-02)
-- [Rotary Club of Bombay inaugurates industry ready innovation lab at the city's ITI](https://timesofindia.indiatimes.com/city/mumbai/rotary-club-of-bombay-inaugurates-industry-ready-innovation-lab-at-the-citys-iti/articleshow/127859257.cms) (Published: 2026-02-02)
-- [Upcoming car launches, unveils in February 2026: MG Majestor, BMW X3 and more](https://timesofindia.indiatimes.com/auto/cars/upcoming-car-launches-unveils-in-february-2026-mg-majestor-bmw-x3-and-more/articleshow/127840619.cms) (Published: 2026-02-02)
-- [Operation CyStrike: CBI launches cyber fraud crackdown; dismantles crime networks targeting foreigners from India](https://timesofindia.indiatimes.com/india/operation-cystrike-cbi-launches-multinational-cyber-fraud-crackdown-dismantles-crime-networks-targeting-foreigners-from-india/articleshow/127859031.cms) (Published: 2026-02-02)
-- [Oracle to raise up to $50bn for cloud infrastructure buildout](https://www.verdict.co.uk/oracle-raise-50bn-cloud-infrastructure/) (Published: 2026-02-02)
-- [Anti-ICE Protesters Have Started a Month-Long Tech and AI Boycott. Here’s How It Works](https://gizmodo.com/anti-ice-protesters-have-started-a-month-long-tech-and-ai-boycott-heres-how-it-works-2000716458) (Published: 2026-02-02)
