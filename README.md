@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-03 17:13:23**_
+_Last updated: **2026-02-03 18:08:15**_
 
+- [Alipay+ May Enter India, Musk Denies Epstein Claims, Nvidia CEO Praises TSMC | Daily Tech Updates - Feb 2, 2026](https://www.c-sharpcorner.com/article/alipay-may-enter-india-musk-denies-epstein-claims-nvidia-ceo-praises-tsmc-d/) (Published: 2026-02-02)
+- [Will Apple Raise iPhone Prices Due to Skyrocketing Memory Chip Prices?](https://www.macrumors.com/2026/02/02/will-apple-raise-iphone-prices/) (Published: 2026-02-02)
+- [Nvidia boss insists ‘huge’ investment in OpenAI on track](https://www.digitaljournal.com/tech-science/nvidia-boss-insists-huge-investment-in-openai-on-track/article) (Published: 2026-02-02)
+- [This RTX 5060 desktop is the perfect starter PC for creators - and it's just $1079 right now](https://www.techradar.com/pro/this-rtx-5060-desktop-is-the-perfect-starter-pc-for-creators-and-its-just-usd1079-right-now) (Published: 2026-02-02)
+- [Nvidia shares are down after a report that its OpenAI investment stalled. Here's what's happening - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=180721794) (Published: 2026-02-02)
+- [China’s SMIC Is Expanding Advanced Packaging Efforts by Establishing a Research Center to Explore New Ways to Scale Performance Beyond Moore’s Law](https://wccftech.com/chinas-smic-is-expanding-advanced-packaging-efforts/) (Published: 2026-02-02)
+- [AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims](https://www.tomshardware.com/tech-industry/ai-infrastructure-surge-begins-squeezing-apples-component-costs) (Published: 2026-02-02)
 - [Samsung’s OLED TVs are finally getting Nvidia G-Sync support](https://www.pcworld.com/article/3049842/samsungs-oled-tvs-are-finally-getting-nvidia-g-sync-support.html) (Published: 2026-02-02)
 - [$15 billion tech CEO says she doesn’t know what jobs will look like in 2 years—but she’s still pushing her son into computer science](https://fortune.com/2026/02/02/hubspot-ceo-yamini-rangan-future-of-work-unclear-gen-z-son-studying-computer-science-secrets-for-success/) (Published: 2026-02-02)
 - [Foreign money from UAE royal reportedly buying Trump influence through WLFI digital dollar](https://cryptoslate.com/foreign-money-from-uae-royal-reportedly-buying-trump-influence-through-wlfi-digital-dollar/) (Published: 2026-02-02)
-- ['Everybody who worked at Nvidia in the early days really wanted to make a game console' says senior VP of engineering Andrew Bell: 'Selfishly, a little bit, we built Shield for ourselves'](https://www.pcgamer.com/hardware/everybody-who-worked-at-nvidia-in-the-early-days-really-wanted-to-make-a-game-console-says-senior-vp-of-engineering-andrew-bell-selfishly-a-little-bit-we-built-shield-for-ourselves/) (Published: 2026-02-02)
-- [Save $400! LG’s 27-inch OLED UltraGear monitor is now less than $500, but act fast - it won't stay this price for long](https://www.techradar.com/pro/save-usd400-lgs-27-inch-oled-ultragear-monitor-is-now-less-than-usd500-but-act-fast-it-wont-stay-this-price-for-long) (Published: 2026-02-02)
-- [MSI Vector A18 HX review: this laptop is big in every way](https://www.creativebloq.com/tech/laptops/msi-vector-a18-hx-review-this-laptop-is-big-in-every-way) (Published: 2026-02-02)
-- [Dow jumps more than 400 points today: Why the Dow Jones is gaining almost 1% after the metals shock - can it last?](https://economictimes.indiatimes.com/news/international/us/dow-jumps-more-than-400-points-today-why-the-dow-jones-is-gaining-almost-1-after-the-metals-shock-can-it-last/articleshow/127867180.cms) (Published: 2026-02-02)
-- [Nvidia comments on future of Nvidia Shield TV](https://www.notebookcheck.net/Nvidia-comments-on-future-of-Nvidia-Shield-TV.1218193.0.html) (Published: 2026-02-02)
-- [Oracle to raise $50 billion in 2026 for cloud infrastructure](https://financialpost.com/technology/oracle-50-billion-2026-cloud-buildup) (Published: 2026-02-02)
-- [Asus ROG Strix 5K XG27JCG arrives in North America: 5K 180Hz monitor with 330Hz mode for $849](https://www.notebookcheck.net/Asus-ROG-Strix-5K-XG27JCG-arrives-in-North-America-5K-180Hz-monitor-with-330Hz-mode-for-849.1217825.0.html) (Published: 2026-02-02)
