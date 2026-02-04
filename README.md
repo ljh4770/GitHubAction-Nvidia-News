@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-04 14:10:03**_
+_Last updated: **2026-02-04 15:00:02**_
 
+- [CyberLink PowerDirector Ultimate 2026 v24.1.1402](https://post.rlsbb.to/cyberlink-powerdirector-ultimate-2026-v24-1-1402/) (Published: 2026-02-03)
+- [Stocks Set for Record as Palantir Fuels AI Trade: Markets Wrap](https://financialpost.com/pmn/business-pmn/stocks-set-for-record-as-palantir-fuels-ai-trade-markets-wrap) (Published: 2026-02-03)
+- [6 Great Wireless Gaming Headsets That Nail Sound & Comfort](https://hothardware.com/news/6-wireless-headsets-for-gamers) (Published: 2026-02-03)
+- [Analysis on Desay SV and Joyson Electronic's Electrification, Connectivity, Intelligence and Sharing Capabilities and Strategies](https://www.globenewswire.com/news-release/2026/02/03/3231234/28124/en/Analysis-on-Desay-SV-and-Joyson-Electronic-s-Electrification-Connectivity-Intelligence-and-Sharing-Capabilities-and-Strategies.html) (Published: 2026-02-03)
+- [Radar Trends to Watch: February 2026](https://www.oreilly.com/radar/radar-trends-to-watch-february-2026/#BlogPosting) (Published: 2026-02-03)
+- [Global and China Intelligent Vehicle EEA and Technology Supply Chain Construction Strategy Research Report 2025 with EEA Upgrade and Evolution Trends of 17 Chinese OEMs and 7 International OEMs](https://www.globenewswire.com/news-release/2026/02/03/3231231/28124/en/Global-and-China-Intelligent-Vehicle-EEA-and-Technology-Supply-Chain-Construction-Strategy-Research-Report-2025-with-EEA-Upgrade-and-Evolution-Trends-of-17-Chinese-OEMs-and-7-Inter.html) (Published: 2026-02-03)
+- [I tested Acer Nitro 18 AI gaming laptop, and it looks like great value considering its spec — but I found some issues that might spoil your fun](https://www.techradar.com/computing/gaming-laptops/acer-nitro-18-ai-review) (Published: 2026-02-03)
+- [The Legion Tower 7i with an RTX 5070 Ti is finally a fair price — but only if you use this coupon code](https://www.windowscentral.com/gaming/pc-gaming/the-legion-tower-7i-with-an-rtx-5070-ti-is-finally-a-fair-price-but-only-if-you-use-this-coupon-code) (Published: 2026-02-03)
+- [ReelTime Slashes Potential Dilution by Over 74% with Historic Capital Reset](https://www.globenewswire.com/news-release/2026/02/03/3231200/0/en/ReelTime-Slashes-Potential-Dilution-by-Over-74-with-Historic-Capital-Reset.html) (Published: 2026-02-03)
 - [Why did SpaceX just apply to launch 1 million satellites?](https://www.newscientist.com/article/2514106-why-did-spacex-just-apply-to-launch-1-million-satellites/) (Published: 2026-02-03)
-- [Intezer Research Finds Enterprises Miss Dozens of Real Threats Each Year by Ignoring “Low-Severity” Alerts](https://www.globenewswire.com/news-release/2026/02/03/3231180/0/en/Intezer-Research-Finds-Enterprises-Miss-Dozens-of-Real-Threats-Each-Year-by-Ignoring-Low-Severity-Alerts.html) (Published: 2026-02-03)
-- [Performance evaluation of GPU-based parallel sorting algorithms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342167) (Published: 2026-02-03)
-- [BiCLUM: Bilateral contrastive learning for unpaired single-cell multi-omics integration](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013932) (Published: 2026-02-03)
-- [DT boasts ‘Europe’s answer to hyperscalers’](https://www.telecomtv.com/content/telco-public-cloud/dt-boasts-europe-s-answer-to-hyperscalers-54768/) (Published: 2026-02-03)
-- [Big exits at PeakXV; SC slams Meta, WhatsApp](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/big-exits-at-peakxv-sc-slams-meta-whatsapp/articleshow/127887037.cms) (Published: 2026-02-03)
-- [VC churn hits Peak XV; SC slams Meta, WhatsApp](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/vc-churn-hits-peak-xv-sc-slams-meta-whatsapp/articleshow/127887037.cms) (Published: 2026-02-03)
-- [Elon Musk says a 'sentient sun' built from a million satellites is the aim of the SpaceX and xAI merger – but big questions remain](https://www.techradar.com/computing/elon-musk-says-a-sentient-sun-built-from-a-million-satellites-is-the-aim-of-the-spacex-and-xai-merger-but-big-questions-remain) (Published: 2026-02-03)
-- [NVIDIA RTX 5060 And RTX 5070 See A Sudden Jump In Popularity As Per The Latest Steam Hardware Survey](https://wccftech.com/nvidia-rtx-5060-and-rtx-5070-see-a-sudden-jump-in-popularity/) (Published: 2026-02-03)
-- [The xAI-SpaceX merger, Palantir earnings, China's frowning horses and more in Morning Squawk](https://www.cnbc.com/2026/02/03/5-things-to-know-before-the-stock-market-opens.html) (Published: 2026-02-03)
