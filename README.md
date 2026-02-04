@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-04 16:43:54**_
+_Last updated: **2026-02-04 17:32:52**_
 
-- [More Corruption Allegations Levied at Trump Over Newly Revealed UAE Crypto Deal](https://gizmodo.com/more-corruption-allegations-levied-at-trump-over-newly-revealed-uae-crypto-deal-2000716952) (Published: 2026-02-03)
-- [Corti launches multi-agent AI framework for healthcare](https://siliconangle.com/2026/02/03/corti-launches-multi-agent-ai-framework-healthcare/) (Published: 2026-02-03)
-- [Now It's A MechaSpace Race: China Wants To Put AI Data Centers In Space, Too](https://www.jalopnik.com/2091195/china-wants-ai-data-centers-space/) (Published: 2026-02-03)
-- [Alphabet stock hits $350 record as investors brace for Q4 earnings](https://cryptobriefing.com/alphabet-q4-earnings/) (Published: 2026-02-03)
-- [MSI Prestige 14 Flip AI+ review: An ultraportable for Arc Raiders, thanks to Intel's Panther Lake](https://slashdot.org/firehose.pl?op=view&amp;id=180726036) (Published: 2026-02-03)
-- [AMD Is Rumoredly Prioritizing 8 GB GPUs While Its Board Partners Are Expected To Implement Another Price Hike](https://wccftech.com/amd-is-rumoredly-prioritizing-8-gb-gpus/) (Published: 2026-02-03)
-- [Our chances of seeing a new Nvidia-powered handheld PC with RTX 5070-level power are improving – but I'd expect the price to be a dealbreaker](https://www.techradar.com/computing/cpu/our-chances-of-seeing-a-new-nvidia-powered-handheld-pc-with-rtx-5070-level-power-are-improving-but-id-expect-the-price-to-be-a-dealbreaker) (Published: 2026-02-03)
-- [Dassault and Nvidia partner to build industrial AI platform](https://siliconangle.com/2026/02/03/dassault-nvidia-partner-build-industrial-ai-platform/) (Published: 2026-02-03)
-- [Dassault Systèmes and NVIDIA Partner to Build Industrial AI Platform Powering Virtual Twins](http://nvidianews.nvidia.com/news/dassault-systemes-nvidia-industrial-ai) (Published: 2026-02-03)
+- [MAINGEAR Retro98 Gaming Desktop PC](https://thegadgetflow.com/?p=717134) (Published: 2026-02-03)
+- [Show HN: Homomorphically Encrypted Vector Database](https://github.com/cloneisyou/HEVEC) (Published: 2026-02-03)
+- [The NVIDIA-OpenAI Fiasco Isn’t About Compute, It’s About Control; Here’s How One of the World’s Biggest AI Partnerships Is Playing Out](https://wccftech.com/the-nvidia-openai-fiasco-isnt-about-compute-its-about-control/) (Published: 2026-02-03)
+- [OpenAI ‘will remain a Nvidia customer for a long time’, CEO Sam Altman dismisses chip concerns](https://www.livemint.com/companies/news/openai-will-remain-a-nvidia-customer-for-a-long-time-ceo-sam-altman-dismisses-chip-concerns-11770123382229.html) (Published: 2026-02-03)
+- [LG’s 27-inch UltraGear 300Hz QHD gaming monitor is 50% off today at $227 (All-time low)](http://9to5toys.com/2026/02/03/lg-ultragear-300hz-qhd-gaming-monitor-is-50-off-today/) (Published: 2026-02-03)
+- [One of the Dumbest Schemes on Wall Street Might Finally Be Falling Apart](https://slate.com/technology/2026/02/bitcoin-crypto-treasury-wall-street-microstrategy.html) (Published: 2026-02-03)
+- [AI adoption among telcos may taper off in 2026: Report](https://www.telecompetitor.com/ai-adoption-among-telcos-may-taper-off-in-2026-report/) (Published: 2026-02-03)
+- [tensorrt-llm 1.3.0rc2](https://pypi.org/project/tensorrt-llm/1.3.0rc2/) (Published: 2026-02-03)
+- [Global stock index dips with oil rallying on Iran worries as gold, silver rise](https://www.channelnewsasia.com/business/global-stock-index-dips-oil-rallying-iran-worries-gold-silver-rise-5902591) (Published: 2026-02-03)
+- [Global stock index up slightly while gold, silver bounce](https://www.channelnewsasia.com/business/global-stock-index-up-slightly-while-gold-silver-bounce-5902591) (Published: 2026-02-03)
