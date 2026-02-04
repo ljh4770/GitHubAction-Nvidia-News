@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-04 22:39:32**_
+_Last updated: **2026-02-04 22:58:59**_
 
 - [Nvidia, OpenAI appear stalled on their mega deal. But the AI giants still need each other](https://www.cnbc.com/2026/02/03/nvidia-openai-stalled-on-their-mega-deal-ai-giants-need-each-other.html) (Published: 2026-02-03)
 - [AMD Revenues Up 34 Percent to $10.3 Billion](https://www.thurrott.com/hardware/332319/amd-revenues-up-34-percent-to-10-3-billion) (Published: 2026-02-03)
