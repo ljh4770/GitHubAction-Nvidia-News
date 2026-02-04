@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-04 13:14:07**_
+_Last updated: **2026-02-04 14:10:03**_
 
+- [Why did SpaceX just apply to launch 1 million satellites?](https://www.newscientist.com/article/2514106-why-did-spacex-just-apply-to-launch-1-million-satellites/) (Published: 2026-02-03)
+- [Intezer Research Finds Enterprises Miss Dozens of Real Threats Each Year by Ignoring “Low-Severity” Alerts](https://www.globenewswire.com/news-release/2026/02/03/3231180/0/en/Intezer-Research-Finds-Enterprises-Miss-Dozens-of-Real-Threats-Each-Year-by-Ignoring-Low-Severity-Alerts.html) (Published: 2026-02-03)
+- [Performance evaluation of GPU-based parallel sorting algorithms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342167) (Published: 2026-02-03)
+- [BiCLUM: Bilateral contrastive learning for unpaired single-cell multi-omics integration](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013932) (Published: 2026-02-03)
+- [DT boasts ‘Europe’s answer to hyperscalers’](https://www.telecomtv.com/content/telco-public-cloud/dt-boasts-europe-s-answer-to-hyperscalers-54768/) (Published: 2026-02-03)
+- [Big exits at PeakXV; SC slams Meta, WhatsApp](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/big-exits-at-peakxv-sc-slams-meta-whatsapp/articleshow/127887037.cms) (Published: 2026-02-03)
+- [VC churn hits Peak XV; SC slams Meta, WhatsApp](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/vc-churn-hits-peak-xv-sc-slams-meta-whatsapp/articleshow/127887037.cms) (Published: 2026-02-03)
+- [Elon Musk says a 'sentient sun' built from a million satellites is the aim of the SpaceX and xAI merger – but big questions remain](https://www.techradar.com/computing/elon-musk-says-a-sentient-sun-built-from-a-million-satellites-is-the-aim-of-the-spacex-and-xai-merger-but-big-questions-remain) (Published: 2026-02-03)
+- [NVIDIA RTX 5060 And RTX 5070 See A Sudden Jump In Popularity As Per The Latest Steam Hardware Survey](https://wccftech.com/nvidia-rtx-5060-and-rtx-5070-see-a-sudden-jump-in-popularity/) (Published: 2026-02-03)
 - [The xAI-SpaceX merger, Palantir earnings, China's frowning horses and more in Morning Squawk](https://www.cnbc.com/2026/02/03/5-things-to-know-before-the-stock-market-opens.html) (Published: 2026-02-03)
-- [Snag this 4K-capable gaming PC with an RTX 5070 Ti and 32GB of DDR5 RAM for less than $2,000 — a 26% saving on a powerhouse of a rig equipped with Intel's 24-core CPU and a 2TB SSD](https://www.tomshardware.com/desktops/gaming-pcs/snag-this-4k-capable-gaming-pc-with-an-rtx-5070-ti-and-32gb-of-ddr5-ram-for-less-than-usd2-000-a-26-percent-saving-on-a-powerhouse-of-a-rig-equipped-with-intels-24-core-cpu-and-a-2tb-ssd) (Published: 2026-02-03)
-- [If and How to Scale the Acquired Podcast](https://hbr.org/podcast/2026/02/if-and-how-to-scale-the-acquired-podcast) (Published: 2026-02-03)
-- [Zadara Empowers Kocho with Streamlined VMware Alternative to Eliminate Complexity and Multi-Tenant AI Clouds Powered by NVIDIA GPUs to Enable Efficient Sovereign AI Clouds](https://www.globenewswire.com/news-release/2026/02/03/3231046/0/en/Zadara-Empowers-Kocho-with-Streamlined-VMware-Alternative-to-Eliminate-Complexity-and-Multi-Tenant-AI-Clouds-Powered-by-NVIDIA-GPUs-to-Enable-Efficient-Sovereign-AI-Clouds.html) (Published: 2026-02-03)
-- [SpaceX acquires xAI in a bid to make orbiting data centers a reality — Musk plans to launch a million tons of satellites annually, targets 1TW/year of space-based compute capacity](https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-acquires-xai-in-a-bid-to-make-orbiting-data-centers-a-reality-musk-plans-to-launch-a-million-tons-of-satellites-annually-targets-1tw-year-of-space-based-compute-capacity) (Published: 2026-02-03)
-- [nvidia-nat-redis 1.4.0a20260203](https://pypi.org/project/nvidia-nat-redis/1.4.0a20260203/) (Published: 2026-02-03)
-- [nvidia-nat-data-flywheel 1.4.0a20260203](https://pypi.org/project/nvidia-nat-data-flywheel/1.4.0a20260203/) (Published: 2026-02-03)
-- [nvidia-nat-semantic-kernel 1.4.0a20260203](https://pypi.org/project/nvidia-nat-semantic-kernel/1.4.0a20260203/) (Published: 2026-02-03)
-- [nvidia-nat-opentelemetry 1.4.0a20260203](https://pypi.org/project/nvidia-nat-opentelemetry/1.4.0a20260203/) (Published: 2026-02-03)
-- [Still using or redeploying an older PC during today’s RAM crisis? A new power supply could save you from an insane repair bill](https://www.tomshardware.com/pc-components/power-supplies/still-using-or-redeploying-an-older-pc-during-todays-ram-crisis-a-new-power-supply-could-save-you-from-an-insane-repair-bill) (Published: 2026-02-03)
