@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-04 11:32:25**_
+_Last updated: **2026-02-04 11:57:24**_
 
 - [Photonics and high-speed data movement is the next big AI bottleneck — following copper, power, DRAM, and NAND](https://www.tomshardware.com/tech-industry/photonics-and-high-speed-data-movement-is-the-next-big-ai-bottleneck-following-copper-power-dram-and-nand) (Published: 2026-02-03)
 - [Siemens Energy to Invest $1 Billion in US to Tap Into Power Boom](https://financialpost.com/pmn/business-pmn/siemens-energy-to-invest-1-billion-in-us-to-tap-into-power-boom) (Published: 2026-02-03)
