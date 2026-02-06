@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-06 20:26:38**_
+_Last updated: **2026-02-06 20:59:00**_
 
+- [Dell Pro Rugged 10 & 12 Review: Purpose-Built Tablets for Harsh Edge Environments](https://www.storagereview.com/review/dell-pro-rugged-10-12-review-purpose-built-tablets-for-harsh-edge-environments) (Published: 2026-02-05)
 - [WonderFox DVD Video Converter 31.3](https://post.rlsbb.to/wonderfox-dvd-video-converter-31-3/) (Published: 2026-02-05)
 - [The price of RAM has ballooned to 90% more than it was in Q4](https://www.androidheadlines.com/2026/02/the-price-of-ram-has-ballooned-to-90-more-than-it-was-in-q4.html) (Published: 2026-02-05)
 - [Musk Predicts SpaceX Will Launch More AI Compute Per Year Than the Cumulative Total on Earth](https://science.slashdot.org/story/26/02/05/1949245/musk-predicts-spacex-will-launch-more-ai-compute-per-year-than-the-cumulative-total-on-earth) (Published: 2026-02-05)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-06 20:26:38**_
 - [Amazon EC2 G6e instances now available in Dubai region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g6e-instances-dubai-region/) (Published: 2026-02-05)
 - [Show HN: Guro – Python CLI system monitoring, benchmarking and telemetry tool](https://github.com/dhanushk-offl/guro) (Published: 2026-02-05)
 - [torchbridge-ml 0.5.0](https://pypi.org/project/torchbridge-ml/0.5.0/) (Published: 2026-02-05)
-- [torchbridge-ml added to PyPI](https://pypi.org/project/torchbridge-ml/) (Published: 2026-02-05)
