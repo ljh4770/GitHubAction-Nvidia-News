@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-06 15:10:27**_
+_Last updated: **2026-02-06 15:57:00**_
 
+- [Why NVIDIA, Intel, Alphabet, Palantir, Qualcomm, and AMD stocks crashed today: AI stocks in free fall — Is the AI bubble finally cracking?](https://economictimes.indiatimes.com/news/international/us/why-nvidia-intel-alphabet-palantir-qualcomm-and-amd-stocks-crashed-today-ai-stocks-in-free-fall-is-the-ai-bubble-finally-cracking/articleshow/127943758.cms) (Published: 2026-02-05)
+- [GeForce NOW celebrates six years with new games like Delta Force and PUBG: BLINDSPOT](https://www.gamingonlinux.com/2026/02/geforce-now-celebrates-six-years-with-new-games-like-delta-force-and-pubg-blindspot/.) (Published: 2026-02-05)
+- [Cerebras Systems Global WSE/CS Deployment Analysis Report 2026: Wafer Scale Engine Basics, WSE Generations, Packaging a WSE, CS-x AI Supercomputer Product Analysis](https://www.globenewswire.com/news-release/2026/02/05/3233229/28124/en/Cerebras-Systems-Global-WSE-CS-Deployment-Analysis-Report-2026-Wafer-Scale-Engine-Basics-WSE-Generations-Packaging-a-WSE-CS-x-AI-Supercomputer-Product-Analysis.html) (Published: 2026-02-05)
+- [Johnson Fistel, PLLP Begins Investigation on Behalf of Long-Term Shareholders of Methode Electronics, Inc. (MEI), Molina Healthcare, Inc. (MOH), Monolithic Power Systems, Inc. (MPWR), and NET Power Inc. (NPWR)](https://www.globenewswire.com/news-release/2026/02/05/3233225/0/en/Johnson-Fistel-PLLP-Begins-Investigation-on-Behalf-of-Long-Term-Shareholders-of-Methode-Electronics-Inc-MEI-Molina-Healthcare-Inc-MOH-Monolithic-Power-Systems-Inc-MPWR-and-NET-Powe.html) (Published: 2026-02-05)
+- [The recent struggles of top AI stocks show investors are realizing they were 'sold a bill of goods,' AI scientist says](https://www.businessinsider.com/tech-stock-crash-ai-chatgpt5-gary-marcus-nvda-orcl-crwv-2026-2) (Published: 2026-02-05)
+- [Google pulls ahead of OpenAI with stellar AI growth, shares fall 3%](https://economictimes.indiatimes.com/markets/stocks/news/google-pulls-ahead-of-openai-with-stellar-ai-growth-shares-fall-3/articleshow/127942971.cms) (Published: 2026-02-05)
+- [Dell Tower Plus Desktop PC: Intel Ultra 7 265, RTX 5060Ti, 32GB DDR5, 1TB SSD $999.99](https://slickdeals.net/f/19177960-dell-tower-plus-desktop-pc-intel-ultra-7-265-rtx-5060ti-32gb-ddr5-1tb-ssd-999-99) (Published: 2026-02-05)
+- [US stock market big crash today: Why the Dow, S&P 500, and Nasdaq fell today - Gold, silver, and crypto all trade deep in the red](https://economictimes.indiatimes.com/news/international/us/us-stock-market-big-crash-today-why-the-dow-sp-500-and-nasdaq-fell-today-gold-silver-and-crypto-all-trade-deep-in-the-red/articleshow/127942429.cms) (Published: 2026-02-05)
+- [torch-nvidia-of-sdk 5.0.2](https://pypi.org/project/torch-nvidia-of-sdk/5.0.2/) (Published: 2026-02-05)
 - [Telus opens Canada’s fastest AI supercomputer to startups and small business](https://www.iphoneincanada.ca/2026/02/05/telus-opens-canadas-fastest-ai-supercomputer-to-startups-and-small-business/) (Published: 2026-02-05)
-- [(EcoFlow / PR TIMES, 2/5) 傑篏睡罐窮 ...](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260206__ecoflow) (Published: 2026-02-05)
-- [菴処](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260206_tuiki) (Published: 2026-02-05)
-- [(ョ泣、2026綛紊」「羝⒦羔鐚「9罩潟 ...](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260206__nuts) (Published: 2026-02-05)
-- [Stock market today: S&P 500, Nasdaq sink, adding to tech sell-off after jobs data as Google slides, Amazon looms](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-sink-adding-to-tech-sell-off-after-jobs-data-as-google-slides-amazon-looms-143533634.html) (Published: 2026-02-05)
-- [Anthropic, OpenAI rivalry spills into new Super Bowl ads as both fight to win over AI users](https://abcnews.go.com/Technology/wireStory/anthropic-openai-rivalry-spills-new-super-bowl-ads-129881744) (Published: 2026-02-05)
-- [Security updates for Thursday](https://lwn.net/Articles/1057381/) (Published: 2026-02-05)
-- [Here’s what Xbox is working on for 2026](https://www.theverge.com/tech/874303/microsoft-xbox-roadmap-2026-notepad) (Published: 2026-02-05)
-- [NVIDIA Reportedly Won’t Launch the RTX 50 SUPER Series This Year; GeForce RTX 60 “Rubin” Also Delayed as Memory Shortages Disrupt the PC Industry](https://wccftech.com/nvidia-reportedly-wont-launch-the-rtx-50-super-series-this-year/) (Published: 2026-02-05)
