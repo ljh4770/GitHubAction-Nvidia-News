@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-07 07:32:02**_
+_Last updated: **2026-02-07 07:53:39**_
 
+- [NVIDIA Confirms Dynamic Multi-Frame Generation and 6x Mode Arrive in April](https://www.techpowerup.com/346029/nvidia-confirms-dynamic-multi-frame-generation-and-6x-mode-arrive-in-april) (Published: 2026-02-06)
 - [CNBC Daily Open: Amazon one-ups its rivals on capex spending, but investors are already worried over AI valuations](https://www.cnbc.com/2026/02/06/cnbc-daily-open-amazon-one-ups-its-rivals-on-capex-spending-but-investors-are-already-worried-over-ai-valuations.html) (Published: 2026-02-06)
 - [Wardogs: New 100-Player Tactical FPS Gets Trailer and Steam Page](https://www.madshrimps.be/news/wardogs-new-100-player-tactical-fps-gets-trailer-and-steam-page/) (Published: 2026-02-06)
 - [No NVIDIA GeForce RTX 50 “SUPER” GPUs This Year, RTX 60-Series Also Pushed Back](https://www.madshrimps.be/news/no-nvidia-geforce-rtx-50-super-gpus-this-year-rtx-60-series-also-pushed-back/) (Published: 2026-02-06)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-07 07:32:02**_
 - [Fractal Analytics IPO opens Feb 9; GMP signals 7% listing gain. Key details here](https://economictimes.indiatimes.com/markets/stocks/news/fractal-analytics-ipo-opens-feb-9-gmp-signals-7-listing-gain-key-details-here/articleshow/127971210.cms) (Published: 2026-02-06)
 - [Show HN: Free Unlimited Claude Code usage with Nvidia NIM models](https://github.com/Alishahryar1/claude-code-free) (Published: 2026-02-06)
 - [AI Patent Search Market to Reach USD 5370.47 Million by 2035, Driven by Rising Patent Filings and R&D Investments | Research by SNS Insider](https://www.globenewswire.com/news-release/2026/02/06/3233565/0/en/AI-Patent-Search-Market-to-Reach-USD-5370-47-Million-by-2035-Driven-by-Rising-Patent-Filings-and-R-D-Investments-Research-by-SNS-Insider.html) (Published: 2026-02-06)
-- [gector added to PyPI](https://pypi.org/project/gector/) (Published: 2026-02-06)
