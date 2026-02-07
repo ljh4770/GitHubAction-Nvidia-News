@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-07 07:53:39**_
+_Last updated: **2026-02-07 08:26:32**_
 
 - [NVIDIA Confirms Dynamic Multi-Frame Generation and 6x Mode Arrive in April](https://www.techpowerup.com/346029/nvidia-confirms-dynamic-multi-frame-generation-and-6x-mode-arrive-in-april) (Published: 2026-02-06)
 - [CNBC Daily Open: Amazon one-ups its rivals on capex spending, but investors are already worried over AI valuations](https://www.cnbc.com/2026/02/06/cnbc-daily-open-amazon-one-ups-its-rivals-on-capex-spending-but-investors-are-already-worried-over-ai-valuations.html) (Published: 2026-02-06)
