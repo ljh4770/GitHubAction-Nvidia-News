@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-07 18:33:47**_
+_Last updated: **2026-02-07 19:03:00**_
 
+- [vision-agents-plugins-nvidia 0.3.4](https://pypi.org/project/vision-agents-plugins-nvidia/0.3.4/) (Published: 2026-02-06)
+- [Nvidia rises 7% as Jensen Huang says $660 billion capex buildout is sustainable](https://www.cnbc.com/2026/02/06/nvidia-rises-7percent-as-ceo-says-660-billion-capex-buildout-is-sustainable.html) (Published: 2026-02-06)
+- [Stock market today: Dow soars 1,000 points, leading S&P 500, Nasdaq higher as Wall Street rebounds from rout](https://finance.yahoo.com/news/live/stock-market-today-dow-crosses-50000-mark-leading-sp-500-nasdaq-higher-as-wall-street-rebounds-from-rout-192439513.html) (Published: 2026-02-06)
+- [Big Techs $600 billion spending plans exacerbate investors AI headache](https://www.livemint.com/companies/big-techs-600-billion-spending-plans-exacerbate-investors-ai-headache-11770403715605.html) (Published: 2026-02-06)
+- [Nvidia CEO sees digital twins driving robot surge in next decade](https://www.digitimes.com/news/a20260206PD226/ceo-nvidia-jensen-huang-robot-robotics.html) (Published: 2026-02-06)
+- [Bitcoin claws back above $70,000 after worst day since FTX crash](https://fortune.com/2026/02/06/bitcoin-claws-back-above-70000-after-worst-day-since-ftx-crash/) (Published: 2026-02-06)
+- [Big Tech’s $630 billion AI spree now rivals Sweden’s economy, unsettling investors: ‘We’ve never invested this much on anything before’](https://fortune.com/2026/02/06/what-is-a-data-center-capex-spending-630-billion-dollars-amazon-microsoft-google-meta/) (Published: 2026-02-06)
 - [Dow Jumps 1,000 Points as Stocks Rebound From a Tech Selloff](https://freerepublic.com/focus/f-news/4365710/posts) (Published: 2026-02-06)
 - [Investors Concerned AI Bubble Is Finally Popping](http://futurism.com/artificial-intelligence/investors-concerned-ai-bubble-popping) (Published: 2026-02-06)
 - [European shares bounce back after dip](https://www.irishtimes.com/business/2026/02/06/european-shares-bounce-back-after-dip/) (Published: 2026-02-06)
-- [Semiconductor industry on track to hit $1 trillion in sales in 2026, SIA predicts — bumper forecast follows $791.7 billion haul for 2025](https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-on-track-to-hit-usd1-trillion-in-sales-in-2026-sia-predicts-bumper-forecast-follows-usd791-7-billion-haul-for-2025) (Published: 2026-02-06)
-- [Show HN: Cbx – Local TTS CLI Wrapping Chatterbox ONNX (Single Rust Binary)](https://github.com/srv1n/cbx) (Published: 2026-02-06)
-- [SoftBank Earnings Results Could Clarify $30 Billion OpenAI Funding Rumors](https://www.pymnts.com/artificial-intelligence-2/2026/softbank-earnings-results-could-clarify-30-billion-openai-funding-rumors/) (Published: 2026-02-06)
-- [Dow tsunami lifts US stock market on a record surge today – why Dow, S&P 500 and Nasdaq suddenly pumped up as as tech stcoks rebound](https://economictimes.indiatimes.com/news/international/us/dow-tsunami-lifts-us-stock-market-on-a-record-surge-today-why-dow-sp-500-and-nasdaq-suddenly-pumped-up-as-as-tech-stcoks-rebound/articleshow/128001573.cms) (Published: 2026-02-06)
-- [Big Tech Loses *$1.35 Trillion* in Market Value as AI Skepticism Grows](https://www.breitbart.com/tech/2026/02/06/big-tech-loses-1-35-trillion-in-market-value-as-ai-skepticism-grows/) (Published: 2026-02-06)
-- [1 Stock That Could Join Nvidia and Alphabet in the $4 Trillion Club by 2032](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc931460-cfaa-4f1f-8065-4d1e34f9519b) (Published: 2026-02-06)
-- [ZenO Launches Public Beta Integrated with Story for Real-World Data Collection Powering Physical AI](https://dailyhodl.com/2026/02/06/zeno-launches-public-beta-integrated-with-story-for-real-world-data-collection-powering-physical-ai/) (Published: 2026-02-06)
