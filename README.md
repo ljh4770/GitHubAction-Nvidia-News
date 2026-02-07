@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-07 11:43:37**_
+_Last updated: **2026-02-07 11:56:54**_
 
 - [Prohibitively expensive RTX 5070 Ti price to get worse as Nvidia is reportedly winding down RTX 50 GPU production](https://www.notebookcheck.net/Prohibitively-expensive-RTX-5070-Ti-price-to-get-worse-as-Nvidia-is-reportedly-winding-down-RTX-50-GPU-production.1221215.0.html) (Published: 2026-02-06)
 - [Asus ROG Strix 5K XG27JCG review: This 5K gaming monitor is ultra crisp](https://www.pcworld.com/article/3050200/asus-rog-strix-5k-xg27jcg-review.html) (Published: 2026-02-06)
