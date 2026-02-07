@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-07 20:58:44**_
+_Last updated: **2026-02-07 21:35:20**_
 
+- [Nvidia stock closes up 7.87% after Jensen Huang said the tech industry's surging capex for AI infrastructure is justified, appropriate, and sustainable (Kif Leswing/CNBC)](https://www.techmeme.com/260206/p23) (Published: 2026-02-06)
+- [What will Nvidia think? Intel CEO confirms GPU building will continue as it looks to stake a claim in the most lucrative industry around right now](https://www.techradar.com/pro/what-will-nvidia-think-intel-ceo-confirms-gpu-building-will-continue-as-it-looks-to-stake-a-claim-in-the-most-lucrative-industry-around-right-now) (Published: 2026-02-06)
+- [Why Nvidia Stock Is Skyrocketing Today](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d7801b88-12ac-4b2d-9d62-2ea7e9b99ead) (Published: 2026-02-06)
+- [Vista Equity Partners and Intel to lead investment in AI chip startup SambaNova, sources say](https://www.channelnewsasia.com/business/vista-equity-partners-and-intel-lead-investment-in-ai-chip-startup-sambanova-sources-say-5913871) (Published: 2026-02-06)
+- [Exclusive-Vista Equity Partners and Intel to lead investment in AI chip startup Samba Nova, sources say](https://www.channelnewsasia.com/business/exclusive-vista-equity-partners-and-intel-lead-investment-in-ai-chip-startup-samba-nova-sources-say-5913871) (Published: 2026-02-06)
+- [What’s New in vcpkg (Nov 2025 – Jan 2026)](https://devblogs.microsoft.com/cppblog/whats-new-in-vcpkg-nov-2025-jan-2026/) (Published: 2026-02-06)
+- [The Dow just hit 50,000. See the names that have come and gone over the decades](https://www.cnbc.com/2026/02/06/dow-50000-stocks-index.html) (Published: 2026-02-06)
+- [Crypto’s stress test hits balance sheets as Bitcoin, Ether collapse](https://cointelegraph.com/news/crypto-stress-test-hits-balance-sheets-bitcoin-ether-collapse) (Published: 2026-02-06)
 - [The Lenovo Legion Tower 5 RTX 5070 Ti Gaming PC Drops to $1,899 at B&H Photo](https://www.ign.com/articles/lenovo-legion-tower-5-rtx-5070-ti-gaming-pc-deal-at-bh-photo) (Published: 2026-02-06)
 - [Big-time money squabbles: the conflict over California’s proposed billionaire tax](https://theweek.com/politics/california-billionaire-tax-pros-cons-controversy) (Published: 2026-02-06)
-- [Bondware Poser Pro 14.0.227](https://post.rlsbb.to/bondware-poser-pro-14-0-227/) (Published: 2026-02-06)
-- [1st LD: Dow tops 50,000 in snapback of U.S. stock markets](https://www.thestar.com.my/news/world/2026/02/07/1st-ld-dow-tops-50000-in-snapback-of-us-stock-markets) (Published: 2026-02-06)
-- [Structured outputs on Amazon Bedrock: Schema-compliant AI responses](https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/) (Published: 2026-02-06)
-- [torchbridge-ml 0.5.2](https://pypi.org/project/torchbridge-ml/0.5.2/) (Published: 2026-02-06)
-- [NVIDIA's GeForce NOW service has turned six years old this week](https://www.androidheadlines.com/2026/02/nvidias-geforce-now-service-has-turned-six-years-old-this-week.html) (Published: 2026-02-06)
-- [JUST IN: Dow Hits 50,000 For the First Time](https://www.mediaite.com/media/news/just-in-dow-hits-50000-for-the-first-time/) (Published: 2026-02-06)
-- [Dow Surges Past 50,000 As Tech Stocks Recover](https://www.huffpost.com/entry/financial-markets-above-50000_n_698642d7e4b0ddd03033a112) (Published: 2026-02-06)
-- [Washington University in St. Louis, ChatGPT, Nvidia, More: Friday Afternoon ResearchBuzz, February 6, 2026](https://researchbuzz.me/2026/02/06/washington-university-in-st-louis-chatgpt-nvidia-more-friday-afternoon-researchbuzz-february-6-2026/) (Published: 2026-02-06)
