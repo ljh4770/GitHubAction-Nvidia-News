@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-08 18:42:32**_
+_Last updated: **2026-02-08 19:13:45**_
 
+- [Show HN: I built a](https://github.com/pheonix-delta/axiom-voice-agent) (Published: 2026-02-07)
 - [Pluralistic: End of the line for video essays (07 Feb 2026) (Cory Doctorow/Pluralistic)](https://www.memeorandum.com/260207/p42) (Published: 2026-02-07)
 - [NVIDIA CEO Isn’t Worried About Big Tech ‘Splurging’ $660 Billion on the AI Infrastructure Buildout, Saying It Will Ultimately Pay Off](https://wccftech.com/nvidias-ceo-isnt-worried-about-big-tech-splurging-660-billion-on-the-ai/) (Published: 2026-02-07)
 - [Jonah Hill Made $60K For 'Wolf of Wall Street' But Leonardo DiCaprio Got $25M—His Dream Was to Work With Scorsese: 'I'd Sell My House…'](https://www.yahoo.com/entertainment/movies/articles/jonah-hill-made-60k-wolf-173117580.html) (Published: 2026-02-07)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-08 18:42:32**_
 - [ICT products from US need of the hour in India: Piyush Goyal](https://economictimes.indiatimes.com/news/economy/foreign-trade/ict-products-from-us-need-of-the-hour-in-india-piyush-goyal/articleshow/128039478.cms) (Published: 2026-02-07)
 - [talking-snake added to PyPI](https://pypi.org/project/talking-snake/) (Published: 2026-02-07)
 - [These are the monsters who feed Trump, the beast of bigotry](https://www.rawstory.com/raw-investigates/trump-obama/) (Published: 2026-02-07)
-- [India-US interim trade deal to boost access to advanced GPUs, data centre equipment](https://economictimes.indiatimes.com/tech/technology/india-us-interim-trade-deal-to-boost-access-to-advanced-gpus-data-centres-equipments/articleshow/128037330.cms) (Published: 2026-02-07)
