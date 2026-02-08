@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-08 19:40:05**_
+_Last updated: **2026-02-08 19:54:30**_
 
 - [Show HN: I built a](https://github.com/pheonix-delta/axiom-voice-agent) (Published: 2026-02-07)
 - [Pluralistic: End of the line for video essays (07 Feb 2026) (Cory Doctorow/Pluralistic)](https://www.memeorandum.com/260207/p42) (Published: 2026-02-07)
