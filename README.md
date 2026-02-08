@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-08 09:21:28**_
+_Last updated: **2026-02-08 09:50:21**_
 
 - [PC Play on Linux Is Growing in 2026, with 24k Titles and Steam Machines on the Horizon](https://www.geeky-gadgets.com/linux-gaming-guide-2026/) (Published: 2026-02-07)
 - [Big Tech's $600 billion AI spending plans add to investors' worries](https://economictimes.indiatimes.com/markets/us-stocks/news/big-techs-600-billion-ai-spending-plans-add-to-investors-worries/articleshow/128023938.cms) (Published: 2026-02-07)
