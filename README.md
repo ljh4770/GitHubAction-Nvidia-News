@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-08 10:12:41**_
+_Last updated: **2026-02-08 10:48:37**_
 
+- [nvfuser-cu126 0.2.35.dev20260207](https://pypi.org/project/nvfuser-cu126/0.2.35.dev20260207/) (Published: 2026-02-07)
+- [nvfuser-cu128 0.2.35.dev20260207](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260207/) (Published: 2026-02-07)
 - [ICYMI: the week's 7 biggest tech stories from Alexa+ leaving early access to the Fitbit founders' a new health tracking platform](https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-alexa-leaving-early-access-to-the-fitbit-founders-a-new-health-tracking-platform) (Published: 2026-02-07)
 - [PC Play on Linux Is Growing in 2026, with 24k Titles and Steam Machines on the Horizon](https://www.geeky-gadgets.com/linux-gaming-guide-2026/) (Published: 2026-02-07)
 - [Big Tech's $600 billion AI spending plans add to investors' worries](https://economictimes.indiatimes.com/markets/us-stocks/news/big-techs-600-billion-ai-spending-plans-add-to-investors-worries/articleshow/128023938.cms) (Published: 2026-02-07)
@@ -9,5 +11,3 @@ _Last updated: **2026-02-08 10:12:41**_
 - [SuperX 強化日本布局，攜手當地合作夥伴探索 AI 資料中心](https://technews.tw/2026/02/07/superx/) (Published: 2026-02-07)
 - [AI hype meets software reality in bloody week for stocks](https://www.irishtimes.com/your-money/2026/02/07/ai-hype-meets-software-reality-in-bloody-week-for-stocks/) (Published: 2026-02-07)
 - [Benchmark raises $225M in special funds to double down on Cerebras | TechCrunch](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/) (Published: 2026-02-07)
-- [Benchmark raises $225M in special funds to double down on Cerebras](https://finance.yahoo.com/news/benchmark-raises-225m-special-funds-052304517.html) (Published: 2026-02-07)
-- [iBUYPOWER Element Pro Gaming PC Desktop: Ryzen 7 7800X3D, RTX 5070 (12GB), 32GB DDR5, 1TB SSD $1499](https://slickdeals.net/f/19183618-ibuypower-element-pro-gaming-pc-desktop-ryzen-7-7800x3d-rtx-5070-12gb-32gb-ddr5-1tb-ssd-1499) (Published: 2026-02-07)
