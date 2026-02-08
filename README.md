@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-08 15:35:46**_
+_Last updated: **2026-02-08 15:54:59**_
 
 - [These are the monsters who feed Trump, the beast of bigotry](https://www.rawstory.com/raw-investigates/trump-obama/) (Published: 2026-02-07)
 - [India-US interim trade deal to boost access to advanced GPUs, data centre equipment](https://economictimes.indiatimes.com/tech/technology/india-us-interim-trade-deal-to-boost-access-to-advanced-gpus-data-centres-equipments/articleshow/128037330.cms) (Published: 2026-02-07)
