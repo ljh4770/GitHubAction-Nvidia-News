@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-09 08:08:21**_
+_Last updated: **2026-02-09 09:09:37**_
 
+- [What Does the Street Think About NVIDIA Corporation (NVDA)?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6c76d07-d2ec-4a10-a3c4-42a9f55a78f1) (Published: 2026-02-08)
 - [iflow-mcp_iconben-z-image-studio 0.1.0a1](https://pypi.org/project/iflow-mcp_iconben-z-image-studio/) (Published: 2026-02-08)
 - [HP OMEN 16L Gaming Desktop PC, Intel Core Ultra 5 225F, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX 5060 Ti, Windows 11 Home, Microsoft Copilot, Panda Metal, TG03-0130 (2025) $999.99 (2 replies)](https://slickdeals.net/f/19186573-hp-omen-16l-gaming-desktop-pc-intel-core-ultra-5-225f-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5060-ti-windows-11-home-microsoft-copilot-panda-metal-tg03-0130-2025-999-99) (Published: 2026-02-08)
 - [India has changed its startup rules for deep tech | TechCrunch](https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/) (Published: 2026-02-08)
@@ -9,4 +10,3 @@ _Last updated: **2026-02-09 08:08:21**_
 - [As AI goes physical, the robotics supply chain reshuffles](https://www.digitimes.com/news/a20260205PD229/supply-chain-robotics-robot-production.html) (Published: 2026-02-07)
 - [vlmbench added to PyPI](https://pypi.org/project/vlmbench/) (Published: 2026-02-07)
 - [Nvidia and Dassault Systèmes deepen partnership to bring AI into the physical world](https://www.digitimes.com/news/a20260205PD218/dassault-nvidia-partnership-technology-design.html) (Published: 2026-02-07)
-- [Khronos Moves to Integrate Gaussian Splatting Into glTF 3D Format](https://www.uploadvr.com/khronos-moves-to-integrate-gaussian-splatting-into-gltf-3d-format/) (Published: 2026-02-07)
