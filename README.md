@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-09 19:48:14**_
+_Last updated: **2026-02-09 20:25:47**_
 
 - [Unicorn founders, NASA scientist to speak at GBS 2026](https://economictimes.indiatimes.com/news/company/corporate-trends/unicorn-founders-nasa-scientist-to-speak-at-gbs-2026/articleshow/128082800.cms) (Published: 2026-02-08)
 - [Goldman Sachs revamps Nvidia stock forecast ahead of earnings](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_208ccbb8-812d-4d46-bc7c-4b10db5c96a4) (Published: 2026-02-08)
