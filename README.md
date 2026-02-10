@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-10 04:17:16**_
+_Last updated: **2026-02-10 05:52:59**_
 
+- [Donald Trump could deflect Maga criticism of AI for the loss of jobs in US towards Ireland](https://www.irishtimes.com/business/2026/02/09/donald-trump-could-deflect-maga-criticism-of-ai-for-the-loss-of-jobs-in-us-towards-ireland/) (Published: 2026-02-09)
+- [LG CNS partners with FuriosaAI, bringing South Korea's NPU to enterprise AI services](https://www.digitimes.com/news/a20260209VL210/lg-npu-infrastructure-chips-nvidia.html) (Published: 2026-02-09)
+- [NZ sharemarket finishes flat at up 0.02% - Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-finishes-flat-at-up-002-market-close/premium/P44EYHWVS5F5DEE6YL6B7QD5AQ/) (Published: 2026-02-09)
+- [Samsung could start making its most important chip ever this month](https://www.sammobile.com/news/samsung-start-making-most-important-hbm4-chip-this-month/) (Published: 2026-02-09)
+- [US Stocks Today | Dow at 50,000: From AI spillovers to rate cuts, what drove the record run](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-at-50000-from-ai-spillovers-to-rate-cuts-what-drove-the-record-run/articleshow/128097530.cms) (Published: 2026-02-09)
+- [Show HN: Vrhi: AI Slop DX9/DX11-Style Immediate API on Vulkan](https://github.com/hypernewbie/vrhi) (Published: 2026-02-09)
 - [Global Market Today: Asian markets rise as Japan shares scale record peak](https://economictimes.indiatimes.com/markets/us-stocks/news/asia-rallies-as-japan-shares-surge-to-record-peak/articleshow/128096119.cms) (Published: 2026-02-09)
 - [Linux 6.19 Release – Main changes, Arm, RISC-V, and MIPS architectures](https://www.cnx-software.com/2026/02/09/linux-6-19-release-main-changes-arm-risc-v-and-mips-architectures/) (Published: 2026-02-09)
 - [A Plan for Canada To Join the United States](https://www.realclearworld.com/articles/2026/02/06/a_plan_for_canada_to_join_the_united_states_1163269.html) (Published: 2026-02-09)
 - [Australian AI infrastructure developer Firmus lands $10 billion debt package from Blackstone, Coatue](https://economictimes.indiatimes.com/tech/artificial-intelligence/australian-ai-infrastructure-developer-firmus-lands-10-billion-debt-package-from-blackstone-coatue/articleshow/128095352.cms) (Published: 2026-02-09)
-- [Rs 2 lakh crore IT rout meets India's first AI IPO: Is Fractal a better bet than TCS, Infosys and HCL Tech?](https://economictimes.indiatimes.com/markets/ipos/fpos/rs-2-lakh-crore-it-rout-meets-indias-first-ai-ipo-is-fractal-a-better-bet-than-tcs-infosys-and-hcl-tech/articleshow/128094546.cms) (Published: 2026-02-09)
-- [Tokyo benchmark Nikkei 225 jumps after PM Takaichi's ruling party wins a super majority in election](https://abcnews.go.com/Business/wireStory/tokyo-benchmark-nikkei-225-jumps-after-pm-takaichis-129980358) (Published: 2026-02-09)
-- [Japan's Nikkei jumps after Takaichi wins a super majority in parliament](https://apnews.com/article/stocks-markets-japan-trump-election-9b8ca5d0b21d8f2c6d0cb6992e05c112) (Published: 2026-02-09)
-- [Tower Semiconductor, Nvidia advance 1.6T optical modules for AI data center networking](https://www.digitimes.com/news/a20260209VL209/tower-semiconductor-nvidia-data-center-infrastructure-photonics.html) (Published: 2026-02-09)
-- [Digital Realty Debuts NVIDIA Certification for Liquid Cooled Data Center in Japan](https://www.globenewswire.com/news-release/2026/02/09/3234224/0/en/Digital-Realty-Debuts-NVIDIA-Certification-for-Liquid-Cooled-Data-Center-in-Japan.html) (Published: 2026-02-09)
