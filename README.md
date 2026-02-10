@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-10 06:57:24**_
+_Last updated: **2026-02-10 08:00:37**_
 
-- [Nvidia-Backed AI Startup Gets $10 Billion in Blackstone-Led Loan](https://financialpost.com/pmn/business-pmn/nvidia-backed-ai-startup-gets-10-billion-in-blackstone-led-loan) (Published: 2026-02-09)
-- [AI-led memory shortage threatens to make phones, TVs, PCs costlier in 2026](https://www.business-standard.com/technology/tech-news/ai-led-memory-shortage-threatens-to-make-phones-tvs-pcs-costlier-in-2026-126020900349_1.html) (Published: 2026-02-09)
-- [Donald Trump could deflect Maga criticism of AI for the loss of jobs in US towards Ireland](https://www.irishtimes.com/business/2026/02/09/donald-trump-could-deflect-maga-criticism-of-ai-for-the-loss-of-jobs-in-us-towards-ireland/) (Published: 2026-02-09)
-- [LG CNS partners with FuriosaAI, bringing South Korea's NPU to enterprise AI services](https://www.digitimes.com/news/a20260209VL210/lg-npu-infrastructure-chips-nvidia.html) (Published: 2026-02-09)
-- [NZ sharemarket finishes flat at up 0.02% - Market close](https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-finishes-flat-at-up-002-market-close/premium/P44EYHWVS5F5DEE6YL6B7QD5AQ/) (Published: 2026-02-09)
-- [Samsung could start making its most important chip ever this month](https://www.sammobile.com/news/samsung-start-making-most-important-hbm4-chip-this-month/) (Published: 2026-02-09)
-- [US Stocks Today | Dow at 50,000: From AI spillovers to rate cuts, what drove the record run](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-at-50000-from-ai-spillovers-to-rate-cuts-what-drove-the-record-run/articleshow/128097530.cms) (Published: 2026-02-09)
-- [Show HN: Vrhi: AI Slop DX9/DX11-Style Immediate API on Vulkan](https://github.com/hypernewbie/vrhi) (Published: 2026-02-09)
-- [Global Market Today: Asian markets rise as Japan shares scale record peak](https://economictimes.indiatimes.com/markets/us-stocks/news/asia-rallies-as-japan-shares-surge-to-record-peak/articleshow/128096119.cms) (Published: 2026-02-09)
-- [Linux 6.19 Release – Main changes, Arm, RISC-V, and MIPS architectures](https://www.cnx-software.com/2026/02/09/linux-6-19-release-main-changes-arm-risc-v-and-mips-architectures/) (Published: 2026-02-09)
+- [Top 10 AI Agents Running Businesses in 2026](https://www.c-sharpcorner.com/article/top-10-ai-agents-running-businesses-in-2026/) (Published: 2026-02-09)
+- [Samsung boosts HBM4 DRAM investment to secure market leadership](https://www.digitimes.com/news/a20260209PD228/samsung-dram-hbm4-investment-market.html) (Published: 2026-02-09)
+- [Weekly news roundup: chips, software, geopolitics reshape tech](https://www.digitimes.com/news/a20260209VL204/digitimes-asia-cxmt-nvidia-hbm4-dram.html) (Published: 2026-02-09)
+- [CNBC Daily Open: Takaichi's victory sends Japan's Nikkei 225 to new highs](https://www.cnbc.com/2026/02/09/cnbc-daily-open-takaichis-victory-sends-japans-nikkei-225-to-new-highs.html) (Published: 2026-02-09)
+- [NVIDIA to Use SK hynix and Samsung HBM4 for “Vera Rubin” Without Micron](https://www.madshrimps.be/news/nvidia-to-use-sk-hynix-and-samsung-hbm4-for-vera-rubin-without-micron/) (Published: 2026-02-09)
+- [Nikkei jumps after landslide victory for Takaichi's ruling party](https://japantoday.com/category/business/tokyo-benchmark-nikkei-225-jumps-after-pm-takaichi%27s-ruling-party-wins-a-super-majority-in-election) (Published: 2026-02-09)
+- [Bhashini migrates to Yotta's sovereign AI cloud; sees 40% performance boost, 30% cost dip](https://economictimes.indiatimes.com/tech/artificial-intelligence/bhashini-migrates-to-yottas-sovereign-ai-cloud-sees-40-performance-boost-30-cost-dip/articleshow/128103643.cms) (Published: 2026-02-09)
+- [Linux PCs Get Native NVIDIA GeForce NOW Support](https://www.madshrimps.be/news/linux-pcs-get-native-nvidia-geforce-now-support/) (Published: 2026-02-09)
+- [DreamWorks Animation releases MoonRay 2.40](https://www.cgchannel.com/2026/02/dreamworks-animation-releases-moonray-2-40/) (Published: 2026-02-09)
