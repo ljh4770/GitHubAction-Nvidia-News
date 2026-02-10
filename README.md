@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-10 09:07:17**_
+_Last updated: **2026-02-10 10:10:22**_
 
+- [Poll: Are you happy with your Google TV box’s performance?](https://www.androidauthority.com/google-tv-box-performance-poll-3638907/) (Published: 2026-02-09)
+- [Do You Have a Moment to Talk About How Mormons Conquered Pop Culture?](http://www.thecut.com/article/mormons-pop-culture-secret-lives-bachelorette.html) (Published: 2026-02-09)
+- [US Stocks: IPO proceeds to quadruple to record $160 bn in 2026 as dealmaking rebounds: Goldman](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ipo-proceeds-to-quadruple-to-record-160-bn-in-2026-as-dealmaking-rebounds-goldman/articleshow/128108393.cms) (Published: 2026-02-09)
+- [Skytech Shiva Gaming Desktop: Ryzen 7 3700X, RTX 5050, 16GB DDR4, 1TB SSD + Free KMA MSI Force GC30 wireless controller $531.99 (6 replies)](https://slickdeals.net/f/19190065-skytech-shiva-gaming-desktop-ryzen-7-3700x-rtx-5050-16gb-ddr4-1tb-ssd-free-kma-msi-force-gc30-wireless-controller-531-99) (Published: 2026-02-09)
+- [Dow Jones closes above 50,000 for the first time](https://www.rte.ie/news/business/2026/0209/1557455-dow-jones-closes-above-50-000-for-the-first-time/) (Published: 2026-02-09)
+- [pyagc added to PyPI](https://pypi.org/project/pyagc/) (Published: 2026-02-09)
+- [Amazon deepens ties with STMicro to secure semiconductors for data centres](https://www.business-standard.com/technology/tech-news/amazon-deepens-ties-with-stmicro-to-secure-semiconductors-for-data-centres-126020900566_1.html) (Published: 2026-02-09)
+- [Amazon Deepens Ties With Chipmaker STMicro for Data Centers](https://financialpost.com/pmn/business-pmn/amazon-deepens-ties-with-chipmaker-stmicro-for-data-centers) (Published: 2026-02-09)
 - [Billionaires Buy 2 AI Stocks Up 970% and 2,000% Since Early 2023 (Hint: Not Nvidia or Broadcom)](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5317f9c4-f344-4700-b437-af677944cb5f) (Published: 2026-02-09)
 - [January Brought Major Updates to These 6 Linux Distros](https://www.ghacks.net/2026/02/09/january-brought-major-updates-to-these-6-linux-distros-2/) (Published: 2026-02-09)
-- [Top 10 AI Agents Running Businesses in 2026](https://www.c-sharpcorner.com/article/top-10-ai-agents-running-businesses-in-2026/) (Published: 2026-02-09)
-- [Samsung boosts HBM4 DRAM investment to secure market leadership](https://www.digitimes.com/news/a20260209PD228/samsung-dram-hbm4-investment-market.html) (Published: 2026-02-09)
-- [Weekly news roundup: chips, software, geopolitics reshape tech](https://www.digitimes.com/news/a20260209VL204/digitimes-asia-cxmt-nvidia-hbm4-dram.html) (Published: 2026-02-09)
-- [CNBC Daily Open: Takaichi's victory sends Japan's Nikkei 225 to new highs](https://www.cnbc.com/2026/02/09/cnbc-daily-open-takaichis-victory-sends-japans-nikkei-225-to-new-highs.html) (Published: 2026-02-09)
-- [NVIDIA to Use SK hynix and Samsung HBM4 for “Vera Rubin” Without Micron](https://www.madshrimps.be/news/nvidia-to-use-sk-hynix-and-samsung-hbm4-for-vera-rubin-without-micron/) (Published: 2026-02-09)
-- [Nikkei jumps after landslide victory for Takaichi's ruling party](https://japantoday.com/category/business/tokyo-benchmark-nikkei-225-jumps-after-pm-takaichi%27s-ruling-party-wins-a-super-majority-in-election) (Published: 2026-02-09)
-- [Bhashini migrates to Yotta's sovereign AI cloud; sees 40% performance boost, 30% cost dip](https://economictimes.indiatimes.com/tech/artificial-intelligence/bhashini-migrates-to-yottas-sovereign-ai-cloud-sees-40-performance-boost-30-cost-dip/articleshow/128103643.cms) (Published: 2026-02-09)
-- [Linux PCs Get Native NVIDIA GeForce NOW Support](https://www.madshrimps.be/news/linux-pcs-get-native-nvidia-geforce-now-support/) (Published: 2026-02-09)
