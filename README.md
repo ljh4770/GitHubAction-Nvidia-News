@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-11 23:17:24**_
+_Last updated: **2026-02-11 23:49:37**_
 
+- [DIGITIMES Insight: Intel 14A delays expose cracks in AI infrastructure expectations](https://www.digitimes.com/news/a20260209PD226/digitimes-intel-infrastructure-market-capacity.html) (Published: 2026-02-10)
 - [Show HN: Ktop – a themed terminal system monitor with charts and OOM tracking](https://github.com/brontoguana/ktop) (Published: 2026-02-10)
 - [Walmart Over Amazon: Retailer Wins EBITDA Multiple Foot Race](http://wwd.com/business-news/business-features/walmart-1t-valuation-ebitda-multiple-vs-amazon-1238558187/) (Published: 2026-02-10)
 - [Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE](https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/) (Published: 2026-02-10)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-11 23:17:24**_
 - [Arm's owner and Intel say their Z-Angle Memory, HBM-rival, will hit the market in 2029 - but I hope it won't be another Optane/3D-Xpoint, which caused Micron to lose millions](https://www.techradar.com/pro/arms-owner-and-intel-say-their-z-angle-memory-hbm-rival-will-hit-the-market-in-2029-but-i-hope-it-wont-be-another-optane-3d-xpoint-one-that-caused-micron-to-lose-millions) (Published: 2026-02-10)
 - [Why these ASX ETFs could be perfect for buy and hold investors](https://www.fool.com.au/2026/02/11/why-these-asx-etfs-could-be-perfect-for-buy-and-hold-investors/) (Published: 2026-02-10)
 - [World model startup Runway closes $315M funding round](https://siliconangle.com/2026/02/10/world-model-startup-runway-closes-315m-funding-round/) (Published: 2026-02-10)
-- [Lutnick says Nvidia 'must live with' licensing terms China deal, Reuters reports](https://legacy.thefly.com/permalinks/entry.php/id4289621/NVDA-Lutnick-says-Nvidia-must-live-with-licensing-terms-China-deal-Reuters-reports) (Published: 2026-02-10)
