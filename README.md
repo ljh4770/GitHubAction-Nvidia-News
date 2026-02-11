@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-11 21:40:40**_
+_Last updated: **2026-02-11 22:03:05**_
 
 - [Arm's owner and Intel say their Z-Angle Memory, HBM-rival, will hit the market in 2029 - but I hope it won't be another Optane/3D-Xpoint, which caused Micron to lose millions](https://www.techradar.com/pro/arms-owner-and-intel-say-their-z-angle-memory-hbm-rival-will-hit-the-market-in-2029-but-i-hope-it-wont-be-another-optane-3d-xpoint-one-that-caused-micron-to-lose-millions) (Published: 2026-02-10)
 - [Why these ASX ETFs could be perfect for buy and hold investors](https://www.fool.com.au/2026/02/11/why-these-asx-etfs-could-be-perfect-for-buy-and-hold-investors/) (Published: 2026-02-10)
