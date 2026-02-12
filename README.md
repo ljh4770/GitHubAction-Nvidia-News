@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-12 07:30:50**_
+_Last updated: **2026-02-12 08:04:53**_
 
+- [ByteDance reportedly in talks with Samsung on chip development amid US Nvidia curbs](https://www.digitimes.com/news/a20260211VL204/bytedance-chips-samsung-nvidia.html) (Published: 2026-02-11)
+- [Gigabyte Collaborates with NVIDIA GeForce RTX for Resident Evil Requiem Bundle](https://www.madshrimps.be/news/gigabyte-collaborates-with-nvidia-geforce-rtx-for-resident-evil-requiem-bundle/) (Published: 2026-02-11)
 - [Cisco enhances security for enterprise AI adoption](https://www.helpnetsecurity.com/2026/02/11/cisco-agentic-ai-protection/) (Published: 2026-02-11)
 - [ASUS Philippines launches 2026 lineup](https://www.yugatech.com/news/asus-philippines-launches-2026-lineup/) (Published: 2026-02-11)
 - [Dassault Systèmes: Q4 revenue growth of 1% with solid operating margin and EPS expansion Initiating 2026 revenue guidance of 3-5% growth](https://www.globenewswire.com/news-release/2026/02/11/3235907/0/en/Dassault-Syst%C3%A8mes-Q4-revenue-growth-of-1-with-solid-operating-margin-and-EPS-expansion-Initiating-2026-revenue-guidance-of-3-5-growth.html) (Published: 2026-02-11)
@@ -9,5 +11,3 @@ _Last updated: **2026-02-12 07:30:50**_
 - [AI is changing how retailers select tech partners](http://digiday.com/marketing/ai-is-changing-how-retailers-select-tech-partners/) (Published: 2026-02-11)
 - [Large-Scale AI Model Market to Reach USD 52.82 Billion by 2035, Fueled by Generative AI and Enterprise Automation | SNS Insider](https://www.globenewswire.com/news-release/2026/02/11/3235901/0/en/Large-Scale-AI-Model-Market-to-Reach-USD-52-82-Billion-by-2035-Fueled-by-Generative-AI-and-Enterprise-Automation-SNS-Insider.html) (Published: 2026-02-11)
 - [ByteDance developing AI chip, in manufacturing talks with Samsung, sources say](https://economictimes.indiatimes.com/tech/artificial-intelligence/bytedance-developing-ai-chip-in-manufacturing-talks-with-samsung-sources-say/articleshow/128188760.cms) (Published: 2026-02-11)
-- [This nasty Steam performance bug for Linux has gone unfixed for seven years](https://www.xda-developers.com/nasty-steam-performance-bug-for-linux-gone-unfixed-seven-years/) (Published: 2026-02-11)
-- [Delhi Hotels See Coldplay-Style Price Spike, This Time for an AI Summit](https://skift.com/2026/02/10/delhi-hotels-see-coldplay-style-price-spike-this-time-for-an-ai-summit/) (Published: 2026-02-11)
