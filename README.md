@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-12 22:58:19**_
+_Last updated: **2026-02-12 23:38:10**_
 
+- [Microsoft's February Update Fixes 6 Actively Exploited Zero Days, Update ASAP](https://hothardware.com/news/microsofts-february-update-fixes-6-actively-exploited-zero-days-update-asap) (Published: 2026-02-11)
+- [Cloud gaming on TVs suddenly looks like the future —2026 is the year the 'no console' world becomes realistic, thanks developments and hardware shortages](https://www.techradar.com/televisions/cloud-gaming-on-tvs-suddenly-looks-like-the-future-2026-is-the-year-the-no-console-world-becomes-realistic-thanks-developments-and-hardware-shortages) (Published: 2026-02-11)
 - [You Can Rent HP’s Ginormous Gaming Laptops. Here’s Why You Shouldn’t](https://gizmodo.com/you-can-rent-hps-ginormous-gaming-laptops-heres-why-you-shouldnt-2000720761) (Published: 2026-02-11)
 - [This compact OMEN 16L gaming PC delivers better value than building it yourself — and it’s on sale](https://www.windowscentral.com/hardware/desktops/this-compact-omen-16l-gaming-pc-delivers-better-value-than-building-it-yourself-and-its-on-sale) (Published: 2026-02-11)
 - [Cisco's stock drops 7% on mediocre forecast even as earnings and revenue top estimates](https://www.cnbc.com/2026/02/11/cisco-csco-q2-earnings-report-2026.html) (Published: 2026-02-11)
@@ -9,5 +11,3 @@ _Last updated: **2026-02-12 22:58:19**_
 - [Arm confirms Exynos 2600 will support SME2 at launch](https://www.notebookcheck.net/Arm-confirms-Exynos-2600-will-support-SME2-at-launch.1224328.0.html) (Published: 2026-02-11)
 - [The Alienware Aurora R16 RTX 5080 Gaming PC Drops to $2,180 During the Dell Presidents Day Sale](https://www.ign.com/articles/alienware-aurora-geforce-rtx-5080-gaming-pc-deal-dell-presidents-day-sale) (Published: 2026-02-11)
 - [Dell XPS 14 Arc B390 vs. GeForce RTX 4050: 3DMark comparisons don't tell the whole story](https://www.notebookcheck.net/Dell-XPS-14-Arc-B390-vs-GeForce-RTX-4050-3DMark-comparisons-don-t-tell-the-whole-story.1222361.0.html) (Published: 2026-02-11)
-- [Save $200 And Get A Free Copy Of Resident Evil Requiem With The RTX 5070 Ti-Powered MSI Vector 16 HX AI Gaming Laptop, Now Down To $1,899.99 On Amazon](https://wccftech.com/msi-vector-16-hx-ai-rtx-5070-ti-amazon-gaming-laptop-deal-save-200-and-get-resident-evil-requiem-free-copy/) (Published: 2026-02-11)
-- [Photonic AI chip startup Olix nabs $220M investment](https://siliconangle.com/2026/02/11/photonic-ai-chip-startup-olix-nabs-220m-investment/) (Published: 2026-02-11)
