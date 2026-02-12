@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-11 23:49:37**_
+_Last updated: **2026-02-12 00:56:28**_
 
+- [Xi's Beijing inspection; Li on rare earths; Hong Kong white paper; Taiwan Affairs Work Conference; PBoC report](https://sinocism.com/p/xis-beijing-inspection-li-on-rare) (Published: 2026-02-11)
+- [What Nvidia, Google and Meta Are Building Beyond Chips and Compute](https://www.pymnts.com/artificial-intelligence-2/2026/what-nvidia-google-and-meta-are-building-beyond-chips-and-compute/) (Published: 2026-02-11)
+- [Show HN: Google Search MCP for local LLMs – 14 tools, no API key](https://github.com/VincentKaufmann/noapi-google-search-mcp) (Published: 2026-02-11)
+- [Astera Labs shares sink 10% as revenue comes up short of some expectations](https://www.cnbc.com/2026/02/10/astera-labs-alab-earnings-report-q4-2025.html) (Published: 2026-02-11)
+- [GIGABYTE Collaborates with NVIDIA® GeForce RTX™ for Resident Evil™ Requiem Bundle](https://www.prnewswire.co.uk/news-releases/gigabyte-collaborates-with-nvidia-geforce-rtx-for-resident-evil-requiem-bundle-302683629.html) (Published: 2026-02-11)
+- [Stock market today: Dow, S&P 500, Nasdaq futures climb as January jobs report exceeds expectations](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-january-jobs-report-exceeds-expectations-235748329.html) (Published: 2026-02-10)
+- [Stock market today: Dow, S&P 500 waver, Nasdaq slides after January jobs report smashes expectations](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-waver-nasdaq-slides-after-january-jobs-report-smashes-expectations-235748121.html) (Published: 2026-02-10)
 - [DIGITIMES Insight: Intel 14A delays expose cracks in AI infrastructure expectations](https://www.digitimes.com/news/a20260209PD226/digitimes-intel-infrastructure-market-capacity.html) (Published: 2026-02-10)
 - [Show HN: Ktop – a themed terminal system monitor with charts and OOM tracking](https://github.com/brontoguana/ktop) (Published: 2026-02-10)
 - [Walmart Over Amazon: Retailer Wins EBITDA Multiple Foot Race](http://wwd.com/business-news/business-features/walmart-1t-valuation-ebitda-multiple-vs-amazon-1238558187/) (Published: 2026-02-10)
-- [Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE](https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/) (Published: 2026-02-10)
-- [Save $750 Off the Acer Predator Helios RTX 5090 Gaming Laptop, Now Well Below $3,000](https://www.ign.com/articles/save-750-off-the-acer-predator-helios-rtx-5090-gaming-laptop-now-well-below-3000) (Published: 2026-02-10)
-- [Vidya AI Introduces AI-Based Grading and Learning Assistant to Modernize STEM Classrooms.](https://www.globenewswire.com/news-release/2026/02/10/3235847/0/en/Vidya-AI-Introduces-AI-Based-Grading-and-Learning-Assistant-to-Modernize-STEM-Classrooms.html) (Published: 2026-02-10)
-- [Nioh 3 PC Graphics Tuning Guide — How To Get The Best Experience From The PC Version](https://wccftech.com/how-to/nioh-3-pc-graphics-tuning-guide-how-to-get-the-best-experience-on-pc/) (Published: 2026-02-10)
-- [Arm's owner and Intel say their Z-Angle Memory, HBM-rival, will hit the market in 2029 - but I hope it won't be another Optane/3D-Xpoint, which caused Micron to lose millions](https://www.techradar.com/pro/arms-owner-and-intel-say-their-z-angle-memory-hbm-rival-will-hit-the-market-in-2029-but-i-hope-it-wont-be-another-optane-3d-xpoint-one-that-caused-micron-to-lose-millions) (Published: 2026-02-10)
-- [Why these ASX ETFs could be perfect for buy and hold investors](https://www.fool.com.au/2026/02/11/why-these-asx-etfs-could-be-perfect-for-buy-and-hold-investors/) (Published: 2026-02-10)
-- [World model startup Runway closes $315M funding round](https://siliconangle.com/2026/02/10/world-model-startup-runway-closes-315m-funding-round/) (Published: 2026-02-10)
