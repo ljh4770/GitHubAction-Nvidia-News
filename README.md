@@ -1,12 +1,14 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-13 14:11:36**_
+_Last updated: **2026-02-13 15:01:55**_
 
-- [Security updates for Thursday](https://lwn.net/Articles/1058473/) (Published: 2026-02-12)
-- [GeForce NOW Turns Screens Into a Gaming Machine](https://blogs.nvidia.com/blog/geforce-now-thursday-amazon-fire-tv-app/) (Published: 2026-02-12)
-- [MSI GeForce RTX 5090 Lightning Z 32 GB GPU Review: The Beast Unleashed](https://wccftech.com/review/msi-geforce-rtx-5090-lightning-z-32-gb-gpu-review-the-beast-unleashed/) (Published: 2026-02-12)
-- [Fine-Tuning Arabic Large Language Models for improved multi-turn dialogue: A blueprint for synthetic data generation and benchmarking](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341905) (Published: 2026-02-12)
-- [Target switching in 2D and 3D visual foraging reveals trade-offs between mental effort, travelling distance and movement speed](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342298) (Published: 2026-02-12)
-- [Dependency-aware self-attention for robust neural machine translation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342772) (Published: 2026-02-12)
-- [A multi-class framework for fish species classification using deep learning technique](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342901) (Published: 2026-02-12)
-- [Plastic Arbor: A modern simulation framework for synaptic plasticity—From single synapses to networks of morphological neurons](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013926) (Published: 2026-02-12)
-- [‘We do not believe this is a bubble’: Taiwan’s 23 million people see a high-flying economy with one major risk](https://fortune.com/2026/02/12/taiwan-economy-ai-bubble-risk-8-6-percent-growth-nvidia-jensen-huang/) (Published: 2026-02-12)
+- [(PR) Lenovo Q3 2025 Revenue Hits Record $22.2 Billion, Up 18% Year-Over-Year](https://www.techpowerup.com/346289/lenovo-q3-2025-revenue-hits-record-usd-22-2-billion-up-18-year-over-year) (Published: 2026-02-12)
+- [NVIDIA DGX Spark Powers Big Projects in Higher Education](https://blogs.nvidia.com/blog/dgx-spark-higher-education/) (Published: 2026-02-12)
+- [2026 綛2 禹礇絅磧彜羂 (Microsoft, 2026.02.10)](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260213_) (Published: 2026-02-12)
+- [oogle Chrome 145絎鐔若
+オ (腦 2026.02.12)](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260213_chrome) (Published: 2026-02-12)
+- [Apple 拷 (iOS / iPadOS, macOS, tvOS, watchOS, visionOS, Safari) (Apple, 2026.02.11)](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260213_apple) (Published: 2026-02-12)
+- [(The Independent, 2/12) ≪⒢ォ活⒦42箴睡 ...](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260213__aa5342) (Published: 2026-02-12)
+- [(2026.02.13) (various)](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260213_various) (Published: 2026-02-12)
+- [CVE-2026-0229 PAN-OS: Denial of Service in Advanced DNS Security Feature (palo alto networks, 2026.02.12)](http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/02.html#20260213_panos) (Published: 2026-02-12)
+- [Amazon Fire TV Sticks get access to GeForce Now’s cloud gaming library](http://9to5google.com/2026/02/12/amazon-fire-tv-stick-gets-geforce-now-app/) (Published: 2026-02-12)
+- [US stock market on the move today: Dow climbs toward 50,400 as S&P 500 and Nasdaq also in green - Gold and silver slip while Bitcoin gains](https://economictimes.indiatimes.com/news/international/us/us-stock-market-on-the-move-today-dow-climbs-toward-50400-as-sp-500-and-nasdaq-also-in-green-gold-and-silver-slip-while-bitcoin-gains/articleshow/128263561.cms) (Published: 2026-02-12)
