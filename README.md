@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-13 13:23:23**_
+_Last updated: **2026-02-13 14:11:36**_
 
-- [Mesa 26.0 Rolls Out, Bringing Major Vulkan And Ray-Tracing Improvements For Radeon GPUs On Linux](https://wccftech.com/mesa-26-0-rolls-out-bringing-major-vulkan-and-ray-tracing-improvements-for-radeon-gpus-on-linux/) (Published: 2026-02-12)
-- [Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales](https://www.cnbc.com/2026/02/12/tech-ipo-hype-drowned-out-by-prospect-of-1-trillion-in-debt-sales.html) (Published: 2026-02-12)
-- [An Interview with Ben Thompson by John Collison on the Cheeky Pint Podcast](https://stratechery.com/2026/an-interview-with-ben-thompson-by-john-collison-on-the-cheeky-pint-podcast/) (Published: 2026-02-12)
-- [Asus ROG Strix XG27JCG 27-inch 5K gaming monitor review: Performance that raises the bar](https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg27jcg-27-inch-5k-gaming-monitor-review) (Published: 2026-02-12)
-- [(PR) COLORFUL Announces EVOL P15 Gaming Laptops with NVIDIA GeForce RTX 50-Series Graphics](https://www.techpowerup.com/346279/colorful-announces-evol-p15-gaming-laptops-with-nvidia-geforce-rtx-50-series-graphics) (Published: 2026-02-12)
-- [Armenia Eyes US Investment Boom as Contest for Region Heats Up](https://financialpost.com/pmn/business-pmn/armenia-eyes-us-investment-boom-as-contest-for-region-heats-up) (Published: 2026-02-12)
-- [Montage's strong IPO highlights Chinese investment rush into AI and data center ecosystems — push for self-sufficiency demands immense amounts of capital](https://www.tomshardware.com/tech-industry/artificial-intelligence/montages-strong-ipo-highlights-chinese-investment-rush-into-ai-and-data-center-ecosystems-push-for-self-sufficiency-demands-immense-amounts-of-capital) (Published: 2026-02-12)
-- [“XRP Is Ripple’s North Star,” Brad Garlinghouse Says as Company Eyes Trillion-Dollar Status](https://zycrypto.com/xrp-is-ripples-north-star-brad-garlinghouse-says-as-company-eyes-trillion-dollar-status/) (Published: 2026-02-12)
-- [Brookfield Corporation Reports Record Distributable Earnings Before Realizations of $5.4 billion](https://www.globenewswire.com/news-release/2026/02/12/3237018/0/en/Brookfield-Corporation-Reports-Record-Distributable-Earnings-Before-Realizations-of-5-4-billion.html) (Published: 2026-02-12)
-- [To Be or Not to Be: Hamlet’s Soliloquy and the distance between seeker and sought](https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/to-be-or-not-to-be-hamlets-soliloquy-and-the-distance-between-seeker-and-sought/articleshow/128255747.cms) (Published: 2026-02-12)
+- [Security updates for Thursday](https://lwn.net/Articles/1058473/) (Published: 2026-02-12)
+- [GeForce NOW Turns Screens Into a Gaming Machine](https://blogs.nvidia.com/blog/geforce-now-thursday-amazon-fire-tv-app/) (Published: 2026-02-12)
+- [MSI GeForce RTX 5090 Lightning Z 32 GB GPU Review: The Beast Unleashed](https://wccftech.com/review/msi-geforce-rtx-5090-lightning-z-32-gb-gpu-review-the-beast-unleashed/) (Published: 2026-02-12)
+- [Fine-Tuning Arabic Large Language Models for improved multi-turn dialogue: A blueprint for synthetic data generation and benchmarking](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341905) (Published: 2026-02-12)
+- [Target switching in 2D and 3D visual foraging reveals trade-offs between mental effort, travelling distance and movement speed](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342298) (Published: 2026-02-12)
+- [Dependency-aware self-attention for robust neural machine translation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342772) (Published: 2026-02-12)
+- [A multi-class framework for fish species classification using deep learning technique](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342901) (Published: 2026-02-12)
+- [Plastic Arbor: A modern simulation framework for synaptic plasticity—From single synapses to networks of morphological neurons](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013926) (Published: 2026-02-12)
+- [‘We do not believe this is a bubble’: Taiwan’s 23 million people see a high-flying economy with one major risk](https://fortune.com/2026/02/12/taiwan-economy-ai-bubble-risk-8-6-percent-growth-nvidia-jensen-huang/) (Published: 2026-02-12)
