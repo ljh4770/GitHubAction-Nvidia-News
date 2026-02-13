@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-13 12:03:17**_
+_Last updated: **2026-02-13 13:23:23**_
 
+- [Mesa 26.0 Rolls Out, Bringing Major Vulkan And Ray-Tracing Improvements For Radeon GPUs On Linux](https://wccftech.com/mesa-26-0-rolls-out-bringing-major-vulkan-and-ray-tracing-improvements-for-radeon-gpus-on-linux/) (Published: 2026-02-12)
+- [Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales](https://www.cnbc.com/2026/02/12/tech-ipo-hype-drowned-out-by-prospect-of-1-trillion-in-debt-sales.html) (Published: 2026-02-12)
+- [An Interview with Ben Thompson by John Collison on the Cheeky Pint Podcast](https://stratechery.com/2026/an-interview-with-ben-thompson-by-john-collison-on-the-cheeky-pint-podcast/) (Published: 2026-02-12)
+- [Asus ROG Strix XG27JCG 27-inch 5K gaming monitor review: Performance that raises the bar](https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg27jcg-27-inch-5k-gaming-monitor-review) (Published: 2026-02-12)
+- [(PR) COLORFUL Announces EVOL P15 Gaming Laptops with NVIDIA GeForce RTX 50-Series Graphics](https://www.techpowerup.com/346279/colorful-announces-evol-p15-gaming-laptops-with-nvidia-geforce-rtx-50-series-graphics) (Published: 2026-02-12)
+- [Armenia Eyes US Investment Boom as Contest for Region Heats Up](https://financialpost.com/pmn/business-pmn/armenia-eyes-us-investment-boom-as-contest-for-region-heats-up) (Published: 2026-02-12)
+- [Montage's strong IPO highlights Chinese investment rush into AI and data center ecosystems — push for self-sufficiency demands immense amounts of capital](https://www.tomshardware.com/tech-industry/artificial-intelligence/montages-strong-ipo-highlights-chinese-investment-rush-into-ai-and-data-center-ecosystems-push-for-self-sufficiency-demands-immense-amounts-of-capital) (Published: 2026-02-12)
+- [“XRP Is Ripple’s North Star,” Brad Garlinghouse Says as Company Eyes Trillion-Dollar Status](https://zycrypto.com/xrp-is-ripples-north-star-brad-garlinghouse-says-as-company-eyes-trillion-dollar-status/) (Published: 2026-02-12)
 - [Brookfield Corporation Reports Record Distributable Earnings Before Realizations of $5.4 billion](https://www.globenewswire.com/news-release/2026/02/12/3237018/0/en/Brookfield-Corporation-Reports-Record-Distributable-Earnings-Before-Realizations-of-5-4-billion.html) (Published: 2026-02-12)
 - [To Be or Not to Be: Hamlet’s Soliloquy and the distance between seeker and sought](https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/to-be-or-not-to-be-hamlets-soliloquy-and-the-distance-between-seeker-and-sought/articleshow/128255747.cms) (Published: 2026-02-12)
-- [Who is Tabinda Sampal? The wife of an Indian, Dubai expat, who buys her 3 kg of gold every year](https://timesofindia.indiatimes.com/etimes/trending/who-is-tabinda-sampal-the-wife-of-an-indian-dubai-expat-who-buys-her-3-kg-of-gold-every-year/articleshow/128254596.cms) (Published: 2026-02-12)
-- [Inside Wealth Family Office 15: Most active investment firms of the ultra-wealthy](https://www.cnbc.com/2026/02/12/inside-wealth-family-office-15.html) (Published: 2026-02-12)
-- [VCs break taboo by backing both Anthropic, OpenAI in AI battle](https://economictimes.indiatimes.com/tech/technology/vcs-break-taboo-by-backing-both-anthropic-openai-in-ai-battle/articleshow/128253677.cms) (Published: 2026-02-12)
-- [nvidia-nat-redis 1.5.0a20260212](https://pypi.org/project/nvidia-nat-redis/1.5.0a20260212/) (Published: 2026-02-12)
-- [nvidia-nat-data-flywheel 1.5.0a20260212](https://pypi.org/project/nvidia-nat-data-flywheel/1.5.0a20260212/) (Published: 2026-02-12)
-- [nvidia-nat-semantic-kernel 1.5.0a20260212](https://pypi.org/project/nvidia-nat-semantic-kernel/1.5.0a20260212/) (Published: 2026-02-12)
-- [nvidia-nat-opentelemetry 1.5.0a20260212](https://pypi.org/project/nvidia-nat-opentelemetry/1.5.0a20260212/) (Published: 2026-02-12)
-- [nvidia-nat-openpipe-art 1.5.0a20260212](https://pypi.org/project/nvidia-nat-openpipe-art/1.5.0a20260212/) (Published: 2026-02-12)
