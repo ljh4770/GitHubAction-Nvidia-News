@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-14 15:12:24**_
+_Last updated: **2026-02-14 15:42:39**_
 
 - [Will the changes to IT rules contain deepfakes?](https://www.thehindubusinessline.com/opinion/will-the-changes-to-it-rules-contain-deepfakes/article70629385.ece) (Published: 2026-02-13)
 - [Why Nvidia, Intel and Pinterest crashed today while Rivian and Palantir surge big - AI disruption fears shake US stock market](https://economictimes.indiatimes.com/news/international/us/why-nvidia-intel-and-pinterest-crashed-today-while-rivian-and-palantir-surge-big-ai-disruption-fears-shake-us-stock-market/articleshow/128312887.cms) (Published: 2026-02-13)
