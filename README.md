@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-14 23:34:24**_
+_Last updated: **2026-02-14 23:53:13**_
 
 - [Kiwi Chris Liddell recruited by AI giant Anthropic ahead of its $630 billion IPO](https://www.nzherald.co.nz/business/kiwi-chris-liddell-recruited-by-ai-giant-anthropic-ahead-of-its-630-billion-ipo/QSZXDSRQXJBSLDAKIPEWGBDFEY/) (Published: 2026-02-13)
 - [Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html) (Published: 2026-02-13)
