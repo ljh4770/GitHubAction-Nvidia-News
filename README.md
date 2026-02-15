@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-15 17:56:28**_
+_Last updated: **2026-02-15 18:41:28**_
 
+- [Windows 98 on a 2020 ThinkPad P14s Gen 1 Laptop](https://hackaday.com/2026/02/14/windows-98-on-a-2020-thinkpad-p14s-gen-1-laptop/) (Published: 2026-02-14)
 - [AI will usher a golden age of Dum Pukht](https://economictimes.indiatimes.com/opinion/et-commentary/ai-will-usher-a-golden-age-of-dum-pukht/articleshow/128355220.cms) (Published: 2026-02-14)
 - [India doubles down on state-backed venture capital, approving $1.1B fund | TechCrunch](https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/) (Published: 2026-02-14)
 - [India doubles down on state-backed venture capital, approving $1.1B fund](https://finance.yahoo.com/news/india-doubles-down-state-backed-162322847.html) (Published: 2026-02-14)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-15 17:56:28**_
 - [The Latest US-Taiwan Trade Agreement Boosts Investment Climate for America’s Chip Supply Chain, Protecting TSMC & Others From Tariff Risks](https://wccftech.com/the-us-taiwan-trade-agreement-boosts-investment-climate-for-america-chip-supply-chain/) (Published: 2026-02-14)
 - [Who’s Left In the 10x ARR Club? The Incredible Shrinking Elite of Public B2B Companies Still Trading at 10x+ Revenue. But … The Best Is Yet To Come.](https://www.saastr.com/whos-left-in-the-10x-arr-club-the-incredible-shrinking-elite-of-public-b2b-companies-still-trading-at-10x-revenue-but-the-best-is-yet-to-come/) (Published: 2026-02-14)
 - [Nioh 3](https://me.pcmag.com/en/sony-playstation-games/35330/nioh-3) (Published: 2026-02-14)
-- [Nioh 3](https://uk.pcmag.com/sony-playstation-games/163170/nioh-3) (Published: 2026-02-14)
