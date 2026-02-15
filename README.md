@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-15 16:42:01**_
+_Last updated: **2026-02-15 17:03:08**_
 
 - [India doubles down on state-backed venture capital, approving $1.1B fund | TechCrunch](https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/) (Published: 2026-02-14)
 - [India doubles down on state-backed venture capital, approving $1.1B fund](https://finance.yahoo.com/news/india-doubles-down-state-backed-162322847.html) (Published: 2026-02-14)
