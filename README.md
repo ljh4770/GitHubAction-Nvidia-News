@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-15 17:37:23**_
+_Last updated: **2026-02-15 17:56:28**_
 
 - [AI will usher a golden age of Dum Pukht](https://economictimes.indiatimes.com/opinion/et-commentary/ai-will-usher-a-golden-age-of-dum-pukht/articleshow/128355220.cms) (Published: 2026-02-14)
 - [India doubles down on state-backed venture capital, approving $1.1B fund | TechCrunch](https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/) (Published: 2026-02-14)
