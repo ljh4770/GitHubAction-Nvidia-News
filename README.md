@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-15 11:31:16**_
+_Last updated: **2026-02-15 11:49:40**_
 
+- [Nvidia CEO Jenseng Huang to skip India AI Impact Summit next week](https://www.business-standard.com/india-news/nvidia-ceo-jenseng-huang-to-skip-india-ai-impact-summit-next-week-126021401026_1.html) (Published: 2026-02-14)
 - [Nvidia CEO Jensen Huang won't attend India AI summit next week, says company](https://www.moneycontrol.com/news/business/information-technology/nvidia-ceo-jensen-huang-won-t-attend-india-ai-summit-next-week-says-company-13828420.html) (Published: 2026-02-14)
 - [Google、Amazon、Meta、Apple、Microsoft、NVIDIA、Tesla←この中で即落ちぶれそうな企業](http://blog.livedoor.jp/nanjstu/archives/63009399.html) (Published: 2026-02-14)
 - [Nvidia CEO Huang won't attend India AI summit next week, company says](https://www.channelnewsasia.com/business/nvidia-ceo-huang-wont-attend-india-ai-summit-next-week-company-says-5931486) (Published: 2026-02-14)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-15 11:31:16**_
 - [Save up to $1,250 off an Alienware gaming computer in the President's Day weekend sale — laptop and desktop gaming PCs show massive discounts](https://www.tomshardware.com/desktops/gaming-pcs/save-up-to-usd1-250-off-an-alienware-gaming-computer-in-the-presidents-day-weekend-sale-laptop-and-desktop-gaming-pcs-show-massive-discounts) (Published: 2026-02-14)
 - [nvidia-nat-redis 1.5.0a20260214](https://pypi.org/project/nvidia-nat-redis/1.5.0a20260214/) (Published: 2026-02-14)
 - [nvidia-nat-opentelemetry 1.5.0a20260214](https://pypi.org/project/nvidia-nat-opentelemetry/1.5.0a20260214/) (Published: 2026-02-14)
-- [nvidia-nat-openpipe-art 1.5.0a20260214](https://pypi.org/project/nvidia-nat-openpipe-art/1.5.0a20260214/) (Published: 2026-02-14)
