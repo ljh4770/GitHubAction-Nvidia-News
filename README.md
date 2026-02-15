@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-15 04:10:20**_
+_Last updated: **2026-02-15 05:34:16**_
 
+- [Get Resident Evil Requiem with Eligible Purchases of Select GeForce RTX 50 Series Laptops, Desktops, or Graphics Cards](https://www.ozbargain.com.au/node/948258) (Published: 2026-02-14)
 - [India says world leaders, tech bosses to attend AI summit](https://economictimes.indiatimes.com/tech/artificial-intelligence/india-says-world-leaders-tech-bosses-to-attend-ai-summit/articleshow/128333332.cms) (Published: 2026-02-14)
 - [US Stocks Today | S&P 500 ends up slightly as tech dips, inflation cools](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-ends-up-slightly-as-tech-dips-inflation-cools/articleshow/128332192.cms) (Published: 2026-02-14)
 - [Nvidia deepens South Korea ties in smart factory push](https://www.digitimes.com/news/a20260213PD216/nvidia-manufacturing-2026-software-semiconductors.html) (Published: 2026-02-14)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-15 04:10:20**_
 - [Zotac RTX 5080 Solid OC - Open Box w/2-year warranty - $1124.99 + FS (6 replies)](https://slickdeals.net/f/19208296-zotac-rtx-5080-solid-oc-open-box-w-2-year-warranty-1124-99-fs) (Published: 2026-02-14)
 - [Pharma Rewires Drug Development With AI Operations](https://www.pymnts.com/news/artificial-intelligence/2026/pharma-rewires-drug-development-with-ai-operations/) (Published: 2026-02-14)
 - [I'm skipping AM5, and here's why it makes sense](https://www.xda-developers.com/why-im-skipping-am5/) (Published: 2026-02-14)
-- [Kiwi Chris Liddell recruited by AI giant Anthropic ahead of its $630 billion IPO](https://www.nzherald.co.nz/business/kiwi-chris-liddell-recruited-by-ai-giant-anthropic-ahead-of-its-630-billion-ipo/QSZXDSRQXJBSLDAKIPEWGBDFEY/) (Published: 2026-02-13)
