@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-15 05:34:16**_
+_Last updated: **2026-02-15 06:29:29**_
 
 - [Get Resident Evil Requiem with Eligible Purchases of Select GeForce RTX 50 Series Laptops, Desktops, or Graphics Cards](https://www.ozbargain.com.au/node/948258) (Published: 2026-02-14)
 - [India says world leaders, tech bosses to attend AI summit](https://economictimes.indiatimes.com/tech/artificial-intelligence/india-says-world-leaders-tech-bosses-to-attend-ai-summit/articleshow/128333332.cms) (Published: 2026-02-14)
