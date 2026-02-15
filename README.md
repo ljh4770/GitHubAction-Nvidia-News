@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-15 19:13:24**_
+_Last updated: **2026-02-15 19:40:08**_
 
+- [Why There's Simply No Need For Dual Graphics Cards Anymore](https://www.bgr.com/2097997/why-no-one-uses-dual-graphics-cards-anymore/) (Published: 2026-02-14)
 - [Show HN: File Brain – Local file search with OCR and semantic search](https://github.com/Hamza5/file-brain) (Published: 2026-02-14)
 - [Windows 98 on a 2020 ThinkPad P14s Gen 1 Laptop](https://hackaday.com/2026/02/14/windows-98-on-a-2020-thinkpad-p14s-gen-1-laptop/) (Published: 2026-02-14)
 - [AI will usher a golden age of Dum Pukht](https://economictimes.indiatimes.com/opinion/et-commentary/ai-will-usher-a-golden-age-of-dum-pukht/articleshow/128355220.cms) (Published: 2026-02-14)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-15 19:13:24**_
 - [How China built a chip industry, and why it's still not enough](https://economictimes.indiatimes.com/tech/technology/how-china-built-a-chip-industry-and-why-its-still-not-enough/articleshow/128352817.cms) (Published: 2026-02-14)
 - [Enthusiast scores watercooled dual Nvidia GTX Titan X GPUs for $86 — $1,000 older flagship graphics card with custom water cooling for a bargain](https://www.tomshardware.com/pc-components/gpus/enthusiast-scores-watercooled-dual-nvidia-gtx-titan-x-gpus-for-usd86-usd1-000-older-flagship-graphics-card-with-custom-water-cooling-for-a-bargain) (Published: 2026-02-14)
 - [The Latest US-Taiwan Trade Agreement Boosts Investment Climate for America’s Chip Supply Chain, Protecting TSMC & Others From Tariff Risks](https://wccftech.com/the-us-taiwan-trade-agreement-boosts-investment-climate-for-america-chip-supply-chain/) (Published: 2026-02-14)
-- [Who’s Left In the 10x ARR Club? The Incredible Shrinking Elite of Public B2B Companies Still Trading at 10x+ Revenue. But … The Best Is Yet To Come.](https://www.saastr.com/whos-left-in-the-10x-arr-club-the-incredible-shrinking-elite-of-public-b2b-companies-still-trading-at-10x-revenue-but-the-best-is-yet-to-come/) (Published: 2026-02-14)
