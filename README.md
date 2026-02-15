@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-15 08:29:22**_
+_Last updated: **2026-02-15 08:59:32**_
 
+- [Why did OpenAI run Codex on Cerebras chips? #tech](https://alltoc.com/tech/why-did-openai-run-codex-on-cerebras-chips) (Published: 2026-02-14)
 - [OpenAI Launches OpenAI for Healthcare: 4 Key Focus Areas — Care Quality, Admin Efficiency, Clinical Solutions, Health Data Protection](https://blockchain.news/flashnews/openai-launches-openai-for-healthcare-4-key-focus-areas-care-quality-admin-efficiency-clinical-solutions-health-data-protection) (Published: 2026-02-14)
 - [Acer Veriton GN100 AI mini PC workstation - another AI development system using the same Nvidia Grace Blackwell foundations](https://www.techradar.com/computing/acer-veriton-gn100-ai-mini-pc-workstation-review) (Published: 2026-02-14)
 - [US Justice Department sues Harvard over access to race data in admissions](https://timesofindia.indiatimes.com/education/news/us-justice-department-sues-harvard-over-access-to-data-on-race-in-admissions/articleshow/128337504.cms) (Published: 2026-02-14)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-15 08:29:22**_
 - [US Stocks Today | S&P 500 ends up slightly as tech dips, inflation cools](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-ends-up-slightly-as-tech-dips-inflation-cools/articleshow/128332192.cms) (Published: 2026-02-14)
 - [Nvidia deepens South Korea ties in smart factory push](https://www.digitimes.com/news/a20260213PD216/nvidia-manufacturing-2026-software-semiconductors.html) (Published: 2026-02-14)
 - [US withdraws newly updated list of firms allegedly aiding China's military](https://www.channelnewsasia.com/east-asia/us-withdraws-list-firms-china-pentagon-alibaba-baidu-5930091) (Published: 2026-02-14)
-- [Ahead of IPO, Anthropic adds veteran executive and former Trump administration official to board](https://sherwood.news/tech/ahead-of-ipo-anthropic-adds-veteran-executive-and-former-trump/) (Published: 2026-02-14)
