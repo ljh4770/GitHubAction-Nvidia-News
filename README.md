@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-16 16:39:04**_
+_Last updated: **2026-02-16 17:24:36**_
 
+- [Grab this gigantic, 1600W 80+ Platinum power supply for just 33 cents per watt — Seasonic's Prime TX 1600W is down to just $532](https://www.tomshardware.com/pc-components/grab-this-gigantic-1600w-80-platinum-power-supply-for-just-33-cents-per-watt-seasonics-prime-tx-1600w-is-down-to-just-usd532) (Published: 2026-02-15)
 - [3 Predictions for Nvidia in 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1253b2a3-8749-43b2-8e38-119ee798788e) (Published: 2026-02-15)
 - [Lenovo ThinkPad P14s with Nvidia RTX GPU, 32GB RAM and 3K 120Hz display hits lowest price ever](https://www.notebookcheck.net/Lenovo-ThinkPad-P14s-with-Nvidia-RTX-GPU-32GB-RAM-and-3K-120Hz-display-hits-lowest-price-ever.1226891.0.html) (Published: 2026-02-15)
 - [TT Games downgrades PC requirements after initially suggesting players needed 32GB RAM to meet "recommended" spec](https://www.eurogamer.net/tt-games-downgrades-pc-requirements-after-initially-suggesting-players-needed-32gb-ram-to-meet-recommended-spec) (Published: 2026-02-15)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-16 16:39:04**_
 - ['Taipei Is Home': Nvidia Seals The Deal On Massive New Taiwan Headquarters](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_71aca99e-0f72-4635-93bf-7615e9eba7e1) (Published: 2026-02-15)
 - [Jim Cramer Discusses Broadcom (AVGO) Stock](https://finance.yahoo.com/news/jim-cramer-discusses-broadcom-avgo-151357096.html) (Published: 2026-02-15)
 - [NVIDIA (NVDA) Invented Its Category, Says Jim Cramer](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0872f82b-95e8-47a0-b07f-6322938478a4) (Published: 2026-02-15)
-- [Windows 11 is testing new 2026 features — and some of them are already changing how the OS feels - Windows Central](https://slashdot.org/firehose.pl?op=view&amp;id=180795836) (Published: 2026-02-15)
