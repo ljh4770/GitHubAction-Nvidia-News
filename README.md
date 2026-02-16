@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-16 04:33:13**_
+_Last updated: **2026-02-16 05:52:01**_
 
 - [Anthropic clinches $380 billion valuation after $30 billion funding round](https://economictimes.indiatimes.com/tech/funding/anthropic-clinches-380-billion-valuation-after-30-billion-funding-round/articleshow/128370903.cms) (Published: 2026-02-15)
 - [OpenAI drops 'safely' from mission as new structure tests AI's loyalties](https://www.business-standard.com/technology/tech-news/openai-drops-safely-from-mission-as-new-structure-tests-ai-s-loyalties-126021500074_1.html) (Published: 2026-02-15)
