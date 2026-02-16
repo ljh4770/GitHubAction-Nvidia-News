@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-16 11:23:39**_
+_Last updated: **2026-02-16 11:58:32**_
 
 - [Процесс «Isolated Web Content» в Firefox потребляет 100% CPU ядра.](https://www.linux.org.ru/forum/desktop/18221137) (Published: 2026-02-15)
 - [nvfuser-cu128-torch210 added to PyPI](https://pypi.org/project/nvfuser-cu128-torch210/) (Published: 2026-02-15)
