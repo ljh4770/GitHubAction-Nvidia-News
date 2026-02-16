@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-16 14:13:48**_
+_Last updated: **2026-02-16 15:03:39**_
 
+- [Windows 11 is testing new 2026 features — and some of them are already changing how the OS feels - Windows Central](https://slashdot.org/firehose.pl?op=view&amp;id=180795836) (Published: 2026-02-15)
 - [Presidents Day holiday U.S Stock Market: Are S&P 500, Nasdaq, Dow Jones, NYSE open on Monday, February 16?](https://economictimes.indiatimes.com/news/international/us/presidents-day-holiday-u-s-stock-market-are-sp-500-nasdaq-dow-jones-nyse-open-on-monday-february-16/articleshow/128385064.cms) (Published: 2026-02-15)
 - [Analysts Reaffirm Buy on CoreWeave (CRWV) Following Expanded NVIDIA Partnership and Growth Plans](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d7cb8a2c-9aac-4523-9dbc-428edd8a8193) (Published: 2026-02-15)
 - [Meet the American spies who helped mammograms save more lives](https://fortune.com/2026/02/15/breast-cancer-american-spies-missiles-to-mammograms/) (Published: 2026-02-15)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-16 14:13:48**_
 - [Want a mortgage for under 3% in 2026? Meet the 'assumable mortgage'](https://www.npr.org/2026/02/15/nx-s1-5704697/assumable-mortgage-rates-housing-market) (Published: 2026-02-15)
 - [Процесс «Isolated Web Content» в Firefox потребляет 100% CPU ядра.](https://www.linux.org.ru/forum/desktop/18221137) (Published: 2026-02-15)
 - [nvfuser-cu128-torch210 added to PyPI](https://pypi.org/project/nvfuser-cu128-torch210/) (Published: 2026-02-15)
-- [nvfuser-cu126-torch210 added to PyPI](https://pypi.org/project/nvfuser-cu126-torch210/) (Published: 2026-02-15)
