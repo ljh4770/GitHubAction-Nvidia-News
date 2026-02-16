@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-16 23:39:18**_
+_Last updated: **2026-02-16 23:58:50**_
 
 - [Announcing the 2026 TechRadar Australian PC Awards finalists](https://www.techradar.com/computing/announcing-the-2026-techradar-australian-pc-awards-finalists) (Published: 2026-02-15)
 - [Huang and Pichai among tech CEOs heading to India for major AI summit in a key market](https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html) (Published: 2026-02-15)
