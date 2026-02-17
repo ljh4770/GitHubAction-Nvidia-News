@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-17 23:04:38**_
+_Last updated: **2026-02-17 23:41:22**_
 
+- [India’s Neysa raises $1.2B to expand its AI-optimized cloud platform](https://siliconangle.com/2026/02/16/indias-neysa-raises-1-2b-expand-ai-optimized-cloud-platform/) (Published: 2026-02-16)
 - [Stock market doom loop hitting everything touching AI...](https://www.ocregister.com/2026/02/16/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai/) (Published: 2026-02-16)
 - [Where Are We?](https://doc.searls.com/2026/02/16/where-are-we/) (Published: 2026-02-16)
 - [Alibaba releases multimodal Qwen3.5 mixture of experts model](https://siliconangle.com/2026/02/16/alibaba-releases-multimodal-qwen3-5-mixture-experts-model/) (Published: 2026-02-16)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-17 23:04:38**_
 - [sparkrun added to PyPI](https://pypi.org/project/sparkrun/) (Published: 2026-02-16)
 - [MSI’s Cyborg gaming laptop with RTX 5060 GPU, translucent side panels, more is $300 off for Presidents Day](http://9to5toys.com/2026/02/16/msi-cyborg-gaming-laptop-rtx-5060-gpu-300-off/) (Published: 2026-02-16)
 - [Revive Faces 2.0.13](https://post.rlsbb.to/revive-faces-2-0-13/) (Published: 2026-02-16)
-- [Scale Photo Up 2.0.13](https://post.rlsbb.to/scale-photo-up-2-0-13/) (Published: 2026-02-16)
