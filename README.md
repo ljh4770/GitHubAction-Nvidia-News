@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-16 23:58:50**_
+_Last updated: **2026-02-17 02:51:39**_
 
+- [fps-player-analysis-tool added to PyPI](https://pypi.org/project/fps-player-analysis-tool/) (Published: 2026-02-16)
+- [【開催支援】関西電力主催の「生成AIハッカソン」に協力。H100 GPU等の強力な計算資源を提供し、「空間を理解するAI」の開発を支援](https://prtimes.jp/main/html/rd/p/000000031.000137954.html) (Published: 2026-02-16)
+- [nemo-evaluator 0.1.82](https://pypi.org/project/nemo-evaluator/0.1.82/) (Published: 2026-02-16)
+- [Rampant AI demand for memory is fueling a growing chip crisis](https://fortune.com/2026/02/15/ai-demand-memory-chip-shortage-crisis-dram-hbm-micron-skhynix-samsung/) (Published: 2026-02-16)
+- [India AI Summit: From Jensen Huang to Sundar Pichai — tech CEOs likely to attend major expo in Delhi](https://www.livemint.com/companies/people/india-ai-summit-from-jensen-huang-to-sundar-pichai-tech-ceos-likely-to-attend-major-expo-in-delhi-11771201216706.html) (Published: 2026-02-16)
+- [Nvidia CEO Jensen Huang skips India AI Impact Summit citing unforeseen circumstances](https://www.digitimes.com/news/a20260216VL202/nvidia-jensen-huang-expo-2026.html) (Published: 2026-02-16)
+- [Ubuntu 26.04 splits firmware package to reduce update sizes](https://www.omgubuntu.co.uk/2026/02/ubuntu-26-04-firmware-split) (Published: 2026-02-16)
+- [Windows 11 KB5077181 Security Update Causing Some Devices to Restart in an Infinite Loop - CybersecurityNews](https://slashdot.org/firehose.pl?op=view&amp;id=180800466) (Published: 2026-02-16)
+- [Don't buy a Steam Machine even if your PC is half-a-decade old](https://www.xda-developers.com/do-this-instead-of-getting-a-steam-machine-on-older-hardware/) (Published: 2026-02-16)
 - [Announcing the 2026 TechRadar Australian PC Awards finalists](https://www.techradar.com/computing/announcing-the-2026-techradar-australian-pc-awards-finalists) (Published: 2026-02-15)
-- [Huang and Pichai among tech CEOs heading to India for major AI summit in a key market](https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html) (Published: 2026-02-15)
-- [Save $300 on thie Asus gaming laptop and score two free games - but only for a limited time](https://www.zdnet.com/article/asus-rog-strix-g18-deal/) (Published: 2026-02-15)
-- [Is NVIDIA (NVDA) Clifford Asness’ Top Pick?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_17ce5862-e4f6-4324-a747-54f880c59fb2) (Published: 2026-02-15)
-- [babincli 1.3.7](https://pypi.org/project/babincli/1.3.7/) (Published: 2026-02-15)
-- [The ultimate 4-ETF portfolio for ASX investors in 2026](https://www.fool.com.au/2026/02/16/the-ultimate-4-etf-portfolio-for-asx-investors-in-2026/) (Published: 2026-02-15)
-- [GPUnex – Rent enterprise GPUs, monetize idle hardware, or invest](https://betalist.com/startups/gpunex) (Published: 2026-02-15)
-- [Food Companies Say AI Plays Only Limited Role in Products](https://www.pymnts.com/artificial-intelligence-2/2026/food-companies-say-ai-plays-only-limited-role-in-products/) (Published: 2026-02-15)
-- [babincli 1.3.6](https://pypi.org/project/babincli/1.3.6/) (Published: 2026-02-15)
-- [Will Micron Be the Next Nvidia -- or the Next Intel? - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=180798380) (Published: 2026-02-15)
