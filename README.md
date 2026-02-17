@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-17 16:37:57**_
+_Last updated: **2026-02-17 17:40:32**_
 
-- [Grab the HP Omen 35L prebuilt gaming PC for $360 off with 64GB RAM, Intel Core Ultra 9 and RTX 5080 — Presidents' Day deal sees price drop to under $3,000](https://www.tomshardware.com/pc-components/grab-the-hp-omen-35l-prebuilt-gaming-pc-for-usd360-off-with-64gb-ram-intel-core-ultra-9-and-rtx-5080-presidents-day-deal-sees-price-drop-to-under-usd3-000) (Published: 2026-02-16)
-- [Nvidia Stock Just Did This for the First Time in Nearly a Year. History is Very Clear About What Happens Next. - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=180803496) (Published: 2026-02-16)
-- [‘It’s bonkers’: Newegg sells a $229 16-core Xeon mini PC with a true Nvidia video card, 8GB RAM, 256GB SSD and is barely slower than Apple M3](https://www.techradar.com/pro/its-bonkers-newegg-sells-a-usd229-16-core-xeon-mini-pc-with-a-true-nvidia-video-card-8gb-ram-256gb-ssd-and-is-barely-slower-than-apple-m3) (Published: 2026-02-16)
-- [Is Nvidia Stock Going to $300?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_234f4638-9c2e-4f41-9aee-ccda796d0af9) (Published: 2026-02-16)
-- [I've found 3 high-performance video editing laptops with massive price-cuts in Lenovo Presidents' Day sales - unmissable deals for content creators](https://www.techradar.com/pro/ive-found-3-high-performance-video-editing-laptops-with-massive-price-cuts-in-lenovo-presidents-day-sales-unmissable-deals-for-content-creators) (Published: 2026-02-16)
-- [Top Business & Market Headlines Today — BL Morning Report, Feb 17, 2026](https://www.thehindubusinessline.com/multimedia/audio/bl-morning-report-february-17-2026/article70639090.ece) (Published: 2026-02-16)
-- [Show HN: Maths, CS and AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) (Published: 2026-02-16)
-- [Today’s Hot Deals: Samsung Galaxy Tab A9+ Plus Tablet, Apple Watch Series 11, Alienware 16 Aurora Laptop, INSIGNIA 55-inch 4K Smart TV, and MORE!](https://www.geeksaresexy.net/2026/02/16/todays-hot-deals-samsung-galaxy-tab-a9-plus-tablet-apple-watch-series-11-alienware-16-aurora-laptop-insignia-55-inch-4k-smart-tv-and-more/) (Published: 2026-02-16)
-- [MSI RTX 5090 Lightning now costs up to $15K on eBay — but there's a better way to buy the GPU](https://www.techradar.com/computing/gpu/msi-rtx-5090-lightning-now-costs-up-to-usd15k-on-ebay-but-theres-a-better-way-to-buy-the-gpu) (Published: 2026-02-16)
+- [SoftBank Believes AMD’s GPUs Can Become Far More Useful for AI Thanks to a ‘Divide and Conquer’ Compute Strategy](https://wccftech.com/softbank-believes-amd-gpus-can-become-far-more-useful-for-ai/) (Published: 2026-02-16)
+- [SoftBank’s $4.2bn OpenAI gain lifts quarterly profits as AI exposure deepens — company swings back to profitability in Q3 results](https://www.tomshardware.com/tech-industry/softbank-4-2-bn-openai-gain-lifts-quarterly-profit-as-ai-exposure-deepens) (Published: 2026-02-16)
+- [Michael Selig: Prediction markets are reshaping pop culture engagement, the CFTC’s pivotal role in regulation, and insider trading complexities in commodities | Odd Lots](https://cryptobriefing.com/michael-selig-prediction-markets-are-reshaping-pop-culture-engagement-the-cftcs-pivotal-role-in-regulation-and-insider-trading-complexities-in-commodities-odd-lots-2/) (Published: 2026-02-16)
+- [How the rich pass on their wealth. And how you can too](https://abcnews.com/Business/wireStory/rich-pass-wealth-130206608) (Published: 2026-02-16)
+- [How Ricursive Intelligence raised $335M at a $4B valuation in 4 months | TechCrunch](https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/) (Published: 2026-02-16)
+- [New Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI](https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/) (Published: 2026-02-16)
+- [NVIDIA’s Blackwell Ultra Pushes “Agentic AI” Performance to New Heights, Delivering Up to 50× Higher Tokens/Watt & Stronger Long-Context Workloads](https://wccftech.com/nvidias-blackwell-ultra-pushes-agentic-ai-performance-to-new-heights/) (Published: 2026-02-16)
+- [Panasonic 65-Inch Z95B OLED TV](https://me.pcmag.com/en/tvs/35348/panasonic-65-inch-z95b-oled-tv) (Published: 2026-02-16)
+- [Panasonic 65-Inch Z95B OLED TV](https://uk.pcmag.com/tvs/163189/panasonic-65-inch-z95b-oled-tv) (Published: 2026-02-16)
+- [Lenovo LOQ 13th-Gen. i5 15.6" Gaming Laptop w/ Nvidia RTX 3050 for $579 + free shipping](https://www.dealnews.com/Lenovo-LOQ-13-th-Gen-i5-15-6-Gaming-Laptop-w-Nvidia-RTX-3050-for-579-free-shipping/21810564.html) (Published: 2026-02-16)
