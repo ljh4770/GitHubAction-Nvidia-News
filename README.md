@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-18 08:58:16**_
+_Last updated: **2026-02-18 09:58:35**_
 
+- [nvfuser-cu126 0.2.35.dev20260217](https://pypi.org/project/nvfuser-cu126/0.2.35.dev20260217/) (Published: 2026-02-17)
+- [Show HN: Llmfit;94 models, 30 providers.1 tool to see what runs on your hardware](https://github.com/AlexsJones/llmfit) (Published: 2026-02-17)
+- [nvfuser-cu128 0.2.35.dev20260217](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260217/) (Published: 2026-02-17)
+- [nvfuser-cu130 0.2.35.dev20260217](https://pypi.org/project/nvfuser-cu130/0.2.35.dev20260217/) (Published: 2026-02-17)
+- [Will Bill Gates attend AI Impact Summit? Conflicting claims emerge](https://www.thehindubusinessline.com/news/will-bill-gates-attend-ai-impact-summit-conflicting-claims-emerge/article70642277.ece) (Published: 2026-02-17)
+- [Taiwan Data Center Market Investment Analysis Report 2026-2031 Featuring Key DC Investors - Acer eDC, Chief Telecom, Chunghwa Telecom, Far EasTone, NTT, Taiwan Mobile, and Vantage Data Centers](https://www.globenewswire.com/news-release/2026/02/17/3238978/28124/en/Taiwan-Data-Center-Market-Investment-Analysis-Report-2026-2031-Featuring-Key-DC-Investors-Acer-eDC-Chief-Telecom-Chunghwa-Telecom-Far-EasTone-NTT-Taiwan-Mobile-and-Vantage-Data-Cen.html) (Published: 2026-02-17)
+- [New Zealand Data Center Market Investment Analysis Reports 2026-2031: Datacom and NEXTDC are Leading Investments, While Prominent IT and Infrastructure Firms Support Developments](https://www.globenewswire.com/news-release/2026/02/17/3238976/28124/en/New-Zealand-Data-Center-Market-Investment-Analysis-Reports-2026-2031-Datacom-and-NEXTDC-are-Leading-Investments-While-Prominent-IT-and-Infrastructure-Firms-Support-Developments.html) (Published: 2026-02-17)
+- [Cohere launches a family of open multilingual models | TechCrunch](https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/) (Published: 2026-02-17)
+- [I became a master of stealth in Styx: Blades of Greed and finished my playthrough with hundreds of guards kicked off cliffs, countless coins pilfered, and a full arsenal of magical abilities](https://www.techradar.com/gaming/styx-blades-of-greed-review) (Published: 2026-02-17)
 - [Palantir vs. Nvidia: Wall Street Says This Is the Best AI Stock to Buy Now](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f774c039-69db-4334-a98c-4d396195b079) (Published: 2026-02-17)
-- [Don’t throw away your old GTX 1060: Use it as a dedicated ‘Frame Gen’ card](https://www.madshrimps.be/news/dont-throw-away-your-old-gtx-1060-use-it-as-a-dedicated-frame-gen-card/) (Published: 2026-02-17)
-- [Fact Check: Is Bill Gates attending AI Summit? Here's what Gates Foundation said](https://www.livemint.com/companies/news/fact-check-is-bill-gates-attending-ai-impact-summit-in-delhi-heres-what-gates-foundation-has-said-11771311647562.html) (Published: 2026-02-17)
-- [Show HN: My attempt to make Vector search engine in Rust(350k Items, ~3.5ms Qs)](https://github.com/ronakgh97/blaze-db) (Published: 2026-02-17)
-- [The Limited Edition Gundam Themed iBuypower RTX 5070 Ti Gaming PC Drops to $2,349 for Presidents Day](https://www.ign.com/articles/gundam-themed-ibuypower-rtx-5070-ti-gaming-pc-deal-for-presidents-day) (Published: 2026-02-17)
-- [sparkrun 0.0.6](https://pypi.org/project/sparkrun/0.0.6/) (Published: 2026-02-17)
-- [3 amazing ASX ETFs for beginners to buy](https://www.fool.com.au/2026/02/17/3-amazing-asx-etfs-for-beginners-to-buy/) (Published: 2026-02-17)
-- [Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis](https://www.insurancejournal.com/news/international/2026/02/17/858151.htm) (Published: 2026-02-17)
-- [Next trillion dollars of India’s mcap could create more wealth than the last: Raamdeo Agrawal](https://www.livemint.com/money/personal-finance/raamdeo-agrawal-motilal-oswal-financial-services-market-capitalization-11771262186895.html) (Published: 2026-02-17)
-- [Show HN: OpenClaw alternative with no API costs](https://github.com/openconstruct/freeclaw) (Published: 2026-02-17)
