@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-18 07:16:41**_
+_Last updated: **2026-02-18 08:00:38**_
 
+- [Don’t throw away your old GTX 1060: Use it as a dedicated ‘Frame Gen’ card](https://www.madshrimps.be/news/dont-throw-away-your-old-gtx-1060-use-it-as-a-dedicated-frame-gen-card/) (Published: 2026-02-17)
+- [Fact Check: Is Bill Gates attending AI Summit? Here's what Gates Foundation said](https://www.livemint.com/companies/news/fact-check-is-bill-gates-attending-ai-impact-summit-in-delhi-heres-what-gates-foundation-has-said-11771311647562.html) (Published: 2026-02-17)
 - [Show HN: My attempt to make Vector search engine in Rust(350k Items, ~3.5ms Qs)](https://github.com/ronakgh97/blaze-db) (Published: 2026-02-17)
 - [The Limited Edition Gundam Themed iBuypower RTX 5070 Ti Gaming PC Drops to $2,349 for Presidents Day](https://www.ign.com/articles/gundam-themed-ibuypower-rtx-5070-ti-gaming-pc-deal-for-presidents-day) (Published: 2026-02-17)
 - [sparkrun 0.0.6](https://pypi.org/project/sparkrun/0.0.6/) (Published: 2026-02-17)
@@ -9,5 +11,3 @@ _Last updated: **2026-02-18 07:16:41**_
 - [Next trillion dollars of India’s mcap could create more wealth than the last: Raamdeo Agrawal](https://www.livemint.com/money/personal-finance/raamdeo-agrawal-motilal-oswal-financial-services-market-capitalization-11771262186895.html) (Published: 2026-02-17)
 - [Show HN: OpenClaw alternative with no API costs](https://github.com/openconstruct/freeclaw) (Published: 2026-02-17)
 - [US Market | Disruption vs Returns: The tug-of-war driving AI market volatility](https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-disruption-vs-returns-the-tug-of-war-driving-ai-market-volatility/articleshow/128449184.cms) (Published: 2026-02-17)
-- [Cybersecurity jobs available right now: February 17, 2026](https://www.helpnetsecurity.com/2026/02/17/cybersecurity-jobs-available-right-now-february-17-2026/) (Published: 2026-02-17)
-- [US Stocks Today | Big tech faces valuation reset as AI spending scrutiny rises](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-big-tech-faces-valuation-reset-as-ai-spending-scrutiny-rises/articleshow/128448857.cms) (Published: 2026-02-17)
