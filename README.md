@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-18 22:00:21**_
+_Last updated: **2026-02-18 22:45:41**_
 
+- [Apple Releases iOS 26.4 Public Beta 1 And Much More](https://wccftech.com/apple-releases-ios-26-4-public-beta-1-and-much-more/) (Published: 2026-02-17)
+- [sparkrun 0.0.13](https://pypi.org/project/sparkrun/0.0.13/) (Published: 2026-02-17)
+- [AI factory boom in Taiwan fuels construction and land plays](https://www.digitimes.com/news/a20260213PD200/nvidia-growth-infrastructure-development-materials.html) (Published: 2026-02-17)
+- [Amazon's $200 billion capex plan: How I learned to stop worrying and love negative free cash flow](https://www.theregister.com/2026/02/17/amazons_200_billion_capex_plan/) (Published: 2026-02-17)
+- [Topping the GPU MODE Kernel Leaderboard with NVIDIA cuda.compute](https://developer.nvidia.com/blog/topping-the-gpu-mode-kernel-leaderboard-with-nvidia-cuda-compute/) (Published: 2026-02-17)
+- [How NVIDIA Extreme Hardware-Software Co-Design Delivered a Large Inference Boost for Sarvam AI’s Sovereign Models](https://developer.nvidia.com/blog/how-nvidia-extreme-hardware-software-co-design-delivered-a-large-inference-boost-for-sarvam-ais-sovereign-models/) (Published: 2026-02-17)
+- [Meta and NVIDIA Join Forces: Why Personal Superintelligence is Coming to You](https://www.iphoneincanada.ca/2026/02/17/meta-and-nvidia-join-forces-why-personal-superintelligence-is-coming-to-you/) (Published: 2026-02-17)
+- [Some users report Windows 11’s February update, KB5077181, is failing to install and causing a range of system issues](https://www.windowscentral.com/microsoft/windows-11/windows-11-february-update-kb5077181-hits-installation-errors-and-system-issues) (Published: 2026-02-17)
+- [Can Nvidia’s stock approach $400? Here’s why earnings may mark the start of a big rally. - MarketWatch](https://slashdot.org/firehose.pl?op=view&amp;id=180818896) (Published: 2026-02-17)
 - [US equities close with slight gains as tech shares recover](https://www.straitstimes.com/business/companies-markets/us-equities-close-with-slight-gains-as-tech-shares-recover) (Published: 2026-02-17)
-- [General Mills Sinks 7% After Warning of Customer Unease](https://www.newser.com/story/383906/general-mills-sinks-7-after-warning-of-customer-unease.html) (Published: 2026-02-17)
-- [Blind Testing Shows Gamers Prefer NVIDIA DLSS 4.5 Over Native Resolution Rendering and AMD FSR 4](https://www.techpowerup.com/346494/blind-testing-shows-gamers-prefer-nvidia-dlss-4-5-over-native-resolution-rendering-and-amd-fsr-4) (Published: 2026-02-17)
-- [(PR) Meta Partners with NVIDIA to Deploy Millions of Blackwell and Rubin GPUs](https://www.techpowerup.com/346493/meta-partners-with-nvidia-to-deploy-millions-of-blackwell-and-rubin-gpus) (Published: 2026-02-17)
-- [Meta expands Nvidia deal to use millions of AI chips in data center build-out, including standalone CPUs](https://www.cnbc.com/2026/02/17/meta-nvidia-deal-ai-data-center-chips.html) (Published: 2026-02-17)
-- [Meta and NVIDIA Announce Long-Term Infrastructure Partnership](https://about.fb.com/news/2026/02/meta-nvidia-announce-long-term-infrastructure-partnership/) (Published: 2026-02-17)
-- [Nvidia to sell Meta millions of chips in multiyear deal](https://www.channelnewsasia.com/business/nvidia-sell-meta-millions-chips-in-multiyear-deal-5936846) (Published: 2026-02-17)
-- [Nvidia to sell Meta millions of chips in multiyear deal](https://finance.yahoo.com/news/nvidia-sell-meta-millions-chips-211720887.html) (Published: 2026-02-17)
-- [GPU who? Meta to deploy Nvidia CPUs at large scale](https://www.theregister.com/2026/02/17/meta_nvidia_cpu/) (Published: 2026-02-17)
-- [Nvidia and Meta expand GPU team up with millions of additional AI chips](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_885b7d95-5f5c-4dd5-bfdb-6a6c1980b530) (Published: 2026-02-17)
