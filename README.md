@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-19 18:28:50**_
+_Last updated: **2026-02-19 19:24:16**_
 
+- [AI pioneer Fei-Fei Li's World Labs raises $1 billion in funding](https://www.channelnewsasia.com/business/ai-pioneer-fei-fei-lis-world-labs-raises-1-billion-in-funding-5938731) (Published: 2026-02-18)
+- [AI Video to SRT 1.1.2](https://post.rlsbb.to/ai-video-to-srt-1-1-2/) (Published: 2026-02-18)
+- [Alienware 16 Area-51 Core Ultra 9 16" Gaming Laptop w/ NVIDIA GeForce RTX 5070Ti for $1,999.99 + free shipping](https://www.dealnews.com/products/Alienware/Alienware-16-Area-51-Core-Ultra-9-16-Gaming-Laptop-w-NVIDIA-Ge-Force-RTX-5070-Ti/497410.html) (Published: 2026-02-18)
 - [Relief camps to lifelines: Manipur’s displaced build a new economy while waiting to go home](https://timesofindia.indiatimes.com/city/guwahati/relief-camps-to-lifelines-manipurs-displaced-build-a-new-economy-while-waiting-to-go-home/articleshow/128520412.cms) (Published: 2026-02-18)
 - [FIRs to leave out victims’ names in rape, Pocso cases: Karnataka police](https://timesofindia.indiatimes.com/city/bengaluru/firs-to-leave-out-victims-names-in-rape-pocso-cases-karnataka-police/articleshow/128519159.cms) (Published: 2026-02-18)
 - [Election for three Rajya Sabha seats from Assam on Mar 16](https://timesofindia.indiatimes.com/city/guwahati/election-for-three-rajya-sabha-seats-from-assam-on-mar-16/articleshow/128520349.cms) (Published: 2026-02-18)
@@ -8,6 +11,3 @@ _Last updated: **2026-02-19 18:28:50**_
 - [DeepSeek V4 release coming soon: What to expect from the Chinese AI star that rattled markets last year](https://economictimes.indiatimes.com/news/international/us/deepseek-v4-release-coming-soon-what-to-expect-from-the-chinese-ai-star-that-rattled-markets-last-year/articleshow/128518468.cms) (Published: 2026-02-18)
 - [Frontier Legends, an Open World Survival Western Game, Launches Early Access This Spring (and Releases Demo This Weekend)](https://wccftech.com/frontier-legends-open-world-survival-western-game-launches-early-access-this-spring/) (Published: 2026-02-18)
 - [My favorite business mini PC tackles AI and 3D modeling with ease — and Lenovo just cut the price by $528](https://www.techradar.com/pro/my-favorite-business-mini-pc-tackles-ai-and-3d-modeling-with-ease-and-lenovo-just-cut-the-price-by-usd528) (Published: 2026-02-18)
-- [Markets in London and Europe hit record highs](https://www.irishtimes.com/business/2026/02/18/markets-in-london-and-europe-hit-record-highs/) (Published: 2026-02-18)
-- [BJP state executive to pass resolution praising Centre for scrapping MGNREGA](https://timesofindia.indiatimes.com/city/bengaluru/bjp-state-executive-to-pass-resolution-praising-centre-for-scrapping-mgnrega/articleshow/128518630.cms) (Published: 2026-02-18)
-- [Karnataka sees major decline in farmer suicides](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-sees-major-decline-in-farmer-suicides/articleshow/128518637.cms) (Published: 2026-02-18)
