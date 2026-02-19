@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-19 03:39:20**_
+_Last updated: **2026-02-19 05:12:09**_
 
-- [Netweb Tech shares in focus after launch of ‘Make in India’ AI supercomputing systems powered by Nvidia](https://economictimes.indiatimes.com/markets/stocks/news/netweb-tech-shares-in-focus-after-launch-of-make-in-india-ai-supercomputing-systems-powered-by-nvidia/articleshow/128490381.cms) (Published: 2026-02-18)
-- [Gaming PC: R5 7500F, GIGABYTE RTX 5070 OC, 1TB Gen4 SSD, 32GB RAM, B650EM-A WIFI, 750W Gold PSU: $2188 + $50 Del @ Nebula PC](https://www.ozbargain.com.au/node/948686) (Published: 2026-02-18)
-- [Meta locks in millions of Nvidia GPUs and CPUs in multiyear AI infrastructure pact](https://www.digitimes.com/news/a20260218VL204/nvidia-meta-infrastructure-data-gpu.html) (Published: 2026-02-18)
-- [Nvidia to sell Meta millions of chips in multiyear deal](https://economictimes.indiatimes.com/tech/technology/nvidia-to-sell-meta-millions-of-chips-in-multiyear-deal/articleshow/128488659.cms) (Published: 2026-02-18)
-- [Meta agrees to buy millions more AI chips for Nvidia, raising doubts over its in-house hardware](https://siliconangle.com/2026/02/17/meta-agrees-buy-millions-ai-chips-nvidia-raising-doubts-house-hardware/) (Published: 2026-02-18)
-- [India among key hubs for AI innovation, company deepening India partnerships: Nvidia](https://economictimes.indiatimes.com/tech/technology/india-among-key-hubs-for-ai-innovation-company-deepening-india-partnerships-nvidia/articleshow/128488604.cms) (Published: 2026-02-18)
-- [Indian conglomerate Adani plans very slow $100 billion AI datacenter build](https://www.theregister.com/2026/02/18/india_ai_summit_adani_datacenters/) (Published: 2026-02-18)
-- [US Stocks Today |Equities close with slight gains as tech shares recover](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-equities-close-with-slight-gains-as-tech-shares-recover/articleshow/128488282.cms) (Published: 2026-02-18)
-- [Caught a bug after weeks of travel: Nvidia South Asia MD on Jensen Huang's AI Summit absence](https://economictimes.indiatimes.com/tech/technology/caught-a-bug-after-weeks-of-travel-nvidia-south-asia-md-on-jensen-huangs-ai-summit-absence/articleshow/128488229.cms) (Published: 2026-02-18)
-- [nemo-evaluator 0.1.84](https://pypi.org/project/nemo-evaluator/0.1.84/) (Published: 2026-02-18)
+- [Asian shares gain as most regional markets stay closed for Lunar New Year holidays](https://www.clickondetroit.com/business/2026/02/18/asian-shares-gain-as-most-regional-markets-stay-closed-for-lunar-new-year-holidays/) (Published: 2026-02-18)
+- [Asian shares rise while most markets stay closed for the Lunar New Year](https://apnews.com/article/stocks-markets-warner-trump-japan-df3d7079839f96ff5816509aa4c73360) (Published: 2026-02-18)
+- [Samsung is trying to boost HBM4 chip production for Nvidia](https://www.sammobile.com/news/samsung-boost-hbm4-production-nvidia/) (Published: 2026-02-18)
+- [Indian firm Yotta to build $2 billion data centre with Nvidia's Blackwell chips — one of Asia's largest AI hubs](https://www.livemint.com/companies/news/indian-firm-yotta-to-build-2-billion-data-centre-with-nvidias-blackwell-chips-one-of-asias-largest-ai-hubs-11771389615200.html) (Published: 2026-02-18)
+- [The Race for Who Has the Best AI Infrastructure Heats Up as AMD Denies Instinct MI455X Is Being Delayed, but Concerns About Large-Scale Deployment Remain](https://wccftech.com/the-race-for-the-best-ai-infrastructure-heats-up-as-amd-denies-mi455x-is-being-delayed/) (Published: 2026-02-18)
+- [Indian data center firm Yotta to build $2 billion AI hub with Nvidia's Blackwell chips](https://www.channelnewsasia.com/business/indian-data-center-firm-yotta-build-2-billion-ai-hub-nvidias-blackwell-chips-5937291) (Published: 2026-02-18)
+- [Indian data center firm Yotta to build $2 billion AI hub with Nvidia's Blackwell chips](https://www.channelnewsasia.com/business/india-data-centre-yotta-nvidia-5937291) (Published: 2026-02-18)
+- [Lenovo - Legion Pro 5 16" 2.5K OLED Gaming Laptop - AMD Ryzen 7 8745HX 2025 - 32GB RAM - NVIDIA GeForce RTX 5060 - 1TB SSD - Eclipse Black $1149.99 (3 replies)](https://slickdeals.net/f/19222084-lenovo-legion-pro-5-16-2-5k-oled-gaming-laptop-amd-ryzen-7-8745hx-2025-32gb-ram-nvidia-geforce-rtx-5060-1tb-ssd-eclipse-black-1149-99) (Published: 2026-02-18)
+- [AI Film Studio Launched by India’s Abundantia Entertainment, InVideo (EXCLUSIVE)](https://variety.com/2026/global/news/ai-film-studio-india-abundantia-entertainment-invideo-1236665369/) (Published: 2026-02-18)
