@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-19 07:18:03**_
+_Last updated: **2026-02-19 08:00:44**_
 
+- [NVIDIA DLSS 4.5 Becomes The Top Choice In Blind Test Vs Native Res & AMD FSR Upscaling](https://wccftech.com/nvidia-dlss-4-5-top-gamers-choice-in-blind-test-vs-native-res-amd-fsr-upscaling/) (Published: 2026-02-18)
 - [Nvidia effect! E2E Networks, Netweb Tech shares soar up to 20% after collaboration with chip giant](https://economictimes.indiatimes.com/markets/stocks/news/nvidia-effect-e2e-networks-netweb-tech-shares-soar-up-to-20-after-collaboration-with-chip-giant/articleshow/128496930.cms) (Published: 2026-02-18)
 - [Nvidia expands AI partnerships in India under US$1 billion national mission](https://www.digitimes.com/news/a20260218VL208/nvidia-infrastructure-software-development-blackwell.html) (Published: 2026-02-18)
 - [Moore Threads Launches Open-source GPU Compute Driver Bench on GitHub](https://www.madshrimps.be/news/moore-threads-launches-open-source-gpu-compute-driver-bench-on-github/) (Published: 2026-02-18)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-19 07:18:03**_
 - [The Compute Crunch: How AI’s Unstoppable Demand is Creating a Hardware Famine for Years to Come](https://www.naturalnews.com/2026-02-18-ais-unstoppable-demand-creating-a-hardware-famine.html) (Published: 2026-02-18)
 - [mcp-youtube-intelligence added to PyPI](https://pypi.org/project/mcp-youtube-intelligence/) (Published: 2026-02-18)
 - [Abundantia Entertainment, invideo sign pact to launch AI-driven film production studio](https://www.thehindubusinessline.com/news/variety/abundantia-entertainment-invideo-sign-pact-to-launch-ai-driven-film-production-studio/article70645952.ece) (Published: 2026-02-18)
-- [Yotta data centre to build $2 billion AI hub with Nvidia’s Blackwell chips](https://www.thehindubusinessline.com/info-tech/yotta-data-centre-to-build-2-billion-ai-hub-with-nvidias-blackwell-chips/article70646016.ece) (Published: 2026-02-18)
