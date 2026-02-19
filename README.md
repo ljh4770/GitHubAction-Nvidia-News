@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-19 23:26:41**_
+_Last updated: **2026-02-19 23:54:19**_
 
 - [Stock market today: Live updates](https://www.cnbc.com/2026/02/18/stock-market-today-live-updates.html) (Published: 2026-02-18)
 - [World Labs closes $1B investment backed by Nvidia, AMD and Autodesk](https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/) (Published: 2026-02-18)
