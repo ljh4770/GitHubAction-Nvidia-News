@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-20 08:56:28**_
+_Last updated: **2026-02-20 09:46:27**_
 
+- [Samsung eyeing 30% price hike for the next-generation product everyone wants](https://www.sammobile.com/news/samsung-eyeing-30-price-hike-for-the-next-generation-product-everyone-wants/) (Published: 2026-02-19)
+- [nvfuser-cu126 0.2.35.dev20260219](https://pypi.org/project/nvfuser-cu126/0.2.35.dev20260219/) (Published: 2026-02-19)
+- [nvfuser-cu128 0.2.35.dev20260219](https://pypi.org/project/nvfuser-cu128/0.2.35.dev20260219/) (Published: 2026-02-19)
+- [nvfuser-cu130 0.2.35.dev20260219](https://pypi.org/project/nvfuser-cu130/0.2.35.dev20260219/) (Published: 2026-02-19)
+- [David Silver is chasing superhuman intelligence with a $1bn seed](https://thenextweb.com/news/david-silver-is-chasing-superhuman-intelligence-with-a-1bn-seed) (Published: 2026-02-19)
+- [Yi-Ling Liu on Internet Censorship in China and the U.S.](https://lithub.com/yi-ling-liu-on-internet-censorship-in-china-and-the-u-s/) (Published: 2026-02-19)
+- [Digest: Perplexity Abandons Ads to Protect Trust in AI; Havas Posts Gains in ‘Transformative’ Year; Nvidia Lands Multibillion-Dollar Meta Deal](https://www.exchangewire.com/blog/2026/02/19/digest-perplexity-abandons-ads-to-protect-trust-in-ai-havas-posts-gains-in-transformative-year-nvidia-lands-multibillion-dollar-meta-deal/) (Published: 2026-02-19)
 - [Bill Gates pulls out of India’s AI summit at the last minute in the latest blow to an event dogged by organizational chaos](https://fortune.com/2026/02/19/bill-gates-india-ai-summit-epstein-chaos/) (Published: 2026-02-19)
 - [Push for democratised AI and stronger safety rules at India summit](https://www.channelnewsasia.com/asia/india-ai-summit-modi-macron-guterres-5939916) (Published: 2026-02-19)
 - [Elon Musk is pushing to build data centers in space. But they won’t solve AI’s power problems anytime soon](https://fortune.com/2026/02/19/ai-data-centers-in-space-elon-musk-power-problems/) (Published: 2026-02-19)
-- [Profit-booking drags Sensex, Nifty below key support levels at midday; Sensex drops over 700 points to 82,963](https://www.thehindubusinessline.com/markets/stock-markets/profit-booking-drags-sensex-nifty-below-key-support-levels-at-midday-sensex-drops-over-700-points-to-82963/article70650937.ece) (Published: 2026-02-19)
-- [CNBC's Inside India newsletter: India is throwing its weight behind AI — but is there substance behind the headlines?](https://www.cnbc.com/2026/02/19/cnbcs-inside-india-newsletter-india-is-throwing-its-weight-behind-ai-but-is-there-substance-behind-the-headlines.html) (Published: 2026-02-19)
-- [Global Markets | South Korea shares close at record high as chips rally](https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-south-korea-shares-close-at-record-high-as-chips-rally/articleshow/128545848.cms) (Published: 2026-02-19)
-- [CNBC Daily Open: Positive day for U.S. and European markets amid Fed minutes and ECB developments](https://www.cnbc.com/2026/02/19/cnbc-daily-open-positive-day-for-us-and-european-markets-amid-fed-minutes-and-ecb-developments.html) (Published: 2026-02-19)
-- [Asian shares advance, tracking a Wall St rally led by Nvidia](https://abcnews.com/Business/wireStory/asian-shares-advance-tracking-wall-st-rally-led-130288867) (Published: 2026-02-19)
-- [Ether, XRP, Solana slide in crypto retreat despite tech-led lift in Asia stocks](https://www.coindesk.com/markets/2026/02/19/ether-xrp-solana-slide-in-crypto-retreat-despite-tech-led-lift-in-asia-stocks) (Published: 2026-02-19)
-- [PhonePe rolls out biometric UPI payments, users can now pay with fingerprint or face ID](https://economictimes.indiatimes.com/industry/banking/finance/phonepe-rolls-out-biometric-upi-payments-users-can-now-pay-with-fingerprint-or-face-id/articleshow/128541598.cms) (Published: 2026-02-19)
