@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-20 17:52:02**_
+_Last updated: **2026-02-20 18:34:26**_
 
+- [NVIDIA RTX 5090 Gets Its Top Connector Row Cooked Despite A 500W Max Power Ceiling By The User](https://wccftech.com/nvidia-rtx-5090-gets-its-top-connector-row-cooked-despite-a-500w-max-power-ceiling-by-the-user/) (Published: 2026-02-19)
+- [All the important news from the ongoing India AI Impact Summit | TechCrunch](https://techcrunch.com/2026/02/19/all-the-important-news-from-the-ongoing-india-ai-summit/) (Published: 2026-02-19)
+- [Windows Weekly 971: Texas English](https://www.thurrott.com/podcasts/windows-weekly/332873/windows-weekly-971-texas-english) (Published: 2026-02-19)
+- [NVIDIA GeForce RTX GPU & DGX Spark Owners Can Run OpenClaw With Boosted AI Performance](https://wccftech.com/nvidia-geforce-rtx-gpu-dgx-spark-owners-can-run-openclaw-boosted-ai-performance/) (Published: 2026-02-19)
+- [rapids-singlecell-cu13 0.15.0rc2](https://pypi.org/project/rapids-singlecell-cu13/) (Published: 2026-02-19)
+- [rapids-singlecell-cu12 0.15.0rc2](https://pypi.org/project/rapids-singlecell-cu12/) (Published: 2026-02-19)
 - [Windows 11 KB5077181: Microsoft claims stability, my Lenovo LOQ proves otherwise](https://www.notebookcheck.net/Windows-11-KB5077181-Microsoft-claims-stability-my-Lenovo-LOQ-proves-otherwise.1230119.0.html) (Published: 2026-02-19)
 - [Upbound Group, Inc. Q4 2025 Earnings Call Summary](https://app.moby.co/home/research/tools/earningsCalendar/earnings-upbound-group-inc-q4-2025-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss) (Published: 2026-02-19)
 - [Laureate Education, Inc. Q4 2025 Earnings Call Summary](https://app.moby.co/home/research/tools/earningsCalendar/earnings-laureate-education-inc-q4-2025-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss) (Published: 2026-02-19)
 - [DT Midstream, Inc. Q4 2025 Earnings Call Summary](https://app.moby.co/home/research/tools/earningsCalendar/earnings-dt-midstream-inc-q4-2025-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss) (Published: 2026-02-19)
-- [Prince Andrew Arrested—Why Not King Trump?](https://robertreich.substack.com/p/fascist-dictator-or-16th-century) (Published: 2026-02-19)
-- [This high-performance creators laptop is the deal of 2026 so far — the Alienware 16 Aurora with Intel Core 7 240H and Nvidia GeForce RTX 5060 graphics is $300 off right now](https://www.techradar.com/pro/this-high-performance-creators-laptop-is-the-deal-of-2026-so-far-the-alienware-16-aurora-with-intel-core-7-240h-and-nvidia-geforce-rtx-5060-graphics-is-usd300-off-right-now) (Published: 2026-02-19)
-- [Anthropic: AI triggers the ‘SaaSpocalypse’](https://theweek.com/business/anthropic-ai-triggers-saaspocalypse) (Published: 2026-02-19)
-- [The RAM crisis is completely warping my usual PC-building advice, so here's a fresh priority list for anyone looking to build or upgrade a PC](https://www.techradar.com/computing/computing-components/the-ram-crisis-is-completely-warping-my-usual-pc-building-advice-so-heres-a-fresh-priority-list-for-anyone-looking-to-build-or-upgrade-a-pc) (Published: 2026-02-19)
-- [Hackers claim breach of Adidas systems - but it says a third-party is the real victim](https://www.techradar.com/pro/security/hackers-claim-breach-of-adidas-systems-but-it-says-a-third-party-is-the-real-victim) (Published: 2026-02-19)
-- [Chaos at major AI summit as scandal-plagued Bill Gates abruptly backs out and Sam Altman, rival awkwardly avoid clasping hands](https://nypost.com/2026/02/19/business/bill-gates-abruptly-backs-out-of-india-ai-summit-sam-altman-and-daio-amodei-awkwardly-avoid-clasping-hands-next-to-pm-modi/) (Published: 2026-02-19)
