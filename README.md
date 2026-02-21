@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-21 21:40:33**_
+_Last updated: **2026-02-21 21:55:55**_
 
+- [Trump’s Economy, One Year Later](http://foreignpolicy.com/2026/02/20/trump-economy-one-year-later/) (Published: 2026-02-20)
 - [Show HN: Nvidia RTX Graphics Card Price Drop Alerts](https://www.pricedropnotifications.com/rtx-gpu-price-drop.html) (Published: 2026-02-20)
 - [This shocking arrest proved the president isn't invincible](https://www.rawstory.com/if-they-can-arrest-a-prince-why-can-t-we-arrest-a-president/) (Published: 2026-02-20)
 - [Alienware Currently Has the Lowest Price on an RTX 5080 Equipped Prebuilt Gaming PC at $2,130](https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-deal-dell-presidents-day-sale-still-live) (Published: 2026-02-20)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-21 21:40:33**_
 - [India’s AI summit draws global leaders, big pledges and some chaos](https://www.nbcnews.com/world/asia/indias-ai-summit-draws-global-leaders-big-pledges-chaos-rcna259855) (Published: 2026-02-20)
 - [Bitcoin bears at risk of $600M liquidation, raising chance for rally to $70K](https://cointelegraph.com/news/bitcoin-bears-at-risk-of-600m-liquidation-raising-chance-for-rally-to-70k) (Published: 2026-02-20)
 - [Stock Market Today: Nasdaq Charges Higher As Trump Announces Global Tariff; Nvidia Rises (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180832902) (Published: 2026-02-20)
-- [Skytech Prism 4 Gaming Desktop: R7 9800X3D, RTX 5080, 32GB DDR5, 1TB SSD + Free KMA MSI Force GC30 wireless controller + Resident Evil Requiem + Crimson Desert $2518.99 (2 replies)](https://slickdeals.net/f/19231771-skytech-prism-4-gaming-desktop-r7-9800x3d-rtx-5080-32gb-ddr5-1tb-ssd-free-kma-msi-force-gc30-wireless-controller-resident-evil-requiem-crimson-desert-2518-99) (Published: 2026-02-20)
