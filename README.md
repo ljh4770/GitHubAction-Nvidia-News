@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-21 05:57:18**_
+_Last updated: **2026-02-21 06:52:09**_
 
+- [India AI-Linked Plays Surge as Modi Hobnobs With Altman, Amodei](https://financialpost.com/pmn/business-pmn/india-ai-linked-plays-surge-as-modi-hobnobs-with-altman-amodei) (Published: 2026-02-20)
+- [Gigabyte’s SFF Power Pairing: A Mini-ITX Motherboard and SFF-Ready RTX 5080 That Don’t Feel Like a Compromise](https://me.pcmag.com/en/graphics-cards/34397/gigabytes-sff-power-pairing-a-mini-itx-motherboard-and-sff-ready-rtx-5080-that-dont-feel-like-a-comp) (Published: 2026-02-20)
 - [MSI Teases "Frieren Beyond Journey's End" Special Edition GPU Incoming](https://www.techpowerup.com/346579/msi-teases-frieren-beyond-journeys-end-special-edition-gpu-incoming) (Published: 2026-02-20)
 - [frontier model training methodologies](https://djdumpling.github.io/2026/01/31/frontier_training.html) (Published: 2026-02-20)
 - [Blue Owl Sets Off New Private Credit Fears - The New York Times](https://slashdot.org/firehose.pl?op=view&amp;id=180830020) (Published: 2026-02-20)
@@ -9,5 +11,3 @@ _Last updated: **2026-02-21 05:57:18**_
 - [In a market starved of AI bets, how one stock tied to India's AI mission tripled investor wealth](https://economictimes.indiatimes.com/markets/stocks/news/in-a-market-starved-of-ai-bets-how-one-stock-tied-to-indias-ai-mission-tripled-investor-wealth/articleshow/128590053.cms) (Published: 2026-02-20)
 - [Nvidia nears deal for scaled-down investment in OpenAI: report](https://www.digitaljournal.com/business/nvidia-nears-deal-for-scaled-down-investment-in-openai-report/article) (Published: 2026-02-20)
 - [AMD GPU Prices Rebound Slightly As Demand Drops](https://www.techpowerup.com/346575/amd-gpu-prices-rebound-slightly-as-demand-drops) (Published: 2026-02-20)
-- [More young Singapore investors turn to AI for stock picks, but experts warn of risks in volatile market](https://www.straitstimes.com/business/companies-markets/more-young-singapore-investors-turn-to-ai-for-stock-picks-but-experts-warn-of-risks-in-volatile) (Published: 2026-02-20)
-- [twinkle-kit added to PyPI](https://pypi.org/project/twinkle-kit/) (Published: 2026-02-20)
