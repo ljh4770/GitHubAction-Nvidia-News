@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-21 20:30:56**_
+_Last updated: **2026-02-21 20:52:16**_
 
+- [CoreWeave stock is tumbling amid fresh data-center financing concerns](https://www.businessinsider.com/coreweave-stock-blue-owl-capital-data-center-financing-ai-crwv-2026-2) (Published: 2026-02-20)
+- [AMD GPU Prices Fall in Japan. Turns Out There Is a Limit to What People Will Pay](https://uk.pcmag.com/graphics-cards/163287/amd-gpu-prices-fall-in-japan-turns-out-there-is-a-limit-to-what-people-will-pay) (Published: 2026-02-20)
+- [AMD GPU Prices Fall in Japan. Turns Out There Is a Limit to What People Will Pay](https://me.pcmag.com/en/graphics-cards/35450/amd-gpu-prices-fall-in-japan-turns-out-there-is-a-limit-to-what-people-will-pay) (Published: 2026-02-20)
 - [India’s AI summit draws global leaders, big pledges and some chaos](https://www.nbcnews.com/world/asia/indias-ai-summit-draws-global-leaders-big-pledges-chaos-rcna259855) (Published: 2026-02-20)
 - [Bitcoin bears at risk of $600M liquidation, raising chance for rally to $70K](https://cointelegraph.com/news/bitcoin-bears-at-risk-of-600m-liquidation-raising-chance-for-rally-to-70k) (Published: 2026-02-20)
 - [Stock Market Today: Nasdaq Charges Higher As Trump Announces Global Tariff; Nvidia Rises (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180832902) (Published: 2026-02-20)
@@ -8,6 +11,3 @@ _Last updated: **2026-02-21 20:30:56**_
 - [Cerebras plans humongous AI supercomputer in India backed by UAE](https://www.theregister.com/2026/02/20/india_ai_supercomputer_cerebras_uae/) (Published: 2026-02-20)
 - [US stock market surging big today: What’s fueling Dow Jones, S&P 500 and Nasdaq gains right now? Amazon, Nvidia and Magnificent Seven stocks power rally](https://economictimes.indiatimes.com/news/international/us/us-stock-market-surging-big-today-whats-fueling-dow-jones-sp-500-and-nasdaq-gains-right-now-amazon-nvidia-and-magnificent-seven-stocks-power-rally/articleshow/128622215.cms) (Published: 2026-02-20)
 - [Wall Street boosts Bitmine stakes as DeFi lenders buckle on liquidity: Finance Redefined](https://cointelegraph.com/news/wall-street-boosts-bitmine-stakes-defi-lenders-buckle-liquidity-finance-redefined) (Published: 2026-02-20)
-- [AI craze leaves only one Nvidia RTX 50-series GPU at MSRP — RTX 5060 Ti 8GB is the final stand, as even the RTX 5050 falls](https://www.tomshardware.com/pc-components/gpus/ai-craze-leaves-only-one-nvidia-rtx-50-series-gpu-at-msrp-rtx-5060-ti-8gb-is-the-final-stand-as-even-the-rtx-5050-falls) (Published: 2026-02-20)
-- [The platform that ate the pipeline: Vast Data’s rethink of AI Infrastructure](https://siliconangle.com/2026/02/20/vast-reshaes-data-infrastructure-agentic-ai-vastforward/) (Published: 2026-02-20)
-- [Don't Wait: You Can Save Over $600 on LG's 45-Inch Ultragear OLED Curved Gaming Monitor](https://www.cnet.com/deals/lg-45-inch-ultragear-oled-curved-gaming-monitor-deal/) (Published: 2026-02-20)
