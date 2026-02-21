@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-21 22:51:46**_
+_Last updated: **2026-02-21 23:15:51**_
 
 - [OpenAI resets spending expectations, tells investors compute target is around $600 billion by 2030](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html) (Published: 2026-02-20)
 - [Daybreak Weekend: Nvidia Earnings, UK Special Election, Modi Israel Visit](https://omny.fm/shows/bloomberg-daybreak/daybreak-weekend-nvidia-earnings-uk-special-election-modi-israel-visit) (Published: 2026-02-20)
