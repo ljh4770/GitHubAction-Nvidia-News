@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-21 17:50:11**_
+_Last updated: **2026-02-21 18:16:11**_
 
+- [H-E-B lands on a list of best employers in the U.S amid ramp-up in North Texas](https://www.dallasnews.com/business/retail/2026/02/20/h-e-b-lands-on-a-list-of-best-employers-in-the-us-amid-ramp-up-in-north-texas/) (Published: 2026-02-20)
+- [Nvidia Nears $30 Billion Stake in Record-Breaking OpenAI Funding Round](https://www.pymnts.com/artificial-intelligence-2/2026/nvidia-nears-30-billion-stake-in-record-breaking-openai-funding-round/) (Published: 2026-02-20)
 - [This might be the best RTX 5060 laptop deal for photo and video editing right now — color-accurate HP Omen 14 packs a Core Ultra 7 and 3K OLED display for under $1300](https://www.techradar.com/pro/this-might-be-the-best-rtx-5060-laptop-deal-for-photo-and-video-editing-right-now-color-accurate-hp-omen-14-packs-a-core-ultra-7-and-3k-oled-display-for-under-usd1300) (Published: 2026-02-20)
 - [NVIDIA’s Surprise Chip, Microsoft AI Training & Job Disruption Warning | Daily Tech Updates – Feb 20, 2026](https://www.c-sharpcorner.com/article/nvidias-surprise-chip-microsoft-ai-training-job-disruption-warning-daily-t/) (Published: 2026-02-20)
 - [Dow Jones crashes today: why is Dow down today despite the tariff ruling? S&P 500 and Nasdaq outperform on tech rebound](https://economictimes.indiatimes.com/news/international/us/dow-jones-crashes-today-why-is-dow-down-today-despite-the-tariff-ruling-sp-500-and-nasdaq-outperform-on-tech-rebound/articleshow/128618265.cms) (Published: 2026-02-20)
@@ -9,5 +11,3 @@ _Last updated: **2026-02-21 17:50:11**_
 - [Stock Market Today: Dow, S&P 500, Nasdaq Rise; Nvidia, Palantir, Micron, Tesla, More Movers; PCE Inflation Data - Barron's](https://slashdot.org/firehose.pl?op=view&amp;id=180832100) (Published: 2026-02-20)
 - [‘Doubts around the AI revolution are emerging,’ BofA says, as the market sees a ‘double-edged sword’ that could ‘cannibalize’ you](https://fortune.com/2026/02/20/doubts-ai-revolution-emerging-bank-of-america-double-edged-sword-cannibalize/) (Published: 2026-02-20)
 - [What is Trump’s China Policy?](http://foreignpolicy.com/2026/02/20/kurt-campbell-trump-xi-china-policy/) (Published: 2026-02-20)
-- [Dell Alienware Aurora 16" Intel Core 7 Gaming Laptop w/ NVIDIA GeForce RTX 5050 and 512GB SSD for $1,000 + free shipping](https://www.dealnews.com/Dell-Alienware-Aurora-16-Intel-Core-7-Gaming-Laptop-w-NVIDIA-Ge-Force-RTX-5050-and-512-GB-SSD-for-1-000-free-shipping/21811655.html) (Published: 2026-02-20)
-- [Google Deepmind CEO says the memory shortage is creating an AI 'choke point'](https://www.businessinsider.com/google-deepmind-demis-hassabis-memory-shortage-ai-supply-chain-2026-2) (Published: 2026-02-20)
