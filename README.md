@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-21 19:56:48**_
+_Last updated: **2026-02-21 20:30:56**_
 
+- [India’s AI summit draws global leaders, big pledges and some chaos](https://www.nbcnews.com/world/asia/indias-ai-summit-draws-global-leaders-big-pledges-chaos-rcna259855) (Published: 2026-02-20)
+- [Bitcoin bears at risk of $600M liquidation, raising chance for rally to $70K](https://cointelegraph.com/news/bitcoin-bears-at-risk-of-600m-liquidation-raising-chance-for-rally-to-70k) (Published: 2026-02-20)
+- [Stock Market Today: Nasdaq Charges Higher As Trump Announces Global Tariff; Nvidia Rises (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180832902) (Published: 2026-02-20)
 - [Skytech Prism 4 Gaming Desktop: R7 9800X3D, RTX 5080, 32GB DDR5, 1TB SSD + Free KMA MSI Force GC30 wireless controller + Resident Evil Requiem + Crimson Desert $2518.99 (2 replies)](https://slickdeals.net/f/19231771-skytech-prism-4-gaming-desktop-r7-9800x3d-rtx-5080-32gb-ddr5-1tb-ssd-free-kma-msi-force-gc30-wireless-controller-resident-evil-requiem-crimson-desert-2518-99) (Published: 2026-02-20)
 - [Cerebras plans humongous AI supercomputer in India backed by UAE](https://www.theregister.com/2026/02/20/india_ai_supercomputer_cerebras_uae/) (Published: 2026-02-20)
 - [US stock market surging big today: What’s fueling Dow Jones, S&P 500 and Nasdaq gains right now? Amazon, Nvidia and Magnificent Seven stocks power rally](https://economictimes.indiatimes.com/news/international/us/us-stock-market-surging-big-today-whats-fueling-dow-jones-sp-500-and-nasdaq-gains-right-now-amazon-nvidia-and-magnificent-seven-stocks-power-rally/articleshow/128622215.cms) (Published: 2026-02-20)
@@ -8,6 +11,3 @@ _Last updated: **2026-02-21 19:56:48**_
 - [AI craze leaves only one Nvidia RTX 50-series GPU at MSRP — RTX 5060 Ti 8GB is the final stand, as even the RTX 5050 falls](https://www.tomshardware.com/pc-components/gpus/ai-craze-leaves-only-one-nvidia-rtx-50-series-gpu-at-msrp-rtx-5060-ti-8gb-is-the-final-stand-as-even-the-rtx-5050-falls) (Published: 2026-02-20)
 - [The platform that ate the pipeline: Vast Data’s rethink of AI Infrastructure](https://siliconangle.com/2026/02/20/vast-reshaes-data-infrastructure-agentic-ai-vastforward/) (Published: 2026-02-20)
 - [Don't Wait: You Can Save Over $600 on LG's 45-Inch Ultragear OLED Curved Gaming Monitor](https://www.cnet.com/deals/lg-45-inch-ultragear-oled-curved-gaming-monitor-deal/) (Published: 2026-02-20)
-- [AVS Video Converter 26.0.2.17](https://post.rlsbb.to/avs-video-converter-26-0-2-17/) (Published: 2026-02-20)
-- [The great Bench GPU retest begins — how we're testing for our GPU Hierarchy in 2026, and why upscaling and framegen are still out](https://www.tomshardware.com/pc-components/gpus/the-great-bench-gpu-retest-begins-how-were-testing-for-our-gpu-hierarchy-in-2026-and-why-upscaling-and-framegen-are-still-out) (Published: 2026-02-20)
-- [H-E-B lands on a list of best employers in the U.S amid ramp-up in North Texas](https://www.dallasnews.com/business/retail/2026/02/20/h-e-b-lands-on-a-list-of-best-employers-in-the-us-amid-ramp-up-in-north-texas/) (Published: 2026-02-20)
