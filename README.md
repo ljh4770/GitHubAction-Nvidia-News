@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-21 22:27:13**_
+_Last updated: **2026-02-21 22:51:46**_
 
+- [OpenAI resets spending expectations, tells investors compute target is around $600 billion by 2030](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html) (Published: 2026-02-20)
 - [Daybreak Weekend: Nvidia Earnings, UK Special Election, Modi Israel Visit](https://omny.fm/shows/bloomberg-daybreak/daybreak-weekend-nvidia-earnings-uk-special-election-modi-israel-visit) (Published: 2026-02-20)
 - [Trump’s Economy, One Year Later](http://foreignpolicy.com/2026/02/20/trump-economy-one-year-later/) (Published: 2026-02-20)
 - [Show HN: Nvidia RTX Graphics Card Price Drop Alerts](https://www.pricedropnotifications.com/rtx-gpu-price-drop.html) (Published: 2026-02-20)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-21 22:27:13**_
 - [AMD GPU Prices Fall in Japan. Turns Out There Is a Limit to What People Will Pay](https://uk.pcmag.com/graphics-cards/163287/amd-gpu-prices-fall-in-japan-turns-out-there-is-a-limit-to-what-people-will-pay) (Published: 2026-02-20)
 - [AMD GPU Prices Fall in Japan. Turns Out There Is a Limit to What People Will Pay](https://me.pcmag.com/en/graphics-cards/35450/amd-gpu-prices-fall-in-japan-turns-out-there-is-a-limit-to-what-people-will-pay) (Published: 2026-02-20)
 - [India’s AI summit draws global leaders, big pledges and some chaos](https://www.nbcnews.com/world/asia/indias-ai-summit-draws-global-leaders-big-pledges-chaos-rcna259855) (Published: 2026-02-20)
-- [Bitcoin bears at risk of $600M liquidation, raising chance for rally to $70K](https://cointelegraph.com/news/bitcoin-bears-at-risk-of-600m-liquidation-raising-chance-for-rally-to-70k) (Published: 2026-02-20)
