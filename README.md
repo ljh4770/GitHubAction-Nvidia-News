@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-22 05:36:38**_
+_Last updated: **2026-02-22 06:26:31**_
 
 - [OpenAI expects compute spend of around $600 billion through 2030, source says](https://www.thehindubusinessline.com/info-tech/openai-expects-compute-spend-of-around-600-billion-through-2030-source-says/article70658901.ece) (Published: 2026-02-21)
 - [Wall Street Week Ahead: Nvidia, software reports pose next tests for AI-sensitive stock market](https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-nvidia-software-reports-pose-next-tests-for-ai-sensitive-stock-market/articleshow/128632558.cms) (Published: 2026-02-21)
