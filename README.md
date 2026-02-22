@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-22 13:09:06**_
+_Last updated: **2026-02-22 13:52:02**_
 
 - [“The AI data centers of 2036 won’t be filled with GPUs”: FuriosaAI’s CEO on the future of silicon](https://www.techradar.com/pro/the-ai-data-centers-of-2036-wont-be-filled-with-gpus-furiosaais-ceo-on-the-future-of-silicon) (Published: 2026-02-21)
 - [If the recent AI and crypto shocks upset you, you’re tracking the wrong cycle](https://fortune.com/2026/02/21/claude-upus-openclaw-market-shock-saaspocalypse-like-deepseek-moment/) (Published: 2026-02-21)
