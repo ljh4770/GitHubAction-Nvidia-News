@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-22 17:02:39**_
+_Last updated: **2026-02-22 17:36:43**_
 
+- [Microsoft, Palantir, Salesforce, Adobe: How OpenAI and Anthropic crushed software’s 23-year reign](https://www.thehindubusinessline.com/portfolio/personal-finance/microsoft-palantir-salesforce-adobe-how-openai-and-anthropic-crushed-softwares-23-year-reign/article70659385.ece) (Published: 2026-02-21)
 - [Developer’s Honest Assessment of AI at Work Rattles the Official Narrative](http://futurism.com/artificial-intelligence/developer-honest-assessment-ai) (Published: 2026-02-21)
 - [Get This Alienware 16-Inch Aurora Gaming Laptop For $1,099.99 Only With RTX 5060](https://www.redmondpie.com/get-this-alienware-16-inch-aurora-gaming-laptop-for-1099.99-only-with-rtx-5060/) (Published: 2026-02-21)
 - [India’s AI future needs Rare Earth Magnets: Decoding the global supply chain from China to the US, Australia, Brazil etal](https://www.thehindubusinessline.com/portfolio/big-story/rare-earth-elements-ai-supply-chain-india/article70655645.ece) (Published: 2026-02-21)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-22 17:02:39**_
 - [I've been using ChatGPT as a tech support for months — here's what I learned](https://www.androidpolice.com/been-using-chatgpt-as-tech-support-for-months/) (Published: 2026-02-21)
 - [Trump accounts have 'more unanswered questions than answered,' expert says. What's still unknown](https://www.cnbc.com/2026/02/21/trump-accounts.html) (Published: 2026-02-21)
 - [This free tool is perfect for diagnosing problems with your PC](https://www.makeuseof.com/this-free-tool-is-perfect-for-diagnosing-problems-with-your-pc/) (Published: 2026-02-21)
-- [“The AI data centers of 2036 won’t be filled with GPUs”: FuriosaAI’s CEO on the future of silicon](https://www.techradar.com/pro/the-ai-data-centers-of-2036-wont-be-filled-with-gpus-furiosaais-ceo-on-the-future-of-silicon) (Published: 2026-02-21)
