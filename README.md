@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-22 22:46:25**_
+_Last updated: **2026-02-22 23:02:08**_
 
+- [Congressman Has Sold Nvidia Stock Each Year Since 2022, Missing Out On 631% Gain](https://finance.yahoo.com/news/congressman-sold-nvidia-stock-since-230116900.html) (Published: 2026-02-21)
 - [OpenAI celebrates 10 years of existence — but how has it lived up to its promise of AGI which 'benefits all of humanity'?](https://www.techradar.com/pro/10-years-of-openai) (Published: 2026-02-21)
 - [gtop 0.1.3](https://pypi.org/project/gtop/0.1.3/) (Published: 2026-02-21)
 - [You are killing your PC's performance by running after "stable" defaults](https://www.xda-developers.com/pc-stable-defaults-killing-performance/) (Published: 2026-02-21)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-22 22:46:25**_
 - [myogait added to PyPI](https://pypi.org/project/myogait/) (Published: 2026-02-21)
 - ['No one deploys AI at Meta’s scale': Meta signs up Nvidia to power its next big AI projects — so what exactly do Mark Zuckerberg and Jensen Huang have planned?](https://www.techradar.com/pro/no-one-deploys-ai-at-metas-scale-meta-signs-up-nvidia-to-power-its-next-big-ai-projects-so-what-exactly-do-mark-zuckerberg-and-jensen-huang-have-planned) (Published: 2026-02-21)
 - [Silver, gold surge as Iran bets shift](https://www.thestreet.com/investing/silver-gold-surge-as-iran-bets-shift) (Published: 2026-02-21)
-- [I switched everything to local AI and stopped sending my documents to the cloud](https://www.makeuseof.com/switched-everything-to-local-ai-stopped-sending-documents-to-cloud/) (Published: 2026-02-21)
