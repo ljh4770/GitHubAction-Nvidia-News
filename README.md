@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-22 21:34:36**_
+_Last updated: **2026-02-22 21:53:22**_
 
 - [gtop 0.1.1](https://pypi.org/project/gtop/0.1.1/) (Published: 2026-02-21)
 - [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer) (Published: 2026-02-21)
