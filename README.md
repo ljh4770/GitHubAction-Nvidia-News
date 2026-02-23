@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-23 20:25:21**_
+_Last updated: **2026-02-23 21:09:18**_
 
+- [“Low Power but Very Powerful”:Nvidia (NVDA) Eyes $150 Million Laptop Market in AI Push - TipRanks](https://slashdot.org/firehose.pl?op=view&amp;id=180843604) (Published: 2026-02-22)
 - [OpenAI expects compute spend of around US$600 billion through 2030](https://www.itnews.com.au/news/openai-expects-compute-spend-of-around-us600-billion-through-2030-623784?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+) (Published: 2026-02-22)
 - [OpenAI expects compute spend of around US$600 billion through 2030](https://www.itnews.com.au/news/openai-expects-compute-spend-of-around-us600-billion-through-2030-623784?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed) (Published: 2026-02-22)
 - [OpenAI expects compute spend of around US$600 billion through 2030](https://www.itnews.com.au/news/openai-expects-compute-spend-of-around-us600-billion-through-2030-623784?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed) (Published: 2026-02-22)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-23 20:25:21**_
 - [Off-Balance Sheet AI Financing Stirs Tech Bubble Fears](https://oilprice.com/Finance/the-Markets/Off-Balance-Sheet-AI-Financing-Stirs-Tech-Bubble-Fears.html) (Published: 2026-02-22)
 - [How decentralized AI is leveling the playing field](https://www.coindesk.com/opinion/2026/02/22/how-decentralized-ai-is-leveling-the-playing-field) (Published: 2026-02-22)
 - [Billionaire Stanley Druckenmiller Still Isn't Buying Nvidia. But He Recently Picked Up Shares of This AI Stock That's Among the Cheapest of the Magnificent Seven.](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4c268ca2-8dd9-45eb-807e-088c669a661c) (Published: 2026-02-22)
-- [Autodesk (ADSK) Invests $200 Million in World Labs](https://finance.yahoo.com/news/autodesk-adsk-invests-200-million-170936692.html) (Published: 2026-02-22)
