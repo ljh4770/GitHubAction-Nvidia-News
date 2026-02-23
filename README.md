@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-23 07:49:20**_
+_Last updated: **2026-02-23 08:32:18**_
 
+- [Xi Gains Upper Hand Before Trump Summit After US Tariff Reversal](https://financialpost.com/pmn/business-pmn/xi-gains-upper-hand-before-trump-summit-after-us-tariff-reversal) (Published: 2026-02-22)
 - [KeyBanc Reduces its Price Target on Hinge Health, Inc. (HNGE) to $55 and Maintains an Overweight Rating](https://www.insidermonkey.com/blog/keybanc-reduces-its-price-target-on-hinge-health-inc-hnge-to-55-and-maintains-an-overweight-rating-1700651/) (Published: 2026-02-22)
 - [Sam Altman’s ego is a turn-off: Why Aswath Damodaran would invest in Anthropic over OpenAI](https://economictimes.indiatimes.com/markets/us-stocks/news/sam-altmans-ego-is-a-turn-off-why-aswath-damodaran-would-invest-in-anthropic-over-openai/articleshow/128669249.cms) (Published: 2026-02-22)
 - [Taalas HC1 hardwired Llama-3.1 8B AI accelerator delivers up to 17,000 tokens/s](https://www.cnx-software.com/2026/02/22/taalas-hc1-hardwired-llama-3-1-8b-ai-accelerator-delivers-up-to-17000-tokens-s/) (Published: 2026-02-22)
@@ -10,4 +11,3 @@ _Last updated: **2026-02-23 07:49:20**_
 - [The AI trust gap: Developers grapple with issues around security, memory, cost and interoperability](https://siliconangle.com/2026/02/21/ai-trust-gap-developers-grapple-issues-around-security-memory-cost-interoperability/) (Published: 2026-02-22)
 - [green-love added to PyPI](https://pypi.org/project/green-love/) (Published: 2026-02-22)
 - [secure-torch added to PyPI](https://pypi.org/project/secure-torch/) (Published: 2026-02-22)
-- [Code unknown: What is spooking IT stocks?](https://www.livemint.com/industry/infotech/ai-disruption-software-industry-indian-it-stocks-fall-investment-impact-11771591201525.html) (Published: 2026-02-22)
