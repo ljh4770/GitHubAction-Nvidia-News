@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-23 18:36:23**_
+_Last updated: **2026-02-23 19:41:45**_
 
 - [NVIDIA GeForce RTX 50 Super And RTX 60 Launch Timing Allegedly At Risk Amid Memory Shortage](https://hothardware.com/news/nvidia-geforce-rtx-50-super-and-rtx-60-launch-timing-allegedly-at-risk) (Published: 2026-02-22)
 - [Quantonation's double-sized second fund shows quantum still has believers | TechCrunch](https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/) (Published: 2026-02-22)
