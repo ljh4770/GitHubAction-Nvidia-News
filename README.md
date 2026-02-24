@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-24 07:38:31**_
+_Last updated: **2026-02-24 08:26:56**_
 
+- [Samsung’s cash burning chip factory is finally seeing better days](https://www.sammobile.com/news/samsungs-cash-burning-chip-factory-is-finally-seeing-better-days/) (Published: 2026-02-23)
 - [You can't cop Jensen Huang's GPUs but you can eat the same cake he got for his birthday at work](https://www.businessinsider.com/jensen-huang-birthday-cake-nvidia-gpus-paris-baguette-strawberry-2026-2) (Published: 2026-02-23)
 - [How the AI debt binge shattered hyperscalers’ ‘unspoken contract’ with investors](https://www.cnbc.com/2026/02/23/big-techs-ai-bond-binge-shatters-unspoken-contract-with-investors.html) (Published: 2026-02-23)
 - [Wall St futures and dollar slide as markets open following US tariff tumult](https://www.irishtimes.com/business/2026/02/23/wall-st-futures-and-dollar-skid-on-us-tariff-tumult/) (Published: 2026-02-23)
@@ -9,5 +10,3 @@ _Last updated: **2026-02-24 07:38:31**_
 - [SK Hynix Boss Pledges to Boost Output of AI Memory Chips](https://financialpost.com/pmn/business-pmn/sk-hynix-boss-pledges-to-boost-output-of-ai-memory-chips) (Published: 2026-02-23)
 - [Neoclouds: Meeting demand for AI acceleration](https://www.computerweekly.com/feature/Neoclouds-Meeting-demand-for-AI-acceleration) (Published: 2026-02-23)
 - [Weekly news roundup: memory impacts, AI infrastructure, and policy uncertainty](https://www.digitimes.com/news/a20260223VL202/digitimes-weekly-news-roundup-dram-infrastructure.html) (Published: 2026-02-23)
-- [nemo-evaluator 0.1.86](https://pypi.org/project/nemo-evaluator/0.1.86/) (Published: 2026-02-23)
-- [Huang's missed India summit and Valentine's dinner in Korea spotlight Nvidia's shifting priorities](https://www.digitimes.com/news/a20260223PD200/nvidia-ceo-jensen-huang-california-competition.html) (Published: 2026-02-23)
