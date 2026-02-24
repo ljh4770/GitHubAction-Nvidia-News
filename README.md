@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-24 08:26:56**_
+_Last updated: **2026-02-24 09:28:47**_
 
+- [These 4 Billionaire Investors Sold Shares of AI Superstar Nvidia Ahead of Earnings -- Do They Know Something Wall Street Doesn't?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e9d0cae1-0c97-49e7-975b-b4af6de76da2) (Published: 2026-02-23)
+- [Circle Internet, crypto miners report earnings: Crypto Week Ahead](https://www.coindesk.com/markets/2026/02/23/circle-internet-crypto-miners-report-earnings-crypto-week-ahead) (Published: 2026-02-23)
+- [Stocks, Dollar Drop as Trade Jitters Hit Sentiment: Markets Wrap](https://financialpost.com/pmn/business-pmn/stocks-dollar-drop-as-trade-jitters-hit-sentiment-markets-wrap) (Published: 2026-02-23)
+- [U.S. stocks drop on trade jitters as dollar cuts losses](https://financialpost.com/investing/stocks-dollar-drop-trade-jitters) (Published: 2026-02-23)
+- [A timeline of major developments in Trump's trade war](https://www.rte.ie/news/business/2026/0223/1559907-major-developments-in-trumps-trade-war/) (Published: 2026-02-23)
+- [Europe Set for Another Record LNG Import Month](https://oilprice.com/Latest-Energy-News/World-News/Europe-Set-for-Another-Record-LNG-Import-Month.html) (Published: 2026-02-23)
 - [Samsung’s cash burning chip factory is finally seeing better days](https://www.sammobile.com/news/samsungs-cash-burning-chip-factory-is-finally-seeing-better-days/) (Published: 2026-02-23)
 - [You can't cop Jensen Huang's GPUs but you can eat the same cake he got for his birthday at work](https://www.businessinsider.com/jensen-huang-birthday-cake-nvidia-gpus-paris-baguette-strawberry-2026-2) (Published: 2026-02-23)
 - [How the AI debt binge shattered hyperscalers’ ‘unspoken contract’ with investors](https://www.cnbc.com/2026/02/23/big-techs-ai-bond-binge-shatters-unspoken-contract-with-investors.html) (Published: 2026-02-23)
-- [Wall St futures and dollar slide as markets open following US tariff tumult](https://www.irishtimes.com/business/2026/02/23/wall-st-futures-and-dollar-skid-on-us-tariff-tumult/) (Published: 2026-02-23)
-- [Sharon AI & Cisco Launch Australia’s First Cisco Secure AI Factory with NVIDIA](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m02/sharon-ai-cisco-launch-australia-first-cisco-secure-ai-factory-with-nvidia.html) (Published: 2026-02-23)
-- [Nvidia challenges Intel, AMD with AI laptop chips](https://www.digitimes.com/news/a20260223VL211/nvidia-pc-chips-soc-amd-intel.html) (Published: 2026-02-23)
-- [SK Hynix Boss Pledges to Boost Output of AI Memory Chips](https://financialpost.com/pmn/business-pmn/sk-hynix-boss-pledges-to-boost-output-of-ai-memory-chips) (Published: 2026-02-23)
-- [Neoclouds: Meeting demand for AI acceleration](https://www.computerweekly.com/feature/Neoclouds-Meeting-demand-for-AI-acceleration) (Published: 2026-02-23)
-- [Weekly news roundup: memory impacts, AI infrastructure, and policy uncertainty](https://www.digitimes.com/news/a20260223VL202/digitimes-weekly-news-roundup-dram-infrastructure.html) (Published: 2026-02-23)
