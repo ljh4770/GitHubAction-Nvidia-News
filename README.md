@@ -1,13 +1,11 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-24 11:59:04**_
+_Last updated: **2026-02-24 13:37:23**_
 
-- [NVIDIA Shifts Resources from Gamers to AI Data Centers](https://www.geeky-gadgets.com/nvidia-ai-over-gamers/) (Published: 2026-02-23)
-- [nvfuser-cu126 0.2.36.dev20260223](https://pypi.org/project/nvfuser-cu126/0.2.36.dev20260223/) (Published: 2026-02-23)
-- [nvfuser-cu128 0.2.36.dev20260223](https://pypi.org/project/nvfuser-cu128/0.2.36.dev20260223/) (Published: 2026-02-23)
-- [NVIDIA Brings 1,000 Creators to Dubai's Museum of the Future for Studio Nights](https://me.pcmag.com/en/graphics-cards/35475/nvidia-brings-1000-creators-to-dubais-museum-of-the-future-for-studio-nights) (Published: 2026-02-23)
-- [Compact AI workstations in comparison: Nvidia DGX Spark meets AMD Ryzen AI Max+ 395](https://www.notebookcheck.net/Compact-AI-workstations-in-comparison-Nvidia-DGX-Spark-meets-AMD-Ryzen-AI-Max-395.1232660.0.html) (Published: 2026-02-23)
-- [Post-Quantum Cryptography Industry Research Report 2026: PQC Transitions from Research Concept to Core Cybersecurity Pillar Amid Rising Quantum Computing Breakthroughs](https://www.globenewswire.com/news-release/2026/02/23/3242432/28124/en/Post-Quantum-Cryptography-Industry-Research-Report-2026-PQC-Transitions-from-Research-Concept-to-Core-Cybersecurity-Pillar-Amid-Rising-Quantum-Computing-Breakthroughs.html) (Published: 2026-02-23)
-- [US Market Today | All eyes on big tech earnings as AI anxiety and tariff turmoil keep investors on edge](https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-today-all-eyes-on-big-tech-earnings-as-ai-anxiety-and-tariff-turmoil-keep-investors-on-edge/articleshow/128711069.cms) (Published: 2026-02-23)
-- [Intel hiring GPU driver engineers for Linux](https://www.gamingonlinux.com/2026/02/intel-hiring-gpu-driver-engineers-for-linux/.) (Published: 2026-02-23)
-- [The AI boom is helping Samsung and coming for Apple](https://finance.yahoo.com/news/the-ai-boom-is-helping-samsung-and-coming-for-apple-110057196.html) (Published: 2026-02-23)
-- [NVIDIA hiring Linux driver engineers to help with Vulkan, Proton and more](https://www.gamingonlinux.com/2026/02/nvidia-hiring-linux-driver-engineers-to-help-with-vulkan-proton-and-more/.) (Published: 2026-02-23)
+- [Commotion Launches Enterprise AI Operating System Powered by NVIDIA Nemotron™ Open Models to Scale Productivity For Digital Workforces](https://www.thehindubusinessline.com/brandhub/pr-release/commotion-launches-enterprise-ai-operating-system-powered-by-nvidia-nemotrontm-open-models-to-scale-productivity-for-digital-workforces/article70666845.ece) (Published: 2026-02-23)
+- [AI Service Robotics Market Accelerates as Platforms Move from Prototype to Revenue Deployment](https://www.globenewswire.com/news-release/2026/02/23/3242631/0/en/AI-Service-Robotics-Market-Accelerates-as-Platforms-Move-from-Prototype-to-Revenue-Deployment.html) (Published: 2026-02-23)
+- [Earnings live: Domino's stock rises, Dominion Energy stock slips as investors await crucial update from Nvidia](https://finance.yahoo.com/news/live/earnings-live-dominos-stock-rises-dominion-energy-stock-slips-as-investors-await-crucial-update-from-nvidia-132417105.html) (Published: 2026-02-23)
+- [Xanadu Nominates Experienced Global Business Leaders to its Board of Directors](https://financialpost.com/globe-newswire/xanadu-nominates-experienced-global-business-leaders-to-its-board-of-directors) (Published: 2026-02-23)
+- [Thirteen Industry Leaders Unite to Define Active Copper Cable Standards](https://www.globenewswire.com/news-release/2026/02/23/3242613/19814/en/Thirteen-Industry-Leaders-Unite-to-Define-Active-Copper-Cable-Standards.html) (Published: 2026-02-23)
+- [videosdk-plugins-nvidia 0.0.65](https://pypi.org/project/videosdk-plugins-nvidia/0.0.65/) (Published: 2026-02-23)
+- [Falcon Northwest FragBox review: A compact gaming rig that does everything right](https://slashdot.org/firehose.pl?op=view&amp;id=180846036) (Published: 2026-02-23)
+- [Inside India’s AI Impact Summit: Robot fraud, gridlocked roads, and a no-show from Bill Gates](https://fortune.com/2026/02/23/inside-indias-ai-impact-summit-robot-fraud-gridlocked-roads-and-a-no-show-from-bill-gates/) (Published: 2026-02-23)
