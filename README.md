@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-25 07:30:18**_
+_Last updated: **2026-02-25 08:07:53**_
 
+- [(PR) ASUS Reveals Optimized Liquid-Cooling Solutions and Strategic Partner Framework](https://www.techpowerup.com/346689/asus-reveals-optimized-liquid-cooling-solutions-and-strategic-partner-framework) (Published: 2026-02-24)
+- [3 fantastic ASX ETFs that could be much bigger in 2030](https://www.fool.com.au/2026/02/24/3-fantastic-asx-etfs-that-could-be-much-bigger-in-2030/) (Published: 2026-02-24)
 - [Singapore’s Singtel partners with Nvidia to build a research lab for companies that care about data sovereignty](https://fortune.com/2026/02/24/singtel-nvidia-ai-data-sovereignty/) (Published: 2026-02-24)
 - [Adafruit IoT Monthly: Accidental Antennas, Hardware Catalog, and more!](https://io.adafruit.com/blog/notebook/2026/02/24/iot-monthly/) (Published: 2026-02-24)
 - [sparkrun 0.0.21](https://pypi.org/project/sparkrun/0.0.21/) (Published: 2026-02-24)
@@ -9,5 +11,3 @@ _Last updated: **2026-02-25 07:30:18**_
 - [Samsung announces Galaxy Book 6 series availability in the US](https://www.sammobile.com/news/samsung-galaxy-book-6-pro-ultra-availability-usa-price/) (Published: 2026-02-24)
 - [Hegseth and Anthropic CEO to meet over military AI use](https://www.wftv.com/news/business/hegseth-anthropic/K6EA6YTBIA7CHFS4KNYQRO46MU/) (Published: 2026-02-24)
 - [Hegseth and Anthropic CEO set to meet as debate intensifies over the military's use of AI](https://economictimes.indiatimes.com/tech/technology/hegseth-and-anthropic-ceo-set-to-meet-as-debate-intensifies-over-the-militarys-use-of-ai/articleshow/128741598.cms) (Published: 2026-02-24)
-- [Hegseth and Anthropic CEO set to meet as debate intensifies](https://abcnews.com/Technology/wireStory/hegseth-anthropic-ceo-set-meet-debate-intensifies-militarys-130435086) (Published: 2026-02-24)
-- [US markets slip, while Europe flat as investors digest tariff news](https://www.independent.ie/business/us-markets-slip-while-europe-flat-as-investors-digest-tariff-news/a1147283486.html) (Published: 2026-02-24)
