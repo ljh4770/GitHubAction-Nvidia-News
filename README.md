@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-25 13:58:51**_
+_Last updated: **2026-02-25 15:00:38**_
 
-- [Meta may trade AI chips for shares in its latest AMD deal](https://slashdot.org/firehose.pl?op=view&amp;id=180853792) (Published: 2026-02-24)
-- [CIA Warns Tim Cook That China Could Invade Taiwan by 2027](https://www.mactrast.com/2026/02/cia-warns-tim-cook-that-china-could-attack-taiwan-by-2027/) (Published: 2026-02-24)
-- [AMD stock today soars 10% after Meta’s AI chip deal – will this partnership challenge Nvidia’s dominance?](https://economictimes.indiatimes.com/news/international/us/amd-stock-today-soars-10-after-metas-ai-chip-deal-will-this-partnership-challenge-nvidias-dominance/articleshow/128753293.cms) (Published: 2026-02-24)
-- [Tech news today: Countdown to Nvidia earnings begins as AI fears weigh on stocks](https://finance.yahoo.com/news/live/tech-news-today-countdown-to-nvidia-earnings-begins-as-ai-fears-weigh-on-stocks-133213988.html) (Published: 2026-02-24)
-- [Meta agrees multibillion-dollar chip deal with AMD](https://www.irishtimes.com/business/2026/02/24/meta-agrees-multibillion-dollar-chip-deal-with-amd/) (Published: 2026-02-24)
-- [Meta-AMD chip deal, Wall Street's AI angst, Trump's State of the Union and more in Morning Squawk](https://www.cnbc.com/2026/02/24/5-things-to-know-before-the-market-opens.html) (Published: 2026-02-24)
-- [Brookfield Buys Chips-for-Rent Firm Ori, Revving Up Bet on AI](https://financialpost.com/pmn/business-pmn/brookfield-buys-chips-for-rent-firm-ori-revving-up-bet-on-ai) (Published: 2026-02-24)
-- [Anthropic accuses China's DeepSeek of plagiarizing Claude AI to advance censorship](https://www.notebookcheck.net/Anthropic-accuses-China-s-DeepSeek-of-plagiarizing-Claude-AI-to-advance-censorship.1233540.0.html) (Published: 2026-02-24)
-- [Microsoft expands Sovereign Cloud security with governance, local productivity and AI](https://www.helpnetsecurity.com/2026/02/24/microsoft-sovereign-cloud-updates-ai-capabilities/) (Published: 2026-02-24)
+- [Show HN: Localvoxtral – Local real-time dictation on macOS with streaming STT](https://github.com/T0mSIlver/localvoxtral) (Published: 2026-02-24)
+- [Death Stranding 2: On the Beach Gets Accessible PC Requirements; NVIDIA DLSS 4, AMD FSR 4 and Intel XeSS 2 Confirmed](https://wccftech.com/death-stranding-2-on-the-beach-pc-requirements/) (Published: 2026-02-24)
+- [Kraken rolls out crypto-style, 24/7 perpetuals trading for tokenized U.S. stocks](https://www.coindesk.com/business/2026/02/24/kraken-rolls-out-crypto-style-24-7-perpetuals-trading-for-tokenized-u-s-stocks) (Published: 2026-02-24)
+- [Svelati i requisiti PC di Death Stranding 2: On The Beach](https://multiplayer.it/notizie/svelati-i-requisiti-pc-di-death-stranding-2-on-the-beach.html) (Published: 2026-02-24)
+- [US stock market surges today after record fall: Dow jumps 278 points as S&P 500 and Nasdaq turn green – Gold, Silver and Bitcoin crash sharply](https://economictimes.indiatimes.com/news/international/us/us-stock-market-surges-today-after-record-fall-dow-jumps-278-points-as-sp-500-and-nasdaq-turn-green-gold-silver-and-bitcoin-crash-sharply/articleshow/128754755.cms) (Published: 2026-02-24)
+- [AMD Risks a Hefty 20% of Its Company To Enter Into ‘Mega’ AI Deals, With the Latest Venture Tied to a Meta Agreement for Next-Gen Infrastructure](https://wccftech.com/amd-puts-up-a-hefty-20-of-its-company-just-for-ai-deals/) (Published: 2026-02-24)
+- [Ondo brings tokenized Apple, Alphabet, and Tesla to Binance](https://cryptobriefing.com/ondo-tokenized-us-stocks-binance/) (Published: 2026-02-24)
+- [Binance adds Ondo’s tokenized stocks in latest RWA push](https://cointelegraph.com/news/binance-alpha-ondo-tokenized-stocks-etfs) (Published: 2026-02-24)
+- [Facebook owner Meta to buy AI chips from AMD in deal worth up to $100 billion](https://www.bostonherald.com/2026/02/24/meta-ai-chips-amd/) (Published: 2026-02-24)
+- [Binance brings back tokenized stocks trading with Ondo Finance deal](https://www.coindesk.com/business/2026/02/23/binance-brings-back-tokenized-stocks-trading-with-ondo-finance-deal) (Published: 2026-02-24)
