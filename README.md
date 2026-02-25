@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-25 11:07:57**_
+_Last updated: **2026-02-25 11:52:18**_
 
+- [NVIDIA Reportedly Launching Its Arm-Based Laptop Chips in First Half of 2026](https://www.techpowerup.com/346693/nvidia-reportedly-launching-its-arm-based-laptop-chips-in-first-half-of-2026) (Published: 2026-02-24)
+- [nvfuser-cu128 0.2.36.dev20260224](https://pypi.org/project/nvfuser-cu128/0.2.36.dev20260224/) (Published: 2026-02-24)
+- [Apple’s AI products are all doomed. Wanna guess why?](https://www.macworld.com/article/3069146/ai-trend-apple.html) (Published: 2026-02-24)
+- [218-pound PC built inside a cast-iron Victorian radiator — cooling an RTX 5090 'probably out of the question'](https://www.tomshardware.com/desktops/pc-building/218-pound-pc-built-inside-a-cast-iron-victorian-radiator-cooling-an-rtx-5090-probably-out-of-the-question) (Published: 2026-02-24)
+- [OpenAI couldn’t finance its data centers, so it took control of the hardware instead — company's chip design aspirations lag behind Google and Amazon](https://www.tomshardware.com/tech-industry/openai-couldnt-finance-its-data-centers-so-it-took-control-of-hardware-instead) (Published: 2026-02-24)
+- [BlackRock Backs Dutch Chipmaker Axelera AI in $250 Million Round](https://financialpost.com/pmn/business-pmn/blackrock-backs-dutch-chipmaker-axelera-ai-in-250-million-round) (Published: 2026-02-24)
+- [LLVM/Clang 22 Compiler Officially Released With Many Improvements](https://www.phoronix.com/news/LLVM-Clang-22.1-Released) (Published: 2026-02-24)
+- [Red Hat, Nvidia tighten integration with AI Factory](https://www.techtarget.com/searchitoperations/news/366639289/Red-Hat-Nvidia-tighten-integration-with-AI-Factory) (Published: 2026-02-24)
 - [SambaNova steps up its challenge to Nvidia with new chip, $350M funding and a powerful ally in Intel](https://siliconangle.com/2026/02/24/sambanova-steps-challenge-nvidia-new-chip-350m-funding-powerful-ally-intel/) (Published: 2026-02-24)
 - [Intel backs SambaNova's $350M bid to challenge GPUs in AI inference](https://www.theregister.com/2026/02/24/sambanova_intel_funding/) (Published: 2026-02-24)
-- [Intel partners with AI chip startup SambaNova after acquisition talks reportedly failed](https://www.cnbc.com/2026/02/24/intel-partners-with-sambanova-after-buyout-talks-reportedly-failed.html) (Published: 2026-02-24)
-- [SLC Digital and Tracer Labs Partner to Deliver a New Standard for Trusted Digital Identity](https://www.globenewswire.com/news-release/2026/02/24/3243280/0/en/SLC-Digital-and-Tracer-Labs-Partner-to-Deliver-a-New-Standard-for-Trusted-Digital-Identity.html) (Published: 2026-02-24)
-- [Global Digital Twins in Healthcare Market Set to Hit USD 69.67 Billion by 2035 Driven by Accelerating Adoption of AI-Powered Virtual Modeling and Precision Medicine Initiatives – SNS Insider](https://www.globenewswire.com/news-release/2026/02/24/3243276/0/en/Global-Digital-Twins-in-Healthcare-Market-Set-to-Hit-USD-69-67-Billion-by-2035-Driven-by-Accelerating-Adoption-of-AI-Powered-Virtual-Modeling-and-Precision-Medicine-Initiatives-SNS.html) (Published: 2026-02-24)
-- [Nvidia results are AI market's biggest test amid competitive worries](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_016b93ed-68e3-486d-82df-cc5a1fe19f08) (Published: 2026-02-24)
-- [IQM Quantum Computers to go public via $1.8bn SPAC deal](https://www.verdict.co.uk/iqm-quantum-computers-spac-deal/) (Published: 2026-02-24)
-- [ASUS - ROG Zephyrus G14 14" 3K OLED 120Hz Gaming Laptop - Copilot+ PC - AMD Ryzen AI 9 HX - 32GB RAM - NVIDIA RTX 5080 - 2TB - Platinum White - Open Box -from $1823](https://slickdeals.net/f/19243429-asus-rog-zephyrus-g14-14-3k-oled-120hz-gaming-laptop-copilot-pc-amd-ryzen-ai-9-hx-32gb-ram-nvidia-rtx-5080-2tb-platinum-white-open-box-from-1823) (Published: 2026-02-24)
-- [Singapore to tighten data centre rules](https://www.straitstimes.com/business/spore-to-tighten-data-centre-rules-at-new-facility-by-singtel-nvidia-to-testbed-next-gen-chips) (Published: 2026-02-24)
-- [World shares are mixed after heavy selling of potential AI losers hits Wall Street](https://www.thehindubusinessline.com/markets/world-shares-are-mixed-after-heavy-selling-of-potential-ai-losers-hits-wall-street/article70670734.ece) (Published: 2026-02-24)
