@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-26 21:44:22**_
+_Last updated: **2026-02-26 22:04:02**_
 
-- [Show HN: Cosmos-Reason2-2B on Nano Super](https://huggingface.co/embedl/Cosmos-Reason2-2B-W4A16-Edge2) (Published: 2026-02-25)
-- [Nvidia smashes forecasts with record quarter as AI boom rolls on](https://www.channelnewsasia.com/business/nvidia-quarterly-results-sales-earnings-forecast-ai-boom-5953576) (Published: 2026-02-25)
-- [Hillcrest Energy Technologies to Present at the Clean Energy & Renewables Virtual Investor Conference March 5th](https://financialpost.com/globe-newswire/hillcrest-energy-technologies-to-present-at-the-clean-energy-renewables-virtual-investor-conference-march-5th) (Published: 2026-02-25)
-- [Hillcrest Energy Technologies to Present at the Clean Energy & Renewables Virtual Investor Conference March 5th](https://www.globenewswire.com/news-release/2026/02/25/3245080/0/en/Hillcrest-Energy-Technologies-to-Present-at-the-Clean-Energy-Renewables-Virtual-Investor-Conference-March-5th.html) (Published: 2026-02-25)
-- [5 amazing ASX ETFs to buy and hold for 20 years](https://www.fool.com.au/2026/02/26/5-amazing-asx-etfs-to-buy-and-hold-for-20-years/) (Published: 2026-02-25)
-- [NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026](https://www.globenewswire.com/news-release/2026/02/25/3245078/0/en/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026.html) (Published: 2026-02-25)
-- [NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026](http://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026) (Published: 2026-02-25)
-- [Nvidia Helps Wall Street Erase Its Losses for the Week](https://www.newser.com/story/384393/nvidia-helps-wall-street-erase-its-losses-for-the-week.html) (Published: 2026-02-25)
-- [NVIDIA Could Beat Apple to TSMC's Most Advanced Chip Process, and It's Not Even Close to Ready](https://www.androidheadlines.com/2026/02/nvidia-could-beat-apple-to-tsmcs-most-advanced-chip-process-and-its-not-even-close-to-ready.html) (Published: 2026-02-25)
-- [Sam Altman says plans for data centers in space are 'ridiculous' — is this the start of a new war of words with Elon Musk?](https://www.techradar.com/pro/sam-altman-says-plans-for-data-centers-in-space-are-ridiculous-is-this-the-start-of-a-new-war-of-words-with-elon-musk) (Published: 2026-02-25)
+- [Trading Day: Another tech tonic, Nvidia delivers](https://www.channelnewsasia.com/business/trading-day-another-tech-tonic-nvidia-delivers-5953626) (Published: 2026-02-25)
+- [Tech stocks today: Apple teases product launch, Nvidia stock falters despite upbeat outlook](https://finance.yahoo.com/news/live/tech-stocks-today-apple-teases-product-launch-nvidia-stock-falters-despite-upbeat-outlook-220259044.html) (Published: 2026-02-25)
+- [(PR) NVIDIA Reports Record $68.1B Q4 Revenue, $215.9B for Fiscal 2026](https://www.techpowerup.com/346767/nvidia-reports-record-usd-68-1b-q4-revenue-usd-215-9b-for-fiscal-2026) (Published: 2026-02-25)
+- [Nvidia rises after earnings beat Wall Street's expectations, lifting AI-related crypto stocks](https://www.coindesk.com/markets/2026/02/25/nvidia-rises-after-earnings-beat-wall-street-s-expectations-lifting-ai-related-crypto-stocks) (Published: 2026-02-25)
+- [NVIDIA reports $68.1B Q4 revenue as shares jump after hours on earnings beat](https://cryptobriefing.com/nvidia-q4-revenue-share-jump/) (Published: 2026-02-25)
+- [torchbridge-ml 0.5.34](https://pypi.org/project/torchbridge-ml/0.5.34/) (Published: 2026-02-25)
+- [Nvidia earnings live: Nvidia stock pops as earnings beat, guidance stifles some AI concerns](https://finance.yahoo.com/news/live/nvidia-earnings-live-nvidia-stock-pops-as-earnings-beat-guidance-stifles-some-ai-concerns-215022927.html) (Published: 2026-02-25)
+- [langchain-nvidia-ai-endpoints 1.1.0](https://pypi.org/project/langchain-nvidia-ai-endpoints/1.1.0/) (Published: 2026-02-25)
+- [Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google](https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html) (Published: 2026-02-25)
