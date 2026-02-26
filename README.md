@@ -1,13 +1,11 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-26 12:54:04**_
+_Last updated: **2026-02-26 14:08:13**_
 
-- [Zoom Virtual Agent 3.0 Adds End-to-End AI Resolution for Customer Service](https://www.cmswire.com/contact-center/zoom-virtual-agent-30-adds-end-to-end-ai-resolution-for-customer-service/) (Published: 2026-02-25)
-- [US stock futures little changed after Trump speech; Nvidia earnings in focus - Investing.com](https://slashdot.org/firehose.pl?op=view&amp;id=180858504) (Published: 2026-02-25)
-- [CIA is said to have warned top tech executives as early as 2023 of economic crisis risk tied to China-Taiwan escalation](https://www.notebookcheck.net/CIA-is-said-to-have-warned-top-tech-executives-as-early-as-2023-of-economic-crisis-risk-tied-to-China-Taiwan-escalation.1234476.0.html) (Published: 2026-02-25)
-- [US futures are flat and global stocks gain after optimism about AI sends Wall Street higher](https://www.bostonherald.com/2026/02/25/wall-street-ai/) (Published: 2026-02-25)
-- [US Market | US stock futures rise in run-up to Nvidia earnings as AI worries subside](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stock-futures-rise-in-run-up-to-nvidia-earnings-as-ai-worries-subside/articleshow/128782743.cms) (Published: 2026-02-25)
-- [Nvidia seemingly wants to make Linux better for gamers — and one way or another, that must worry Microsoft](https://www.techradar.com/computing/gpu/nvidia-seemingly-wants-to-make-linux-better-for-gamers-and-one-way-or-another-that-must-worry-microsoft) (Published: 2026-02-25)
-- [S&P 500 Set to Open Up as Market Shrugs Off Trump's Address - Barron's](https://slashdot.org/firehose.pl?op=view&amp;id=180858444) (Published: 2026-02-25)
-- [Choose an Intel or AMD CPU and save up to $1200 on an RTX 5080-powered Omen Max 16 laptop — high-end gaming just got cheaper](https://www.tomshardware.com/laptops/gaming-laptops/choose-an-intel-or-amd-cpu-and-save-up-to-usd1200-on-an-rtx-5080-powered-omen-max-16-laptop-high-end-gaming-just-got-cheaper) (Published: 2026-02-25)
-- [These bitcoin-linked stocks are doing better than BTC](https://www.coindesk.com/daybook-us/2026/02/25/these-bitcoin-linked-stocks-are-doing-better-than-btc) (Published: 2026-02-25)
-- [Polkadot, Solana Lead Altcoin Surge Ahead of Nvidia Earnings Call](https://decrypt.co/359098/polkadot-solana-lead-altcoin-surge-ahead-of-nvidia-earnings-call) (Published: 2026-02-25)
+- [Tech CEOs Confused by Why Everybody Hates AI So Much](http://futurism.com/future-society/tech-ceo-ai-hate) (Published: 2026-02-25)
+- [SoftServe Launches Agentic Engineering Suite for Reimagined Software Development](https://www.globenewswire.com/news-release/2026/02/25/3244672/0/en/SoftServe-Launches-Agentic-Engineering-Suite-for-Reimagined-Software-Development.html) (Published: 2026-02-25)
+- [With 32 GB DDR5 RAM: Lenovo Legion Tower 5i gaming desktop packs RTX 5070 Ti, and is now $850 off for a limited time](https://www.notebookcheck.net/With-32-GB-DDR5-RAM-Lenovo-Legion-Tower-5i-gaming-desktop-packs-RTX-5070-Ti-and-is-now-850-off-for-a-limited-time.1233776.0.html) (Published: 2026-02-25)
+- [Tech news today: Nvidia earnings on deck as tech stocks rebound, Anthropic relieves some AI fears](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_73d027ce-7380-41b3-bd07-dc99c7194574) (Published: 2026-02-25)
+- [Arm & Linaro Launch New "CoreCollective" Consortium - With Backing From AMD & Others](https://www.phoronix.com/news/CoreCollective) (Published: 2026-02-25)
+- [US futures rise as investors turn from Trump's State of the Union speech to Nvidia's latest results](https://abcnews.com/US/wireStory/us-futures-rise-investors-turn-trumps-state-union-130478256) (Published: 2026-02-25)
+- [Nvidia still hasn’t sold a single H200 to China nearly three months after getting the green light from the White House — U.S. Commerce official says department hasn’t approved any sales during a House hearing](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-still-hasnt-sold-a-single-h200-to-china-nearly-three-months-after-getting-the-green-light-from-the-white-house-u-s-commerce-official-says-department-hasnt-approved-any-sales-during-a-house-hearing) (Published: 2026-02-25)
+- [Trump's State of the Union, Lowe's earnings, Panera Bread's value menu and more in Morning Squawk](https://www.cnbc.com/2026/02/25/5-things-to-know-before-the-market-opens.html) (Published: 2026-02-25)
