@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-26 19:07:36**_
+_Last updated: **2026-02-26 19:52:29**_
 
+- [Show HN: Penclaw.ai hire OpenClaw tenant for pentesting](https://penclaw.ai) (Published: 2026-02-25)
+- [Reliance Industries restructures AI arm, Meta picks up 30% stake](https://indianexpress.com/article/business/companies/reliance-industries-restructures-ai-arm-meta-picks-up-30-stake-10552551/) (Published: 2026-02-25)
+- [Stocks Climb as Traders Look to Nvidia for AI News: Markets Wrap](https://financialpost.com/pmn/business-pmn/stocks-climb-as-traders-look-to-nvidia-for-ai-news-markets-wrap) (Published: 2026-02-25)
+- [NVIDIA (NVDA) Set to Report Q4 FY2026 Earnings After Bell on February 25, 2026: Wall Street Eyes AI Demand](https://www.ibtimes.com.au/nvidia-nvda-set-report-q4-fy2026-earnings-after-bell-february-25-2026-wall-street-eyes-ai-1862109) (Published: 2026-02-25)
+- [Healthcare AI News 2/25/26](https://histalk2.com/2026/02/25/healthcare-ai-news-2-25-26/) (Published: 2026-02-25)
+- [OpenAI asks its friends to tell their friends about Frontier](https://www.theregister.com/2026/02/25/openai_asks_its_friends_to/) (Published: 2026-02-25)
+- [New AMD Radeon 9070 XT Graphics Cards Come With a Free Code for Crimson Desert](https://www.ign.com/articles/amd-radeon-9070-xt-graphics-cards-crimson-desert-deals) (Published: 2026-02-25)
 - [White House Presses Tech Giants to Shield Households From AI Power Costs](https://oilprice.com/Energy/Energy-General/White-House-Presses-Tech-Giants-to-Shield-Households-From-AI-Power-Costs.html) (Published: 2026-02-25)
 - [VAST Data Unveils Agentic AI OS and Advances Its Thinking Machine Vision](https://www.storagereview.com/news/vast-data-unveils-agentic-ai-os-and-advances-its-thinking-machine-vision) (Published: 2026-02-25)
-- [Big Tech Now Sees Relying Solely on Taiwan For Their Chip Needs as a ‘Death Trap’, With Hidden Economic Time Bombs](https://wccftech.com/big-tech-now-sees-relying-solely-on-taiwan-for-their-chip-needs-as-a-death-trap/) (Published: 2026-02-25)
-- [NVIDIA's New Job Postings Reveal A Big Push To Boost Gaming Performance On Linux](https://hothardware.com/news/nvidia-job-postings-linux-gaming) (Published: 2026-02-25)
-- [Cisco Systems (CSCO) Stock Steady Near $64.50 After Record Q2 FY2026 Revenue Beat, AI Orders Surge](https://www.ibtimes.com.au/cisco-systems-csco-stock-steady-near-6450-after-record-q2-fy2026-revenue-beat-ai-orders-surge-1862105) (Published: 2026-02-25)
-- [Thrive Capital invested about $1 billion in OpenAI at a $285 billion valuation, source says](https://www.cnbc.com/2026/02/25/thrive-capital-openai-joshua-kushner.html) (Published: 2026-02-25)
-- [Stock Market Today: Nasdaq, Dow Hold Gains Before Nvidia Earnings; Vertiv, Keysight Advance (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180859810) (Published: 2026-02-25)
-- [Alphabet (GOOGL) Stock Steady Near $311 as AI Investments Surge Post-Q4 2025 Earnings Beat](https://www.ibtimes.com.au/alphabet-googl-stock-steady-near-311-ai-investments-surge-post-q4-2025-earnings-beat-1862102) (Published: 2026-02-25)
-- [Vast Data expands AI Operating System with global control plane, zero-trust agent framework and deeper Nvidia integration](https://siliconangle.com/2026/02/25/vast-data-expands-ai-operating-system-global-control-plane-zero-trust-agent-framework-deeper-nvidia-integration/) (Published: 2026-02-25)
