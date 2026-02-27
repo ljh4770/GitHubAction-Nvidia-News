@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-27 17:45:05**_
+_Last updated: **2026-02-27 18:21:18**_
 
+- [Rowdy hacked to death in front of mother in Bengaluru](https://timesofindia.indiatimes.com/city/bengaluru/rowdy-hacked-to-death-in-front-of-mother-in-bengaluru/articleshow/128821637.cms) (Published: 2026-02-26)
+- [Aishwarya Khare gets real about preparing to play a doctor on ‘Dr. Aarambhi’; says 'I worked on medical terms, hospital etiquette, and even how a doctor carries herself'](https://timesofindia.indiatimes.com/tv/news/hindi/aishwarya-khare-gets-real-about-preparing-to-play-a-doctor-on-dr-aarambhi-says-i-worked-on-medical-terms-hospital-etiquette-and-even-how-a-doctor-carries-herself/articleshow/128822659.cms) (Published: 2026-02-26)
+- [Why Nasdaq down today – Nasdaq crashes over 2% as Nvidia earnings shock sparks AI bubble fears – here’s the top US stock market losers today](https://economictimes.indiatimes.com/news/international/us/why-nasdaq-down-today-nasdaq-crashes-over-2-as-nvidia-earnings-shock-sparks-ai-bubble-fears-heres-the-top-us-stock-market-losers-today/articleshow/128822417.cms) (Published: 2026-02-26)
+- [Nasdaq leads losses in New York as tech rally loses steam](https://www.irishtimes.com/business/2026/02/26/nasdaq-leads-losses-in-new-york-as-tech-rally-loses-steam/) (Published: 2026-02-26)
+- [Amazon’s $50 Billion OpenAI Investment Could Hinge on AGI](https://www.pymnts.com/artificial-intelligence-2/2026/amazons-50-billion-openai-investment-could-hinge-on-agi/) (Published: 2026-02-26)
+- [1,800 litres of hash oil, worth Rs 200 cr, seized from Koraput forests](https://timesofindia.indiatimes.com/city/bhubaneswar/1800-litres-of-hash-oil-worth-rs-200-cr-seized-from-koraput-forests/articleshow/128822366.cms) (Published: 2026-02-26)
+- [Mahanadi tribunal in state for on-ground assessment](https://timesofindia.indiatimes.com/city/bhubaneswar/mahanadi-tribunal-in-state-for-on-ground-assessment/articleshow/128822236.cms) (Published: 2026-02-26)
 - [Tamil Nadu Forest Department Digitizes Boundary Maps for Enhanced Conservation and Land Dispute Resolution](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-forest-department-digitizes-boundary-maps-for-enhanced-conservation-and-land-dispute-resolution/articleshow/128821024.cms) (Published: 2026-02-26)
 - [Google Street View in 2026](https://tech.marksblogg.com/google-street-view-coverage.html) (Published: 2026-02-26)
 - [Advanced Micro Devices (AMD) Stock Experiences Pullback Amid Broader Market Pressures](https://www.ibtimes.com.au/advanced-micro-devices-amd-stock-experiences-pullback-amid-broader-market-pressures-1862239) (Published: 2026-02-26)
-- [Sun goes spotless for first time in 4 years: What does it mean and how will it impact the Earth](https://timesofindia.indiatimes.com/etimes/trending/sun-goes-spotless-for-first-time-in-4-years-what-does-it-mean-and-how-will-it-impact-the-earth/articleshow/128821373.cms) (Published: 2026-02-26)
-- [Get Resident Evil Requiem for Free with a 12-Month GeForce NOW Ultimate Subscription](https://wccftech.com/get-resident-evil-requiem-free-12-month-geforce-now-ultimate/) (Published: 2026-02-26)
-- [After months of quiet, Perplexity’s CEO steps into the OpenClaw moment](https://fortune.com/2026/02/26/perplexity-ceo-aravind-srinivas-computer-openclaw-ai-agent/) (Published: 2026-02-26)
-- [CoreWeave says Nvidia has its back on data center financing](https://www.businessinsider.com/coreweave-nvidia-gaurantee-data-center-leases-financing-2026-2) (Published: 2026-02-26)
-- [REX rolls out income ETF tied to Coinbase, Strategy, tech stocks](https://cointelegraph.com/news/rex-launches-income-etf-bundling-leveraged-covered-call-exposure-to-coinbase-strategy-and-other-growth-stocks) (Published: 2026-02-26)
-- [MWC Barcelona 2026: What to Expect From Xiaomi, Honor and More](https://www.cnet.com/tech/mobile/mwc-2026-barcelona-what-to-expect-and-how-to-watch/) (Published: 2026-02-26)
-- [Small investors buy Nvidia in record numbers after Thursday's open](https://www.cnbc.com/2026/02/26/small-investors-buy-nvidia-in-record-numbers-after-thursdays-open.html) (Published: 2026-02-26)
