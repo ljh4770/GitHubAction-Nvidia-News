@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-28 17:14:53**_
+_Last updated: **2026-02-28 17:38:33**_
 
+- [The Steam Deck Might Have Just Increased In Price - And You're Going To Hate It](https://www.bgr.com/2111621/steam-deck-oled-price-increase-komodo/) (Published: 2026-02-27)
+- [Computer Repair Shop Owner Repeatedly Tried To Return A Customer’s High-End Gaming PC, But After Months Of Phone Calls And No Shows, He Legally Took Ownership Of It](http://twistedsifter.com/2026/02/computer-repair-shop-owner-repeatedly-tried-to-return-a-customers-high-end-gaming-pc-but-after-months-of-phone-calls-and-no-shows-he-legally-took-ownership-of-it/) (Published: 2026-02-27)
+- [Merge tag 'sound-7.0-rc2' of git://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=bbcb2cd6751a9457275728f7004600320703a788) (Published: 2026-02-27)
+- [US stock market crash big losers and gainers today: Here's complete list](https://economictimes.indiatimes.com/news/international/us/us-stock-market-crash-big-losers-and-gainers-today-heres-complete-list-wall-street-global-markets-sp-500-dow-jones-nasdaq/articleshow/128860116.cms) (Published: 2026-02-27)
+- [Dell Technologies Stock Surges 20% on Blowout Q4 Earnings, AI Server Boom Drives Record Results](https://www.ibtimes.com.au/dell-technologies-stock-surges-20-blowout-q4-earnings-ai-server-boom-drives-record-results-1862313) (Published: 2026-02-27)
+- [Citing AI, Jack Dorsey Fired 40% of His Staff and Block Stock Popped. This Is Fine.](https://www.jezebel.com/citing-ai-jack-dorsey-fired-40-of-his-staff-and-block-stock-shot-up-this-is-fine) (Published: 2026-02-27)
 - [OpenAI secures another $110 billion in funding from Amazon, NVIDIA and SoftBank](https://slashdot.org/firehose.pl?op=view&amp;id=180868516) (Published: 2026-02-27)
 - [Dell PowerEdge XE7740: Inside the Architecture of Enterprise AI Inference](https://www.storagereview.com/review/dell-poweredge-xe7740-inside-the-architecture-of-enterprise-ai-inference) (Published: 2026-02-27)
 - [Marathon might be the perfect 2026 shooter in that I feel like I'm stuck in a giant Nvidia graphics card](https://www.rockpapershotgun.com/marathon-might-be-the-perfect-2026-shooter-in-that-i-feel-like-im-stuck-in-a-giant-nvidia-graphics-card) (Published: 2026-02-27)
-- [Asus ROG Flow Z13 Kojima Edition Review](https://www.ign.com/articles/asus-rog-flow-z13-kojima-edition-review) (Published: 2026-02-27)
-- [Docker AI for Agent Builders: Models, Tools, and Cloud Offload](https://www.kdnuggets.com/docker-ai-for-agent-builders-models-tools-and-cloud-offload) (Published: 2026-02-27)
-- [OpenAI Hits $730B Valuation as Amazon and NVIDIA Lead $110B Mega-Round](https://www.iphoneincanada.ca/2026/02/27/openai-hits-730b-valuation-as-amazon-and-nvidia-lead-110b-mega-round/) (Published: 2026-02-27)
-- [Dow tumbles 500 points as growing AI anxiety, hot inflation rattle Wall Street](https://nypost.com/2026/02/27/business/dow-tumbles-500-points-as-growing-ai-anxiety-hot-inflation-rattle-wall-street/) (Published: 2026-02-27)
-- [CoreWeave CEO defends spending plans, tries to combat debt narrative as stock plummets nearly 20%](https://www.cnbc.com/2026/02/27/coreweave-ceo-intrator-stock-ai-spending.html) (Published: 2026-02-27)
-- [U.S. Stocks Sink, Oil Prices Rise As Inflation, AI, War Worries Hit Wall Street](https://www.huffpost.com/entry/us-stocks-down-inflation-ai-war_n_69a1c494e4b03025399372ed) (Published: 2026-02-27)
