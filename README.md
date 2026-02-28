@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-28 15:24:19**_
+_Last updated: **2026-02-28 15:44:03**_
 
+- [Nvidia rolls back latest GeForce GPU driver due to various bugs](https://www.pcworld.com/article/3073571/nvidia-rolls-back-latest-geforce-gpu-driver-due-to-various-bugs.html) (Published: 2026-02-27)
+- [S&P 500 Falls as Risk Off Prevails, Block Cuts Spur AI Anxiety](https://financialpost.com/pmn/business-pmn/sp-500-falls-as-risk-off-prevails-block-cuts-spur-ai-anxiety) (Published: 2026-02-27)
+- [ISSCC 2026: AMD discloses how the Instinct MI355X doubled per-CU throughput despite lower compute unit count — 'We are actually matching the performance of the more expensive and complex GB200'](https://www.tomshardware.com/tech-industry/semiconductors/inside-the-instinct-mi355x) (Published: 2026-02-27)
+- [OpenAI gets $110 billon in funding from a trio of tech powerhouses, led by Amazon](https://www.bostonherald.com/2026/02/27/openai-investments-amazon-softbank-nvidia/) (Published: 2026-02-27)
+- [Arch-based Bluestar Linux 6.18.9 drops with a new kernel, Firefox 148, LibreOffice 26.2.1, and more](https://www.notebookcheck.net/Arch-based-Bluestar-Linux-6-18-9-drops-with-a-new-kernel-Firefox-148-LibreOffice-26-2-1-and-more.1236523.0.html) (Published: 2026-02-27)
+- [Nvidia Pauses Latest GPU Driver Release Over Fan and Clock Speed Problems](https://uk.pcmag.com/graphics-cards/163428/nvidia-pauses-latest-gpu-driver-release-over-fan-and-clock-speed-problems) (Published: 2026-02-27)
+- [Nvidia Pauses Latest GPU Driver Release Over Fan and Clock Speed Problems](https://me.pcmag.com/en/graphics-cards/35602/nvidia-pauses-latest-gpu-driver-release-over-fan-and-clock-speed-problems) (Published: 2026-02-27)
 - [OpenAI raises $110 billion in record funding round](https://www.rte.ie/news/business/2026/0227/1560829-openai-raises-record-110-billion/) (Published: 2026-02-27)
 - [Dow Jones free fall today: Why did the Dow crash 800 points — inflation shock, Iran war fear and AI disruption slam US stock market on the last February trading day](https://economictimes.indiatimes.com/news/international/us/dow-jones-free-fall-today-why-did-the-dow-crash-800-points-inflation-shock-iran-war-fear-and-ai-disruption-slam-us-stock-market-on-the-last-february-trading-day/articleshow/128856605.cms) (Published: 2026-02-27)
-- [Fox News AI Newsletter: Trump forces Big Tech to pay for AI power](https://www.foxnews.com/tech/ai-newsletter-trump-forces-big-tech-pay-ai-power) (Published: 2026-02-27)
-- [Meta and Google strike AI chip deal – media](https://www.rt.com/business/633115-google-meta-ai-chips/) (Published: 2026-02-27)
-- [Microsoft watched OpenAI collect 110 billion dollars and said 'we’re still cool, right?'](https://www.windowscentral.com/microsoft/microsoft-watched-openai-collect-110-billion-dollars-and-said-were-still-cool-right) (Published: 2026-02-27)
-- [What does OpenAI's $110B raise mean? #tech](https://alltoc.com/tech/what-does-openai-s-110b-raise-mean) (Published: 2026-02-27)
-- [natten-mlx added to PyPI](https://pypi.org/project/natten-mlx/) (Published: 2026-02-27)
-- [Why is the US stock market sinking deep in red today? Dow Jones, S&P 500, Nasdaq crash as hot inflation data and AI fears shake Wall Street](https://economictimes.indiatimes.com/news/international/us/why-is-the-us-stock-market-sinking-deep-in-red-today-dow-jones-sp-500-nasdaq-crash-as-hot-inflation-data-and-ai-fears-shake-wall-street/articleshow/128856084.cms) (Published: 2026-02-27)
-- [AI Update, February 27, 2026: AI News and Views From the Past Week](https://www.marketingprofs.com/opinions/2026/54358/ai-update-february-27-2026-ai-news-and-views-from-the-past-week) (Published: 2026-02-27)
