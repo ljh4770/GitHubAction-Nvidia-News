@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-28 09:35:00**_
+_Last updated: **2026-02-28 09:52:11**_
 
 - [Asian shares wobble, yen and Treasuries rise on AI, geopolitical woes - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=180866986) (Published: 2026-02-27)
 - [Europe Is Decoupling From U.S. Tech](http://foreignpolicy.com/2026/02/27/europe-technology-digital-sovereignty-eu-decoupling-us/) (Published: 2026-02-27)
