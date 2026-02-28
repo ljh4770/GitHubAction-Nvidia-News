@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-28 16:52:54**_
+_Last updated: **2026-02-28 17:14:53**_
 
+- [OpenAI secures another $110 billion in funding from Amazon, NVIDIA and SoftBank](https://slashdot.org/firehose.pl?op=view&amp;id=180868516) (Published: 2026-02-27)
+- [Dell PowerEdge XE7740: Inside the Architecture of Enterprise AI Inference](https://www.storagereview.com/review/dell-poweredge-xe7740-inside-the-architecture-of-enterprise-ai-inference) (Published: 2026-02-27)
+- [Marathon might be the perfect 2026 shooter in that I feel like I'm stuck in a giant Nvidia graphics card](https://www.rockpapershotgun.com/marathon-might-be-the-perfect-2026-shooter-in-that-i-feel-like-im-stuck-in-a-giant-nvidia-graphics-card) (Published: 2026-02-27)
+- [Asus ROG Flow Z13 Kojima Edition Review](https://www.ign.com/articles/asus-rog-flow-z13-kojima-edition-review) (Published: 2026-02-27)
+- [Docker AI for Agent Builders: Models, Tools, and Cloud Offload](https://www.kdnuggets.com/docker-ai-for-agent-builders-models-tools-and-cloud-offload) (Published: 2026-02-27)
+- [OpenAI Hits $730B Valuation as Amazon and NVIDIA Lead $110B Mega-Round](https://www.iphoneincanada.ca/2026/02/27/openai-hits-730b-valuation-as-amazon-and-nvidia-lead-110b-mega-round/) (Published: 2026-02-27)
 - [Dow tumbles 500 points as growing AI anxiety, hot inflation rattle Wall Street](https://nypost.com/2026/02/27/business/dow-tumbles-500-points-as-growing-ai-anxiety-hot-inflation-rattle-wall-street/) (Published: 2026-02-27)
 - [CoreWeave CEO defends spending plans, tries to combat debt narrative as stock plummets nearly 20%](https://www.cnbc.com/2026/02/27/coreweave-ceo-intrator-stock-ai-spending.html) (Published: 2026-02-27)
 - [U.S. Stocks Sink, Oil Prices Rise As Inflation, AI, War Worries Hit Wall Street](https://www.huffpost.com/entry/us-stocks-down-inflation-ai-war_n_69a1c494e4b03025399372ed) (Published: 2026-02-27)
-- [Dow, S&P 500 and Nasdaq post worst month in 11 months — is the AI stock boom losing momentum? what investors need to know about the 2026 US stock market outlook](https://economictimes.indiatimes.com/news/international/us/dow-sp-500-and-nasdaq-post-worst-month-in-11-months-is-the-ai-stock-boom-losing-momentum-what-investors-need-to-know-about-the-2026-us-stock-market-outlook/articleshow/128858958.cms) (Published: 2026-02-27)
-- [OpenAI raises $110 billion at post-money valuation of $840 billion](https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-raises-110-billion-at-post-money-valuation-of-840-billion/articleshow/128859197.cms) (Published: 2026-02-27)
-- [OpenAI Eyes Biggest US IPO in History Thanks to Nvidia and Amazon](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9808e2fa-3f1d-4f0a-b414-0d693db987f3) (Published: 2026-02-27)
-- [Infosys ADRs tumble 5%, Wipro slips over 3% as Wall Street rattled by inflation data and AI fears](https://economictimes.indiatimes.com/markets/us-stocks/news/infosys-adrs-tumble-5-wipro-slips-over-3-as-wall-street-rattled-by-inflation-data-and-ai-fears/articleshow/128858822.cms) (Published: 2026-02-27)
-- [OpenAI's $110 billion funding pushes its valuation to $840 billion with backing from Amazon, Nvidia, SoftBank](https://www.livemint.com/companies/news/openais-110-billion-funding-pushes-its-valuation-to-840-billion-with-backing-from-amazon-nvidia-softbank-11772208356860.html) (Published: 2026-02-27)
-- [NVIDIA's CEO Jensen Huang to visit Israel in April](https://www.jpost.com/business-and-innovation/all-news/article-888223) (Published: 2026-02-27)
