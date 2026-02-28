@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-28 14:55:38**_
+_Last updated: **2026-02-28 15:24:19**_
 
-- [OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank](https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment) (Published: 2026-02-27)
-- [Amazon, Nvidia Flood OpenAI With Cash as ChatGPT Maker’s Valuation Hits $730 Billion](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a2294f45-0d66-4e27-8ab4-90bd3c2d71f3) (Published: 2026-02-27)
-- [Amazon, Nvidia Flood OpenAI With Cash as ChatGPT Maker’s Valuation Hits $730 Billion](https://decrypt.co/359401/amazon-nvidia-flood-openai-cash-valuation-730-billion) (Published: 2026-02-27)
-- [2026 NAB Show Expands Sports Summit to Four Days, Spotlighting the New Era of Sports Media and Entertainment](https://www.globenewswire.com/news-release/2026/02/27/3246588/0/en/2026-NAB-Show-Expands-Sports-Summit-to-Four-Days-Spotlighting-the-New-Era-of-Sports-Media-and-Entertainment.html) (Published: 2026-02-27)
-- [NVIDIA Pulls GPU Driver For Resident Evil Requiem With Roll Back Guidance](https://hothardware.com/news/nvidia-pulls-59559-gpu-driver-tells-gamers-roll-back) (Published: 2026-02-27)
-- [natten-mps added to PyPI](https://pypi.org/project/natten-mps/) (Published: 2026-02-27)
-- [US stock markets today: Dow Jones crashes 500 points, Nasdaq drops over 1% as AI worries spook investors](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-markets-today-dow-jones-crashes-500-points-nasdaq-drops-over-1-as-ai-worries-spook-investors/articleshow/128855382.cms) (Published: 2026-02-27)
-- [OpenAI secures up to €93bn in record funding deal](https://www.irishtimes.com/business/2026/02/27/openai-secures-up-to-93bn-in-record-funding-deal/) (Published: 2026-02-27)
-- [Nvidia DGX Spark gets 18% price increase as memory shortages bite — Founders Edition now $4,699, up from $3,999](https://www.tomshardware.com/desktops/mini-pcs/nvidia-dgx-spark-gets-18-percent-price-increase-as-memory-shortages-bite-founders-edition-now-usd4-699-up-from-usd3-999) (Published: 2026-02-27)
-- [OpenAI raises $110B in one of the largest private funding rounds in history | TechCrunch](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/) (Published: 2026-02-27)
+- [OpenAI raises $110 billion in record funding round](https://www.rte.ie/news/business/2026/0227/1560829-openai-raises-record-110-billion/) (Published: 2026-02-27)
+- [Dow Jones free fall today: Why did the Dow crash 800 points — inflation shock, Iran war fear and AI disruption slam US stock market on the last February trading day](https://economictimes.indiatimes.com/news/international/us/dow-jones-free-fall-today-why-did-the-dow-crash-800-points-inflation-shock-iran-war-fear-and-ai-disruption-slam-us-stock-market-on-the-last-february-trading-day/articleshow/128856605.cms) (Published: 2026-02-27)
+- [Fox News AI Newsletter: Trump forces Big Tech to pay for AI power](https://www.foxnews.com/tech/ai-newsletter-trump-forces-big-tech-pay-ai-power) (Published: 2026-02-27)
+- [Meta and Google strike AI chip deal – media](https://www.rt.com/business/633115-google-meta-ai-chips/) (Published: 2026-02-27)
+- [Microsoft watched OpenAI collect 110 billion dollars and said 'we’re still cool, right?'](https://www.windowscentral.com/microsoft/microsoft-watched-openai-collect-110-billion-dollars-and-said-were-still-cool-right) (Published: 2026-02-27)
+- [What does OpenAI's $110B raise mean? #tech](https://alltoc.com/tech/what-does-openai-s-110b-raise-mean) (Published: 2026-02-27)
+- [natten-mlx added to PyPI](https://pypi.org/project/natten-mlx/) (Published: 2026-02-27)
+- [Why is the US stock market sinking deep in red today? Dow Jones, S&P 500, Nasdaq crash as hot inflation data and AI fears shake Wall Street](https://economictimes.indiatimes.com/news/international/us/why-is-the-us-stock-market-sinking-deep-in-red-today-dow-jones-sp-500-nasdaq-crash-as-hot-inflation-data-and-ai-fears-shake-wall-street/articleshow/128856084.cms) (Published: 2026-02-27)
+- [AI Update, February 27, 2026: AI News and Views From the Past Week](https://www.marketingprofs.com/opinions/2026/54358/ai-update-february-27-2026-ai-news-and-views-from-the-past-week) (Published: 2026-02-27)
