@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-02-28 19:50:07**_
+_Last updated: **2026-02-28 20:00:52**_
 
 - [Nvidia's stock wrapping up tough week as Wall Street focuses more on competition than growth](https://www.cnbc.com/2026/02/27/nvidia-wraps-tough-week-as-investors-focus-on-competition-over-growth.html) (Published: 2026-02-27)
 - [Brookfield's new AI unit Radiant valued at $1.3 billion after merger with UK startup, sources say](https://www.channelnewsasia.com/business/brookfields-new-ai-unit-radiant-valued-13-billion-after-merger-uk-startup-sources-say-5959501) (Published: 2026-02-27)
