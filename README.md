@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-01 07:10:14**_
+_Last updated: **2026-03-01 07:46:54**_
 
+- [Nvidia's new AI system Vera Rubin is 10x more efficient than its predecessor](https://slashdot.org/submission/17345180/nvidias-new-ai-system-vera-rubin-is-10x-more-efficient-than-its-predecessor) (Published: 2026-02-28)
+- [NVIDIA to give away GeForce RTX 5090 Resident Evil Requiem edition GPU - VideoCardz.com](https://slashdot.org/firehose.pl?op=view&amp;id=180872512) (Published: 2026-02-28)
 - [なぜ日本からNVIDIAやTSMCが生まれないのか](http://blog.livedoor.jp/nanjstu/archives/63041691.html) (Published: 2026-02-28)
 - [Microsoft, OpenAI reaffirm ties after $110 billion raise](https://economictimes.indiatimes.com/tech/technology/microsoft-openai-reaffirm-ties-after-110-billion-raise/articleshow/128876715.cms) (Published: 2026-02-28)
 - [nemotron-asr-mlx 0.1.0](https://pypi.org/project/nemotron-asr-mlx/0.1.0/) (Published: 2026-02-28)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-01 07:10:14**_
 - [Anthropic's dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic (Wired)](https://www.techmeme.com/260228/p2) (Published: 2026-02-28)
 - [Pixar releases RenderMan 27.2](https://www.cgchannel.com/2026/02/pixar-releases-renderman-27-2/) (Published: 2026-02-28)
 - [Video: Resident Evil Requiem Side-By-Side Comparison (Switch 2 & PS5 Pro)](https://www.nintendolife.com/news/2026/02/video-resident-evil-requiem-side-by-side-comparison-switch-2-and-ps5-pro) (Published: 2026-02-28)
-- [Nvidia set to launch new chip that could reset the AI race, says report — Key things to know](https://www.livemint.com/companies/news/nvidia-set-to-launch-new-chip-that-could-reset-the-ai-race-says-report-key-things-to-know-11772252346515.html) (Published: 2026-02-28)
-- [Global stocks: Global stocks fall as investors mull AI disruptions, oil prices rise](https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-global-stocks-fall-as-investors-mull-ai-disruptions-oil-prices-rise/articleshow/128873902.cms) (Published: 2026-02-28)
