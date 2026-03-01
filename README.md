@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-01 09:02:18**_
+_Last updated: **2026-03-01 09:40:00**_
 
+- [optimum-grilly added to PyPI](https://pypi.org/project/optimum-grilly/) (Published: 2026-02-28)
 - [Daily Tech News 28 February 2026](https://acecomments.mu.nu/?post=418690) (Published: 2026-02-28)
 - [Meet the wildlife conservation AI 5G hotspot at MWC Barcelona 2026](
       https://ubuntu.com/blog/meet-the-wildlife-conservation-ai-5g-hotspot-at-mwc-barcelona-2026) (Published: 2026-02-28)
@@ -11,4 +12,3 @@ _Last updated: **2026-03-01 09:02:18**_
 - [Microsoft, OpenAI reaffirm ties after $110 billion raise](https://economictimes.indiatimes.com/tech/technology/microsoft-openai-reaffirm-ties-after-110-billion-raise/articleshow/128876715.cms) (Published: 2026-02-28)
 - [nemotron-asr-mlx 0.1.0](https://pypi.org/project/nemotron-asr-mlx/0.1.0/) (Published: 2026-02-28)
 - [nemotron-asr-mlx added to PyPI](https://pypi.org/project/nemotron-asr-mlx/) (Published: 2026-02-28)
-- [ChatGPT crosses 900 million weekly users, 50 million paying subscribers](https://economictimes.indiatimes.com/tech/artificial-intelligence/chatgpt-crosses-900-million-weekly-users-50-million-paying-subscribers/articleshow/128876297.cms) (Published: 2026-02-28)
