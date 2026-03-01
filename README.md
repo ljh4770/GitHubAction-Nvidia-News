@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-01 07:46:54**_
+_Last updated: **2026-03-01 07:59:49**_
 
 - [Nvidia's new AI system Vera Rubin is 10x more efficient than its predecessor](https://slashdot.org/submission/17345180/nvidias-new-ai-system-vera-rubin-is-10x-more-efficient-than-its-predecessor) (Published: 2026-02-28)
 - [NVIDIA to give away GeForce RTX 5090 Resident Evil Requiem edition GPU - VideoCardz.com](https://slashdot.org/firehose.pl?op=view&amp;id=180872512) (Published: 2026-02-28)
