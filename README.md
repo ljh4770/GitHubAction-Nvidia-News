@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-01 20:19:34**_
+_Last updated: **2026-03-01 20:44:37**_
 
+- [The billion-dollar infrastructure deals powering the AI boom | TechCrunch](https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/) (Published: 2026-02-28)
+- [Jim Cramer Calls Nvidia's After-Hours Dip Is A 'Mistake,' Analyst Says Investors Now Expect Outsized Results Each Quarter - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=180874452) (Published: 2026-02-28)
 - [Uber Employees Have Created an AI Clone of Its CEO](http://futurism.com/artificial-intelligence/uber-employees-ai-ceo) (Published: 2026-02-28)
 - [Coco delivery robots get reboot to maximize service and expand market](https://nypost.com/2026/02/28/us-news/coco-delivery-robots-get-reboot-to-maximize-service-and-expand-market/) (Published: 2026-02-28)
 - [Advanced SimRacing Motion Simulator at No Reserve](https://bringatrailer.com/listing/turn-key-racing-simulator/) (Published: 2026-02-28)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-01 20:19:34**_
 - [I'm Low-key Hyped for This Data Center Sim (Though It Has No Official Linux Support)](https://itsfoss.com/data-center-game/) (Published: 2026-02-28)
 - [Jim Cramer Doesn’t Believe NVIDIA (NVDA) Is Engaged In Circular Deals](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b0f406c-b2a6-4f5d-8888-99a6b7179d84) (Published: 2026-02-28)
 - [Nvidia Stock Keeps Dropping After Earnings - Barron's](https://slashdot.org/firehose.pl?op=view&amp;id=180873774) (Published: 2026-02-28)
-- [Today's news and jokes](https://www.superpunch.net/2026/02/todays-news-and-jokes_01479714010.html) (Published: 2026-02-28)
-- [With Revenue Share Shrinking, Does Nvidia Need Gaming Anymore?](https://me.pcmag.com/en/gaming/35636/with-revenue-share-shrinking-does-nvidia-need-gaming-anymore) (Published: 2026-02-28)
