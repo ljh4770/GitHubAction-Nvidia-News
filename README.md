@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-01 13:21:59**_
+_Last updated: **2026-03-01 13:53:05**_
 
+- [Cadence Design Systems, Inc. (CDNS): A Bull Case Theory](https://finance.yahoo.com/news/cadence-design-systems-inc-cdns-134648953.html) (Published: 2026-02-28)
+- [Timeline: Anthropic, OpenAI, and U.S. Government](https://anthropic-timeline.vercel.app) (Published: 2026-02-28)
 - [AI just leveled up and there are no guardrails anymore](https://www.cnbc.com/2026/02/28/ai-selloff-politics-agents.html) (Published: 2026-02-28)
 - [Super Bomberman Collection](https://uk.pcmag.com/nintendo-games/163451/super-bomberman-collection) (Published: 2026-02-28)
 - [Super Bomberman Collection](https://me.pcmag.com/en/sony-playstation-games/35626/super-bomberman-collection) (Published: 2026-02-28)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-01 13:21:59**_
 - [nvidia-nat-redis 1.5.0a20260228](https://pypi.org/project/nvidia-nat-redis/1.5.0a20260228/) (Published: 2026-02-28)
 - [nvidia-nat-data-flywheel 1.5.0a20260228](https://pypi.org/project/nvidia-nat-data-flywheel/1.5.0a20260228/) (Published: 2026-02-28)
 - [nvidia-nat-semantic-kernel 1.5.0a20260228](https://pypi.org/project/nvidia-nat-semantic-kernel/1.5.0a20260228/) (Published: 2026-02-28)
-- [nvidia-nat-opentelemetry 1.5.0a20260228](https://pypi.org/project/nvidia-nat-opentelemetry/1.5.0a20260228/) (Published: 2026-02-28)
-- [nvidia-nat-openpipe-art 1.5.0a20260228](https://pypi.org/project/nvidia-nat-openpipe-art/1.5.0a20260228/) (Published: 2026-02-28)
