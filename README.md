@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-02 08:59:36**_
+_Last updated: **2026-03-02 10:01:05**_
 
+- [nvfuser-cu128-torch210 0.2.36.dev20260301](https://pypi.org/project/nvfuser-cu128-torch210/0.2.36.dev20260301/) (Published: 2026-03-01)
+- [nvfuser-cu126-torch210 0.2.36.dev20260301](https://pypi.org/project/nvfuser-cu126-torch210/0.2.36.dev20260301/) (Published: 2026-03-01)
+- [Semicon 2.0 to boost deep tech startups, create design ecosystem: Union minister Ashwini Vaishnaw](https://economictimes.indiatimes.com/tech/startups/semicon-2-0-to-boost-deep-tech-startups-create-design-ecosystem-union-minister-ashwini-vaishnaw/articleshow/128911673.cms) (Published: 2026-03-01)
+- [Samsung to use humanoid robots and agentic AI to reshape its global factories by 2030](https://www.notebookcheck.net/Samsung-to-use-humanoid-robots-and-agentic-AI-to-reshape-its-global-factories-by-2030.1238471.0.html) (Published: 2026-03-01)
+- [India’s innovation gap can be seen in the financial numbers of Indian companies](https://www.livemint.com/opinion/online-views/india-innovation-gap-financial-numbers-indian-companies-r-d-research-and-development-11772121676151.html) (Published: 2026-03-01)
 - [New Amazon Deal Prompts Joint Statement from Microsoft (MSFT) and OpenAI - TipRanks](https://slashdot.org/firehose.pl?op=view&amp;id=180877438) (Published: 2026-03-01)
 - [Cliff Taylor: Trump’s economic moves seem contradictory and dangerous but there is a game plan](https://www.irishtimes.com/opinion/2026/03/01/trumps-behaviour-seems-contradictory-and-dangerous-but-there-is-a-game-plan/) (Published: 2026-03-01)
 - [NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models](https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/) (Published: 2026-03-01)
 - [Ahead of MWC Barcelona, Nvidia bets AI-native platforms will carry telecom into 6G](https://siliconangle.com/2026/03/01/ahead-mwc-barcelona-nvidia-bets-ai-native-platforms-will-carry-telecom-6g/) (Published: 2026-03-01)
 - [NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation](https://blogs.nvidia.com/blog/software-defined-ai-ran/) (Published: 2026-03-01)
-- [NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms](http://nvidianews.nvidia.com/news/nvidia-and-global-telecom-leaders-commit-to-build-6g-on-open-and-secure-ai-native-platforms) (Published: 2026-03-01)
-- [Mark O'Connell: Think AI uses a lot of energy? Wait til you hear about humans](https://www.irishtimes.com/opinion/2026/03/01/think-ai-uses-a-lot-of-energy-wait-til-you-hear-about-humans/) (Published: 2026-03-01)
-- [NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms](https://www.globenewswire.com/news-release/2026/03/01/3246916/0/en/NVIDIA-and-Global-Telecom-Leaders-Commit-to-Build-6G-on-Open-and-Secure-AI-Native-Platforms.html) (Published: 2026-03-01)
-- [After Micron, CG Semi nears OSAT launch & 7,000 workers build Tata Electronics’ Dholera Fab in Gujarat](https://www.thehindubusinessline.com/info-tech/after-micron-cg-semi-nears-osat-launch-7000-workers-build-tata-electronics-dholera-fab-in-gujarat/article70690876.ece) (Published: 2026-03-01)
-- [An AI agent coding skeptic tries AI agent coding, in excessive detail | Max Woolf's Blog](https://minimaxir.com/2026/02/ai-agent-coding/) (Published: 2026-03-01)
