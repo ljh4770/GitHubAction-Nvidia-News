@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-02 11:33:21**_
+_Last updated: **2026-03-02 11:56:30**_
 
+- [Show HN: Steward – a background agent that closes 80% low-risk noise](https://github.com/study8677/Steward) (Published: 2026-03-01)
+- [The Nvidia GeForce3 launched 25 years ago — underappreciated at launch, its impact shaped the industry](https://www.tomshardware.com/pc-components/gpus/the-geforce3-launched-25-years-ago-underappreciated-at-launch-its-impact-shaped-the-industry) (Published: 2026-03-01)
 - [Warning: AI Is Coming For Your 401(k)](https://www.forbes.com/sites/baldwin/2026/02/28/warning-ai-is-coming-for-your-401k/) (Published: 2026-03-01)
 - [Show HN: RAG-Enterprise – 100% local RAG system for enterprise documents](https://github.com/I3K-IT/RAG-Enterprise) (Published: 2026-03-01)
 - [Global Earnings Underscore Shift From US as S&P 500 Slumped](https://financialpost.com/pmn/business-pmn/global-earnings-underscore-shift-from-us-as-sp-500-slumped) (Published: 2026-03-01)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-02 11:33:21**_
 - [nvidia-nat-test 1.6.0a20260301](https://pypi.org/project/nvidia-nat-test/1.6.0a20260301/) (Published: 2026-03-01)
 - [nvidia-nat-mysql 1.6.0a20260301](https://pypi.org/project/nvidia-nat-mysql/1.6.0a20260301/) (Published: 2026-03-01)
 - [nvfuser-cu128-torch210 0.2.36.dev20260301](https://pypi.org/project/nvfuser-cu128-torch210/0.2.36.dev20260301/) (Published: 2026-03-01)
-- [nvfuser-cu126-torch210 0.2.36.dev20260301](https://pypi.org/project/nvfuser-cu126-torch210/0.2.36.dev20260301/) (Published: 2026-03-01)
-- [Semicon 2.0 to boost deep tech startups, create design ecosystem: Union minister Ashwini Vaishnaw](https://economictimes.indiatimes.com/tech/startups/semicon-2-0-to-boost-deep-tech-startups-create-design-ecosystem-union-minister-ashwini-vaishnaw/articleshow/128911673.cms) (Published: 2026-03-01)
