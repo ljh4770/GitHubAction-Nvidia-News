@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-02 19:46:31**_
+_Last updated: **2026-03-02 20:18:11**_
 
 - [Show HN: Nabla – Pure Rust GPU math engine, 7.5× faster matmul than PyTorch](https://github.com/fumishiki/nabla) (Published: 2026-03-01)
 - [Crypto market’s weekly winners and losers – DOT, NEAR, BCH, PEPE](https://ambcrypto.com/crypto-market-weekly-review-1-march/) (Published: 2026-03-01)
