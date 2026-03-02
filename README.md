@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-02 16:26:59**_
+_Last updated: **2026-03-02 17:23:24**_
 
 - [NVIDIA RTX 5090 16-pin Connector Melting — Tracking The 12V-2X6 Connector Failures And Here’s What You Can Do](https://wccftech.com/roundup/nvidia-rtx-5090-16-pin-connector-melting-issues-tracker/) (Published: 2026-03-01)
 - [Windows 11 continues gaining traction, nears 75% market share — Windows 10 finally on the way out, some five months after Microsoft axes support](https://www.tomshardware.com/software/windows/windows-11-continues-gaining-traction-nears-75-percent-market-share-windows-10-finally-on-the-way-out-some-five-months-after-microsoft-axes-support) (Published: 2026-03-01)
