@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-02 19:02:47**_
+_Last updated: **2026-03-02 19:46:31**_
 
+- [Show HN: Nabla – Pure Rust GPU math engine, 7.5× faster matmul than PyTorch](https://github.com/fumishiki/nabla) (Published: 2026-03-01)
 - [Crypto market’s weekly winners and losers – DOT, NEAR, BCH, PEPE](https://ambcrypto.com/crypto-market-weekly-review-1-march/) (Published: 2026-03-01)
 - [Show HN: Open-source MCP server for AI podcast clipping](https://github.com/nmbrthirteen/podcli) (Published: 2026-03-01)
 - [Police to use social media platforms to keep tabs on rising traffic menace](https://timesofindia.indiatimes.com/city/goa/police-to-use-social-media-platforms-to-keep-tabs-on-rising-traffic-menace/articleshow/128924572.cms) (Published: 2026-03-01)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-02 19:02:47**_
 - [Curtorim gram sabha opposes hsg project over Maina lake threat](https://timesofindia.indiatimes.com/city/goa/curtorim-gram-sabha-opposes-hsg-project-over-maina-lake-threat/articleshow/128924169.cms) (Published: 2026-03-01)
 - [Dhubri port customs & immigration centre to boost cross-border trade](https://timesofindia.indiatimes.com/city/guwahati/dhubri-port-customs-immigration-centre-to-boost-cross-border-trade/articleshow/128924348.cms) (Published: 2026-03-01)
 - [Odisha come from behind to hold Chennaiyin 1-1 in ISL](https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-come-from-behind-to-hold-chennaiyin-1-1-in-isl/articleshow/128923623.cms) (Published: 2026-03-01)
-- [BJP pitches for rights of indigenous people as poll rally enters Morigaon](https://timesofindia.indiatimes.com/city/guwahati/bjp-pitches-for-rights-of-indigenous-people-as-poll-rally-enters-morigaon/articleshow/128924301.cms) (Published: 2026-03-01)
