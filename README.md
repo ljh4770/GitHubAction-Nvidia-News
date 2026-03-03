@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-03 08:55:24**_
+_Last updated: **2026-03-03 09:41:52**_
 
+- [nvfuser-cu128 0.2.36.dev20260302](https://pypi.org/project/nvfuser-cu128/0.2.36.dev20260302/) (Published: 2026-03-02)
+- [nvfuser-cu126 0.2.36.dev20260302](https://pypi.org/project/nvfuser-cu126/0.2.36.dev20260302/) (Published: 2026-03-02)
+- [nvfuser-cu130 0.2.36.dev20260302](https://pypi.org/project/nvfuser-cu130/0.2.36.dev20260302/) (Published: 2026-03-02)
+- [Microsoft Shader Execution Reordering Brings 90% Performance Increase on Intel Arc B-Series, 80% on NVIDIA "Blackwell" GPUs](https://www.techpowerup.com/346921/microsoft-shader-execution-reordering-brings-90-performance-increase-on-intel-arc-b-series-80-on-nvidia-blackwell-gpus) (Published: 2026-03-02)
+- [Billionaire Dan Loeb of Third Point Is Piling Into Nvidia for a 4th Consecutive Quarter, but Dumped His Fund's Entire Stake in This "Magnificent Seven" Stock](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7606a6c6-f59e-4e56-8bcf-029b818bd2df) (Published: 2026-03-02)
+- [Nokia expands partnerships with TIM Brasil, Deutsche Telekom in AI technology push](https://www.channelnewsasia.com/business/nokia-expands-partnerships-tim-brasil-deutsche-telekom-in-ai-technology-push-5963666) (Published: 2026-03-02)
+- [MSI Unveils Scalable AI-RAN with NVIDIA AI Aerial Solutions to Accelerate 5G and Beyond at MWC 2026](https://www.madshrimps.be/news/msi-unveils-scalable-ai-ran-with-nvidia-ai-aerial-solutions-to-accelerate-5g-and-beyond-at-mwc-2026/) (Published: 2026-03-02)
+- [mlx-tune added to PyPI](https://pypi.org/project/mlx-tune/) (Published: 2026-03-02)
+- [(PR) MSI Unveils Scalable AI-RAN with NVIDIA AI Aerial Solutions to Accelerate 5G and Beyond at MWC 2026](https://www.techpowerup.com/346920/msi-unveils-scalable-ai-ran-with-nvidia-ai-aerial-solutions-to-accelerate-5g-and-beyond-at-mwc-2026) (Published: 2026-03-02)
 - [AMD deal with Meta puts CPU firm as leading alternative to Nvidia in AI compute](https://www.digitimes.com/news/a20260302PD207/amd-meta-nvidia-gpu-openai.html) (Published: 2026-03-02)
-- [Trade tensions deepen Nvidia and TSMC's strategic grip on AI infrastructure](https://www.digitimes.com/news/a20260302PD213/nvidia-tsmc-infrastructure-earnings-revenue.html) (Published: 2026-03-02)
-- [Google signs multibillion-dollar AI chip deal with Meta to escalate Nvidia rivalry](https://www.digitimes.com/news/a20260302VL203/meta-nvidia-google-chips-hardware.html) (Published: 2026-03-02)
-- [Nvidia confirms liquid cooling as standard, boosting supply chain revenue outlook](https://www.digitimes.com/news/a20260302PD225/nvidia-liquid-cooling-revenue-2026-earnings.html) (Published: 2026-03-02)
-- [Analysis: AMD bets on AI surge in 2H26 with OpenAI and Meta ecosystem pact](https://www.digitimes.com/news/a20260302PD206/amd-meta-openai-market-incentives.html) (Published: 2026-03-02)
-- [RAM Crisis GetsWorse : Hits Laptops, Phones & Consoles as HBM Demand Surges](https://www.geeky-gadgets.com/ram-prices-2026/) (Published: 2026-03-02)
-- [Huawei takes 8,192-chip Atlas 950 global, escalates AI data center fight with Nvidia](https://www.digitimes.com/news/a20260302VL209/huawei-ascend-data-center-nvidia-mwc-2026.html) (Published: 2026-03-02)
-- [Mobility in the AI era: Building the infrastructure economies depend on](https://blogs.cisco.com/sp/mobility-in-the-ai-era-building-the-infrastructure-economies-depend-on) (Published: 2026-03-02)
-- [Insight: Broadcom delivers 2nm 3.5D AI processor, expanding custom chip push against Nvidia](https://www.digitimes.com/news/a20260302VL212/broadcom-2nm-nvidia-processor-shipping.html) (Published: 2026-03-02)
-- [【ヒューマノイド量産元年】フィジカルAIバリューチェーン全体を俯瞰し、自社の成長機会を特定する「検討フレームワーク」の提供開始](https://prtimes.jp/main/html/rd/p/000000003.000176900.html) (Published: 2026-03-02)
