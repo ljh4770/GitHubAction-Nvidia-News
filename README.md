@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-04 06:05:13**_
+_Last updated: **2026-03-04 07:04:04**_
 
+- [NVIDIA Releases GeForce 595.71 WHQL Game Ready Drivers](https://www.madshrimps.be/news/nvidia-releases-geforce-595-71-whql-game-ready-drivers/) (Published: 2026-03-03)
+- [nvidia-dali-tf-plugin-cuda130 2.0.0](https://pypi.org/project/nvidia-dali-tf-plugin-cuda130/2.0.0/) (Published: 2026-03-03)
+- [Qualcomm CEO sees robotics as a 'larger opportunity' within 2 years](https://www.cnbc.com/2026/03/03/qualcomm-ceo-robotics-chips.html) (Published: 2026-03-03)
 - [nvidia-nat-strands 1.5.0rc3](https://pypi.org/project/nvidia-nat-strands/1.5.0rc3/) (Published: 2026-03-03)
 - [nvidia-nat-phoenix 1.5.0rc3](https://pypi.org/project/nvidia-nat-phoenix/1.5.0rc3/) (Published: 2026-03-03)
 - [nvidia-nat-mcp 1.5.0rc3](https://pypi.org/project/nvidia-nat-mcp/1.5.0rc3/) (Published: 2026-03-03)
@@ -8,6 +11,3 @@ _Last updated: **2026-03-04 06:05:13**_
 - [nvidia-nat-openpipe-art 1.5.0rc3](https://pypi.org/project/nvidia-nat-openpipe-art/1.5.0rc3/) (Published: 2026-03-03)
 - [nvidia-nat-llama-index 1.5.0rc3](https://pypi.org/project/nvidia-nat-llama-index/1.5.0rc3/) (Published: 2026-03-03)
 - [nvidia-nat-fastmcp 1.5.0rc3](https://pypi.org/project/nvidia-nat-fastmcp/1.5.0rc3/) (Published: 2026-03-03)
-- [nvidia-nat-opentelemetry 1.5.0rc3](https://pypi.org/project/nvidia-nat-opentelemetry/1.5.0rc3/) (Published: 2026-03-03)
-- [nvidia-nat-nemo-customizer 1.5.0rc3](https://pypi.org/project/nvidia-nat-nemo-customizer/1.5.0rc3/) (Published: 2026-03-03)
-- [nvidia-nat-mem0ai 1.5.0rc3](https://pypi.org/project/nvidia-nat-mem0ai/1.5.0rc3/) (Published: 2026-03-03)
