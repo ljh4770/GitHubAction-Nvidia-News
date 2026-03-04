@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-04 16:23:20**_
+_Last updated: **2026-03-04 17:06:36**_
 
+- [Yanko Design’s Best of MWC 2026: When Engineering Gets Obsessive](https://www.yankodesign.com/2026/03/03/yanko-designs-best-of-mwc-2026-when-engineering-gets-obsessive/) (Published: 2026-03-03)
+- [Show HN: NoteCat – Record, Transcribe, Summarize Discord Voice Channels](https://notecat.fyi) (Published: 2026-03-03)
+- [(PR) NVIDIA CEO Jensen Huang and Global Technology Leaders to Showcase Age of AI at GTC 2026](https://www.techpowerup.com/347001/nvidia-ceo-jensen-huang-and-global-technology-leaders-to-showcase-age-of-ai-at-gtc-2026) (Published: 2026-03-03)
+- [Nvidia RTX 5070 mobile GPU looks set to get more VRAM despite global memory crisis — 8GB could be boosted to 12GB, according to new listings](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5070-mobile-gpu-looks-set-to-get-more-vram-despite-global-memory-crisis-8gb-could-be-boosted-to-12gb-according-to-new-listings) (Published: 2026-03-03)
+- [GraniteShares Announces Weekly Distributions for its Autocallable ETFs: ANV and TLA](https://www.globenewswire.com/news-release/2026/03/03/3248676/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-Autocallable-ETFs-ANV-and-TLA.html) (Published: 2026-03-03)
+- [US stock market Dow Jones, S&P 500 and Nasdaq crash today biggest losers and gainers: Here's complete list, Analysts insights, market outlook and what should investors do now](https://economictimes.indiatimes.com/news/international/us/us-stock-market-dow-jones-sp-500-and-nasdaq-crash-today-biggest-losers-and-gainers-heres-complete-list-analysts-insights-market-outlook-and-what-should-investors-do-now/articleshow/128981477.cms) (Published: 2026-03-03)
+- [vision-agents-plugins-nvidia 0.4.0](https://pypi.org/project/vision-agents-plugins-nvidia/0.4.0/) (Published: 2026-03-03)
+- [Goldman Sachs resets Nvidia stock forecast after earnings - thestreet.com](https://slashdot.org/firehose.pl?op=view&amp;id=180899708) (Published: 2026-03-03)
+- [Harvard Adjusts Tech Portfolio, Loses 35% in 2 Months on Ethereum ETF Bet](https://www.ai-cio.com/news/harvard-adjusts-tech-portfolio-loses-35-in-2-months-on-ethereum-etf-bet/) (Published: 2026-03-03)
 - [Developer Uses Older AMD GPU for Game Demo, and the Results Are Impressive](https://me.pcmag.com/en/graphics-cards/35713/developer-uses-older-amd-gpu-for-game-demo-and-the-results-are-impressive) (Published: 2026-03-03)
-- [Developer Uses Older AMD GPU for Game Demo, and the Results Are Impressive](https://uk.pcmag.com/graphics-cards/163543/developer-uses-older-amd-gpu-for-game-demo-and-the-results-are-impressive) (Published: 2026-03-03)
-- [GNOME Mutter 50.rc Released With Better NVIDIA Performance, SDR-Native & Better HDR](https://www.phoronix.com/news/GNOME-Mutter-50.rc) (Published: 2026-03-03)
-- [Advantage Solutions Q4 Earnings Call Highlights](https://www.marketbeat.com/instant-alerts/advantage-solutions-q4-earnings-call-highlights-2026-03-03/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-03-03)
-- [(PR) Micron Releases World's First High-Capacity 256 GB LPDRAM SOCAMM2 for Data Center Infrastructure](https://www.techpowerup.com/346999/micron-releases-worlds-first-high-capacity-256-gb-lpdram-socamm2-for-data-center-infrastructure) (Published: 2026-03-03)
-- [Pentagon ditches Anthropic AI over “security risk” and OpenAI takes over](https://www.malwarebytes.com/blog/news/2026/03/pentagon-ditches-anthropic-ai-over-security-risk-and-openai-takes-over) (Published: 2026-03-03)
-- [No, the sub-$500 PC market will not disappear by 2028 - Au contraire, I expect it to thrive. Here's why](https://www.techradar.com/pro/no-the-sub-usd500-pc-market-will-not-disappear-by-2028-au-contraire-i-expect-it-to-thrive-heres-why) (Published: 2026-03-03)
-- [CAMON 50 Series Launched with Tonino Lamborghini Collaboration](https://www.yugatech.com/news/camon-50-series-launched-with-tonino-lamborghini-collaboration/) (Published: 2026-03-03)
-- [Nasdaq crashes 500 points today: Why is the Nasdaq sliding more than 2% as tech stocks tumble — Is the US stock market in deep trouble amid the Iran war?](https://economictimes.indiatimes.com/news/international/us/nasdaq-crashes-500-points-today-why-is-the-nasdaq-sliding-more-than-2-as-tech-stocks-tumble-is-the-us-stock-market-in-deep-trouble-amid-the-iran-war/articleshow/128980071.cms) (Published: 2026-03-03)
-- [Venture capitalist Bill Gurley warns workers who went through the ‘college conveyor belt’ and chased safe jobs that they’ll feel AI’s disruption first](https://fortune.com/2026/03/03/venture-capitalist-bill-gurley-warns-workers-college-conveyor-belt-safe-jobs-ai-disruption-first/) (Published: 2026-03-03)
