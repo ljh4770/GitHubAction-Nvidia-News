@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-04 20:44:36**_
+_Last updated: **2026-03-04 21:17:31**_
 
 - [Scott Pilgrim EX review](https://www.pcgamer.com/games/action/scott-pilgrim-ex-review/) (Published: 2026-03-03)
 - [AMD CEO Lisa Su Says Server CPU Demand "Far Exceeded" Expectations, Supply Now Tightening](https://www.techpowerup.com/347008/amd-ceo-lisa-su-says-server-cpu-demand-far-exceeded-expectations-supply-now-tightening) (Published: 2026-03-03)
