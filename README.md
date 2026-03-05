@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-05 03:52:50**_
+_Last updated: **2026-03-05 05:09:54**_
 
+- [Show HN: Kira – AI agent for Android that runs in Termux and has a socialnetwork](https://github.com/levilyf/droidclaw) (Published: 2026-03-04)
+- [Nvidia's multi-year deals with Lumentum and Coherent could accelerate silicon photonics commercialization](https://www.digitimes.com/news/a20260304PD202/nvidia-cpo-siph-data-center.html) (Published: 2026-03-04)
+- [Gaming PC: AMD 9800X3D, RTX5080, 360 AIO, 32GB D5 RAM, B850M, 1TB SSD, 850W PLT, EPOS H3 Headset $3499 (VIC C&C Only) @ Evatech](https://www.ozbargain.com.au/node/950395) (Published: 2026-03-04)
 - [apple-smi 0.1.0](https://pypi.org/project/apple-smi/0.1.0/) (Published: 2026-03-04)
 - [apple-smi added to PyPI](https://pypi.org/project/apple-smi/) (Published: 2026-03-04)
 - [Apple Does Fusion.](https://om.co/2026/03/03/apple-does-fusion/) (Published: 2026-03-04)
@@ -8,6 +11,3 @@ _Last updated: **2026-03-05 03:52:50**_
 - [Prediction: Nvidia (NVDA) Will Be Worth More Than Alphabet, Apple, Amazon, Tesla, Meta, and Microsoft Combined by 2030](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b5891782-8511-492b-91d8-a2f4c8f8a40e) (Published: 2026-03-04)
 - [Commentary: Nvidia, MediaTek bankroll optics shift that's reshaping AI data centers](https://www.digitimes.com/news/a20260304PD204/mediatek-nvidia-cpo-optics-infrastructure.html) (Published: 2026-03-04)
 - [nemo-evaluator 0.1.94](https://pypi.org/project/nemo-evaluator/0.1.94/) (Published: 2026-03-04)
-- [Nvidia Expands Telecom Push With AI-Native 6G Initiative](https://www.pymnts.com/connectedeconomy/2026/nvidia-expands-telecom-push-with-ai-native-6g-initiative/) (Published: 2026-03-04)
-- [Open data and the AI resilience premium](https://www.redhat.com/en/blog/open-data-and-ai-resilience-premium) (Published: 2026-03-04)
-- [Co-packaged optics startup Ayar Labs raises $500M round backed by Nvidia, AMD](https://siliconangle.com/2026/03/03/co-packaged-optics-startup-ayar-labs-raises-500m-round-backed-nvidia-amd/) (Published: 2026-03-03)
