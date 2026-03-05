@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-05 21:25:14**_
+_Last updated: **2026-03-05 21:57:04**_
 
-- [Broadcom sees revenue above estimates as AI fuels custom chip demand](https://www.channelnewsasia.com/business/broadcom-sees-revenue-above-estimates-ai-fuels-custom-chip-demand-5971891) (Published: 2026-03-04)
-- [Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand](https://www.channelnewsasia.com/business/broadcom-sees-over-100-billion-in-ai-chip-sales-2027-robust-custom-chip-demand-5971891) (Published: 2026-03-04)
-- [Rigetti Computing Reports Fourth Quarter and Full-Year 2025 Financial Results](https://www.globenewswire.com/news-release/2026/03/04/3249723/0/en/Rigetti-Computing-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html) (Published: 2026-03-04)
-- [Anthropic investors grow frustrated with CEO after feds ban AI startup](https://nypost.com/2026/03/04/business/anthropic-investors-urge-truce-with-pentagon-as-lockheed-martin-quietly-removes-ai-giants-tech/) (Published: 2026-03-04)
-- [Nvidia CEO Huang rules out US$100 billion OpenAI investment](https://financialpost.com/technology/tech-news/nvidia-huang-rules-out-openai-investment) (Published: 2026-03-04)
-- [LG reveals pricing for its 2026 OLED TVs](https://slashdot.org/firehose.pl?op=view&amp;id=180906724) (Published: 2026-03-04)
-- [vision-agents-plugins-nvidia 0.4.1](https://pypi.org/project/vision-agents-plugins-nvidia/0.4.1/) (Published: 2026-03-04)
-- [Tech industry group expresses 'concern' to Pete Hegseth over supply chain risk label](https://www.cnbc.com/2026/03/04/big-tech-industry-group-.html) (Published: 2026-03-04)
-- [South Korea stocks crashed 18% in two days. Could it happen here?](https://www.cnbc.com/2026/03/04/south-korea-stocks-kospi.html) (Published: 2026-03-04)
+- [NVIDIA Releases GeForce 595.76 Hotfix Driver Addressing Voltage Cap and Game Crashes](https://www.techpowerup.com/347050/nvidia-releases-geforce-595-76-hotfix-driver-addressing-voltage-cap-and-game-crashes) (Published: 2026-03-04)
+- [Stocks Rebound After Oil Prices Stop Spiking](https://www.newser.com/story/384816/stocks-rebound-after-oil-prices-stop-spiking.html) (Published: 2026-03-04)
+- [Major upgrades to Topaz Photo and Astra are now live](https://photorumors.com/2026/03/04/major-upgrades-to-topaz-photo-and-astra-now-live/) (Published: 2026-03-04)
+- [LG's new 2026 OLED evo G6 and C6 TVs are finally available for preorder, starting at $1,399](https://www.notebookcheck.net/LG-s-new-2026-OLED-evo-G6-and-C6-TVs-are-finally-available-for-preorder-starting-at-1-399.1242676.0.html) (Published: 2026-03-04)
+- [Nvidia CEO Jensen Huang says it may not invest further in OpenAI, Anthropic with IPOs on the horizon](https://www.notebookcheck.net/Nvidia-CEO-Jensen-Huang-says-it-may-not-invest-further-in-OpenAI-Anthropic-with-IPOs-on-the-horizon.1242682.0.html) (Published: 2026-03-04)
+- [Nvidia Signals Final Investments in OpenAI and Anthropic](https://www.pymnts.com/artificial-intelligence-2/2026/nvidia-signals-final-investments-in-openai-and-anthropic/) (Published: 2026-03-04)
+- [Dueling documentaries illuminate the promise and perils of artificial intelligence](https://japantoday.com/category/entertainment/dueling-documentaries-illuminate-the-promise-and-perils-of-artificial-intelligence) (Published: 2026-03-04)
+- [blink-gpu 0.1.0](https://pypi.org/project/blink-gpu/) (Published: 2026-03-04)
+- [IREN Expands AI Cloud Capacity to 150,000 GPUs](https://www.globenewswire.com/news-release/2026/03/04/3249758/0/en/IREN-Expands-AI-Cloud-Capacity-to-150-000-GPUs.html) (Published: 2026-03-04)
+- [Lenovo ThinkStation P3 mini PC with 64GB RAM, Core Ultra 7 and RTX GPU now 39% cheaper](https://www.notebookcheck.net/Lenovo-ThinkStation-P3-mini-PC-with-64GB-RAM-Core-Ultra-7-and-RTX-GPU-now-39-cheaper.1242689.0.html) (Published: 2026-03-04)
