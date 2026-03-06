@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-06 17:40:06**_
+_Last updated: **2026-03-06 18:05:01**_
 
+- [Why expand AI chip export controls? #tech](https://alltoc.com/tech/why-expand-ai-chip-export-controls) (Published: 2026-03-05)
 - [China’s Catch-22 Is Pushing NVIDIA to the Brink, and the Chipmaker Is Finally Fed Up With It](https://wccftech.com/china-catch-22-is-pushing-nvidia-to-the-brink/) (Published: 2026-03-05)
 - [One of Marathon's more controversial mechanics brings back a neat idea from Anthem](https://www.rockpapershotgun.com/one-of-marathons-more-controversial-mechanics-brings-back-a-neat-idea-from-anthem) (Published: 2026-03-05)
 - [RUINER 2 Announced for PC as a Co-Op Cyberpunk Action RPG](https://wccftech.com/ruiner-2-announced-pc-co-op-cyberpunk-action-rpg/) (Published: 2026-03-05)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-06 17:40:06**_
 - [NVIDIA Stops China-Focused H200 "Hopper" GPU Production](https://www.techpowerup.com/347079/nvidia-stops-china-focused-h200-hopper-gpu-production) (Published: 2026-03-05)
 - [The new LG C6 and G6 OLED TVs get prices, and it's good news — even the new brighter C6 models aren't more expensive](https://www.techradar.com/televisions/the-new-lg-c6-and-g6-oled-tvs-get-prices-and-its-good-news-even-the-new-brighter-c6-models-arent-more-expensive) (Published: 2026-03-05)
 - [US stock market today dow jones crash 800 points: Dow, S&P 500 and Nasdaq all in deep red — What’s happening to Wall Street today?](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-jones-crash-800-points-dow-sp-500-and-nasdaq-all-in-deep-red-whats-happening-to-wall-street-today/articleshow/129101437.cms) (Published: 2026-03-05)
-- [Go beyond the review with Bench, the deepest consumer hardware benchmarking database on the internet — compare hundreds of products across a range of categories](https://www.tomshardware.com/desktops/pc-building/go-beyond-the-review-with-bench-the-deepest-consumer-hardware-benchmarking-database-on-the-internet-compare-hundreds-of-products-across-a-range-of-categories) (Published: 2026-03-05)
