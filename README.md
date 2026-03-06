@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-06 05:53:20**_
+_Last updated: **2026-03-06 06:40:05**_
 
+- [Why did Nvidia reallocate TSMC wafer capacity? #tech](https://alltoc.com/tech/why-did-nvidia-reallocate-tsmc-wafer-capacity) (Published: 2026-03-05)
 - [Stock-Split Watch: Is Nvidia Next?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9feaa669-9499-4aae-a353-03266351bd6e) (Published: 2026-03-05)
 - [Jensen Huang says a $100 billion investment in OpenAI is 'probably not in the cards'](https://www.businessinsider.com/jensen-huang-openai-investment-not-in-the-cards-100-billion-2026-3) (Published: 2026-03-05)
 - [Anthropic and the Pentagon are back at the negotiating table, FT reports](https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-deal-department-of-defense-openai-.html) (Published: 2026-03-05)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-06 05:53:20**_
 - [NVIDIA CEO ジェンスン フアンと世界のテクノロジ リーダーが GTC 2026 で AI の時代を披露](https://prtimes.jp/main/html/rd/p/000000590.000012662.html) (Published: 2026-03-05)
 - [Show HN: OctoFlow–GPU-native lang, vibe-coded with human at every decision gate](https://github.com/octoflow-lang/octoflow) (Published: 2026-03-05)
 - [Dario Amodei Is Reportedly Taking One More Stab at Making Nice with the Pentagon](https://gizmodo.com/dario-amodei-is-reportedly-taking-one-more-stab-at-making-nice-with-the-pentagon-2000729907) (Published: 2026-03-05)
-- [Broadcom says AI companies can’t make their own silicon any time soon](https://www.theregister.com/2026/03/05/broadcom_q1_2026/) (Published: 2026-03-05)
