@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-07 22:57:31**_
+_Last updated: **2026-03-07 23:29:27**_
 
+- [What If… AI Compute Costs Soar?](https://commonsware.com/blog/2026/03/06/what-if-ai-compute-costs-soar.html) (Published: 2026-03-06)
 - [Show HN: Stream-native AI that never sleeps, an alternative to OpenClaw](https://github.com/timeplus-io/PulseBot) (Published: 2026-03-06)
 - [The billionaire tax — wrong solution for California’s spending problem](https://nypost.com/2026/03/06/opinion/why-the-billionaire-tax-is-a-stupid-idea/) (Published: 2026-03-06)
 - [nvibrant 1.2.0](https://pypi.org/project/nvibrant/1.2.0/) (Published: 2026-03-06)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-07 22:57:31**_
 - [Valve’s Steam Machine Console Is No Longer Guaranteed To Ship In 2026 Due To Memory Crisis](https://kotaku.com/steam-machine-delay-valve-price-data-ram-2000676758) (Published: 2026-03-06)
 - [How Big Tech data centers become a military target during the war in Iran](https://www.businessinsider.com/data-centers-iran-strikes-uae-bahrain-tech-military-target-war-2026-3) (Published: 2026-03-06)
 - [Lenovo ThinkPad P1 Gen 8 with 800-nit 4K display and RTX graphics sees 60% price drop](https://www.notebookcheck.net/Lenovo-ThinkPad-P1-Gen-8-with-800-nit-4K-display-and-RTX-graphics-sees-60-price-drop.1243544.0.html) (Published: 2026-03-06)
-- [Oracle and OpenAI drop Texas data center expansion plan, Bloomberg News reports](https://www.channelnewsasia.com/business/oracle-and-openai-drop-texas-data-center-expansion-plan-bloomberg-news-reports-5977826) (Published: 2026-03-06)
