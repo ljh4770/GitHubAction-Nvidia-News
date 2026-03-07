@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-07 19:29:43**_
+_Last updated: **2026-03-07 19:46:19**_
 
+- [Dell Alienware Aurora Ultra 7 265F Gaming Desktop w/ Nvidia GeForce RTX 5060 for $1,400 + free shipping](https://www.dealnews.com/Dell-Alienware-Aurora-Ultra-7-265-F-Gaming-Desktop-w-Nvidia-Ge-Force-RTX-5060-for-1-400-free-shipping/21814668.html) (Published: 2026-03-06)
+- [Dell Alienware Aurora Ultra 7 265F Gaming Desktop w/ Nvidia GeForce RTX 5060 Ti for $1,400 + free shipping](https://www.dealnews.com/Dell-Alienware-Aurora-Ultra-7-265-F-Gaming-Desktop-w-Nvidia-Ge-Force-RTX-5060-Ti-for-1-400-free-shipping/21814668.html) (Published: 2026-03-06)
 - [US Stock Market Today: Dow Plunges 642 Points as Oil Surges Past $78, Nasdaq Holds Steady Amid Iran Tensions; Gold & Silver Rally, Bitcoin Rebounds Above $72K](https://sundayguardianlive.com/business/us-stock-market-today-dow-plunges-642-points-as-oil-surges-past-78-nasdaq-holds-steady-amid-iran-tensions-gold-silver-rally-bitcoin-rebounds-above-72k-174422/) (Published: 2026-03-06)
 - [Startup Working on Orbital Data Centers Teases Bitcoin Mining in Space, Too](https://me.pcmag.com/en/processors/35823/startup-working-on-orbital-data-centers-teases-bitcoin-mining-in-space-too) (Published: 2026-03-06)
 - [Startup Working on Orbital Data Centers Teases Bitcoin Mining in Space, Too](https://uk.pcmag.com/processors/163655/startup-working-on-orbital-data-centers-teases-bitcoin-mining-in-space-too) (Published: 2026-03-06)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-07 19:29:43**_
 - [Intel’s EMIB Challenges TSMC’s CoWoS as America’s Answer to the AI Packaging Bottleneck](https://wccftech.com/intel-emib-challenges-tsmcs-cowos-as-america-answer-to-the-ai-packaging-bottleneck/) (Published: 2026-03-06)
 - [US-Israel war with Iran sends shockwaves through global business](https://www.channelnewsasia.com/business/us-israel-war-iran-sends-shockwaves-through-global-business-5977606) (Published: 2026-03-06)
 - [InfinityBook Max 16: AMD-powered gaming laptop with 300 Hz display and RTX 5070 dGPU launches globally](https://www.notebookcheck.net/InfinityBook-Max-16-AMD-powered-gaming-laptop-with-300-Hz-display-and-RTX-5070-dGPU-launches-globally.1244355.0.html) (Published: 2026-03-06)
-- [Iran Is Bombing Data Centers in Retaliation](http://futurism.com/artificial-intelligence/iran-bombing-data-centers) (Published: 2026-03-06)
-- [Shares tumble as oil prices post biggest weekly gain since 2020](https://www.irishtimes.com/business/2026/03/06/shares-tumble-as-oil-prices-post-biggest-weekly-gain-since-2020/) (Published: 2026-03-06)
