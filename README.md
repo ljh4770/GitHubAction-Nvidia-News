@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-07 15:56:48**_
+_Last updated: **2026-03-07 16:33:46**_
 
+- [Don’t miss HyperX’s Pulsefire Haste 2 wireless gaming mouse while it’s 40% off at $30 today](http://9to5toys.com/2026/03/06/hyperx-pulsefire-haste-2-wireless-gaming-mouse-40-off/) (Published: 2026-03-06)
+- [Gap’s Dividend Scorecard: Does the Post-Earnings Selloff Change the Income Case?](https://247wallst.com/investing/2026/03/06/gaps-dividend-scorecard-does-the-post-earnings-selloff-change-the-income-case/) (Published: 2026-03-06)
+- [CNBC’s Partsinevelos: ‘Broadcom Just Did What Nvidia Couldn’t Explain’](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4793b304-6308-418c-a2d3-f3c2ec2e0d55) (Published: 2026-03-06)
+- [The JVM Project No One Is Talking About —That Will Change Everything](https://www.javacodegeeks.com/2026/03/the-jvm-project-no-one-is-talking-about-that-will-change-everything.html) (Published: 2026-03-06)
+- [Telcos try to hop on the AI train, Anthropic wars with the Pentagon, and agents threaten Microsoft](https://siliconangle.com/2026/03/06/telcos-try-hop-ai-train-anthropic-wars-pentagon-agents-threaten-microsoft/) (Published: 2026-03-06)
+- [Marvell Technology Stock Surges 16% on Strong Q4 Earnings, AI Data Center Momentum](https://www.ibtimes.com.au/marvell-technology-stock-surges-16-strong-q4-earnings-ai-data-center-momentum-1862833) (Published: 2026-03-06)
+- [(PR) Tuxedo Launches InfinityBook Max 16 with AMD Ryzen AI 9 HX 370 and GeForce RTX 50](https://www.techpowerup.com/347126/tuxedo-launches-infinitybook-max-16-with-amd-ryzen-ai-9-hx-370-and-geforce-rtx-50) (Published: 2026-03-06)
 - [Next generation Xbox concept revealed: Project Helix is an Xbox that runs PC games](https://www.afterdawn.com/news/article.cfm/2026/03/06/next-generation-xbox-concept-revealed-project-helix) (Published: 2026-03-06)
 - [Nvidia loves the RAM crisis](https://www.pcworld.com/article/3080821/nvidia-is-loving-the-ram-crisis.html) (Published: 2026-03-06)
-- [The best RTX 5060 laptop deal right now is this 16-inch Core i7-14700HX beast, with 32GB of DDR5 RAM — and a massive $800 discount](https://www.techradar.com/pro/the-best-rtx-5060-laptop-deal-right-now-is-this-16-inch-core-i7-14700hx-beast-with-32gb-of-ddr5-ram-and-a-massive-usd800-discount) (Published: 2026-03-06)
-- [NVIDIA Now Controls Over 90% Of PC Graphics Card Market As Tariffs Take A Toll](https://hothardware.com/news/nvidia-controls-pc-graphics-card-market-tariffs-take-toll) (Published: 2026-03-06)
-- [A laptop with more ports than you'd ever need AND two disc drives? — This viral gaming rig from 20 years ago channels peak Alienware energy](https://www.windowscentral.com/hardware/laptops/nostalgic-gaming-master-laptop-alienware-energy-disc-drives) (Published: 2026-03-06)
-- [Show HN: ClaudeOS – What if Claude Code managed your operating system?](https://github.com/jacopone/nixos-config) (Published: 2026-03-06)
-- [US stock market biggest consecutive crash: Dow opens with 900-point loss after oil prices jump to highest in nearly 2 years — Dow, S&P 500 and Nasdaq tumble nearly 2% within first 20 minutes of trading as jobs data misses hard](https://economictimes.indiatimes.com/news/international/us/us-stock-market-biggest-consecutive-crash-dow-opens-with-900-point-loss-after-oil-prices-jump-to-highest-in-nearly-2-years-dow-sp-500-and-nasdaq-tumble-nearly-2-within-first-20-minutes-of-trading-as-jobs-data-misses-hard/articleshow/129162253.cms) (Published: 2026-03-06)
-- [Why the next semiconductor shortage could be worse than the last one](https://techpinions.com/why-the-next-semiconductor-shortage-could-be-worse-than-the-last-one/) (Published: 2026-03-06)
-- [Nvidia’s GPU driver ‘totally wrecked’ user overclocks, but a hotfix has just been released that puts things right](https://www.techradar.com/computing/nvidias-gpu-driver-totally-wrecked-user-overclocks-but-a-hotfix-has-just-been-released-that-puts-things-right) (Published: 2026-03-06)
-- [Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000](https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option) (Published: 2026-03-06)
