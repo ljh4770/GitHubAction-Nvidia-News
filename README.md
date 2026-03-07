@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-07 18:59:54**_
+_Last updated: **2026-03-07 19:29:43**_
 
+- [US Stock Market Today: Dow Plunges 642 Points as Oil Surges Past $78, Nasdaq Holds Steady Amid Iran Tensions; Gold & Silver Rally, Bitcoin Rebounds Above $72K](https://sundayguardianlive.com/business/us-stock-market-today-dow-plunges-642-points-as-oil-surges-past-78-nasdaq-holds-steady-amid-iran-tensions-gold-silver-rally-bitcoin-rebounds-above-72k-174422/) (Published: 2026-03-06)
+- [Startup Working on Orbital Data Centers Teases Bitcoin Mining in Space, Too](https://me.pcmag.com/en/processors/35823/startup-working-on-orbital-data-centers-teases-bitcoin-mining-in-space-too) (Published: 2026-03-06)
+- [Startup Working on Orbital Data Centers Teases Bitcoin Mining in Space, Too](https://uk.pcmag.com/processors/163655/startup-working-on-orbital-data-centers-teases-bitcoin-mining-in-space-too) (Published: 2026-03-06)
 - [CRWV Alert: Hagens Berman Analyzes CoreWeave (CRWV) $452M Q4 Loss and Soft Guidance Amid Ongoing Securities Fraud Litigation](https://www.globenewswire.com/news-release/2026/03/06/3251234/32716/en/CRWV-Alert-Hagens-Berman-Analyzes-CoreWeave-CRWV-452M-Q4-Loss-and-Soft-Guidance-Amid-Ongoing-Securities-Fraud-Litigation.html) (Published: 2026-03-06)
 - [WizTree 4.30 Enterprise](https://post.rlsbb.to/wiztree-4-30-enterprise/) (Published: 2026-03-06)
 - [Intel’s EMIB Challenges TSMC’s CoWoS as America’s Answer to the AI Packaging Bottleneck](https://wccftech.com/intel-emib-challenges-tsmcs-cowos-as-america-answer-to-the-ai-packaging-bottleneck/) (Published: 2026-03-06)
@@ -8,6 +11,3 @@ _Last updated: **2026-03-07 18:59:54**_
 - [InfinityBook Max 16: AMD-powered gaming laptop with 300 Hz display and RTX 5070 dGPU launches globally](https://www.notebookcheck.net/InfinityBook-Max-16-AMD-powered-gaming-laptop-with-300-Hz-display-and-RTX-5070-dGPU-launches-globally.1244355.0.html) (Published: 2026-03-06)
 - [Iran Is Bombing Data Centers in Retaliation](http://futurism.com/artificial-intelligence/iran-bombing-data-centers) (Published: 2026-03-06)
 - [Shares tumble as oil prices post biggest weekly gain since 2020](https://www.irishtimes.com/business/2026/03/06/shares-tumble-as-oil-prices-post-biggest-weekly-gain-since-2020/) (Published: 2026-03-06)
-- [torchbridge-ml 0.5.46](https://pypi.org/project/torchbridge-ml/0.5.46/) (Published: 2026-03-06)
-- [SEC Settles Case Against Investor in Trump-Linked Crypto Projects Amid Pay-to-Play Allegations](https://gizmodo.com/sec-settles-case-against-investor-in-trump-linked-crypto-projects-amid-pay-to-play-allegations-2000730615) (Published: 2026-03-06)
-- [Jensen Huang Just Delivered Incredible News for Nvidia Investors](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2448aa01-97c5-4ee0-9b22-01b10b9ec0dd) (Published: 2026-03-06)
