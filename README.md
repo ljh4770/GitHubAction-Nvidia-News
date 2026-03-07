@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-07 20:31:59**_
+_Last updated: **2026-03-07 20:52:41**_
 
 - [Lenovo ThinkPad P1 Gen 8 with 800-nit 4K display and RTX graphics sees 60% price drop](https://www.notebookcheck.net/Lenovo-ThinkPad-P1-Gen-8-with-800-nit-4K-display-and-RTX-graphics-sees-60-price-drop.1243544.0.html) (Published: 2026-03-06)
 - [Oracle and OpenAI drop Texas data center expansion plan, Bloomberg News reports](https://www.channelnewsasia.com/business/oracle-and-openai-drop-texas-data-center-expansion-plan-bloomberg-news-reports-5977826) (Published: 2026-03-06)
