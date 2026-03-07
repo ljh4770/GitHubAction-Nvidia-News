@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-07 15:20:47**_
+_Last updated: **2026-03-07 15:42:04**_
 
+- [Nvidia loves the RAM crisis](https://www.pcworld.com/article/3080821/nvidia-is-loving-the-ram-crisis.html) (Published: 2026-03-06)
+- [The best RTX 5060 laptop deal right now is this 16-inch Core i7-14700HX beast, with 32GB of DDR5 RAM — and a massive $800 discount](https://www.techradar.com/pro/the-best-rtx-5060-laptop-deal-right-now-is-this-16-inch-core-i7-14700hx-beast-with-32gb-of-ddr5-ram-and-a-massive-usd800-discount) (Published: 2026-03-06)
+- [NVIDIA Now Controls Over 90% Of PC Graphics Card Market As Tariffs Take A Toll](https://hothardware.com/news/nvidia-controls-pc-graphics-card-market-tariffs-take-toll) (Published: 2026-03-06)
 - [A laptop with more ports than you'd ever need AND two disc drives? — This viral gaming rig from 20 years ago channels peak Alienware energy](https://www.windowscentral.com/hardware/laptops/nostalgic-gaming-master-laptop-alienware-energy-disc-drives) (Published: 2026-03-06)
 - [Show HN: ClaudeOS – What if Claude Code managed your operating system?](https://github.com/jacopone/nixos-config) (Published: 2026-03-06)
 - [US stock market biggest consecutive crash: Dow opens with 900-point loss after oil prices jump to highest in nearly 2 years — Dow, S&P 500 and Nasdaq tumble nearly 2% within first 20 minutes of trading as jobs data misses hard](https://economictimes.indiatimes.com/news/international/us/us-stock-market-biggest-consecutive-crash-dow-opens-with-900-point-loss-after-oil-prices-jump-to-highest-in-nearly-2-years-dow-sp-500-and-nasdaq-tumble-nearly-2-within-first-20-minutes-of-trading-as-jobs-data-misses-hard/articleshow/129162253.cms) (Published: 2026-03-06)
@@ -8,6 +11,3 @@ _Last updated: **2026-03-07 15:20:47**_
 - [Nvidia’s GPU driver ‘totally wrecked’ user overclocks, but a hotfix has just been released that puts things right](https://www.techradar.com/computing/nvidias-gpu-driver-totally-wrecked-user-overclocks-but-a-hotfix-has-just-been-released-that-puts-things-right) (Published: 2026-03-06)
 - [Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000](https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option) (Published: 2026-03-06)
 - [AI creates jobs, data from bank survey shows — companies with wide AI deployments and investments are more likely to be hiring than those that don't](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-jobs-data-from-bank-survey-shows-companies-with-wide-ai-deployments-and-investments-are-more-likely-to-be-hiring-than-those-that-dont) (Published: 2026-03-06)
-- [Don't overthink it: The best $10,000 approach to start investing in 2026](https://www.fool.com.au/2026/03/07/dont-overthink-it-the-best-10000-approach-to-start-investing-in-2026/) (Published: 2026-03-06)
-- [HP Prepares HyperX OMEN 35L Desktop With Core Ultra 7 270K Plus, A Newer 24-Core/24-Thread CPU](https://wccftech.com/hp-prepares-hyperx-omen-35l-desktop-with-core-ultra-7-270k-plus/) (Published: 2026-03-06)
-- [Apple increases RAM upgrade pricing for M3 Ultra Mac Studio, retires 512 GB option](https://www.notebookcheck.net/Apple-increases-RAM-upgrade-pricing-for-M3-Ultra-Mac-Studio-retires-512-GB-option.1244246.0.html) (Published: 2026-03-06)
