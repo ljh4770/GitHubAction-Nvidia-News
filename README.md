@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-07 15:42:04**_
+_Last updated: **2026-03-07 15:56:48**_
 
+- [Next generation Xbox concept revealed: Project Helix is an Xbox that runs PC games](https://www.afterdawn.com/news/article.cfm/2026/03/06/next-generation-xbox-concept-revealed-project-helix) (Published: 2026-03-06)
 - [Nvidia loves the RAM crisis](https://www.pcworld.com/article/3080821/nvidia-is-loving-the-ram-crisis.html) (Published: 2026-03-06)
 - [The best RTX 5060 laptop deal right now is this 16-inch Core i7-14700HX beast, with 32GB of DDR5 RAM — and a massive $800 discount](https://www.techradar.com/pro/the-best-rtx-5060-laptop-deal-right-now-is-this-16-inch-core-i7-14700hx-beast-with-32gb-of-ddr5-ram-and-a-massive-usd800-discount) (Published: 2026-03-06)
 - [NVIDIA Now Controls Over 90% Of PC Graphics Card Market As Tariffs Take A Toll](https://hothardware.com/news/nvidia-controls-pc-graphics-card-market-tariffs-take-toll) (Published: 2026-03-06)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-07 15:42:04**_
 - [Why the next semiconductor shortage could be worse than the last one](https://techpinions.com/why-the-next-semiconductor-shortage-could-be-worse-than-the-last-one/) (Published: 2026-03-06)
 - [Nvidia’s GPU driver ‘totally wrecked’ user overclocks, but a hotfix has just been released that puts things right](https://www.techradar.com/computing/nvidias-gpu-driver-totally-wrecked-user-overclocks-but-a-hotfix-has-just-been-released-that-puts-things-right) (Published: 2026-03-06)
 - [Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000](https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option) (Published: 2026-03-06)
-- [AI creates jobs, data from bank survey shows — companies with wide AI deployments and investments are more likely to be hiring than those that don't](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-creates-jobs-data-from-bank-survey-shows-companies-with-wide-ai-deployments-and-investments-are-more-likely-to-be-hiring-than-those-that-dont) (Published: 2026-03-06)
