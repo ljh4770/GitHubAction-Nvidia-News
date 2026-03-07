@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-07 11:57:30**_
+_Last updated: **2026-03-07 13:01:25**_
 
-- [stormlog added to PyPI](https://pypi.org/project/stormlog/) (Published: 2026-03-06)
-- [Hands-on with Lenovo's futuristic gaming foldable and dual-screen laptop](https://www.gsmarena.com/handson_with_lenovos_futuristic_gaming_foldable_and_dualscreen_laptop-news-71800.php) (Published: 2026-03-06)
-- [nvidia-nat-ragaai 1.6.0a20260306](https://pypi.org/project/nvidia-nat-ragaai/1.6.0a20260306/) (Published: 2026-03-06)
-- [nvidia-nat-test 1.6.0a20260306](https://pypi.org/project/nvidia-nat-test/1.6.0a20260306/) (Published: 2026-03-06)
-- [nvidia-nat-strands 1.6.0a20260306](https://pypi.org/project/nvidia-nat-strands/1.6.0a20260306/) (Published: 2026-03-06)
-- [NVIDIA GeForce NOW Gets 15 New Games in March](https://www.madshrimps.be/news/nvidia-geforce-now-gets-15-new-games-in-march/) (Published: 2026-03-06)
-- [Will We Have Midterms? “Trump Believes He is King”: Since 2003 Israel’s Debt Is Down 40% While America’s Rose 550%](https://www.globalresearch.ca/since-2003-israel-debt-down-40-america-rose-550/5918164) (Published: 2026-03-06)
-- [Marvell Tech shares rally on forecast for AI-chip growth](https://www.channelnewsasia.com/business/marvell-tech-shares-rally-forecast-ai-chip-growth-5976691) (Published: 2026-03-06)
-- [OpenAI Secures AWS Distribution for Frontier Platform in $110B Multi-Cloud Deal](https://www.infoq.com/news/2026/03/openai-aws-frontier-stateful/) (Published: 2026-03-06)
+- [nvidia-nat-core 1.5.0a20260306](https://pypi.org/project/nvidia-nat-core/1.5.0a20260306/) (Published: 2026-03-06)
+- [nvidia-nat-adk 1.5.0a20260306](https://pypi.org/project/nvidia-nat-adk/1.5.0a20260306/) (Published: 2026-03-06)
+- [nvidia-nat-autogen 1.5.0a20260306](https://pypi.org/project/nvidia-nat-autogen/1.5.0a20260306/) (Published: 2026-03-06)
+- [nvidia-nat-nemo-customizer 1.5.0a20260306](https://pypi.org/project/nvidia-nat-nemo-customizer/1.5.0a20260306/) (Published: 2026-03-06)
+- [nvidia-nat-s3 1.5.0a20260306](https://pypi.org/project/nvidia-nat-s3/1.5.0a20260306/) (Published: 2026-03-06)
+- [nvidia-nat-weave 1.5.0a20260306](https://pypi.org/project/nvidia-nat-weave/1.5.0a20260306/) (Published: 2026-03-06)
+- [Lenovo’s AMD-powered IdeaPad Pro 5 OLED Copilot+ PCs with RTX 5050 GPU now starts from $750 (All-time low)](http://9to5toys.com/2026/03/06/lenovo-amd-powered-ideapad-pro-5-oled-copilot-pcs-all-time-low/) (Published: 2026-03-06)
+- [US Commerce Department confirms harsh new AI export rules, shoots down reports over the return of Biden-era AI Diffusion rule — DoC to formalize a new approach to strategic AI accelerator export controls](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-commerce-department-confirms-harsh-new-ai-export-rules-shoots-down-reports-over-the-return-of-biden-era-ai-diffusion-rule-doc-to-formalize-a-new-approach-to-strategic-ai-accelerator-export-controls) (Published: 2026-03-06)
+- [$243.4 Bn Humanoid Robot Markets, 2035 Industry Trends and Global Forecasts](https://www.globenewswire.com/news-release/2026/03/06/3250973/28124/en/243-4-Bn-Humanoid-Robot-Markets-2035-Industry-Trends-and-Global-Forecasts.html) (Published: 2026-03-06)
