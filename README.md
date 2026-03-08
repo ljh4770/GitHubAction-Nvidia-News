@@ -1,8 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-08 22:59:31**_
+_Last updated: **2026-03-08 23:33:17**_
 
-- [trio-core added to PyPI](https://pypi.org/project/trio-core/) (Published: 2026-03-07)
 - [trio-core 0.3.0](https://pypi.org/project/trio-core/0.3.0/) (Published: 2026-03-07)
+- [trio-core added to PyPI](https://pypi.org/project/trio-core/) (Published: 2026-03-07)
 - [Broadcom's Growth Is Accelerating. Time to Buy the Stock? - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=180925674) (Published: 2026-03-07)
 - [What’s Really Going on Inside AI Data Centers?](https://www.thegatewaypundit.com/2026/03/whats-really-going-inside-ai-data-centers/) (Published: 2026-03-07)
 - [I stopped using HDMI on my PC, and I don’t miss it](https://www.makeuseof.com/using-displayport-instead-of-hdmi/) (Published: 2026-03-07)
