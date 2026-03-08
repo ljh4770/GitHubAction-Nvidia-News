@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-08 20:14:25**_
+_Last updated: **2026-03-08 20:43:27**_
 
+- [Autoresearch: Agents researching on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch) (Published: 2026-03-07)
 - [WindowTop Pro 5.29.2](https://post.rlsbb.to/windowtop-pro-5-29-2/) (Published: 2026-03-07)
 - [AI Image Upscaler Pro 1.1.7](https://post.rlsbb.to/ai-image-upscaler-pro-1-1-7/) (Published: 2026-03-07)
 - [Topaz Gigapixel Pro 1.1.3](https://post.rlsbb.to/topaz-gigapixel-pro-1-1-3/) (Published: 2026-03-07)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-08 20:14:25**_
 - [Alphabet and Nvidia Just Might Be the Ultimate AI Stocks. But Which Will Be the Bigger Winner Over the Next 10 Years? - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=180924704) (Published: 2026-03-07)
 - [Suspected Trojan/Malware](https://www.bleepingcomputer.com/forums/t/814231/suspected-trojanmalware/) (Published: 2026-03-07)
 - [Suspected Trojan/Malware](https://www.bleepingcomputer.com/forums/t/814230/suspected-trojanmalware/) (Published: 2026-03-07)
-- [The Bitcoin Lifestyle](https://erickimphotography.com/blog/2026/03/07/the-bitcoin-lifestyle-2/) (Published: 2026-03-07)
