@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-08 20:43:27**_
+_Last updated: **2026-03-08 20:59:54**_
 
+- [AI Offline Music Generator 2.0.1](https://post.rlsbb.to/ai-offline-music-generator-2-0-1/) (Published: 2026-03-07)
+- [AI Wars: Nvidia Pulls Back from OpenAI and Anthropic Investments](https://www.breitbart.com/tech/2026/03/07/ai-wars-nvidia-pulls-back-from-openai-and-anthropic-investments/) (Published: 2026-03-07)
 - [Autoresearch: Agents researching on single-GPU nanochat training automatically](https://github.com/karpathy/autoresearch) (Published: 2026-03-07)
 - [WindowTop Pro 5.29.2](https://post.rlsbb.to/windowtop-pro-5-29-2/) (Published: 2026-03-07)
 - [AI Image Upscaler Pro 1.1.7](https://post.rlsbb.to/ai-image-upscaler-pro-1-1-7/) (Published: 2026-03-07)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-08 20:43:27**_
 - [Can NVIDIA Shares Hit $500 By 2030?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_679215e6-0fc3-48a2-b9c9-db1c34f2c447) (Published: 2026-03-07)
 - [Lock in the RTX 5070 for $599 before prices skyrocket even further — custom overclocked model is only $50 above MSRP](https://www.tomshardware.com/pc-components/gpus/lock-in-the-rtx-5070-for-usd599-before-prices-skyrocket-even-further-custom-overclocked-model-is-only-usd50-above-msrp) (Published: 2026-03-07)
 - [Alphabet and Nvidia Just Might Be the Ultimate AI Stocks. But Which Will Be the Bigger Winner Over the Next 10 Years? - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=180924704) (Published: 2026-03-07)
-- [Suspected Trojan/Malware](https://www.bleepingcomputer.com/forums/t/814231/suspected-trojanmalware/) (Published: 2026-03-07)
-- [Suspected Trojan/Malware](https://www.bleepingcomputer.com/forums/t/814230/suspected-trojanmalware/) (Published: 2026-03-07)
