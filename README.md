@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-08 07:37:10**_
+_Last updated: **2026-03-08 07:55:25**_
 
+- [Nvidia sets $4 million target cash bonus for CEO Huang under fiscal 2027 plan](https://economictimes.indiatimes.com/tech/technology/nvidia-sets-4-million-target-cash-bonus-for-ceo-huang-under-fiscal-2027-plan/articleshow/129203043.cms) (Published: 2026-03-07)
 - [Sony Tidbits…](https://www.sonyalpharumors.com/sony-tidbits-1889/) (Published: 2026-03-07)
 - [NVIDIA CEO Jensen Huang says supply scarcity is "fantastic" for the company - VideoCardz.com](https://slashdot.org/firehose.pl?op=view&amp;id=180922692) (Published: 2026-03-07)
 - [Gaming PC: R5 7500F, RTX 5060 Ti 8GB, 512GB M.2 NVME SSD, 16GB DDR5 RAM, B650M WIFI, 550W 80+ PSU: $1629 + Del @ NexusPCs](https://www.ozbargain.com.au/node/950863) (Published: 2026-03-07)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-08 07:37:10**_
 - [Nvidia-Tied AI Stocks Vertiv, Lumentum, Coherent To Join S&P 500 Index - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=180921912) (Published: 2026-03-07)
 - [Oracle and OpenAI drop Texas data centre expansion plan: Bloomberg](https://economictimes.indiatimes.com/tech/technology/oracle-and-openai-drop-texas-data-centre-expansion-plan-bloomberg/articleshow/129188792.cms) (Published: 2026-03-07)
 - [Most people buy the wrong Raspberry Pi for what they actually need it to do](https://www.xda-developers.com/dont-buy-the-wrong-raspberry-pi-for-your-project/) (Published: 2026-03-07)
-- [Oracle and OpenAI's Texas Stargate datacenter expansion reportedly on the skids](https://www.theregister.com/2026/03/07/openai_oracle_dc/) (Published: 2026-03-07)
