@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-08 17:46:57**_
+_Last updated: **2026-03-08 17:59:39**_
 
 - [Suspected Trojan/Malware](https://www.bleepingcomputer.com/forums/t/814231/suspected-trojanmalware/) (Published: 2026-03-07)
 - [Suspected Trojan/Malware](https://www.bleepingcomputer.com/forums/t/814230/suspected-trojanmalware/) (Published: 2026-03-07)
