@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-08 10:29:16**_
+_Last updated: **2026-03-08 10:52:47**_
 
 - [Google, Meta and the AI ‘hyperscalers’ are on a $1 trillion borrowing binge after years of printing cash. Here’s why Big Tech’s pivot to debt matters](https://fortune.com/2026/03/07/big-tech-trillion-dollar-borrowing-ai-century-bonds/) (Published: 2026-03-07)
 - [Bitcoin Faces A New Quantum Era As Giant Computing Facility Breaks Ground](https://bitcoinist.com/bitcoin-faces-a-new-quantum-era-as-giant-computing-facility-breaks-ground/) (Published: 2026-03-07)
