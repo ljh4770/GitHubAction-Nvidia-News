@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-09 21:57:51**_
+_Last updated: **2026-03-09 22:36:59**_
 
+- [sparkrun 0.1.8](https://pypi.org/project/sparkrun/0.1.8/) (Published: 2026-03-08)
 - [sparkrun 0.1.7](https://pypi.org/project/sparkrun/0.1.7/) (Published: 2026-03-08)
 - [Why Risk-Averse Investors Should Buy Nvidia Stock](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0b0a17a9-576d-4e52-bfdf-1e8a00e89dd5) (Published: 2026-03-08)
 - [Can billionaire tax cure California’s health-care woes?](https://www.wnd.com/2026/03/can-billionaire-tax-cure-californias-health-care-woes/) (Published: 2026-03-08)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-09 21:57:51**_
 - [terradev-mcp added to PyPI](https://pypi.org/project/terradev-mcp/) (Published: 2026-03-08)
 - [trio-core 0.4.1](https://pypi.org/project/trio-core/0.4.1/) (Published: 2026-03-08)
 - [Show HN: I over-engineered a home security camera that uses an LLM and talks](https://github.com/calz1/roz) (Published: 2026-03-08)
-- [trio-core 0.4.0](https://pypi.org/project/trio-core/0.4.0/) (Published: 2026-03-08)
