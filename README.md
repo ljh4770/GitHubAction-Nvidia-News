@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-09 22:36:59**_
+_Last updated: **2026-03-09 22:59:54**_
 
+- [Xbox CEO Asha Sharma hosted Microsoft CEO Satya Nadella in an internal Q&A, amplifying that Microsoft will "always" invest in gaming. "We're long on gaming. We'll continue to invest, and we'll always do so."](https://www.windowscentral.com/gaming/xbox/xbox-ceo-asha-sharma-hosted-microsoft-ceo-satya-nadella-we-will-always-invest-in-gaming) (Published: 2026-03-08)
+- [sparkrun 0.1.9](https://pypi.org/project/sparkrun/0.1.9/) (Published: 2026-03-08)
 - [sparkrun 0.1.8](https://pypi.org/project/sparkrun/0.1.8/) (Published: 2026-03-08)
 - [sparkrun 0.1.7](https://pypi.org/project/sparkrun/0.1.7/) (Published: 2026-03-08)
 - [Why Risk-Averse Investors Should Buy Nvidia Stock](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0b0a17a9-576d-4e52-bfdf-1e8a00e89dd5) (Published: 2026-03-08)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-09 22:36:59**_
 - [Nvidia and Meta Platforms Are Now Cheaper Than the S&P 500. Which "Magnificent Seven" Stock Is the Best Buy in March?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d385161-598c-412e-992a-a51c84e83471) (Published: 2026-03-08)
 - [GitHub - ruvnet/RuView: π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.](https://github.com/ruvnet/RuView?tab=readme-ov-file) (Published: 2026-03-08)
 - [terradev-mcp added to PyPI](https://pypi.org/project/terradev-mcp/) (Published: 2026-03-08)
-- [trio-core 0.4.1](https://pypi.org/project/trio-core/0.4.1/) (Published: 2026-03-08)
-- [Show HN: I over-engineered a home security camera that uses an LLM and talks](https://github.com/calz1/roz) (Published: 2026-03-08)
