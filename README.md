@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-09 23:54:50**_
+_Last updated: **2026-03-10 01:57:59**_
 
+- [OpenAI senior robotics exec resigns over Pentagon deal; Anthropic formally designated as supply-chain risk](https://www.spacewar.com/reports/OpenAI_senior_robotics_exec_resigns_over_Pentagon_deal_999.html) (Published: 2026-03-09)
+- [nemo-evaluator 0.2.0](https://pypi.org/project/nemo-evaluator/0.2.0/) (Published: 2026-03-09)
+- [Weekly news roundup: TSMC probe, AI boom, and memory price surge](https://www.digitimes.com/news/a20260309VL200/digitimes-asia-weekly-news-roundup-tsmc-investigation-memory-price.html) (Published: 2026-03-09)
+- [NVIDIA CEO: OpenClaw is The Most Important Software Release Ever](https://www.androidheadlines.com/2026/03/nvidia-ceo-openclaw-most-important-software-release-ever.html) (Published: 2026-03-09)
+- [Microsoft CEO Satya Nadella calls gaming a core part of the company and says it is “long on gaming” in new discussion with Xbox leadership](https://www.windowscentral.com/gaming/xbox/microsoft-ceo-satya-nadella-calls-gaming-a-core-part-of-the-company-and-says-it-is-long-on-gaming-in-new-discussion-with-xbox-leadership) (Published: 2026-03-09)
+- [trio-core 0.4.3](https://pypi.org/project/trio-core/0.4.3/) (Published: 2026-03-09)
+- [trio-core 0.4.2](https://pypi.org/project/trio-core/0.4.2/) (Published: 2026-03-09)
+- [Emirates stays lively amid missile threats from Iran-Israel-US conflict](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/emirates-stays-lively-amid-missile-threats-from-iran-israel-us-conflict/articleshow/129286919.cms) (Published: 2026-03-09)
+- [TrendAI™ at [un]prompted 2026: From KYC Exploits to Agentic Defense](https://www.trendmicro.com/en_us/research/26/c/trendai-at-unprompted-2026.html) (Published: 2026-03-09)
 - [Want AI Chips? The US Might Ask for Domestic Investment First](https://www.androidheadlines.com/2026/03/us-denies-ai-chip-export-curbs-middle-east-model.html) (Published: 2026-03-08)
-- [2 ETFs I'd buy and hold for the next 20 years](https://www.fool.com.au/2026/03/09/2-etfs-id-buy-and-hold-for-the-next-20-years/) (Published: 2026-03-08)
-- [Xbox CEO Asha Sharma hosted Microsoft CEO Satya Nadella in an internal Q&A, amplifying that Microsoft will "always" invest in gaming. "We're long on gaming. We'll continue to invest, and we'll always do so."](https://www.windowscentral.com/gaming/xbox/xbox-ceo-asha-sharma-hosted-microsoft-ceo-satya-nadella-we-will-always-invest-in-gaming) (Published: 2026-03-08)
-- [sparkrun 0.1.9](https://pypi.org/project/sparkrun/0.1.9/) (Published: 2026-03-08)
-- [sparkrun 0.1.8](https://pypi.org/project/sparkrun/0.1.8/) (Published: 2026-03-08)
-- [sparkrun 0.1.7](https://pypi.org/project/sparkrun/0.1.7/) (Published: 2026-03-08)
-- [Why Risk-Averse Investors Should Buy Nvidia Stock](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0b0a17a9-576d-4e52-bfdf-1e8a00e89dd5) (Published: 2026-03-08)
-- [Can billionaire tax cure California’s health-care woes?](https://www.wnd.com/2026/03/can-billionaire-tax-cure-californias-health-care-woes/) (Published: 2026-03-08)
-- [The Best "Magnificent Seven" Stocks to Buy in March - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=180930154) (Published: 2026-03-08)
-- [Nvidia and Meta Platforms Are Now Cheaper Than the S&P 500. Which "Magnificent Seven" Stock Is the Best Buy in March?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d385161-598c-412e-992a-a51c84e83471) (Published: 2026-03-08)
