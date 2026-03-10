@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-10 23:43:45**_
+_Last updated: **2026-03-10 23:58:36**_
 
 - [AI cloud startup Nscale raises $2B in funding at $14.6B valuation](https://siliconangle.com/2026/03/09/ai-cloud-startup-nscale-raises-2b-funding-14-6b-valuation/) (Published: 2026-03-09)
 - [Colorful Releases iGame Lab Vulcan Mini-ITX Chassis To Match RTX 50-Series GPUs](https://www.techpowerup.com/347203/colorful-releases-igame-lab-vulcan-mini-itx-chassis-to-match-rtx-50-series-gpus) (Published: 2026-03-09)
