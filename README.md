@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-11 22:27:57**_
+_Last updated: **2026-03-11 22:51:34**_
 
+- [Microsoft backs Anthropic in its legal fight against the Pentagon](https://www.businessinsider.com/microsoft-backs-anthropic-pentagon-legal-fight-2026-3) (Published: 2026-03-10)
+- ['The technological innovation anticipated from 6G...will require fundamental protections and mitigations to be considered': Governments look to secure 6G networks — despite them not even really existing yet](https://www.techradar.com/pro/the-technological-innovation-anticipated-from-6g-will-require-fundamental-protections-and-mitigations-to-be-considered-governments-look-to-secure-6g-networks-despite-them-not-even-really-existing-yet) (Published: 2026-03-10)
 - [Alphabet Approves Mega Bonus Plan for the CEO of Google](https://www.androidheadlines.com/2026/03/alphabet-approves-mega-bonus-plan-for-the-ceo-of-google.html) (Published: 2026-03-10)
 - [Nvidia’s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=180948696) (Published: 2026-03-10)
 - [Yann LeCun’s new startup AMI Labs raises $1.03B to train world models](https://siliconangle.com/2026/03/10/yann-lecuns-new-startup-ami-labs-raises-1-03b-train-world-models/) (Published: 2026-03-10)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-11 22:27:57**_
 - [Yann LeCun’s Paris A.I. Startup AMI Labs Raises Record $1B Seed Round](https://observer.com/2026/03/yann-lecun-ami-startup-funding-round-fund/) (Published: 2026-03-10)
 - [Oracle stock jumps 7% on earnings beat and increased guidance as cloud revenue climbs 44%](https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html) (Published: 2026-03-10)
 - [A Premium Flight Simulator Is Coming To Apple Vision Pro](https://www.redmondpie.com/a-premium-flight-simulator-is-coming-to-apple-vision-pro/) (Published: 2026-03-10)
-- [slow and loud notebook problem wont go away](https://www.bleepingcomputer.com/forums/t/814653/slow-and-loud-notebook-problem-wont-go-away/) (Published: 2026-03-10)
-- [slow and loud notebook problem wont go away](https://www.bleepingcomputer.com/forums/t/814654/slow-and-loud-notebook-problem-wont-go-away/) (Published: 2026-03-10)
