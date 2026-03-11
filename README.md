@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-11 07:55:05**_
+_Last updated: **2026-03-11 08:41:18**_
 
 - [Colorful Releases iGame Lab Vulcan Mini-ITX Chassis To Match RTX 50-Series GPUs](https://www.madshrimps.be/news/colorful-releases-igame-lab-vulcan-mini-itx-chassis-to-match-rtx-50-series-gpus/) (Published: 2026-03-10)
 - [How to sideload apps on the Nvidia Shield TV](https://www.madshrimps.be/news/how-to-sideload-apps-on-the-nvidia-shield-tv/) (Published: 2026-03-10)
