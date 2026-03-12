@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-11 23:44:16**_
+_Last updated: **2026-03-12 00:00:22**_
 
+- [Nvidia narrows CoWoP PCB partners to three amid advanced packaging crunch](https://www.digitimes.com/news/a20260310PD225/packaging-pcb-nvidia-capacity-development.html) (Published: 2026-03-10)
+- [Telnyx CEO: Trump Is America’s ‘Unique Strategic Advantage’ on AI](https://www.breitbart.com/tech/2026/03/10/ttelnyx-ceo-trump-is-americas-unique-strategic/) (Published: 2026-03-10)
 - [trio-core 0.8.3](https://pypi.org/project/trio-core/0.8.3/) (Published: 2026-03-10)
 - [torchbridge-ml 0.5.67](https://pypi.org/project/torchbridge-ml/0.5.67/) (Published: 2026-03-10)
 - [Nvidia makes ‘significant’ investment in Mira Murati’s Thinking Machines](https://siliconangle.com/2026/03/10/nvidia-makes-significant-investment-mira-muratis-thinking-machines/) (Published: 2026-03-10)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-11 23:44:16**_
 - [Microsoft backs Anthropic in its legal fight against the Pentagon](https://www.businessinsider.com/microsoft-backs-anthropic-pentagon-legal-fight-2026-3) (Published: 2026-03-10)
 - ['The technological innovation anticipated from 6G...will require fundamental protections and mitigations to be considered': Governments look to secure 6G networks — despite them not even really existing yet](https://www.techradar.com/pro/the-technological-innovation-anticipated-from-6g-will-require-fundamental-protections-and-mitigations-to-be-considered-governments-look-to-secure-6g-networks-despite-them-not-even-really-existing-yet) (Published: 2026-03-10)
 - [Alphabet Approves Mega Bonus Plan for the CEO of Google](https://www.androidheadlines.com/2026/03/alphabet-approves-mega-bonus-plan-for-the-ceo-of-google.html) (Published: 2026-03-10)
-- [Nvidia’s DLSS 4.5 with 6x Frame Generation is rolling out at the end of March - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=180948696) (Published: 2026-03-10)
-- [Yann LeCun’s new startup AMI Labs raises $1.03B to train world models](https://siliconangle.com/2026/03/10/yann-lecuns-new-startup-ami-labs-raises-1-03b-train-world-models/) (Published: 2026-03-10)
