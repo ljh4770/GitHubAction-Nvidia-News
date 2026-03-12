@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-12 23:36:14**_
+_Last updated: **2026-03-12 23:56:42**_
 
+- [Vision Pro 迎來全球最先進飛行模擬器　沉浸式體驗再升級](https://www.newmobilelife.com/2026/03/12/apple-vision-pro-flight-simulator-immersive/) (Published: 2026-03-11)
+- [nemo-retriever 2026.3.11.dev27](https://pypi.org/project/nemo-retriever/2026.3.11.dev27/) (Published: 2026-03-11)
 - [Meta debuts internally developed AI chips for inference workloads](https://siliconangle.com/2026/03/11/meta-debuts-internally-developed-ai-chips-inference-workloads/) (Published: 2026-03-11)
 - [U.S. Company Taken Offline by Cyberattack as Revenge for Missile Strike on Iranian School](https://gizmodo.com/u-s-company-taken-offline-by-cyberattack-as-revenge-for-missile-strike-on-iranian-school-2000732622) (Published: 2026-03-11)
 - [Validate Kubernetes for GPU Infrastructure with Layered, Reproducible Recipes](https://developer.nvidia.com/blog/validate-kubernetes-for-gpu-infrastructure-with-layered-reproducible-recipes/) (Published: 2026-03-11)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-12 23:36:14**_
 - [Big Tech backs Anthropic in fight against Trump administration](https://www.bbc.com/news/articles/c4g7k7zdd0zo) (Published: 2026-03-11)
 - [Build Accelerated, Differentiable Computational Physics Code for AI with NVIDIA Warp](https://developer.nvidia.com/blog/build-accelerated-differentiable-computational-physics-code-for-ai-with-nvidia-warp/) (Published: 2026-03-11)
 - [Iran-linked hackers hit medical giant Stryker in retaliatory cyberattack](https://www.aljazeera.com/news/2026/3/11/iran-linked-hackers-hit-medical-giant-stryker-in-retaliatory-cyberattack) (Published: 2026-03-11)
-- [NemoClaw – Nvidia's upcoming open-source AI agent platform](https://nemoclaw.bot) (Published: 2026-03-11)
-- [Iran plots 'infrastructure warfare' against US tech giants](https://www.theregister.com/2026/03/11/iran_threatens_us_tech_companies/) (Published: 2026-03-11)
