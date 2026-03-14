@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-14 19:43:52**_
+_Last updated: **2026-03-14 19:59:31**_
 
 - [The biggest AI stories of the year (so far) | TechCrunch](https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/) (Published: 2026-03-13)
 - [P-EAGLE: Faster LLM inference with Parallel Speculative Decoding in vLLM](https://aws.amazon.com/blogs/machine-learning/p-eagle-faster-llm-inference-with-parallel-speculative-decoding-in-vllm/) (Published: 2026-03-13)
