@@ -1,12 +1,11 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-14 17:02:03**_
+_Last updated: **2026-03-14 17:37:49**_
 
+- [Nvidia claims 1 million times better path tracing performance is coming in future gaming GPUs — says current GPUs are already 10,000x faster than Pascal](https://www.tomshardware.com/pc-components/gpus/nvidia-claims-1-million-times-better-path-tracing-performance-is-coming-in-future-gaming-gpus-says-current-gpus-are-already-10-000x-faster-than-pascal) (Published: 2026-03-13)
+- [The Lenovo Legion Tower 7 RTX 5080 Gaming PC Drops to $2,210 for This Weekend Only](https://www.ign.com/articles/lenovo-legion-tower-7-rtx-5080-gaming-pc-deal-march-2026) (Published: 2026-03-13)
+- [Iran Declares Google and Microsoft to Be Military Targets](http://futurism.com/robots-and-machines/iran-google-microsoft-targets) (Published: 2026-03-13)
+- [Better AI Stock to Buy Now: Nvidia vs. Broadcom](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_80efab1e-92fe-45b7-b3f9-bec8a9c6a07b) (Published: 2026-03-13)
 - [KuCoin launches perpetual futures tracking Tesla and Strategy stocks](https://cointelegraph.com/news/kucoin-perpetual-futures-tracking-tesla-strategy-stocks) (Published: 2026-03-13)
 - [Ask Paul: March the 13th ⭐](https://www.thurrott.com/paul/333711/ask-paul-march-the-13th) (Published: 2026-03-13)
 - [20VC x SaaStr This Week: Anthropic Sues the Government, The Death of the Junior, and Why “Gentle Deceleration” is Over](https://www.saastr.com/20vc-x-saastr-this-week-anthropic-sues-the-government-the-death-of-the-junior-and-why-gentle-deceleration-is-over/) (Published: 2026-03-13)
 - [ByteDance will reportedly buy NVIDIA's latest AI chips to use outside of China](https://slashdot.org/firehose.pl?op=view&amp;id=180972910) (Published: 2026-03-13)
-- [Microsoft DirectX Gears Up For ML Era On Windows, Advanced Shader Delivery Solves Game Stutter & Load Times, DXR 2.0 Teased - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=180972834) (Published: 2026-03-13)
-- [This AI Company Could Disrupt Nvidia and Its Stock Is a Screaming Buy](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1c8ed460-8a7a-4a41-adac-f1347cb1c1a8) (Published: 2026-03-13)
-- [Ready for Voyage? Try Voyager Linux Distro – A Slick, Hybrid Distro That Just Works](https://www.vladan.fr/ready-for-voyage-try-voyager-linux-distro-a-slick-hybrid-distro-that-just-works/) (Published: 2026-03-13)
-- [Google will finally release Chrome for ARM64 Linux devices](https://www.gamingonlinux.com/2026/03/google-will-finally-release-chrome-for-arm64-linux-devices/.) (Published: 2026-03-13)
-- [Why S&P 500 and Nasdaq down today while Dow Jones holds steady: US stock market turns cautious as VIX at 26.49 and Russell 2000 slips 0.34%](https://economictimes.indiatimes.com/news/international/us/why-sp-500-and-nasdaq-down-today-while-dow-jones-holds-steady-us-stock-market-turns-cautious-as-vix-at-26-49-and-russell-2000-slips-0-34/articleshow/129559353.cms) (Published: 2026-03-13)
