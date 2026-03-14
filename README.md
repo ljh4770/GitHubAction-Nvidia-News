@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-14 20:39:07**_
+_Last updated: **2026-03-14 20:59:10**_
 
 - [Windows 11 is getting support for 1,000 Hz+ monitors soon as part of Insider builds — Microsoft has reportedly increased the refresh rate limit to 5,000 Hz](https://www.tomshardware.com/monitors/gaming-monitors/windows-11-is-getting-support-for-1-000-hz-monitors-soon-as-part-of-insider-builds-microsoft-has-reportedly-increased-the-refresh-rate-limit-to-5-000-hz) (Published: 2026-03-13)
 - [Skytech Prism 4 Gaming Desktop: Ryzen 7 9800X3D, RTX 5090, 32GB DDR5, 2TB SSD, 1200W + MSI Force GC30 wireless controller $4211.99](https://slickdeals.net/f/19303326-skytech-prism-4-gaming-desktop-ryzen-7-9800x3d-rtx-5090-32gb-ddr5-2tb-ssd-1200w-msi-force-gc30-wireless-controller-4211-99) (Published: 2026-03-13)
