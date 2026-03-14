@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-14 17:37:49**_
+_Last updated: **2026-03-14 17:57:43**_
 
+- ['Are you freaking crazy?' Bot harasses woman, gets led away by cops](https://www.theregister.com/2026/03/13/china_bot_berated_woman_freaking_crazy/) (Published: 2026-03-13)
 - [Nvidia claims 1 million times better path tracing performance is coming in future gaming GPUs — says current GPUs are already 10,000x faster than Pascal](https://www.tomshardware.com/pc-components/gpus/nvidia-claims-1-million-times-better-path-tracing-performance-is-coming-in-future-gaming-gpus-says-current-gpus-are-already-10-000x-faster-than-pascal) (Published: 2026-03-13)
 - [The Lenovo Legion Tower 7 RTX 5080 Gaming PC Drops to $2,210 for This Weekend Only](https://www.ign.com/articles/lenovo-legion-tower-7-rtx-5080-gaming-pc-deal-march-2026) (Published: 2026-03-13)
 - [Iran Declares Google and Microsoft to Be Military Targets](http://futurism.com/robots-and-machines/iran-google-microsoft-targets) (Published: 2026-03-13)
