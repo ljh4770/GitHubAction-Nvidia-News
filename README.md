@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-14 22:24:39**_
+_Last updated: **2026-03-14 22:52:20**_
 
 - [NVIDIA Reportedly Fires Unusual Criticism at Suppliers Like Samsung Before Deals, All to Gain Pricing Leverage](https://wccftech.com/nvidia-reportedly-fires-unusual-criticism-at-suppliers-like-samsung-before-deals-all-to-gain-pricing-leverage/) (Published: 2026-03-13)
 - [AMD Pushes a New Category of PCs: The Agent Computer](https://uk.pcmag.com/ai/163799/amd-pushes-a-new-category-of-pcs-the-agent-computer) (Published: 2026-03-13)
