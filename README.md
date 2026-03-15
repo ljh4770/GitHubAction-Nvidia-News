@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-15 10:51:37**_
+_Last updated: **2026-03-15 11:18:12**_
 
 - [Iren Limited (IREN) Announces Purchase of 50,000 NVIDIA B300 GPUs to Expand AI Fleet](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_73cd48a5-e305-42db-b856-b3a92e1149d0) (Published: 2026-03-14)
 - [nvidia-nat-opentelemetry 1.6.0a20260314](https://pypi.org/project/nvidia-nat-opentelemetry/1.6.0a20260314/) (Published: 2026-03-14)
