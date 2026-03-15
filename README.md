@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-15 21:14:21**_
+_Last updated: **2026-03-15 21:45:07**_
 
+- [Garmin, QuantumScape, and Synaptics: Three Under-the-Radar Tech Plays Worth Watching](https://247wallst.com/investing/2026/03/14/garmin-quantumscape-and-synaptics-three-under-the-radar-tech-plays-worth-watching/) (Published: 2026-03-14)
+- [Dell G3223Q Gaming Monitor - 32-Inch 4K Ultra UHD (3840x2160), 144Hz 1Ms Display, AMD FreeSync+NVIDIA G-SYNC Compatible, Black $499.99 (3 replies)](https://slickdeals.net/f/19306332-dell-g3223q-gaming-monitor-32-inch-4k-ultra-uhd-3840x2160-144hz-1ms-display-amd-freesync-nvidia-g-sync-compatible-black-499-99) (Published: 2026-03-14)
+- [Venture Capitalist ‘Shocked And Sad’ About How Much Gamers Hate AI](https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933) (Published: 2026-03-14)
 - [It's high time you were honest with yourself about ray tracing](https://www.xda-developers.com/be-honest-with-yourself-about-ray-tracing/) (Published: 2026-03-14)
 - [birdword 0.3.2](https://pypi.org/project/birdword/0.3.2/) (Published: 2026-03-14)
 - [birdword 0.3.1](https://pypi.org/project/birdword/0.3.1/) (Published: 2026-03-14)
@@ -8,6 +11,3 @@ _Last updated: **2026-03-15 21:14:21**_
 - [My PC cost more than my car, and I have no regrets](https://www.makeuseof.com/my-pc-cost-more-than-my-car-and-i-have-no-regrets/) (Published: 2026-03-14)
 - [deepbach-pytorch added to PyPI](https://pypi.org/project/deepbach-pytorch/) (Published: 2026-03-14)
 - [AI Offline Music Generator 2.0.5](https://post.rlsbb.to/ai-offline-music-generator-2-0-5/) (Published: 2026-03-14)
-- [Japan's top shipbuilding-related stock outperforms Nvidia, other AI shares](https://asia.nikkei.com/business/markets/equities/japan-shipbuilding-related-stock-outperforms-nvidia-other-ai-shares) (Published: 2026-03-14)
-- [Irix HDR Pro / Classic Pro 2.3.57](https://post.rlsbb.to/irix-hdr-pro-classic-pro-2-3-57/) (Published: 2026-03-14)
-- [Nvidia Just Gave Incredible News to Nebius Stock Investors](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0d5981a-56b3-4787-a689-2c706e48e92b) (Published: 2026-03-14)
