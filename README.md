@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-16 21:01:24**_
+_Last updated: **2026-03-16 21:51:03**_
 
+- [gymkhana added to PyPI](https://pypi.org/project/gymkhana/) (Published: 2026-03-15)
+- [Lenovo ThinkPad P16s Gen 4 Review: RTX PRO 500 GPU With a CPU That Punches Above Its Tier](https://www.storagereview.com/review/lenovo-thinkpad-p16s-gen-4-review-rtx-pro-500-gpu-with-a-cpu-that-punches-above-its-tier) (Published: 2026-03-15)
 - [A used RTX 3090 is still the best GPU for local AI in 2026, and it's not even close on value](https://www.xda-developers.com/used-rtx-3090-still-best-for-local-ai-in-value/) (Published: 2026-03-15)
 - [NVIDIA May Finally Abandon Its “One GPU Does Everything” Mantra at GTC 2026, and Here’s What to Expect](https://wccftech.com/nvidia-may-finally-abandon-its-one-gpu-does-everything-mantra-at-gtc-2026/) (Published: 2026-03-15)
 - [Rope Drop: It's almost time for Bluey](https://www.themeparkinsider.com/flume/202603/12349/) (Published: 2026-03-15)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-16 21:01:24**_
 - [Mechrevo unveils new 16-inch gaming laptop with 16-core AMD Ryzen 9 CPU and 300 Hz QHD display](https://www.notebookcheck.net/Mechrevo-unveils-new-16-inch-gaming-laptop-with-16-core-AMD-Ryzen-9-CPU-and-300-Hz-QHD-display.1250871.0.html) (Published: 2026-03-15)
 - [wordbird 0.6.1](https://pypi.org/project/wordbird/0.6.1/) (Published: 2026-03-15)
 - [wordbird 0.6.0](https://pypi.org/project/wordbird/0.6.0/) (Published: 2026-03-15)
-- [ssblast 0.1.3](https://pypi.org/project/ssblast/0.1.3/) (Published: 2026-03-15)
-- [wordbird 0.5.0](https://pypi.org/project/wordbird/0.5.0/) (Published: 2026-03-15)
