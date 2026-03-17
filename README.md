@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-17 17:46:09**_
+_Last updated: **2026-03-17 18:39:43**_
 
-- [Nvidia GTC 2026 keynote live blog — Jensen Huang takes the stage in San Jose to show the 'future of technology'](https://www.tomshardware.com/news/live/nvidia-gtc-2026-keynote-live-blog-jensen-huang) (Published: 2026-03-16)
-- [The Alienware Aurora RTX 5080 Gaming PC Is the Least Expensive 5080 Prebuilt Currently Available](https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-deal-drops-to-2150) (Published: 2026-03-16)
-- [Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance. - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=181010284) (Published: 2026-03-16)
-- [Nvidia GTC live: Jen-Hsun lays out 'the future of real-time rendering' in today's keynote and potentially 'it's gonna blow your mind'](https://www.pcgamer.com/hardware/live/news/nvidia-gtc-2026-keynote-live/) (Published: 2026-03-16)
-- [X-Plane & iRacing Getting Official Apple Vision Pro Support Via PC VR Streaming](https://www.uploadvr.com/x-plane-iracing-coming-to-apple-vision-pro-via-nvidia-cloudxr/) (Published: 2026-03-16)
-- [Nvidia CEO expected to deliver bullish AI outlook at GPU Technology Conference](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b0d2109b-f232-4973-940f-b7fdeee53743) (Published: 2026-03-16)
-- [Utilities, Staples, and Health Care: Are Defensive Sectors Signaling Market Trouble?](https://articles.stockcharts.com/article/utilities-staples-health-care-are-defensive-sectors-signaling-market-trouble/) (Published: 2026-03-16)
-- [Nvidia GTC 2026: Jensen Huang’s Groq ‘Mellanox moment’ and the inference land grab](https://siliconangle.com/2026/03/16/nvidia-gtc-2026-jensen-huangs-groq-mellanox-moment-inference-land-grab/) (Published: 2026-03-16)
-- [Introducing Disaggregated Inference on AWS powered by llm-d](https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/) (Published: 2026-03-16)
+- [NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games](https://www.globenewswire.com/news-release/2026/03/16/3256621/0/en/NVIDIA-DLSS-5-Delivers-AI-Powered-Breakthrough-in-Visual-Fidelity-for-Games.html) (Published: 2026-03-16)
+- [NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games](http://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games) (Published: 2026-03-16)
+- [GLF OS 25.11 packs the 6.18 LTS kernel alongside the Nvidia driver 590.48 and more](https://www.notebookcheck.net/GLF-OS-25-11-packs-the-6-18-LTS-kernel-alongside-the-Nvidia-driver-590-48-and-more.1251232.0.html) (Published: 2026-03-16)
+- [Corsair MP700 MICRO 4TB Review: PCIe Gen5 Performance in a Compact 2242 SSD](https://www.storagereview.com/review/corsair-mp700-micro-4tb-review-pcie-gen5-performance-in-a-compact-2242-ssd) (Published: 2026-03-16)
+- [Meta's new MTIA lineup joins hyperscalers' unified push for dedicated inferencing chips — companies diversify AI chips in effort to diversify from sole reliance on Nvidia](https://www.tomshardware.com/tech-industry/semiconductors/metas-mtia-chip-lineup-joins-hyperscaler-push-to-replace-nvidia-at-inference) (Published: 2026-03-16)
+- [Watch live: Nvidia CEO Jensen Huang gives GTC 2026 keynote](https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-jensen-huang-keynote.html) (Published: 2026-03-16)
+- [What will Jensen Huang announce at Nvidia GTC 2026? #world](https://alltoc.com/world/what-will-jensen-huang-announce-at-nvidia-gtc-2026) (Published: 2026-03-16)
+- [What major AI infrastructure news emerged at Nvidia GTC? #tech](https://alltoc.com/tech/what-major-ai-infrastructure-news-emerged-at-nvidia-gtc) (Published: 2026-03-16)
+- [Nvidia GTC 2026 Preshow. Jensen Next](https://www.nextbigfuture.com/2026/03/nvidia-gtc-2026-jensen-keynote.html) (Published: 2026-03-16)
