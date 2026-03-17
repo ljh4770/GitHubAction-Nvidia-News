@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-17 19:41:52**_
+_Last updated: **2026-03-17 20:21:34**_
 
-- [Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems — Intel wins a contract as Nvidia enters data center processor market with Vera CPUs](https://www.tomshardware.com/pc-components/cpus/intel-xeon-6-selected-as-host-cpu-for-nvidia-dgx-rubin-nvl8-systems) (Published: 2026-03-16)
-- [Nvidia powers further into the CPU market with new rack systems packing 256 Vera processors](https://www.theregister.com/2026/03/16/nvidia_vera_cpu_rack/) (Published: 2026-03-16)
-- [Nvidia DLSS 5 confirmed to launch later this year with neural rendering](https://www.notebookcheck.net/Nvidia-DLSS-5-confirmed-to-launch-later-this-year-with-neural-rendering.1251720.0.html) (Published: 2026-03-16)
-- [New Nvidia DLSS Tech Gives Characters AI Slop Faces](https://kotaku.com/new-nvidia-dlss-tech-gives-characters-ai-slop-faces-2000679199) (Published: 2026-03-16)
-- [Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27](https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html) (Published: 2026-03-16)
-- [Nvidia Groq 3 LPU and Groq LPX racks join Rubin platform at GTC — SRAM-packed accelerator boosts 'every layer of the AI model on every token'](https://www.tomshardware.com/pc-components/gpus/nvidia-groq-3-lpu-and-groq-lpx-racks-join-rubin-platform-at-gtc-sram-packed-accelerator-boosts-every-layer-of-the-ai-model-on-every-token) (Published: 2026-03-16)
-- [Nvidia slaps $20B Groq tech into massive new LPX racks to speed AI response time](https://www.theregister.com/2026/03/16/nvidia_lpx_groq_3/) (Published: 2026-03-16)
-- [NVIDIA Vera CPU Delivers High Performance, Bandwidth, and Efficiency for AI Factories](https://developer.nvidia.com/blog/nvidia-vera-cpu-delivers-high-performance-bandwidth-and-efficiency-for-ai-factories/) (Published: 2026-03-16)
-- [Jensen Huang says Nvidia expects to generate $1T+ from its Blackwell and Rubin chips through the end of 2027, after previously forecasting $500B by 2026's end (Ian King/Bloomberg)](https://www.techmeme.com/260316/p32) (Published: 2026-03-16)
+- [Nvidia CEO Jensen Huang sees at least $1 trillion of AI chip revenue opportunity through 2027](https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-ceo-jensen-huang-sees-at-least-1-trillion-of-ai-chip-revenue-opportunity-through-2027/articleshow/129618648.cms) (Published: 2026-03-16)
+- [Why are US stock market indexes up now, and will Nasdaq, S&P 500 and Dow Jones continue to move upwards or sink again? Wall Street rise, biggest gainers, losers, analysts insights and market outlook](https://economictimes.indiatimes.com/news/international/us/why-are-us-stock-market-indexes-up-now-and-will-nasdaq-sp-500-and-dow-jones-continue-to-move-upwards-or-sink-again-wall-street-rise-biggest-gainers-losers-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129613710.cms) (Published: 2026-03-16)
+- [NVIDIA Launches Nemotron Coalition of Leading Global AI Labs to Advance Open Frontier Models](http://nvidianews.nvidia.com/news/nvidia-launches-nemotron-coalition-of-leading-global-ai-labs-to-advance-open-frontier-models) (Published: 2026-03-16)
+- [Nvidia wraps its NemoClaw around OpenClaw for the sake of security](https://www.theregister.com/2026/03/16/nvidia_wraps_its_nemoclaw_around/) (Published: 2026-03-16)
+- [NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI](http://nvidianews.nvidia.com/news/nvidia-expands-open-model-families-to-power-the-next-wave-of-agentic-physical-and-healthcare-ai) (Published: 2026-03-16)
+- [NVIDIA Announces NemoClaw for the OpenClaw Community](http://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw) (Published: 2026-03-16)
+- [NVIDIA Vera Rubin Achieves 40 Million Times More Compute In 10 Years: 288 GB HBM4, 22 TB/s Bandwidth, 50 PFLOPs of AI Horsepower](https://wccftech.com/nvidia-vera-rubin-achieves-40-million-times-more-compute-in-10-years/) (Published: 2026-03-16)
+- [Nvidia Debuts an AI Chip For Space-Based Data Centers](https://me.pcmag.com/en/ai/36004/nvidia-debuts-an-ai-chip-for-space-based-data-centers) (Published: 2026-03-16)
+- [Nvidia Debuts an AI Chip For Space-Based Data Centers](https://uk.pcmag.com/ai/163830/nvidia-debuts-an-ai-chip-for-space-based-data-centers) (Published: 2026-03-16)
+- [(PR) Intel Xeon 6 Used as Host CPUs in NVIDIA DGX Rubin NVL8 Systems](https://www.techpowerup.com/347424/intel-xeon-6-used-as-host-cpus-in-nvidia-dgx-rubin-nvl8-systems) (Published: 2026-03-16)
