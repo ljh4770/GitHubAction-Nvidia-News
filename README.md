@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-17 14:44:38**_
+_Last updated: **2026-03-17 15:46:38**_
 
+- [TikTok US Deal: Treasury to Get Massive $10B Transaction Fee](https://www.androidheadlines.com/2026/03/tiktok-10-billion-transaction-fee-trump-deal.html) (Published: 2026-03-16)
+- [MSI Calls 2026 The “Most Difficult” Year As It Faces Severe Memory And GPU Shortages; Plans To Increase GPU Prices By 15–30%](https://wccftech.com/msi-calls-2026-the-most-difficult-year-as-it-faces-severe-memory-and-gpu-shortages/) (Published: 2026-03-16)
+- [Show HN: Clangd for CUDA Device Code](https://docs.scale-lang.com/latest/) (Published: 2026-03-16)
+- [Corporate Entertainment Market Trends and Business Opportunities 2026-2032: Total Revenues to Reach USD 89.28 Billion by 2032, Driven by Digital Acceleration](https://www.globenewswire.com/news-release/2026/03/16/3256459/28124/en/Corporate-Entertainment-Market-Trends-and-Business-Opportunities-2026-2032-Total-Revenues-to-Reach-USD-89-28-Billion-by-2032-Driven-by-Digital-Acceleration.html) (Published: 2026-03-16)
+- [AOC Unveils AGON 7 Pro: High-Performance 5K Gaming Monitor](https://www.ubergizmo.com/2026/03/aoc-agon-7-pro/) (Published: 2026-03-16)
+- [Yahoo CEO Jim Lanzone on reviving the web’s homepage](https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web) (Published: 2026-03-16)
+- [Nebius stock plunges as company says it will raise $3.75 billion in debt after Meta, Nvidia deals](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0241d63a-1e6e-4aef-9dab-033830b90784) (Published: 2026-03-16)
+- [Mindfactory Reports AMD Radeon RX 9070 XT Still Tops Sales Charts but GPU Sales Plummet](https://www.techpowerup.com/347405/mindfactory-reports-amd-radeon-rx-9070-xt-still-tops-sales-charts-but-gpu-sales-plummet) (Published: 2026-03-16)
 - [Tesla’s Terafab chip fab ambitions ignore its total lack of semiconductor experience](http://electrek.co/2026/03/16/teslas-terafab-chip-fab-ambitions-ignore-its-total-lack-of-semiconductor-experience/) (Published: 2026-03-16)
 - [China's ByteDance Secures Access to Advanced Nvidia AI Chips for Global Expansion](https://www.breitbart.com/tech/2026/03/16/chinas-bytedance-secures-access-to-advanced-nvidia-ai-chips-for-global-expansion/) (Published: 2026-03-16)
-- [Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push](https://www.tomshardware.com/tech-industry/semiconductors/intel-chip-roadmap-2026-2028) (Published: 2026-03-16)
-- [Bitcoin eyes $75,000, nearing 25% bounce from February bottom](https://www.coindesk.com/markets/2026/03/16/bitcoin-eyes-usd75-000-nearing-25-bounce-from-february-bottom) (Published: 2026-03-16)
-- [Laser Chip Brings Multiplexing to AI Data Centers](https://spectrum.ieee.org/ai-data-centers-dwdm-optics) (Published: 2026-03-16)
-- [Hightower’s Link Buying Netflix, Target, Broadcom Ahead of Nvidia Conference](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c0932c60-59e1-4651-be77-8f39d41b1179) (Published: 2026-03-16)
-- [Nvidia CEO to showcase next-gen AI chip Feynman at developer megaconference GTC](https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-ceo-to-showcase-next-gen-ai-chip-feynman-at-developer-megaconference-gtc/articleshow/129612024.cms) (Published: 2026-03-16)
-- [He manages the best-performing stock mutual fund of the past 25 years—here's his top advice for investors](https://www.cnbc.com/2026/03/16/michael-lippert-baron-opportunity-fund-investing-advice.html) (Published: 2026-03-16)
-- [Why is Dow Jones up by 0.32%, S&P 500 by 0.64% and Nasdaq by 1.06%, and will US stock market indexes stay up or go down again? Wall Street rise, biggest gainers, losers, analysts insights and market outlook explained. Here's what should investors do now](https://economictimes.indiatimes.com/news/international/us/why-is-dow-jones-up-by-0-32-sp-500-by-0-64-and-nasdaq-by-1-06-and-will-us-stock-market-indexes-stay-up-or-go-down-again-wall-street-rise-biggest-gainers-losers-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129611625.cms) (Published: 2026-03-16)
-- [L&T Technology Services launches Nvidia-powered digital twin platform for advanced respiratory diagnostics](https://economictimes.indiatimes.com/tech/artificial-intelligence/lt-technology-services-launches-nvidia-powered-digital-twin-platform-for-advanced-respiratory-diagnostics/articleshow/129611744.cms) (Published: 2026-03-16)
