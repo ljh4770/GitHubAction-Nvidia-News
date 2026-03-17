@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-17 16:47:33**_
+_Last updated: **2026-03-17 17:46:09**_
 
-- [Alienware's Flagship Area-51 Ryzen X3D Edition RTX 5090 Gaming PC Drops to $4,450](https://www.ign.com/articles/alienware-area-51-9800x3d-rtx-5090-gaming-pc-deal-down-to-4450) (Published: 2026-03-16)
-- [Meta to Spend Up to $27 Billion on Nebius AI Infrastructure - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=181009092) (Published: 2026-03-16)
-- [Everpure’s Evergreen One for AI brings Exa flash and GPU-based service-level agreements](https://www.computerweekly.com/news/366640415/Everpures-Evergreen-One-for-AI-brings-Exa-flash-and-GPU-based-service-level-agreements) (Published: 2026-03-16)
-- [Nutanix Agentic AI bids to stoke up enterprise AI factories](https://www.computerweekly.com/blog/CW-Developer-Network/Nutanix-Agentic-AI-bids-to-stoke-up-enterprise-AI-factories) (Published: 2026-03-16)
-- [ZutaCore Targets High-Density Blackwell PCIe Servers with Waterless Two-Phase Cooling](https://www.storagereview.com/news/zutacore-targets-high-density-blackwell-pcie-servers-with-waterless-two-phase-cooling) (Published: 2026-03-16)
-- [Linux 7.1 Kernel Will Enhance Support for AMD Ryzen AI NPUs](https://www.techpowerup.com/347409/linux-7-1-kernel-will-enhance-support-for-amd-ryzen-ai-npus) (Published: 2026-03-16)
-- [Samsung expects great output for its most in demand product by year’s end](https://www.sammobile.com/news/samsung-expects-great-output-for-its-most-in-demand-product-by-years-end/) (Published: 2026-03-16)
-- [Bell to Build $1.7 Billion AI Data Centre in Saskatchewan](https://www.iphoneincanada.ca/2026/03/16/bell-to-build-1-7-billion-ai-data-centre-in-saskatchewan/) (Published: 2026-03-16)
-- [nemocode 0.1.15](https://pypi.org/project/nemocode/0.1.15/) (Published: 2026-03-16)
+- [Nvidia GTC 2026 keynote live blog — Jensen Huang takes the stage in San Jose to show the 'future of technology'](https://www.tomshardware.com/news/live/nvidia-gtc-2026-keynote-live-blog-jensen-huang) (Published: 2026-03-16)
+- [The Alienware Aurora RTX 5080 Gaming PC Is the Least Expensive 5080 Prebuilt Currently Available](https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-deal-drops-to-2150) (Published: 2026-03-16)
+- [Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance. - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=181010284) (Published: 2026-03-16)
+- [Nvidia GTC live: Jen-Hsun lays out 'the future of real-time rendering' in today's keynote and potentially 'it's gonna blow your mind'](https://www.pcgamer.com/hardware/live/news/nvidia-gtc-2026-keynote-live/) (Published: 2026-03-16)
+- [X-Plane & iRacing Getting Official Apple Vision Pro Support Via PC VR Streaming](https://www.uploadvr.com/x-plane-iracing-coming-to-apple-vision-pro-via-nvidia-cloudxr/) (Published: 2026-03-16)
+- [Nvidia CEO expected to deliver bullish AI outlook at GPU Technology Conference](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b0d2109b-f232-4973-940f-b7fdeee53743) (Published: 2026-03-16)
+- [Utilities, Staples, and Health Care: Are Defensive Sectors Signaling Market Trouble?](https://articles.stockcharts.com/article/utilities-staples-health-care-are-defensive-sectors-signaling-market-trouble/) (Published: 2026-03-16)
+- [Nvidia GTC 2026: Jensen Huang’s Groq ‘Mellanox moment’ and the inference land grab](https://siliconangle.com/2026/03/16/nvidia-gtc-2026-jensen-huangs-groq-mellanox-moment-inference-land-grab/) (Published: 2026-03-16)
+- [Introducing Disaggregated Inference on AWS powered by llm-d](https://aws.amazon.com/blogs/machine-learning/introducing-disaggregated-inference-on-aws-powered-by-llm-d/) (Published: 2026-03-16)
