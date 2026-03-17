@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-17 21:01:25**_
+_Last updated: **2026-03-17 21:49:51**_
 
-- [Schneider Electric teams with NVIDIA to develop validated blueprints to design, simulate, build, operate and maintain gigawatt-scale AI Factories](https://financialpost.com/globe-newswire/schneider-electric-teams-with-nvidia-to-develop-validated-blueprints-to-design-simulate-build-operate-and-maintain-gigawatt-scale-ai-factories) (Published: 2026-03-16)
-- [Nvidia unveils Space-1 Vera Rubin for orbital data centers, saying its GPU delivers up to 25x more AI compute for space-based inferencing compared to the H100 (Sebastian Moss/DatacenterDynamics)](https://www.techmeme.com/260316/p38) (Published: 2026-03-16)
-- [Nvidia Wants to Slop-ify Your PC Games With Its New AI Upscaler](https://gizmodo.com/nvidia-wants-to-sloppify-your-pc-games-with-its-new-ai-upscaler-2000734176) (Published: 2026-03-16)
-- [(PR) Supermicro Reveals DCBBS with New NVIDIA Vera Rubin NVL72, HGX Rubin NVL8, and Vera CPU Systems](https://www.techpowerup.com/347426/supermicro-reveals-dcbbs-with-new-nvidia-vera-rubin-nvl72-hgx-rubin-nvl8-and-vera-cpu-systems) (Published: 2026-03-16)
-- [Micron Begins Volume Production of 36GB HBM4, 28 Gbps PCI Gen6 SSDs, & 192 GB SOCAMM2 Memory For NVIDIA Vera Rubin Platform](https://wccftech.com/micron-volume-production-hbm4-gen6-ssds-socamm2-nvidia-vera-rubin-platform/) (Published: 2026-03-16)
-- [STMicroelectronics accelerates global adoption and market growth of Physical AI with NVIDIA](https://www.globenewswire.com/news-release/2026/03/16/3256780/0/en/STMicroelectronics-accelerates-global-adoption-and-market-growth-of-Physical-AI-with-NVIDIA.html) (Published: 2026-03-16)
-- [NVIDIA’s new DLSS 5 drops with uncanny AI filters — and YouTube comments are almost 100% negative](https://www.windowscentral.com/gaming/nvidias-new-dlss-5-drops-with-uncanny-ai-filters-and-youtube-comments-are-almost-100-percent-negative) (Published: 2026-03-16)
-- [Bitcoin tops $74.5K but are pro traders turning bullish again?](https://cointelegraph.com/markets/bitcoin-tops-74-5k-but-are-pro-traders-turning-bullish-again) (Published: 2026-03-16)
-- [Super powerful Dell Pro Precision 7 14 and Pro Precision 7 16 workstation laptops are now official](https://www.notebookcheck.net/Super-powerful-Dell-Pro-Precision-7-14-and-Pro-Precision-7-16-workstation-laptops-are-now-official.1251730.0.html) (Published: 2026-03-16)
+- [Jensen just put Nvidia's Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere | TechCrunch](https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/) (Published: 2026-03-16)
+- [(PR) Samsung Unveils HBM4E Solutions at NVIDIA GTC 2026](https://www.techpowerup.com/347431/samsung-unveils-hbm4e-solutions-at-nvidia-gtc-2026) (Published: 2026-03-16)
+- [Nvidia Is Building a Computer for AI Data Centers in Space](https://www.cnet.com/tech/services-and-software/nvidia-is-building-a-computer-for-data-centers-in-space/) (Published: 2026-03-16)
+- [Nvidia's DLSS 5 promises to bring you out the other side of the uncanny valley](https://www.theregister.com/2026/03/16/nvidia_dlss5_uncanny_valley/) (Published: 2026-03-16)
+- [Nvidia CEO heralds ‘inference inflection’ as next phase of AI boom, backed by $1 trillion in orders](https://www.bostonherald.com/2026/03/16/nvidia-ai-conference/) (Published: 2026-03-16)
+- [Resident Evil Requiem Graphics Update That Changes Grace And Leon's Look Splits Fans](https://screenrant.com/resident-evil-requiem-nvidia-ai-changing-grace/) (Published: 2026-03-16)
+- [(PR) Penguin Solutions Introduces Industry's First Production-Ready CXL-Based KV Cache Server](https://www.techpowerup.com/347430/penguin-solutions-introduces-industrys-first-production-ready-cxl-based-kv-cache-server) (Published: 2026-03-16)
+- [IQM and Zurich Instruments Launch Real-Time Quantum Error Correction Demonstrator with NVIDIA NVQLink](https://financialpost.com/pmn/business-wire-news-releases-pmn/iqm-and-zurich-instruments-launch-real-time-quantum-error-correction-demonstrator-with-nvidia-nvqlink) (Published: 2026-03-16)
+- [Nvidia rides 'claw' craze with AI agent platform](https://japantoday.com/category/tech/nvidia-rides-%27claw%27-craze-with-ai-agent-platform) (Published: 2026-03-16)
+- [NVIDIA DLSS 5 Honors Artist’s Intent, Will Be Optimized To Run On Single GPUs At Launch](https://wccftech.com/nvidia-dlss-5-honors-artists-intent-optimized-to-run-on-single-gpus-at-launch/) (Published: 2026-03-16)
