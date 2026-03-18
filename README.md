@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-18 14:49:14**_
+_Last updated: **2026-03-18 15:56:07**_
 
-- [Nvidia launches BlueField-4 STX storage architecture for agentic AI at GTC 2026](https://www.tomshardware.com/tech-industry/nvidia-launches-bluefield-4-stx-storage-architecture-for-agentic-ai) (Published: 2026-03-17)
-- [xerv-crayon 5.2.5](https://pypi.org/project/xerv-crayon/5.2.5/) (Published: 2026-03-17)
-- [Edge Data Center Market Surges to $109.20 billion by 2030 | CAGR 16.5%](https://www.globenewswire.com/news-release/2026/03/17/3257392/0/en/Edge-Data-Center-Market-Surges-to-109-20-billion-by-2030-CAGR-16-5.html) (Published: 2026-03-17)
-- [Bethesda Promises DLSS 5 Slop Faces Are Under ‘Artist Control,’ But Players Are Still Screaming ‘No Thanks’](https://kotaku.com/dlss-5-nvidia-faces-ai-slop-tech-bethesda-starfield-todd-howard-2000679578) (Published: 2026-03-17)
-- [European markets need to get their act together, CEO of Norway’s $2 trillion wealth fund says. ‘The winner takes it all’](https://www.cnbc.com/2026/03/17/nbim-norway-norwegian-sovereign-wealth-fund-europe-iran-us-stocks-holdings-portfolio-nvidia-apple-microsoft.html) (Published: 2026-03-17)
-- [Should You Buy Nvidia Stock While It's Under $200?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1b7b047b-7fac-4b60-bf50-048fe01987c7) (Published: 2026-03-17)
-- [Dell Refreshes Alienware Lineup with Intel Core 200HX Plus CPUs, Updated OLED Panels and GPUs](https://www.techpowerup.com/347457/dell-refreshes-alienware-lineup-with-intel-core-200hx-plus-cpus-updated-oled-panels-and-gpus) (Published: 2026-03-17)
-- [Chinese AI Labs Fall Behind as NVIDIA Compute Access Gap Widens](https://www.geeky-gadgets.com/chinese-ai-decline/) (Published: 2026-03-17)
-- [Nvidia faces gamer backlash over 'breakthrough' AI graphics feature](https://www.bbc.com/news/articles/cdxg15eyv5ko) (Published: 2026-03-17)
+- [“If DLSS 5 Was Shown as a Next-Gen Hardware Reveal and not AI, You Guys Would Be Going Nuts” – Game Dev Hits Back at Anti-AI Crowd - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=181023930) (Published: 2026-03-17)
+- [Gamers are right to be disgusted by NVIDIA's DLSS 5](https://slashdot.org/firehose.pl?op=view&amp;id=181023912) (Published: 2026-03-17)
+- [Show HN: Cuckoo-GPU – A 350x faster Bloom filter alternative for GPUs](https://github.com/tdortman/Cuckoo-GPU) (Published: 2026-03-17)
+- [NVIDIA’s new real-time neural rendering with DLSS 5](https://www.fxguide.com/quicktakes/nvidias-new-real-time-neural-rendering-with-dlss-5/) (Published: 2026-03-17)
+- [Hammerspace storage platform feeds distributed data directly to GPUs](https://siliconangle.com/2026/03/17/hammerspace-storage-platform-feeds-distributed-data-directly-gpus/) (Published: 2026-03-17)
+- [US Stocks Gain as Investors Buy the Dip While Iran War Escalates](https://financialpost.com/pmn/business-pmn/us-stocks-gain-as-investors-buy-the-dip-while-iran-war-escalates) (Published: 2026-03-17)
+- [Nvidia, T-Mobile share AI-RAN vision](https://www.telecomtv.com/content/ai/nvidia-t-mobile-share-ai-ran-vision-55110/) (Published: 2026-03-17)
+- [Supermicro Among First to Unveil NVIDIA BlueField-4 STX Storage Server to Improve AI Inference Performance](https://www.prnewswire.co.uk/news-releases/supermicro-among-first-to-unveil-nvidia-bluefield-4-stx-storage-server-to-improve-ai-inference-performance-302716193.html) (Published: 2026-03-17)
+- [Death Stranding 2: On the Beach Gets Ray Tracing Support on PC To ‘Push Visual Fidelity Beyond the “Very High” Graphics Setting’ And… A Chiral Cat](https://wccftech.com/death-stranding-2-on-the-beach-ray-tracing-pc-chiral-cat/) (Published: 2026-03-17)
+- [We got a first look at Nvidia's DLSS 5 and the future of neural rendering at GTC — the results can be impressive, but there's work to do](https://www.tomshardware.com/pc-components/gpus/we-got-a-first-look-at-nvidias-dlss-5-and-the-future-of-neural-rendering-at-gtc-the-results-can-be-impressive-but-theres-work-to-do) (Published: 2026-03-17)
