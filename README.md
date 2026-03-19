@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-19 11:07:36**_
+_Last updated: **2026-03-19 11:49:05**_
 
+- [Roche Boosts AI Infrastructure with Additional Nvidia Chips, Stock Rises](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6af25834-0370-4382-92f6-10a484c3cef2) (Published: 2026-03-18)
+- [As Trump rages against his allies, Republicans are asking what the plan is to end the chaos in Iran](https://fortune.com/2026/03/18/trump-allies-chaos-in-iran-plan/) (Published: 2026-03-18)
+- [Why are US stock market index futures up today, and will Dow Jones, S&P 500 and Nasdaq stay in green or turn red again? Wall Street futures, stocks to watch out for, analysts insights, market outlook](https://economictimes.indiatimes.com/news/international/us/why-are-us-stock-market-index-futures-up-today-and-will-dow-jones-sp-500-and-nasdaq-stay-in-green-or-turn-red-again-wall-street-futures-rise-stocks-to-watch-out-for-analysts-insights-market-outlook-heres-what-should-investors-do-now/articleshow/129655250.cms) (Published: 2026-03-18)
+- [Nvidia's CEO goes full Principal Skinner in response to DLSS 5 backlash — says it's the gamers who are 'completely wrong'](https://www.techradar.com/computing/gpu/nvidias-ceo-goes-full-principal-skinner-in-response-to-dlss-5-backlash-says-its-the-gamers-who-are-completely-wrong) (Published: 2026-03-18)
+- [Micron rides memory price spike into earnings with stock up 62%, drubbing its tech peers](https://www.cnbc.com/2026/03/18/micron-mu-memory-price-spike-earnings.html) (Published: 2026-03-18)
+- [From robotics to AI agents, Jensen Huang’s GTC keynote was full of signals that startups can’t afford to ignore](https://fortune.com/2026/03/18/robotics-to-ai-agents-jensen-huangs-gtc-keynote/) (Published: 2026-03-18)
 - [GXO Pilots New AI‑Driven Autonomous Vehicle in Warehouse Operations](https://www.globenewswire.com/news-release/2026/03/18/3258015/0/en/GXO-Pilots-New-AI-Driven-Autonomous-Vehicle-in-Warehouse-Operations.html) (Published: 2026-03-18)
 - [“Not even the littlest bit": GTA 6 publisher CEO doesn't think genAI will level the playing field for smaller devs](https://www.rockpapershotgun.com/not-even-the-littlest-bit-gta-6-ceo-doesnt-think-genai-will-level-the-playing-field-for-smaller-devs) (Published: 2026-03-18)
 - [Analyst Report: NVIDIA Corp](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_401ac764-b002-4e8d-b50f-86f13d5c91d6) (Published: 2026-03-18)
 - [Huge $1,050 discount strikes Alienware’s 16-inch Area-51 RTX 5070 Ti 240Hz gaming laptop (All-time low)](http://9to5toys.com/2026/03/18/alienware-16-inch-area-51-rtx-5070-ti-240hz-gaming-laptop-all-time-low-2/) (Published: 2026-03-18)
-- [Nvidia CEO says critics are "completely wrong" about DLSS 5 technology](https://www.gamesindustry.biz/nvidia-ceo-says-critics-are-completely-wrong-about-dlss-5-technology) (Published: 2026-03-18)
-- [Share Market Highlights: Sensex jumps 633 pts, Nifty tops 23,700; rupee sinks to record close](https://www.thehindubusinessline.com/markets/stock-market-highlights-18-march-2026/article70753560.ece) (Published: 2026-03-18)
-- [Smarter robots: Agentic and physical AI converge in business](https://www.techtarget.com/searchenterpriseai/feature/Smarter-robots-Agentic-and-physical-AI-converge-in-business) (Published: 2026-03-18)
-- [Nvidia DLSS 5 critics have the tech "completely wrong", CEO Jensen Huang insists, arguing it's somehow "very different than generative AI"](https://www.rockpapershotgun.com/nvidia-dlss-5-critics-have-the-tech-completely-wrong-ceo-jensen-huang-insists-arguing-its-somehow-very-different-than-generative-ai) (Published: 2026-03-18)
-- [nvidia-nat-ragaai 1.6.0a20260318](https://pypi.org/project/nvidia-nat-ragaai/1.6.0a20260318/) (Published: 2026-03-18)
-- [nvidia-nat-config-optimizer added to PyPI](https://pypi.org/project/nvidia-nat-config-optimizer/) (Published: 2026-03-18)
