@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-19 05:15:53**_
+_Last updated: **2026-03-19 06:12:37**_
 
-- [Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal, FT reports](https://www.channelnewsasia.com/business/microsoft-considers-legal-action-over-50-billion-amazon-openai-cloud-deal-ft-reports-6000861) (Published: 2026-03-18)
-- [Alienware 16 Area-51: 16" WQXGA 240Hz, Intel Ultra 9 275HX, RTX 5070 Ti, 32GB DDR5 RAM, 1TB SSD $1949.99 @Woot! (1 replies)](https://slickdeals.net/f/19318374-alienware-16-area-51-16-wqxga-240hz-intel-ultra-9-275hx-rtx-5070-ti-32gb-ddr5-ram-1tb-ssd-1949-99-woot) (Published: 2026-03-18)
-- [Samsung sees AI driving strong chip demand in 2026, executive says](https://indianexpress.com/article/technology/tech-news-technology/samsung-sees-ai-driving-strong-chip-demand-in-2026-executive-says-10587916/) (Published: 2026-03-18)
-- [Show HN: Llmtop – Htop for LLM Inference Clusters (vLLM, SGLang, Ollama, llama)](https://github.com/InfraWhisperer/llmtop) (Published: 2026-03-18)
-- [Nvidia preparing Groq chips that can be sold in Chinese market, sources say](https://indianexpress.com/article/technology/tech-news-technology/nvidia-preparing-groq-chips-that-can-be-sold-in-chinese-market-sources-say-10587914/) (Published: 2026-03-18)
-- [IT stocks face fresh AI worries; is more correction ahead?](https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-face-fresh-ai-worries-is-more-correction-ahead/articleshow/129647022.cms) (Published: 2026-03-18)
-- [GTC 2026: Nvidia charts optical-copper path](https://www.digitimes.com/news/a20260318PD218/cpo-gtc-nvidia-2026-copper.html) (Published: 2026-03-18)
-- [NVIDIA CEO Says Gamers Are “Completely Wrong” About DLSS 5 Being ‘AI Slop’, Insisting Developers Have Full Artistic Control - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=181028008) (Published: 2026-03-18)
-- [CSB364: GROOMERANG RAID](https://superbestfriendcast.libsyn.com/csb364-groomerang-raid) (Published: 2026-03-18)
+- [Why is Nvidia's DLSS 5 facing backlash? #gaming](https://alltoc.com/gaming/why-is-nvidia-s-dlss-5-facing-backlash) (Published: 2026-03-18)
+- [What is Nvidia's NemoClaw and why does it matter? #tech](https://alltoc.com/tech/what-is-nvidia-s-nemoclaw-and-why-does-it-matter) (Published: 2026-03-18)
+- [DeepSeek V4: The Chinese Innovation Shockwave That Will Devastate U.S. Tech and Corporate Jobs Across America](https://www.naturalnews.com/2026-03-18-deepseek-v4-the-chinese-innovation-shockwave.html) (Published: 2026-03-18)
+- [DeepSeek V4: The Chinese Shockwave That Will Devastate U.S. Tech and Corporate America](https://www.naturalnews.com/2026-03-18-deepseek-v4-chinese-shockwave-will-devastate-us.html) (Published: 2026-03-18)
+- [Mayors Sound Alarm: AI Data Centers Push U.S. Toward Blackouts and Water Shortages](https://www.naturalnews.com/2026-03-18-ai-data-centers-push-us-blackouts-water-shortages.html) (Published: 2026-03-18)
+- [Nvidia Shares Experience Volatility Following CEO’s Projection of $1 Trillion Revenue by 2027](https://www.naturalnews.com/2026-03-18-nvidia-volatility-following-ceo-projection-of-revenue.html) (Published: 2026-03-18)
+- [Mistral AI launches privacy-focussed AI tool Forge to target enterprise clients](https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-launches-privacy-focussed-ai-tool-forge-to-target-enterprise-clients/articleshow/129648479.cms) (Published: 2026-03-18)
+- [NVIDIA/OpenShell: OpenShell is the safe, private runtime for autonomous AI agents.](https://github.com/NVIDIA/OpenShell) (Published: 2026-03-18)
+- [NVIDIA'S DLSS 5 Teaser Face Backlash Due to Generative AI's Alleged Influence on Upscaling Games](https://www.ibtimes.com.au/nvidias-dlss-5-teaser-face-backlash-due-generative-ais-alleged-influence-upscaling-games-1863660) (Published: 2026-03-18)
+- [Fractal Introduces LLM Studio to Bring Enterprise-Grade GenAI Customization with NVIDIA NeMo and NVIDIA NIM Microservices](https://www.thehindubusinessline.com/brandhub/pr-release/fractal-introduces-llm-studio-to-bring-enterprise-grade-genai-customization-with-nvidia-nemo-and-nvidia-nim-microservices/article70753746.ece) (Published: 2026-03-18)
