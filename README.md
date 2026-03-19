@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-19 22:59:34**_
+_Last updated: **2026-03-19 23:38:06**_
 
+- [Purpose Investments Inc. Announces March 2026 Distributions](https://financialpost.com/globe-newswire/purpose-investments-inc-announces-march-2026-distributions) (Published: 2026-03-18)
+- [Nvidia’s DLSS 5 is the (glossy) subject of memes and backlash from gamers](https://www.ocregister.com/2026/03/18/nvidia-meme/) (Published: 2026-03-18)
+- [Purpose Investments Inc. Announces March 2026 Distributions](https://www.globenewswire.com/news-release/2026/03/18/3258688/0/en/Purpose-Investments-Inc-Announces-March-2026-Distributions.html) (Published: 2026-03-18)
+- [jax-cuda13-plugin 0.9.2](https://pypi.org/project/jax-cuda13-plugin/0.9.2/) (Published: 2026-03-18)
+- [jax-cuda12-plugin 0.9.2](https://pypi.org/project/jax-cuda12-plugin/0.9.2/) (Published: 2026-03-18)
+- [The Legend of California Gets Alpha Playtest in Late March, Minimum Specs Call for RTX 2060 Super](https://www.techpowerup.com/347521/the-legend-of-california-gets-alpha-playtest-in-late-march-minimum-specs-call-for-rtx-2060-super) (Published: 2026-03-18)
+- [NVIDIA GTC 2026「Startup and VC Reception」に、Final Aim 代表取締役社長の朝倉が登壇](https://prtimes.jp/main/html/rd/p/000000067.000070012.html) (Published: 2026-03-18)
 - [Jim Cramer says you can still find stocks to buy on tough days in the market](https://www.cnbc.com/2026/03/18/jim-cramer-you-can-still-find-stocks-to-buy-on-tough-days-in-the-market.html) (Published: 2026-03-18)
 - [Will Demand For Local AI Prolong the Memory Shortage?](https://uk.pcmag.com/ai/163870/will-demand-for-local-ai-prolong-the-memory-shortage) (Published: 2026-03-18)
-- [Will Demand For Local AI Prolong the Memory Shortage?](https://me.pcmag.com/en/ai/36046/will-demand-for-local-ai-prolong-the-memory-shortage) (Published: 2026-03-18)
-- [WW 975: A Bubble of Knowledge - Microsoft Reorgs, OpenAI Drama, & Xbox's Next Move](https://twit.tv/shows/windows-weekly/episodes/975) (Published: 2026-03-18)
-- [NVIDIA CEO defends DLSS 5 as gamers label it an 'AI slop filter' - Mashable](https://slashdot.org/firehose.pl?op=view&amp;id=181038330) (Published: 2026-03-18)
-- [GNOME 50 released](https://www.osnews.com/story/144629/gnome-50-released/) (Published: 2026-03-18)
-- [How new NVIDIA chips can help AI chatbots perform better](https://www.cbsnews.com/video/how-new-nvidia-chips-can-help-ai-chatbots-perform-better/) (Published: 2026-03-18)
-- [2015 CXC Motion Pro II Simulator at No Reserve](https://bringatrailer.com/listing/2015-cxc-motion-pro-ii-simulator-2/) (Published: 2026-03-18)
-- [Crimson Desert Review-in-Progress – Blissfully Lost in Pywel](https://wccftech.com/review/crimson-desert-review-blissfully-lost-in-pywell/) (Published: 2026-03-18)
-- [Game Developers "Found Out At the Same Time as the Public" About NVIDIA DLSS 5](https://www.techpowerup.com/347509/game-developers-found-out-at-the-same-time-as-the-public-about-nvidia-dlss-5) (Published: 2026-03-18)
