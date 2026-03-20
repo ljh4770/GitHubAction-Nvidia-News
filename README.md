@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-20 17:58:14**_
+_Last updated: **2026-03-20 19:01:25**_
 
+- [Microsoft’s latest AI image generator aims for accuracy over hype, but it’s not top‑tier just yet](https://www.windowscentral.com/software-apps/microsofts-latest-ai-image-generator-aims-for-accuracy-over-hype-but-its-not-top-tier-just-yet) (Published: 2026-03-19)
+- [Column: Jensen Huang doesn’t need a new chip. He needs a new moat.](https://www.cnbc.com/2026/03/19/column-jensen-huang-doesnt-need-a-new-chip-he-needs-a-new-moat.html) (Published: 2026-03-19)
+- [Best Prices for Cloud GPUs](https://www.c-sharpcorner.com/article/best-prices-for-cloud-gpus/) (Published: 2026-03-19)
+- [Nvidia CEO Says the Next Software Battle Is Over Outcomes](https://www.pymnts.com/artificial-intelligence-2/2026/nvidia-ceo-says-the-next-software-battle-is-over-outcomes/) (Published: 2026-03-19)
+- [NVIDIA DLSS vs AMD FSR vs Intel XeSS — Everything You Need To Know About The Three Main GPU Vendor Technologies](https://wccftech.com/roundup/nvidia-dlss-vs-amd-fsr-vs-intel-xess-everything-you-need-to-know/) (Published: 2026-03-19)
+- [Introducing AI Runtime: Scalable, Serverless NVIDIA GPUs on Databricks for Training and Finetuning](https://www.databricks.com/blog/introducing-ai-runtime-scalable-serverless-nvidia-gpus-databricks-training-and-finetuning) (Published: 2026-03-19)
+- [AWS adds support for NIXL with EFA to accelerate LLM inference at scale](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-support-nixl-with-efa/) (Published: 2026-03-19)
+- [Walmart flooded with RTX 40-series GPUs as 50-series remains out of reach for most gamers — retailer slashes up to $480 off last-gen GPUs to offer sensible prices](https://www.tomshardware.com/pc-components/gpus/walmart-flooded-with-rtx-40-series-gpus-as-50-series-remains-out-of-reach-for-most-gamers-retailer-slashes-up-to-usd480-off-last-gen-gpus-to-offer-sensible-prices) (Published: 2026-03-19)
 - [Global markets tumble as Iran war intensifies](https://www.irishtimes.com/business/2026/03/19/global-markets-tumble-as-iran-war-intensifies/) (Published: 2026-03-19)
 - [Micron Just Did Something Even Nvidia Hasn't Done. Is the AI Stock a Buy?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba1ae000-8905-4804-bc10-edbe6b9990f8) (Published: 2026-03-19)
-- [“It’s Just So Lame” – RTGI Modder Thinks DLSS 5 Is Impressive Tech But Shares AI Slop Sentiment to a “Big Degree”](https://wccftech.com/pascal-gilcher-martymcfly-dlss-5-ai-slop-interview/) (Published: 2026-03-19)
-- [Run NVIDIA Nemotron 3 Super on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/) (Published: 2026-03-19)
-- [Apple Vision Pro gains smoother gameplay with Nvidia’s top GeForce Now streaming plan](https://9to5mac.com/2026/03/19/apple-vision-pro-gains-smoother-gameplay-with-nvidias-top-geforce-now-streaming-plan/) (Published: 2026-03-19)
-- [BrightQuery Becomes Gold Member of FINOS, the Fintech Open Source Foundation, and Joins Governing Board](https://www.globenewswire.com/news-release/2026/03/19/3259349/0/en/BrightQuery-Becomes-Gold-Member-of-FINOS-the-Fintech-Open-Source-Foundation-and-Joins-Governing-Board.html) (Published: 2026-03-19)
-- [Optiscaler team fixes INT8 FSR 4 ghosting on RX 6000 series GPUs — adds support for the latest Adrenalin drivers](https://www.tomshardware.com/pc-components/gpus/optiscaler-team-fixes-int8-fsr-4-ghosting-on-rx-6000-series-gpus-adds-support-for-the-latest-adrenalin-drivers) (Published: 2026-03-19)
-- [Jim Cramer Says “Arm’s Always Been Tight With NVIDIA, I Think It Gets Tighter”](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ca7b5ab6-402f-4e6f-9e97-6378250ee1e2) (Published: 2026-03-19)
-- [Jim Cramer on NVIDIA: “It’s Really At the Heart of What’s Known as the Fourth Industrial Revolution”](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_11319ea9-a93c-4a6a-b3a8-e13cd1976386) (Published: 2026-03-19)
-- [Micron Slips 4%: NVIDIA’s HBM Supplier Just Posted Record Results, So Why Is It Falling?](https://247wallst.com/investing/2026/03/19/micron-slips-4-nvidias-hbm-supplier-just-posted-record-results-so-why-is-it-falling/) (Published: 2026-03-19)
