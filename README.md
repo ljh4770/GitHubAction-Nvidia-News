@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-21 14:47:24**_
+_Last updated: **2026-03-21 15:12:09**_
 
+- [Europe Might Be Forcing Nintendo To Revise The Switch 2](https://www.nintendolife.com/news/2026/03/europe-might-be-forcing-nintendo-to-revise-the-switch-2) (Published: 2026-03-20)
+- [Nvidia clarifies DLSS 5 infers on 2D screencaps plus motion vectors and does not use existing geometry, textures or lighting](https://www.notebookcheck.net/Nvidia-clarifies-DLSS-5-infers-on-2D-screencaps-plus-motion-vectors-and-does-not-use-existing-geometry-textures-or-lighting.1255501.0.html) (Published: 2026-03-20)
+- [Buying a 4TB NVMe SSD is the best PC investment I’ve ever made](https://www.makeuseof.com/buying-4tb-nvme-ssd-is-best-pc-investment-ive-ever-made/) (Published: 2026-03-20)
+- [Market Shocker: Super Micro Co-Founder Charged with Sending Nvidia AI Chips to China, Shares Plummet 27%](https://www.breitbart.com/tech/2026/03/20/market-shocker-super-micro-co-founder-charged-with-sending-nvidia-ai-chips-to-china-shares-plummet-27/) (Published: 2026-03-20)
+- [Trump releases AI policy to pre-empt state rules](https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-releases-ai-policy-to-pre-empt-state-rules/articleshow/129703461.cms) (Published: 2026-03-20)
 - [Super Micro Computer stock tumbles after co-founder charged in Nvidia GPU smuggling case](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fc4dd36e-715a-417d-b354-28e6dc6e31a6) (Published: 2026-03-20)
 - [SuperMicro Allegedly Smuggled $2.5B in NVIDIA Chips to China With Fake Servers, and Somehow Thought Nobody Was Watching](https://wccftech.com/supermicro-allegedly-smuggled-nvidia-chips-to-china-with-fake-servers/) (Published: 2026-03-20)
 - [Super Micro co-founder charged with smuggling chips to China](https://financialpost.com/technology/super-micro-charged-smuggling-chips-china) (Published: 2026-03-20)
 - [Lenovo spotted releasing new 15-inch gaming laptop with 165 Hz OLED display](https://www.notebookcheck.net/Lenovo-spotted-releasing-new-15-inch-gaming-laptop-with-165-Hz-OLED-display.1255658.0.html) (Published: 2026-03-20)
 - [Supermicro Co-Founder Indicted in $2.5 Billion Nvidia GPU Smuggling Scheme](https://uk.pcmag.com/ai/163895/supermicro-co-founder-indicted-in-25-billion-nvidia-gpu-smuggling-scheme) (Published: 2026-03-20)
-- [Supermicro Co-Founder Indicted in $2.5 Billion Nvidia GPU Smuggling Scheme](https://me.pcmag.com/en/ai/36071/supermicro-co-founder-indicted-in-25-billion-nvidia-gpu-smuggling-scheme) (Published: 2026-03-20)
-- [Ubuntu 26.04 Delivers Enhanced Performance For AMD Radeon Linux Gaming](https://www.phoronix.com/review/ubuntu-2604-radeon-gaming) (Published: 2026-03-20)
-- [Supermicro stock plunges 26% after US charges co-founder with conspiracy to smuggle Nvidia chips to China](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_409d3c36-5fe9-4931-9dd9-fd7b91412d44) (Published: 2026-03-20)
-- [Blocked Intel graphics cards, failed Xbox App booting, and 120GB patches hit Crimson Desert as launch woes continue](https://www.eurogamer.net/crimson-desert-blocked-graphics-card-120gb-patch-xbox-app-problem) (Published: 2026-03-20)
-- [US stocks: Super Micro shares plunge 27% as co-founder, 2 others charged with smuggling AI chips to China](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-super-micro-shares-plunge-27-as-co-founder-2-others-charged-with-smuggling-ai-chips-to-china/articleshow/129703090.cms) (Published: 2026-03-20)
