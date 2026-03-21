@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-21 17:35:10**_
+_Last updated: **2026-03-21 17:54:54**_
 
+- [Tom Lee-backed Eightco doubles down on OpenAI as total stake hits $90 million](https://cryptobriefing.com/eightco-openai-investment-reach-90-million/) (Published: 2026-03-20)
+- [Salesforce issues $25 billion in debt to buy back stock. Should we be concerned?](https://www.cnbc.com/2026/03/20/salesforce-issues-25-billion-in-debt-to-buy-back-stock-should-we-be-concerned.html) (Published: 2026-03-20)
 - [Ask Paul: March 20 ⭐️](https://www.thurrott.com/paul/334026/ask-paul-march-20-2) (Published: 2026-03-20)
 - [3 charged with conspiring to smuggle artificial intelligence to China](https://www.nbcbayarea.com/news/national-international/men-charged-conspiring-smuggle-artificial-intelligence-china/4054901/) (Published: 2026-03-20)
 - [Lenovo Confirms RTX 5070 Mobile With 12 GB GDDR7 Across Multiple LOQ and Legion Laptops](https://www.techpowerup.com/347584/lenovo-confirms-rtx-5070-mobile-with-12-gb-gddr7-across-multiple-loq-and-legion-laptops) (Published: 2026-03-20)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-21 17:35:10**_
 - [New Asus 18-inch gaming laptop launching with 4K Mini LED display](https://www.notebookcheck.net/New-Asus-18-inch-gaming-laptop-launching-with-4K-Mini-LED-display.1255709.0.html) (Published: 2026-03-20)
 - [NVIDIA DLSS 5 Takes 2D Frame and Motion Vectors as Input](https://www.techpowerup.com/347585/nvidia-dlss-5-takes-2d-frame-and-motion-vectors-as-input) (Published: 2026-03-20)
 - [Nvidia and Adobe team up to bring digital twins into the marketing machine](https://siliconangle.com/2026/03/20/nvidia-adobe-bring-ai-powered-digital-production-nvidiagtcai/) (Published: 2026-03-20)
-- [NVIDIA’s DLSS 5 Reveal Was a Mistake, Needs to Go Back to the Drawing Board, Says Eternal Darkness Dev Denis Dyack](https://wccftech.com/denis-dyack-nvidia-dlss-5-mistake-back-to-drawing-board/) (Published: 2026-03-20)
-- [2026.12: Please Listen to My Podcast](https://stratechery.com/2026/please-listen-to-my-podcast/) (Published: 2026-03-20)
