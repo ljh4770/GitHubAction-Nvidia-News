@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-21 17:00:53**_
+_Last updated: **2026-03-21 17:35:10**_
 
+- [Ask Paul: March 20 ⭐️](https://www.thurrott.com/paul/334026/ask-paul-march-20-2) (Published: 2026-03-20)
+- [3 charged with conspiring to smuggle artificial intelligence to China](https://www.nbcbayarea.com/news/national-international/men-charged-conspiring-smuggle-artificial-intelligence-china/4054901/) (Published: 2026-03-20)
+- [Lenovo Confirms RTX 5070 Mobile With 12 GB GDDR7 Across Multiple LOQ and Legion Laptops](https://www.techpowerup.com/347584/lenovo-confirms-rtx-5070-mobile-with-12-gb-gddr7-across-multiple-loq-and-legion-laptops) (Published: 2026-03-20)
+- [Jim Cramer Explains the “Hidden Reason to Buy NVIDIA”](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_83f7599e-b9c6-4c38-8f5e-af59c11c8818) (Published: 2026-03-20)
+- [Crimson Desert is "like riding a bike", says Pearl Abyss PR boss, possibly in the sense that bikes also don't run on Intel Arc GPUs](https://www.rockpapershotgun.com/crimson-desert-is-like-like-riding-a-bike-says-pearl-abyss-pr-boss-possibly-in-the-sense-that-bikes-also-dont-run-on-intel-arc-gpus) (Published: 2026-03-20)
+- [New Asus 18-inch gaming laptop launching with 4K Mini LED display](https://www.notebookcheck.net/New-Asus-18-inch-gaming-laptop-launching-with-4K-Mini-LED-display.1255709.0.html) (Published: 2026-03-20)
+- [NVIDIA DLSS 5 Takes 2D Frame and Motion Vectors as Input](https://www.techpowerup.com/347585/nvidia-dlss-5-takes-2d-frame-and-motion-vectors-as-input) (Published: 2026-03-20)
+- [Nvidia and Adobe team up to bring digital twins into the marketing machine](https://siliconangle.com/2026/03/20/nvidia-adobe-bring-ai-powered-digital-production-nvidiagtcai/) (Published: 2026-03-20)
 - [NVIDIA’s DLSS 5 Reveal Was a Mistake, Needs to Go Back to the Drawing Board, Says Eternal Darkness Dev Denis Dyack](https://wccftech.com/denis-dyack-nvidia-dlss-5-mistake-back-to-drawing-board/) (Published: 2026-03-20)
 - [2026.12: Please Listen to My Podcast](https://stratechery.com/2026/please-listen-to-my-podcast/) (Published: 2026-03-20)
-- [Box CEO says companies will need to figure out how to budget for workers running up AI token bills](https://www.businessinsider.com/box-aaron-levie-ai-token-use-costs-2026-3) (Published: 2026-03-20)
-- [Nvidia's $20 billion Groq deal queried by senators Elizabeth Warren, Richard Blumenthal](https://economictimes.indiatimes.com/tech/technology/nvidias-20-billion-groq-deal-queried-by-elizabeth-warren-richard-blumenthal/articleshow/129705446.cms) (Published: 2026-03-20)
-- [Walmart drafts in Nvidia RTX 4000 GPU stock to cover RTX 5000 supply woes — will this become a growing trend?](https://www.techradar.com/computing/gpu/walmart-drafts-in-nvidia-rtx-4000-gpu-stock-to-cover-rtx-5000-supply-woes-will-this-become-a-growing-trend) (Published: 2026-03-20)
-- [wordbird 0.9.0](https://pypi.org/project/wordbird/0.9.0/) (Published: 2026-03-20)
-- [The biggest heist of the US-China Chip War: 3 Supermicro employees charged with conspiracy to smuggle restricted Nvidia H100, H200, and B200 chips to China – dummy boxes, fake labels, and a pass-through company enabled the $2.5 billion scheme](https://www.techradar.com/pro/security/the-biggest-heist-of-the-us-china-chip-war-3-supermicro-employees-charged-with-conspiracy-to-smuggle-restricted-nvidia-h100-h200-and-b200-chips-to-china-dummy-boxes-fake-labels-and-a-pass-through-company-enabled-the-usd2-5-billion-scheme) (Published: 2026-03-20)
-- [Nvidia CEO Jensen Huang Predicts AI Tokens Will Become a Standard Job Perk](https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-ceo-jensen-huang-predicts-ai-tokens-will-become-a-standard-job-perk/) (Published: 2026-03-20)
-- [Machenike: New Asus ROG NUC rival launching soon with up to Nvidia GeForce RTX 5070](https://www.notebookcheck.net/Machenike-New-Asus-ROG-NUC-rival-launching-soon-with-up-to-Nvidia-GeForce-RTX-5070.1255560.0.html) (Published: 2026-03-20)
-- [Intel Core Ultra 7 251HX Spotted In New Lenovo And MSI Gaming Laptops; RTX 5070 12 GB Mobile GPU Listed As Well](https://wccftech.com/intel-core-ultra-7-251hx-spotted-in-new-lenovo-and-msi-gaming-laptops/) (Published: 2026-03-20)
