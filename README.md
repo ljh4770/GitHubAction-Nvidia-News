@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-21 04:19:28**_
+_Last updated: **2026-03-21 05:14:37**_
 
+- [Cosmote Telekom: New Business Cloud Services featuring GPU-as-a-Service for AI Applications](https://www.naftemporiki.gr/english/2088046/cosmote-telekom-new-business-cloud-services-featuring-gpu-as-a-service-for-ai-applications/) (Published: 2026-03-20)
+- [Instant, real-time video AI is now upon us, for better and worse](https://newatlas.com/ai-humanoids/runway-real-time-ai-video/) (Published: 2026-03-20)
+- [OpenClaw is the next ChatGPT: Nvidia CEO Jensen Huang](https://economictimes.indiatimes.com/tech/technology/openclaw-is-the-next-chatgpt-nvidia-ceo-jensen-huang/articleshow/129692368.cms) (Published: 2026-03-20)
+- [Analysis: From handshakes to handcuffs — How Supermicro co-founder's GTC appearance ends in federal indictment](https://www.digitimes.com/news/a20260320VL212/gtc-supermicro-2026-nvidia-infrastructure.html) (Published: 2026-03-20)
+- [Show HN: Kbot – terminal AI agent that learns from every user who uses it](https://github.com/isaacsight/kernel) (Published: 2026-03-20)
+- [Feds charge 3 in $2.5b scheme to smuggle us AI tech to China using dummy servers](https://www.foxnews.com/us/feds-charge-3-2-5b-scheme-smuggle-us-ai-tech-china-using-dummy-servers) (Published: 2026-03-20)
+- [sparkrun 0.1.14](https://pypi.org/project/sparkrun/0.1.14/) (Published: 2026-03-20)
+- [Nvidia Deepens Grip on Cloud AI With Major AWS Chip Deal](https://decrypt.co/361867/nvidia-deepens-grip-cloud-ai-major-aws-chip-deal) (Published: 2026-03-20)
+- [Trio charged over alleged plot to smuggle Nvidia chips from US to China](https://www.bbc.com/news/articles/cy41ly2d9wko) (Published: 2026-03-20)
 - [GPU fans 0rpm constantly and for a few seconds jumps to 1900rpm then back to 0](https://www.bleepingcomputer.com/forums/t/815057/gpu-fans-0rpm-constantly-and-for-a-few-seconds-jumps-to-1900rpm-then-back-to-0/) (Published: 2026-03-20)
-- [Jensen Huang says he will be 'deeply alarmed' if his $500,000 engineer did not consume at least $250,000 of tokens](https://www.businessinsider.com/jensen-huang-500k-engineers-250k-ai-tokens-nvidia-compute-2026-3) (Published: 2026-03-20)
-- [Nvidia strategy at GTC 2026 blocks ASIC rivals with Groq deal](https://www.digitimes.com/news/a20260320PD212/nvidia-gtc-groq-asic-2026.html) (Published: 2026-03-20)
-- [Commentary: Nvidia sees Groq as its next Mellanox](https://www.digitimes.com/news/a20260320PD214/groq-nvidia-2026-jensen-huang-gtc.html) (Published: 2026-03-20)
-- [Fact Sheet: President Donald J. Trump Strengthens U.S.-Japan Alliance for the Benefit of All Americans](http://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-strengthens-u-s-japan-alliance-for-the-benefit-of-all-americans/) (Published: 2026-03-20)
-- [Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China](https://fortune.com/2026/03/19/supermicro-arrested-founder-smuggling-gpu-china/) (Published: 2026-03-20)
-- [Super Micro Computer Employees Arrested for Alleged Sales to China - WSJ](https://slashdot.org/firehose.pl?op=view&amp;id=181053004) (Published: 2026-03-20)
-- [MediaTek on cruise control as chipmakers scramble for next-gen silicon photonics standards](https://www.digitimes.com/news/a20260320PD207/silicon-photonics-mediatek-chipmakers-gtc.html) (Published: 2026-03-20)
-- [AI startup Yotta seeks $4 billion valuation ahead of planned IPO](https://economictimes.indiatimes.com/tech/startups/ai-startup-yotta-seeks-4-billion-valuation-ahead-of-planned-ipo/articleshow/129690945.cms) (Published: 2026-03-20)
-- [Nvidia to sell 1 million chips to Amazon by end of 2027 in cloud deal](https://economictimes.indiatimes.com/tech/technology/nvidia-to-sell-1-million-chips-to-amazon-by-end-of-2027-in-cloud-deal/articleshow/129690789.cms) (Published: 2026-03-20)
