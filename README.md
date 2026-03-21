@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-21 23:35:18**_
+_Last updated: **2026-03-21 23:54:23**_
 
 - [Intel suggests it was snubbed by Crimson Desert dev after reaching out "many times" about Arc GPUs – company says it provided "early hardware, drivers, and engineering resources" to studio](https://www.tomshardware.com/pc-components/gpus/intel-suggests-it-was-snubbed-by-crimson-desert-dev-after-reaching-out-many-times-about-arc-gpus-company-says-it-provided-early-hardware-drivers-and-engineering-resources-to-studio) (Published: 2026-03-20)
 - [Why the Iran War May Have Just Killed the AI Boom](https://oilprice.com/Energy/Energy-General/Why-the-Iran-War-May-Have-Just-Killed-the-AI-Boom.html) (Published: 2026-03-20)
