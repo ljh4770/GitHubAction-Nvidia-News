@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-21 13:51:03**_
+_Last updated: **2026-03-21 14:16:37**_
 
+- [To Thrive Today, You Have to Become An Agentic Deployment Expert. But So, So Few Actually Are.](https://www.saastr.com/to-thrive-today-you-have-to-become-an-agentic-deployment-expert-but-so-so-few-actually-are/) (Published: 2026-03-20)
+- [Muere Chuck Norris.](https://finofilipino.org/muere-chuck-norris/) (Published: 2026-03-20)
+- [Nvidia CEO Jensen Huang bids to own the entire AI factory stack](https://siliconangle.com/2026/03/20/nvidia-ceo-jensen-huang-bids-entire-ai-factory-stack/) (Published: 2026-03-20)
+- [Acer Predator XB273U F5 27-inch QHD 360 Hz gaming monitor review: Utilizing G-Sync Pulsar to deliver phenomenal blur reduction](https://www.tomshardware.com/monitors/gaming-monitors/acer-predator-xb273u-f5-27-inch-qhd-360-hz-gaming-monitor-review) (Published: 2026-03-20)
+- [Bayesian inference of RNA velocity incorporating timepoints, lineage bifurcations, and count data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014060) (Published: 2026-03-20)
+- [AI Update, March 20, 2026: AI News and Views From the Past Week](https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week) (Published: 2026-03-20)
+- [This Week in Games - Fateful Delays, Switch Fidelity Raise, and 30 Years of Farming](https://www.animenewsnetwork.com/this-week-in-games/2026-03-20/fateful-delays-switch-fidelity-raise-and-30-years-of-farming/.235353) (Published: 2026-03-20)
+- [Is NVIDIA Really a “Value Stock” at Under $200?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ba6ea808-8498-4d2d-96f3-6e7660ef3239) (Published: 2026-03-20)
 - [UPTET 2026 notification released: Application to begin March 27 onwards, check eligibility here](https://timesofindia.indiatimes.com/education/news/uptet-2026-notification-released-application-to-begin-march-27-onwards-check-eligibility-here/articleshow/129702398.cms) (Published: 2026-03-20)
 - [Crimson Desert Lacks Intel Arc Support, Developer Tells Arc Gamers to Seek Refunds for the Game](https://www.techpowerup.com/347576/crimson-desert-lacks-intel-arc-support-developer-tells-arc-gamers-to-seek-refunds-for-the-game) (Published: 2026-03-20)
-- [Show HN: Linux Nvidia GPU V/F Curve Editor for Undervolting/OC](https://github.com/ekojsalim/nvcurve/tree/main) (Published: 2026-03-20)
-- [Govt hits illegal betting, gambling; Flipkart group CFO quits](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/govt-hits-illegal-betting-gambling-flipkart-group-cfo-quits/articleshow/129701710.cms) (Published: 2026-03-20)
-- [Flipkart group CFO exits; Zomato raises platform fee](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/flipkart-group-cfo-exits-zomato-raises-platform-fee/articleshow/129701710.cms) (Published: 2026-03-20)
-- [LPG scam alert: Kolkata woman reveals how a simple call nearly led to bank fraud](https://timesofindia.indiatimes.com/etimes/trending/lpg-scam-alert-kolkata-woman-reveals-how-a-simple-call-nearly-led-to-bank-fraud/articleshow/129702119.cms) (Published: 2026-03-20)
-- [Super Micro Computer stock crashes 27% after cofounder's arrest in chip-smuggling scheme](https://www.businessinsider.com/super-micro-stock-price-plunges-china-nvidia-chip-sales-smci-2026-3) (Published: 2026-03-20)
-- [Three men charged with illegally smuggling advanced AI chips into China - NBC News](https://slashdot.org/firehose.pl?op=view&amp;id=181056636) (Published: 2026-03-20)
-- [Best Buy Tech Fest sale PC gaming deals live at up $700 off: RTX 50-series PCs, laptops, and more](http://9to5toys.com/2026/03/20/best-buy-tech-fest-sale-pc-gaming-deals-live-at-up-700-off/) (Published: 2026-03-20)
-- [nemocode 0.1.23](https://pypi.org/project/nemocode/0.1.23/) (Published: 2026-03-20)
