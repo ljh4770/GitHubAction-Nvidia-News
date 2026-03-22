@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-22 06:30:10**_
+_Last updated: **2026-03-22 07:24:17**_
 
+- [Will tech writers survive AI? Perspectives from two professors, Nupoor Ranade and Jeremy Merritt](https://idratherbewriting.com/blog/will-tech-writers-survive-ai-academics-nupoor-jeremy) (Published: 2026-03-21)
 - [evgltop added to PyPI](https://pypi.org/project/evgltop/) (Published: 2026-03-21)
 - [Why did DLSS 5 backlash erupt so fast? #gaming](https://alltoc.com/gaming/why-did-dlss-5-backlash-erupt-so-fast) (Published: 2026-03-21)
 - [What’s behind Nvidia’s Groq deal size? #tech](https://alltoc.com/tech/whats-behind-nvidias-groq-deal-size) (Published: 2026-03-21)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-22 06:30:10**_
 - [The revolution shall be tokenised: Inside the hacker homes incubating India’s AI future](https://economictimes.indiatimes.com/tech/artificial-intelligence/the-revolution-shall-be-tokenised-inside-the-hacker-homes-incubating-indias-ai-future/articleshow/129707316.cms) (Published: 2026-03-21)
 - [The revolution shall be digitised: Inside the hacker homes incubating India’s AI future](https://economictimes.indiatimes.com/tech/artificial-intelligence/the-revolution-shall-be-digitised-inside-the-hacker-homes-incubating-indias-ai-future/articleshow/129707316.cms) (Published: 2026-03-21)
 - [Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either - WIRED](https://slashdot.org/firehose.pl?op=view&amp;id=181064442) (Published: 2026-03-21)
-- [nvidia-arch 1.0.0](https://pypi.org/project/nvidia-arch/1.0.0/) (Published: 2026-03-21)
