@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-22 11:51:20**_
+_Last updated: **2026-03-22 12:27:22**_
 
+- [My old monitor can't keep up with new PC games anymore — so it's time to upgrade with this 240Hz, 1440p monitor that won't break the bank](https://www.windowscentral.com/accessories/monitors/my-old-monitor-cant-keep-up-with-new-pc-games-anymore-so-its-time-to-upgrade-with-this-240hz-1440p-monitor-that-wont-break-the-bank) (Published: 2026-03-21)
+- [OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities](https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html) (Published: 2026-03-21)
+- [dcp-provider added to PyPI](https://pypi.org/project/dcp-provider/) (Published: 2026-03-21)
 - [dc1-provider added to PyPI](https://pypi.org/project/dc1-provider/) (Published: 2026-03-21)
 - [modernplot added to PyPI](https://pypi.org/project/modernplot/) (Published: 2026-03-21)
 - [Nvidia’s AI Yassification Feature Gives “Starfield” Character Grotesque “Giga-Nostril”](http://futurism.com/future-society/nvidia-ai-yassification-feature-giga-nostril) (Published: 2026-03-21)
@@ -8,6 +11,3 @@ _Last updated: **2026-03-22 11:51:20**_
 - [Razer Blade 18 (Intel Core Ultra 9 275HX)](https://me.pcmag.com/en/laptops/36084/razer-blade-18-intel-core-ultra-9-275hx) (Published: 2026-03-21)
 - [Razer Blade 18 (Intel Core Ultra 9 275HX)](https://uk.pcmag.com/laptops/163908/razer-blade-18-intel-core-ultra-9-275hx) (Published: 2026-03-21)
 - [Even if AI doesn't take your job, it might dent your paycheck](https://www.businessinsider.com/heavy-ai-investments-could-affect-your-paycheck-2026-3) (Published: 2026-03-21)
-- [smith-ai 1.5.0](https://pypi.org/project/smith-ai/1.5.0/) (Published: 2026-03-21)
-- [NemoClaw Review: Strong Security Design, Rough Setup Experience](https://www.geeky-gadgets.com/openshell-sandbox-monitoring/) (Published: 2026-03-21)
-- [ICYMI: the week's 7 biggest tech stories from Apple's AirPod Max 2 surprise to Nvidia DLSS 5 backlash](https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-apples-airpod-max-2-surprise-to-nvidia-dlss-5-backlash) (Published: 2026-03-21)
