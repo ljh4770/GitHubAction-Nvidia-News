@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-22 10:01:14**_
+_Last updated: **2026-03-22 10:40:15**_
 
+- [New Street Research Adds NVIDIA (NVDA) to Best Ideas List for 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4c61788a-950a-49e2-8c9b-08f7d4d638a4) (Published: 2026-03-21)
 - [Razer Blade 18 (Intel Core Ultra 9 275HX)](https://me.pcmag.com/en/laptops/36084/razer-blade-18-intel-core-ultra-9-275hx) (Published: 2026-03-21)
 - [Razer Blade 18 (Intel Core Ultra 9 275HX)](https://uk.pcmag.com/laptops/163908/razer-blade-18-intel-core-ultra-9-275hx) (Published: 2026-03-21)
 - [Even if AI doesn't take your job, it might dent your paycheck](https://www.businessinsider.com/heavy-ai-investments-could-affect-your-paycheck-2026-3) (Published: 2026-03-21)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-22 10:01:14**_
 - [Will tech writers survive AI? Perspectives from two professors, Nupoor Ranade and Jeremy Merritt](https://idratherbewriting.com/blog/will-tech-writers-survive-ai-academics-nupoor-jeremy) (Published: 2026-03-21)
 - [evgltop added to PyPI](https://pypi.org/project/evgltop/) (Published: 2026-03-21)
 - [Why did DLSS 5 backlash erupt so fast? #gaming](https://alltoc.com/gaming/why-did-dlss-5-backlash-erupt-so-fast) (Published: 2026-03-21)
-- [What’s behind Nvidia’s Groq deal size? #tech](https://alltoc.com/tech/whats-behind-nvidias-groq-deal-size) (Published: 2026-03-21)
