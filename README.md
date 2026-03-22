@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-22 23:14:13**_
+_Last updated: **2026-03-22 23:45:36**_
 
+- [nemo-retriever 2026.3.21.dev37](https://pypi.org/project/nemo-retriever/2026.3.21.dev37/) (Published: 2026-03-21)
 - [nvidia-arch 1.1.0](https://pypi.org/project/nvidia-arch/1.1.0/) (Published: 2026-03-21)
 - [Linux's obsession with 'the right way' is why it'll never replace Windows for most people](https://www.xda-developers.com/linux-wants-you-do-things-right-way-biggest-problem/) (Published: 2026-03-21)
 - [MSI (re)launches $85,000 Nvidia DGX Station workstation with the Nvidia GB300 Ultra, a pair of 400GbE LAN ports, and 768GB of RAM](https://www.techradar.com/pro/msi-re-launches-usd85-000-nvidia-dgx-station-workstation-with-the-nvidia-gb300-ultra-a-pair-of-400gbe-lan-ports-and-768gb-of-ram) (Published: 2026-03-21)
@@ -9,4 +10,3 @@ _Last updated: **2026-03-22 23:14:13**_
 - [Acer Predator Triton 14 AI](https://me.pcmag.com/en/laptops/36088/acer-predator-triton-14-ai) (Published: 2026-03-21)
 - [Acer Predator Triton 14 AI](https://uk.pcmag.com/laptops/163912/acer-predator-triton-14-ai) (Published: 2026-03-21)
 - [meld-framework added to PyPI](https://pypi.org/project/meld-framework/) (Published: 2026-03-21)
-- [Intel, NVIDIA, AMD GPU Drivers Finally Play Nice With ReactOS](https://tech.slashdot.org/story/26/03/21/1712201/intel-nvidia-amd-gpu-drivers-finally-play-nice-with-reactos) (Published: 2026-03-21)
