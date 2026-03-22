@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-22 22:20:38**_
+_Last updated: **2026-03-22 22:48:15**_
 
 - [Linux's obsession with 'the right way' is why it'll never replace Windows for most people](https://www.xda-developers.com/linux-wants-you-do-things-right-way-biggest-problem/) (Published: 2026-03-21)
 - [MSI (re)launches $85,000 Nvidia DGX Station workstation with the Nvidia GB300 Ultra, a pair of 400GbE LAN ports, and 768GB of RAM](https://www.techradar.com/pro/msi-re-launches-usd85-000-nvidia-dgx-station-workstation-with-the-nvidia-gb300-ultra-a-pair-of-400gbe-lan-ports-and-768gb-of-ram) (Published: 2026-03-21)
