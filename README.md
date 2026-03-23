@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-23 23:03:41**_
+_Last updated: **2026-03-23 23:45:15**_
 
+- [nemo-retriever 2026.3.22.dev38](https://pypi.org/project/nemo-retriever/2026.3.22.dev38/) (Published: 2026-03-22)
+- [Expert names 2 ASX ETFs to buy now](https://www.fool.com.au/2026/03/23/expert-names-2-asx-etfs-to-buy-now/) (Published: 2026-03-22)
 - [Nvidia Confirms DLSS 5 Is Re-Drawing Games, and That Sucks - IGN](https://slashdot.org/firehose.pl?op=view&amp;id=181079046) (Published: 2026-03-22)
 - [loop-chat added to PyPI](https://pypi.org/project/loop-chat/) (Published: 2026-03-22)
 - [agent-security-harness added to PyPI](https://pypi.org/project/agent-security-harness/) (Published: 2026-03-22)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-23 23:03:41**_
 - [Panther Lake XPS 16 is so efficient, it draws just 1.5 W when idling for insanely long battery life](https://www.notebookcheck.net/Panther-Lake-XPS-16-is-so-efficient-it-draws-just-1-5-W-when-idling-for-insanely-long-battery-life.1255734.0.html) (Published: 2026-03-22)
 - [Did Kioxia just unveil the fastest SSD ever? GP series uses Storage Class Memory to feed the HBM GPU with millions of IOPS](https://www.techradar.com/pro/did-kioxia-just-unveil-the-fastest-ssd-ever-gp-series-uses-storage-class-memory-to-feed-the-hbm-gpu-with-millions-of-iops) (Published: 2026-03-22)
 - [roland-sloth added to PyPI](https://pypi.org/project/roland-sloth/) (Published: 2026-03-22)
-- [iRacing on Vision Pro bringing ‘immersion and fidelity never before seen in sim racing’](https://9to5mac.com/2026/03/22/iracing-on-vision-pro-bringing-immersion-and-fidelity-never-before-seen-in-sim-racing/) (Published: 2026-03-22)
-- [Middle East Conflict Could Trigger a ‘Black Swan’ For Chips, Pushing the Industry Into a Period That Could Be Devastating for AI](https://wccftech.com/middle-east-conflict-could-trigger-a-black-swan-for-chips/) (Published: 2026-03-22)
