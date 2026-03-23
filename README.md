@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-23 09:43:26**_
+_Last updated: **2026-03-23 10:37:25**_
 
 - [Andrej Karpathy says he uses an AI agent named Dobby the Elf Claw to control his pool and track his packages](https://www.businessinsider.com/openai-founder-andrej-karpathy-chores-dobby-ai-claw-2026-3) (Published: 2026-03-22)
 - [gpumanager 0.1.1](https://pypi.org/project/gpumanager/0.1.1/) (Published: 2026-03-22)
