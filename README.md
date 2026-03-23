@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-22 23:45:36**_
+_Last updated: **2026-03-23 00:03:01**_
 
+- [What happened in Super Micro’s $2.5B Nvidia chip smuggling? #tech](https://alltoc.com/tech/what-happened-in-super-micros-2-5b-nvidia-chip-smuggling) (Published: 2026-03-22)
+- [Delta targets next-gen AI data centers with 800V DC power and liquid cooling solutions](https://www.digitimes.com/news/a20260320PD205/2026-liquid-cooling-nvidia-gtc-data.html) (Published: 2026-03-21)
 - [nemo-retriever 2026.3.21.dev37](https://pypi.org/project/nemo-retriever/2026.3.21.dev37/) (Published: 2026-03-21)
 - [nvidia-arch 1.1.0](https://pypi.org/project/nvidia-arch/1.1.0/) (Published: 2026-03-21)
 - [Linux's obsession with 'the right way' is why it'll never replace Windows for most people](https://www.xda-developers.com/linux-wants-you-do-things-right-way-biggest-problem/) (Published: 2026-03-21)
@@ -8,5 +10,3 @@ _Last updated: **2026-03-22 23:45:36**_
 - [Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d22341af-ccbe-4b5d-8d22-5c827b090660) (Published: 2026-03-21)
 - [I bought the wrong monitor because I didn't understand one display setting](https://www.makeuseof.com/bought-wrong-monitor-because-didnt-understand-one-display-setting/) (Published: 2026-03-21)
 - [Acer Predator Triton 14 AI](https://me.pcmag.com/en/laptops/36088/acer-predator-triton-14-ai) (Published: 2026-03-21)
-- [Acer Predator Triton 14 AI](https://uk.pcmag.com/laptops/163912/acer-predator-triton-14-ai) (Published: 2026-03-21)
-- [meld-framework added to PyPI](https://pypi.org/project/meld-framework/) (Published: 2026-03-21)
