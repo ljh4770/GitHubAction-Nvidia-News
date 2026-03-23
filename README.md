@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-23 22:37:57**_
+_Last updated: **2026-03-23 23:03:41**_
 
+- [Nvidia Confirms DLSS 5 Is Re-Drawing Games, and That Sucks - IGN](https://slashdot.org/firehose.pl?op=view&amp;id=181079046) (Published: 2026-03-22)
+- [loop-chat added to PyPI](https://pypi.org/project/loop-chat/) (Published: 2026-03-22)
 - [agent-security-harness added to PyPI](https://pypi.org/project/agent-security-harness/) (Published: 2026-03-22)
 - [Deploying Disaggregated LLM Inference Workloads on Kubernetes](https://developer.nvidia.com/blog/deploying-disaggregated-llm-inference-workloads-on-kubernetes/) (Published: 2026-03-22)
 - [Why today’s immigrants to America are so hostile to their new country](https://nypost.com/2026/03/22/opinion/why-todays-immigrants-to-america-are-so-hostile-to-their-new-country/) (Published: 2026-03-22)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-23 22:37:57**_
 - [roland-sloth added to PyPI](https://pypi.org/project/roland-sloth/) (Published: 2026-03-22)
 - [iRacing on Vision Pro bringing ‘immersion and fidelity never before seen in sim racing’](https://9to5mac.com/2026/03/22/iracing-on-vision-pro-bringing-immersion-and-fidelity-never-before-seen-in-sim-racing/) (Published: 2026-03-22)
 - [Middle East Conflict Could Trigger a ‘Black Swan’ For Chips, Pushing the Industry Into a Period That Could Be Devastating for AI](https://wccftech.com/middle-east-conflict-could-trigger-a-black-swan-for-chips/) (Published: 2026-03-22)
-- [Do you want to build a robot snowman? | TechCrunch](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/) (Published: 2026-03-22)
-- [Goldman Sachs sends blunt message on Nvidia stock after GTC](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_feb471ed-aba2-4c7d-8276-ef89c8d33ea5) (Published: 2026-03-22)
