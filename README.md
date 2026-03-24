@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-24 11:26:43**_
+_Last updated: **2026-03-24 12:04:02**_
 
+- [TSMC’s Arizona Fabs Are So Overbooked That Customers Are Already Reserving Capacity That Hasn’t Even Been Built Yet](https://wccftech.com/tsmc-arizona-fabs-are-so-overbooked-that-customers-are-already-reserving-capacity-that-hasnt-even-been-built-yet/) (Published: 2026-03-23)
+- [I Run OpenClaw at Home. That’s Exactly Why We Built DefenseClaw.](https://blogs.cisco.com/ai/cisco-announces-defenseclaw) (Published: 2026-03-23)
+- [Cisco Reimagines Security for the Agentic Workforce](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m03/cisco-reimagines-security-for-the-agentic-workforce.html) (Published: 2026-03-23)
+- [Elon Musk unveils TeraFab project to create ‘galactic civilisation’](https://www.the-independent.com/tech/elon-musk-terafab-robots-ai-spacex-tesla-b2943643.html) (Published: 2026-03-23)
+- [Dow futures jump over 1000 points as Trump pauses Iran strikes, Brent slips below $100](https://www.moneycontrol.com/news/business/markets/dow-futures-surge-1-100-points-as-trump-halts-iran-energy-strikes-brent-slumps-below-100-bbl-13868194.html) (Published: 2026-03-23)
+- [Markets in meltdown after Trump threatens major escalation in the war against Iran](https://fortune.com/2026/03/23/stock-market-meltdown-trump-threatens-escalation-iran/) (Published: 2026-03-23)
+- [Best Laptops (2026): My Honest Advice Having Tested Hundreds](https://www.wired.com/story/best-laptops/) (Published: 2026-03-23)
 - [NVIDIA and Emerald AI Join Leading Energy Companies to Pioneer Flexible AI Factories as Grid Assets](https://nvidianews.nvidia.com/news/nvidia-and-emerald-ai-join-leading-energy-companies-to-pioneer-flexible-ai-factories-as-grid-assets) (Published: 2026-03-23)
 - [How inherited wealth could reshape corporate America’s leadership pipeline](https://fortune.com/article/inherited-wealth-reshape-corporate-america-leadership-pipeline/) (Published: 2026-03-23)
 - [Jensen Huang says Nvidia engineers should use AI tokens worth half their annual salary every year to be fully productive — compares not using AI to using paper and pencil for designing chips](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-nvidia-engineers-should-use-ai-tokens-worth-half-their-annual-salary-every-year-to-be-fully-productive-compares-not-using-ai-to-using-paper-and-pencil-for-designing-chips) (Published: 2026-03-23)
-- [In China, a rush to 'raise lobsters' quickly leads to second thoughts](https://www.nbcnews.com/world/asia/china-openclaw-ai-agent-frenzy-rcna263636) (Published: 2026-03-23)
-- [Lenovo ThinkPad P16v Gen 3 review: Powerful, but hard to recommend](https://www.pcworld.com/article/3081163/lenovo-thinkpad-p16v-gen-3-review.html) (Published: 2026-03-23)
-- [How simulations and digital twins are advancing robotics](https://www.techtarget.com/searchenterpriseai/news/366640672/How-simulations-and-digital-twins-are-advancing-robotics) (Published: 2026-03-23)
-- [openbias added to PyPI](https://pypi.org/project/openbias/) (Published: 2026-03-23)
-- [Supermicro—accused of smuggling $2.5 billion in Nvidia chips and servers to China—has been here before, with Iran](https://fortune.com/2026/03/23/supermicro-cofounder-china-nvidia-iran/) (Published: 2026-03-23)
-- [Software Defined Vehicles Market Projected to Reach USD 4,663.54 Billion by 2035, Owing to EV Adoption and Software-Defined Automotive Platforms | Research by SNS Insider](https://www.globenewswire.com/news-release/2026/03/23/3260196/0/en/Software-Defined-Vehicles-Market-Projected-to-Reach-USD-4-663-54-Billion-by-2035-Owing-to-EV-Adoption-and-Software-Defined-Automotive-Platforms-Research-by-SNS-Insider.html) (Published: 2026-03-23)
-- [Experts predict quantum utility by 2033](https://www.techtarget.com/searchenterpriseai/feature/Experts-predict-quantum-utility-by-2033) (Published: 2026-03-23)
