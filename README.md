@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-25 22:26:40**_
+_Last updated: **2026-03-25 23:03:22**_
 
 - [Arm moves beyond IP with AGI CPU silicon — 136-core data center chip targets AI infrastructure with Meta as lead partner](https://www.tomshardware.com/tech-industry/semiconductors/arm-launches-its-first-data-center-cpu) (Published: 2026-03-24)
 - [OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer](https://www.cnbc.com/2026/03/24/openai-secures-an-extra-10-billion-in-record-funding-round-cfo-friar-says.html) (Published: 2026-03-24)
