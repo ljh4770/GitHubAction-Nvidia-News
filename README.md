@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-26 22:26:39**_
+_Last updated: **2026-03-26 22:56:47**_
 
+- [Melania Trump walks side-by-side with humanoid robot at White House summit](https://www.nbcnews.com/tech/tech-news/melania-trump-robot-humanoid-robot-white-house-video-rcna265192) (Published: 2026-03-25)
 - [Feds Arrest Trio for Nvidia GPU Smuggling Scheme Involving Supermicro Servers](https://me.pcmag.com/en/ai/36182/feds-arrest-trio-for-nvidia-gpu-smuggling-scheme-involving-supermicro-servers) (Published: 2026-03-25)
 - [Feds Arrest Trio for Nvidia GPU Smuggling Scheme Involving Supermicro Servers](https://uk.pcmag.com/ai/164014/feds-arrest-trio-for-nvidia-gpu-smuggling-scheme-involving-supermicro-servers) (Published: 2026-03-25)
 - [Dell's Precision Pro Biz Laptops Are Back With New Focus on Portability](https://www.cnet.com/tech/computing/dell-precision-pro-laptops-focus-portability/) (Published: 2026-03-25)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-26 22:26:39**_
 - [Sam Altman Is Finally Admitting Something No One Else Wants To](https://slate.com/technology/2026/03/ai-openai-sam-altman-disney-sora-shutdown.html) (Published: 2026-03-25)
 - [Jensen Huang and Mark Zuckerberg among tech leaders appointed to White House advisory council - Politico](https://slashdot.org/firehose.pl?op=view&amp;id=181103426) (Published: 2026-03-25)
 - [visionOS 26.4 Brings NVIDIA CloudXR 4K Streaming to Apple Vision Pro](https://the-gadgeteer.com/2026/03/25/visionos-26-4-brings-nvidia-cloudxr-4k-streaming-to-apple-vision-pro/) (Published: 2026-03-25)
-- [Google’s new compression algorithm cut memory stocks within hours of publication](https://thenextweb.com/news/google-turboquant-ai-compression-memory-stocks) (Published: 2026-03-25)
