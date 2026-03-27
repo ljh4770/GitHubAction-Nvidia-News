@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-27 15:28:54**_
+_Last updated: **2026-03-27 16:28:55**_
 
+- [Asus confirms global launch for new 18-inch gaming laptop with 1,600-nit Mini LED display](https://www.notebookcheck.net/Asus-confirms-global-launch-for-new-18-inch-gaming-laptop-with-1-600-nit-Mini-LED-display.1259936.0.html) (Published: 2026-03-26)
+- [Open-Source Nouveau Performance With Linux 7.0 + NVK Mesa 26.1-dev vs. NVIDIA Linux Driver](https://www.phoronix.com/review/linux-70-nouveau) (Published: 2026-03-26)
+- [vision-agents-plugins-nvidia 0.4.6](https://pypi.org/project/vision-agents-plugins-nvidia/0.4.6/) (Published: 2026-03-26)
+- [The AI infrastructure bottleneck: Why ‘good enough’ Kubernetes isn’t cutting it anymore](https://siliconangle.com/2026/03/26/ai-infrastructure-bottleneck-good-enough-kubernetes-isnt-cutting-anymore/) (Published: 2026-03-26)
+- [Why is US stock market crashing today? Dow, Nasdaq, S&P 500 down as oil prices surge - here's why tech stocks falling faster than the broader market](https://economictimes.indiatimes.com/news/international/us/why-is-us-stock-market-crashing-today-dow-nasdaq-sp-500-down-as-oil-prices-surge-heres-why-tech-stocks-falling-faster-than-the-broader-market/articleshow/129829167.cms) (Published: 2026-03-26)
+- [Pony.ai Teams With Uber on Robotaxis as Revenues Surge 160%](https://www.pymnts.com/partnerships/2026/pony-ai-teams-with-uber-on-robotaxis-as-revenues-surge-160percent/) (Published: 2026-03-26)
+- [US Senators call for a halt to Nvidia GPU exports in the wake of the Super Micro scandal — looming Chip Security Act may put a wrench into Huang's China ambitions](https://www.tomshardware.com/tech-industry/us-senators-call-for-a-halt-to-nvidia-gpu-exports-in-the-wake-of-the-super-micro-scandal-looming-chip-security-act-may-put-a-wrench-into-huangs-china-ambitions) (Published: 2026-03-26)
+- [What’s up with… AI-RAN funding, D2D, SoftBank Corp](https://www.telecomtv.com/content/the-future-of-ran/what-s-up-with-ai-ran-funding-d2d-softbank-corp-55195/) (Published: 2026-03-26)
 - [Nvidia vs Palantir: Which AI Stock is a Long-Term Buy?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_21a727b3-cc34-4c50-8bd1-67192f931511) (Published: 2026-03-26)
 - [South Korea to invest $166 million in AI chip startup Rebellions](https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-to-invest-166-million-in-ai-chip-startup-rebellions/articleshow/129828518.cms) (Published: 2026-03-26)
-- [Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era](https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/) (Published: 2026-03-26)
-- [I’ve Tested Tons of Laptops. These Are My Favorites from Amazon’s Big Spring Sale](https://me.pcmag.com/en/laptops/36198/ive-tested-tons-of-laptops-these-are-my-favorites-from-amazons-big-spring-sale) (Published: 2026-03-26)
-- [I’ve Tested Tons of Laptops. These Are My Favorites from Amazon’s Big Spring Sale](https://uk.pcmag.com/laptops/164029/ive-tested-tons-of-laptops-these-are-my-favorites-from-amazons-big-spring-sale) (Published: 2026-03-26)
-- [Adecco Group Taps Salesforce, Inc. (CRM) for Agentforce Following Nvidia Pact](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_407eedc3-c9b9-43fe-81c2-683149b73fb1) (Published: 2026-03-26)
-- [Huawei’s 910C AI Chips Are Ready for Mass Distribution. A Wake up Call for the US](https://techreport.com/news/huaweis-910c-ai-chips-are-ready-for-mass-distribution-a-wake-up-call-for-the-us/) (Published: 2026-03-26)
-- [World of Warcraft: Midnight review](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnight-review/) (Published: 2026-03-26)
-- [NVIDIA Stock Has Gas in the Tank Amid Mag 7’s $650B+ Capex Surge](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a196628-3823-4ced-beb3-174fc57f9e34) (Published: 2026-03-26)
-- [AI Relies on Data Centers. Bernie Sanders and AOC Want To Freeze Their Construction.](https://reason.com/2026/03/26/ai-relies-on-data-centers-sanders-and-aoc-want-to-freeze-their-construction/) (Published: 2026-03-26)
