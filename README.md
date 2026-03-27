@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-27 20:47:17**_
+_Last updated: **2026-03-27 21:21:12**_
 
+- [The AI Boom Wasn’t Built for the Polycrisis](https://www.theatlantic.com/technology/2026/03/ai-boom-polycrisis/686559/) (Published: 2026-03-26)
 - [20VC x SaaStr This Week: Anthropic Is Eating OpenAI’s Enterprise Lunch, Figma’s Real Problem Isn’t Stitch, and the Unicorn Math Nobody Wants to Talk About](https://www.saastr.com/20vc-x-saastr-this-week-anthropic-is-eating-openais-enterprise-lunch-figmas-real-problem-isnt-stitch-and-the-unicorn-math-nobody-wants-to-talk-about/) (Published: 2026-03-26)
 - [Xero partners with Claude-maker Anthropic - which is also offering free financial features for all-comers](https://www.nzherald.co.nz/business/xero-partners-with-claude-maker-anthropic-which-is-also-offering-free-financial-features-for-all-comers/premium/HZJFEHETSBFN3AZ4QCWFJUOZ24/) (Published: 2026-03-26)
 - [Stocks Just Had Their Worst Day Since Iran War Began](https://www.newser.com/story/386208/stocks-just-had-their-worst-day-since-iran-war-began.html) (Published: 2026-03-26)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-27 20:47:17**_
 - [US stocks today: Dow Jones slumps 470 points, Nadsaq, S&P over 1% as Iran war uncertainty spooks investors](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-slumps-470-points-nadsaq-sp-over-1-as-iran-war-uncertainty-spooks-investors/articleshow/129833745.cms) (Published: 2026-03-26)
 - [Boomer Shooter Dev Calls For Nvidia Boycott Over DLSS 5 Generative Upscaling ‘Trained On Instagram Models And Epstein Memes’](https://kotaku.com/nvidia-dlss5-genai-dusk-boomer-shooter-gtx-5090-2000682284) (Published: 2026-03-26)
 - [SKYX Reports Another Record Quarter with Revenue of $25 Million in Q-4 Demonstrating 8 Consecutive Quarters of Year Over Year Growth with Annual Record Revenue of $92 Million in 2025 Compared to $86 Million in 2024 as it Continues to Grow its Market Penetration](https://www.globenewswire.com/news-release/2026/03/26/3263393/0/en/SKYX-Reports-Another-Record-Quarter-with-Revenue-of-25-Million-in-Q-4-Demonstrating-8-Consecutive-Quarters-of-Year-Over-Year-Growth-with-Annual-Record-Revenue-of-92-Million-in-2025.html) (Published: 2026-03-26)
-- [DLSS 5 is further proof that rasterization’s days are numbered](https://www.xda-developers.com/dlss-5-is-further-proof-that-rasterizations-days-are-numbered/) (Published: 2026-03-26)
