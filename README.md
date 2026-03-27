@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-27 21:54:27**_
+_Last updated: **2026-03-27 22:30:34**_
 
+- [Is now the time to buy Nvidia? Cramer says ask these questions to arrive at an answer](https://www.cnbc.com/2026/03/26/cramer-when-to-buy-nvidia.html) (Published: 2026-03-26)
+- [Apple’s Mac Pro is dead, apparently for good this time](https://www.theverge.com/tech/902050/mac-pro-discontinued) (Published: 2026-03-26)
+- [T-Rex files for leveraged SpaceX, Anthropic ETFs ahead of anticipated IPOs](https://www.channelnewsasia.com/business/t-rex-files-leveraged-spacex-anthropic-etfs-ahead-anticipated-ipos-6019936) (Published: 2026-03-26)
+- [Fallout 4 on Nintendo Switch 2 adds DLSS](https://mynintendonews.com/2026/03/26/fallout-4-on-nintendo-switch-adds-dlss/) (Published: 2026-03-26)
+- [40% off Refurbished Dell Precision Laptops at Dell Refurbished](https://slickdeals.net/f/19351200-40-off-refurbished-dell-precision-laptops-at-dell-refurbished) (Published: 2026-03-26)
+- [Will Trump Put Boots on the Ground in Iran?](http://foreignpolicy.com/2026/03/26/trump-boots-on-ground-iran-us-troops-war-middle-east/) (Published: 2026-03-26)
 - [Southeast Asia revisits nuclear power plans for AI data centers](https://japantoday.com/category/business/southeast-asia-revisits-nuclear-power-plans-for-ai-data-centers-iran-war-disrupts-energy-supplies) (Published: 2026-03-26)
 - [David Sacks Out as AI and Crypto Czar](https://www.dailysignal.com/2026/03/26/david-sacks-out-as-ai-and-crypto-czar-takes-on-new-role/) (Published: 2026-03-26)
 - [Mouse Clicks Not Working](https://askubuntu.com/questions/1565183/mouse-clicks-not-working) (Published: 2026-03-26)
 - [The AI Boom Wasn’t Built for the Polycrisis](https://www.theatlantic.com/technology/2026/03/ai-boom-polycrisis/686559/) (Published: 2026-03-26)
-- [20VC x SaaStr This Week: Anthropic Is Eating OpenAI’s Enterprise Lunch, Figma’s Real Problem Isn’t Stitch, and the Unicorn Math Nobody Wants to Talk About](https://www.saastr.com/20vc-x-saastr-this-week-anthropic-is-eating-openais-enterprise-lunch-figmas-real-problem-isnt-stitch-and-the-unicorn-math-nobody-wants-to-talk-about/) (Published: 2026-03-26)
-- [Xero partners with Claude-maker Anthropic - which is also offering free financial features for all-comers](https://www.nzherald.co.nz/business/xero-partners-with-claude-maker-anthropic-which-is-also-offering-free-financial-features-for-all-comers/premium/HZJFEHETSBFN3AZ4QCWFJUOZ24/) (Published: 2026-03-26)
-- [Stocks Just Had Their Worst Day Since Iran War Began](https://www.newser.com/story/386208/stocks-just-had-their-worst-day-since-iran-war-began.html) (Published: 2026-03-26)
-- [Wall Street Has Its Worst Day Since The War With Iran Started And Crude Oil Prices Rise](https://www.huffpost.com/entry/financial-markets-stock-market_n_69c594e7e4b0a6ee60c3f2d8) (Published: 2026-03-26)
-- [Qualcomm-based PC sales have "experienced explosive growth," according to a new report — and the platform could save a struggling entry-level PC gaming market](https://www.windowscentral.com/gaming/pc-gaming/arm-based-pcs-budget-pc-gaming-new-report) (Published: 2026-03-26)
-- [edm98 added to PyPI](https://pypi.org/project/edm98/) (Published: 2026-03-26)
