@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-28 19:31:01**_
+_Last updated: **2026-03-28 19:54:15**_
 
+- [We Uncovered Massive Laptop and Desktop Deals From Lenovo, Dell, Apple and More at Amazon's Big Spring Sale](https://uk.pcmag.com/desktop-pcs/164083/we-uncovered-massive-laptop-and-desktop-deals-from-lenovo-dell-apple-and-more-at-amazons-big-spring) (Published: 2026-03-27)
 - [RTX 5060 gaming laptop brings epic power for under $1,500 — save $580 on Dell's Alienware 16X Aurora](https://www.tomshardware.com/laptops/gaming-laptops/rtx-5060-gaming-laptop-brings-epic-power-for-under-usd1-500-save-usd580-on-dells-alienware-16x-aurora) (Published: 2026-03-27)
 - [Memory chip giant SK hynix could help end 'RAMmageddon' with blockbuster US IPO | TechCrunch](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/) (Published: 2026-03-27)
 - [Three insights you might have missed from theCUBE’s coverage of Nvidia GTC](https://siliconangle.com/2026/03/27/ai-system-nvidia-gtc-thecube-highlights-nvidiagtcai/) (Published: 2026-03-27)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-28 19:31:01**_
 - [How Larry Ellison is Quietly Shaping the Future of A.I., Social Media and Hollywood](https://observer.com/2026/03/larry-ellison-fortune-stargate-tiktok-paramount-wbd-merger/) (Published: 2026-03-27)
 - [Bringing AI to DevNet Learning Labs](https://blogs.cisco.com/developer/bringing-ai-to-devnet-learning-labs) (Published: 2026-03-27)
 - [Apple’s busy March continued with three notable arrivals this week](https://9to5mac.com/2026/03/27/apples-busy-march-continues-with-three-notable-arrivals-this-week/) (Published: 2026-03-27)
-- [Tech stocks lead Friday selloff as crypto breaks lower and gold and silver spike](https://cryptobriefing.com/tech-stock-volatility-market-selloff/) (Published: 2026-03-27)
