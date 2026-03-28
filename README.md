@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-28 00:01:21**_
+_Last updated: **2026-03-28 03:11:46**_
 
+- [Claude AI maker Anthropic considers IPO as soon as October](https://economictimes.indiatimes.com/tech/technology/claude-ai-maker-anthropic-considers-ipo-as-soon-as-october/articleshow/129837524.cms) (Published: 2026-03-27)
+- [Show HN: jsoon, a streaming JSON parser and query engine in C](https://github.com/xtellect/jsoon) (Published: 2026-03-27)
+- [US Stock Market: Nasdaq confirms correction, Wall Street slumps on Middle East uncertainty](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-nasdaq-confirms-correction-wall-street-slumps-on-middle-east-uncertainty/articleshow/129837005.cms) (Published: 2026-03-27)
+- [The Real Housewives of Beverly Hills Recap: Sour Grapes](http://www.vulture.com/article/real-housewives-of-beverly-hills-recap-rhobh-season-15-episode-15-bravo.html) (Published: 2026-03-27)
+- [Apple Mac Pro Fades Into Oblivion](https://www.cnet.com/tech/computing/apple-mac-pro-fades-into-oblivion/) (Published: 2026-03-27)
+- [Wall Street sees worst fall since Iran war; Nasdaq enters correction zone](https://www.thehindubusinessline.com/markets/wall-street-sees-worst-fall-since-iran-war-nasdaq-enters-correction-zone/article70790929.ece) (Published: 2026-03-27)
+- [Khadas Mind Panther Lake Mini PC Gets $300 Price Increase, Two Models Delayed Due To RAMpocalypse](https://www.techpowerup.com/347776/khadas-mind-panther-lake-mini-pc-gets-usd-300-price-increase-two-models-delayed-due-to-rampocalypse) (Published: 2026-03-27)
+- [White House crypto czar David Sacks transfers to presidential advisory committee role](https://www.coindesk.com/policy/2026/03/26/white-house-crypto-czar-david-sacks-transfers-to-presidential-advisory-committee-role) (Published: 2026-03-27)
+- [Articles On: Uyghur, Hong Kong Government Employee, Scams, United Nations, Nvidia, Spies, Campus, USCET, Takaichi, Japan, Taiwan, and Iran](https://www.hoover.org/research/articles-uyghur-hong-kong-government-employee-scams-united-nations-nvidia-spies-campus) (Published: 2026-03-27)
 - [pawbench added to PyPI](https://pypi.org/project/pawbench/) (Published: 2026-03-26)
-- [nemo-retriever 2026.3.26.dev42](https://pypi.org/project/nemo-retriever/2026.3.26.dev42/) (Published: 2026-03-26)
-- [Amid AI platform chaos, OpenSearch cements itself as an infrastructure standard](https://siliconangle.com/2026/03/26/opensearch-now-ai-data-infrastructure-standard-platform-consolidation-kubeconeu/) (Published: 2026-03-26)
-- [Nvidia says quantum computing will not replace GPUs](https://www.digitimes.com/news/a20260326PD212/nvidia-quantum-computing-technology-taiwan-academia-sinica.html) (Published: 2026-03-26)
-- [Ubuntu 26.04 Beta is now available to download](https://www.omgubuntu.co.uk/2026/03/ubuntu-26-04-beta-is-now-available-to-download) (Published: 2026-03-26)
-- [Wall Street sees worst drop since Iran war began, as Nasdaq sinks 10% below its record](https://www.cbc.ca/news/business/wall-street-drop-nasdaq-10-9.7143820) (Published: 2026-03-26)
-- [Bitcoin Now Less Volatile Than Tesla, Nvidia — Schwab Data](https://bitcoinist.com/bitcoin-now-less-volatile-than-tesla-nvidia-schwab-data/) (Published: 2026-03-26)
-- [Is now the time to buy Nvidia? Cramer says ask these questions to arrive at an answer](https://www.cnbc.com/2026/03/26/cramer-when-to-buy-nvidia.html) (Published: 2026-03-26)
-- [Apple’s Mac Pro is dead, apparently for good this time](https://www.theverge.com/tech/902050/mac-pro-discontinued) (Published: 2026-03-26)
-- [T-Rex files for leveraged SpaceX, Anthropic ETFs ahead of anticipated IPOs](https://www.channelnewsasia.com/business/t-rex-files-leveraged-spacex-anthropic-etfs-ahead-anticipated-ipos-6019936) (Published: 2026-03-26)
