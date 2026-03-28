@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-28 14:54:17**_
+_Last updated: **2026-03-28 15:26:52**_
 
+- [Topaz Video 1.3.0](https://post.rlsbb.to/topaz-video-1-3-0/) (Published: 2026-03-27)
+- [KDE Plasma 6.6 Showing Frequent Performance Advantage Over GNOME 50 With NVIDIA R595 Driver](https://www.phoronix.com/review/nvidia-595-kde-gnome) (Published: 2026-03-27)
+- [Cathie Wood's Ark Invest Dumps Meta, Nvidia and Bitcoin ETF Shares in Major Tech Sell-Off](https://decrypt.co/362580/cathie-woods-ark-invest-dumps-meta-nvidia-bitcoin-etf-shares) (Published: 2026-03-27)
+- [Cathie Wood's Ark Invest Dumps Meta, Nvidia and Bitcoin ETF Shares in Major Tech Sell-Off](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d4e44c23-233c-4b77-861f-f507575b2dc1) (Published: 2026-03-27)
+- [What’s up with… Italian towers spat, ISAC, Android & Q-Day](https://www.telecomtv.com/content/access-evolution/what-s-up-with-italian-towers-spat-isac-android-q-day-55203/) (Published: 2026-03-27)
+- [videosdk-plugins-nvidia 1.0.0](https://pypi.org/project/videosdk-plugins-nvidia/1.0.0/) (Published: 2026-03-27)
+- [Accelerating AI innovation with Cisco Nexus Hyperfabric solutions](https://blogs.cisco.com/datacenter/accelerating-ai-innovation-with-cisco-nexus-hyperfabric-solutions) (Published: 2026-03-27)
 - [VideoProc Converter AI 8.9 (2026032601)](https://post.rlsbb.to/videoproc-converter-ai-8-9-2026032601/) (Published: 2026-03-27)
 - [SoftBank secures $40B bridge loan to fund its OpenAI bet](https://thenextweb.com/news/softbank-40-billion-bridge-loan-openai/) (Published: 2026-03-27)
 - [The Last Gasps of the Rent Seeking Class](https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html) (Published: 2026-03-27)
-- [Mac Pro Discontinued: Reflecting on 20 Years of Apple's Desktop Tower](https://www.macrumors.com/2026/03/27/reflecting-on-20-years-of-mac-pro/) (Published: 2026-03-27)
-- [Ubuntu 26.04 LTS Beta Shows You There's Potential in the Stable Release](https://itsfoss.com/news/ubuntu-26-04-lts-beta/) (Published: 2026-03-27)
-- [NVIDIA DLSS 5 Could Eventually Become a Driver-Level Toggle](https://wccftech.com/nvidia-dlss-5-could-become-driver-level-toggle/) (Published: 2026-03-27)
-- [Nasdaq 100 drops into correction territory for first time since Liberation Day](https://financialpost.com/investing/nasdaq-100-falls-correction-territory) (Published: 2026-03-27)
-- [Intel’s Ex-CEO Blames Wall Street’s “Short-Termism” For America Losing the Chip Race, Saying No CEO Can Survive the Backlash](https://wccftech.com/intel-ex-ceo-blames-wall-street-for-america-losing-the-chip-race/) (Published: 2026-03-27)
-- [AI Is Reshaping Neuroprotective Drug Discovery Market: New BCC Research Pulse Report Maps the Investment and Innovation Landscape](https://www.globenewswire.com/news-release/2026/03/27/3263828/0/en/AI-Is-Reshaping-Neuroprotective-Drug-Discovery-Market-New-BCC-Research-Pulse-Report-Maps-the-Investment-and-Innovation-Landscape.html) (Published: 2026-03-27)
-- [iBUYPOWER Announces Intel Core Ultra 200S Plus Powered Desktops, Starting At $1,899](https://wccftech.com/ibuypower-announces-intel-core-ultra-200s-plus-powered-desktops-starting-at-1899/) (Published: 2026-03-27)
