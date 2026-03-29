@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-29 05:25:27**_
+_Last updated: **2026-03-29 06:41:02**_
 
+- [Wall Street drops again to close its 5th straight losing week, worst since Iran war](https://www.thehindubusinessline.com/markets/wall-street-drops-again-to-close-its-5th-straight-losing-week-worst-since-iran-war/article70795401.ece) (Published: 2026-03-28)
+- [RoboSense Driving Ecosystem Deployment with Global Partners at NVIDIA GTC 2026](https://en.antaranews.com/news/410142/robosense-driving-ecosystem-deployment-with-global-partners-at-nvidia-gtc-2026) (Published: 2026-03-28)
+- [Still more Android agony](http://www.lemis.com/grog/diary-mar2026.php?topics=c#D-20260328-013702) (Published: 2026-03-28)
+- [Panic!](http://www.lemis.com/grog/diary-mar2026.php?topics=c#D-20260328-013654) (Published: 2026-03-28)
+- [More named failures](http://www.lemis.com/grog/diary-mar2026.php?topics=c#D-20260328-013222) (Published: 2026-03-28)
 - [Acer Promo Codes and Deals: Save 40% on Bundles](https://www.wired.com/story/acer-promo-code/) (Published: 2026-03-28)
 - [Another power failure!](http://www.lemis.com/grog/diary-mar2026.php?topics=c#D-20260328-004932) (Published: 2026-03-28)
 - [From no bids, ISL set to get Rs 2.1k cr](https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/from-no-bids-isl-set-to-get-rs-2-1k-cr/articleshow/129858233.cms) (Published: 2026-03-28)
 - [The slow drift from red: Why CPM can no longer take the Ezhava vote for granted in Kerala](https://timesofindia.indiatimes.com/city/kochi/the-slow-drift-from-red-why-cpm-can-no-longer-take-the-ezhava-vote-for-granted-in-kerala/articleshow/129858160.cms) (Published: 2026-03-28)
 - [PNB Apprentice result 2026 released at pnb.bank.in: Direct link to download list of shortlisted candidates here](https://timesofindia.indiatimes.com/education/news/pnb-apprentice-result-2026-released-at-pnb-bank-in-direct-link-to-download-list-of-shortlisted-candidates-here/articleshow/129858108.cms) (Published: 2026-03-28)
-- [WWE SmackDown News Roundup: Cody Rhodes returns, two new WrestleMania 42 matches and more](https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-smackdown-news-roundup-cody-rhodes-returns-two-new-wrestlemania-42-matches-and-more/articleshow/129857810.cms) (Published: 2026-03-28)
-- [‘Drugged, raped, blackmailed’: Now, FIR against Vasai 'ritual performer' Hrishikesh Vaidya, accused of luring woman via social media](https://timesofindia.indiatimes.com/city/pune/drugged-raped-blackmailed-now-rape-fir-against-vasai-ritual-performer-hrishikesh-vaidya-accused-of-luring-woman-via-social-media/articleshow/129857984.cms) (Published: 2026-03-28)
-- [WWE SmackDown Results & Highlights 27-march-2026: New champion crowned, Cody Rhodes & Randy Orton brawl, and more](https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-smackdown-results-highlights-27-march-2026-new-champion-crowned-cody-rhodes-randy-orton-brawl-and-more/articleshow/129857075.cms) (Published: 2026-03-28)
-- [Stocks tumble, Dow confirms correction territory, as Middle East tensions drag](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-stocks-tumble-dow-confirms-correction-territory-as-middle-east-tensions-drag/articleshow/129857735.cms) (Published: 2026-03-28)
-- [Wall Street drops for a fifth straight week amid rising US-Iran tensions](https://www.abc.net.au/news/2026-03-28/wall-street-drops-again-for-a-fifth-straight-losing-week/106506456) (Published: 2026-03-28)
