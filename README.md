@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-29 11:53:51**_
+_Last updated: **2026-03-29 12:49:28**_
 
+- [I fine-tuned a 7B model to write my Home Assistant automations, and it actually works](https://www.xda-developers.com/fine-tuned-7b-model-home-assistant-automations/) (Published: 2026-03-28)
+- [$10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56c38c62-d9bb-4c94-8fb1-655458e708c9) (Published: 2026-03-28)
+- [Asus ROG Swift PG34WCDN 34-inch QD-OLED 360 Hz gaming monitor review: New levels of speed and brightness](https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg34wcdn-34-inch-qd-oled-360-hz-gaming-monitor-review) (Published: 2026-03-28)
 - [Chinese universities performing military research acquired Super Micro servers with sanctioned Nvidia AI chips — public documents reveal purchases were completed in 2025 and 2026 despite US export controls](https://www.tomshardware.com/tech-industry/chinese-universities-performing-military-research-acquired-super-micro-servers-with-sanctioned-nvidia-ai-chips-public-documents-reveal-purchases-were-completed-in-2025-and-2026-despite-us-export-controls) (Published: 2026-03-28)
 - [Ambitious modder bolts a 360mm server AIO onto an RTX 3080, slashes VRAM temps in half — enormous workstation cooler powers 54 degree drop, 9% performance uplift](https://www.tomshardware.com/pc-components/overclocking/ambitious-modder-bolts-a-360mm-server-aio-onto-an-rtx-3080-slashes-vram-temps-in-half-enormous-workstation-cooler-powers-54-degree-drop-9-percent-performance-uplift) (Published: 2026-03-28)
 - [Lucky PC builder scores brand new RTX 5060 Ti worth $420 for just $80 at Walmart — clearance sale find saves buyer hundreds upgrading from a GTX 1060](https://www.tomshardware.com/pc-components/gpus/lucky-pc-builder-scores-brand-new-rtx-5060-ti-worth-usd420-for-just-usd80-at-walmart-clearance-sale-find-saves-buyer-hundreds-upgrading-from-a-gtx-1060) (Published: 2026-03-28)
@@ -8,6 +11,3 @@ _Last updated: **2026-03-29 11:53:51**_
 - [nvidia-nat-security 1.6.0a20260328](https://pypi.org/project/nvidia-nat-security/1.6.0a20260328/) (Published: 2026-03-28)
 - [nvidia-nat-redis 1.6.0a20260328](https://pypi.org/project/nvidia-nat-redis/1.6.0a20260328/) (Published: 2026-03-28)
 - [nvidia-nat-data-flywheel 1.6.0a20260328](https://pypi.org/project/nvidia-nat-data-flywheel/1.6.0a20260328/) (Published: 2026-03-28)
-- [nvidia-nat-semantic-kernel 1.6.0a20260328](https://pypi.org/project/nvidia-nat-semantic-kernel/1.6.0a20260328/) (Published: 2026-03-28)
-- [Memory stocks have tanked, but BofA says the sharp sell-off is overdone](https://www.businessinsider.com/memory-stock-sell-off-micron-ai-stocks-analyst-pick-bofa-2026-3) (Published: 2026-03-28)
-- [nvidia-nat-opentelemetry 1.6.0a20260328](https://pypi.org/project/nvidia-nat-opentelemetry/1.6.0a20260328/) (Published: 2026-03-28)
