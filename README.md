@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-29 00:00:19**_
+_Last updated: **2026-03-29 03:30:15**_
 
+- [The slow drift from red: Why CPM can no longer take the Ezhava vote for granted in Kerala](https://timesofindia.indiatimes.com/city/kochi/the-slow-drift-from-red-why-cpm-can-no-longer-take-the-ezhava-vote-for-granted-in-kerala/articleshow/129858160.cms) (Published: 2026-03-28)
+- [PNB Apprentice result 2026 released at pnb.bank.in: Direct link to download list of shortlisted candidates here](https://timesofindia.indiatimes.com/education/news/pnb-apprentice-result-2026-released-at-pnb-bank-in-direct-link-to-download-list-of-shortlisted-candidates-here/articleshow/129858108.cms) (Published: 2026-03-28)
+- [WWE SmackDown News Roundup: Cody Rhodes returns, two new WrestleMania 42 matches and more](https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-smackdown-news-roundup-cody-rhodes-returns-two-new-wrestlemania-42-matches-and-more/articleshow/129857810.cms) (Published: 2026-03-28)
+- [‘Drugged, raped, blackmailed’: Now, FIR against Vasai 'ritual performer' Hrishikesh Vaidya, accused of luring woman via social media](https://timesofindia.indiatimes.com/city/pune/drugged-raped-blackmailed-now-rape-fir-against-vasai-ritual-performer-hrishikesh-vaidya-accused-of-luring-woman-via-social-media/articleshow/129857984.cms) (Published: 2026-03-28)
+- [WWE SmackDown Results & Highlights 27-march-2026: New champion crowned, Cody Rhodes & Randy Orton brawl, and more](https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-smackdown-results-highlights-27-march-2026-new-champion-crowned-cody-rhodes-randy-orton-brawl-and-more/articleshow/129857075.cms) (Published: 2026-03-28)
+- [Stocks tumble, Dow confirms correction territory, as Middle East tensions drag](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-stocks-tumble-dow-confirms-correction-territory-as-middle-east-tensions-drag/articleshow/129857735.cms) (Published: 2026-03-28)
+- [Wall Street drops for a fifth straight week amid rising US-Iran tensions](https://www.abc.net.au/news/2026-03-28/wall-street-drops-again-for-a-fifth-straight-losing-week/106506456) (Published: 2026-03-28)
 - [sparkrun 0.2.5](https://pypi.org/project/sparkrun/0.2.5/) (Published: 2026-03-27)
 - [nemo-retriever 2026.3.27.dev43](https://pypi.org/project/nemo-retriever/2026.3.27.dev43/) (Published: 2026-03-27)
 - [Huawei’s Ascend 950PR AI Chip Just Won Over Chinese Customers By Mimicking CUDA Through CANN Next, Threatening NVIDIA’s Moat](https://wccftech.com/huawei-ascend-950pr-just-won-over-chinese-customers-by-mimicking-cuda/) (Published: 2026-03-27)
-- [Wall Street Insider Who Predicted 2008 Crash Issues Urgent Warning: "The AI Bubble Will Pop by April 29th"](https://www.globenewswire.com/news-release/2026/03/27/3264148/0/en/Wall-Street-Insider-Who-Predicted-2008-Crash-Issues-Urgent-Warning-The-AI-Bubble-Will-Pop-by-April-29th.html) (Published: 2026-03-27)
-- [Cramer’s game plan: Oil shock is driving this sell-off and tech won’t bottom until it ends](https://www.cnbc.com/2026/03/27/cramers-gameplan-oil-driving-sell-off-tech-wont-bottom-until-it-ends.html) (Published: 2026-03-27)
-- [Before you buy a used GPU, make sure to run these tests first](https://www.makeuseof.com/before-you-buy-used-gpu-make-sure-to-run-these-tests-first/) (Published: 2026-03-27)
-- [Bitcoin Omitted From PARITY Act’s Tax Relief, BPI Urges Inclusion Of Miners](http://www.newsbtc.com/breaking-news-ticker/bitcoin-omitted-from-parity-acts-tax-relief-bpi-urges-inclusion-of-miners/) (Published: 2026-03-27)
-- [Goodbye, Mac Pro](https://mjtsai.com/blog/2026/03/27/goodbye-mac-pro/) (Published: 2026-03-27)
-- [DLSS is quietly saving Nvidia from a problem no GPU manufacturer can brute-force anymore](https://www.xda-developers.com/dlss-quietly-saving-nvidia-from-problem-no-gpu-manufacturer-can-force/) (Published: 2026-03-27)
-- [Taiwan Is Facing Its Worst Rainfall in 75 Years, and the Hardest-Hit Area Is Exactly Where TSMC’s Most Advanced Fabs Are](https://wccftech.com/taiwan-is-facing-its-worst-rainfall-in-75-years-and-the-hardest-hit-area-is-exactly-where-tsmc-most-advanced-fabs-are/) (Published: 2026-03-27)
