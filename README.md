@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-29 03:30:15**_
+_Last updated: **2026-03-29 05:25:27**_
 
+- [Acer Promo Codes and Deals: Save 40% on Bundles](https://www.wired.com/story/acer-promo-code/) (Published: 2026-03-28)
+- [Another power failure!](http://www.lemis.com/grog/diary-mar2026.php?topics=c#D-20260328-004932) (Published: 2026-03-28)
+- [From no bids, ISL set to get Rs 2.1k cr](https://timesofindia.indiatimes.com/sports/football/indian-super-league/top-stories/from-no-bids-isl-set-to-get-rs-2-1k-cr/articleshow/129858233.cms) (Published: 2026-03-28)
 - [The slow drift from red: Why CPM can no longer take the Ezhava vote for granted in Kerala](https://timesofindia.indiatimes.com/city/kochi/the-slow-drift-from-red-why-cpm-can-no-longer-take-the-ezhava-vote-for-granted-in-kerala/articleshow/129858160.cms) (Published: 2026-03-28)
 - [PNB Apprentice result 2026 released at pnb.bank.in: Direct link to download list of shortlisted candidates here](https://timesofindia.indiatimes.com/education/news/pnb-apprentice-result-2026-released-at-pnb-bank-in-direct-link-to-download-list-of-shortlisted-candidates-here/articleshow/129858108.cms) (Published: 2026-03-28)
 - [WWE SmackDown News Roundup: Cody Rhodes returns, two new WrestleMania 42 matches and more](https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-smackdown-news-roundup-cody-rhodes-returns-two-new-wrestlemania-42-matches-and-more/articleshow/129857810.cms) (Published: 2026-03-28)
@@ -8,6 +11,3 @@ _Last updated: **2026-03-29 03:30:15**_
 - [WWE SmackDown Results & Highlights 27-march-2026: New champion crowned, Cody Rhodes & Randy Orton brawl, and more](https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-smackdown-results-highlights-27-march-2026-new-champion-crowned-cody-rhodes-randy-orton-brawl-and-more/articleshow/129857075.cms) (Published: 2026-03-28)
 - [Stocks tumble, Dow confirms correction territory, as Middle East tensions drag](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-stocks-tumble-dow-confirms-correction-territory-as-middle-east-tensions-drag/articleshow/129857735.cms) (Published: 2026-03-28)
 - [Wall Street drops for a fifth straight week amid rising US-Iran tensions](https://www.abc.net.au/news/2026-03-28/wall-street-drops-again-for-a-fifth-straight-losing-week/106506456) (Published: 2026-03-28)
-- [sparkrun 0.2.5](https://pypi.org/project/sparkrun/0.2.5/) (Published: 2026-03-27)
-- [nemo-retriever 2026.3.27.dev43](https://pypi.org/project/nemo-retriever/2026.3.27.dev43/) (Published: 2026-03-27)
-- [Huawei’s Ascend 950PR AI Chip Just Won Over Chinese Customers By Mimicking CUDA Through CANN Next, Threatening NVIDIA’s Moat](https://wccftech.com/huawei-ascend-950pr-just-won-over-chinese-customers-by-mimicking-cuda/) (Published: 2026-03-27)
