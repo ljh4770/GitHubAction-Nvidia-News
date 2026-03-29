@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-29 12:49:28**_
+_Last updated: **2026-03-29 13:42:36**_
 
+- [Top 10 Most Influential CEOs in the United States in 2026: AI, Innovation and Bold Leadership Define the Year](https://www.ibtimes.com.au/top-10-most-influential-ceos-united-states-2026-ai-innovation-bold-leadership-define-year-1864780) (Published: 2026-03-28)
+- [Dell Alienware 16X Aurora Gaming Laptop](https://thegadgetflow.com/product/dell-alienware-16x-aurora-gaming-laptop/) (Published: 2026-03-28)
 - [I fine-tuned a 7B model to write my Home Assistant automations, and it actually works](https://www.xda-developers.com/fine-tuned-7b-model-home-assistant-automations/) (Published: 2026-03-28)
 - [$10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56c38c62-d9bb-4c94-8fb1-655458e708c9) (Published: 2026-03-28)
 - [Asus ROG Swift PG34WCDN 34-inch QD-OLED 360 Hz gaming monitor review: New levels of speed and brightness](https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg34wcdn-34-inch-qd-oled-360-hz-gaming-monitor-review) (Published: 2026-03-28)
@@ -9,5 +11,3 @@ _Last updated: **2026-03-29 12:49:28**_
 - [Lucky PC builder scores brand new RTX 5060 Ti worth $420 for just $80 at Walmart — clearance sale find saves buyer hundreds upgrading from a GTX 1060](https://www.tomshardware.com/pc-components/gpus/lucky-pc-builder-scores-brand-new-rtx-5060-ti-worth-usd420-for-just-usd80-at-walmart-clearance-sale-find-saves-buyer-hundreds-upgrading-from-a-gtx-1060) (Published: 2026-03-28)
 - [Trucker shows off $6,000 PC driving sim rig in passenger seat — driver slides over to RTX 5080-powered setup when stuck in traffic](https://www.tomshardware.com/video-games/pc-gaming/trucker-shows-off-usd6-000-pc-driving-sim-rig-in-passenger-seat-driver-slides-over-to-rtx-5080-powered-setup-when-stuck-in-traffic) (Published: 2026-03-28)
 - [nvidia-nat-security 1.6.0a20260328](https://pypi.org/project/nvidia-nat-security/1.6.0a20260328/) (Published: 2026-03-28)
-- [nvidia-nat-redis 1.6.0a20260328](https://pypi.org/project/nvidia-nat-redis/1.6.0a20260328/) (Published: 2026-03-28)
-- [nvidia-nat-data-flywheel 1.6.0a20260328](https://pypi.org/project/nvidia-nat-data-flywheel/1.6.0a20260328/) (Published: 2026-03-28)
