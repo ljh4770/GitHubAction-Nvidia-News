@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-29 17:51:53**_
+_Last updated: **2026-03-29 18:28:46**_
 
 - [Samsung 49-inch OLED Odyssey G9 hits unbelievable all-time low of $799 — gaming monitor comes with a free copy of Resident Evil Requiem](https://www.tomshardware.com/monitors/gaming-monitors/samsung-49-inch-oled-odyssey-g9-hits-unbelievable-all-time-low-of-usd799-gaming-monitor-comes-with-a-free-copy-of-resident-evil-requiem) (Published: 2026-03-28)
 - [All 11 xAI co-founders have now reportedly left Elon Musk’s AI company](https://thenextweb.com/news/xai-all-cofounders-departed-musk-spacex-rebuild/) (Published: 2026-03-28)
