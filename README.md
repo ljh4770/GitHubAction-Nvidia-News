@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-29 14:20:41**_
+_Last updated: **2026-03-29 14:56:29**_
 
+- [euler-files added to PyPI](https://pypi.org/project/euler-files/) (Published: 2026-03-28)
 - [I’m a Copywriter. I Know What’s About to Happen to the Internet.](https://slate.com/technology/2026/03/copywriter-confession-internet-advice-travel-artificial-intelligence.html) (Published: 2026-03-28)
 - [This RTX 5050 gaming laptop with an 18” FHD+ display, 16GB RAM, and 1TB SSD strikes a "happy medium between performance and price"](https://www.windowscentral.com/hardware/laptops/this-rtx-5050-gaming-laptop-with-an-18-fhd-display-16gb-ram-and-1tb-ssd-strikes-a-happy-medium-between-performance-and-price) (Published: 2026-03-28)
 - [NVIDIA (NVDA) Shares Higher After Jim Cramer Criticized Sellers](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-shares-higher-jim-134935341.html) (Published: 2026-03-28)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-29 14:20:41**_
 - [$10,000 in XRP and Bitcoin vs $10,000 in Nvidia: What Each Could Be Worth by the End of 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_56c38c62-d9bb-4c94-8fb1-655458e708c9) (Published: 2026-03-28)
 - [Asus ROG Swift PG34WCDN 34-inch QD-OLED 360 Hz gaming monitor review: New levels of speed and brightness](https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg34wcdn-34-inch-qd-oled-360-hz-gaming-monitor-review) (Published: 2026-03-28)
 - [Chinese universities performing military research acquired Super Micro servers with sanctioned Nvidia AI chips — public documents reveal purchases were completed in 2025 and 2026 despite US export controls](https://www.tomshardware.com/tech-industry/chinese-universities-performing-military-research-acquired-super-micro-servers-with-sanctioned-nvidia-ai-chips-public-documents-reveal-purchases-were-completed-in-2025-and-2026-despite-us-export-controls) (Published: 2026-03-28)
-- [Ambitious modder bolts a 360mm server AIO onto an RTX 3080, slashes VRAM temps in half — enormous workstation cooler powers 54 degree drop, 9% performance uplift](https://www.tomshardware.com/pc-components/overclocking/ambitious-modder-bolts-a-360mm-server-aio-onto-an-rtx-3080-slashes-vram-temps-in-half-enormous-workstation-cooler-powers-54-degree-drop-9-percent-performance-uplift) (Published: 2026-03-28)
