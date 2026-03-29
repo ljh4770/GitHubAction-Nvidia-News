@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-29 20:02:40**_
+_Last updated: **2026-03-29 20:47:37**_
 
 - [I took a ride in an Nvidia-powered autonomous Mercedes at GTC 2026 - and it’s convinced me this is the future](https://www.techradar.com/pro/i-took-a-ride-in-an-nvidia-powered-autonomous-mercedes-at-gtc-2026-and-its-convinced-me-this-is-the-future) (Published: 2026-03-28)
 - [visionOS 26.4 Released With VR Foveated Streaming & Improved Spatial Audio](https://www.uploadvr.com/visionos-26-4-released-with-vr-foveated-streaming-improved-spatial-audio/) (Published: 2026-03-28)
