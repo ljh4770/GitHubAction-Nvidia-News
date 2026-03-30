@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-30 23:02:20**_
+_Last updated: **2026-03-30 23:47:39**_
 
+- [nemo-retriever 2026.3.29.dev45](https://pypi.org/project/nemo-retriever/2026.3.29.dev45/) (Published: 2026-03-29)
+- [OMEN MAX 45L Gaming Desktop PC: Ryzen 7 9700X, RTX 5090, 32GB DDR5, 1TB SSD $3517.50 + Free S&H](https://slickdeals.net/f/19361325-omen-max-45l-gaming-desktop-pc-ryzen-7-9700x-rtx-5090-32gb-ddr5-1tb-ssd-3517-50-free-s-h) (Published: 2026-03-29)
+- [NVIDIA (NVDA) Backed Start-up Reflection AI To Raise $2.5 Billion](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-backed-start-reflection-231639007.html) (Published: 2026-03-29)
+- [Gigabyte Radeon RX 9070 XT Gaming OC Ice 16GB review: excellent performance from a standout graphics card](https://www.techradar.com/computing/gpu/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-16gb-review-excellent-performance-from-a-standout-graphics-card) (Published: 2026-03-29)
+- [DEATH STRANDING 2: ON THE BEACH PC Performance Analysis & Tuning Guide – How To Get Best Experience On PC](https://wccftech.com/how-to/death-stranding-2-on-the-beach-pc-performance-analysis-tuning-guide-how-to-get-best-experience-on-pc/) (Published: 2026-03-29)
+- [3 brilliant ASX ETFs to buy after the market selloff](https://www.fool.com.au/2026/03/30/3-brilliant-asx-etfs-to-buy-after-the-market-selloff/) (Published: 2026-03-29)
 - [Amazon's Big Spring Sale Drops Prices on Top-Rated Laptops and Desktop PCs](https://uk.pcmag.com/desktop-pcs/164110/amazons-big-spring-sale-drops-prices-on-top-rated-laptops-and-desktop-pcs) (Published: 2026-03-29)
 - [Amazon's Big Spring Sale Drops Prices on Top-Rated Laptops and Desktop PCs](https://me.pcmag.com/en/old-desktop-pcs/36265/amazons-big-spring-sale-drops-prices-on-top-rated-laptops-and-desktop-pcs) (Published: 2026-03-29)
 - [batched-omp added to PyPI](https://pypi.org/project/batched-omp/) (Published: 2026-03-29)
 - [Lattice Semiconductor (LSCC) Partners With Nvidia to Join Halos AI Systems Inspection Lab Ecosystem](https://finance.yahoo.com/sectors/technology/articles/lattice-semiconductor-lscc-partners-nvidia-203526768.html) (Published: 2026-03-29)
-- [Untitled Linux Show 248: It's Like a Crayon](https://twit.tv/shows/untitled-linux-show/episodes/248) (Published: 2026-03-29)
-- [I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now.](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cf154c97-baed-4cbd-8afa-69ceaec41da0) (Published: 2026-03-29)
-- [SLB N.V. (SLB) Deepens Partnership With Nvidia](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b2d2a93d-6533-443b-8303-2f2210e027cf) (Published: 2026-03-29)
-- [NVIDIA’s Upcoming Laptop Chips Could Upend AMD & Intel’s Long-Standing Dominance – Here’s Everything You Need To Know](https://wccftech.com/roundup/nvidia-laptop-chips/) (Published: 2026-03-29)
-- [This Friendly Robot Just Installed 100 MW of Solar Power](https://hardware.slashdot.org/story/26/03/29/1947202/this-friendly-robot-just-installed-100-mw-of-solar-power) (Published: 2026-03-29)
-- [Jim Cramer on NVIDIA: “To Me, You’re Only Being Given a Chance to Buy a High-Quality Stock at a Lower Price Than You Normally Expect”](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-nvidia-only-being-194121085.html) (Published: 2026-03-29)
