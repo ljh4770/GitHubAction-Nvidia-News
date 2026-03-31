@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-31 22:06:47**_
+_Last updated: **2026-03-31 22:50:51**_
 
+- [londonaicentre-chatbot added to PyPI](https://pypi.org/project/londonaicentre-chatbot/) (Published: 2026-03-30)
 - [Stock market today: Live updates](https://www.cnbc.com/2026/03/30/stock-market-today-live-updates.html) (Published: 2026-03-30)
 - [Show HN: BitPolar](https://github.com/mmgehlot/bitpolar) (Published: 2026-03-30)
 - [AI agent future is coming, OpenClaw creator says at Tokyo event](https://japantoday.com/category/tech/ai-agent-future-is-coming-openclaw-creator-tells-afp) (Published: 2026-03-30)
@@ -10,4 +11,3 @@ _Last updated: **2026-03-31 22:06:47**_
 - [Micron stock sinks 10%, further cratering in post-earnings sell-off](https://www.cnbc.com/2026/03/30/micron-stock-earnings-sell-off-memory-shortage.html) (Published: 2026-03-30)
 - [Big Tech stocks rout flashing clear turnaround signals as Nasdaq 100 enters correction](https://macdailynews.com/2026/03/30/big-tech-stocks-rout-flashing-clear-turnaround-signals-as-nasdaq-100-enters-correction/) (Published: 2026-03-30)
 - [How to make AI work for us](https://www.wbur.org/onpoint/2026/03/30/how-to-make-ai-work-for-us) (Published: 2026-03-30)
-- [What Google's TurboQuant can and can't do for AI's spiraling cost](https://www.zdnet.com/article/what-googles-turboquant-can-and-cant-do-for-ais-spiraling-cost/) (Published: 2026-03-30)
