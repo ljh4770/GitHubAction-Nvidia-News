@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-31 19:18:32**_
+_Last updated: **2026-03-31 20:02:15**_
 
+- [How to make AI work for us](https://www.wbur.org/onpoint/2026/03/30/how-to-make-ai-work-for-us) (Published: 2026-03-30)
+- [What Google's TurboQuant can and can't do for AI's spiraling cost](https://www.zdnet.com/article/what-googles-turboquant-can-and-cant-do-for-ais-spiraling-cost/) (Published: 2026-03-30)
+- [Dell 16 Core 7 150U 16" Laptop w/ 16GB RAM and 1TB SSD for $803 + free shipping](https://www.dealnews.com/Dell-16-Core-7-150-U-16-Laptop-w-16-GB-RAM-and-1-TB-SSD-for-803-free-shipping/21819273.html) (Published: 2026-03-30)
+- [IGEL Recognizes Nutanix, Omnissa, NVIDIA, HP and Imprivata as 2026 IGEL Ready Partners of the Year](https://financialpost.com/globe-newswire/igel-recognizes-nutanix-omnissa-nvidia-hp-and-imprivata-as-2026-igel-ready-partners-of-the-year) (Published: 2026-03-30)
+- [Dell XPS 14 Ultra 7 255H 14" Laptop w/ 64GB RAM & 2TB SSD for $2,253 + free shipping](https://www.dealnews.com/Dell-XPS-14-Ultra-7-255-H-14-Laptop-w-64-GB-RAM-2-TB-SSD-for-2-253-free-shipping/21819272.html) (Published: 2026-03-30)
+- [sparkdeck-agent added to PyPI](https://pypi.org/project/sparkdeck-agent/) (Published: 2026-03-30)
+- [Dell Spring Sale: Up to $700 off + free shipping](https://www.dealnews.com/Dell-Spring-Sale-Up-to-700-off-free-shipping/21819269.html) (Published: 2026-03-30)
 - [Rebellions closes $400M pre-IPO round at a $2.34B valuation](https://thenextweb.com/news/rebellions-closes-400m-pre-ipo-round-at-a-2-34b-valuation/) (Published: 2026-03-30)
 - [ScaleOps raises $130M to autonomously manage cloud and AI infrastructure](https://thenextweb.com/news/scaleops-130m-series-c/) (Published: 2026-03-30)
 - [lammps-mdi added to PyPI](https://pypi.org/project/lammps-mdi/) (Published: 2026-03-30)
-- [Samsung Foundry likely to pick up big orders as TSMC gets sold out until 2028](https://www.sammobile.com/news/samsung-foundry-likely-to-pick-up-big-orders-as-tsmc-gets-sold-out-until-2028/) (Published: 2026-03-30)
-- [DDR5 Memory Prices Are Finally Moving In The Right Direction](https://hothardware.com/news/ddr5-prices-moving-in-the-right-direction) (Published: 2026-03-30)
-- [Samsung AI Browser, Apple Security Alert & SIM Rule Update | Daily Tech News – Mar 30, 2026](https://www.c-sharpcorner.com/article/samsung-ai-browser-apple-security-alert-sim-rule-update-daily-tech-news-m/) (Published: 2026-03-30)
-- [NVIDIA's new GeForce NOW update supercharges Apple Vision Pro](https://www.androidheadlines.com/2026/03/nvidias-new-geforce-now-update-supercharges-apple-vision-pro.html) (Published: 2026-03-30)
-- [RAM & SSD Prices Are Rising, But This $1300 DDR4 Gaming Build Is Unstoppable](https://wccftech.com/best/gaming-build-for-1300/) (Published: 2026-03-30)
-- [AI in Higher Education Reaches Inflection Point - New BCC Research Report Maps Adoption, Policy and Institutional Readiness Across Global Universities](https://www.globenewswire.com/news-release/2026/03/30/3264899/0/en/AI-in-Higher-Education-Reaches-Inflection-Point-New-BCC-Research-Report-Maps-Adoption-Policy-and-Institutional-Readiness-Across-Global-Universities.html) (Published: 2026-03-30)
-- [Best Amazon Spring Sale laptop deals 2026](https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-laptop-deals/) (Published: 2026-03-30)
