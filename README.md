@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-31 06:58:41**_
+_Last updated: **2026-03-31 08:12:38**_
 
+- [Dell’s CFO is using AI agents to run his finance team—and has helped the AI business go from $0 to $25 billion](https://fortune.com/2026/03/30/dells-cfo-is-using-ai-agents-to-run-his-finance-team-and-has-helped-the-ai-business-go-from-0-to-25-billion/) (Published: 2026-03-30)
+- [Finnish quantum unicorn IQM lands €50M from BlackRock](https://thenextweb.com/news/iqm-quantum-computers-blackrock-50m-financing/) (Published: 2026-03-30)
+- [Mistral secures $830M from seven banks to build its own AI data centre](https://thenextweb.com/news/mistral-ai-830m-debt-data-centre-paris/) (Published: 2026-03-30)
+- [Mistral secures $830 million in debt financing to fund AI data center](https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html) (Published: 2026-03-30)
+- [Nvidia’s Jensen Huang says ‘We’ve achieved AGI.’ But no one can agree on what that means. Why the most important term in tech remains hotly debated.](https://tech.yahoo.com/ai/articles/nvidia-jensen-huang-says-ve-070100871.html) (Published: 2026-03-30)
+- [Nvidia’s Jensen Huang says ‘We’ve achieved AGI.’ But no one can agree on what that means. Why the most important term in tech remains hotly debated.](https://fortune.com/2026/03/30/agi-definition-jensen-huang-lex-fridman-deepmind-turing-text-cognitive-taxonomy/) (Published: 2026-03-30)
+- [Bitdeer Engages DCI to Finalise Development of Norway’s Largest AI Data Center](https://www.globenewswire.com/news-release/2026/03/30/3264318/0/en/Bitdeer-Engages-DCI-to-Finalise-Development-of-Norway-s-Largest-AI-Data-Center.html) (Published: 2026-03-30)
 - [Asian shares decline as oil prices soar amid the war in Iran, echoing last week's Wall Street drop](https://abcnews.com/Business/wireStory/asian-shares-decline-oil-prices-soar-amid-war-131531613) (Published: 2026-03-30)
 - [France's Mistral raises $830 million in debt for AI data centre build-up](https://economictimes.indiatimes.com/tech/funding/frances-mistral-raises-830-million-in-debt-for-ai-data-centre-build-up/articleshow/129892887.cms) (Published: 2026-03-30)
-- [France's Mistral raises $830 million in debt for AI data centre build-up](https://economictimes.indiatimes.com/tech/artificial-intelligence/frances-mistral-raises-830-million-in-debt-for-ai-data-centre-build-up/articleshow/129892927.cms) (Published: 2026-03-30)
-- [ByteDance secures $2.5 billion in Nvidia AI chips amid U.S.-China tech tensions](https://www.naturalnews.com/2026-03-30-bytedance-secures-nvidia-ai-chips-tech-tensions.html) (Published: 2026-03-30)
-- [Show HN: NVSonar – tells why your GPU is slow, not just utilization percentage](https://github.com/btursunbayev/nvsonar) (Published: 2026-03-30)
-- [HD Audio Driver for Windows 98SE / Me](https://github.com/andrew-hoffman/wdmhda) (Published: 2026-03-30)
-- [TGS Announces AWS as its Preferred Cloud Provider](https://www.globenewswire.com/news-release/2026/03/30/3264280/0/en/TGS-Announces-AWS-as-its-Preferred-Cloud-Provider.html) (Published: 2026-03-30)
-- [Losing money in stocks is the norm, not the exception](https://www.irishtimes.com/your-money/2026/03/30/losing-money-in-stocks-is-the-norm-not-the-exception/) (Published: 2026-03-30)
-- [Select the right hardware for your local LLM deployment with this online guide](https://www.cnx-software.com/2026/03/30/select-the-right-hardware-for-your-local-llm-deployment-with-this-online-guide/) (Published: 2026-03-30)
-- [Getting started with measuring AI’s carbon footprint](https://www.computerweekly.com/feature/Getting-started-with-measuring-AIs-carbon-footprint) (Published: 2026-03-30)
