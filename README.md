@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-03-31 09:18:42**_
+_Last updated: **2026-03-31 10:29:56**_
 
-- [AI in Oncology for Analytical Solutions Market to Triple in Size During 2026-2030 Registering 34.2% CAGR - IBM Watson Health, NVIDIA Corp., and Siemens Healthineers Dominate the $1.93 Billion Industry](https://www.globenewswire.com/news-release/2026/03/30/3264382/28124/en/AI-in-Oncology-for-Analytical-Solutions-Market-to-Triple-in-Size-During-2026-2030-Registering-34-2-CAGR-IBM-Watson-Health-NVIDIA-Corp-and-Siemens-Healthineers-Dominate-the-1-93-Bil.html) (Published: 2026-03-30)
-- [Artificial Intelligence in Oncology: Assessment of Market Opportunities by Region and Market, 2026-2030 - North America Leads but Asia-Pacific is Emerging Fast](https://www.globenewswire.com/news-release/2026/03/30/3264380/28124/en/Artificial-Intelligence-in-Oncology-Assessment-of-Market-Opportunities-by-Region-and-Market-2026-2030-North-America-Leads-but-Asia-Pacific-is-Emerging-Fast.html) (Published: 2026-03-30)
-- [NVIDIA Readies Rubin-based GeForce RTX 60-series with Massive RT Performance Gains](https://www.techpowerup.com/347848/nvidia-readies-rubin-based-geforce-rtx-60-series-with-massive-rt-performance-gains) (Published: 2026-03-30)
-- [AI war in Iran has brought conflict to Silicon Valley. No one is ready](https://www.foxnews.com/opinion/ai-war-iran-has-brought-conflict-silicon-valley-no-one-ready) (Published: 2026-03-30)
-- [Photonics - WeAreDevelopers: Dawn of a major new computational power, or just faster plumbing?](https://www.computerweekly.com/blog/CW-Developer-Network/Photonics-WeAreDevelopers-Dawn-of-a-major-new-computational-power-or-just-faster-plumbing) (Published: 2026-03-30)
-- [Why Anthropic is Delaying the Public Release of Claude Mythos](https://www.geeky-gadgets.com/claude-mythos/) (Published: 2026-03-30)
-- [High Frequency Trading (HFT) Server Market Trends and Industry Outlook Report 2026-2030: A $3.7+ Billion Opportunity](https://www.globenewswire.com/news-release/2026/03/30/3264348/28124/en/High-Frequency-Trading-HFT-Server-Market-Trends-and-Industry-Outlook-Report-2026-2030-A-3-7-Billion-Opportunity.html) (Published: 2026-03-30)
-- [Data Center Chips Market Analysis, Trends and Growth Outlook by Region, 2026-2034](https://www.globenewswire.com/news-release/2026/03/30/3264345/28124/en/Data-Center-Chips-Market-Analysis-Trends-and-Growth-Outlook-by-Region-2026-2034.html) (Published: 2026-03-30)
-- [Dell’s CFO is using AI agents to run his finance team—and has helped the AI business go from $0 to $25 billion](https://fortune.com/2026/03/30/dells-cfo-is-using-ai-agents-to-run-his-finance-team-and-has-helped-the-ai-business-go-from-0-to-25-billion/) (Published: 2026-03-30)
-- [Finnish quantum unicorn IQM lands €50M from BlackRock](https://thenextweb.com/news/iqm-quantum-computers-blackrock-50m-financing/) (Published: 2026-03-30)
+- [NVIDIA Readies Rubin-based GeForce RTX 60-series with Massive RT Performance Gains](https://www.madshrimps.be/news/nvidia-readies-rubin-based-geforce-rtx-60-series-with-massive-rt-performance-gains/) (Published: 2026-03-30)
+- [Forget Cinderella: In both March Madness and the stock market, the rich keep getting richer](https://www.businessinsider.com/how-march-madness-basketball-brackets-explain-ai-driven-stock-market-2026-3) (Published: 2026-03-30)
+- [What is OpenClaw?](https://www.techradar.com/pro/what-is-openclaw) (Published: 2026-03-30)
+- [Nvidia's PE sinks to seven-year low as war and AI angst weigh](https://www.thehindubusinessline.com/markets/nvidias-pe-sinks-to-seven-year-low-as-war-and-ai-angst-weigh/article70802350.ece) (Published: 2026-03-30)
+- [Samsung’s next big groundbreaking chip to enter mass production by 2028](https://www.sammobile.com/news/samsungs-next-big-groundbreaking-chip-to-enter-mass-production-by-2028/) (Published: 2026-03-30)
+- [The Surprising Dow Stock That Has Outperformed Nvidia by 2-to-1](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ace4c240-d2c9-43f5-85bd-1d75397d13de) (Published: 2026-03-30)
+- [nvidia-nat-ragaai 1.6.0a20260330](https://pypi.org/project/nvidia-nat-ragaai/1.6.0a20260330/) (Published: 2026-03-30)
+- [nvidia-nat-config-optimizer 1.6.0a20260330](https://pypi.org/project/nvidia-nat-config-optimizer/1.6.0a20260330/) (Published: 2026-03-30)
+- [nvidia-nat-test 1.6.0a20260330](https://pypi.org/project/nvidia-nat-test/1.6.0a20260330/) (Published: 2026-03-30)
