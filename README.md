@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-01 16:39:43**_
+_Last updated: **2026-04-01 17:35:52**_
 
+- [Tesla named on Iran’s 18-company target list threatening Gulf operations](http://electrek.co/2026/03/31/tesla-irgc-target-list-gulf-operations-threat/) (Published: 2026-03-31)
+- [openocto added to PyPI](https://pypi.org/project/openocto/) (Published: 2026-03-31)
+- [Nvidia invests $2 billion in Marvell to deepen NVLink Fusion partnership — signs deal with one of its biggest competitors](https://www.tomshardware.com/tech-industry/nvidia-invests-2-billion-in-marvell-to-deepen-nvlink-fusion-partnership) (Published: 2026-03-31)
+- [This HP gaming laptop just dropped under $1,000 - a rarity during the RAM-pocalypse](https://www.zdnet.com/home-and-office/home-entertainment/hp-victus-15-deal-amazon-spring-sale-2026/) (Published: 2026-03-31)
+- [AI video generation startup Runway rolls out $10 million VC fund: Report](https://economictimes.indiatimes.com/tech/funding/ai-video-generation-startup-runway-rolls-out-10-million-vc-fund-report/articleshow/129932576.cms) (Published: 2026-03-31)
+- [GeForce Now now brings 4K 90 FPS streaming on Apple Vision Pro, making it outperform Meta headsets](https://www.tweaktown.com/news/110776/geforce-now-now-brings-4k-90-fps-streaming-on-apple-vision-pro-making-it-outperform-meta-headsets/index.html) (Published: 2026-03-31)
+- [Iran issues direct strike threat to Nvidia, Microsoft, Apple, Google, 14 other US tech companies — 'These companies should expect destruction of their facilities in response to each act of terror in Iran'](https://www.tomshardware.com/tech-industry/iran-issues-direct-strike-threat-to-nvidia-microsoft-apple-google-14-other-us-tech-companies-these-companies-should-expect-destruction-of-their-facilities-in-response-to-each-act-of-terror-in-iran) (Published: 2026-03-31)
+- [Tesla Says Its Robotaxis Are Sometimes Driven by Remote Humans](https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/) (Published: 2026-03-31)
+- [Build and Stream Browser-Based XR Experiences with NVIDIA CloudXR.js](https://developer.nvidia.com/blog/build-and-stream-browser-based-xr-experiences-with-nvidia-cloudxr-js/) (Published: 2026-03-31)
 - [NVIDIA's Dynamic Multi-Frame Generation can be enabled before its official launch](https://www.tweaktown.com/news/110788/nvidias-dynamic-multi-frame-generation-can-be-enabled-before-its-official-launch/index.html) (Published: 2026-03-31)
-- [Nvidia DLSS 4.5 Dynamic MFG plus 5X and 6X framegen modes enter beta for RTX 50-series users — update offers greater control over generated frame rates and more headroom for high-refresh-rate displays](https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-4-5-dynamic-mfg-plus-5x-and-6x-framegen-modes-enter-beta-for-rtx-50-series-users-update-offers-greater-control-over-generated-frame-rates-and-more-headroom-for-high-refresh-rate-displays) (Published: 2026-03-31)
-- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe) (Published: 2026-03-31)
-- [I Watched Nvidia's Controversial DLSS 5 Turn 'Potato Faces' Into Photorealistic Characters](https://uk.pcmag.com/graphics-cards/164156/i-watched-nvidias-controversial-dlss-5-turn-potato-faces-into-photorealistic-characters) (Published: 2026-03-31)
-- [I Watched Nvidia's Controversial DLSS 5 Turn 'Potato Faces' Into Photorealistic Characters](https://me.pcmag.com/en/graphics-cards/36303/i-watched-nvidias-controversial-dlss-5-turn-potato-faces-into-photorealistic-characters) (Published: 2026-03-31)
-- [Goldman Sachs has a message on Nvidia stock for investors](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1f277af7-a323-4453-ad8b-e2f4e8b028a7) (Published: 2026-03-31)
-- [Jim Cramer Says “The Investments That NVIDIA Makes Are Part of Creating an Ecosystem That Wants to Use NVIDIA”](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-investments-nvidia-160502261.html) (Published: 2026-03-31)
-- [Jim Cramer on CoreWeave: “I Want You to Keep It”](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-coreweave-want-keep-160451469.html) (Published: 2026-03-31)
-- [CoreWeave stock gets bold call from Bank of America amid AI shortage](https://www.thestreet.com/investing/stocks/coreweave-stock-gets-a-bold-call-from-bank-of-america-amid-ai-shortage) (Published: 2026-03-31)
-- [Fujitsu plans dedicated 1.4nm AI chip manufactured entirely in Japan by Rapidus — AI chip to be designed and manufactured domestically](https://www.tomshardware.com/tech-industry/fujitsu-plans-dedicated-1-4nm-ai-chip-manufactured-entirely-in-japan-by-rapidus) (Published: 2026-03-31)
