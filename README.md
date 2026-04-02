@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-02 13:56:11**_
+_Last updated: **2026-04-02 14:58:59**_
 
+- [After Nvidia Surge: 3 ASX AI Stocks Poised for Breakout Gains in April 2026](https://www.ibtimes.com.au/after-nvidia-surge-3-asx-ai-stocks-poised-breakout-gains-april-2026-1865155) (Published: 2026-04-01)
+- [After Exit From CBS News, Neeraj Khemlani Tells Story of ‘Coffee Can Investor’ Who Gets Rich Slowly](https://variety.com/2026/tv/news/neeraj-khemlani-cbs-news-coffee-can-investor-1236704370/) (Published: 2026-04-01)
+- [secretvm-verify 0.2.1](https://pypi.org/project/secretvm-verify/0.2.1/) (Published: 2026-04-01)
+- [NVIDIA DLSS 6 to launch alongside GeForce RTX 60 Series, and you won't believe what it does](https://www.tweaktown.com/news/110800/nvidia-dlss-6-to-launch-alongside-geforce-rtx-60-series-and-you-wont-believe-what-it-does/index.html) (Published: 2026-04-01)
+- [World’s Biggest Humanoid Robotics Maker Unitree Is Going Public](https://www.ponoko.com/blog/ponoko/worlds-biggest-humanoid-robotics-maker-unitree-is-going-public/) (Published: 2026-04-01)
+- [A Fragile Off-Ramp Emerges in the Iran Conflict](https://oilprice.com/Energy/Energy-General/A-Fragile-Off-Ramp-Emerges-in-the-Iran-Conflict.html) (Published: 2026-04-01)
+- [LDIE-FDNet: Lightweight dynamic image enhancement-enabled real-time fatigue driving detection network](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346055) (Published: 2026-04-01)
+- [NVIDIA's Dynamic MFG 6X arrives with more "fake" frames than ever — Testing results are largely positive, proving that software is the new GPU frontier](https://www.windowscentral.com/hardware/nvidia/nvidia-dynamic-mfg-6x-ai-pc-gaming-opinion) (Published: 2026-04-01)
+- [NVIDIA’s Rubin Ultra Reportedly Scaled Back to Dual-Die Design, Instead of the Ambitious Four-Die One, Amid Supply Chain Concerns](https://wccftech.com/nvidias-rubin-ultra-reportedly-scaled-back-to-dual-die-design-instead-of-the-ambitious-four-die-one-amid-supply-chain-concerns/) (Published: 2026-04-01)
 - [vigil-gpu 0.1.0](https://pypi.org/project/vigil-gpu/) (Published: 2026-04-01)
-- [H-1B selection rate rises; VC IPO windfall in 2025](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/h-1b-selection-rate-rises-vc-ipo-windfall-in-2025/articleshow/129953443.cms) (Published: 2026-04-01)
-- [H-1B selection rate rises; VCs' IPO windfall in 2025](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/h-1b-selection-rate-rises-vcs-ipo-windfall-in-2025/articleshow/129953443.cms) (Published: 2026-04-01)
-- [H-1B selection rate rises; VCs' IPOs windfall in 2025](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/h-1b-selection-rate-rises-vcs-ipos-windfall-in-2025/articleshow/129953443.cms) (Published: 2026-04-01)
-- [OpenAI Raises $122 Billion at $852 Billion Valuation](https://bitcoinfoundation.org/news/crypto-companies-news/openai-funding-round/) (Published: 2026-04-01)
-- [Originally $650 Alienware 27-inch 280Hz QHD gaming monitor is 50% off at $323 low today](http://9to5toys.com/2026/04/01/alienware-27-inch-280hz-qhd-gaming-monitor-50-off/) (Published: 2026-04-01)
-- ['We are growing revenue four times faster than the companies who defined the Internet and mobile eras': OpenAI says it's making $2 billion a month — mostly from enterprise users](https://www.techradar.com/pro/we-are-growing-revenue-four-times-faster-than-the-companies-who-defined-the-internet-and-mobile-eras-openai-says-its-making-usd2-billion-a-month-mostly-from-enterprise-users) (Published: 2026-04-01)
-- [Real-Time AI Video Is Nvidia’s New Pitch to Agencies—and It’s Turning Creatives Into Curators.](https://www.adweek.com/media/nvidia-real-time-ai-video-advertising-agencies/) (Published: 2026-04-01)
-- [Intel to buy back Apollo stake in Ireland factory for $14.2 billion](https://economictimes.indiatimes.com/tech/technology/intel-to-buy-back-apollo-stake-in-ireland-factory-for-14-2-billion/articleshow/129953300.cms) (Published: 2026-04-01)
-- [France buys nuclear supercomputing spinoff Bull from Atos for €404M](https://www.theregister.com/2026/04/01/france_bull_purchase/) (Published: 2026-04-01)
