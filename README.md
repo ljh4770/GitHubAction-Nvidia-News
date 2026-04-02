@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-02 22:22:56**_
+_Last updated: **2026-04-02 22:57:00**_
 
+- [Jim Cramer warns rally lacks real leadership as AI-driven gains fail to inspire confidence](https://www.cnbc.com/2026/04/01/cramer-rally-lacks-real-leadership-as-ai-driven-gains-fail-to-inspire-confidence.html) (Published: 2026-04-01)
+- [Nvidia rolls out its fix for PC gaming's "compiling shaders" wait times](https://slashdot.org/firehose.pl?op=view&amp;id=181204062) (Published: 2026-04-01)
 - [Dell Pro Max 16 Plus](https://me.pcmag.com/en/laptops/36341/dell-pro-max-16-plus) (Published: 2026-04-01)
 - [Dell Pro Max 16 Plus](https://uk.pcmag.com/laptops/164193/dell-pro-max-16-plus) (Published: 2026-04-01)
 - [Nvidia's new app lets you precompile gaming shaders during machine idle time - Ars Technica](https://slashdot.org/firehose.pl?op=view&amp;id=181203888) (Published: 2026-04-01)
@@ -9,5 +11,3 @@ _Last updated: **2026-04-02 22:22:56**_
 - [Our favorite mid-range gaming laptop with RTX 5060 graphics, Intel Core Ultra 9 275HX processor, and 32GB of RAM is now 22% off for Dell's Spring Sale](https://www.windowscentral.com/hardware/laptops/our-favorite-mid-range-gaming-laptop-with-rtx-5060-graphics-intel-core-ultra-9-275hx-processor-and-32gb-of-ram-is-now-22-percent-off-for-dells-spring-sale) (Published: 2026-04-01)
 - [Alienware announces the first pre-built PC to feature AMD's flagship dual 3D V-Cache CPU](https://www.tweaktown.com/news/110822/alienware-announces-the-first-pre-built-pc-to-feature-amds-flagship-dual-3d-v-cache-cpu/index.html) (Published: 2026-04-01)
 - [cgpu-attest 1.0.0](https://pypi.org/project/cgpu-attest/1.0.0/) (Published: 2026-04-01)
-- [cgpu-attest added to PyPI](https://pypi.org/project/cgpu-attest/) (Published: 2026-04-01)
-- [Stocks Rally Worldwide as Oil Prices Ease](https://www.newser.com/story/386542/stocks-rally-worldwide-as-oil-prices-ease.html) (Published: 2026-04-01)
