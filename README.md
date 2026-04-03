@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-03 07:48:03**_
+_Last updated: **2026-04-03 08:35:45**_
 
+- [Nebius launches AI Cloud 3.5 with serverless AI compute](https://www.verdict.co.uk/nebius-launches-ai-cloud-3-5/) (Published: 2026-04-02)
+- [In the age of AI anxiety, the 100 Best Companies to Work For are betting on their people](https://fortune.com/2026/04/02/fortune-100-best-companies-to-work-for-ai-anxiety-humans-people-trust/) (Published: 2026-04-02)
+- [Digest: OpenAI’s Latest $122bn Funding Round; Anthropic to Sign Australia AI Safety Deal](https://www.exchangewire.com/blog/2026/04/02/digest-openai-raises-3bn-from-retail-in-122bn-funding-round-anthropic-to-sign-australia-ai-safety-deal-musk-to-face-class-action-over-twitter-stake-disclosure-delay/) (Published: 2026-04-02)
 - [OpenAI's COO says if you're bullish on AI, you can be bullish on legacy software too](https://www.businessinsider.com/openai-coo-brad-lightcap-bullish-ai-legacy-software-apolcalypse-4) (Published: 2026-04-02)
 - [What Is a DLL File? How Dynamic Link Libraries Work – and How to Fix DLL Errors](https://www.smashingapps.com/what-is-a-dll-file/) (Published: 2026-04-02)
 - [GeForce RTX 3060 reclaims top spot and RDNA 4 finally appears in Steam's latest hardware survey](https://www.tweaktown.com/news/110834/geforce-rtx-3060-reclaims-top-spot-and-rdna-4-finally-appears-in-steams-latest-hardware-survey/index.html) (Published: 2026-04-02)
@@ -8,6 +11,3 @@ _Last updated: **2026-04-03 07:48:03**_
 - [OpenClaw: The complete guide to building, training, and living with your personal AI agent](https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building) (Published: 2026-04-02)
 - [Singapore charges one more individual with AI chip fraud](https://economictimes.indiatimes.com/tech/technology/singapore-charges-one-more-individual-with-ai-chip-fraud/articleshow/129968425.cms) (Published: 2026-04-02)
 - [Data dive: Government 2030 datacentre capacity targets look shaky](https://www.computerweekly.com/news/366640935/Data-dive-Government-2030-datacentre-capacity-targets-look-shaky) (Published: 2026-04-02)
-- [Unigine 2.21 is out](https://www.cgchannel.com/2026/04/unigine-2-21-is-out/) (Published: 2026-04-02)
-- [AUO has announced the 'world's first' 24-inch 1080p gaming monitor capable of 800Hz](https://www.tweaktown.com/news/110823/auo-has-announced-the-worlds-first-24-inch-1080p-gaming-monitor-capable-of-800hz/index.html) (Published: 2026-04-02)
-- [Nvidia invests US$2 billion in Marvell to integrate NVLink Fusion with ASICs](https://www.digitimes.com/news/a20260402PD222/nvidia-marvell-investment-asic-technology.html) (Published: 2026-04-02)
