@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-03 18:04:46**_
+_Last updated: **2026-04-03 19:02:23**_
 
+- [PRAGMATA – Everything We Know About CAPCOM’s New Sci-Fi Action Game](https://wccftech.com/roundup/pragmata-everything-we-know-about-capcoms-new-sci-fi-action-game/) (Published: 2026-04-02)
+- [New Rowhammer attacks give complete control of machines running Nvidia GPUs - Ars Technica](https://slashdot.org/firehose.pl?op=view&amp;id=181210262) (Published: 2026-04-02)
+- [FROM PLATFORM WARS TO INFRASTRUCTURE WARS: Hop-on's Digitalage Defines Stateful Media Infrastructure](https://www.globenewswire.com/news-release/2026/04/02/3267774/0/en/FROM-PLATFORM-WARS-TO-INFRASTRUCTURE-WARS-Hop-on-s-Digitalage-Defines-Stateful-Media-Infrastructure.html) (Published: 2026-04-02)
+- [Google Jumps Back Into the Open Source AI Race With Gemma 4](https://decrypt.co/363178/google-gemma-4-open-source-ai) (Published: 2026-04-02)
+- [Google launches Gemma 4: four open-weight models from smartphones to workstations](https://thenextweb.com/news/google-gemma-4-open-models-apache-2-launch/) (Published: 2026-04-02)
+- [Latest Steam Hardware Survey Shows A Spike In 16 GB System RAM Share; Linux Surpasses 5% Share For The First Time](https://wccftech.com/steam-hardware-survey-march-2026/) (Published: 2026-04-02)
 - [videochain added to PyPI](https://pypi.org/project/videochain/) (Published: 2026-04-02)
 - [The best GPU I ever used wasn't the most expensive one](https://www.xda-developers.com/best-gpu-i-used-was-not-most-expensive-one/) (Published: 2026-04-02)
 - [Google Announces Gemma 4 Open AI Models, Switches To Apache 2.0 License](https://tech.slashdot.org/story/26/04/02/1735238/google-announces-gemma-4-open-ai-models-switches-to-apache-20-license) (Published: 2026-04-02)
 - [Samsung's coolest TV just got even cooler — and it might be my next upgrade](https://www.makeuseof.com/samsungs-coolest-tv-just-got-even-cooler/) (Published: 2026-04-02)
-- [Dell just made its thinnest Pro Premium executive laptop yet — a magnesium alloy featherweight that finally makes carrying a workstation feel effortless](https://www.techradar.com/pro/dell-just-made-its-thinnest-pro-premium-executive-laptop-yet-a-magnesium-alloy-featherweight-that-finally-makes-carrying-a-workstation-feel-effortless) (Published: 2026-04-02)
-- [Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight](https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight/) (Published: 2026-04-02)
-- [Want to make the most of the new Gemma 4 AI models? RTX GPUs and PCs accelerate local AI like never before](https://www.pcworld.com/article/3097360/rtx-gpus-and-pcs-accelerate-local-ai-like-never-before.html) (Published: 2026-04-02)
-- [GeForce NOW turns the other cheek with this month's games](https://www.androidheadlines.com/2026/04/geforce-now-turns-the-other-cheek-with-this-months-games.html) (Published: 2026-04-02)
-- [Alienware’s Aurora 16/16X RTX 50-series gaming laptops are up to $550 off right now during Dell’s Spring sale](http://9to5toys.com/2026/04/02/alienware-aurora-16-16x-rtx-50-series-gaming-laptop-up-to-550-off/) (Published: 2026-04-02)
-- [Polymarket taps Pyth to power stock, commodity, and index prediction markets](https://cryptobriefing.com/polymarket-pyth-integration/) (Published: 2026-04-02)
