@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-03 14:49:56**_
+_Last updated: **2026-04-03 15:29:58**_
 
-- [One of HP's most powerful gaming laptops with a scarce RTX 5070, 165Hz display, and 16GB RAM — is suddenly way cheaper than it should be with $900 off](https://www.windowscentral.com/hardware/laptops/one-of-hps-most-powerful-gaming-laptops-with-a-scarce-rtx-5070-165hz-display-and-16gb-ram-is-suddenly-way-cheaper-than-it-should-be-with-usd900-off) (Published: 2026-04-02)
-- [Hit List: Iran Threatens US and Israeli Corporations](https://www.globalresearch.ca/hit-list-iran-threatens-us-israeli-corporations/5920974) (Published: 2026-04-02)
-- [S&P 500 wipes $830 billion as US stock market today opens after President Trump Iran war speech — Dow Jones, S&P 500, Nasdaq crash on oil surge fears as Nvidia, Apple, Google, Amazon sink deep in red](https://economictimes.indiatimes.com/news/international/us/sp-500-wipes-830-billion-as-us-stock-market-today-opens-after-president-trump-iran-war-speech-dow-jones-sp-500-nasdaq-crash-on-oil-surge-fears-as-nvidia-apple-google-amazon-sink-deep-in-red/articleshow/129981316.cms) (Published: 2026-04-02)
-- [isaacsim-mcp-server 0.4.1](https://pypi.org/project/isaacsim-mcp-server/0.4.1/) (Published: 2026-04-02)
-- [Wolfe Research Maintains a Buy Rating on Nvidia (NVDA)](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6b6a56a2-ed44-4e9f-a411-87cd10a844fd) (Published: 2026-04-02)
-- [isaacsim-mcp-server 0.4.0](https://pypi.org/project/isaacsim-mcp-server/0.4.0/) (Published: 2026-04-02)
-- [isaacsim-mcp-server added to PyPI](https://pypi.org/project/isaacsim-mcp-server/) (Published: 2026-04-02)
-- [Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows](https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/) (Published: 2026-04-02)
-- [The Witcher 4’s RTX Mega Geometry Foliage Demo Ran at 4K@80FPS (with DLSS Quality) on a 5090](https://wccftech.com/the-witcher-4s-rtx-mega-geometry-demo-4k80fps/) (Published: 2026-04-02)
-- [secretvm-verify 0.3.3](https://pypi.org/project/secretvm-verify/0.3.3/) (Published: 2026-04-02)
+- [China's homegrown silicon suppliers gain traction as Nvidia struggles to get its chips into the market — Huawei, Cambricon and more step up to fill crucial market gap](https://www.tomshardware.com/tech-industry/chinas-homegrown-silicon-suppliers-gain-traction-as-nvidia-struggles-to-get-its-chips-into-the-market-huawei-cambricon-and-more-step-up-to-fill-crucial-market-gap) (Published: 2026-04-02)
+- [US targets Chinese robots over security fears](https://www.foxnews.com/tech/us-targets-chinese-robots-over-security-fears) (Published: 2026-04-02)
+- [(PR) NVIDIA GeForce NOW Brings 10 Games to the Cloud](https://www.techpowerup.com/347957/nvidia-geforce-now-brings-10-games-to-the-cloud) (Published: 2026-04-02)
+- [Samsung's new Frame Pro and OLED TVs are now available to order](https://slashdot.org/firehose.pl?op=view&amp;id=181208974) (Published: 2026-04-02)
+- [Save up to $500 on Samsung’s 2026 Galaxy Book6 Copilot+ PCs with trade-ins + FREE $50 gift card from $1,250](http://9to5toys.com/2026/04/02/save-up-to-500-on-samsung-2026-galaxy-book6-copilot-pcs/) (Published: 2026-04-02)
+- [Stop the DIY gamble: Why validated AI infrastructure wins](https://blogs.cisco.com/datacenter/stop-the-diy-gamble-why-validated-ai-infrastructure-wins) (Published: 2026-04-02)
+- [Samsung 65-Inch S95H OLED TV](https://uk.pcmag.com/tvs/164201/samsung-65-inch-s95h-oled-tv) (Published: 2026-04-02)
+- [Asus just revealed big ROG gaming laptop price hikes — and they're so painful some thought they were an April Fool](https://www.techradar.com/computing/laptops/asus-just-revealed-big-rog-gaming-laptop-price-hikes-and-theyre-so-painful-some-thought-they-were-an-april-fool) (Published: 2026-04-02)
+- [Samsung 65-Inch S95H OLED TV](https://me.pcmag.com/en/tvs/36351/samsung-65-inch-s95h-oled-tv) (Published: 2026-04-02)
