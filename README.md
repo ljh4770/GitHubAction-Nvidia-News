@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-04 12:47:03**_
+_Last updated: **2026-04-04 13:41:44**_
 
+- [Rupee slide boosts IT; Gupshup’s valuation markdown](https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/rupee-slide-boosts-it-gupshups-valuation-markdown/articleshow/130001838.cms) (Published: 2026-04-03)
+- [New Rowhammer Attack Puts GDDR6-Powered NVIDIA GPUs at Risk](https://www.techpowerup.com/347981/new-rowhammer-attack-puts-gddr6-powered-nvidia-gpus-at-risk) (Published: 2026-04-03)
+- [Security updates for Friday](https://lwn.net/Articles/1066236/) (Published: 2026-04-03)
+- [News brief: Iran cyberattacks escalate, U.S. targets named](https://www.techtarget.com/searchsecurity/news/366641212/News-brief-Iran-cyberattacks-escalate-US-targets-named) (Published: 2026-04-03)
+- [Alienware’s RTX 50-series Aurora gaming desktops are up to $500 off during Dell’s Spring sale](http://9to5toys.com/2026/04/03/alienware-rtx-50-series-aurora-gaming-desktops-are-up-to-500-off/) (Published: 2026-04-03)
+- [I made the same PC building mistake for years and nobody thought to warn me](https://www.makeuseof.com/made-same-pc-building-mistake-for-years-nobody-thought-warn-me/) (Published: 2026-04-03)
+- [CyberpowerPC Ryzen 7 Gaming Desktop PC w/ 32GB RAM & GeForce RTX 5070 for $1,930 + free shipping](https://www.dealnews.com/products/Cyberpower-PC/Cyberpower-PC-Ryzen-7-Gaming-Desktop-PC-w-32-GB-RAM-Ge-Force-RTX-5070/498164.html) (Published: 2026-04-03)
+- [NVIDIA reveal more GeForce NOW games for April including PRAGMATA](https://www.gamingonlinux.com/2026/04/nvidia-reveal-more-geforce-now-games-for-april-including-pragmata/.) (Published: 2026-04-03)
 - [The more affordable Xbox Ally avoids price hikes and earns a rare price drop: A true Windows-based answer to the Steam Deck](https://www.windowscentral.com/hardware/handheld-gaming-pc/the-more-affordable-xbox-ally-earns-a-rare-price-drop) (Published: 2026-04-03)
 - [Originally $650 Alienware 27-inch 280Hz QHD gaming monitor is 55% off at $290 low today](http://9to5toys.com/2026/04/03/alienware-27-inch-280hz-qhd-gaming-monitor-50-off/) (Published: 2026-04-03)
-- [NIO Is Standing Out Among Chinese EV Peers This Year: Is the Stock Still a Buy?](https://www.barchart.com/story/news/1133617/nio-is-standing-out-among-chinese-ev-peers-this-year-is-the-stock-still-a-buy) (Published: 2026-04-03)
-- [The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.oreilly.com/radar/the-cathedral-the-bazaar-and-the-winchester-mystery-house/#BlogPosting) (Published: 2026-04-03)
-- [Samsung’s 27-inch Odyssey G6 350Hz QHD gaming monitor hits Amazon low at $346 today (Reg. $500)](http://9to5toys.com/2026/04/03/samsung-27-inch-odyssey-g6-350hz-qhd-gaming-monitor-hits-amazon-low/) (Published: 2026-04-03)
-- [The Tech Download: Defense startups eye Iran war windfall as U.S. and Gulf states turn to tech](https://www.cnbc.com/2026/04/03/the-tech-download-defense-startups-eye-iran-war-windfall.html) (Published: 2026-04-03)
-- [Supermicro co-founder pleads not guilty to smuggling billions of dollars of Nvidia servers to China — suspected smuggler released on $5 million bond](https://www.tomshardware.com/tech-industry/super-micro-co-founder-wally-liaw-pleads-not-guilty-to-nvidia-smuggling-charges) (Published: 2026-04-03)
-- [Iran says it has struck Oracle data center in Dubai, Amazon data center in Bahrain — country has threatened to attack Nvidia, Intel, and others, too](https://www.tomshardware.com/tech-industry/artificial-intelligence/iran-claims-it-has-hit-oracle-data-center-in-dubai-amazon-data-center-in-bahrain-country-has-threatened-to-attack-nvidia-intel-and-others-too) (Published: 2026-04-03)
-- [The largest programming community on Reddit just banned all content related to AI LLMs — r/programming is prioritizing only high-quality discussions about AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/the-largest-programming-community-on-reddit-just-banned-all-content-related-to-ai-llms-r-programming-is-prioritizing-only-high-quality-discussions-about-ai) (Published: 2026-04-03)
-- [1 Trillion Reasons to Invest in Nvidia](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fa4bbd52-e326-471d-a8cd-57e8cf304130) (Published: 2026-04-03)
