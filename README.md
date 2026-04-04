@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-04 22:13:39**_
+_Last updated: **2026-04-04 22:50:04**_
 
 - [Witcher 4 RTX Mega Geometry Foliage demo runs at almost 60 FPS on an RTX 4070 and 80 FPS at 4K on a RTX 5090](https://www.tweaktown.com/news/110865/witcher-4-rtx-mega-geometry-foliage-demo-runs-at-almost-60-fps-on-an-rtx-4070-and-80-fps-at-4k-on-a-rtx-5090/index.html) (Published: 2026-04-03)
 - [pyoptix 9.1.0](https://pypi.org/project/pyoptix/9.1.0/) (Published: 2026-04-03)
