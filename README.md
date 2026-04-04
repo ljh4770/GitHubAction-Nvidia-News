@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-04 11:28:02**_
+_Last updated: **2026-04-04 11:53:43**_
 
+- [Originally $650 Alienware 27-inch 280Hz QHD gaming monitor is 55% off at $290 low today](http://9to5toys.com/2026/04/03/alienware-27-inch-280hz-qhd-gaming-monitor-50-off/) (Published: 2026-04-03)
 - [The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.oreilly.com/radar/the-cathedral-the-bazaar-and-the-winchester-mystery-house/#BlogPosting) (Published: 2026-04-03)
 - [Samsung’s 27-inch Odyssey G6 350Hz QHD gaming monitor hits Amazon low at $346 today (Reg. $500)](http://9to5toys.com/2026/04/03/samsung-27-inch-odyssey-g6-350hz-qhd-gaming-monitor-hits-amazon-low/) (Published: 2026-04-03)
 - [The Tech Download: Defense startups eye Iran war windfall as U.S. and Gulf states turn to tech](https://www.cnbc.com/2026/04/03/the-tech-download-defense-startups-eye-iran-war-windfall.html) (Published: 2026-04-03)
@@ -10,4 +11,3 @@ _Last updated: **2026-04-04 11:28:02**_
 - [Alienware 18 Area-51 Review: Oversize, Over-the-Top and Outrageously Priced Gaming Laptop](https://www.cnet.com/tech/computing/alienware-18-area-51-gaming-laptop-review/) (Published: 2026-04-03)
 - [Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order](https://www.marketplace.org/episode/2026/04/03/spacexs-ipo-iran-threatens-us-tech-firms-california-new-ai-executive-order) (Published: 2026-04-03)
 - [Vulkan 1.4.348 Ships Four New Extensions - Including One To Help OpenGL Emulation](https://www.phoronix.com/news/Vulkan-1.4.348-Released) (Published: 2026-04-03)
-- [nvidia-nat-mcp 1.6.0a20260403](https://pypi.org/project/nvidia-nat-mcp/1.6.0a20260403/) (Published: 2026-04-03)
