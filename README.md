@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-04 19:44:26**_
+_Last updated: **2026-04-04 20:01:09**_
 
 - [Google battles Chinese open-weights models with Gemma 4 - theregister.com](https://slashdot.org/firehose.pl?op=view&amp;id=181216784) (Published: 2026-04-03)
 - [Musk wants a million data centre satellites. Bezos wants 51,600. Scientists want to know why.](https://thenextweb.com/news/musk-wants-a-million-data-centre-satellites-bezos-wants-51600-scientists-want-to-know-why/) (Published: 2026-04-03)
