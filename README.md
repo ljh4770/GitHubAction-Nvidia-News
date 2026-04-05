@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-05 13:34:33**_
+_Last updated: **2026-04-05 14:07:41**_
 
 - [Nvidia’s $2 billion Marvell bet is not an investment. It is a toll booth.](https://thenextweb.com/news/nvidia-marvell-nvlink-fusion-ecosystem-lock-in/) (Published: 2026-04-04)
 - [claude-to-openai-forwarder added to PyPI](https://pypi.org/project/claude-to-openai-forwarder/) (Published: 2026-04-04)
