@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-06 20:50:06**_
+_Last updated: **2026-04-06 21:25:52**_
 
 - [SimXperience Stage 5 Simulator at No Reserve](https://bringatrailer.com/listing/racing-simulator-9/) (Published: 2026-04-05)
 - [Show HN: Doubletake – AirPlay Sender Implementation for Linux (X11 and Wayland)](https://github.com/omarroth/doubletake/) (Published: 2026-04-05)
