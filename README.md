@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-06 23:57:30**_
+_Last updated: **2026-04-07 03:15:33**_
 
+- [Show HN: Magma Memory Claude Browser cloaking tool](https://github.com/Vektor-Memory/Vektor-memory) (Published: 2026-04-06)
+- [Top 50 Best Universities for AI Studies 2026: Global Rankings Guide Students Worldwide](https://www.ibtimes.com.au/top-50-best-universities-ai-studies-2026-global-rankings-guide-students-worldwide-1865499) (Published: 2026-04-06)
+- [NVIDIA's DLSS 5 trailer has been taken down due to 'copyright' infringement](https://www.tweaktown.com/news/110891/nvidias-dlss-5-trailer-has-been-taken-down-due-to-copyright-infringement/index.html) (Published: 2026-04-06)
+- [Trump's trade war with China in focus ahead of May summit](https://economictimes.indiatimes.com/news/international/world-news/donald-trumps-trade-war-with-china-xi-jinping-in-focus-ahead-of-may-summit/articleshow/130048909.cms) (Published: 2026-04-06)
+- [Quote of the Day by Nvidia CEO Jensen Huang: 'If you want to do something new, you have to be willing to fail'. Here what it means](https://economictimes.indiatimes.com/news/new-updates/quote-of-the-day-by-nvidia-ceo-jensen-huang-if-you-want-to-do-something-new-you-have-to-be-willing-to-fail-here-what-it-means/articleshow/130039504.cms) (Published: 2026-04-06)
+- [AI Updates for the Week of 5/5/26](https://www.annielytics.com/blog/ai/ai-updates-for-the-week-of-5-5-26/) (Published: 2026-04-06)
+- [AI Updates for the Week of 4/5/26](https://www.annielytics.com/blog/ai/ai-updates-for-the-week-of-4-5-26/) (Published: 2026-04-06)
+- [AI for scientific research: The power of small language models](https://www.redhat.com/en/blog/ai-scientific-research-power-small-language-models) (Published: 2026-04-06)
+- [Daily Hacker News for 2026-04-05](https://www.daemonology.net/hn-daily/2026-04-05.html) (Published: 2026-04-06)
 - [nemo-retriever 2026.4.5.dev52](https://pypi.org/project/nemo-retriever/2026.4.5.dev52/) (Published: 2026-04-05)
-- [Inference Costs Are Not Sustainable](https://danielmiessler.com/blog/inference-costs-are-not-sustainable) (Published: 2026-04-05)
-- [Senator Ditches Stocks In 2026 After 7 Months: Here's What He's Selling](https://finance.yahoo.com/markets/stocks/articles/senator-ditches-stocks-2026-7-223107257.html) (Published: 2026-04-05)
-- [How to Profile Modern PC Games with NVIDIA Nsight Graphics](https://wccftech.com/how-to/how-to-profile-modern-pc-games-with-nvidia-nsight-graphics/) (Published: 2026-04-05)
-- [Nvidia partner Hon Hai’s sales meet estimates on solid AI demand](https://www.gulf-times.com/article/723430/business/nvidia-partner-hon-hais-sales-meet-estimates-on-solid-ai-demand) (Published: 2026-04-05)
-- [SimXperience Stage 5 Simulator at No Reserve](https://bringatrailer.com/listing/racing-simulator-9/) (Published: 2026-04-05)
-- [Show HN: Doubletake – AirPlay Sender Implementation for Linux (X11 and Wayland)](https://github.com/omarroth/doubletake/) (Published: 2026-04-05)
-- [NVIDIA Neural Texture Compression Slashes VRAM Usage Over 80% In Games](https://hothardware.com/news/nvidia-neural-texture-compression-slashes-vram-usage-over-80-in-games) (Published: 2026-04-05)
-- [IQVIA (IQV) Launches IQVIA.ai Unified Agentic AI Platform with Nvidia](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_14b688ee-99d8-45eb-830b-c9df2dca0d5d) (Published: 2026-04-05)
-- [Lenovo LOQ 15AHP10 (Cert. Refurb): Ryzen 5 220, 15.6" 1080p 144Hz, RTX 5050, 16GB DDR5, 512GB SSD $589.39 at Lenovo](https://slickdeals.net/f/19386288-lenovo-loq-15ahp10-cert-refurb-ryzen-5-220-15-6-1080p-144hz-rtx-5050-16gb-ddr5-512gb-ssd-589-39-at-lenovo) (Published: 2026-04-05)
