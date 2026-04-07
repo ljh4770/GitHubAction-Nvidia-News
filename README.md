@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-07 10:30:29**_
+_Last updated: **2026-04-07 11:31:27**_
 
+- [Iran is threatening to bomb the $30 billion Stargate AI data center backed by OpenAI, Nvidia, and other tech giants](https://www.techradar.com/ai-platforms-assistants/iran-is-threatening-to-bomb-the-usd30-billion-stargate-ai-data-center-backed-by-openai-nvidia-and-other-tech-giants) (Published: 2026-04-06)
+- [Germany's AI Powerhouses: Top 10 Companies Leading Innovation in 2026](https://www.ibtimes.com.au/germanys-ai-powerhouses-top-10-companies-leading-innovation-2026-1865559) (Published: 2026-04-06)
+- [mahanai 3.0.0](https://pypi.org/project/mahanai/3.0.0/) (Published: 2026-04-06)
+- [10 Reasons to Buy Intel Stock in 2026 as Turnaround Gains Momentum](https://www.ibtimes.com.au/10-reasons-buy-intel-stock-2026-turnaround-gains-momentum-1865555) (Published: 2026-04-06)
+- [Free Trade Is Dead in Washington](http://foreignpolicy.com/2026/04/06/trump-china-washington-trade/) (Published: 2026-04-06)
+- [Your old GPU isn't just slow — it has worse bottlenecks than you think](https://www.xda-developers.com/your-old-gpu-not-just-slow-it-has-worse-bottlenecks/) (Published: 2026-04-06)
+- [OpenAI’s $122B “VC Round” Is Vendor Deals, Contingent Capital, and a Guaranteed Return It Arguably Can’t Afford](https://www.saastr.com/openais-122b-vc-round-is-vendor-deals-contingent-capital-and-a-guaranteed-return-it-arguably-cant-afford/) (Published: 2026-04-06)
+- [What the Nike CEO’s remarks reveal about rallying employees through turnaround fatigue](https://fortune.com/article/nike-ceo-elliott-hill-remarks-turnaround-tired/) (Published: 2026-04-06)
+- [Big Tech's second quarter just started, and it's already facing major challenges](https://finance.yahoo.com/sectors/technology/article/big-techs-second-quarter-just-started-and-its-already-facing-major-challenges-103340081.html) (Published: 2026-04-06)
 - [Why DOGE’s legacy is hard to measure](https://fortune.com/2026/04/06/doge-legacy-irs-national-security-job-cuts-trump-administration/) (Published: 2026-04-06)
-- [Nvidia's own DLSS 5 announcement video gets taken down by YouTube in Italy due to a copyright strike — local TV channel sent a copyright strike to every YouTube video for using the trailer it used for its own broadcast](https://www.tomshardware.com/tech-industry/big-tech/nvidias-own-dlss-5-announcement-video-gets-taken-down-in-italy-by-copyright-strike-local-tv-channel-sent-a-copyright-strike-to-every-youtube-video-for-using-the-trailer-it-used-for-its-own-broadcast) (Published: 2026-04-06)
-- [pytest-jax-bench added to PyPI](https://pypi.org/project/pytest-jax-bench/) (Published: 2026-04-06)
-- [It's Alphabet vs. Amazon in the finals of our stock bracket. Here's the bull case for each.](https://www.businessinsider.com/alphabet-amazon-stock-vote-first-trade-newsletter-bracket-championship-2026-4) (Published: 2026-04-06)
-- [nvidia-nat-security 1.6.0a20260406](https://pypi.org/project/nvidia-nat-security/1.6.0a20260406/) (Published: 2026-04-06)
-- [nvidia-nat-redis 1.6.0a20260406](https://pypi.org/project/nvidia-nat-redis/1.6.0a20260406/) (Published: 2026-04-06)
-- [nvidia-nat-data-flywheel 1.6.0a20260406](https://pypi.org/project/nvidia-nat-data-flywheel/1.6.0a20260406/) (Published: 2026-04-06)
-- [A CIO who helps oversees $1 trillion explains why he's buying back into tech — and shares the areas he's avoiding](https://www.businessinsider.com/stock-market-strategy-buy-the-dip-big-tech-ai-names-2026-4) (Published: 2026-04-06)
-- [nvidia-nat-semantic-kernel 1.6.0a20260406](https://pypi.org/project/nvidia-nat-semantic-kernel/1.6.0a20260406/) (Published: 2026-04-06)
-- [nvidia-nat-opentelemetry 1.6.0a20260406](https://pypi.org/project/nvidia-nat-opentelemetry/1.6.0a20260406/) (Published: 2026-04-06)
