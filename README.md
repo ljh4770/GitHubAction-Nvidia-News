@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-07 18:37:39**_
+_Last updated: **2026-04-07 19:41:54**_
 
-- [Three YouTubers accuse Apple of illegal scraping to train its AI models](https://slashdot.org/firehose.pl?op=view&amp;id=181389288) (Published: 2026-04-06)
-- [Iran threatens 'Stargate' AI data centers | TechCrunch](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/) (Published: 2026-04-06)
-- [FinTechs Race to Build Foundation Models on Proprietary Data](https://www.pymnts.com/artificial-intelligence-2/2026/fintechs-race-to-build-foundation-models-on-proprietary-data/) (Published: 2026-04-06)
-- [Goldman Sachs spots Nvidia-linked shift not seen in 13 years](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f10c9573-684d-4bfa-9ddf-56ad37d13541) (Published: 2026-04-06)
-- [jztree-cu13 added to PyPI](https://pypi.org/project/jztree-cu13/) (Published: 2026-04-06)
-- [Nvidia introduces new app feature designed to reduce game load times](https://www.xda-developers.com/nvidia-introduces-new-app-feature-designed-to-reduce-game-load-times/) (Published: 2026-04-06)
-- [GoVertical! AiDi: real-time 9:16 autocropping at NAB 2026](https://www.provideocoalition.com/govertical-aidi-real-time-916-autocropping-at-nab-2026/) (Published: 2026-04-06)
-- [Intel’s Advanced Packaging Is Getting the Attention It Needs From AI Customers, With EMIB Gaining Ground Against TSMC’s CoWoS](https://wccftech.com/intels-advanced-packaging-is-getting-the-attention-it-needs-from-ai-customers/) (Published: 2026-04-06)
-- [Resolight.ai launches to change the AI interconnect game](https://siliconangle.com/2026/04/06/resolight-ai-launches-change-ai-interconnect-game/) (Published: 2026-04-06)
+- [whspr added to PyPI](https://pypi.org/project/whspr/) (Published: 2026-04-06)
+- [Nvidia acquisition of SchedMD sparks worry among AI specialists about software access](https://www.channelnewsasia.com/business/nvidia-acquisition-schedmd-sparks-worry-among-ai-specialists-about-software-access-6039596) (Published: 2026-04-06)
+- [Nvidia acquisition of SchedMD sparks worry among AI specialists about software access](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5aac7d77-e7f0-463a-ad71-e99c0288b660) (Published: 2026-04-06)
+- [isaacsim-mcp-server 0.5.2](https://pypi.org/project/isaacsim-mcp-server/0.5.2/) (Published: 2026-04-06)
+- [Vizio 65-Inch Mini-LED Quantum TV (VQM65C-1004)](https://uk.pcmag.com/tvs/164258/vizio-65-inch-mini-led-quantum-tv-vqm65c-1004) (Published: 2026-04-06)
+- [Vizio 65-Inch Mini-LED Quantum TV (VQM65C-1004)](https://me.pcmag.com/en/tvs/36411/vizio-65-inch-mini-led-quantum-tv-vqm65c-1004) (Published: 2026-04-06)
+- [isaacsim-mcp-server 0.5.1](https://pypi.org/project/isaacsim-mcp-server/0.5.1/) (Published: 2026-04-06)
+- [Why TSMC grew four times faster than its foundry rivals in 2025 — price hikes, vertical integration, and commanding technology lead pay dividends](https://www.tomshardware.com/tech-industry/why-tsmc-grew-four-times-faster-than-its-foundry-rivals-in-2025) (Published: 2026-04-06)
+- [jztree-cu12 added to PyPI](https://pypi.org/project/jztree-cu12/) (Published: 2026-04-06)
+- [Very YMMV: PowerSpec G531 Gaming PC: Ryzen 5 7500X3D, RTX 5070, 16GB DDR5, 1TB SSD $1399.99 (4 replies)](https://slickdeals.net/f/19389924-very-ymmv-powerspec-g531-gaming-pc-ryzen-5-7500x3d-rtx-5070-16gb-ddr5-1tb-ssd-1399-99) (Published: 2026-04-06)
