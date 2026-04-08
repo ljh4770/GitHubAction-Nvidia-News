@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-08 20:02:29**_
+_Last updated: **2026-04-08 20:58:04**_
 
+- [Anthropic touts AI cyber security project](https://www.itnews.com.au/news/anthropic-touts-ai-cyber-security-project-624841?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed) (Published: 2026-04-07)
+- [Anthropic touts AI cyber security project](https://www.itnews.com.au/news/anthropic-touts-ai-cyber-security-project-624841?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed) (Published: 2026-04-07)
+- [Anthropic touts AI cyber security project](https://www.itnews.com.au/news/anthropic-touts-ai-cyber-security-project-624841?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed) (Published: 2026-04-07)
+- [Anthropic touts AI cyber security project](https://www.itnews.com.au/news/anthropic-touts-ai-cyber-security-project-624841?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+) (Published: 2026-04-07)
+- [Anthropic Launches ‘Project Glasswing’ to Stealthily Spot Cybersecurity Issues for Rivals](https://gizmodo.com/anthropic-launches-project-glasswing-to-stealthily-spot-cybersecurity-issues-for-rivals-2000743565) (Published: 2026-04-07)
+- [Anthropic says its latest AI model is too powerful for public release and that it broke containment during testing](https://www.businessinsider.com/anthropic-mythos-latest-ai-model-too-powerful-to-be-released-2026-4) (Published: 2026-04-07)
 - [Try these GPU cooling fixes before you crack it open and void your warranty](https://www.makeuseof.com/gpu-cooling-fixes-before-you-crack-it-open-and-void-your-warranty/) (Published: 2026-04-07)
 - [How to Use Midjourney for Free in 2026 – What Actually Works](https://www.smashingapps.com/how-to-use-midjourney-for-free/) (Published: 2026-04-07)
 - [Intel introduces its own Neural Compression technology with a fallback mode that works on GPUs without dedicated AI cores — early performance is on the level of Nvidia NTC](https://www.tomshardware.com/pc-components/gpus/intel-introduces-its-own-neural-compression-technology-with-a-fallback-mode-that-works-on-gpus-without-dedicated-ai-cores-early-performance-is-on-the-level-of-nvidia-ntc) (Published: 2026-04-07)
 - [Anthropic's latest AI model identifies 'thousands of zero-day vulnerabilities' in 'every major operating system and every major web browser' — Claude Mythos Preview sparks race to fix critical bugs, some unpatched for decades](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-latest-ai-model-identifies-thousands-of-zero-day-vulnerabilities-in-every-major-operating-system-and-every-major-web-browser-claude-mythos-preview-sparks-race-to-fix-critical-bugs-some-unpatched-for-decades) (Published: 2026-04-07)
-- [Delivering Good Named to Fast Company’s Annual List of the World’s Most Innovative Companies of 2026](https://www.globenewswire.com/news-release/2026/04/07/3269596/0/en/Delivering-Good-Named-to-Fast-Company-s-Annual-List-of-the-World-s-Most-Innovative-Companies-of-2026.html) (Published: 2026-04-07)
-- [Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon](https://github.com/mattmireles/gemma-tuner-multimodal) (Published: 2026-04-07)
-- [Intel gets trapped in Elon’s reality distortion field as it joins in megafab delusions](https://www.theregister.com/2026/04/07/intel_elon_space_delusion/) (Published: 2026-04-07)
-- [Jeff Bezos Is Quietly Building an A.I. Dream Team at Project Prometheus](https://observer.com/2026/04/jeff-bezos-project-prometheus-new-hires/) (Published: 2026-04-07)
-- [The AI trade is over. Top Wall Street analysts say the AI opportunity might be just starting](https://fortune.com/2026/04/07/the-ai-trade-is-over-top-wall-street-analysts-say-the-ai-opportunity-might-be-just-starting/) (Published: 2026-04-07)
-- [The next chapter of Cisco and Nutanix: Building flexible infrastructure for the modern era](https://blogs.cisco.com/datacenter/the-next-chapter-of-cisco-and-nutanix-building-flexible-infrastructure-for-the-modern-era) (Published: 2026-04-07)
