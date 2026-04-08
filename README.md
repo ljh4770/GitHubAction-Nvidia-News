@@ -1,13 +1,14 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-08 15:50:11**_
+_Last updated: **2026-04-08 16:47:54**_
 
-- [The dividend yield on the S&P 500 is now at 50-year lows. Here's the biggest problem.](https://finance.yahoo.com/news/the-dividend-yield-on-the-sp-500-is-now-at-50-year-lows-heres-the-biggest-problem-153809624.html) (Published: 2026-04-07)
-- [OpenAI's newest fellowship includes up to $15,000 in AI compute a month](https://www.businessinsider.com/openai-safety-fellowship-sam-altman-ai-compute-stipend-2026-4) (Published: 2026-04-07)
-- [GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations](https://www.tomshardware.com/video-games/cloud-gaming/github-user-creates-open-source-nvidia-geforce-now-client-alternative-removes-tracking-telemetry-and-afk-limitations) (Published: 2026-04-07)
-- [Nvidia Pascal GPUs debuted 10 years ago today, best known for the GTX 1060 and GTX 1080 Ti — architecture kicked off with the Tesla P100](https://slashdot.org/firehose.pl?op=view&amp;id=181402050) (Published: 2026-04-07)
-- [Anthropic Locked In Google & Broadcom While Its Revenue Tripled](https://app.moby.co/home/news/news-anthropic-locked-in-google-broadcom-while-its-revenue-tripled?utm_source=yahoo_finance&amp;utm_medium=rss) (Published: 2026-04-07)
-- [GPU Rowhammer Attack Enables Privilege Escalation and Full System Compromise](https://www.infosecurity-magazine.com/news/gpu-based-rowhammer-attack/) (Published: 2026-04-07)
-- [Apple Now Officially Supports eGPUs For M-Series Macs](https://www.ubergizmo.com/2026/04/egpu-m-series-macs/) (Published: 2026-04-07)
-- [External GPUs in 2026 are still a hot mess](https://www.makeuseof.com/external-gpus-are-still-a-hot-mess/) (Published: 2026-04-07)
-- [Why US stock market crashes today? Dow, S&P 500 and Nasdaq in deep red – Iran tensions rise and surging oil prices shake Wall Street](https://economictimes.indiatimes.com/news/international/us/why-us-stock-market-crashes-today-dow-jones-sp-500-and-nasdaq-in-deep-red-today-iran-tensions-rise-and-surging-oil-prices-shake-wall-street/articleshow/130090123.cms) (Published: 2026-04-07)
-- [Apple approves drivers that let AMD and Nvidia eGPUs run on Mac — software designed for AI, though, and not built for gaming](https://slashdot.org/firehose.pl?op=view&amp;id=181401916) (Published: 2026-04-07)
+- [Anthropic is launching a new AI model for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity) (Published: 2026-04-07)
+- ["GPUBreach" is a Rowhammer Attack for GDDR6-Based NVIDIA GPUs That Bypasses IOMMU](https://www.techpowerup.com/348059/gpubreach-is-a-rowhammer-attack-for-gddr6-based-nvidia-gpus-that-bypasses-iommu) (Published: 2026-04-07)
+- [YouTubers Sue Apple for Scraping Their Videos to Train AI](https://me.pcmag.com/en/ai/36426/youtubers-sue-apple-for-scraping-their-videos-to-train-ai) (Published: 2026-04-07)
+- [YouTubers Sue Apple for Scraping Their Videos to Train AI](https://uk.pcmag.com/ai/164274/youtubers-sue-apple-for-scraping-their-videos-to-train-ai) (Published: 2026-04-07)
+- [AI Data Center Energy Storage Market Outlook, 2030: AI Workloads and Faster Grid Interconnection Needs Driving the Market at 28-38% CAGR](https://www.globenewswire.com/news-release/2026/04/07/3269513/28124/en/AI-Data-Center-Energy-Storage-Market-Outlook-2030-AI-Workloads-and-Faster-Grid-Interconnection-Needs-Driving-the-Market-at-28-38-CAGR.html) (Published: 2026-04-07)
+- [Will Super Micro Computer's Smuggling Scandal Hurt Its Critical Ties With Nvidia? One Expert Says The Fallout May Not Be So Simple](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5bc1e20e-e65b-4240-8e29-41ad0ab27cab) (Published: 2026-04-07)
+- [AI-Generated Digital Health Coaching Avatar Market Eyes $6.54 Billion Valuation by 2030, Tripling in Size During 2026-2030](https://www.globenewswire.com/news-release/2026/04/07/3269508/28124/en/AI-Generated-Digital-Health-Coaching-Avatar-Market-Eyes-6-54-Billion-Valuation-by-2030-Tripling-in-Size-During-2026-2030.html) (Published: 2026-04-07)
+- [RISC-V 101 – what is it and what does it mean for Canonical?](
+      https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical) (Published: 2026-04-07)
+- [The "Moderate" Think Tank Backed By AI Money (Katya Schwenk/The Lever)](https://www.memeorandum.com/260407/p64) (Published: 2026-04-07)
+- [GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations](https://slashdot.org/firehose.pl?op=view&amp;id=181402294) (Published: 2026-04-07)
