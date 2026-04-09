@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-09 08:00:32**_
+_Last updated: **2026-04-09 09:20:25**_
 
+- [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html) (Published: 2026-04-08)
+- [Alibaba launches data center with 10,000 of its own chips as China ramps up AI push](https://www.cnbc.com/2026/04/08/china-alibaba-data-center-ai-chips-zhenwu.html) (Published: 2026-04-08)
+- [(PR) MSI Reveals The MAG Infinite S AI 2nd Gaming PC](https://www.techpowerup.com/348080/msi-reveals-the-mag-infinite-s-ai-2nd-gaming-pc) (Published: 2026-04-08)
+- [The Great AI Grift](https://www.thenation.com/article/economy/ai-crony-capitalism-grift/) (Published: 2026-04-08)
+- [AI for the People](https://www.thenation.com/article/society/ro-khanna-ai-democracy-blueprint/) (Published: 2026-04-08)
+- [Gothic Remake Pre-Orders Are Now Open Ahead of the June 5 Launch](https://wccftech.com/gothic-remake-preorders-now-open/) (Published: 2026-04-08)
+- [Bill Ackman channels Warren Buffett with his $64 billion bid for Universal Music Group](https://fortune.com/2026/04/08/bill-ackman-channels-warren-buffett-64-billion-bid-universal-music-group/) (Published: 2026-04-08)
+- [Claude Mythos, Anthropic AI capable of hacking any software, joins forces with Google, Apple, AWS & more; Users’ personal data at risk?](https://economictimes.indiatimes.com/news/new-updates/claude-mythos-anthropic-ai-capable-of-hacking-any-software-joins-forces-with-google-apple-aws-more-users-personal-data-at-risk/articleshow/130106401.cms) (Published: 2026-04-08)
+- [Where to invest $1,000 in ASX ETFs for beginners in April](https://www.fool.com.au/2026/04/08/where-to-invest-1000-in-asx-etfs-for-beginners-in-april/) (Published: 2026-04-08)
 - [Why Anthropic Is Limiting Access to Its Most Powerful AI, Claude Mythos](https://in.mashable.com/tech/108150/why-anthropic-is-limiting-access-to-its-most-powerful-ai-claude-mythos) (Published: 2026-04-08)
-- [How a Standard 16GB MacBook Air Can Now Run Massive AI Models Locally](https://www.geeky-gadgets.com/lm-studio-local-ai/) (Published: 2026-04-08)
-- [Nvidia Stock Just Got Hit by a Shift Not Seen in 13 years. Here's What Investors Should Do Next](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1fe0d377-e8f2-447d-a66d-b92684fdd1a2) (Published: 2026-04-08)
-- [The Top 10 Best Humanoid Robot Manufacturers in 2026: Tesla Optimus, Figure AI and Chinese Leaders Dominate](https://www.ibtimes.com.au/top-10-best-humanoid-robot-manufacturers-2026-tesla-optimus-figure-ai-chinese-leaders-dominate-1865762) (Published: 2026-04-08)
-- [Planet Labs Tests AI-Powered Object Detection On Satellite](https://tech.slashdot.org/story/26/04/08/0145220/planet-labs-tests-ai-powered-object-detection-on-satellite) (Published: 2026-04-08)
-- [Asian tech stocks surge as U.S.-Iran cease fire ease Hormuz disruption worries](https://www.cnbc.com/2026/04/08/asian-chip-stocks-surge-us-iran-ceasefire-helium-supply-relief.html) (Published: 2026-04-08)
-- [Anthropic's Claude Mythos AI has discovered thousands of vulnerabilities in every OS and browser](https://www.tweaktown.com/news/110926/anthropics-claude-mythos-ai-has-discovered-thousands-of-vulnerabilities-in-every-os-and-browser/index.html) (Published: 2026-04-08)
-- [Risky Business #832 -- Anthropic unveils magical 0day computer God](https://risky.biz/RB832/) (Published: 2026-04-08)
-- [Sony AS-DT1 LiDAR Depth Sensor Now Available in Compact 29 mm Form Factor](https://linuxgizmos.com/sony-as-dt1-lidar-depth-sensor-now-available-in-compact-29-mm-form-factor/) (Published: 2026-04-08)
-- [Anthropic limits access to AI model, fearing future of cyberattacks](https://cointelegraph.com/news/claude-mythos-finds-thousands-of-zero-day-os-and-browser-vulnerabilities) (Published: 2026-04-08)
