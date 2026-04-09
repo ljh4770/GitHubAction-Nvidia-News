@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-09 12:43:37**_
+_Last updated: **2026-04-09 14:28:24**_
 
-- [Claude Mythos Preview Will Only Secure Part of the Internet](https://www.macstories.net/news/claude-mythos-preview-will-only-secure-part-of-the-internet/) (Published: 2026-04-08)
-- [Nvidia Price Prediction: 1 Year Bull and Bear Case](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3aa810ff-6087-4344-a8aa-438d6eb59107) (Published: 2026-04-08)
-- [Uber begins testing its Volkswagen ID. Buzz robotaxi fleet in LA](https://slashdot.org/firehose.pl?op=view&amp;id=181416812) (Published: 2026-04-08)
-- [AI's next bottleneck: Why even the best chips made in the U.S. take a round trip to Taiwan](https://www.cnbc.com/2026/04/08/tsmc-nvidia-advanced-packaging-intel.html) (Published: 2026-04-08)
-- [Valve Releases Steam Link Beta for Vision Pro, But VR Games Aren’t Supported Yet](https://www.roadtovr.com/valve-steam-link-beta-vision-pro-vr-games/) (Published: 2026-04-08)
-- [Anthropic boasts major AI-enabled cybersecurity breakthrough](https://www.telecomtv.com/content/security/anthropic-boasts-major-ai-enabled-cybersecurity-breakthrough-55256/) (Published: 2026-04-08)
-- [Is Nvidia stock still the safest AI bet in 2026? Why is Nvidia (NVDA) stock surging 3.5% in today’s premarket — and what’s next for NVDA shares?](https://economictimes.indiatimes.com/news/international/us/is-nvidia-stock-still-the-safest-ai-bet-in-2026-why-is-nvidia-nvda-stock-surging-3-5-in-todays-premarket-and-whats-next-for-nvda-shares/articleshow/130112457.cms) (Published: 2026-04-08)
-- [Grab an entire RTX 5090 gaming PC for just $8 more than the GPU itself and score a whopping $1,600 off — huge HP discount requires a $39 controller or monitor to secure you a 4K powerhouse with a 9800X3D, 32GB DDR5, and a 1TB SSD](https://www.tomshardware.com/desktops/gaming-pcs/grab-an-entire-rtx-5090-gaming-pc-for-just-usd8-more-than-the-gpu-itself-and-score-a-whopping-usd1-600-off-huge-hp-discount-requires-a-usd39-controller-or-monitor-to-secure-you-a-4k-powerhouse-with-a-9800x3d-32gb-ddr5-and-a-1tb-ssd) (Published: 2026-04-08)
-- ['Video games are cooked' — founder of No More Robots condemns gen AI in gaming and says 'from a publisher perspective, it's mega annoying'](https://www.techradar.com/gaming/video-games-are-cooked-founder-of-no-more-robots-condemns-gen-ai-in-gaming-and-says-from-a-publisher-perspective-its-mega-annoying) (Published: 2026-04-08)
+- [UMB Financial Rated New Outperform: The Under-the-Radar Regional Bank Wall Street Just Discovered](https://247wallst.com/investing/2026/04/08/umb-financial-rated-new-outperform-the-under-the-radar-regional-bank-wall-street-just-discovered/) (Published: 2026-04-08)
+- [NVIDIA (NVDA) Among the Hedge Fund Favorites with Strong Setup in 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_31e0fcc8-e6e9-49c8-89b8-4473c9177d22) (Published: 2026-04-08)
+- [videosdk-plugins-nvidia 1.0.5](https://pypi.org/project/videosdk-plugins-nvidia/1.0.5/) (Published: 2026-04-08)
+- [Samsung Will Soon Become More Profitable Than NVIDIA, And It Just Clinched An Exclusive 3-Year Display Contract From Apple](https://wccftech.com/samsung-will-soon-become-more-profitable-than-nvidia-and-it-just-clinched-an-exclusive-3-year-display-contract-from-apple/) (Published: 2026-04-08)
+- [LPL Financial Gets a UBS Buy Rating: Wall Street Sees $380 for This Wealth Management Play](https://247wallst.com/investing/2026/04/08/lpl-financial-gets-a-ubs-buy-rating-wall-street-sees-380-for-this-wealth-management-play/) (Published: 2026-04-08)
+- [Nvidia Chips Are Getting Stolen](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_69afe8ab-eff0-44e5-9d6b-ad47409bed51) (Published: 2026-04-08)
+- [Supermicro launches probe after staff charged with China export violations](https://www.theregister.com/2026/04/08/supermicro_china_chip_smuggling/) (Published: 2026-04-08)
+- [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/) (Published: 2026-04-08)
+- [Energy collaborative optimization of power routing based on PPO and generative adversarial imitation learning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346372) (Published: 2026-04-08)
