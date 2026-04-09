@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-09 02:37:43**_
+_Last updated: **2026-04-09 04:58:37**_
 
+- [Sony AS-DT1 LiDAR Depth Sensor Now Available in Compact 29 mm Form Factor](https://linuxgizmos.com/sony-as-dt1-lidar-depth-sensor-now-available-in-compact-29-mm-form-factor/) (Published: 2026-04-08)
+- [Anthropic limits access to AI model, fearing future of cyberattacks](https://cointelegraph.com/news/claude-mythos-finds-thousands-of-zero-day-os-and-browser-vulnerabilities) (Published: 2026-04-08)
+- [TCS Q4 Preview: First results after AI-led crash. Will the IT bellwether spook or soothe investors?](https://economictimes.indiatimes.com/markets/stocks/news/tcs-q4-preview-first-results-after-ai-led-crash-will-the-it-bellwether-spook-or-soothe-investors/articleshow/130102277.cms) (Published: 2026-04-08)
+- [Samsung Electronics Q1 2026 Record Profit $38B: AI Chips Drive Best-Ever Results, Path to Dominance](https://www.ibtimes.com.au/samsung-electronics-q1-2026-record-profit-38b-ai-chips-drive-best-ever-results-path-dominance-1865733) (Published: 2026-04-08)
+- [Apple Silicon MacでGeForce/RadeonでのAI処理が可能に](https://pc.watch.impress.co.jp/docs/news/2099980.html) (Published: 2026-04-08)
+- [27” Samsung Odyssey G5 G50F QHD Resolution Gaming Monitor $229.99 + Free Shipping](https://slickdeals.net/f/19395294-27-samsung-odyssey-g5-g50f-qhd-resolution-gaming-monitor-229-99-free-shipping) (Published: 2026-04-08)
+- [Sources: Bain's data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs (Kari Soo Lindberg/Bloomberg)](https://www.techmeme.com/260407/p58) (Published: 2026-04-08)
 - [Anthropic’s New Model Is So Scarily Powerful It Won’t Be Released, Anthropic Says](https://gizmodo.com/anthropics-new-model-is-so-scarily-powerful-it-wont-be-released-anthropic-says-2000743234) (Published: 2026-04-08)
 - [MBW 1019: Furious, Eloquent, and Unrestrained - The Earth: Shot on iPhone](https://twit.tv/shows/macbreak-weekly/episodes/1019) (Published: 2026-04-08)
 - [Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries](https://developer.nvidia.com/blog/integrate-physical-ai-capabilities-into-existing-apps-with-nvidia-omniverse-libraries/) (Published: 2026-04-08)
-- [Nvidia moves to build US$10B AI empire, one acquisition at a time](https://www.digitimes.com/news/a20260407PD225/nvidia-gaming-genai-2026-gpu.html) (Published: 2026-04-08)
-- [What is Anthropic’s Project Glasswing? #tech](https://alltoc.com/tech/what-is-anthropics-project-glasswing) (Published: 2026-04-08)
-- [Anthropic Unveils Project Glasswing and Claude Mythos: A New Frontier in Cybersecurity](https://www.c-sharpcorner.com/news/anthropic-unveils-project-glasswing-and-claude-mythos-a-new-frontier-in-cybersecurity) (Published: 2026-04-08)
-- [Anthropic: All your zero-days are belong to Mythos](https://www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/) (Published: 2026-04-07)
-- [Supermicro launches internal probe after cofounder’s arrest on charges of $2.5 billion in chip smuggling](https://fortune.com/2026/04/07/supermicro-launches-probe-arrest-nvidia-chip/) (Published: 2026-04-07)
-- [Stocks soar in global relief rally as oil plunges on U.S.-Iran ceasefire deal](https://financialpost.com/investing/stocks-soar-oil-falls-iran-relief-rally) (Published: 2026-04-07)
-- [Google CEO Sundar Pichai says 'AI shift' opens opportunities to invest in startups](https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html) (Published: 2026-04-07)
