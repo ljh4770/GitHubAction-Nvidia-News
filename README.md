@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-09 11:35:25**_
+_Last updated: **2026-04-09 12:43:37**_
 
-- [This Unbelievable Deal Drops This 27-Inch Asus TUF Gaming Monitor to Just $60](https://www.cnet.com/deals/asus-tuf-gaming-monitor-deal/) (Published: 2026-04-08)
-- [Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities](https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/) (Published: 2026-04-08)
-- [Project Glasswing powered by Claude Mythos: defending software before hackers do](https://securityaffairs.com/190496/ai/project-glasswing-powered-by-claude-mythos-defending-software-before-hackers-do.html) (Published: 2026-04-08)
-- [Palantir's AI Powers US Strikes in Iran War, Speeding 'Kill Chain' in First Major AI-Driven Conflict](https://www.ibtimes.com.au/palantirs-ai-powers-us-strikes-iran-war-speeding-kill-chain-first-major-ai-driven-conflict-1865793) (Published: 2026-04-08)
-- [secretvm-verify 0.4.0](https://pypi.org/project/secretvm-verify/0.4.0/) (Published: 2026-04-08)
-- [Why Lossless Scaling is a Game-Changer for Retro Emulation on Steam Deck & Handhelds](https://www.geeky-gadgets.com/lossless-scaling-emulation-steam-deck/) (Published: 2026-04-08)
-- [Why you shouldn't buy cheap DisplayPort cables - the 'Death Pin' can put your GPU at serious risk](https://www.zdnet.com/home-and-office/home-entertainment/dont-buy-cheap-displayport-cables-or-they-can-brick-your-pc/) (Published: 2026-04-08)
-- [Apple’s chip ‘binning’ explained: What is it and why does it matter?](https://www.macworld.com/article/3107278/apples-chip-binning-explained-what-is-it-and-why-does-it-matter.html) (Published: 2026-04-08)
-- [Samsung might make even more money than NVIDIA next year](https://www.sammobile.com/news/samsung-might-make-even-more-money-than-nvidia-next-year/) (Published: 2026-04-08)
-- [‘Too Powerful’: Anthropic Restricts Access to Mythos AI Model](https://bitcoinfoundation.org/news/ai-news/anthropic-mythos-problems/) (Published: 2026-04-08)
+- [Claude Mythos Preview Will Only Secure Part of the Internet](https://www.macstories.net/news/claude-mythos-preview-will-only-secure-part-of-the-internet/) (Published: 2026-04-08)
+- [Nvidia Price Prediction: 1 Year Bull and Bear Case](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3aa810ff-6087-4344-a8aa-438d6eb59107) (Published: 2026-04-08)
+- [Uber begins testing its Volkswagen ID. Buzz robotaxi fleet in LA](https://slashdot.org/firehose.pl?op=view&amp;id=181416812) (Published: 2026-04-08)
+- [AI's next bottleneck: Why even the best chips made in the U.S. take a round trip to Taiwan](https://www.cnbc.com/2026/04/08/tsmc-nvidia-advanced-packaging-intel.html) (Published: 2026-04-08)
+- [Valve Releases Steam Link Beta for Vision Pro, But VR Games Aren’t Supported Yet](https://www.roadtovr.com/valve-steam-link-beta-vision-pro-vr-games/) (Published: 2026-04-08)
+- [Anthropic boasts major AI-enabled cybersecurity breakthrough](https://www.telecomtv.com/content/security/anthropic-boasts-major-ai-enabled-cybersecurity-breakthrough-55256/) (Published: 2026-04-08)
+- [Is Nvidia stock still the safest AI bet in 2026? Why is Nvidia (NVDA) stock surging 3.5% in today’s premarket — and what’s next for NVDA shares?](https://economictimes.indiatimes.com/news/international/us/is-nvidia-stock-still-the-safest-ai-bet-in-2026-why-is-nvidia-nvda-stock-surging-3-5-in-todays-premarket-and-whats-next-for-nvda-shares/articleshow/130112457.cms) (Published: 2026-04-08)
+- [Grab an entire RTX 5090 gaming PC for just $8 more than the GPU itself and score a whopping $1,600 off — huge HP discount requires a $39 controller or monitor to secure you a 4K powerhouse with a 9800X3D, 32GB DDR5, and a 1TB SSD](https://www.tomshardware.com/desktops/gaming-pcs/grab-an-entire-rtx-5090-gaming-pc-for-just-usd8-more-than-the-gpu-itself-and-score-a-whopping-usd1-600-off-huge-hp-discount-requires-a-usd39-controller-or-monitor-to-secure-you-a-4k-powerhouse-with-a-9800x3d-32gb-ddr5-and-a-1tb-ssd) (Published: 2026-04-08)
+- ['Video games are cooked' — founder of No More Robots condemns gen AI in gaming and says 'from a publisher perspective, it's mega annoying'](https://www.techradar.com/gaming/video-games-are-cooked-founder-of-no-more-robots-condemns-gen-ai-in-gaming-and-says-from-a-publisher-perspective-its-mega-annoying) (Published: 2026-04-08)
