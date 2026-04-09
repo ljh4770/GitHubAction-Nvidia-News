@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-09 14:28:24**_
+_Last updated: **2026-04-09 16:03:39**_
 
-- [UMB Financial Rated New Outperform: The Under-the-Radar Regional Bank Wall Street Just Discovered](https://247wallst.com/investing/2026/04/08/umb-financial-rated-new-outperform-the-under-the-radar-regional-bank-wall-street-just-discovered/) (Published: 2026-04-08)
-- [NVIDIA (NVDA) Among the Hedge Fund Favorites with Strong Setup in 2026](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_31e0fcc8-e6e9-49c8-89b8-4473c9177d22) (Published: 2026-04-08)
-- [videosdk-plugins-nvidia 1.0.5](https://pypi.org/project/videosdk-plugins-nvidia/1.0.5/) (Published: 2026-04-08)
-- [Samsung Will Soon Become More Profitable Than NVIDIA, And It Just Clinched An Exclusive 3-Year Display Contract From Apple](https://wccftech.com/samsung-will-soon-become-more-profitable-than-nvidia-and-it-just-clinched-an-exclusive-3-year-display-contract-from-apple/) (Published: 2026-04-08)
-- [LPL Financial Gets a UBS Buy Rating: Wall Street Sees $380 for This Wealth Management Play](https://247wallst.com/investing/2026/04/08/lpl-financial-gets-a-ubs-buy-rating-wall-street-sees-380-for-this-wealth-management-play/) (Published: 2026-04-08)
-- [Nvidia Chips Are Getting Stolen](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_69afe8ab-eff0-44e5-9d6b-ad47409bed51) (Published: 2026-04-08)
-- [Supermicro launches probe after staff charged with China export violations](https://www.theregister.com/2026/04/08/supermicro_china_chip_smuggling/) (Published: 2026-04-08)
-- [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/) (Published: 2026-04-08)
-- [Energy collaborative optimization of power routing based on PPO and generative adversarial imitation learning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346372) (Published: 2026-04-08)
+- [An AI model that’s too risky](https://www.thehindubusinessline.com/opinion/an-ai-model-thats-too-risky/article70839588.ece) (Published: 2026-04-08)
+- [calwash added to PyPI](https://pypi.org/project/calwash/) (Published: 2026-04-08)
+- [Prediction: This Unloved AI Stock Has What it Takes to Outrun NVIDIA](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d84dace-7a9f-44e0-9c45-ac0b6c503283) (Published: 2026-04-08)
+- [Painstakingly Restored Mirror’s Edge Prototype Reveals My New Favorite Video Game Quote](https://kotaku.com/assassins-creed-black-flag-remake-star-fox-reveal-2000685729) (Published: 2026-04-08)
+- [tt-lmf added to PyPI](https://pypi.org/project/tt-lmf/) (Published: 2026-04-08)
+- [Intel Arc Pro B70 Benchmarks With LLM / AI, OpenCL, OpenGL & Vulkan](https://www.phoronix.com/review/intel-arc-pro-b70-linux) (Published: 2026-04-08)
+- [SoftServe Launches New Brand Identity: ‘Technology Elevated’](https://financialpost.com/globe-newswire/softserve-launches-new-brand-identity-technology-elevated) (Published: 2026-04-08)
+- [SoftServe Launches New Brand Identity: ‘Technology Elevated’](https://www.globenewswire.com/news-release/2026/04/08/3270342/0/en/SoftServe-Launches-New-Brand-Identity-Technology-Elevated.html) (Published: 2026-04-08)
+- [Intel–SambaNova Collaboration Is One Answer to NVIDIA’s Groq Partnership, After It Became Clear GPUs Alone Can’t Dominate Inference](https://wccftech.com/intel-sambanova-collaboration-is-one-answer-to-nvidias-groq-partnership/) (Published: 2026-04-08)
+- [Op-Ed: We've Hit a Scary 'Turning Point' for AI](https://www.newser.com/story/386942/op-ed-new-ai-model-shows-how-close-we-are-to-disaster.html) (Published: 2026-04-08)
