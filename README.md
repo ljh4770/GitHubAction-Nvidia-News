@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-11 19:48:29**_
+_Last updated: **2026-04-11 20:16:08**_
 
+- [Vance, Bessent questioned tech giants on AI security before Anthropic's Mythos release](https://www.cnbc.com/2026/04/10/trump-white-house-ai-cyber-threat-anthropic-mythos.html) (Published: 2026-04-10)
 - [First they went after medtech, then Kash Patel. Iranian hackers’ next target is likely ‘low-hanging fruit’ in water, energy, and tourism, experts say](https://fortune.com/2026/04/10/iran-hackers-water-energy-tourism-kash-patel-strategy/) (Published: 2026-04-10)
 - [Feds Warn Major Banks of Anthropic Mythos Cyber Threat](https://www.pymnts.com/cybersecurity/2026/feds-warn-major-banks-of-anthropic-mythos-cyber-threat/) (Published: 2026-04-10)
 - [Nancy Pelosi’s stock trading crown threated by lawmaker’s eye-popping Nvidia jackpot](https://nypost.com/2026/04/10/us-news/silicon-valley-has-a-new-congressional-stock-trading-king/) (Published: 2026-04-10)
@@ -10,4 +11,3 @@ _Last updated: **2026-04-11 19:48:29**_
 - [OpenClaw founder Peter Steinberger in limbo after Anthropic cuts Claude access](https://economictimes.indiatimes.com/tech/artificial-intelligence/openclaw-founder-peter-steinberger-in-limbo-after-anthropic-cuts-claude-access/articleshow/130176147.cms) (Published: 2026-04-10)
 - [Talk Python to Me: #544: Wheel Next + Packaging PEPs](https://talkpython.fm/episodes/show/544/wheel-next-packaging-peps) (Published: 2026-04-10)
 - [XRP Price Prediction: One Analyst Just Predicted XRP Will Hit $17 Based on a Pennant Breakout Pattern](https://247wallst.com/investing/2026/04/10/xrp-price-prediction-one-analyst-just-predicted-xrp-will-hit-17-based-on-a-pennant-breakout-pattern/) (Published: 2026-04-10)
-- [TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it | TechCrunch](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/) (Published: 2026-04-10)
