@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-11 19:08:40**_
+_Last updated: **2026-04-11 19:48:29**_
 
 - [First they went after medtech, then Kash Patel. Iranian hackers’ next target is likely ‘low-hanging fruit’ in water, energy, and tourism, experts say](https://fortune.com/2026/04/10/iran-hackers-water-energy-tourism-kash-patel-strategy/) (Published: 2026-04-10)
 - [Feds Warn Major Banks of Anthropic Mythos Cyber Threat](https://www.pymnts.com/cybersecurity/2026/feds-warn-major-banks-of-anthropic-mythos-cyber-threat/) (Published: 2026-04-10)
