@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-12 12:02:51**_
+_Last updated: **2026-04-12 13:22:00**_
 
+- [NVIDIA vs AMD 2026: AI Chip Showdown – Who Dominates Data Centers as Blackwell and MI400 Battle?](https://www.ibtimes.com.au/nvidia-vs-amd-2026-ai-chip-showdown-who-dominates-data-centers-blackwell-mi400-battle-1866177) (Published: 2026-04-11)
+- [Does Blowing Up Data Centres Make Iran “the Real Resistance”?](https://www.activistpost.com/does-blowing-up-data-centres-make-iran-the-real-resistance/) (Published: 2026-04-11)
 - ['AI is a once-in-a-lifetime opportunity': Amazon CEO Andy Jassy lays out his '6 truths' for the future of AI](https://www.techradar.com/pro/ai-is-a-once-in-a-lifetime-opportunity-amazon-ceo-andy-jassy-lays-out-his-6-truths-for-the-future-of-ai) (Published: 2026-04-11)
 - [Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million — shares of data center supplier Sharetronic plummet following Su](https://slashdot.org/firehose.pl?op=view&amp;id=181583274) (Published: 2026-04-11)
 - [Chinese Nvidia Cloud Partner procured 300 servers with banned AI GPUs worth $92 million — shares of data center supplier Sharetronic plummet following Super Micro smuggling arrest](https://www.tomshardware.com/tech-industry/chinese-nvidia-cloud-partner-procured-300-servers-with-banned-ai-gpus-worth-usd92-million-shares-of-data-center-supplier-sharetronic-plummet-following-super-micro-smuggling-arrest) (Published: 2026-04-11)
+- [Does the “100 Minus Your Age” Investing Rule Still Work? What Wes Moss Thinks](https://247wallst.com/personal-finance/2026/04/11/does-the-100-minus-your-age-investing-rule-still-work-what-wes-moss-thinks/) (Published: 2026-04-11)
 - [Palantir CEO says AI ‘will destroy’ humanities jobs but there will be ‘more than enough jobs’ for people with vocational training](https://fortune.com/article/palantir-ceo-alex-karp-ai-humanities-jobs-vocational-training/) (Published: 2026-04-11)
 - [Claude Mythos Preview access goes to Big Tech first: Who’s on the list and why it matters](https://economictimes.indiatimes.com/tech/artificial-intelligence/claude-mythos-preview-access-goes-to-big-tech-first-whos-on-the-list-and-why-it-matters/articleshow/130190070.cms) (Published: 2026-04-11)
 - [Benchmarking Nvidia's RTX Neural Texture Compression tech that can reduce VRAM usage by over 80%](https://www.tomshardware.com/pc-components/gpus/benchmarking-nvidias-rtx-neural-texture-compression-tech-that-can-reduce-vram-usage-by-over-80-percent) (Published: 2026-04-11)
 - [Best Buy 1-day LG sale up to $2,400 off OLED TVs, LED models from $250, soundbars, more](http://9to5toys.com/2026/04/11/best-buy-1-day-lg-sale-oled/) (Published: 2026-04-11)
-- [Starbucks’ game plan to roll out AI chatbots at cafés could serve as a ‘litmus test’ for the industry, analyst says](https://fortune.com/article/how-is-starbucks-using-ai-in-coffee-shop-locations-ceo-brian-niccol-green-dot-assist/) (Published: 2026-04-11)
-- [Why Fed and Treasury leaders Powell, Bessent just rushed into a critical cyber-risk meeting](https://cryptoslate.com/why-fed-and-treasury-leaders-powell-bessent-just-rushed-into-a-critical-cyber-risk-meeting/) (Published: 2026-04-11)
-- [Tests show $30,000 AI GPUs are terrible password crackers — RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X](https://slashdot.org/firehose.pl?op=view&amp;id=181580830) (Published: 2026-04-11)
