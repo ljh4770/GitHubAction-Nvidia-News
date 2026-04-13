@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-13 11:39:55**_
+_Last updated: **2026-04-13 12:45:41**_
 
 - [Growing void between enterprise and frontier AI puts open weights models in the spotlight](https://www.theregister.com/2026/04/12/ai_open_weights_models/) (Published: 2026-04-12)
 - [MiniMax M2.7 Is Now Open Source](https://firethering.com/minimax-m2-7-agentic-model/) (Published: 2026-04-12)
