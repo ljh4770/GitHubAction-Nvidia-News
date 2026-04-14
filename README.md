@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-14 11:19:17**_
+_Last updated: **2026-04-14 12:10:38**_
 
+- [Approvals for Nvidia and AMD AI chip exports to China stall under government bottleneck — 20% staff turnover hobbles Bureau of Industry and Security](https://www.tomshardware.com/tech-industry/us-export-control-agency-has-lost-nearly-a-fifth-of-its-licensing-staff) (Published: 2026-04-13)
+- [With Brain Scan Volume Momentum Accelerating, Firefly Makes History by Building the World’s First Known 200,000+ Standardized EEG/ERP Depository](https://www.globenewswire.com/news-release/2026/04/13/3272407/0/en/With-Brain-Scan-Volume-Momentum-Accelerating-Firefly-Makes-History-by-Building-the-World-s-First-Known-200-000-Standardized-EEG-ERP-Depository.html) (Published: 2026-04-13)
+- [Save a massive $700 on this 4K-ready HP gaming PC with a 9800X3D and RTX 5070 Ti, now just $2,499 — discounted HP Omen 35L pre-built powerhouse ships with 32GB DDR5 RAM and a 1TB SSD](https://www.tomshardware.com/desktops/gaming-pcs/save-a-massive-usd700-on-this-4k-ready-hp-gaming-pc-with-a-9800x3d-and-rtx-5070-ti-now-just-usd2-499-discounted-hp-omen-35l-pre-built-powerhouse-ships-with-32gb-ddr5-ram-and-a-1tb-ssd) (Published: 2026-04-13)
+- [Ninepoint Partners Launching Expanded Suite of Single-Stock ETFs](https://financialpost.com/globe-newswire/ninepoint-partners-launching-expanded-suite-of-single-stock-etfs) (Published: 2026-04-13)
 - [China went from uninvestable to unavoidable—and Hong Kong is cashing in with a slew of AI-centric IPOs](https://fortune.com/2026/04/13/china-uninvestable-unavoidable-hong-kong-cashing-ai-centric-ipos/) (Published: 2026-04-13)
 - [Tens of billions in days: CoreWeave shows how aggressively AI infrastructure is being funded](https://fortune.com/2026/04/13/tens-billions-days-coreweave-shows-how-aggressively-ai-infrastructure-being-funded/) (Published: 2026-04-13)
 - [Ramsey to Single Mom With $74K in Debt: You Can Be a Millionaire at Son’s Wedding](https://247wallst.com/personal-finance/2026/04/13/ramsey-to-single-mom-with-74k-in-debt-you-can-be-a-millionaire-at-sons-wedding/) (Published: 2026-04-13)
 - [Why Linux Is Quietly Becoming the Ultimate Gaming Platform in 2026](https://www.geeky-gadgets.com/linux-gaming-massive-upgrade-2026/) (Published: 2026-04-13)
 - [The Man Who Built NVIDIA (with Stephen Witt)](https://www.econtalk.org/the-man-who-built-nvidia-with-stephen-witt/) (Published: 2026-04-13)
-- [Siemens expands Industrial Automation DataCenter with edge AI and cybersecurity](https://www.helpnetsecurity.com/2026/04/13/siemens-industrial-automation-datacenter/) (Published: 2026-04-13)
-- [The storylines you need to know heading into earnings season](https://www.businessinsider.com/earnings-season-markets-banks-wall-street-2026-4) (Published: 2026-04-13)
-- [fitz-tec added to PyPI](https://pypi.org/project/fitz-tec/) (Published: 2026-04-13)
-- [AI Agents Are Coming for Your Dating Life](https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/) (Published: 2026-04-13)
