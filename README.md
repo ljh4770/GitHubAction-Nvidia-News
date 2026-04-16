@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-16 10:22:31**_
+_Last updated: **2026-04-16 11:35:03**_
 
+- [NVIDIA GeForce RTX 5060 and 5060 Ti Planned With 9 GB VRAM - TechPowerUp](https://slashdot.org/firehose.pl?op=view&amp;id=181717904) (Published: 2026-04-15)
+- [Bitdeer Announces March 2026 Production and Operations Update](https://www.globenewswire.com/news-release/2026/04/15/3274331/0/en/Bitdeer-Announces-March-2026-Production-and-Operations-Update.html) (Published: 2026-04-15)
+- [I’ve been using the Acer Predator Orion 7000 to play the latest titles and it’s one of the best gaming PCs you can buy right now](https://www.techradar.com/computing/gaming-pcs/acer-predator-orion-7000) (Published: 2026-04-15)
+- [How the Gemma 4 Vision Agent’s “Agentic Loop” Solves Complex Visual Reasoning](https://www.geeky-gadgets.com/gemma-4-vision-agent-pipeline/) (Published: 2026-04-15)
+- [ASML Stock Surges Past $1,500 on AI Demand as Q1 Results Boost 2026 Outlook](https://www.ibtimes.com.au/asml-stock-surges-past-1500-ai-demand-q1-results-boost-2026-outlook-1866640) (Published: 2026-04-15)
+- [(PR) MSI Unveils New Raider and Crosshair Gaming Laptops with Up to 300W Combined Power](https://www.techpowerup.com/348244/msi-unveils-new-raider-and-crosshair-gaming-laptops-with-up-to-300w-combined-power) (Published: 2026-04-15)
+- [VOO vs. QQQ vs. SPY — Which ETF Is the Best Buy Right Now?](https://finance.yahoo.com/markets/stocks/articles/voo-vs-qqq-vs-spy-104138064.html) (Published: 2026-04-15)
+- [Nvidia unveils Ising open source AI suite for quantum calibration](https://www.verdict.co.uk/nvidia-ising-quantum-calibration/) (Published: 2026-04-15)
+- [3 Red Flags to Watch for When Hiring a Financial Planner](https://247wallst.com/personal-finance/2026/04/15/3-red-flags-to-watch-for-when-hiring-a-financial-planner/) (Published: 2026-04-15)
 - [With DLSS 5, Nvidia look to rewrite the truth before our eyes](https://www.rockpapershotgun.com/with-dlss-5-nvidia-look-to-rewrite-the-truth-before-our-eyes) (Published: 2026-04-15)
-- [LG OLED TV Deal Offers 50% Off and an Extra TV Thrown in for Free. Here's How to Nab It](https://www.cnet.com/deals/lg-b5-oled-tv-with-freebie/) (Published: 2026-04-15)
-- [NVIDIA Reportedly Halts GeForce RTX 5060 Ti 8 GB Shipments For Two Weeks In Late April](https://wccftech.com/nvidia-reportedly-halts-geforce-rtx-5060-ti-8-gb-shipments-for-two-weeks-in-late-april/) (Published: 2026-04-15)
-- [nvidia-nat-security 1.7.0a20260415](https://pypi.org/project/nvidia-nat-security/1.7.0a20260415/) (Published: 2026-04-15)
-- [Defective graphics cards cost Nvidia 1,003% more due to AI, DRAM crisis and 16-pin connector](https://www.notebookcheck.net/Defective-graphics-cards-cost-Nvidia-1-003-more-due-to-AI-DRAM-crisis-and-16-pin-connector.1274424.0.html) (Published: 2026-04-15)
-- [Enabling AI Inference at Scale: IBM Storage Scale ECE and IBM Fusion CAS with NVIDIA AI Data Platform](https://www.redbooks.ibm.com/docs/MD248598/MD248598.html) (Published: 2026-04-15)
-- [nvidia-nat-mem0ai 1.7.0a20260415](https://pypi.org/project/nvidia-nat-mem0ai/1.7.0a20260415/) (Published: 2026-04-15)
-- [nvidia-nat-fastmcp 1.7.0a20260415](https://pypi.org/project/nvidia-nat-fastmcp/1.7.0a20260415/) (Published: 2026-04-15)
-- [nvidia-nat-langchain 1.7.0a20260415](https://pypi.org/project/nvidia-nat-langchain/1.7.0a20260415/) (Published: 2026-04-15)
-- [nvidia-nat-test 1.7.0a20260415](https://pypi.org/project/nvidia-nat-test/1.7.0a20260415/) (Published: 2026-04-15)
