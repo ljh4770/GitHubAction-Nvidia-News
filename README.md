@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-16 23:01:19**_
+_Last updated: **2026-04-16 23:53:26**_
 
+- [nemo-retriever 2026.4.15.dev62](https://pypi.org/project/nemo-retriever/2026.4.15.dev62/) (Published: 2026-04-15)
 - [Parasail raises $32M for its pay-per-token inference cloud](https://siliconangle.com/2026/04/15/parasail-raises-32m-pay-per-token-inference-cloud/) (Published: 2026-04-15)
 - [MSI accidentally announces GeForce RTX 5070 12GB Laptop GPU in new Crosshair 16 Max spec sheet - VideoCardz.com](https://slashdot.org/firehose.pl?op=view&amp;id=181722196) (Published: 2026-04-15)
 - [Xi meets To Lam and Lavrov; Wang Yi calls for "restoring normal passage” through the Strait of Hormuz; Investment approval; Nvidia CEO on selling chips to China](https://sinocism.com/p/xi-meets-to-lam-and-lavrov-wang-yi) (Published: 2026-04-15)
@@ -10,4 +11,3 @@ _Last updated: **2026-04-16 23:01:19**_
 - [Skild AI Acquires Zebra Technologies’ Robotics Automation Business](https://financialpost.com/pmn/business-wire-news-releases-pmn/skild-ai-acquires-zebra-technologies-robotics-automation-business) (Published: 2026-04-15)
 - [Anthropic's Project Glasswing CVE tally is still anyone's guess](https://www.theregister.com/2026/04/15/project_glasswing_cves/) (Published: 2026-04-15)
 - [Walmart Has the Lowest Price on an Nvidia GeForce RTX 5070 12GB Graphics Card in 2026](https://www.ign.com/articles/pny-geforce-rtx-5070-graphics-card-deal-2026) (Published: 2026-04-15)
-- [Jensen Huang: Nvidia’s role in transforming electrons to tokens, the exponential growth of AI agents, and overcoming semiconductor supply chain bottlenecks | Dwarkesh](https://cryptobriefing.com/jensen-huang-nvidias-role-in-transforming-electrons-to-tokens-the-exponential-growth-of-ai-agents-and-overcoming-semiconductor-supply-chain-bottlenecks-dwarkesh/) (Published: 2026-04-15)
