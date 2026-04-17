@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-17 18:39:38**_
+_Last updated: **2026-04-17 19:45:06**_
 
+- [Nero AI Video Upscaler Pro v1.3.14.0 Pre-Cracked](https://post.rlsbb.to/nero-ai-video-upscaler-pro-v1-3-14-0-pre-cracked/) (Published: 2026-04-16)
+- [Canadian quantum company Xanadu soars to $16 billion valuation after Nvidia release](https://financialpost.com/technology/canadian-quantum-company-xanadu-valuation-soars) (Published: 2026-04-16)
+- [Today’s Best Deals: Switch 2 Resident Evil Generation Pack, Gaming Chair Under $100, and Pokémon TCG](https://www.ign.com/articles/todays-best-deals-switch-2-resident-evil-generation-pack-gaming-chair-under-100-and-pokmon-tcg) (Published: 2026-04-16)
+- [Three insights you might have missed from theCUBE’s coverage of Nutanix .NEXT](https://siliconangle.com/2026/04/16/agentic-infrastructure-thecube-nutanix-next-nutanixnext/) (Published: 2026-04-16)
+- [Ninepoint Partners Announces Anticipated Monthly Cash Distributions for its new US Stock Ninepoint HighShares ETFs](https://financialpost.com/globe-newswire/ninepoint-partners-announces-anticipated-monthly-cash-distributions-for-its-new-us-stock-ninepoint-highshares-etfs) (Published: 2026-04-16)
+- [WonderFox DVD Video Converter 31.5](https://post.rlsbb.to/wonderfox-dvd-video-converter-31-5/) (Published: 2026-04-16)
+- [MAGIX Video Pro X17 v23.0.1.318](https://post.rlsbb.to/magix-video-pro-x17-v23-0-1-318/) (Published: 2026-04-16)
+- [Ninepoint Partners Announces Anticipated Monthly Cash Distributions for its new US Stock Ninepoint HighShares ETFs](https://www.globenewswire.com/news-release/2026/04/16/3275767/0/en/Ninepoint-Partners-Announces-Anticipated-Monthly-Cash-Distributions-for-its-new-US-Stock-Ninepoint-HighShares-ETFs.html) (Published: 2026-04-16)
+- [Dell - Tower Plus EBT2250 Desktop - Intel Ultra 7 265 - 32GB Memory - NVIDIA GeForce RTX 5060 8GB - 1TB Storage Open box as low as $762.99](https://slickdeals.net/f/19428351-dell-tower-plus-ebt2250-desktop-intel-ultra-7-265-32gb-memory-nvidia-geforce-rtx-5060-8gb-1tb-storage-open-box-as-low-as-762-99) (Published: 2026-04-16)
 - [Trump Weighs Appointing Michael Murray to Lead Antitrust at DOJ](https://www.livemint.com/companies/trump-weighs-appointing-michael-murray-to-lead-antitrust-at-doj-11776364574067.html) (Published: 2026-04-16)
-- [Quantum mania: Stocks skyrocket up to 141% as Nvidia fuels next tech revolution](https://economictimes.indiatimes.com/news/international/us/quantum-mania-stocks-skyrocket-up-to-141-as-nvidia-fuels-next-tech-revolution/articleshow/130314649.cms) (Published: 2026-04-16)
-- [3 Dividend Aristocrat ETFs to Buy Before 2026 Markets Shift](https://247wallst.com/investing/2026/04/16/3-dividend-aristocrat-etfs-to-buy-before-2026-markets-shift/) (Published: 2026-04-16)
-- [TSMC’s CEO Calls Intel a Formidable Competitor but Says No Shortcuts Exist in the Foundry Game](https://wccftech.com/tsmc-calls-intel-formidable-competitor-emib-attractive-technology/) (Published: 2026-04-16)
-- [AMD's market cap hits all-time high, Intel hits 25-year high on Agentic AI's insatiable demand for CPUs](https://www.tomshardware.com/pc-components/cpus/amds-market-cap-hits-all-time-high-intel-hits-25-year-high-on-agentic-ais-insatiable-demand-for-cpus) (Published: 2026-04-16)
-- [Pragmata’s GeForce Drivers Are Out Now in Time For Launch Tomorrow](https://wccftech.com/pragmata-nvidia-geforce-drivers-now-available/) (Published: 2026-04-16)
-- [AWS launches AI-driven tool to speed up early-stage antibody discovery](https://www.techtarget.com/pharmalifesciences/news/366641915/AWS-launches-AI-driven-tool-to-speed-up-early-stage-antibody-discovery) (Published: 2026-04-16)
-- [Famed investor Andrew Left says Nvidia has already crowned the big quantum stock winner](https://www.businessinsider.com/andrew-left-nvidia-quantum-computing-stocks-investing-infq-nvda-2026-4) (Published: 2026-04-16)
-- [Google Opens Gemma 4 Under Apache 2.0 with Multimodal and Agentic Capabilities](https://www.infoq.com/news/2026/04/google-gemm4/) (Published: 2026-04-16)
-- [Which Bitcoin ETF Wins: Grayscale’s Scale, ProShares’ Yield, or ARK’s Low Cost](https://247wallst.com/investing/2026/04/16/which-bitcoin-etf-wins-grayscales-scale-proshares-yield-or-arks-low-cost/) (Published: 2026-04-16)
