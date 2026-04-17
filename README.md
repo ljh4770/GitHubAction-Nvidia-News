@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-17 10:03:27**_
+_Last updated: **2026-04-17 11:09:37**_
 
-- [UK banks get their Mythos briefing within days](https://thenextweb.com/news/anthropic-mythos-uk-banks/) (Published: 2026-04-16)
-- [nvidia-nat-memmachine 1.7.0a20260416](https://pypi.org/project/nvidia-nat-memmachine/1.7.0a20260416/) (Published: 2026-04-16)
-- [nvidia-nat-ragaai 1.7.0a20260416](https://pypi.org/project/nvidia-nat-ragaai/1.7.0a20260416/) (Published: 2026-04-16)
-- [nvidia-nat-config-optimizer 1.7.0a20260416](https://pypi.org/project/nvidia-nat-config-optimizer/1.7.0a20260416/) (Published: 2026-04-16)
-- [nvidia-nat-test 1.7.0a20260416](https://pypi.org/project/nvidia-nat-test/1.7.0a20260416/) (Published: 2026-04-16)
-- [nvidia-nat-strands 1.7.0a20260416](https://pypi.org/project/nvidia-nat-strands/1.7.0a20260416/) (Published: 2026-04-16)
-- [nvidia-nat-phoenix 1.7.0a20260416](https://pypi.org/project/nvidia-nat-phoenix/1.7.0a20260416/) (Published: 2026-04-16)
-- [Cadence, Nvidia expand partnership for accelerated engineering AI](https://www.verdict.co.uk/cadence-nvidia-expand-partnership/) (Published: 2026-04-16)
-- [Global Market for Computing and AI for Data Centers 2026-2040: AI ASICs is the Fastest-growing Processor Category, As Companies Including Google, Amazon, Microsoft, Meta Invest Heavily](https://www.globenewswire.com/news-release/2026/04/16/3275102/28124/en/Global-Market-for-Computing-and-AI-for-Data-Centers-2026-2040-AI-ASICs-is-the-Fastest-growing-Processor-Category-As-Companies-Including-Google-Amazon-Microsoft-Meta-Invest-Heavily.html) (Published: 2026-04-16)
-- [nvidia-nat-mcp 1.7.0a20260416](https://pypi.org/project/nvidia-nat-mcp/1.7.0a20260416/) (Published: 2026-04-16)
+- [TSMC profits soar 58% on AI chip demand from Apple, Nvidia](https://cryptobriefing.com/tsmc-profits-soar-58-on-ai-chip-demand-from-apple-nvidia/) (Published: 2026-04-16)
+- [Connected Vehicle and V2X Digital Twin Market Report 2026-2035 - Hardware Segment Holds 61% Share, Driven by Edge-Optimized Sensors and 5G Integration](https://www.globenewswire.com/news-release/2026/04/16/3275202/28124/en/Connected-Vehicle-and-V2X-Digital-Twin-Market-Report-2026-2035-Hardware-Segment-Holds-61-Share-Driven-by-Edge-Optimized-Sensors-and-5G-Integration.html) (Published: 2026-04-16)
+- [Moody’s CEO: AI has a trust problem – better models won’t fix it](https://fortune.com/2026/04/16/moodys-ceo-rob-fauber-ai-trust-problem/) (Published: 2026-04-16)
+- [Number Go Up](https://www.motherjones.com/politics/2026/04/number-go-up/) (Published: 2026-04-16)
+- [Strong ASML, TSMC forecasts signal AI spending boom is intact](https://www.channelnewsasia.com/business/strong-asml-tsmc-forecasts-signal-ai-spending-boom-intact-6060766) (Published: 2026-04-16)
+- [AI Native Market Research and Forecast Report 2026-2032 with Deep Dives Into Cursor/Anysphere, Lovable, Replit, Tessl, Windsurf, and the Hyperscale Plays from Microsoft, Google, and AWS](https://www.globenewswire.com/news-release/2026/04/16/3275150/28124/en/AI-Native-Market-Research-and-Forecast-Report-2026-2032-with-Deep-Dives-Into-Cursor-Anysphere-Lovable-Replit-Tessl-Windsurf-and-the-Hyperscale-Plays-from-Microsoft-Google-and-AWS.html) (Published: 2026-04-16)
+- [Taiwan's chipmaker TSMC reports 58% jump in profit, warns about Iran war impacts](https://www.seattlepi.com/news/world/article/taiwan-s-chipmaker-tsmc-reports-58-profit-jump-22209550.php) (Published: 2026-04-16)
+- [Taiwan's chipmaker TSMC reports 58% jump in profit, warns about Iran war impacts](https://abcnews.com/Business/wireStory/taiwans-chipmaker-tsmc-reports-58-jump-profit-warns-132091419) (Published: 2026-04-16)
+- [Physical Artificial Intellligence (AI) Research Report 2026: A $3.25 Trillion Market by 2040 from $383 Billion in 2026 with Untapped Potential Across Healthcare, Smart Infrastructure, and Agriculture](https://www.globenewswire.com/news-release/2026/04/16/3275135/28124/en/Physical-Artificial-Intellligence-AI-Research-Report-2026-A-3-25-Trillion-Market-by-2040-from-383-Billion-in-2026-with-Untapped-Potential-Across-Healthcare-Smart-Infrastructure-and.html) (Published: 2026-04-16)
