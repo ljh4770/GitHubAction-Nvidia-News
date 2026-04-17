@@ -1,11 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-17 02:06:59**_
+_Last updated: **2026-04-17 05:09:38**_
 
-- [I'm pleasantly surprised by what NVIDIA GeForce Now costs in India](https://www.androidcentral.com/gaming/nvidia-geforce-now-india-pricing-launch-details) (Published: 2026-04-16)
-- [I tested NVIDIA's GeForce Now in India — here's why it is the best cloud gaming service](https://www.androidcentral.com/gaming/i-tested-nvidia-geforce-now-in-india-it-is-the-best-cloud-gaming-service) (Published: 2026-04-16)
-- [3 amazing ASX ETFs that are beginner-friendly](https://www.fool.com.au/2026/04/16/3-amazing-asx-etfs-that-are-beginner-friendly/) (Published: 2026-04-16)
-- [IP65-rated TWOWIN T808P-G Edge AI computer features 8x GMSL2 cameras, aviation-grade M12/M16 connectors](https://www.cnx-software.com/2026/04/16/ip65-rated-twowin-t808p-g-edge-ai-computer-features-8x-gmsl2-cameras-aviation-grade-m12-m16-connectors/) (Published: 2026-04-16)
-- [NVIDIA Launches "Ising": The World's First Open AI Models for Quantum Computing](https://www.c-sharpcorner.com/news/nvidia-launches-quotisingquot-the-worldsharp39s-first-open-ai-models-for-quantum-computing) (Published: 2026-04-16)
-- [AI optimization: 7 powerful techniques you can use today!](https://www.redhat.com/en/blog/ai-optimization-7-powerful-techniques-you-can-use-today) (Published: 2026-04-16)
-- [How to Build Vision AI Pipelines Using DeepStream Coding Agents](https://developer.nvidia.com/blog/how-to-build-vision-ai-pipelines-using-deepstream-coding-agents/) (Published: 2026-04-15)
-- [nemo-retriever 2026.4.15.dev62](https://pypi.org/project/nemo-retriever/2026.4.15.dev62/) (Published: 2026-04-15)
+- [Nvidia’s Huang Says Mythos Shows Need for US-China AI Dialogue](https://financialpost.com/pmn/business-pmn/nvidias-huang-says-mythos-shows-need-for-us-china-ai-dialogue) (Published: 2026-04-16)
+- [livekit-plugins-nvidia 1.5.4](https://pypi.org/project/livekit-plugins-nvidia/1.5.4/) (Published: 2026-04-16)
+- [Musk's impending SpaceX financial revolution, deceiving the world through propaganda](https://english.gossiplankanews.com/2026/04/musks-impending-spacex-financial.html) (Published: 2026-04-16)
+- [Cadence, Nvidia deepen AI partnership to reshape chip design and robotics](https://www.digitimes.com/news/a20260416VL200/cadence-nvidia-eda-partnership-ai-agent-robotics.html) (Published: 2026-04-16)
+- [Y Combinator-backed HockeyStack secures $50M, launches AI revenue agents](https://cryptobriefing.com/hockeystack-ai-revenue-agents/) (Published: 2026-04-16)
+- [ainfera-sdk 0.3.0](https://pypi.org/project/ainfera-sdk/0.3.0/) (Published: 2026-04-16)
+- [Analysis: Nvidia links RISC-V to NVLink with SiFive investment](https://www.digitimes.com/news/a20260415PD223/risc-v-nvidia-sifive-investment-arm.html) (Published: 2026-04-16)
+- [Samsung targets May HBM4E samples for Nvidia after validation](https://www.digitimes.com/news/a20260416VL207/samsung-hbm4-dram-nvidia.html) (Published: 2026-04-16)
+- [Michael Dell enters list of Top 10 Wealth Gainers for 2026, and he may need to thank Nvidia for this](https://timesofindia.indiatimes.com/technology/tech-news/michael-dell-enters-list-of-top-10-wealth-gainers-for-2026-and-he-may-need-to-thank-nvidia-for-this/articleshow/130296688.cms) (Published: 2026-04-16)
+- [TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand](https://economictimes.indiatimes.com/tech/technology/tsmc-set-to-post-50-quarterly-profit-jump-extend-record-earnings-on-insatiable-ai-demand/articleshow/130296497.cms) (Published: 2026-04-16)
