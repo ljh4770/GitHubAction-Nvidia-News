@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-17 23:49:55**_
+_Last updated: **2026-04-18 01:04:50**_
 
+- [Autopilot, agentic AI, and the dangers of imperfect metaphors](https://uxdesign.cc/autopilot-agentic-ai-and-the-dangers-of-imperfect-metaphors-d94e96575153) (Published: 2026-04-17)
+- [Senior Machine Learning Scientist – Advanced AI & Automation](https://nlppeople.com/job/senior-machine-learning-scientist-advanced-ai-automation/) (Published: 2026-04-17)
 - [nemo-retriever 2026.4.16.dev63](https://pypi.org/project/nemo-retriever/2026.4.16.dev63/) (Published: 2026-04-16)
 - [Computer has pop ups](https://www.bleepingcomputer.com/forums/t/815512/computer-has-pop-ups/) (Published: 2026-04-16)
 - [Show HN: Rebuilt SETI Home but for AI](https://github.com/Agent-FM/agentfm-core) (Published: 2026-04-16)
@@ -9,4 +11,3 @@ _Last updated: **2026-04-17 23:49:55**_
 - [News of the day: First-time homebuyers, mortgage rates, Xanadu valuation, AI banking, tax filing tips and more](https://financialpost.com/uncategorized/news-of-the-day-first-time-homebuyers-mortgage-rates-xanadu-valuation-ai-banking-tax-filing-tips-and-more) (Published: 2026-04-16)
 - [Nvidia's Newest GPUs Are Costing 1,000% More In Warranty Claims - Here's What We Know](https://www.bgr.com/2150157/nvidia-new-graphics-cards-1000-percent-more-warranty-claims/) (Published: 2026-04-16)
 - [SpaceX IPO yet to come, but here’s how investors can cash in on Space right now](https://economictimes.indiatimes.com/news/international/us/spacex-ipo-yet-to-come-but-heres-how-investors-can-cash-in-on-space-right-now/articleshow/130316474.cms) (Published: 2026-04-16)
-- [White House Is Reportedly Ready to Drop Its Anthropic Beef and Embrace the Spooky New Model](https://gizmodo.com/white-house-is-reportedly-ready-to-drop-its-anthropic-beef-and-embrace-the-spooky-new-model-2000747561) (Published: 2026-04-16)
