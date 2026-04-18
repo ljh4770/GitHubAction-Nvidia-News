@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-18 21:21:05**_
+_Last updated: **2026-04-18 21:54:47**_
 
+- [‘The face thing is probably going to break’ — Sam Altman-backed firm warns AI will soon outgrow facial recognition, but says its ‘proof of human’ system World ID could be part of the solution](https://www.techradar.com/ai-platforms-assistants/the-face-thing-is-probably-going-to-break-sam-altman-backed-firm-warns-ai-will-soon-outgrow-facial-recognition-but-says-its-proof-of-human-system-world-id-could-be-part-of-the-solution) (Published: 2026-04-17)
 - [Dell and Nvidia turn AI infrastructure into the new power center of enterprise tech](https://siliconangle.com/2026/04/17/dell-nvidia-push-ai-infrastructure-aifactoriesdatacenters/) (Published: 2026-04-17)
 - [Ranjan Roy: Nvidia faces fierce competition from Google and Amazon, the significance of GPUs in AI model training, and the geopolitical risks of export controls | Big Technology](https://cryptobriefing.com/ranjan-roy-nvidia-faces-fierce-competition-from-google-and-amazon-the-significance-of-gpus-in-ai-model-training-and-the-geopolitical-risks-of-export-controls-big-technology/) (Published: 2026-04-17)
 - [Steam Runs On Nintendo Switch Using Valve's Proton Linux Beta](https://hothardware.com/news/steam-runs-on-nintendo-switch-using-valves-proton-linux-beta) (Published: 2026-04-17)
@@ -9,4 +10,3 @@ _Last updated: **2026-04-18 21:21:05**_
 - [China Makes Major Move To Challenge U.S. For Key Tech Dominance](https://freerepublic.com/focus/f-news/4375328/posts) (Published: 2026-04-17)
 - [Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges | TechCrunch](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/) (Published: 2026-04-17)
 - [Perspective: AI demand is inflated, and only Anthropic is being realistic](https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html) (Published: 2026-04-17)
-- [3 reasons why the Vanguard MSCI Index International Shares ETF is a great buy for wealth building](https://www.fool.com.au/2026/04/18/3-reasons-why-the-vanguard-msci-index-international-shares-etf-is-a-great-buy-for-wealth-building/) (Published: 2026-04-17)
