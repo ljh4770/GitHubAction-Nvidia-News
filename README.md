@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-18 07:52:23**_
+_Last updated: **2026-04-18 08:40:07**_
 
 - [Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms](https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html) (Published: 2026-04-17)
 - [NVIDIA To Address Budget Gaming Market With RTX 3060 12 GB As RTX 5050 9 GB Pushed Back](https://wccftech.com/nvidia-address-budget-gaming-market-with-rtx-3060-12-gb-as-rtx-5050-9-gb-delayed/) (Published: 2026-04-17)
