@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-18 22:34:03**_
+_Last updated: **2026-04-18 23:06:08**_
 
+- [Purpose Investments Inc. Announces April 2026 Distributions](https://financialpost.com/globe-newswire/purpose-investments-inc-announces-april-2026-distributions) (Published: 2026-04-17)
+- [Purpose Investments Inc. Announces April 2026 Distributions](https://www.globenewswire.com/news-release/2026/04/17/3276537/0/en/Purpose-Investments-Inc-Announces-April-2026-Distributions.html) (Published: 2026-04-17)
+- [AMD UALink strategy: Can AMD disrupt AI data center dominance as open interconnect challenges NVIDIA NVLink ecosystem control?](https://economictimes.indiatimes.com/news/international/us/amd-ualink-strategy-can-amd-disrupt-ai-data-center-dominance-as-open-interconnect-challenges-nvidia-nvlink-ecosystem-control/articleshow/130342517.cms) (Published: 2026-04-17)
+- [Full-Stack Optimizations for Agentic Inference with NVIDIA Dynamo](https://developer.nvidia.com/blog/full-stack-optimizations-for-agentic-inference-with-nvidia-dynamo/) (Published: 2026-04-17)
 - [This TSX stock soared over 400% with help from Nvidia. Where will it go from here?](https://financialpost.com/investing/this-tsx-stock-soared-help-nvidia) (Published: 2026-04-17)
 - [‘The face thing is probably going to break’ — Sam Altman-backed firm warns AI will soon outgrow facial recognition, but says its ‘proof of human’ system World ID could be part of the solution](https://www.techradar.com/ai-platforms-assistants/the-face-thing-is-probably-going-to-break-sam-altman-backed-firm-warns-ai-will-soon-outgrow-facial-recognition-but-says-its-proof-of-human-system-world-id-could-be-part-of-the-solution) (Published: 2026-04-17)
 - [Dell and Nvidia turn AI infrastructure into the new power center of enterprise tech](https://siliconangle.com/2026/04/17/dell-nvidia-push-ai-infrastructure-aifactoriesdatacenters/) (Published: 2026-04-17)
 - [Ranjan Roy: Nvidia faces fierce competition from Google and Amazon, the significance of GPUs in AI model training, and the geopolitical risks of export controls | Big Technology](https://cryptobriefing.com/ranjan-roy-nvidia-faces-fierce-competition-from-google-and-amazon-the-significance-of-gpus-in-ai-model-training-and-the-geopolitical-risks-of-export-controls-big-technology/) (Published: 2026-04-17)
 - [Steam Runs On Nintendo Switch Using Valve's Proton Linux Beta](https://hothardware.com/news/steam-runs-on-nintendo-switch-using-valves-proton-linux-beta) (Published: 2026-04-17)
-- [Amazon stock hits record high, challenges Nvidia’s market cap lead](https://cryptobriefing.com/amazon-stock-hits-record-high-challenges-nvidias-market-cap-lead/) (Published: 2026-04-17)
-- [Anthropic’s new cybersecurity model could get it back in the government’s good graces](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview) (Published: 2026-04-17)
-- [China Makes Major Move To Challenge U.S. For Key Tech Dominance](https://freerepublic.com/focus/f-news/4375328/posts) (Published: 2026-04-17)
-- [Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges | TechCrunch](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/) (Published: 2026-04-17)
