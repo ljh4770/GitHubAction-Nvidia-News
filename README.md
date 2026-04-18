@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-18 19:27:38**_
+_Last updated: **2026-04-18 20:02:01**_
 
 - [Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges | TechCrunch](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/) (Published: 2026-04-17)
 - [Perspective: AI demand is inflated, and only Anthropic is being realistic](https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html) (Published: 2026-04-17)
