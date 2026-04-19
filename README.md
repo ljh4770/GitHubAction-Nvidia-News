@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-19 01:12:50**_
+_Last updated: **2026-04-19 04:24:16**_
 
+- [Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings](https://economictimes.indiatimes.com/tech/technology/nvidia-rival-cerebras-discloses-us-ipo-filing-as-ai-boom-drives-listings/articleshow/130345619.cms) (Published: 2026-04-18)
 - [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/) (Published: 2026-04-18)
 - [AI chip developer Cerebras Systems files to go public amid rapid revenue growth](https://siliconangle.com/2026/04/17/ai-chip-developer-cerebras-systems-files-go-public-amid-rapid-revenue-growth/) (Published: 2026-04-17)
 - [Purpose Investments Inc. Announces April 2026 Distributions](https://financialpost.com/globe-newswire/purpose-investments-inc-announces-april-2026-distributions) (Published: 2026-04-17)
