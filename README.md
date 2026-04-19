@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-19 19:28:39**_
+_Last updated: **2026-04-19 20:02:42**_
 
 - [AI chip startup Cerebras files for IPO | TechCrunch](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/) (Published: 2026-04-18)
 - [Show HN: Trained a 12M transformer on an ML framework we built from scratch](https://github.com/mni-ml/framework) (Published: 2026-04-18)
