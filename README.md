@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-19 20:51:07**_
+_Last updated: **2026-04-19 21:24:52**_
 
+- [Bank of America revamps AMD stock price target](https://www.thestreet.com/investing/stocks/bank-of-america-revamps-amd-stock-price-target) (Published: 2026-04-18)
+- [Jim Cramer on NVIDIA: “When It Comes to GPUs and Service, I Want to Go With Jensen”](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c04709cb-8a53-46f4-93f3-682094390207) (Published: 2026-04-18)
 - [AI chip startup Cerebras files for IPO | TechCrunch](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/) (Published: 2026-04-18)
 - [Show HN: Trained a 12M transformer on an ML framework we built from scratch](https://github.com/mni-ml/framework) (Published: 2026-04-18)
 - [Intel Poised to Land Major Foundry Deals for Advanced 14A Chip Fab](https://hothardware.com/news/intel-poised-major-foundry-deals-14a) (Published: 2026-04-18)
@@ -9,5 +11,3 @@ _Last updated: **2026-04-19 20:51:07**_
 - [JPMorgan has stark message on Qualcomm stock](https://www.thestreet.com/investing/stocks/jpmorgan-has-a-stark-message-on-qualcomm-stock) (Published: 2026-04-18)
 - [nsys2prv 0.6.0.dev2604181](https://pypi.org/project/nsys2prv/0.6.0.dev2604181/) (Published: 2026-04-18)
 - [Trump, When Asked About White House Meeting with Anthropic’s Dario Amodei: ‘Who?’](https://gizmodo.com/trump-when-asked-about-white-house-meeting-with-anthropics-dario-amodei-who-2000748236) (Published: 2026-04-18)
-- [Nvidia CEO Jensen Huang loses his cool — here’s what sparked it](https://economictimes.indiatimes.com/news/international/us/nvidia-ceo-jensen-huang-loses-his-cool-heres-what-sparked-it/articleshow/130358792.cms) (Published: 2026-04-18)
-- [Graphs That Explain the State of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026) (Published: 2026-04-18)
