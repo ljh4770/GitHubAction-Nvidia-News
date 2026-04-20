@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-20 19:32:55**_
+_Last updated: **2026-04-20 20:22:48**_
 
+- [Cthulhu The Cosmic Abyss PC Performance Analysis & Tuning Guide – How To Get Best Experience On PC](https://wccftech.com/how-to/cthulhu-the-cosmic-abyss-pc-performance-analysis-tuning-guide/) (Published: 2026-04-19)
 - [Tesla Fab Chip Partners are Critical for the Next Few Years](https://www.nextbigfuture.com/2026/04/tesla-fab-chip-partners-are-critical-for-the-next-few-years.html) (Published: 2026-04-19)
 - [I want to retire but I have to keep working so my adult kids have insurance. What should I do?](https://247wallst.com/investing/2026/04/19/i-want-to-retire-but-i-have-to-keep-working-so-my-adult-kids-have-insurance-what-should-i-do/) (Published: 2026-04-19)
 - [Microsoft is forcing Windows 11 PCs to 25H2 whether you're ready or not](https://www.xda-developers.com/microsoft-is-forcing-windows-11-pcs-to-upgrade-to-25h2/) (Published: 2026-04-19)
@@ -10,4 +11,3 @@ _Last updated: **2026-04-20 19:32:55**_
 - [Google develops AI chips to challenge Nvidia’s market dominance](https://cryptobriefing.com/google-develops-ai-chips-to-challenge-nvidias-market-dominance/) (Published: 2026-04-19)
 - [Mastercard Hasn’t Been This Cheap Since 2022. Time to Buy?](https://247wallst.com/investing/2026/04/19/mastercard-hasnt-been-this-cheap-since-2022-time-to-buy/) (Published: 2026-04-19)
 - [Cursor may raise $2 billion at $50 billion valuation](https://economictimes.indiatimes.com/tech/funding/cursor-may-raise-2-billion-at-50-billion-valuation/articleshow/130372452.cms) (Published: 2026-04-19)
-- [Google is in talks with Marvell to build custom AI inference chips as it diversifies beyond Broadcom](https://thenextweb.com/news/google-marvell-ai-chips-inference-tpu-broadcom/) (Published: 2026-04-19)
