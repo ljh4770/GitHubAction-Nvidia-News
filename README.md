@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-22 15:23:28**_
+_Last updated: **2026-04-22 16:35:58**_
 
-- [Boomi builds a role for agents and guardrails in the data-connected enterprise](https://siliconangle.com/2026/04/21/boomi-builds-data-activation-agents-guardrails-boomiworld/) (Published: 2026-04-21)
-- [Why US stock market suddenly crashes today? Dow Jones, S&P 500, Nasdaq fall after opening higher as rally fades and risks return](https://economictimes.indiatimes.com/news/international/us/why-us-stock-market-suddenly-crashes-today-dow-jones-sp-500-nasdaq-fall-after-opening-higher-as-rally-fades-and-risks-return/articleshow/130420978.cms) (Published: 2026-04-21)
-- [TSMC can't keep up with AI chip demand, with shortages projected to last beyond 2027](https://www.tweaktown.com/news/111178/tsmc-cant-keep-up-with-ai-chip-demand-with-shortages-projected-to-last-beyond-2027/index.html) (Published: 2026-04-21)
-- [mahanai 4.4.10](https://pypi.org/project/mahanai/4.4.10/) (Published: 2026-04-21)
-- [NVIDIA Corporation (NVDA): Nancy Pelosi Is Bullish on This Chip Giant](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_89011d77-0cf0-4392-b1f8-14dd56fc699d) (Published: 2026-04-21)
-- [AMD May Finally Add Multi-Frame Generation Support for Its Latest GPUs](https://uk.pcmag.com/graphics-cards/164530/amd-may-finally-add-multi-frame-generation-support-for-its-latest-gpus) (Published: 2026-04-21)
-- [AMD May Finally Add Multi-Frame Generation Support for Its Latest GPUs](https://me.pcmag.com/en/graphics-cards/36689/amd-may-finally-add-multi-frame-generation-support-for-its-latest-gpus) (Published: 2026-04-21)
-- [OpenAI recruits Cognizant and CGI to take Codex into enterprise software shops worldwide](https://thenextweb.com/news/openai-codex-enterprise-partners-cognizant-cgi/) (Published: 2026-04-21)
-- [Lovable left thousands of projects exposed for 48 days, and the vibe coding security crisis is only getting worse](https://thenextweb.com/news/lovable-vibe-coding-security-crisis-exposed/) (Published: 2026-04-21)
-- [NDIV Targets 10% Annual Income From Energy Stocks, but Three Holdings Pose Real Risk](https://247wallst.com/investing/2026/04/21/ndiv-targets-10-annual-income-from-energy-stocks-but-three-holdings-pose-real-risk/) (Published: 2026-04-21)
+- [Anthropic and Status of AI Data Centers](https://www.nextbigfuture.com/2026/04/anthropic-and-status-of-ai-data-centers.html) (Published: 2026-04-21)
+- [Why Pressure Feels Like a Problem (Even When It's Right)](https://www.psychologytoday.com/us/blog/made-under-pressure/202604/why-pressure-feels-like-a-problem-even-when-its-right) (Published: 2026-04-21)
+- [AMD Prepares FSR Update with Multi-Frame Generation](https://www.techpowerup.com/348402/amd-prepares-fsr-update-with-multi-frame-generation) (Published: 2026-04-21)
+- [Intel results to show if supply chain issues are dimming its AI ambitions](https://economictimes.indiatimes.com/tech/technology/intel-results-to-show-if-supply-chain-issues-are-dimming-its-ai-ambitions/articleshow/130422164.cms) (Published: 2026-04-21)
+- [CachyOS is the Arch Linux distro to try if you want serious speed and performance](https://www.zdnet.com/article/catchos-arch-linux-hands-on/) (Published: 2026-04-21)
+- [Nvidia Stock-Split: 2 Years and $1.5 Trillion Later, Can It Reach $1,200 Again?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_224bba08-6cbe-4e1b-9028-6143b35b64dd) (Published: 2026-04-21)
+- [Anthropic's latest AI model is sparking fears from cybersecurity experts and the banking sector. Here's why.](https://www.cbc.ca/news/business/mythos-anthropic-ai-explainer-9.7171597) (Published: 2026-04-21)
+- [Intel results to show if supply chain issues are dimming its AI ambitions](https://finance.yahoo.com/sectors/technology/articles/intel-results-show-supply-chain-160155896.html) (Published: 2026-04-21)
+- [Intel results to show if supply chain issues are dimming its AI ambitions](https://www.channelnewsasia.com/business/intel-results-show-if-supply-chain-issues-are-dimming-its-ai-ambitions-6071401) (Published: 2026-04-21)
