@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-23 06:20:11**_
+_Last updated: **2026-04-23 08:14:06**_
 
+- [Australia and New Zealand central banks monitoring Anthropic's Mythos release](https://www.channelnewsasia.com/business/australia-and-new-zealand-central-banks-monitoring-anthropics-mythos-release-6073091) (Published: 2026-04-22)
+- [Europe has the talent and dunding to win at AI. First, it needs to break free from the Magnificent Seven](https://fortune.com/2026/04/22/europe-talent-funding-to-win-ai-break-shackles-of-magnificent-seven/) (Published: 2026-04-22)
+- [Google launches Gemini Agent Platform, eighth-generation TPUs](https://www.computerweekly.com/news/366641999/Google-launches-Gemini-Agent-Platform-eighth-generation-TPUs) (Published: 2026-04-22)
+- [Unauthorized users gained access to Anthropic’s restricted Mythos AI model on launch day via a third-party contractor’s environment](https://thenextweb.com/news/anthropic-mythos-unauthorized-access-vendor-breach/) (Published: 2026-04-22)
+- [Anthropic probes unauthorized access to Mythos AI model](https://www.digitaljournal.com/business/anthropic-probes-unauthorized-access-to-mythos-ai-model/article) (Published: 2026-04-22)
+- [Meet the film school dropout who became a billionaire quantum computing CEO in days thanks to Nvidia](https://fortune.com/2026/04/22/christian-weedbrook-ceo-xanadu-quantum-technologies-net-worth-nvidia/) (Published: 2026-04-22)
+- [Craving work-life balance is a huge red flag, says Fortune 500 CEO—and like Barack Obama, he happily works through the weekends](https://fortune.com/2026/04/22/work-life-balance-bupa-fortune-500-ceo-barack-obama-work-weekend/) (Published: 2026-04-22)
+- [Coinlocally Lists Tesla, Amazon, Apple, More Tokenized Stock Pairs, Launches Zero-Fee Trading Campaign](https://www.globenewswire.com/news-release/2026/04/22/3278683/0/en/Coinlocally-Lists-Tesla-Amazon-Apple-More-Tokenized-Stock-Pairs-Launches-Zero-Fee-Trading-Campaign.html) (Published: 2026-04-22)
+- [Paisalo Digital shares hit 52-week high as company announces full AI overhaul](https://www.thehindubusinessline.com/markets/stock-markets/paisalo-digital-shares-hits-52-week-high-as-company-announces-full-ai-overhaul/article70891560.ece) (Published: 2026-04-22)
 - [A tsunami of flaws: When frontier AI and Patch Tuesday collide](https://www.computerweekly.com/news/366641789/A-tsunami-of-flaws-When-frontier-AI-and-Patch-Tuesday-collide) (Published: 2026-04-22)
-- [Syngenta Deploys Tetra OS to Accelerate Scientific Discovery Through Industrial-Scale Data Automation](https://www.globenewswire.com/news-release/2026/04/22/3278663/0/en/Syngenta-Deploys-Tetra-OS-to-Accelerate-Scientific-Discovery-Through-Industrial-Scale-Data-Automation.html) (Published: 2026-04-22)
-- [Switch and SUSE Advance Digital Twin Innovation with NVIDIA](https://www.globenewswire.com/news-release/2026/04/22/3278660/0/en/Switch-and-SUSE-Advance-Digital-Twin-Innovation-with-NVIDIA.html) (Published: 2026-04-22)
-- [Report: Data Center Electricity Demand Rising, Impacting Grid Capacity and Policy Debates](https://www.naturalnews.com/2026-04-22-report-data-center-electricity-demand-significantly-rising.html) (Published: 2026-04-22)
-- [AMD Prepares FSR Update with Multi-Frame Generation](https://www.madshrimps.be/news/amd-prepares-fsr-update-with-multi-frame-generation/) (Published: 2026-04-22)
-- [nvd-claude-proxy 0.4.5](https://pypi.org/project/nvd-claude-proxy/0.4.5/) (Published: 2026-04-22)
-- [MSI AEGIS R2 A14NVR9-1406US Desktop PC, IntelÂ® Coreâ¢ i9-14900F, 32GB DDR5, 2TB M.2 NVMe Gen4, NVIDIAÂ® GeForce RTX 5070 Ti, Windows 11 Home (Factory Reconditioned) $1799.99 (2 replies)](https://slickdeals.net/f/19446774-msi-aegis-r2-a14nvr9-1406us-desktop-pc-intel-core-i9-14900f-32gb-ddr5-2tb-m-2-nvme-gen4-nvidia-geforce-rtx-5070-ti-windows-11-home-factory-reconditioned-1799-99) (Published: 2026-04-22)
-- [Inside the AI startup Elon Musk is betting $60 billion on](https://www.businessinsider.com/ai-coding-startup-cursor-elon-musk-60-billion-spacex-deal-2026-4) (Published: 2026-04-22)
-- [DLSS 4.5 SDK now available for developers, includes new Dynamic Frame Generation](https://www.tweaktown.com/news/111186/dlss-4-5-sdk-now-available-for-developers-includes-new-dynamic-frame-generation/index.html) (Published: 2026-04-22)
-- [Top thin and light laptops under 1.5kg you can buy right now](https://indianexpress.com/article/technology/tech-news-technology/top-thin-and-light-laptops-under-1-5kg-you-can-buy-right-now-10648493/) (Published: 2026-04-22)
