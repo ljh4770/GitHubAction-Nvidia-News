@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-25 12:28:45**_
+_Last updated: **2026-04-25 13:46:08**_
 
-- [Luna Abyss Locks May 21 Release as Kwalee’s Junji Ito-Inspired Bullet Hell FPS Targets 2026’s Indie Crown](https://wccftech.com/luna-abyss-release-date-may-21-2026/) (Published: 2026-04-24)
-- [Meta strikes deal with Amazon's cloud unit to use its CPU chips](https://www.channelnewsasia.com/business/meta-strikes-deal-amazons-cloud-unit-use-its-cpu-chips-6079071) (Published: 2026-04-24)
-- [Meta will adopt hundreds of thousands of AWS Graviton chips in latest AI infrastructure grab](https://www.cnbc.com/2026/04/24/meta-will-use-hundreds-of-thousands-of-aws-graviton-chips.html) (Published: 2026-04-24)
-- [In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs | TechCrunch](https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/) (Published: 2026-04-24)
-- [Intel share price: IT giant stocks predicted to surpass ⁠dot-com era peak in 2000, company's market value may hit over $420 billion](https://economictimes.indiatimes.com/news/international/us/intel-share-price-it-giant-stocks-predicted-to-surpass-dot-com-era-peak-in-2000-companys-market-value-may-hit-over-420-billion/articleshow/130493207.cms) (Published: 2026-04-24)
-- [China’s DeepSeek V4 shocks with power and price — but is it moving too fast to survive?](https://economictimes.indiatimes.com/news/international/us/chinas-deepseek-v4-shocks-with-power-and-price-but-is-it-moving-too-fast-to-survive/articleshow/130493007.cms) (Published: 2026-04-24)
-- [Lidl Billionaire Backs Cohere’s Plan to Buy German AI Champion](https://financialpost.com/pmn/business-pmn/lidl-billionaire-backs-coheres-plan-to-buy-german-ai-champion) (Published: 2026-04-24)
-- [SLB to Acquire S&P Global’s Subsurface Oil Software Business](https://financialpost.com/pmn/business-pmn/slb-to-acquire-sp-globals-subsurface-oil-software-business) (Published: 2026-04-24)
-- [WeRide WRD 3.0 Unlocks Multi-Chip Platform Compatibility, Driving ADAS Democratization](https://www.globenewswire.com/news-release/2026/04/24/3280709/0/en/WeRide-WRD-3-0-Unlocks-Multi-Chip-Platform-Compatibility-Driving-ADAS-Democratization.html) (Published: 2026-04-24)
+- [Cosmetics Market Size Forecasted to Reach USD 802.04 Billion By 2035 Rising Demand for Natural Beauty and Personal Care](https://www.globenewswire.com/news-release/2026/04/24/3280886/0/en/Cosmetics-Market-Size-Forecasted-to-Reach-USD-802-04-Billion-By-2035-Rising-Demand-for-Natural-Beauty-and-Personal-Care.html) (Published: 2026-04-24)
+- [Meta strikes deal with Amazon's cloud unit to use its CPU chips](https://economictimes.indiatimes.com/tech/technology/meta-strikes-deal-with-amazons-cloud-unit-to-use-its-cpu-chips/articleshow/130495814.cms) (Published: 2026-04-24)
+- [At Next, Google aims to dominate the dawning age of agentic AI](https://siliconangle.com/2026/04/24/next-google-aims-dominate-dawning-age-agentic-ai/) (Published: 2026-04-24)
+- [SpaceX is reportedly set to make its own GPUs — but don't think it'll be competing with Nvidia's GeForce cards](https://www.techradar.com/computing/gpu/spacex-is-reportedly-set-to-make-its-own-gpus-but-dont-think-itll-be-competing-with-nvidias-geforce-cards) (Published: 2026-04-24)
+- [Google Exec Says Your Favorite Video Games Are Secretly Made With AI](http://futurism.com/artificial-intelligence/google-exec-video-games-secretly-ai) (Published: 2026-04-24)
+- [Intel Stock Surges 29% After Stellar Earnings. Why AI Can Drive the Rally Further.](https://freerepublic.com/focus/f-chat/4376253/posts) (Published: 2026-04-24)
+- [One bankruptcy just wiped out a popular Google TV lineup in Europe](https://www.androidcentral.com/streaming-tv/one-bankruptcy-just-wiped-out-a-popular-google-tv-lineup-in-europe) (Published: 2026-04-24)
+- [Canada’s Cohere buys Germany’s Aleph Alpha to take on US AI giants](https://www.digitaljournal.com/business/canadian-ai-firm-cohere-buys-aleph-alpha-in-bid-to-take-on-silicon-valley/article) (Published: 2026-04-24)
+- [These 6 games will destroy your 8GB GPU, and here's how to survive them](https://www.makeuseof.com/these-games-will-destroy-your-8gb-gpu-how-to-survive-them/) (Published: 2026-04-24)
+- [videosdk-plugins-nvidia 1.0.10](https://pypi.org/project/videosdk-plugins-nvidia/1.0.10/) (Published: 2026-04-24)
