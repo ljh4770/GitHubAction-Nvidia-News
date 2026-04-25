@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-25 09:05:12**_
+_Last updated: **2026-04-25 10:01:19**_
 
-- [AI-Powered Clinical Trial Site Feasibility Research Report 2026: $4.38 Bn Market Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/04/24/3280609/28124/en/AI-Powered-Clinical-Trial-Site-Feasibility-Research-Report-2026-4-38-Bn-Market-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html) (Published: 2026-04-24)
-- [secretvm-verify 0.8.1](https://pypi.org/project/secretvm-verify/0.8.1/) (Published: 2026-04-24)
-- [Intel AI processor demand impacts Nvidia’s market cap prospects for June 30](https://cryptobriefing.com/intel-ai-processor-demand-impacts-nvidias-market-cap-prospects-for-june-30/) (Published: 2026-04-24)
-- [Ubuntu 26.04 ('Resolute Raccoon') LTS is out now](https://www.gamingonlinux.com/2026/04/ubuntu-26-04-resolute-raccoon-lts-is-out-now/.) (Published: 2026-04-24)
-- [China’s DeepSeek unveils latest models a year after upending global tech - Al Jazeera](https://slashdot.org/firehose.pl?op=view&amp;id=182000410) (Published: 2026-04-24)
-- [China's DeepSeek launches an update of its AI model](https://www.wsbtv.com/news/business/chinas-deepseek/SDBKXJWGOE237FPCM4IXCJL6JY/) (Published: 2026-04-24)
-- [Show HN: Founder Decision Engine](https://github.com/michaelaz774/decision-engine) (Published: 2026-04-24)
-- [Five things to know about Chinese AI startup DeepSeek](https://www.vanguardngr.com/2026/04/five-things-to-know-about-chinese-ai-startup-deepseek/) (Published: 2026-04-24)
-- [Assassin’s Creed Black Flag Resynced: What’s new in the remake, release date, check pre-order bonus](https://economictimes.indiatimes.com/news/new-updates/assassins-creed-black-flag-resynced-whats-new-in-the-remake-release-date-check-pre-order-bonus/articleshow/130487434.cms) (Published: 2026-04-24)
+- [Intel Shares Eclipse Dot-Com Peak on AI-Fueled Sales Forecast](https://financialpost.com/pmn/business-pmn/intel-shares-eclipse-dot-com-peak-on-ai-fueled-sales-forecast) (Published: 2026-04-24)
+- [NVIDIA RTX A400 Graphics Driver 32.0.15.6603 for Windows 10 version 1809 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-A400-Graphics-Driver-32-0-15-6603-for-Windows-10-version-1809-64-bit.shtml) (Published: 2026-04-24)
+- [Chipmakers are on a 17-day heater. These 3 stocks could make or break the rally.](https://www.businessinsider.com/philadelphia-semiconductor-index-sox-streak-key-stocks-rally-nvidia-intel-2026-4) (Published: 2026-04-24)
+- [nvidia-nat-strands 1.7.0a20260424](https://pypi.org/project/nvidia-nat-strands/1.7.0a20260424/) (Published: 2026-04-24)
+- [China’s DeepSeek previews new AI model a year after jolting US rivals](https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model) (Published: 2026-04-24)
+- [mahanai 4.7.0](https://pypi.org/project/mahanai/4.7.0/) (Published: 2026-04-24)
+- [After tariff wars, Trump is opening a new front in US-China rivalry](https://economictimes.indiatimes.com/news/international/world-news/after-tariff-wars-trump-is-opening-a-new-front-in-us-china-rivalry-artificial-intelligence-defence-war/articleshow/130489411.cms) (Published: 2026-04-24)
+- [Intel soars on signs AI boom for CPUs is here](https://www.channelnewsasia.com/business/intel-soars-signs-ai-boom-cpus-here-6078696) (Published: 2026-04-24)
+- [nvidia-nat-mcp 1.7.0a20260424](https://pypi.org/project/nvidia-nat-mcp/1.7.0a20260424/) (Published: 2026-04-24)
+- [nvidia-nat-adk 1.7.0a20260424](https://pypi.org/project/nvidia-nat-adk/1.7.0a20260424/) (Published: 2026-04-24)
