@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-29 15:14:20**_
+_Last updated: **2026-04-29 16:54:48**_
 
-- [Step Into the Future With Acer Predator Helios Neo Gaming Laptop and Save $560](https://www.cnet.com/deals/acer-predator-helios-neo-16-ai-gaming-laptop-deal/) (Published: 2026-04-28)
-- [Why Nvidia, AMD, Intel stocks crash today: Magnificent Seven fall broadly as all open lower except Apple amid AI concerns and earnings pressure](https://economictimes.indiatimes.com/news/international/us/why-nvidia-amd-intel-stocks-crash-today-magnificent-seven-fall-broadly-as-all-open-lower-except-apple-amid-ai-concerns-and-earnings-pressure/articleshow/130583922.cms) (Published: 2026-04-28)
-- [United States AI in Media & Entertainment Market Forecast and Company Analysis Report 2026-2034](https://www.globenewswire.com/news-release/2026/04/28/3282948/28124/en/United-States-AI-in-Media-Entertainment-Market-Forecast-and-Company-Analysis-Report-2026-2034.html) (Published: 2026-04-28)
-- [Ubuntu 26.04 LTS Leads Over Windows 11 In Creator Workstation Performance](https://www.phoronix.com/review/ubuntu-2604-windows-11) (Published: 2026-04-28)
-- [This Gaming PC doesn't include any Intel, AMD, or NVIDIA hardware](https://www.tweaktown.com/news/111326/this-gaming-pc-doesnt-include-any-intel-amd-or-nvidia-hardware/index.html) (Published: 2026-04-28)
-- [Google Billionaire Sergey Brin Compares California Wealth Tax To Soviet Union Socialism](https://www.forbes.com/sites/maryroeloffs/2026/04/28/google-billionaire-sergey-brin-compares-california-wealth-tax-to-soviet-union-socialism/) (Published: 2026-04-28)
-- [SMH Was the One of the Best-Performing Non-Leveraged ETFs of the Last Decade. Here Is the Concentration Risk Investors Miss](https://247wallst.com/investing/2026/04/28/smh-was-the-one-of-the-best-performing-non-leveraged-etfs-of-the-last-decade-here-is-the-concentration-risk-investors-miss/) (Published: 2026-04-28)
-- [AIDA64 v8.30 Bakes In Support for Intel’s Nova Lake CPUs and AMD’s 2027 Medusa “Zen 6” APUs](https://wccftech.com/aida64-v8-30-next-gen-amd-zen-6-apus-expo-1-2-intel-nova-lake-cpus-support/) (Published: 2026-04-28)
-- [Trump rolls out the red carpet for King Charles and Queen Camilla as royals are formally welcomed with White House pomp and pageantry](https://www.dailymail.com/news/royals/article-15771915/Trump-red-carpet-King-Charles-Queen-Camilla-royal-welcome-state-visit.html) (Published: 2026-04-28)
-- [US stock market today: Why is Nasdaq crashing big today? Dow and S&P 500 slip as Nasdaq plunges over 300 points - Nvidia, AMD, Intel lead tech losses](https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-is-nasdaq-crashing-big-today-dow-and-sp-500-slip-as-nasdaq-plunges-over-300-points-nvidia-amd-intel-lead-tech-losses/articleshow/130583523.cms) (Published: 2026-04-28)
+- [NVIDIA Nemotron 3 Nano Omni model now available on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-omni-model-now-available-on-amazon-sagemaker-jumpstart/) (Published: 2026-04-28)
+- [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/) (Published: 2026-04-28)
+- [Market slumps as OpenAI reportedly misses internal targets for active users and revenue — Nvidia, Oracle, AMD, and CoreWeave shares all tremble on the ne](https://slashdot.org/firehose.pl?op=view&amp;id=183029310) (Published: 2026-04-28)
+- [ASUS ROG Strix G16 (2026)](https://thegadgetflow.com/product/asus-rog-strix-g16-gaming-laptop/) (Published: 2026-04-28)
+- [Amazon Pulls The Mag 7 Higher](https://247wallst.com/investing/2026/04/28/amazon-pulls-the-mag-7-higher/) (Published: 2026-04-28)
+- [IC Manage Advances GDP-AI for Custom IC Design with Virtuoso](https://www.globenewswire.com/news-release/2026/04/28/3283067/0/en/IC-Manage-Advances-GDP-AI-for-Custom-IC-Design-with-Virtuoso.html) (Published: 2026-04-28)
+- [Asus dual-screen Zephyrus Duo gaming laptop now available, if you can find it](https://mobilesyrup.com/2026/04/28/asus-zephyrus-duo-gaming-laptop-now-available/) (Published: 2026-04-28)
+- [Infosys, Accenture lead LinkedIn’s 2026 list of top companies for career growth in India](https://www.moneycontrol.com/news/business/infosys-accenture-lead-linkedin-s-2026-list-of-top-companies-for-career-growth-in-india-13902376.html) (Published: 2026-04-28)
+- [Laguna XS.2 and M.1](https://poolside.ai/blog/laguna-a-deeper-dive) (Published: 2026-04-28)
