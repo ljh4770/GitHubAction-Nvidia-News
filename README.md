@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-30 16:03:42**_
+_Last updated: **2026-04-30 17:40:12**_
 
-- [Why Is NVIDIA (NVDA) Among The Best Growth Stocks To Buy And Hold In 2026?](https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-among-best-160327904.html) (Published: 2026-04-29)
-- [Alphabet first-quarter results likely to show continued growth, boosted by cloud](https://www.cnbc.com/2026/04/29/alphabet-googl-q1-2026-earnings.html) (Published: 2026-04-29)
-- [My First Hour With NBA The Run: The Old-School Magic of NBA Jam Lives On](https://me.pcmag.com/en/microsoft-xbox-games/36837/my-first-hour-with-nba-the-run-the-old-school-magic-of-nba-jam-lives-on) (Published: 2026-04-29)
-- [My First Hour With NBA The Run: The Old-School Magic of NBA Jam Lives On](https://uk.pcmag.com/microsoft-xbox-games/164671/my-first-hour-with-nba-the-run-the-old-school-magic-of-nba-jam-lives-on) (Published: 2026-04-29)
-- [Samsung’s 6K gaming monitor is now available for purchase](https://www.sammobile.com/news/samsung-odyssey-g8-g80hs-6k-gaming-monitor-available-purchase/) (Published: 2026-04-29)
-- [US orders chip equipment companies to halt some shipments to China's No. 2 chipmaker Hua Hong](https://economictimes.indiatimes.com/tech/technology/us-orders-chip-equipment-companies-to-halt-some-shipments-to-chinas-no-2-chipmaker-hua-hong/articleshow/130612081.cms) (Published: 2026-04-29)
-- [LG Electronics and Nvidia are in talks on robotics, AI data centres, and mobility](https://thenextweb.com/news/lg-electronics-nvidia-talks-robotics-ai-data-centres/) (Published: 2026-04-29)
-- [nvd-claude-proxy 1.0.5](https://pypi.org/project/nvd-claude-proxy/1.0.5/) (Published: 2026-04-29)
-- [Yotta, Gorilla Technology expand India AI infra pact with $2.8 billion project](https://economictimes.indiatimes.com/tech/artificial-intelligence/yotta-gorilla-technology-expand-india-ai-infra-pact-with-2-8-billion-project/articleshow/130611365.cms) (Published: 2026-04-29)
-- [OpenAI GPT OSS and NVIDIA Nemotron Models Available on Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/04/openai-gpt-oss-nvidia-nemotron-govcloud/) (Published: 2026-04-29)
+- [Microsoft stock suffers worst quarterly decline since 2008 crisis](https://cryptobriefing.com/microsoft-stock-suffers-worst-quarterly-decline-since-2008-crisis/) (Published: 2026-04-29)
+- [Days before warning report, all 22 National Science Board members fired in two-sentence email](https://boingboing.net/2026/04/29/days-before-warning-report-all-22-national-science-board-members-fired-in-two-sentence-email.html) (Published: 2026-04-29)
+- [57% of Americans Say Their Portfolios Are Too Complex to Manage Alone](https://247wallst.com/personal-finance/2026/04/29/57-of-americans-say-their-portfolios-are-too-complex-to-manage-alone/) (Published: 2026-04-29)
+- [Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed](https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/) (Published: 2026-04-29)
+- [Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it - Ars Technica](https://slashdot.org/firehose.pl?op=view&amp;id=183055226) (Published: 2026-04-29)
+- [Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it](https://slashdot.org/firehose.pl?op=view&amp;id=183055204) (Published: 2026-04-29)
+- [HP vs. Dell: I've tested dozens of laptops from both brands, and here's my advice](https://www.zdnet.com/article/hp-vs-dell-laptops-comparison/) (Published: 2026-04-29)
+- [Big tech’s $16 trillion earnings week begins: Alphabet, Amazon, Meta, Microsoft report today and Apple tomorrow – here's what investors are watching](https://economictimes.indiatimes.com/news/international/us/big-techs-16-trillion-earnings-week-begins-alphabet-amazon-meta-microsoft-report-today-and-apple-tomorrow-heres-what-investors-are-watching/articleshow/130612713.cms) (Published: 2026-04-29)
+- [The Truth About PC Game Optimization: Why Your FPS Counter Is Lying About What’s Actually Broken](https://wccftech.com/the-truth-about-pc-game-optimization/) (Published: 2026-04-29)
