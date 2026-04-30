@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-04-30 22:12:24**_
+_Last updated: **2026-04-30 23:11:02**_
 
+- [Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating](https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates) (Published: 2026-04-29)
 - [Citing 'Irreversible Harm,' 100+ Groups Urge Congress to Reject Rushed Data Center Approvals](https://www.commondreams.org/news/ai-data-center-letter) (Published: 2026-04-29)
 - [Alphabet cloud revenue hits $20B, Nvidia odds barely shift](https://cryptobriefing.com/alphabet-cloud-revenue-hits-20b-nvidia-odds-barely-shift/) (Published: 2026-04-29)
 - [Meta shares plunge on escalating concerns over AI spending spree](https://financialpost.com/investing/meta-shares-plunge-escalating-concerns-ai-spending) (Published: 2026-04-29)
@@ -10,4 +11,3 @@ _Last updated: **2026-04-30 22:12:24**_
 - [Amazon Q1 earnings beat raises questions on Nvidia’s market cap lead](https://cryptobriefing.com/amazon-q1-earnings-beat-raises-questions-on-nvidias-market-cap-lead/) (Published: 2026-04-29)
 - [Big Tech earnings test record stock market rally as AI spending takes center stage](https://www.nbcnews.com/business/markets/big-tech-ai-earnings-alphabet-meta-amazon-microsoft-rcna342796) (Published: 2026-04-29)
 - [Big Tech's multi-billion dollar AI bets are still on track as Mag 7 giants report earnings](https://www.coindesk.com/markets/2026/04/29/big-tech-s-multi-billion-dollar-ai-bets-are-still-on-track-as-mag-7-giants-report-earnings) (Published: 2026-04-29)
-- [NVIDIA Sets Conference Call for First-Quarter Financial Results](https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-first-quarter-financial-results-6919947) (Published: 2026-04-29)
