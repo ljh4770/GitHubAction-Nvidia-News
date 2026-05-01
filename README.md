@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-01 15:11:41**_
+_Last updated: **2026-05-01 16:09:28**_
 
-- [This Alienware Gaming PC With Core Ultra 7 And GeForce RTX 5070 Is Over $445 Off](https://www.redmondpie.com/this-alienware-gaming-pc-with-core-ultra-7-and-geforce-rtx-5070-is-over-445-off/) (Published: 2026-04-30)
-- [NVIDIA Adds 16 Games to GeForce NOW in May and Makes “Nearly the Entire Ready-to-Play Library” RTX 5080-Ready](https://wccftech.com/nvidia-geforce-now-16-games-may-2026-nearly-entire-ready-to-play-library-rtx-5080-ready/) (Published: 2026-04-30)
-- [Red Hat redefines the Kubernetes control plane for AI](https://siliconangle.com/2026/04/30/kubernetes-control-plane-red-hat-ai-infrastructure-kubeconeu/) (Published: 2026-04-30)
-- [I haven’t played a Bond game since Goldeneye on the N64 — but 007 First Light could finally change that](https://www.techradar.com/gaming/i-havent-played-a-bond-game-since-goldeneye-on-the-n64-but-007-first-light-could-change-that) (Published: 2026-04-30)
-- [translet added to PyPI](https://pypi.org/project/translet/) (Published: 2026-04-30)
-- [Show HN: Give 9B model persistent suffering states and leave it alone overnight](https://ninjahawk.github.io/blog/posts/local-llm-psychological-states.html) (Published: 2026-04-30)
-- [rapids-singlecell-cu12 0.15.0](https://pypi.org/project/rapids-singlecell-cu12/0.15.0/) (Published: 2026-04-30)
-- [rapids-singlecell-cu13 0.15.0](https://pypi.org/project/rapids-singlecell-cu13/0.15.0/) (Published: 2026-04-30)
-- [1X Opens NEO Factory in Hayward, CA – America's First Vertically Integrated Humanoid Robot Factory, with Consumer Shipments Planned for 2026](https://www.globenewswire.com/news-release/2026/04/30/3285118/0/en/1X-Opens-NEO-Factory-in-Hayward-CA-America-s-First-Vertically-Integrated-Humanoid-Robot-Factory-with-Consumer-Shipments-Planned-for-2026.html) (Published: 2026-04-30)
-- [NVIDIA Falls 4% on Rotation Concerns: How Strong Profitability Could Save the Bull Case](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a1b7ddca-eabc-4397-8586-a0f7a9589493) (Published: 2026-04-30)
+- [Inside the Chinese motor show where AI, robots and fierce competition are redefining cars](https://www.the-independent.com/cars/electric-vehicles/china-motor-show-ai-robots-car-industry-b2968262.html) (Published: 2026-04-30)
+- [Serverless ICYMI Q1 2026](https://aws.amazon.com/blogs/compute/serverless-icymi-q1-2026/) (Published: 2026-04-30)
+- [Buy, Sell or Hold NFLX Stock After the Dip?](https://247wallst.com/investing/2026/04/30/buy-sell-or-hold-nflx-stock-after-the-dip/) (Published: 2026-04-30)
+- [Automating GPU Kernel Translation with AI Agents: cuTile Python to cuTile.jl](https://developer.nvidia.com/blog/automating-gpu-kernel-translation-with-ai-agents-cutile-python-to-cutile-jl/) (Published: 2026-04-30)
+- [This $650 Alienware Monitor Is the Ultimate Upgrade for Your PC Gaming Setup](https://www.cnet.com/deals/alienware-34-inch-qd-oled-monitor-deal/) (Published: 2026-04-30)
+- [Nintendo Switch Modder Gets Halo: Combat Evolved to Run Natively](https://hothardware.com/news/nintendo-switch-modder-gets-halo-combat-evolved-to-run-natively) (Published: 2026-04-30)
+- [CachyOS Linux Performance Leading Over Ubuntu 26.04 LTS, Fedora Workstation 44](https://www.phoronix.com/review/cachyos-ubuntu-2604-fedora-44) (Published: 2026-04-30)
+- [ASUS ROG Astral RTX 5090 Hits 3.7 GHz on a Single 16-Pin Connector, Setting Three World Records & 50K+ Port Royal Score With 36 Gbps Memory](https://wccftech.com/asus-rog-astral-rtx-5090-hits-3-7-ghz-single-16-pin-connector-three-world-records-50k-port-royal-score/) (Published: 2026-04-30)
+- [Deals: Galaxy Tab S11 models up to $573 off, S26 Ultra bundles $325 off, Fire TV Stick 4K $16, more](http://9to5google.com/2026/04/30/deals-galaxy-tab-s11-s26-ultra-bundles/) (Published: 2026-04-30)
