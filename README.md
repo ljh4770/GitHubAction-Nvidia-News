@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-01 11:33:29**_
+_Last updated: **2026-05-01 12:38:11**_
 
+- [This Asus Gaming Laptop Deal Makes PC Gaming Feel a Bit Less Painful at Only $900](https://www.cnet.com/deals/asus-tuf-f16-gaming-laptop-deal/) (Published: 2026-04-30)
+- [What the royal state dinner guest list says about Trump’s America](https://www.irishtimes.comhttps://www.nytimes.com/2026/04/29/us/politics/trump-white-house-state-dinner.html) (Published: 2026-04-30)
+- [$25,000 in 4 of Wall Street’s Top ETFs Delivers Over $1000 per Month of Passive Income](https://247wallst.com/investing/2026/04/30/100000-and-4-of-wall-streets-top-etfs-deliver-over-1000-per-month-passive-income/) (Published: 2026-04-30)
+- [(PR) QNAP Unveils QAI-h1290FX Edge AI Storage Server](https://www.techpowerup.com/348672/qnap-unveils-qai-h1290fx-edge-ai-storage-server) (Published: 2026-04-30)
+- [India in talks with US, Anthropic for Mythos access; no Indian firms in Project Glasswing yet](https://www.medianama.com/2026/04/223-india-anthropic-claude-mythos-project-glasswing-access/) (Published: 2026-04-30)
+- [KIEFER AI Open Hackathon 2026: Seven teams, global open-source launch, and Greece’s first sovereign AI infrastructure](https://en.protothema.gr/2026/04/30/kiefer-ai-open-hackathon-2026-seven-teams-global-open-source-launch-and-greeces-first-sovereign-ai-infrastructure/) (Published: 2026-04-30)
+- [Samsung’s regularly $1,000 500Hz OLED Odyssey gaming monitor is down to $650 today ($350 off)](http://9to5toys.com/2026/04/30/samsung-500hz-oled-odyssey-gaming-monitor-is-down-to-650-today/) (Published: 2026-04-30)
 - [HPE expands ProLiant edge network portfolio](https://www.computerweekly.com/news/366642633/HPE-expands-ProLiant-edge-network-portfolio) (Published: 2026-04-30)
 - [US stock market futures today: Why are Dow Jones and S&P 500 in red while Nasdaq turns green today? Dow drops 280 points as oil tops $120— can AI spending offset rising inflation fears and Fed uncertainty?](https://economictimes.indiatimes.com/news/international/us/us-stock-market-futures-today-why-are-dow-jones-and-sp-500-in-red-while-nasdaq-turns-green-today-dow-drops-280-points-as-oil-tops-120-can-ai-spending-offset-rising-inflation-fears-and-fed-uncertainty/articleshow/130631367.cms) (Published: 2026-04-30)
 - [‘The cost of compute is far beyond the costs of the employees': Nvidia continues to stress importance of human workers - but how long can we all hang on?](https://www.techradar.com/pro/the-cost-of-compute-is-far-beyond-the-costs-of-the-employees-nvidia-continues-to-stress-importance-of-human-workers-but-how-long-can-we-all-hang-on) (Published: 2026-04-30)
-- [White House against Anthropic expanding Mythos model access: report](https://www.digitaljournal.com/tech-science/white-house-against-anthropic-expanding-mythos-model-access-report/article) (Published: 2026-04-30)
-- [Your GPU upscales way more than just games, and old videos look incredible](https://www.xda-developers.com/your-gpu-upscales-more-than-just-games-and-old-videos-look-incredible/) (Published: 2026-04-30)
-- [Artificial intelligence powers Egypt’s USD 27bn city project](https://www.computerweekly.com/news/366642617/Artificial-intelligence-powers-Egypts-USD-27bn-city-project) (Published: 2026-04-30)
-- [openagentd added to PyPI](https://pypi.org/project/openagentd/) (Published: 2026-04-30)
-- [Global investors are shrugging off Iran worries and returning to markets in Asia, the ‘backbone of the whole AI value chain’](https://fortune.com/2026/04/30/global-investors-are-now-looking-towards-asia-as-ai-boom-trumps-iran-war-shocks/) (Published: 2026-04-30)
-- [Chinese GPU maker Cambricon's Q1 revenue hits $423 million as country's homegrown AI chip market accelerates — Chinese chipmakers continue to leech marke](https://slashdot.org/firehose.pl?op=view&amp;id=183071258) (Published: 2026-04-30)
-- [Chinese GPU maker Cambricon's Q1 revenue hits $423 million as country's homegrown AI chip market accelerates — Chinese chipmakers continue to leech market share from Nvidia](https://www.tomshardware.com/tech-industry/cambricons-q1-revenue-hits-423-million-as-chinas-domestic-ai-chip-market-accelerates) (Published: 2026-04-30)
