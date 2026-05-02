@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-02 11:08:48**_
+_Last updated: **2026-05-02 11:58:04**_
 
-- [Zapdos Labs Raises $500K to Bring AI Video Agents to Factory Floors](https://www.globenewswire.com/news-release/2026/05/01/3285836/0/en/Zapdos-Labs-Raises-500K-to-Bring-AI-Video-Agents-to-Factory-Floors.html) (Published: 2026-05-01)
-- [Apple Warns It Will Be Hit by Memory Squeeze](https://www.newser.com/story/388374/apple-warns-it-will-be-hit-by-memory-squeeze.html) (Published: 2026-05-01)
-- [Commodore 64 and ZX Spectrum receive clamshell makeover — iconic 8-bit legends join the handheld gaming wars](https://www.tomshardware.com/video-games/retro-gaming/commodore-64-and-zx-spectrum-receive-clamshell-makeover-iconic-8-bit-legends-join-the-handheld-gaming-wars) (Published: 2026-05-01)
-- [ChatGPT OpenAI Elon Musk trial: From calling Artificial Intelligence firm charity to existential crisis, key takeaways from Tesla boss' testimony](https://economictimes.indiatimes.com/news/international/us/chatgpt-openai-elon-musk-trial-from-calling-artificial-intelligence-firm-charity-to-existential-crisis-key-takeaways-from-tesla-boss-testimony/articleshow/130675705.cms) (Published: 2026-05-01)
-- [What is the AI compute crunch, and why are AI tools hitting usage limits?](https://www.scientificamerican.com/article/what-is-the-ai-compute-crunch-and-why-are-ai-tools-hitting-usage-limits/) (Published: 2026-05-01)
-- [Microsoft boosts 2026 capital spending to $190B amid AI demand](https://cryptobriefing.com/microsoft-boosts-2026-capital-spending-to-190b-amid-ai-demand/) (Published: 2026-05-01)
-- [deeplook-research added to PyPI](https://pypi.org/project/deeplook-research/) (Published: 2026-05-01)
-- [Razer Blade 16 Gaming Laptops Now Available With 64 GB LPDDR5X-9600 MT/s](https://www.madshrimps.be/news/razer-blade-16-gaming-laptops-now-available-with-64-gb-lpddr5x-9600-mt-s/) (Published: 2026-05-01)
-- [Key takeaways from Musk's testimony at OpenAI trial](https://www.channelnewsasia.com/business/key-takeaways-musks-testimony-openai-trial-6094356) (Published: 2026-05-01)
+- [NVIDIA GeForce RTX 3060 12 GB Returns in June With AIC Partners ASUS, MSI, Colorful, and GALAX](https://www.techpowerup.com/348710/nvidia-geforce-rtx-3060-12-gb-returns-in-june-with-aic-partners-asus-msi-colorful-and-galax) (Published: 2026-05-01)
+- [‘Golden’ or ‘Garbage’: Milken Signals New Era for Private Credit](https://financialpost.com/pmn/business-pmn/golden-or-garbage-milken-signals-new-era-for-private-credit) (Published: 2026-05-01)
+- [Pentagon reaches agreements with leading AI companies](https://www.channelnewsasia.com/business/pentagon-reaches-agreements-leading-ai-companies-6094501) (Published: 2026-05-01)
+- [Pentagon reaches agreements with top AI companies, but not Anthropic](https://www.channelnewsasia.com/business/pentagon-reaches-agreements-top-ai-companies-not-anthropic-6094501) (Published: 2026-05-01)
+- [NVIDIA RTX 5880 Ada Generation Graphics Driver 32.0.15.8142 for Windows 10 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-8142-for-Windows-10-64-bit.shtml) (Published: 2026-05-01)
+- [NVIDIA CEO Jensen Pushes Back on AI Job-Destruction Fears, Arguing Software Engineers Solve Problems, Also Admits Zero China Share](https://wccftech.com/nvidia-ceo-jensen-pushes-back-on-ai-job-destruction-fears-admits-zero-china-share/) (Published: 2026-05-01)
+- [NVIDIA RTX 5880 Ada Generation Graphics Driver 32.0.15.8142 for Windows 10 Vibranium 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-5880-Ada-Generation-Graphics-Driver-32-0-15-8142-for-Windows-10-Vibranium-64-bit.shtml) (Published: 2026-05-01)
+- [flip-utils 0.1.6](https://pypi.org/project/flip-utils/0.1.6/) (Published: 2026-05-01)
+- [Unitree G1 humanoid robot ice skates and rollerblades](https://www.foxnews.com/tech/unitree-g1-humanoid-robot-ice-skates-rollerblades) (Published: 2026-05-01)
+- [Save a huge $400 on this Acer Predator OLED gaming laptop with an RTX 5070 Ti and 32GB DDR5, now under $1,800 — big saving on Helios Neo 16S AI rig that ships with a 24-core Intel CPU, 1TB SSD, and a 240Hz refresh rate](https://www.tomshardware.com/laptops/gaming-laptops/save-a-huge-usd400-on-this-acer-predator-oled-gaming-laptop-with-an-rtx-5070-ti-and-32gb-ddr5-now-under-usd1-800-big-saving-on-helios-neo-16s-ai-rig-that-ships-with-a-24-core-intel-cpu-1tb-ssd-and-a-240hz-refresh-rate) (Published: 2026-05-01)
