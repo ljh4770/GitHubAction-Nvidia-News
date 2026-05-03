@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-03 16:11:11**_
+_Last updated: **2026-05-03 17:08:15**_
 
+- [Jim Cramer’s Opinion on 21 Stocks: Oklo, AST SpaceMobile, and Others](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-opinion-21-stocks-165936273.html) (Published: 2026-05-02)
+- [market-simulation 0.9.0](https://pypi.org/project/market-simulation/0.9.0/) (Published: 2026-05-02)
+- [Nvidia built the AI engine. Alphabet is building the car, the road, and the toll booth. The market is pricing accordingly.](https://thenextweb.com/news/alphabet-overtake-nvidia-market-cap-mag-seven/) (Published: 2026-05-02)
+- [Jensen Huang says some CEOs have a ‘God complex’ when it comes to AI apocalypse warnings, which can create shortages of critical workers](https://fortune.com/2026/05/02/jensen-huang-nvdia-ceo-god-complex-ai-apocalypse-warnings-shortages-critical-jobs/) (Published: 2026-05-02)
+- [market-simulation 0.8.0](https://pypi.org/project/market-simulation/0.8.0/) (Published: 2026-05-02)
+- [Jensen Huang is so over the dire predictions of AI leaders like Dario Amodei](https://www.businessinsider.com/jensen-huang-predictions-ai-dario-amodei-elon-musk-unemployment-humanity-2026-5) (Published: 2026-05-02)
+- [Know 5 governance traps that destroy investor wealth](https://www.thehindubusinessline.com/portfolio/big-story/portfoliobig-storygovernance-traps-destroy-wealth-sebi-orders-stock-frauds/article70927979.ece) (Published: 2026-05-02)
+- [5 Nvidia settings mistakes that might be making your games worse](https://www.makeuseof.com/nvidia-settings-mistakes-that-might-be-making-your-games-worse/) (Published: 2026-05-02)
+- [market-simulation 0.7.0](https://pypi.org/project/market-simulation/0.7.0/) (Published: 2026-05-02)
 - [market-simulation 0.6.0](https://pypi.org/project/market-simulation/0.6.0/) (Published: 2026-05-02)
-- [market-simulation 0.5.1](https://pypi.org/project/market-simulation/0.5.1/) (Published: 2026-05-02)
-- [market-simulation 0.5.0](https://pypi.org/project/market-simulation/0.5.0/) (Published: 2026-05-02)
-- [Netweb Technologies Q4 results: Revenue leaps 90%, profit after tax jumps to ₹706 million, up 66% YoY — Key highlights](https://www.livemint.com/companies/company-results/netweb-technologies-q4-fy26-results-revenue-leaps-90-pc-profit-after-tax-pat-rs-706-million-up-66-pc-yoy-key-highlights-11777733388842.html) (Published: 2026-05-02)
-- [market-simulation 0.4.0](https://pypi.org/project/market-simulation/0.4.0/) (Published: 2026-05-02)
-- [market-simulation 0.3.0](https://pypi.org/project/market-simulation/0.3.0/) (Published: 2026-05-02)
-- [AI chipmaker Cerebras is said to target up to $4 billion in IPO](https://economictimes.indiatimes.com/tech/technology/ai-chipmaker-cerebras-is-said-to-target-up-to-4-billion-in-ipo/articleshow/130719500.cms) (Published: 2026-05-02)
-- [The Shocking Similarity Between Micron and Nvidia as AI Turns Memory Into a Goldmine](https://247wallst.com/investing/2026/05/02/the-shocking-similarity-between-micron-and-nvidia-as-ai-turns-memory-into-a-goldmine/) (Published: 2026-05-02)
-- [Trump likes the idea of the government owning some US companies but took a pass on Spirit Airlines](https://abcnews.com/Business/wireStory/trump-likes-idea-government-owning-us-companies-pass-132596551) (Published: 2026-05-02)
-- [mahanai 6.0.1](https://pypi.org/project/mahanai/6.0.1/) (Published: 2026-05-02)
