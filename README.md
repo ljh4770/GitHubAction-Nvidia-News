@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-03 14:36:41**_
+_Last updated: **2026-05-03 15:27:44**_
 
+- [The Shocking Similarity Between Micron and Nvidia as AI Turns Memory Into a Goldmine](https://247wallst.com/investing/2026/05/02/the-shocking-similarity-between-micron-and-nvidia-as-ai-turns-memory-into-a-goldmine/) (Published: 2026-05-02)
 - [Trump likes the idea of the government owning some US companies but took a pass on Spirit Airlines](https://abcnews.com/Business/wireStory/trump-likes-idea-government-owning-us-companies-pass-132596551) (Published: 2026-05-02)
 - [mahanai 6.0.1](https://pypi.org/project/mahanai/6.0.1/) (Published: 2026-05-02)
 - [NVIDIA RTX A400 Graphics Driver 32.0.15.9174 for Windows 11 version 25H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-A400-Graphics-Driver-32-0-15-9174-for-Windows-11-version-25H2.shtml) (Published: 2026-05-02)
@@ -10,4 +11,3 @@ _Last updated: **2026-05-03 14:36:41**_
 - [market-simulation added to PyPI](https://pypi.org/project/market-simulation/) (Published: 2026-05-02)
 - [llm-cockpit added to PyPI](https://pypi.org/project/llm-cockpit/) (Published: 2026-05-02)
 - [NVIDIA RTX A400 Graphics Driver 32.0.15.9174 for Windows 11 version 24H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-A400-Graphics-Driver-32-0-15-9174-for-Windows-11-version-24H2.shtml) (Published: 2026-05-02)
-- [US Navy signs deal with AI firm for training underwater drones to detect mines in Strait of Hormuz — $100 million would allow drone minesweepers to update their detection algorithms in days instead of months](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-navy-signs-deal-with-ai-firm-for-training-underwater-drones-to-detect-mines-in-strait-of-hormuz-usd100-million-would-allow-drone-minesweepers-to-update-their-detection-algorithms-in-days-instead-of-months) (Published: 2026-05-02)
