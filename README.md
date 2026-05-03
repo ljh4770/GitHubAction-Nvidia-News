@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-02 23:58:29**_
+_Last updated: **2026-05-03 04:02:11**_
 
-- [Meta bought some help in its quest for humanoid robots](https://www.businessinsider.com/meta-acquires-assured-robot-intelligence-humanoid-robotics-2026-5) (Published: 2026-05-01)
-- [Nebius acquires AI model optimization startup Eigen AI for $643M](https://siliconangle.com/2026/05/01/nebius-acquires-ai-model-optimization-startup-eigen-ai-643m/) (Published: 2026-05-01)
-- [Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell | TechCrunch](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/) (Published: 2026-05-01)
-- [AI Takes the Wheel at Europe’s Biggest Carmakers](https://www.pymnts.com/artificial-intelligence-2/2026/ai-takes-the-wheel-at-europes-biggest-carmakers/) (Published: 2026-05-01)
-- [Meta buys robotic startup to bolster its humanoid AI ambitions | TechCrunch](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/) (Published: 2026-05-01)
-- [LG's New Ultralight Gram Laptops Just Dropped (With Special Service Plan Pricing)](https://www.cnet.com/tech/computing/lg-lightweight-gram-laptops-update-2026/) (Published: 2026-05-01)
-- [The 2026 Federal 100](https://www.nextgov.com/people/2026/05/2026-federal-100/413266/) (Published: 2026-05-01)
-- [AI Demand Strong, Memory Prices Will Go Up and AI Model Profits are Proven](https://www.nextbigfuture.com/2026/05/ai-demand-strong-memory-prices-will-go-up-and-ai-model-profits-are-proven.html) (Published: 2026-05-01)
-- [Bright idea? UK firm pioneers mini data centres using lampposts](https://www.bbc.com/news/articles/c98r4e594p7o) (Published: 2026-05-01)
+- [Meta buys humanoid robot startup Assured Robot Intelligence as 8,000 job cuts loom](https://www.livemint.com/companies/news/meta-acquires-humanoid-robot-startup-assured-robot-intelligence-weeks-after-announcing-8-000-layoffs-11777692898608.html) (Published: 2026-05-02)
+- [Samsung chip profit surges 48-fold amid AI demand, competition with Nvidia](https://cryptobriefing.com/samsung-chip-profit-surges-48-fold-amid-ai-demand-competition-with-nvidia/) (Published: 2026-05-02)
+- [Elon Musk says OpenAI abandoned ‘charity’ mission: Key takeaways from testimony](https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-openai-trial-key-takeaways-from-testimony-10666967/) (Published: 2026-05-02)
+- [Meta acquires robotics company Assured Robot Intelligence to help build humanoid technology](https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-acquires-robotics-company-assured-robot-intelligence-to-help-build-humanoid-technology/articleshow/130708991.cms) (Published: 2026-05-02)
+- [Apple’s Q1 revenue beat may bolster market cap race against Nvidia](https://cryptobriefing.com/apples-q1-revenue-beat-may-bolster-market-cap-race-against-nvidia/) (Published: 2026-05-02)
+- [Pentagon Taps Seven AI Companies for Classified Work, Leaves Out Anthropic](https://freerepublic.com/focus/f-chat/4377295/posts) (Published: 2026-05-02)
+- [At $4.9 trillion, Nvidia beats listed Indian companies’ market-cap](https://timesofindia.indiatimes.com/business/india-business/at-4-9-trillion-nvidia-beats-listed-indian-companies-market-cap/articleshow/130708524.cms) (Published: 2026-05-02)
+- [US military reaches deals with 7 tech companies to use their AI on classified systems](https://economictimes.indiatimes.com/news/defence/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/articleshow/130708407.cms) (Published: 2026-05-02)
+- [Meta acquires robot software startup Assured Robot Intelligence](https://siliconangle.com/2026/05/01/meta-acquires-robot-software-startup-assured-robot-intelligence/) (Published: 2026-05-02)
+- [Alphabet nears $5T market cap, could surpass Nvidia as most valuable company](https://cryptobriefing.com/alphabet-nears-5t-market-cap-could-surpass-nvidia-as-most-valuable-company/) (Published: 2026-05-02)
