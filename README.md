@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-04 13:05:24**_
+_Last updated: **2026-05-04 15:17:26**_
 
+- [Stop Buying Expensive 'Future-Proof' PC Parts - Do This Instead](https://www.bgr.com/2158208/why-future-proof-pc-doesnt-work/) (Published: 2026-05-03)
+- [Nvidia accelerates end-of-life for some Jetson AI processors due to memory shortages — RAMpocalypse sends older DDR4-based modules to the great scrapheap in the sky](https://www.tomshardware.com/maker-stem/nvidia-accelerates-end-of-life-for-some-jetson-ai-processors-due-to-memory-shortages-rampocalypse-sends-older-ddr4-based-modules-to-the-great-scrapheap-in-the-sky) (Published: 2026-05-03)
+- [Grab It Now! Hogwarts Legacy Available For Free On Epic Games Store For A Limited Time](https://www.ubergizmo.com/2026/05/hogwarts-legacy-free/) (Published: 2026-05-03)
+- [Traders Grapple With Two-Sided Tail Risk as Stocks Regain Highs](https://financialpost.com/pmn/business-pmn/traders-grapple-with-two-sided-tail-risk-as-stocks-regain-highs) (Published: 2026-05-03)
+- [Lenovo Launches Yoga Pro 9i Aura Edition Gen 11 With Panther Lake Architecture](https://www.ubergizmo.com/2026/05/lenovo-yoga-pro-9i-aura-edition-gen-11/) (Published: 2026-05-03)
+- [Telegram Mini Apps abused for crypto scams, Android malware delivery](https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/) (Published: 2026-05-03)
+- [Traders grapple with two-sided tail risk as stocks regain highs](https://finance.yahoo.com/news/traders-grapple-two-sided-tail-140000302.html) (Published: 2026-05-03)
+- [The $100 Trillion Buried Under Federal Land That Nobody’s Talking About](https://www.globenewswire.com/news-release/2026/05/03/3286354/0/en/The-100-Trillion-Buried-Under-Federal-Land-That-Nobody-s-Talking-About.html) (Published: 2026-05-03)
+- [keovil added to PyPI](https://pypi.org/project/keovil/) (Published: 2026-05-03)
 - [Inference is giving AI chip startups a second chance to make their mark](https://www.theregister.com/2026/05/03/inference_is_giving_ai_chip/) (Published: 2026-05-03)
-- [China This Week | Why a tiny African nation matters to China on Taiwan, Meta-Manus deal and Pakistan’s submarine](https://indianexpress.com/article/explained/explained-global/china-this-week-eswatini-taiwan-meta-manus-hangor-pakistan-10670890/) (Published: 2026-05-03)
-- [MOREFINE G2 is an RTX 5060Ti graphics dock with 16GB GDDR7 and… questionable value at $1099](https://liliputing.com/morefine-g2-is-an-rtx-5060ti-graphics-dock-with-16gb-gddr7-and-questionable-value-at-1099/) (Published: 2026-05-03)
-- [I Played NBA The Run for 1 Hour: It's Arcade Fun, But It's No NBA Street (Yet)](https://uk.pcmag.com/microsoft-xbox-games/164741/i-played-nba-the-run-for-1-hour-its-arcade-fun-but-its-no-nba-street-yet) (Published: 2026-05-03)
-- [I Played NBA The Run for 1 Hour: It's Arcade Fun, But It's No NBA Street (Yet)](https://me.pcmag.com/en/microsoft-xbox-games/36911/i-played-nba-the-run-for-1-hour-its-arcade-fun-but-its-no-nba-street-yet) (Published: 2026-05-03)
-- [Anthropic in early talks to buy DRAM-less AI inference chips from UK startup — Fractile's SRAM architecture reduces need for pricey memory during extreme pricing and shortage crunch](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-in-early-talks-to-buy-inference-chips-from-uk-startup-fractile) (Published: 2026-05-03)
-- [mcp-gpu-server 0.1.3](https://pypi.org/project/mcp-gpu-server/0.1.3/) (Published: 2026-05-03)
-- [Show HN: Valkyr LM Inference with Realtime Guarantees](https://github.com/Foundation42/valkyr) (Published: 2026-05-03)
-- [mcp-gpu-server 0.1.2](https://pypi.org/project/mcp-gpu-server/0.1.2/) (Published: 2026-05-03)
-- [Emmanuel Kasper: Arm64 Linux Desktop: one year after, all systems up](https://00formicapunk00.wordpress.com/2026/05/03/arm64-linux-desktop-one-year-after-all-systems-up/) (Published: 2026-05-03)
