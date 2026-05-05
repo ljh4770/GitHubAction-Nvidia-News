@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-05 18:14:01**_
+_Last updated: **2026-05-05 19:52:41**_
 
+- [Trump-Linked World Liberty Financial Accuses ‘Victimized’ Crypto Billionaire of Defamation](https://gizmodo.com/trump-linked-world-liberty-financial-accuses-victimized-crypto-billionaire-of-defamation-2000754267) (Published: 2026-05-04)
+- [Atomic Heart Studio Mundfish Sidesteps NVIDIA DLSS 5 Commitment, Rejects AI Tools In Daily Production For Now](https://wccftech.com/mundfish-dlss-5-ai-tools-atomic-heart-development/) (Published: 2026-05-04)
+- [Skytech Shadow 4 Gaming Desktop: i5-14400F, RTX 5060 Ti (16GB), 16GB DDR5, 1TB SSD $1063.99](https://slickdeals.net/f/19489968-skytech-shadow-4-gaming-desktop-i5-14400f-rtx-5060-ti-16gb-16gb-ddr5-1tb-ssd-1063-99) (Published: 2026-05-04)
+- [Why won’t Apple become a cloud company?](https://asymco.com/2026/05/04/why-wont-apple-become-a-cloud-company/) (Published: 2026-05-04)
+- [Gen Z hate AI? The Musk vs Altman trial heats up, OpenAI phone rumors buzz and more of the week’s most surprising developments](https://www.techradar.com/ai-platforms-assistants/gen-z-hate-ai-the-musk-vs-altman-trial-heats-up-openai-phone-rumors-buzz-and-more-of-the-weeks-most-surprising-developments) (Published: 2026-05-04)
+- [The Best Laptops for Programmers in 2026](https://uk.pcmag.com/laptops/143048/the-best-laptops-for-programmers) (Published: 2026-05-04)
+- [Musk tried to settle the OpenAI case two days before trial. Then he promised to make Brockman the most hated man in America.](https://thenextweb.com/news/openai-trial-brockman-journals-nonprofit-settlement/) (Published: 2026-05-04)
 - [US stock market crashes today: What’s happening with Dow Jones, S&P 500 and Nasdaq as $200 billion vanishes in minutes from US stocks - Dow plunges 565 points, all sectors sink while oil surges with WTI up 3.4% and Brent jumping 5%](https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-today-whats-happening-with-dow-jones-sp-500-and-nasdaq-as-200-billion-vanishes-in-minutes-from-us-stocks-dow-plunges-565-points-all-sectors-sink-while-oil-surges-with-wti-up-3-4-and-brent-jumping-5/articleshow/130808983.cms) (Published: 2026-05-04)
 - [Coffee Break: Abundance Bro Seth London & Lis Smith’s Caper Typifies State of the Art Dem Dark Money Schemes](https://www.nakedcapitalism.com/2026/05/abundance-bro-seth-london-lis-smith-dark-money-majority-democrats.html) (Published: 2026-05-04)
 - [The EU built the world’s most comprehensive AI regulation. It does not give Europe access to the AI that matters most.](https://thenextweb.com/news/europe-mythos-anthropic-cybersecurity-access-crisis/) (Published: 2026-05-04)
-- [AI Data Centers Will Soon Consume as Much Power as Two-Thirds of All American Homes](https://www.globenewswire.com/news-release/2026/05/04/3287042/0/en/AI-Data-Centers-Will-Soon-Consume-as-Much-Power-as-Two-Thirds-of-All-American-Homes.html) (Published: 2026-05-04)
-- [Steam Down Right Now? Latest Status Check for May 2026 Outages and Server Issues](https://www.ibtimes.com.au/steam-down-right-now-latest-status-check-may-2026-outages-server-issues-1868188) (Published: 2026-05-04)
-- [3 Companies You Might Not Realize Are Owned By Foxconn](https://www.bgr.com/2159114/tech-companies-owned-by-foxconn/) (Published: 2026-05-04)
-- [Resident Evil Requiem Producer Says The Negative Reaction To Grace’s DLSS 5 AI Slop Filter Proves Capcom ‘Got The Design Right’](https://kotaku.com/resident-evil-requiem-grace-dlss-5-ai-slop-filter-redesign-capcom-masato-kumazawa-2000692973) (Published: 2026-05-04)
-- [Which stocks do I actually own? Why experts say it's important to know](https://www.cnbc.com/2026/05/04/how-to-figure-out-which-stocks-are-in-your-portfolio.html) (Published: 2026-05-04)
-- [Alienware 16 Area-51 review: OLED screen update](https://www.tomshardware.com/laptops/gaming-laptops/alienware-16-area-51-oled-2026-review) (Published: 2026-05-04)
-- [Valve says it's working on Steam Deck 2, but that probably doesn't mean what you think — Could it have an ARM-based future?](https://www.windowscentral.com/hardware/handheld-gaming-pc/valve-steam-deck-2-development-arm-possibilities) (Published: 2026-05-04)
