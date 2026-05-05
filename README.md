@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-05 16:57:04**_
+_Last updated: **2026-05-05 18:14:01**_
 
+- [US stock market crashes today: What’s happening with Dow Jones, S&P 500 and Nasdaq as $200 billion vanishes in minutes from US stocks - Dow plunges 565 points, all sectors sink while oil surges with WTI up 3.4% and Brent jumping 5%](https://economictimes.indiatimes.com/news/international/us/us-stock-market-crashes-today-whats-happening-with-dow-jones-sp-500-and-nasdaq-as-200-billion-vanishes-in-minutes-from-us-stocks-dow-plunges-565-points-all-sectors-sink-while-oil-surges-with-wti-up-3-4-and-brent-jumping-5/articleshow/130808983.cms) (Published: 2026-05-04)
+- [Coffee Break: Abundance Bro Seth London & Lis Smith’s Caper Typifies State of the Art Dem Dark Money Schemes](https://www.nakedcapitalism.com/2026/05/abundance-bro-seth-london-lis-smith-dark-money-majority-democrats.html) (Published: 2026-05-04)
+- [The EU built the world’s most comprehensive AI regulation. It does not give Europe access to the AI that matters most.](https://thenextweb.com/news/europe-mythos-anthropic-cybersecurity-access-crisis/) (Published: 2026-05-04)
+- [AI Data Centers Will Soon Consume as Much Power as Two-Thirds of All American Homes](https://www.globenewswire.com/news-release/2026/05/04/3287042/0/en/AI-Data-Centers-Will-Soon-Consume-as-Much-Power-as-Two-Thirds-of-All-American-Homes.html) (Published: 2026-05-04)
+- [Steam Down Right Now? Latest Status Check for May 2026 Outages and Server Issues](https://www.ibtimes.com.au/steam-down-right-now-latest-status-check-may-2026-outages-server-issues-1868188) (Published: 2026-05-04)
+- [3 Companies You Might Not Realize Are Owned By Foxconn](https://www.bgr.com/2159114/tech-companies-owned-by-foxconn/) (Published: 2026-05-04)
+- [Resident Evil Requiem Producer Says The Negative Reaction To Grace’s DLSS 5 AI Slop Filter Proves Capcom ‘Got The Design Right’](https://kotaku.com/resident-evil-requiem-grace-dlss-5-ai-slop-filter-redesign-capcom-masato-kumazawa-2000692973) (Published: 2026-05-04)
+- [Which stocks do I actually own? Why experts say it's important to know](https://www.cnbc.com/2026/05/04/how-to-figure-out-which-stocks-are-in-your-portfolio.html) (Published: 2026-05-04)
 - [Alienware 16 Area-51 review: OLED screen update](https://www.tomshardware.com/laptops/gaming-laptops/alienware-16-area-51-oled-2026-review) (Published: 2026-05-04)
 - [Valve says it's working on Steam Deck 2, but that probably doesn't mean what you think — Could it have an ARM-based future?](https://www.windowscentral.com/hardware/handheld-gaming-pc/valve-steam-deck-2-development-arm-possibilities) (Published: 2026-05-04)
-- [What’s Going on With This Stock Market?](https://www.theatlantic.com/economy/2026/05/stock-market-iran-war-bullish/687041/) (Published: 2026-05-04)
-- ['This is the robot I wanted to build forever': former iRobot chief on his extraordinary 'Familiar' AI companion](https://www.techradar.com/ai-platforms-assistants/this-is-the-robot-i-wanted-to-build-forever-former-irobot-chief-on-his-extraordinary-familiar-ai-companion) (Published: 2026-05-04)
-- [Jim Cramer Just Won’t Give Up on NVIDIA (NVDA)](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c5fb0af6-8ab3-43b0-860b-cb08c3546eb1) (Published: 2026-05-04)
-- [The faces of quantum](http://chicagoreader.com/news/explainer/quantum-computing-campus-tenants-iqmp-illinois/) (Published: 2026-05-04)
-- [Despite Soaring 46%, ConocoPhillips Is a Hold as Price Target Trails](https://247wallst.com/investing/2026/05/04/despite-soaring-46-conocophillips-is-a-hold-as-price-target-trails/) (Published: 2026-05-04)
-- [NVIDIA Feynman GPUs Push Power Semi Content To $191,000, 17 Times Increase Over Blackwell As Industry Embraces 800V DC Architectures](https://wccftech.com/nvidia-feynman-gpus-push-power-semi-content-17-times-higher-vs-blackwell/) (Published: 2026-05-04)
-- [Cerebras Leads Crop of IPOs Rushing to Tap Market Before SpaceX](https://financialpost.com/pmn/business-pmn/cerebras-leads-crop-of-ipos-rushing-to-tap-market-before-spacex) (Published: 2026-05-04)
-- [The Best Online Learning Services for 2026](https://uk.pcmag.com/education/128455/best-online-learning-services) (Published: 2026-05-04)
