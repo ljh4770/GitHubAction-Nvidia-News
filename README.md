@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-07 04:45:45**_
+_Last updated: **2026-05-07 07:33:25**_
 
-- [The world's hottest stock market just minted a trillion-dollar tech giant](https://www.businessinsider.com/south-korea-stock-market-samsung-1-trillion-club-ai-boom-2026-5) (Published: 2026-05-06)
-- [nat-retriever-ssdb 0.2.1](https://pypi.org/project/nat-retriever-ssdb/0.2.1/) (Published: 2026-05-06)
-- [The rapid embrace of AI in China, its biggest testing ground, may shape how AI is used globally](https://economictimes.indiatimes.com/tech/artificial-intelligence/the-rapid-embrace-of-ai-in-china-its-biggest-testing-ground-may-shape-how-ai-is-used-globally/articleshow/130843863.cms) (Published: 2026-05-06)
-- [ServiceNow Knowledge 2026: McDermott proclaims fully automated cyber defence](https://www.computerweekly.com/news/366642708/ServiceNow-Knowledge-2026-McDermott-proclaims-fully-automated-cyber-defence) (Published: 2026-05-06)
-- [bm3d-cupy added to PyPI](https://pypi.org/project/bm3d-cupy/) (Published: 2026-05-06)
-- [Intel’s stock jumped 13% today over Apple chip manufacturing report](https://9to5mac.com/2026/05/05/intels-stock-jumped-13-today-over-apple-chip-manufacturing-report/) (Published: 2026-05-06)
-- [Samsung hits $1T market cap amid AI chip demand surge](https://cryptobriefing.com/samsung-hits-1t-market-cap-amid-ai-chip-demand-surge/) (Published: 2026-05-06)
-- [Supermicro CEO insists ‘no one’ beyond indicted employees were involved in alleged $2.5 billion smuggling scheme](https://fortune.com/2026/05/05/supermicro-ceo-stock-smuggling-nvidia-amd-broadcom-intel/) (Published: 2026-05-06)
-- [Analysis: The US$2.5 billion smuggling case hanging over Supermicro's US$40 billion year](https://www.digitimes.com/news/a20260506VL205/supermicro-legal-earnings-revenue-2026.html) (Published: 2026-05-06)
+- [Samsung Electronics crosses $1tn, joining TSMC, as the AI memory cycle pulls Korea into a record](https://thenextweb.com/news/samsung-electronics-1-trillion-market-cap-ai-memory/) (Published: 2026-05-06)
+- [Nvidia billionaire Mark Stevens gives $200 million to alma mater USC for AI research](https://economictimes.indiatimes.com/tech/technology/nvidia-billionaire-mark-stevens-gives-200-million-to-alma-mater-usc-for-ai-research/articleshow/130847177.cms) (Published: 2026-05-06)
+- [$200M Gift to USC Will Advance AI Research](https://www.insidehighered.com/news/quick-takes/2026/05/06/200m-gift-usc-will-advance-ai-research) (Published: 2026-05-06)
+- [Data centres, semiconductors to drive next growth phase for L&T: Amit Anwani](https://economictimes.indiatimes.com/markets/expert-view/data-centres-semiconductors-to-drive-next-growth-phase-for-lt-amit-anwani/articleshow/130846395.cms) (Published: 2026-05-06)
+- [Samsung’s valuation hits historic $1 trillion mark, thanks to the AI boom](https://www.sammobile.com/news/samsung-valuation-usd-1-trillion-mark-ai-boom/) (Published: 2026-05-06)
+- [NoiseWorks Audio launch VoiceAssist Basic, Standard & Advanced](https://www.soundonsound.com/news/noiseworks-audio-launch-voiceassist-basic-standard-advanced) (Published: 2026-05-06)
+- [Bagmane Prime Office REIT IPO: Subscribed 83% so far on Day 2; check GMP and key details](https://economictimes.indiatimes.com/markets/ipos/fpos/bagmane-prime-office-reit-ipo-subscribed-83-so-far-on-day-2-check-gmp-and-key-details/articleshow/130845958.cms) (Published: 2026-05-06)
+- [Star Wars: Galactic Racer and 007 First Light get native DLSS 4.5 support on PC](https://www.tweaktown.com/news/111457/star-wars-galactic-racer-and-007-first-light-get-native-dlss-4-5-support-on-pc/index.html) (Published: 2026-05-06)
+- [My Plan to Mass-Distribute Decentralized, Uncensored Knowledge to a Billion People is Starting to Work](https://www.naturalnews.com/2026-05-06-plan-to-mass-distribute-decentralized-uncensored-knowledge.html) (Published: 2026-05-06)
+- [Fine-tuning LFM2.5-1.2B-Instruct with GRPO – Leonie Monigatti](https://leoniemonigatti.com/blog/fine-tuning-lfm2-5-1-2b-instruct-with-grpo.html) (Published: 2026-05-06)
