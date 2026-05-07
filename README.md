@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-07 01:17:19**_
+_Last updated: **2026-05-07 04:45:45**_
 
-- [ElevenLabs adds high-profile investors after annualized revenue tops $500M](https://siliconangle.com/2026/05/05/elevenlabs-adds-high-profile-investors-annualized-revenue-tops-500m/) (Published: 2026-05-06)
-- [Fedora 44 made me forget I was using Linux - in the best way](https://www.zdnet.com/article/fedora-44-takes-the-distribution-to-new-heights/) (Published: 2026-05-06)
-- [Anthropic commits to spending $200 billion on Google's cloud and chips: Report](https://economictimes.indiatimes.com/tech/technology/anthropic-commits-to-spending-200-billion-on-googles-cloud-and-chips-report/articleshow/130841756.cms) (Published: 2026-05-06)
-- [Why Google DeepMind workers in UK are trying to unionise over company's Pentagon AI deals](https://www.livemint.com/companies/news/google-deepminds-uk-workers-vote-to-unionise-over-pentagon-ai-deal-a-first-for-frontier-ai-labs-11778025670418.html) (Published: 2026-05-06)
-- [Nuro receives driverless testing permit ahead of Uber robotaxi service launch | TechCrunch](https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/) (Published: 2026-05-06)
-- [SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw | TechCrunch](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/) (Published: 2026-05-05)
-- [AI-driven rally puts Taiwan, Korea within striking distance of India's m-cap](https://www.moneycontrol.com/news/business/earnings/ai-driven-rally-puts-taiwan-korea-within-striking-distance-of-india-s-m-cap-13909575.html) (Published: 2026-05-05)
-- [Blitzy raises $200M at $1.4B valuation to deploy thousands of coding agents in parallel](https://siliconangle.com/2026/05/05/blitzy-raises-200m-1-4b-valuation-deploy-thousands-coding-agents-parallel/) (Published: 2026-05-05)
-- [AI data center operator IREN to acquire Mirantis for $625M](https://siliconangle.com/2026/05/05/ai-data-center-operator-iren-acquire-mirantis-625m/) (Published: 2026-05-05)
-- [Stock market today: Nasdaq, S&P 500, Dow rally on rising hopes for Iran peace, upbeat tech earnings](https://finance.yahoo.com/markets/stocks/live/stock-market-today-nasdaq-sp-500-dow-rally-on-rising-hopes-for-iran-peace-upbeat-tech-earnings-231128444.html) (Published: 2026-05-05)
+- [The world's hottest stock market just minted a trillion-dollar tech giant](https://www.businessinsider.com/south-korea-stock-market-samsung-1-trillion-club-ai-boom-2026-5) (Published: 2026-05-06)
+- [nat-retriever-ssdb 0.2.1](https://pypi.org/project/nat-retriever-ssdb/0.2.1/) (Published: 2026-05-06)
+- [The rapid embrace of AI in China, its biggest testing ground, may shape how AI is used globally](https://economictimes.indiatimes.com/tech/artificial-intelligence/the-rapid-embrace-of-ai-in-china-its-biggest-testing-ground-may-shape-how-ai-is-used-globally/articleshow/130843863.cms) (Published: 2026-05-06)
+- [ServiceNow Knowledge 2026: McDermott proclaims fully automated cyber defence](https://www.computerweekly.com/news/366642708/ServiceNow-Knowledge-2026-McDermott-proclaims-fully-automated-cyber-defence) (Published: 2026-05-06)
+- [bm3d-cupy added to PyPI](https://pypi.org/project/bm3d-cupy/) (Published: 2026-05-06)
+- [Intel’s stock jumped 13% today over Apple chip manufacturing report](https://9to5mac.com/2026/05/05/intels-stock-jumped-13-today-over-apple-chip-manufacturing-report/) (Published: 2026-05-06)
+- [Samsung hits $1T market cap amid AI chip demand surge](https://cryptobriefing.com/samsung-hits-1t-market-cap-amid-ai-chip-demand-surge/) (Published: 2026-05-06)
+- [Supermicro CEO insists ‘no one’ beyond indicted employees were involved in alleged $2.5 billion smuggling scheme](https://fortune.com/2026/05/05/supermicro-ceo-stock-smuggling-nvidia-amd-broadcom-intel/) (Published: 2026-05-06)
+- [Analysis: The US$2.5 billion smuggling case hanging over Supermicro's US$40 billion year](https://www.digitimes.com/news/a20260506VL205/supermicro-legal-earnings-revenue-2026.html) (Published: 2026-05-06)
