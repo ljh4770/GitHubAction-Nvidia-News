@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-08 20:11:57**_
+_Last updated: **2026-05-08 21:16:25**_
 
-- [CoreWeave signals higher capex as component costs rise, shares fall](https://www.channelnewsasia.com/business/coreweave-signals-higher-capex-component-costs-rise-shares-fall-6108051) (Published: 2026-05-07)
+- [Amazon EC2 G6 instances now available in AWS European Sovereign Cloud (Germany)](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud/) (Published: 2026-05-07)
+- [Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling](https://developer.nvidia.com/blog/achieving-peak-system-and-workload-efficiency-on-nvidia-gb200-nvl72-with-slurm-block-scheduling/) (Published: 2026-05-07)
+- [Indosat CEO Vikram Sinha is building an AI for Indonesia’s local languages. Can he make a business case for sovereignty?](https://fortune.com/2026/05/07/indosat-ooredoo-hutchison-ceo-vikram-sinha-indonesia-ai-sahabat/) (Published: 2026-05-07)
+- [Iran casts a long, dark shadow over Trump’s trip to China next week](https://nypost.com/2026/05/07/us-news/iran-casts-a-long-dark-shadow-over-trumps-trip-to-china-next-week/) (Published: 2026-05-07)
+- [NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure](https://www.globenewswire.com/news-release/2026/05/07/3290674/0/en/NVIDIA-and-IREN-Announce-Strategic-Partnership-to-Accelerate-Deployment-of-up-to-5-Gigawatts-of-AI-Infrastructure.html) (Published: 2026-05-07)
+- [NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure](https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure) (Published: 2026-05-07)
+- [S&P 500 ends down as chip stocks give up gains](https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-hit-103448578.html) (Published: 2026-05-07)
+- [CoreWeave revenue more than doubles in first quarter, topping estimates](https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html) (Published: 2026-05-07)
+- [Google 推出 Gemma 4 MTP Drafters，本地端 AI 推理速度飆升 3 倍](https://www.koc.com.tw/archives/641923) (Published: 2026-05-07)
 - [CoreWeave tops revenue estimates as AI boom supercharges cloud demand](https://www.channelnewsasia.com/business/coreweave-tops-revenue-estimates-ai-boom-supercharges-cloud-demand-6108051) (Published: 2026-05-07)
-- [US stocks today: US market ends lower as semiconductor stocks reverse earlier gains](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-market-ends-lower-as-semiconductor-stocks-reverse-earlier-gains/articleshow/130922309.cms) (Published: 2026-05-07)
-- [Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord](https://finance.yahoo.com/sectors/technology/articles/elon-musk-called-anthropic-evil-194925519.html) (Published: 2026-05-07)
-- [Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord](https://fortune.com/2026/05/07/spacex-anthropic-deal-elon-musk-ai-landlord-evil/) (Published: 2026-05-07)
-- [Apple's Tim Cook Among CEOs Invited on Trump's Trip to China](https://www.macrumors.com/2026/05/07/apple-tim-cook-trump-china/) (Published: 2026-05-07)
-- [Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission](https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/) (Published: 2026-05-07)
-- [Trump administration is inviting CEOs from Nvidia, Apple on Trump's China trip, report says](https://economictimes.indiatimes.com/tech/technology/trump-administration-is-inviting-ceos-from-nvidia-apple-on-trumps-china-trip-report-says/articleshow/130919517.cms) (Published: 2026-05-07)
-- [AMD announces MI350P PCIe AI accelerator card with 144GB of HBM3E — roughly 40% faster in FP16 and FP8 theoretical compute compared to Nvidia's H200 NVL competitor](https://www.tomshardware.com/pc-components/gpus/amd-announces-mi350p-pcie-ai-accelerator-card-with-144gb-of-hbm3e-roughly-40-percent-faster-in-fp16-and-fp8-theoretical-compute-compared-to-nvidias-h200-nvl-competitor) (Published: 2026-05-07)
-- [SoftBank explores homegrown AI servers with Nvidia, Foxconn: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-explores-homegrown-ai-servers-with-nvidia-foxconn-report/articleshow/130918849.cms) (Published: 2026-05-07)
