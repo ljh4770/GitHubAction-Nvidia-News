@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-08 05:49:13**_
+_Last updated: **2026-05-08 07:10:21**_
 
-- [Show HN: Password-less authentication via Ramanujan's 1/π series and Nvidia-B200](https://zenodo.org/records/20049892) (Published: 2026-05-07)
-- [NVIDIA RTX A400 Graphics Driver 31.0.15.5234 for Windows 10 Vibranium 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-A400-Graphics-Driver-31-0-15-5234-for-Windows-10-Vibranium-64-bit.shtml) (Published: 2026-05-07)
-- [Neocloud IREN buys OpenStack champion Mirantis](https://www.theregister.com/off-prem/2026/05/07/neocloud-iren-buys-openstack-champion-mirantis/5231644) (Published: 2026-05-07)
-- [『ソニックランブル パーティ』サービス開始半年を記念した「ハーフアニバーサリー」イベント第2弾！『ソニックアドベンチャー』テーマの限定スキンやミッションが登場](https://prtimes.jp/main/html/rd/p/000007351.000005397.html) (Published: 2026-05-07)
-- [The income of the Samsung family in South Korea has doubled.](https://english.gossiplankanews.com/2026/05/the-income-of-samsung-family-in-south.html) (Published: 2026-05-07)
-- [Anthropic Raises Claude Code Usage Limits, Credits New Deal With SpaceX](https://slashdot.org/submission/17347076/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex) (Published: 2026-05-07)
-- [Iran ceasefire hopes, global AI rally keep D-Street in the green](https://www.thehindubusinessline.com/markets/iran-ceasefire-hopes-global-ai-rally-keep-d-street-in-the-green/article70949544.ece) (Published: 2026-05-07)
-- [Digiday+ Research: Marketers’ AI use rises, but tech skills stall](http://digiday.com/marketing/digiday-research-marketers-ai-use-rises-but-tech-skills-stall/) (Published: 2026-05-07)
-- [Arm forecasts higher-than-expected revenue on surging AI data center demand](https://economictimes.indiatimes.com/tech/technology/arm-forecasts-higher-than-expected-revenue-on-surging-ai-data-center-demand/articleshow/130877638.cms) (Published: 2026-05-07)
+- [aurafarmer 0.1.0](https://pypi.org/project/aurafarmer/0.1.0/) (Published: 2026-05-07)
+- [aurafarmer added to PyPI](https://pypi.org/project/aurafarmer/) (Published: 2026-05-07)
+- [aurex added to PyPI](https://pypi.org/project/aurex/) (Published: 2026-05-07)
+- [aurex 0.1.0](https://pypi.org/project/aurex/0.1.0/) (Published: 2026-05-07)
+- [Meet Mark Stevens: The billionaire VC, Nvidia board member, and Giving Pledge signer who just donated $200 million to USC](https://fortune.com/2026/05/07/mark-stevens-usc-200-million-ai-donation-nvidia-sequoia/) (Published: 2026-05-07)
+- [UAE-regulated stablecoins to develop AED-USD conversion rails for institutional settlement](https://cointelegraph.com/news/uae-regulated-stablecoins-to-develop-aed-usd-conversion-rails-for-institutional-settlement) (Published: 2026-05-07)
+- [NVIDIA RTX A1000 Graphics Driver 32.0.15.9174 for Windows 10 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-A1000-Graphics-Driver-32-0-15-9174-for-Windows-10-64-bit.shtml) (Published: 2026-05-07)
+- [NVIDIA RTX A1000 Graphics Driver 32.0.15.9174 for Windows 10 Vibranium 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-A1000-Graphics-Driver-32-0-15-9174-for-Windows-10-Vibranium-64-bit.shtml) (Published: 2026-05-07)
+- [Hannover Messe 2026: Do Robots Need Tea Breaks?](https://www.forrester.com/blogs/hannover-messe-2026-do-robots-need-tea-breaks/) (Published: 2026-05-07)
+- [NVIDIA RTX A400 Graphics Driver 31.0.15.5234 for Windows 11 version 22H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-RTX-A400-Graphics-Driver-31-0-15-5234-for-Windows-11-version-22H2.shtml) (Published: 2026-05-07)
