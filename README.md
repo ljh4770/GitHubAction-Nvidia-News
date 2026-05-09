@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-09 22:42:18**_
+_Last updated: **2026-05-09 23:31:31**_
 
+- [Qualcomm bets on custom AI chips, targets Nvidia-led data centre market](https://economictimes.indiatimes.com/tech/artificial-intelligence/qualcomm-bets-on-custom-ai-chips-targets-nvidia-led-data-centre-market/articleshow/130970508.cms) (Published: 2026-05-08)
+- [Qualcomm bets on custom AI chips, targets Nvidia-led data centre market](https://economictimes.indiatimes.com/industry/cons-products/electronics/qualcomm-bets-on-custom-ai-chips-targets-nvidia-led-data-centre-market/articleshow/130966455.cms) (Published: 2026-05-08)
+- [Owning the latest GPUs from both Nvidia and AMD made me realize that software matters more than hardware in 2026](https://www.xda-developers.com/owning-gpus-from-both-nvidia-and-amd-realize-that-software-matters-more-than-hardware/) (Published: 2026-05-08)
 - [S&P 500 and Nasdaq notch records, boosted by AI and earnings optimism](https://www.straitstimes.com/business/companies-markets/sp-500-and-nasdaq-notch-records-boosted-by-ai-and-earnings-optimism) (Published: 2026-05-08)
 - [Apple inks ‘preliminary chip-making agreement’ with Intel: A major step in American Semiconductor Revival](https://macdailynews.com/2026/05/08/apple-inks-preliminary-chip-making-agreement-with-intel-a-major-step-in-american-semiconductor-revival/) (Published: 2026-05-08)
 - [Jim Cramer says 'it's not to late' to own AI winners powering the market](https://www.cnbc.com/2026/05/08/jim-cramer-its-not-to-late-to-own-ai-winners.html) (Published: 2026-05-08)
@@ -8,5 +11,3 @@ _Last updated: **2026-05-09 22:42:18**_
 - [Windows has been hoarding old drivers on your SSD — here's how to clear them out](https://www.makeuseof.com/windows-hoarding-old-drivers-on-ssd-how-to-clear-them/) (Published: 2026-05-08)
 - [Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking](https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html) (Published: 2026-05-08)
 - [I tested Nvidia's flagship GPUs for gaming, and the RTX 5090 wasn't the winner](https://www.xda-developers.com/tried-gaming-on-nvidias-best-gpu-and-its-not-the-rtx-5090/) (Published: 2026-05-08)
-- [Red Hat brings AI, virtualization and hybrid cloud under one platform](https://siliconangle.com/2026/05/08/red-hat-platform-engineering-redhatsummit/) (Published: 2026-05-08)
-- [Apple shares hit new all-time intraday and closing highs](https://macdailynews.com/2026/05/08/apple-shares-hit-new-all-time-intraday-and-closing-highs-260508/) (Published: 2026-05-08)
