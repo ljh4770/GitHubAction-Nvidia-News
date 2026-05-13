@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-12 23:16:41**_
+_Last updated: **2026-05-13 00:15:06**_
 
-- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.3818 for Windows 10 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-3818-for-Windows-10-64-bit.shtml) (Published: 2026-05-11)
-- [Nvidia GeForce NOW data breach confirmed — but luckily most of us will be safe, here's why](https://www.techradar.com/pro/security/nvidia-geforce-now-data-breach-confirmed-but-luckily-most-of-us-will-be-safe-heres-why) (Published: 2026-05-11)
-- [CEOs Joining Trump’s China Trip Should Announce Deals like the May 2025 Middle East $2 Trillion Deals](https://www.nextbigfuture.com/2026/05/ceos-joining-trumps-china-trip-should-announce-deals-like-the-may-2025-middle-east-2-trillion-deals.html) (Published: 2026-05-11)
-- [Trump China visit; China’s Next Generation Industrial Policy; Standardizing and developing AI agents; No more deflation?; Ding Xuexiang visits Huawei](https://sinocism.com/p/trump-china-visit-chinas-next-generation) (Published: 2026-05-11)
-- [It’s The RTX 5060 Ti 16GB Versus The New 8GB Model](https://pcper.com/2026/05/its-the-rtx-5060-ti-16gb-versus-the-new-8gb-model/) (Published: 2026-05-11)
-- [CUDA Proves Nvidia Is a Software Company](https://hardware.slashdot.org/story/26/05/11/2030223/cuda-proves-nvidia-is-a-software-company) (Published: 2026-05-11)
-- [Building web search-enabled agents with Strands and Exa](https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/) (Published: 2026-05-11)
-- [adaptive-utility-agent added to PyPI](https://pypi.org/project/adaptive-utility-agent/) (Published: 2026-05-11)
-- [How to Eliminate Pipeline Friction in AI Model Serving](https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving/) (Published: 2026-05-11)
+- [Red Hat blasts RHEL 10.1 into orbit aboard Voyager's micro datacenter](https://www.theregister.com/off-prem/2026/05/12/red-hat-gives-rhel-101-the-boot-into-orbit/5238373) (Published: 2026-05-12)
+- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.3770 for Windows 10 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-3770-for-Windows-10-64-bit.shtml) (Published: 2026-05-12)
+- [Red Hat AI Inference brings llm-d to any managed Kubernetes, starting with CoreWeave and Microsoft Azure](https://www.redhat.com/en/blog/red-hat-ai-inference-brings-llm-d-any-managed-kubernetes-starting-coreweave-and-microsoft-azure) (Published: 2026-05-12)
+- [Isotropic shrinkage of patterned vacancies enables three-dimensional nanoprecise metastructures for visible light applications](https://www.nature.com/articles/s41566-026-01896-1) (Published: 2026-05-12)
+- [Red Hat Unites Builders and Operators on the Agentic Future with Major Advancements to Red Hat AI](https://www.redhat.com/en/about/press-releases/red-hat-unites-builders-and-operators-agentic-future-major-advancements-red-hat-ai) (Published: 2026-05-12)
+- [Red Hat Introduces New Sovereign and Private Cloud Capabilities to Power Digital Autonomy](https://www.redhat.com/en/about/press-releases/red-hat-introduces-new-sovereign-and-private-cloud-capabilities-power-digital-autonomy) (Published: 2026-05-12)
+- [Red Hat AI Factory with NVIDIA Expands Support for a New Class of Autonomous Agents in the Enterprise](https://www.redhat.com/en/about/press-releases/red-hat-ai-factory-nvidia-expands-support-new-class-autonomous-agents-enterprise) (Published: 2026-05-12)
+- [Red Hat Device Edge now available to run on NVIDIA Jetson Orin](https://www.redhat.com/en/blog/red-hat-device-edge-now-available-run-nvidia-jetson-orin) (Published: 2026-05-12)
+- [Supercharging local AI development with RHEL on NVIDIA DGX Spark](https://www.redhat.com/en/blog/supercharging-local-ai-development-rhel-nvidia-dgx-spark) (Published: 2026-05-12)
