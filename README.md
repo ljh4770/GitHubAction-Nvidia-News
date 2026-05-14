@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-14 20:13:30**_
+_Last updated: **2026-05-14 21:37:16**_
 
-- ["I just find AI to be creatively soulless": Star Wars: Fate of the Old Republic director Casey Hudson won't use AI because he's "really unimpressed with it"](https://www.windowscentral.com/gaming/star-wars-fate-of-the-old-republic-director-casey-hudson-wont-use-ai-because-hes-really-unimpressed-with-it) (Published: 2026-05-13)
-- [NVIDIA GeForce MX550 Graphics Driver 32.0.15.9166 for Windows 10 version 1809 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-MX550-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1809-64-bit.shtml) (Published: 2026-05-13)
-- [Cyngn Reports 2026 1st Quarter Financial Results](https://www.prnewswire.com/news-releases/cyngn-reports-2026-1st-quarter-financial-results-302771409.html) (Published: 2026-05-13)
-- [US stocks today: S&P 500, Nasdaq boosted by chips to record closing highs; hot inflation report kills rate-cut hopes](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-boosted-by-chips-to-record-closing-highs-hot-inflation-report-kills-rate-cut-hopes/articleshow/131076710.cms) (Published: 2026-05-13)
-- [NVIDIA GeForce MX450 Graphics Driver 32.0.15.9166 for Windows 11](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-MX450-Graphics-Driver-32-0-15-9166-for-Windows-11.shtml) (Published: 2026-05-13)
-- [6 Billionaires Worth A Combined $1 Trillion Join Trump On His China Trip](https://www.forbes.com/sites/saradorn/2026/05/13/6-billionaires-worth-a-combined-1-trillion-join-trump-on-his-china-trip/) (Published: 2026-05-13)
-- [freeride-gateway 0.4.0a15](https://pypi.org/project/freeride-gateway/0.4.0a15/) (Published: 2026-05-13)
-- [Subnautica 2 and Forza Horizon 6 Get Steam Deck Verified Status Ahead of Launch](https://www.techpowerup.com/349022/subnautica-2-and-forza-horizon-6-get-steam-deck-verified-status-ahead-of-launch) (Published: 2026-05-13)
-- [NVIDIA GeForce MX450 Graphics Driver 32.0.15.9166 for Windows 10 version 1903 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-MX450-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1903-64-bit.shtml) (Published: 2026-05-13)
-- [Best Buy is selling last year's LG OLED TV for 50% off - and I can vouch for it](https://www.zdnet.com/home-and-office/home-entertainment/lg-b5-77-inch-oled-best-buy-deal/) (Published: 2026-05-13)
+- [Huang, Musk, Cook Among Billionaire Delegation At Trump’s Xi Meeting - Forbes](https://slashdot.org/firehose.pl?op=view&amp;id=183210969) (Published: 2026-05-13)
+- [Tech Stocks Carry Wall Street to Records](https://www.newser.com/story/389087/tech-stocks-carry-wall-street-to-records.html) (Published: 2026-05-13)
+- [Trump Arrives in China With Entourage of Tech CEOs](https://truthout.org/articles/trump-arrives-in-china-with-entourage-of-tech-ceos/) (Published: 2026-05-13)
+- [NVIDIA GeForce MX550 Graphics Driver 32.0.15.9166 for Windows 11 version 24H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-MX550-Graphics-Driver-32-0-15-9166-for-Windows-11-version-24H2.shtml) (Published: 2026-05-13)
+- ["The Geekom Mini IT13 is a fantastic choice for people who just need a basic computer:" it's one of the best mini-PCs that's worth every penny](https://www.windowscentral.com/hardware/desktops/the-geekom-mini-it13-is-a-fantastic-choice-for-people-who-just-need-a-basic-computer-its-one-of-the-best-mini-pcs-thats-worth-every-penny) (Published: 2026-05-13)
+- [At The Money: Is SpaceX IPO Breaking Capitalism?](https://ritholtz.com/2026/05/atm-spacex-ipo/) (Published: 2026-05-13)
+- [NVIDIA GeForce RTX 4050 Laptop Graphics Driver 32.0.15.9166 for Windows 10 version 1803 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-4050-Laptop-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1803-64-bit.shtml) (Published: 2026-05-13)
+- [Trump Has One Major Focus While in China: Trade](http://foreignpolicy.com/2026/05/13/trump-china-xi-jinping-summit-trade-rare-earths-artificial-intelligence/) (Published: 2026-05-13)
+- [How major US stock indexes fared Wednesday 5/13/2026](https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-wednesday-22257591.php) (Published: 2026-05-13)
