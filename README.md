@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-14 12:13:07**_
+_Last updated: **2026-05-14 14:43:21**_
 
-- [Announcing New Joule Studio for Enterprise Scale Agentic Development](https://news.sap.com/2026/05/new-joule-studio-enterprise-scale-agentic-development/) (Published: 2026-05-13)
-- [Trump Lands In Beijing As Iran War Casts Shadow Over China Summit](https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260513-rferl01.htm) (Published: 2026-05-13)
-- [Trump lands in China for Xi summit with Nvidia CEO in tow](https://finance.yahoo.com/news/nvidia-ceo-joins-trumps-mission-041122393.html) (Published: 2026-05-13)
-- [Trump lands in China ahead of high-stakes summit with Xi](https://www.channelnewsasia.com/east-asia/trump-arrive-china-us-talks-iran-6117496) (Published: 2026-05-13)
-- [Trump lands in China as Iran tensions cloud high-stakes meeting](https://www.dailymail.com/news/article-15814185/Trump-lands-China-Iran-tensions-cloud-high-stakes-meeting.html) (Published: 2026-05-13)
-- [Grab a big $250 savings on this RTX 5070 Ti and 9850X3D combo deal for your next 4K gaming PC build — Newegg discount brings together one of AMD's fastest X3D gaming CPUs for just $1,264](https://www.tomshardware.com/pc-components/grab-a-big-usd250-savings-on-this-rtx-5070-ti-and-9850x3d-combo-deal-for-your-next-4k-gaming-pc-build-newegg-discount-brings-together-one-of-amds-fastest-x3d-gaming-cpus-for-just-usd1-264) (Published: 2026-05-13)
-- [Trump and Elon Musk picked Jensen Huang up in Alaska on their Air Force One trip to China](https://www.businessinsider.com/elon-musk-jensen-huang-air-force-one-trumps-trip-china-2026-5) (Published: 2026-05-13)
-- [China sharpens criticism of US chip-equipment bill as Trump arrives in Beijing](https://thenextweb.com/news/china-match-act-chip-bill-beijing-summit/) (Published: 2026-05-13)
-- [Morning Minute: CPI Comes In Hot; Stocks, Crypto Shrug](https://decrypt.co/367731/morning-minute-cpi-comes-in-hot-stocks-crypto-shrug) (Published: 2026-05-13)
+- [Forget McDonald’s. The Value Menu Isn’t Working and This Steakhouse Chain Is Taking Its Customers](https://247wallst.com/investing/2026/05/13/forget-mcdonalds-the-value-menu-isnt-working-and-this-steakhouse-chain-is-taking-its-customers/) (Published: 2026-05-13)
+- [Ransomware gang claims theft of Apple files in Foxconn attack](https://www.cultofmac.com/news/nitrogen-ransomware-attack-on-foxconn) (Published: 2026-05-13)
+- [r/WallStreetBets really hates the SEC's proposal to weaken quarterly reporting | TechCrunch](https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/) (Published: 2026-05-13)
+- [Forza Horizon 6, Directive 8020 and Subnautica 2 Arrive With DLSS 4.5 Super Resolution, New GeForce Drivers Now Live](https://wccftech.com/nvidia-dlss-drivers-forza-horizon-6-directive-8020-subnautica-2/) (Published: 2026-05-13)
+- [Trump Leads $4 Trillion CEO Titan Force to Beijing for Histo](https://english.punjabkesari.com/business/trump-beijing-ceo-summit-2026/) (Published: 2026-05-13)
+- [NVIDIA Drains Foxconn’s Entire CPO Rack Supply Ahead of Schedule, Forcing the Assembler to Skip Showcase at Computex This Year](https://wccftech.com/nvidia-drains-foxconn-entire-cpo-rack-supply-ahead-of-schedule/) (Published: 2026-05-13)
+- [From Forza to 007: NVIDIA Drops DLSS Into Six Games in One Week](https://me.pcmag.com/en/gaming/37094/from-forza-to-007-nvidia-drops-dlss-into-six-games-in-one-week) (Published: 2026-05-13)
+- [Awkward! Kevin Warsh May Hike Interest Rates as Fed Chair, Not Cut Them](https://247wallst.com/investing/2026/05/13/awkward-kevin-warsh-may-hike-interest-rates-as-fed-chair-not-cut-them/) (Published: 2026-05-13)
+- [Amazon Just Dropped This Blazing-Fast Asus V16 Gaming Laptop to Its Lowest Price Ever](https://www.cnet.com/deals/asus-v16-gaming-laptop-deal/) (Published: 2026-05-13)
+- [Trump Travels to China Ahead of Landmark Meeting with Xi](http://wwd.com/sourcing-journal/trade/trump-china-xi-jinping-beijing-bessent-he-lifeng-trade-1238952610/) (Published: 2026-05-13)
