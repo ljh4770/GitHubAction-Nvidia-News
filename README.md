@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-14 10:31:57**_
+_Last updated: **2026-05-14 12:13:07**_
 
-- [Is This Surging Semiconductor Stock a Buy After Its Blockbuster Deal With Nvidia?](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ffd7cebe-f1be-446e-af61-8ff35043c76b) (Published: 2026-05-13)
-- [President Trump’s Golden Dome will cost $1.2 trillion, the CBO says, five times more than initially expected](https://fortune.com/2026/05/13/fortune-500-digest-golden-dome-cbo-burry-markets/) (Published: 2026-05-13)
-- [Apple Project Files Allegedly Stolen in Foxconn Ransomware Attack](https://www.macrumors.com/2026/05/13/apple-files-stolen-foxconn-ransomware-attack/) (Published: 2026-05-13)
-- [Nvidia’s Jensen Huang joins Trump as tech dominates China trip - The Guardian](https://slashdot.org/firehose.pl?op=view&amp;id=183206531) (Published: 2026-05-13)
-- [Roundhill fund becomes fastest-growing ETF ever as retail investors seek semiconductor exposure](https://www.channelnewsasia.com/business/roundhill-fund-becomes-fastest-growing-etf-ever-retail-investors-seek-semiconductor-exposure-6118431) (Published: 2026-05-13)
-- [CEOs join Trump in China where AI will take priority over trade deals](https://fortune.com/2026/05/13/trump-china-trip-ceos-ai-trade/) (Published: 2026-05-13)
-- [Hapag-Lloyd Aktiengesellschaft Q1 Earnings Call Highlights](https://www.marketbeat.com/instant-alerts/hapag-lloyd-aktiengesellschaft-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-05-13)
-- [JOST Werke Q1 Earnings Call Highlights](https://www.marketbeat.com/instant-alerts/jost-werke-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-05-13)
-- [Analysis-Sizzling semiconductor trade at risk of cooling - and stalling US stocks rally](https://finance.yahoo.com/news/analysis-sizzling-semiconductor-trade-risk-100412623.html) (Published: 2026-05-13)
-- [Analysis:Sizzling semiconductor trade at risk of cooling - and stalling US stocks rally](https://www.channelnewsasia.com/business/analysissizzling-semiconductor-trade-risk-cooling-and-stalling-us-stocks-rally-6118411) (Published: 2026-05-13)
+- [Announcing New Joule Studio for Enterprise Scale Agentic Development](https://news.sap.com/2026/05/new-joule-studio-enterprise-scale-agentic-development/) (Published: 2026-05-13)
+- [Trump Lands In Beijing As Iran War Casts Shadow Over China Summit](https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260513-rferl01.htm) (Published: 2026-05-13)
+- [Trump lands in China for Xi summit with Nvidia CEO in tow](https://finance.yahoo.com/news/nvidia-ceo-joins-trumps-mission-041122393.html) (Published: 2026-05-13)
+- [Trump lands in China ahead of high-stakes summit with Xi](https://www.channelnewsasia.com/east-asia/trump-arrive-china-us-talks-iran-6117496) (Published: 2026-05-13)
+- [Trump lands in China as Iran tensions cloud high-stakes meeting](https://www.dailymail.com/news/article-15814185/Trump-lands-China-Iran-tensions-cloud-high-stakes-meeting.html) (Published: 2026-05-13)
+- [Grab a big $250 savings on this RTX 5070 Ti and 9850X3D combo deal for your next 4K gaming PC build — Newegg discount brings together one of AMD's fastest X3D gaming CPUs for just $1,264](https://www.tomshardware.com/pc-components/grab-a-big-usd250-savings-on-this-rtx-5070-ti-and-9850x3d-combo-deal-for-your-next-4k-gaming-pc-build-newegg-discount-brings-together-one-of-amds-fastest-x3d-gaming-cpus-for-just-usd1-264) (Published: 2026-05-13)
+- [Trump and Elon Musk picked Jensen Huang up in Alaska on their Air Force One trip to China](https://www.businessinsider.com/elon-musk-jensen-huang-air-force-one-trumps-trip-china-2026-5) (Published: 2026-05-13)
+- [China sharpens criticism of US chip-equipment bill as Trump arrives in Beijing](https://thenextweb.com/news/china-match-act-chip-bill-beijing-summit/) (Published: 2026-05-13)
+- [Morning Minute: CPI Comes In Hot; Stocks, Crypto Shrug](https://decrypt.co/367731/morning-minute-cpi-comes-in-hot-stocks-crypto-shrug) (Published: 2026-05-13)
