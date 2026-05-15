@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-15 10:57:08**_
+_Last updated: **2026-05-15 12:57:40**_
 
-- [The S&P 500 hitting another all-time high just exposed Bitcoin’s real problem](https://cryptoslate.com/the-sp-500-hitting-another-all-time-high-just-exposed-bitcoins-real-problem/) (Published: 2026-05-14)
-- [Today only: This deal on Lenovo’s RTX 5060 Ti-powered Legion gaming PC is too good to pass up at $350 off](http://9to5toys.com/2026/05/14/lenovo-rtx-5060-ti-powered-legion-gaming-pc-350-off/) (Published: 2026-05-14)
-- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.14.9717 for Windows 10 version 1809 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-14-9717-for-Windows-10-version-1809-64-bit.shtml) (Published: 2026-05-14)
-- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.14.9717 for Windows 10 version 1903 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-14-9717-for-Windows-10-version-1903-64-bit.shtml) (Published: 2026-05-14)
-- [Southeast Asia Data Center Construction Industry Outlook Report 2026: Investments are Expected to Grow at a CAGR of 17.83% During 2025-2031, Driven by Attraction from Major Operators](https://www.globenewswire.com/news-release/2026/05/14/3294699/28124/en/Southeast-Asia-Data-Center-Construction-Industry-Outlook-Report-2026-Investments-are-Expected-to-Grow-at-a-CAGR-of-17-83-During-2025-2031-Driven-by-Attraction-from-Major-Operators.html) (Published: 2026-05-14)
-- [Chipmaker Cerebras indicated to open about 90% higher in US market debut](https://www.channelnewsasia.com/business/chipmaker-cerebras-indicated-open-about-90-higher-in-us-market-debut-6121286) (Published: 2026-05-14)
-- [Cerebras set for debut in stock market gripped by AI mania](https://www.channelnewsasia.com/business/cerebras-set-debut-in-stock-market-gripped-ai-mania-6121286) (Published: 2026-05-14)
-- [Sensex today | Stock Market Highlights: Sensex gains 789 pts, Nifty ends at 23,689 as US-China trade talks lift investor sentiment](https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-14th-may-2026/article70974643.ece) (Published: 2026-05-14)
-- [Lenovo ThinkPad P16s Gen 4 review: Reliable but falling behind](https://www.pcworld.com/article/3131625/lenovo-thinkpad-p16s-gen-4-review-2.html) (Published: 2026-05-14)
-- [S&P 500, Nasdaq futures rise to new highs as Nvidia jumps](https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-futures-rise-to-new-highs-as-nvidia-jumps/articleshow/131089803.cms) (Published: 2026-05-14)
+- [Price Prediction: This Is Where Credo Could Move This Year](https://247wallst.com/investing/2026/05/14/price-prediction-this-is-where-credo-could-move-this-year/) (Published: 2026-05-14)
+- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.2802 for Windows 11 version 22H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-2802-for-Windows-11-version-22H2.shtml) (Published: 2026-05-14)
+- [Early Nvidia Investor Backs Startup to Tap Idle Grid Power](https://financialpost.com/pmn/business-pmn/early-nvidia-investor-backs-startup-to-tap-idle-grid-power) (Published: 2026-05-14)
+- [Elon Musk, Tim Cook, Pete Hegseth: who has travelled with Trump to China?](https://www.irishtimes.comhttps://www.nytimes.com/2026/05/13/us/politics/trump-china-who-musk-rubio-huang.html) (Published: 2026-05-14)
+- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.2802 for Windows 11](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-2802-for-Windows-11.shtml) (Published: 2026-05-14)
+- [NVIDIA Passes Another $300 Hit to RTX 5090 Board Partners as VRAM Shortage Pushes Flagship GPU Toward $5,000](https://wccftech.com/nvidia-passes-another-300-hit-to-rtx-5090-board-partners-due-to-vram-shortage/) (Published: 2026-05-14)
+- [Google is doing to factory robots what Android did to phones. Fanuc just became the Samsung of the equation.](https://thenextweb.com/news/fanuc-google-physical-ai-factory-robots/) (Published: 2026-05-14)
+- [‘Christian’ Wireless Provider Promises To Censor All LGBTQ Content](https://www.techdirt.com/2026/05/14/christian-wireless-provider-promises-to-censor-all-lgbtq-content/) (Published: 2026-05-14)
+- [Forza Horizon 6 Hands-On: More of the Same](https://www.thurrott.com/games/336052/forza-horizon-6-hands-on-more-of-the-same) (Published: 2026-05-14)
