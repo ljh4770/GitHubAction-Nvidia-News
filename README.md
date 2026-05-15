@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-15 01:28:30**_
+_Last updated: **2026-05-15 05:33:57**_
 
-- [Trump, Xi Set For Beijing Talks With Trade Truce, Iran War At Stake](https://www.huffpost.com/entry/trump-xi-beijing-talks-trade-iran-war_n_6a0520e9e4b0cdaf88dd3678) (Published: 2026-05-14)
-- [Cerebras prices its shares at $185 ahead of biggest tech IPO in years](https://siliconangle.com/2026/05/13/cerebras-prices-shares-185-ahead-biggest-tech-ipo-years/) (Published: 2026-05-14)
-- [Cerebras stock almost doubles from its initial offering price after the biggest tech IPO in years raised $5.5B](https://siliconangle.com/2026/05/13/cerebras-stock-almost-doubles-initial-offering-price-biggest-tech-ipo-years-raised-55b/) (Published: 2026-05-14)
-- [Trump arrives in Beijing for crucial two-day talks with Xi Jinping](https://english.khabarhub.com/2026/14/548717/) (Published: 2026-05-14)
-- [CNBC Daily Open: Trump touches down in Beijing as U.S. inflation heats up](https://www.cnbc.com/2026/05/14/cnbc-daily-open-trump-touches-down-in-beijing-as-us-prices-heat-up.html) (Published: 2026-05-14)
-- [These top U.S. CEOs, worth nearly $1 trillion combined, are accompanying Trump to China](https://freerepublic.com/focus/f-chat/4379137/posts) (Published: 2026-05-14)
-- [Activate picks stake in ElevenLabs in first global growth-stage AI bet](https://economictimes.indiatimes.com/tech/technology/activate-picks-stake-in-elevenlabs-in-first-global-growth-stage-ai-bet/articleshow/131076081.cms) (Published: 2026-05-14)
-- [dulus 0.2.66](https://pypi.org/project/dulus/0.2.66/) (Published: 2026-05-14)
-- [Google Knocks Apple Out of First Place on Kantar’s Most Valuable Brands List](https://www.adweek.com/brand-marketing/google-knocks-apple-out-of-first-place-on-kantars-most-valuable-brands-list/) (Published: 2026-05-14)
-- [ASUS ROG Zephyrus G16 (2026)](https://thegadgetflow.com/?p=726901) (Published: 2026-05-14)
+- [New GeForce Bundle offers 007 First Light with new GeForce RTX 50 Series GPUs and systems](https://www.tweaktown.com/news/111599/new-geforce-bundle-offers-007-first-light-with-new-geforce-rtx-50-series-gpus-and-systems/index.html) (Published: 2026-05-14)
+- [European markets to open higher as politics dominates the news agenda](https://www.cnbc.com/2026/05/14/europe-markets-stoxx-600-ftse-dax-iran-news-uk-starmer-latest.html) (Published: 2026-05-14)
+- [nsys-ai 0.2.3](https://pypi.org/project/nsys-ai/0.2.3/) (Published: 2026-05-14)
+- [Xi warns Trump during their meeting: The Taiwan issue could bring our countries into conflict](https://en.protothema.gr/2026/05/14/xi-warns-trump-during-their-meeting-the-taiwan-issue-could-bring-our-countries-into-conflict/) (Published: 2026-05-14)
+- [Intel shares surge 214%, short sellers face $12B in losses](https://cryptobriefing.com/intel-shares-surge-short-sellers-losses/) (Published: 2026-05-14)
+- [$1149.99 | Lenovo Legion Tower 5i AI Gaming PC at Woot! (3 replies)](https://slickdeals.net/f/19521018-1149-99-lenovo-legion-tower-5i-ai-gaming-pc-at-woot) (Published: 2026-05-14)
+- [TSMC says global chip market to hit $1.5 trillion by 2030 as AI drives growth](https://economictimes.indiatimes.com/tech/technology/tsmc-says-global-chip-market-to-hit-1-5-trillion-by-2030-as-ai-drives-growth/articleshow/131082729.cms) (Published: 2026-05-14)
+- [Nvidia CEO hopes Trump and Xi will improve two-way ties: CCTV](https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-hopes-trump-and-xi-will-improve-two-way-ties-cctv/articleshow/131082611.cms) (Published: 2026-05-14)
+- [Jhunjhunwala-backed Bagmane Prime Office REIT lists at 3.5% premium over IPO price](https://economictimes.indiatimes.com/markets/ipos/fpos/jhunjhunwala-backed-bagmane-prime-office-reit-lists-at-3-5-premium-over-ipo-price/articleshow/131082547.cms) (Published: 2026-05-14)
