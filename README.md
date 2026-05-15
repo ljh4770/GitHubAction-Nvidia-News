@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-15 05:33:57**_
+_Last updated: **2026-05-15 08:24:55**_
 
-- [New GeForce Bundle offers 007 First Light with new GeForce RTX 50 Series GPUs and systems](https://www.tweaktown.com/news/111599/new-geforce-bundle-offers-007-first-light-with-new-geforce-rtx-50-series-gpus-and-systems/index.html) (Published: 2026-05-14)
-- [European markets to open higher as politics dominates the news agenda](https://www.cnbc.com/2026/05/14/europe-markets-stoxx-600-ftse-dax-iran-news-uk-starmer-latest.html) (Published: 2026-05-14)
-- [nsys-ai 0.2.3](https://pypi.org/project/nsys-ai/0.2.3/) (Published: 2026-05-14)
-- [Xi warns Trump during their meeting: The Taiwan issue could bring our countries into conflict](https://en.protothema.gr/2026/05/14/xi-warns-trump-during-their-meeting-the-taiwan-issue-could-bring-our-countries-into-conflict/) (Published: 2026-05-14)
-- [Intel shares surge 214%, short sellers face $12B in losses](https://cryptobriefing.com/intel-shares-surge-short-sellers-losses/) (Published: 2026-05-14)
-- [$1149.99 | Lenovo Legion Tower 5i AI Gaming PC at Woot! (3 replies)](https://slickdeals.net/f/19521018-1149-99-lenovo-legion-tower-5i-ai-gaming-pc-at-woot) (Published: 2026-05-14)
-- [TSMC says global chip market to hit $1.5 trillion by 2030 as AI drives growth](https://economictimes.indiatimes.com/tech/technology/tsmc-says-global-chip-market-to-hit-1-5-trillion-by-2030-as-ai-drives-growth/articleshow/131082729.cms) (Published: 2026-05-14)
-- [Nvidia CEO hopes Trump and Xi will improve two-way ties: CCTV](https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-hopes-trump-and-xi-will-improve-two-way-ties-cctv/articleshow/131082611.cms) (Published: 2026-05-14)
-- [Jhunjhunwala-backed Bagmane Prime Office REIT lists at 3.5% premium over IPO price](https://economictimes.indiatimes.com/markets/ipos/fpos/jhunjhunwala-backed-bagmane-prime-office-reit-lists-at-3-5-premium-over-ipo-price/articleshow/131082547.cms) (Published: 2026-05-14)
+- [This memory chip works at 700 degrees Celsius. The startup behind it is already building AI chips that compute where GPUs cannot.](https://thenextweb.com/news/tetramem-memristor-700c-space-ai-computing/) (Published: 2026-05-14)
+- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.3130 for Windows 10 Vibranium 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-3130-for-Windows-10-Vibranium-64-bit.shtml) (Published: 2026-05-14)
+- [NVIDIA vs Intel Stock 2026: Why NVIDIA Expected to Outperform in Explosive AI Growth Race](https://www.ibtimes.com.au/nvidia-vs-intel-ai-leadership-investment-2026-1868787) (Published: 2026-05-14)
+- [Trade wars to extended truce: Analysts expect ‘stabilization’ in U.S.-China ties as Trump-Xi meet](https://www.cnbc.com/2026/05/14/trump-xi-summit-us-china-trade-taiwan-iran-nvidia.html) (Published: 2026-05-14)
+- [(VIDEO) Elon Musk Stands with Trump, Xi Jinping, Tim Cook and Jensen Huang in Historic Beijing Summit Photo](https://www.ibtimes.com.au/elon-musk-trump-xi-us-china-summit-beijing-1868784) (Published: 2026-05-14)
+- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.3130 for Windows 10 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-3130-for-Windows-10-64-bit.shtml) (Published: 2026-05-14)
+- [Canada's sovereign AI push comes down to a harder question: who controls the data?](https://www.cbc.ca/news/business/bakx-canada-sovereign-ai-9.7198649) (Published: 2026-05-14)
+- [US clears H200 sales to 10 Chinese firms, but not a single chip has shipped](https://thenextweb.com/news/nvidia-h200-china-licences-huang-beijing-trip/) (Published: 2026-05-14)
+- [Xi tells U.S. CEOs on Trump visit that China will open up more](https://financialpost.com/news/xi-tells-us-ceos-accompanying-trump-that-china-will-open-up-more) (Published: 2026-05-14)
+- [Xi Tells US CEOs Accompanying Trump That China Will Open Up More](https://financialpost.com/pmn/business-pmn/xi-tells-us-ceos-accompanying-trump-that-china-will-open-up-more) (Published: 2026-05-14)
