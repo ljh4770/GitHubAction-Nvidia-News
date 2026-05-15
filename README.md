@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-15 21:17:21**_
+_Last updated: **2026-05-15 22:14:03**_
 
-- [Trump ethics filing reveals THOUSANDS of trades tied to U.S. stocks... | | UP TO $750M... | | MSFT, GS, META, ORCL...](https://www.nbcnews.com/business/business-news/trump-ethics-filing-reveals-thousands-trades-tied-us-stocks-rcna345197) (Published: 2026-05-14)
-- [Who Has the Cards? Increasingly, It’s China](https://slate.com/podcasts/political-gabfest/2026/05/politics-trump-xi-and-whos-winning-the-summit) (Published: 2026-05-14)
-- [freeride-gateway 0.4.0a18](https://pypi.org/project/freeride-gateway/0.4.0a18/) (Published: 2026-05-14)
-- [Samsung Galaxy Book6 Ultra: A MacBook Pro Alternative With A $3,200 Price Tag](https://www.ubergizmo.com/2026/05/galaxy-book6-ultra/) (Published: 2026-05-14)
-- [S&P 500, Nasdaq rally on tech boost; investors eye Beijing talks - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=183217853) (Published: 2026-05-14)
-- [Nvidia commits over $40B to AI equity deals in 2026, raising dot-com era comparisons](https://cryptobriefing.com/nvidia-40b-ai-equity-deals-2026/) (Published: 2026-05-14)
-- [Dow closes above 50,000 as investors eye Trump-Xi summit](https://abcnews.com/Business/dow-crosses-50000-investors-eye-trump-xi-summit/story?id=132960205) (Published: 2026-05-14)
-- ['He's So Awkward': Elon Musk Dragged for His 'Despicable and Embarrassing' Behavior at The State Banquet Dinner with Trump in China](https://radaronline.com/p/elon-musk-slammed-despicable-embarrassing-behavior-state-banquet-dinner-china/) (Published: 2026-05-14)
-- [Can Photonics Make the AI Data Center Boom More Palatable?](https://uk.pcmag.com/cloud-infrastructure/164951/can-photonics-make-the-ai-data-center-boom-more-palatable) (Published: 2026-05-14)
+- [Stock market today: Live updates](https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html) (Published: 2026-05-14)
+- [Alienware releases new 15-inch gaming laptops with 165 Hz displays](https://www.notebookcheck.net/Alienware-releases-new-15-inch-gaming-laptops-with-165-Hz-displays.1297063.0.html) (Published: 2026-05-14)
+- [nvidia-resiliency-ext 0.6.0](https://pypi.org/project/nvidia-resiliency-ext/0.6.0/) (Published: 2026-05-14)
+- [Topaz Gigapixel Pro 1.3.0](https://post.rlsbb.to/topaz-gigapixel-pro-1-3-0/) (Published: 2026-05-14)
+- [VectorStyler 1.3.018](https://post.rlsbb.to/vectorstyler-1-3-018/) (Published: 2026-05-14)
+- [Sony Catalyst Production Suite 2026.1](https://post.rlsbb.to/sony-catalyst-production-suite-2026-1/) (Published: 2026-05-14)
+- [Trump Lavishes Praise On China’s Xi As Taiwan Hangs In The Balance](https://www.huffpost.com/entry/trump-china-taiwan_n_6a05f82ce4b0ee716970914d) (Published: 2026-05-14)
+- [Sony Catalyst Browse / Prepare Suite 2026.1](https://post.rlsbb.to/sony-catalyst-browse-prepare-suite-2026-1/) (Published: 2026-05-14)
+- [Topaz Video 1.6.0](https://post.rlsbb.to/topaz-video-1-6-0/) (Published: 2026-05-14)
