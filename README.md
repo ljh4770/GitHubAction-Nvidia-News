@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-15 20:08:16**_
+_Last updated: **2026-05-15 21:17:21**_
 
-- [US stocks today: US stocks end higher on tech rally; investors eye Beijing talks](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-on-tech-rally-investors-eye-beijing-talks/articleshow/131102748.cms) (Published: 2026-05-14)
-- [Applied Materials Announces Second Quarter 2026 Results](https://www.globenewswire.com/news-release/2026/05/14/3295316/0/en/Applied-Materials-Announces-Second-Quarter-2026-Results.html) (Published: 2026-05-14)
-- [freeride-gateway 0.4.0a17](https://pypi.org/project/freeride-gateway/0.4.0a17/) (Published: 2026-05-14)
-- [strands-osmo 0.1.0](https://pypi.org/project/strands-osmo/0.1.0/) (Published: 2026-05-14)
-- [strands-osmo added to PyPI](https://pypi.org/project/strands-osmo/) (Published: 2026-05-14)
-- [The Lenovo ThinkPad P14s Packs A Lot Of Power In A Tiny Shell](https://pcper.com/2026/05/the-lenovo-thinkpad-p14s-packs-a-lot-of-power-in-a-tiny-shell/) (Published: 2026-05-14)
-- [Tim Cook Is in Trump’s Executive Entourage for China Summit](https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html) (Published: 2026-05-14)
-- [How the NVIDIA Vera Rubin Platform is Solving Agentic AI’s Scale-Up Problem](https://developer.nvidia.com/blog/how-the-nvidia-vera-rubin-platform-is-solving-agentic-ais-scale-up-problem/) (Published: 2026-05-14)
-- [Marco Rubio warns China of 'repercussions' as he reveals what really happened during closed-door Trump and Xi meeting](https://www.dailymail.com/news/article-15817517/Marco-Rubio-reveals-Trump-Xi-meeting.html) (Published: 2026-05-14)
-- [Self-destructing $2,000 Nvidia chips will soon power tens of thousands of solar-run data centres hidden in lampposts](https://www.techradar.com/pro/self-destructing-usd2-000-nvidia-chips-will-soon-power-tens-of-thousands-of-solar-run-data-centres-hidden-in-lampposts) (Published: 2026-05-14)
+- [Trump ethics filing reveals THOUSANDS of trades tied to U.S. stocks... | | UP TO $750M... | | MSFT, GS, META, ORCL...](https://www.nbcnews.com/business/business-news/trump-ethics-filing-reveals-thousands-trades-tied-us-stocks-rcna345197) (Published: 2026-05-14)
+- [Who Has the Cards? Increasingly, It’s China](https://slate.com/podcasts/political-gabfest/2026/05/politics-trump-xi-and-whos-winning-the-summit) (Published: 2026-05-14)
+- [freeride-gateway 0.4.0a18](https://pypi.org/project/freeride-gateway/0.4.0a18/) (Published: 2026-05-14)
+- [Samsung Galaxy Book6 Ultra: A MacBook Pro Alternative With A $3,200 Price Tag](https://www.ubergizmo.com/2026/05/galaxy-book6-ultra/) (Published: 2026-05-14)
+- [S&P 500, Nasdaq rally on tech boost; investors eye Beijing talks - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=183217853) (Published: 2026-05-14)
+- [Nvidia commits over $40B to AI equity deals in 2026, raising dot-com era comparisons](https://cryptobriefing.com/nvidia-40b-ai-equity-deals-2026/) (Published: 2026-05-14)
+- [Dow closes above 50,000 as investors eye Trump-Xi summit](https://abcnews.com/Business/dow-crosses-50000-investors-eye-trump-xi-summit/story?id=132960205) (Published: 2026-05-14)
+- ['He's So Awkward': Elon Musk Dragged for His 'Despicable and Embarrassing' Behavior at The State Banquet Dinner with Trump in China](https://radaronline.com/p/elon-musk-slammed-despicable-embarrassing-behavior-state-banquet-dinner-china/) (Published: 2026-05-14)
+- [Can Photonics Make the AI Data Center Boom More Palatable?](https://uk.pcmag.com/cloud-infrastructure/164951/can-photonics-make-the-ai-data-center-boom-more-palatable) (Published: 2026-05-14)
