@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-16 20:33:15**_
+_Last updated: **2026-05-16 21:29:36**_
 
-- [Group That Escaped Trump’s Kennedy Center Takeover Is Thriving](https://newrepublic.com/post/210547/opera-donald-trump-kennedy-center-takeover) (Published: 2026-05-15)
-- [What did Trump and Xi achieve in Beijing?](https://www.rt.com/news/640055-xi-trump-results-summit/) (Published: 2026-05-15)
-- [Fake image shows Trump, Musk and Nvidia CEO Jensen Huang with fists up in front of CCP flag](https://www.snopes.com//fact-check/trump-musk-huang-fists-up/) (Published: 2026-05-15)
-- [Stocks tumble as Treasury yields spike and Iran fears shake markets](https://nypost.com/2026/05/15/business/stocks-tumble-as-treasury-yields-spike-and-iran-fears-shake-markets/) (Published: 2026-05-15)
-- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.1700 for Windows 11 version 22H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-1700-for-Windows-11-version-22H2.shtml) (Published: 2026-05-15)
-- [Apple shares hit new all-time intraday and closing highs](https://macdailynews.com/2026/05/15/apple-shares-hit-new-all-time-intraday-and-closing-highs-91/) (Published: 2026-05-15)
-- [Eric Trump Defends President’s Stock Trades Of Nvidia, Palantir, Meta And More](https://www.forbes.com/sites/alisondurkee/2026/05/15/eric-trump-defends-presidents-stock-trades-of-nvidia-palantir-meta-and-more/) (Published: 2026-05-15)
-- [Trump’s More Than 3,700 Trades Astonish Wall Street Insiders](https://finance.yahoo.com/markets/stocks/articles/trump-traded-nvidia-boeing-intel-030913697.html) (Published: 2026-05-15)
-- [US stocks today: Dow Jones crashes 500 points on mounting inflation worries](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-on-mounting-inflation-worries/articleshow/131127334.cms) (Published: 2026-05-15)
-- [Startups are installing tiny data centers in people’s homes to reduce strain on the beleaguered electrical grid](https://fortune.com/2026/05/15/startups-tiny-data-centers-beleaguered-electrical-grid-heata-span/) (Published: 2026-05-15)
+- [VideoProc Converter AI 8.11](https://post.rlsbb.to/videoproc-converter-ai-8-11/) (Published: 2026-05-15)
+- [Lenovo Legion 5i Gaming Laptop - Intel i7-14700HX - 15" 2.5K WQXGA PureSight OLED Display–165Hz –NVIDIA RTX 5070 – 16 GB Memory – 1 TB Storage – 3 Months of PC GamePass $1419.99](https://slickdeals.net/f/19527315-lenovo-legion-5i-gaming-laptop-intel-i7-14700hx-15-2-5k-wqxga-puresight-oled-display-165hz-nvidia-rtx-5070-16-gb-memory-1-tb-storage-3-months-of-pc-gamepass-1419-99) (Published: 2026-05-15)
+- [dulus 0.2.83](https://pypi.org/project/dulus/0.2.83/) (Published: 2026-05-15)
+- [Intel’s NUCs Live On… as an Excessive Asus Mini Gaming PC](https://gizmodo.com/asus-rog-nuc-16-price-and-spec-configurations-2000759279) (Published: 2026-05-15)
+- [Dow Jones, S&P 500 and Nasdaq end this week lower as tech stocks slide, Treasury yields and oil prices climb after Trump-Xi China summit disappoints investors - US stock market performance today May 15](https://economictimes.indiatimes.com/news/international/us/dow-jones-sp-500-and-nasdaq-end-this-week-lower-as-tech-stocks-slide-treasury-yields-and-oil-prices-climb-after-trump-xi-china-summit-disappoints-investors-us-stock-market-performance-today-may-15/articleshow/131127482.cms) (Published: 2026-05-15)
+- [Daybreak Weekend: Nvidia Earnings, Europe Airlines, Japan GDP](https://omny.fm/shows/bloomberg-daybreak/daybreak-weekend-nvidia-earnings-europe-airlines-japan-gdp) (Published: 2026-05-15)
+- [SalesCloser Deepens Conversational AI Moat with Dedicated GPU Inference Cluster, Enabling Custom Model Fine-Tuning, Agentic Workflows, and Regulated-Industry Readiness](https://financialpost.com/globe-newswire/salescloser-deepens-conversational-ai-moat-with-dedicated-gpu-inference-cluster-enabling-custom-model-fine-tuning-agentic-workflows-and-regulated-industry-readiness) (Published: 2026-05-15)
+- [Wall Street ends lower on mounting inflation worries](https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-on-mounting-inflation-worries) (Published: 2026-05-15)
+- [SalesCloser Deepens Conversational AI Moat with Dedicated GPU Inference Cluster, Enabling Custom Model Fine-Tuning, Agentic Workflows, and Regulated-Industry Readiness](https://www.globenewswire.com/news-release/2026/05/15/3296158/0/en/SalesCloser-Deepens-Conversational-AI-Moat-with-Dedicated-GPU-Inference-Cluster-Enabling-Custom-Model-Fine-Tuning-Agentic-Workflows-and-Regulated-Industry-Readiness.html) (Published: 2026-05-15)
