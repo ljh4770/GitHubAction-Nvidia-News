@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-16 14:47:23**_
+_Last updated: **2026-05-16 15:42:51**_
 
-- [Why is US stock market falling today? Dow Jones, S&P 500 and Nasdaq crash after Trump concludes China visit - Nvidia and Amazon stocks sink amid inflation fears and Iran war uncertainty shaking Wall Street](https://economictimes.indiatimes.com/news/international/us/why-is-us-stock-market-falling-today-dow-jones-sp-500-and-nasdaq-crash-after-trump-concludes-china-visit-nvidia-and-amazon-stocks-sink-amid-inflation-fears-and-iran-war-uncertainty-shaking-wall-street/articleshow/131120735.cms) (Published: 2026-05-15)
-- [Prediction. Kevin Warsh’s Fed View Could Unlock These 4 AI Stocks Under $10 That the Market Has Left for Dead](https://247wallst.com/investing/2026/05/15/prediction-kevin-warshs-fed-view-could-unlock-these-4-ai-stocks-under-10-that-the-market-has-left-for-dead/) (Published: 2026-05-15)
-- [If an AI Bubble Forms and Pops, the Mag 7 Won’t All React the Same Way](https://247wallst.com/investing/2026/05/15/if-an-ai-bubble-forms-and-pops-the-mag-7-wont-all-react-the-same-way/) (Published: 2026-05-15)
-- [The 2025 TIAA-GFLEC Study Found That Americans Have Made Zero Financial Literacy Progress in 8 Years](https://247wallst.com/personal-finance/2026/05/15/the-2025-tiaa-gflec-study-found-that-americans-have-made-zero-financial-literacy-progress-in-8-years/) (Published: 2026-05-15)
-- [Comparing classic games with their modern counterparts – no downloads required](https://www.ign.com/articles/comparing-classic-games-with-their-modern-counterparts-no-downloads-required) (Published: 2026-05-15)
-- [Trump-Xi summit: Cautious progress on trade, ties and some ‘win-wins’](https://theconversation.com/trump-xi-summit-cautious-progress-on-trade-ties-and-some-win-wins-283046) (Published: 2026-05-15)
-- [Dow Plunges 395 Points to 49,667 as Tech Sell-Off Triggers Broad Market Pullback](https://www.ibtimes.com.au/dow-jones-drops-400-points-tech-sell-off-interest-rate-concerns-1868906) (Published: 2026-05-15)
-- [Trump says China is blocking Nvidia H200 purchases despite US approval — says country 'chose not to' sanction purchases, pushing homegrown chips instead](https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases) (Published: 2026-05-15)
-- [Traders Dump Chipmakers as Rising Yields Drive US Stock Selloff](https://financialpost.com/pmn/business-pmn/traders-dump-chipmakers-as-rising-yields-drive-us-stock-selloff) (Published: 2026-05-15)
+- [Trump Has Made Bank Off Stocks From Companies With Federal Contracts](https://newrepublic.com/post/210518/donald-trump-stocks-federal-contracts) (Published: 2026-05-15)
+- [mahanai 7.5.0](https://pypi.org/project/mahanai/7.5.0/) (Published: 2026-05-15)
+- [Bybit Unites Crypto and Traditional Finance in $100M RWA Giveaway Across +400 Global Assets](https://www.prnewswire.com/news-releases/bybit-unites-crypto-and-traditional-finance-in-100m-rwa-giveaway-across-400-global-assets-302773701.html) (Published: 2026-05-15)
+- [Trump Traded Millions in Tech Stocks in Q1](https://freerepublic.com/focus/f-chat/4379402/posts) (Published: 2026-05-15)
+- [Fed Rate Cuts Are Over. Expect Hikes as Stagflation Is Ready to Strike](https://247wallst.com/investing/2026/05/15/fed-rate-cuts-are-over-expect-hikes-as-stagflation-is-ready-to-strike/) (Published: 2026-05-15)
+- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 31.0.15.2656 for Windows 10 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-31-0-15-2656-for-Windows-10-64-bit.shtml) (Published: 2026-05-15)
+- [Ask Paul: May 15 ⭐️](https://www.thurrott.com/paul/336140/ask-paul-may-15-2) (Published: 2026-05-15)
+- [Global bonds sink and oil prices jump, triggering a stock sell-off](https://www.nbcnews.com/business/markets/bonds-oil-prices-stocks-trump-china-trip-rcna345290) (Published: 2026-05-15)
+- [I Hit Rock Bottom at 30 Facing Foreclosure and Credit Card Debt: Here’s How I Reached an Eight-Figure Year by 40](https://247wallst.com/personal-finance/2026/05/15/i-hit-rock-bottom-at-30-facing-foreclosure-and-credit-card-debt-heres-how-i-reached-an-eight-figure-year-by-40/) (Published: 2026-05-15)
+- [Car Wreck: Ford Falls 7%, Tesla Slides 4%](https://247wallst.com/investing/2026/05/15/car-wreck-ford-falls-7-tesla-slides-4/) (Published: 2026-05-15)
