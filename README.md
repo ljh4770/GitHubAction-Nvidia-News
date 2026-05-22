@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-22 22:39:05**_
+_Last updated: **2026-05-22 23:46:07**_
 
+- [Agentic AI Enters Its Enterprise Execution Era](https://www.forrester.com/blogs/agentic-ai-enters-its-enterprise-execution-era/) (Published: 2026-05-21)
+- [Anthropic and Microsoft discuss AI chip deal after $5B investment](https://cryptobriefing.com/anthropic-microsoft-maia-200-chip-deal/) (Published: 2026-05-21)
+- [OpenEvidence Brings Hands-Free Medical AI to 860,000 Clinicians](https://www.pymnts.com/healthcare/2026/openevidence-brings-hands-free-medical-ai-to-860000-clinicians/) (Published: 2026-05-21)
+- [Oil falls, stocks climb as investors hope for progress in Iran war talks](https://www.channelnewsasia.com/business/oil-falls-stocks-climb-investors-hope-progress-in-iran-war-talks-6135731) (Published: 2026-05-21)
+- [Is the Nancy Guthrie investigation being handled properly? John Ramsey urges Guthrie family to question investigation as disappearance passes 100 days](https://economictimes.indiatimes.com/news/international/us/is-the-nancy-guthrie-investigation-being-handled-properly-john-ramsey-urges-guthrie-family-to-question-investigation-as-disappearance-passes-100-days/articleshow/131251875.cms) (Published: 2026-05-21)
+- [Sky Elements Sets GUINNESS WORLD RECORDS™ Title with Vecna Drone Show for Stranger Things Final Season](https://www.prnewswire.com/news-releases/sky-elements-sets-guinness-world-records-title-with-vecna-drone-show-for-stranger-things-final-season-302779630.html) (Published: 2026-05-21)
 - [Nvidia reports record $81.6B revenue, Bank of America raises price target to $350](https://cryptobriefing.com/nvidia-record-revenue-bank-of-america-price-target/) (Published: 2026-05-21)
 - [Lawful access bill pile-on continues as U.S. lobby group warns Liberals of trade implications](https://www.cbc.ca/news/politics/lawful-access-bill-pile-on-continues-as-u-s-lobby-group-warns-liberals-of-trade-implications-9.7207808) (Published: 2026-05-21)
 - [Oracle and the Rise of the AI Surveillance State Under Trump](https://www.activistpost.com/oracle-and-the-rise-of-the-ai-surveillance-state-under-trump-2/) (Published: 2026-05-21)
 - [AI is killing the cheap smartphone](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone) (Published: 2026-05-21)
-- [Nvidia Earnings May Mark A Major Turning Point For The Stock Market - Seeking Alpha](https://slashdot.org/firehose.pl?op=view&amp;id=183313776) (Published: 2026-05-21)
-- [Hitman devs show off new engine tech in 007 First Light including new real-time global illumination and software ray-tracing](https://www.tweaktown.com/news/111728/hitman-devs-show-off-new-engine-tech-in-007-first-light-including-new-real-time-global-illumination-and-software-ray-tracing/index.html) (Published: 2026-05-21)
-- [US stocks end volatile session higher as oil prices retreat](https://www.channelnewsasia.com/world/us-stocks-oil-prices-middle-east-nvidia-6134201) (Published: 2026-05-21)
-- [Stock Market Today: S&P 500 and Nasdaq turn higher, Dow on pace for fresh record; investors digest Nvidia earnings; oil trims gain; Walmart results in focus](https://slashdot.org/firehose.pl?op=view&amp;id=183313118) (Published: 2026-05-21)
-- [Will President Trump attend Don Jr.'s wedding amid Iran tensions? He says it's 'not good timing'-here's why](https://economictimes.indiatimes.com/news/international/us/will-president-trump-attend-don-jr-s-wedding-amid-iran-tensions-he-says-its-not-good-timing-heres-why/articleshow/131251941.cms) (Published: 2026-05-21)
-- [Nvidia’s Jensen Huang aims to dominate new CPU market with Vera chip](https://cryptobriefing.com/nvidia-vera-cpu-market-dominance/) (Published: 2026-05-21)
