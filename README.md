@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-22 13:56:41**_
+_Last updated: **2026-05-22 16:27:43**_
 
-- [demucs-onnx added to PyPI](https://pypi.org/project/demucs-onnx/) (Published: 2026-05-21)
-- [Taiwan prosecutors investigate 3 people over Nvidia chip smuggling to China](https://www.seattlepi.com/news/world/article/taiwan-prosecutors-investigate-3-people-over-22270178.php) (Published: 2026-05-21)
-- [Baird raises Nvidia price target to $500 following Q1 earnings](https://cryptobriefing.com/baird-nvidia-price-target-500/) (Published: 2026-05-21)
-- [Live markets: Bitcoin's flat action continues as SpaceX IPO, Nvidia earnings capture news cycle](https://www.coindesk.com/markets/2026/05/21/live-markets-bitcoin-s-flat-action-continues-as-spacex-ipo-nvidia-earnings-capture-news-cycle) (Published: 2026-05-21)
-- [Wayve's self-driving tech is headed to US cars made by Stellantis | TechCrunch](https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/) (Published: 2026-05-21)
-- [Nemotron-Labs-Diffusion を DGX Spark で動かして tri-mode 生成を実測してみた](https://dev.classmethod.jp/articles/dgx-spark-nemotron-labs-diffusion-tri-mode-bench/) (Published: 2026-05-21)
-- [What Will XRP Be Worth in 10 Years? A Decade-Out View](https://247wallst.com/investing/2026/05/21/what-will-xrp-be-worth-in-10-years-a-decade-out-view/) (Published: 2026-05-21)
-- [Asian stocks surge on Iran hopes and Samsung union talks](https://kuwaittimes.com/article/43989/business/asian-stocks-surge-on-iran-hopes-and-samsung-union-talks/) (Published: 2026-05-21)
-- [Micron Technologies Will Be a $1 Trillion Company By This Date](https://247wallst.com/investing/2026/05/21/micron-technologies-will-be-a-1-trillion-company-by-this-date/) (Published: 2026-05-21)
-- [Globant, Cascadience and Viability Launch AI-Powered Platform for Students with Disabilities](https://www.prnewswire.com/news-releases/globant-cascadience-and-viability-launch-ai-powered-platform-for-students-with-disabilities-302778000.html) (Published: 2026-05-21)
+- [Shastra VC launches $100 million fund to back deeptech, AI startups](https://economictimes.indiatimes.com/tech/funding/shastra-vc-launches-100-million-fund-to-back-deeptech-ai-startups/articleshow/131249191.cms) (Published: 2026-05-21)
+- [Kawasaki Heavy, Nvidia plan Silicon Valley robotics center, Nikkei reports](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_76fd179e-0389-4421-bd25-c252feacaba0) (Published: 2026-05-21)
+- [Samsung's free 32-inch Odyssey monitor deal is back in stock - how to qualify](https://www.zdnet.com/home-and-office/home-entertainment/samsung-m9-odyssey-g7-bogo-deal-memorial-day-2026/) (Published: 2026-05-21)
+- [ASML (ASML): AI Stock With The Widest Moat?](https://finance.yahoo.com/markets/stocks/articles/asml-asml-ai-stock-widest-161633693.html) (Published: 2026-05-21)
+- [Three S&P 500 Value ETFs Beating Some Growth Rivals in 2026 and Most Investors Are Still Looking the Other Way](https://247wallst.com/investing/2026/05/21/three-sp-500-value-etfs-beating-some-growth-rivals-in-2026-and-most-investors-are-still-looking-the-other-way/) (Published: 2026-05-21)
+- [Nvidia tells users to update GPU drivers now or face possible attack — here's what we know](https://www.techradar.com/pro/security/nvidia-tells-users-to-update-gpu-drivers-now-or-face-possible-attack-heres-what-we-know) (Published: 2026-05-21)
+- [Kordata Launches To Advance Neurotech-Powered Clinical Trials](https://www.forbes.com/sites/naveenrao/2026/05/21/kordata-launches-to-advance-neurotech-powered-clinical-trials/) (Published: 2026-05-21)
+- [NVIDIA's "Vera" CPU Could Make It One of the Biggest CPU Makers This Year](https://www.techpowerup.com/349251/nvidias-vera-cpu-could-make-it-one-of-the-biggest-cpu-makers-this-year) (Published: 2026-05-21)
+- [NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/) (Published: 2026-05-21)
