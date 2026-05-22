@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-22 16:27:43**_
+_Last updated: **2026-05-22 18:16:31**_
 
-- [Shastra VC launches $100 million fund to back deeptech, AI startups](https://economictimes.indiatimes.com/tech/funding/shastra-vc-launches-100-million-fund-to-back-deeptech-ai-startups/articleshow/131249191.cms) (Published: 2026-05-21)
-- [Kawasaki Heavy, Nvidia plan Silicon Valley robotics center, Nikkei reports](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_76fd179e-0389-4421-bd25-c252feacaba0) (Published: 2026-05-21)
-- [Samsung's free 32-inch Odyssey monitor deal is back in stock - how to qualify](https://www.zdnet.com/home-and-office/home-entertainment/samsung-m9-odyssey-g7-bogo-deal-memorial-day-2026/) (Published: 2026-05-21)
-- [ASML (ASML): AI Stock With The Widest Moat?](https://finance.yahoo.com/markets/stocks/articles/asml-asml-ai-stock-widest-161633693.html) (Published: 2026-05-21)
-- [Three S&P 500 Value ETFs Beating Some Growth Rivals in 2026 and Most Investors Are Still Looking the Other Way](https://247wallst.com/investing/2026/05/21/three-sp-500-value-etfs-beating-some-growth-rivals-in-2026-and-most-investors-are-still-looking-the-other-way/) (Published: 2026-05-21)
-- [Nvidia tells users to update GPU drivers now or face possible attack — here's what we know](https://www.techradar.com/pro/security/nvidia-tells-users-to-update-gpu-drivers-now-or-face-possible-attack-heres-what-we-know) (Published: 2026-05-21)
-- [Kordata Launches To Advance Neurotech-Powered Clinical Trials](https://www.forbes.com/sites/naveenrao/2026/05/21/kordata-launches-to-advance-neurotech-powered-clinical-trials/) (Published: 2026-05-21)
-- [NVIDIA's "Vera" CPU Could Make It One of the Biggest CPU Makers This Year](https://www.techpowerup.com/349251/nvidias-vera-cpu-could-make-it-one-of-the-biggest-cpu-makers-this-year) (Published: 2026-05-21)
-- [NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/) (Published: 2026-05-21)
+- [Nvidia characterizes LPX as niche silicon optimized for high-speed premium tokens](https://www.digitimes.com/news/a20260521VL222/nvidia-niche-silicon-accelerator-hardware.html) (Published: 2026-05-21)
+- [Stock Market Today: Dow Up, Nvidia Sinks 2% While Intuit Craters; These AI Companies Thrive (Live Coverage) - Investor's Business Daily](https://slashdot.org/firehose.pl?op=view&amp;id=183310522) (Published: 2026-05-21)
+- [Two-year-old Chinese robotics firm claims to supply nine of world's top ten tech giants](https://www.digitimes.com/news/a20260521VL230/robotics-robot-hardware-commercial-amazon.html) (Published: 2026-05-21)
+- [Nvidia CEO Jensen Huang: AI will be multitrillion-dollar industry with ‘very clear’ ROI](https://cryptobriefing.com/nvidia-huang-ai-multitrillion-dollar-industry/) (Published: 2026-05-21)
+- [Anthropic, Microsoft in talks for AI chip deal after $5 billion investment](https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html) (Published: 2026-05-21)
+- [Hark Raises $700 Million For AI Hardware Development](https://www.pymnts.com/news/investment-tracker/2026/hark-raises-700-million-for-ai-hardware-development/) (Published: 2026-05-21)
+- [An AI trade involving energy and infrastructure that's doubled your money, topping Nvidia](https://www.cnbc.com/2026/05/21/an-ai-trade-involving-energy-and-infrastructure-thats-doubled-your-money-topping-nvidia.html) (Published: 2026-05-21)
+- [AI spending expected to top $1 trillion in 2 years. That estimate's way too low if Jensen Huang's right](https://www.cnbc.com/2026/05/21/ai-spending-expected-to-top-1-trillion-in-2-years-why-that-estimate-may-be-too-low.html) (Published: 2026-05-21)
+- [What Wall Street Analysts Are Saying About Nvidia's Strong Earnings](https://www.breitbart.com/tech/2026/05/21/what-wall-street-analysts-are-saying-about-nvidias-strong-earnings/) (Published: 2026-05-21)
