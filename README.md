@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-24 12:46:23**_
+_Last updated: **2026-05-24 14:15:03**_
 
-- [The Dividend Stocks That Generate $60,000 Tax-Free Inside a Roth (And What They Cost You in a Taxable Account)](https://247wallst.com/investing/2026/05/23/the-dividend-stocks-that-generate-60000-tax-free-inside-a-roth-and-what-they-cost-you-in-a-taxable-account/) (Published: 2026-05-23)
-- [Nvidia forecasts $200B CPU market, includes China demand despite export restrictions](https://cryptobriefing.com/nvidia-200b-cpu-market-china-demand/) (Published: 2026-05-23)
-- [HP releases new 15-inch compact gaming laptop with 180 Hz display](https://www.notebookcheck.net/HP-releases-new-15-inch-compact-gaming-laptop-with-180-Hz-display.1304029.0.html) (Published: 2026-05-23)
-- [nvidia-nat-memmachine 1.7.0a20260523](https://pypi.org/project/nvidia-nat-memmachine/1.7.0a20260523/) (Published: 2026-05-23)
-- [nvidia-nat-ragaai 1.7.0a20260523](https://pypi.org/project/nvidia-nat-ragaai/1.7.0a20260523/) (Published: 2026-05-23)
-- [nvidia-nat-config-optimizer 1.7.0a20260523](https://pypi.org/project/nvidia-nat-config-optimizer/1.7.0a20260523/) (Published: 2026-05-23)
-- [nvidia-nat-test 1.7.0a20260523](https://pypi.org/project/nvidia-nat-test/1.7.0a20260523/) (Published: 2026-05-23)
-- [Nvidia says its forecast for $200 billion CPU market includes China](https://www.cnbc.com/2026/05/23/nvidia-forecast-for-200-billion-cpu-market-includes-china.html) (Published: 2026-05-23)
-- [$100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, and Core i3-12100F to find the top DDR4 CPU](https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4) (Published: 2026-05-23)
-- [nvidia-nat-strands 1.7.0a20260523](https://pypi.org/project/nvidia-nat-strands/1.7.0a20260523/) (Published: 2026-05-23)
+- [As Trump Plans Next Round in Iran War, Fresh Gas Price Shocks Rattle Consumers](https://247wallst.com/investing/2026/05/23/as-trump-plans-next-round-in-iran-war-fresh-gas-price-shocks-rattle-consumers/) (Published: 2026-05-23)
+- [One Number From SPACEX Pre-IPO Disclosures Reveals Just How Fragile This Is...](https://247wallst.com/investing/2026/05/23/one-number-from-spacexs-pre-ipo-disclosures-reveals-just-how-fragile-this-business-really-is/) (Published: 2026-05-23)
+- ["AI definitely has a place in gaming": I asked readers about the future of gaming AI, and I wasn't expecting these answers](https://www.windowscentral.com/gaming/gaming-ai-reader-opinions) (Published: 2026-05-23)
+- [PJUL Caps Your S&P 500 Gains at 11% While Protecting Against 40% Crashes: The Math for Retirees](https://247wallst.com/investing/2026/05/23/pjul-caps-your-sp-500-gains-at-11-while-protecting-against-40-crashes-the-math-for-retirees/) (Published: 2026-05-23)
+- [AI cost crisis hits tech giants as employee 'tokenmaxxing' backfires — agentic AI eats up to 1000x more tokens than standard AI, sparks corporate pullback at Microsoft, Meta, and Amazon](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon) (Published: 2026-05-23)
+- [Hagens Berman Files New Securities Class Action Against Super Micro Computer (SMCI) And Its Senior Executives: New Complaint Alleges Additional Corrective Disclosures; Lead Plaintiff Filing Deadline Remains May 26, 2026](https://www.prnewswire.com/news-releases/hagens-berman-files-new-securities-class-action-against-super-micro-computer-smci-and-its-senior-executives-new-complaint-alleges-additional-corrective-disclosures-lead-plaintiff-filing-deadline-remains-may-26-2026-302780585.html) (Published: 2026-05-23)
+- [Ultra-fast broadband just killed the need for my massive SSD drives](https://www.makeuseof.com/ultra-fast-broadband-just-killed-need-for-massive-ssd-drives/) (Published: 2026-05-23)
+- [Jensen Huang lands in Taiwan, calls Vera Rubin biggest product ramp in computer history](https://www.digitimes.com/news/a20260523PD200/nvidia-taiwan-jensen-huang-rubin-ceo.html) (Published: 2026-05-23)
+- [The AI Stock That's Been Outperforming Nvidia Since January](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_236e243b-6ef8-4097-8549-6666492f87cf) (Published: 2026-05-23)
