@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-24 16:40:08**_
+_Last updated: **2026-05-24 17:41:03**_
 
+- [Save almost $200 on a flagship AMD 9850X3D CPU and 9070 XT GPU with this Newegg combo bundle — AMD's Ryzen 9 9850X3D and Radeon RX 9070 XT can be yours at a great price](https://www.tomshardware.com/pc-components/save-almost-usd200-on-a-flagship-amd-9850x3d-cpu-and-9070-xt-gpu-with-this-newegg-combo-bundle-amds-ryzen-9-9850x3d-and-radeon-rx-9070-xt-can-be-yours-at-a-great-price) (Published: 2026-05-23)
+- [NVIDIA CFO Teases Rivals Caught Off Guard by Memory Shortage, Says Her Firm Knew Prices Would Soar](https://wccftech.com/nvidia-cfo-teases-rivals-caught-off-guard-by-memory-shortage-says-her-firm-knew-prices-would-soar/) (Published: 2026-05-23)
+- [Nvidia CEO Jensen Huang arrives in Taiwan for GTC Taipei keynote](https://cryptobriefing.com/nvidia-jensen-huang-taiwan-gtc-taipei/) (Published: 2026-05-23)
+- [Nvidia forecasts $200B CPU market, includes China in its long-term projections](https://cryptobriefing.com/nvidia-200b-cpu-market-china/) (Published: 2026-05-23)
+- [Broadcom’s AI Packaging Bet Gets Bigger. Wall Street Is Betting on More Upside for AVGO Stock.](https://www.barchart.com/story/news/2102972/broadcoms-ai-packaging-bet-gets-bigger-wall-street-is-betting-on-more-upside-for-avgo-stock) (Published: 2026-05-23)
 - [Insiders at SoftBank Worry Their CEO Is Getting Conned by Sam Altman](http://futurism.com/artificial-intelligence/insiders-softbank-sam-altman) (Published: 2026-05-23)
 - [Should You Buy, Or Sell Fidelity’s MSCI Industrials Index ETF (FIDU) Today?](https://247wallst.com/investing/2026/05/23/should-you-buy-or-sell-fidelitys-msci-industrials-index-etf-fidu-today/) (Published: 2026-05-23)
 - [Where Will Walmart Stock Be By 2030?](https://247wallst.com/investing/2026/05/23/where-will-walmart-stock-be-by-2030/) (Published: 2026-05-23)
 - [A used Lenovo ThinkCentre is still the best $100 you can spend on a home lab](https://www.xda-developers.com/a-used-lenovo-thinkcentre-is-still-the-best-money-you-can-spend-on-a-home-lab/) (Published: 2026-05-23)
 - [Quote of the day by Jensen Huang: 'It's very clear that AI is going to impact every industry. I think that every nation needs to...' - lessons on artificial intelligence, technology, global economy and how AI will transform every country by Nvidia CEO and GPU inventor](https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-jensen-huang-its-very-clear-that-ai-is-going-to-impact-every-industry-i-think-that-every-nation-needs-to-lessons-on-artificial-intelligence-technology-global-economy-and-how-ai-will-transform-every-country-by-nvidia-ceo-and-gpu-inventor/articleshow/131281258.cms) (Published: 2026-05-23)
-- [Jim Cramer Breaks Down NVIDIA’s Latest Quarter](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-nvidia-145543670.html) (Published: 2026-05-23)
-- [Why BofA Says to “Ignore the Noise” on NVIDIA Corporation (NVDA)](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1083c757-3ac2-4fcc-9257-d2da978fc978) (Published: 2026-05-23)
-- [As Trump Plans Next Round in Iran War, Fresh Gas Price Shocks Rattle Consumers](https://247wallst.com/investing/2026/05/23/as-trump-plans-next-round-in-iran-war-fresh-gas-price-shocks-rattle-consumers/) (Published: 2026-05-23)
-- [One Number From SPACEX Pre-IPO Disclosures Reveals Just How Fragile This Is...](https://247wallst.com/investing/2026/05/23/one-number-from-spacexs-pre-ipo-disclosures-reveals-just-how-fragile-this-business-really-is/) (Published: 2026-05-23)
-- ["AI definitely has a place in gaming": I asked readers about the future of gaming AI, and I wasn't expecting these answers](https://www.windowscentral.com/gaming/gaming-ai-reader-opinions) (Published: 2026-05-23)
