@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-24 15:36:45**_
+_Last updated: **2026-05-24 16:40:08**_
 
+- [Insiders at SoftBank Worry Their CEO Is Getting Conned by Sam Altman](http://futurism.com/artificial-intelligence/insiders-softbank-sam-altman) (Published: 2026-05-23)
 - [Should You Buy, Or Sell Fidelity’s MSCI Industrials Index ETF (FIDU) Today?](https://247wallst.com/investing/2026/05/23/should-you-buy-or-sell-fidelitys-msci-industrials-index-etf-fidu-today/) (Published: 2026-05-23)
 - [Where Will Walmart Stock Be By 2030?](https://247wallst.com/investing/2026/05/23/where-will-walmart-stock-be-by-2030/) (Published: 2026-05-23)
 - [A used Lenovo ThinkCentre is still the best $100 you can spend on a home lab](https://www.xda-developers.com/a-used-lenovo-thinkcentre-is-still-the-best-money-you-can-spend-on-a-home-lab/) (Published: 2026-05-23)
@@ -10,4 +11,3 @@ _Last updated: **2026-05-24 15:36:45**_
 - [As Trump Plans Next Round in Iran War, Fresh Gas Price Shocks Rattle Consumers](https://247wallst.com/investing/2026/05/23/as-trump-plans-next-round-in-iran-war-fresh-gas-price-shocks-rattle-consumers/) (Published: 2026-05-23)
 - [One Number From SPACEX Pre-IPO Disclosures Reveals Just How Fragile This Is...](https://247wallst.com/investing/2026/05/23/one-number-from-spacexs-pre-ipo-disclosures-reveals-just-how-fragile-this-business-really-is/) (Published: 2026-05-23)
 - ["AI definitely has a place in gaming": I asked readers about the future of gaming AI, and I wasn't expecting these answers](https://www.windowscentral.com/gaming/gaming-ai-reader-opinions) (Published: 2026-05-23)
-- [PJUL Caps Your S&P 500 Gains at 11% While Protecting Against 40% Crashes: The Math for Retirees](https://247wallst.com/investing/2026/05/23/pjul-caps-your-sp-500-gains-at-11-while-protecting-against-40-crashes-the-math-for-retirees/) (Published: 2026-05-23)
