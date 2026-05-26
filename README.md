@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-26 01:45:44**_
+_Last updated: **2026-05-26 05:52:00**_
 
-- [Nvidia N1X spotted online ahead of rumoured Computex launch](https://www.notebookcheck.net/Nvidia-N1X-spotted-online-ahead-of-rumoured-Computex-launch.1304916.0.html) (Published: 2026-05-25)
-- [How APAC companies are rewiring their tech for the AI era](https://www.computerweekly.com/news/366643327/How-APAC-companies-are-rewiring-their-tech-for-the-AI-era) (Published: 2026-05-25)
-- [AI was supposed to cut costs. Microsoft and Uber are finding it is more expensive than paying human employees](https://www.livemint.com/companies/news/ai-was-supposed-to-cut-costs-microsoft-and-uber-are-finding-it-is-more-expensive-than-paying-human-employees-11779666290918.html) (Published: 2026-05-25)
-- [nemo-retriever 2026.5.24.dev101](https://pypi.org/project/nemo-retriever/2026.5.24.dev101/) (Published: 2026-05-24)
-- [Embedded substrates draw AI chip interest as packaging turns strategic](https://www.digitimes.com/news/a20260522PD220/embedded-packaging-ai-chip-nvidia-intel.html) (Published: 2026-05-24)
-- [Costco Vs. Micro Center: Which Store Is Better For Electronics?](https://www.bgr.com/2176780/costco-vs-micro-center-which-store-better-electronics/) (Published: 2026-05-24)
-- [UK internet users unknowingly give tech and artificial intelligence firms £194,000](https://www.the-independent.com/tech/uk-internet-users-data-ai-b2982765.html) (Published: 2026-05-24)
-- [‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer](https://247wallst.com/personal-finance/2026/05/24/expect-corrections-and-dont-rely-on-hope-cramers-reality-check-for-a-first-time-homebuyer/) (Published: 2026-05-24)
-- [The Best Stocks to Buy Right Now: Nvidia vs. AMD vs. Broadcom](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0aebc3c7-6870-4de7-9375-6de65545f240) (Published: 2026-05-24)
+- [Kawasaki opens Silicon Valley physical AI center, deepening Nvidia ties](https://www.digitimes.com/news/a20260525PR204/kawasaki-nvidia-silicon-valley-manufacturing-healthcare.html) (Published: 2026-05-25)
+- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.14.7168 for Windows 10 version 1803 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-14-7168-for-Windows-10-version-1803-64-bit.shtml) (Published: 2026-05-25)
+- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.14.7168 for Windows 10 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-14-7168-for-Windows-10-64-bit.shtml) (Published: 2026-05-25)
+- [NVIDIA GeForce RTX 3060 Ti Graphics Driver 30.0.14.7208 for Windows 10 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-GeForce-RTX-3060-Ti-Graphics-Driver-30-0-14-7208-for-Windows-10-64-bit.shtml) (Published: 2026-05-25)
+- [Ubuntu 26.04 : Any opened apps are not responding when disk activity is high (e.g. when downloading and installing things)](https://askubuntu.com/questions/1567142/ubuntu-26-04-any-opened-apps-are-not-responding-when-disk-activity-is-high-e) (Published: 2026-05-25)
+- [Ram Dakota, Citroen 2CV headline $100 billion Stellantis comeback plan](https://www.drive.com.au/news/ram-dakota-citroen-2cv-headline-100-billion-stellantis-comeback-plan/) (Published: 2026-05-25)
+- [Putting AI to work in network management](https://www.computerweekly.com/feature/Putting-AI-to-work-in-network-management) (Published: 2026-05-25)
+- [Dell XPS 14: 14.5" 3.2K 120Hz Touch OLED, Intel Ultra 7 255H, RTX 4050, 64GB LPDDR5-8400, 2TB SSD $2699.99 (2 replies)](https://slickdeals.net/f/19557219-dell-xps-14-14-5-3-2k-120hz-touch-oled-intel-ultra-7-255h-rtx-4050-64gb-lpddr5-8400-2tb-ssd-2699-99) (Published: 2026-05-25)
+- [US Stock Market: Wall Street faces macro headwinds after strong earnings season](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-faces-macro-headwinds-after-strong-earnings-season/articleshow/131301043.cms) (Published: 2026-05-25)
+- [Analysis: Lisa Su moves on China — and Nvidia's CUDA moat](https://www.digitimes.com/news/a20260525PD215/amd-nvidia-lisa-su-cuda-market.html) (Published: 2026-05-25)
