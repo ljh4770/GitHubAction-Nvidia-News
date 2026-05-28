@@ -1,13 +1,14 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-28 15:29:40**_
+_Last updated: **2026-05-28 18:23:15**_
 
-- [007 First Light's PC performance isn't quite martini-smooth, but it's a damn sight better than that stuttering reveal footage](https://www.rockpapershotgun.com/007-first-lights-pc-performance-isnt-quite-martini-smooth-but-its-a-damn-sight-better-than-that-stuttering-reveal-footage) (Published: 2026-05-27)
-- [HP releases new gaming laptop with 64 GB RAM and Intel Panther Lake](https://www.notebookcheck.net/HP-releases-new-gaming-laptop-with-64-GB-RAM-and-Intel-Panther-Lake.1308032.0.html) (Published: 2026-05-27)
-- [Bitdeer appoints former Corsair Gaming executive Michael Potter as CFO](https://cryptobriefing.com/bitdeer-cfo-michael-potter-corsair/) (Published: 2026-05-27)
-- [TrendAI™ is recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection Platforms](https://www.prnewswire.com/news-releases/trendai-is-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection-platforms-302783303.html) (Published: 2026-05-27)
-- [Alpha Compute Corp. Completes Majority Acquisition of GAMEE](https://www.globenewswire.com/news-release/2026/05/27/3302193/0/en/Alpha-Compute-Corp-Completes-Majority-Acquisition-of-GAMEE.html) (Published: 2026-05-27)
-- [Amazon SageMaker HyperPod Slurm clusters now support specifying minimum capacity requirements with continuous provisioning](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-mincount/) (Published: 2026-05-27)
-- [$233.28 Bn Microprocessor Markets, 2035 - Increased Demand Across Consumer Electronics, Automotive, and Artificial Intelligence](https://www.globenewswire.com/news-release/2026/05/27/3302195/28124/en/233-28-Bn-Microprocessor-Markets-2035-Increased-Demand-Across-Consumer-Electronics-Automotive-and-Artificial-Intelligence.html) (Published: 2026-05-27)
-- [Nehru’s science and tech vision can’t be forgotten](https://www.thehindubusinessline.com/opinion/nehrus-science-and-tech-vision-cant-be-forgotten/article71030289.ece) (Published: 2026-05-27)
-- [NVIDIA TITAN RTX Graphics Driver 32.0.15.9186 for Windows 10 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-32-0-15-9186-for-Windows-10-64-bit.shtml) (Published: 2026-05-27)
-- [3 Reasons Why Nvidia Just Became More Boring, and Wall Street Doesn't Like It](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b74908ab-69fa-4681-aa48-1179a1db1559) (Published: 2026-05-27)
+- [This Samsung Odyssey gaming monitor lets you pick between 4K 180Hz/FHD 360Hz modes, and it just hit $320 all-time low](http://9to5toys.com/2026/05/27/samsung-odyssey-gaming-monitor-4k-180hz-fhd-360hz-modes-all-time-low-2/) (Published: 2026-05-27)
+- [Sharia's Growing Influence on U.S. Finance](https://www.realclearinvestigations.com/articles/2026/05/27/sharias_growing_influence_on_us_finance_1185046.html) (Published: 2026-05-27)
+- [Introducing Workshop: launch sandboxed development environments on Ubuntu with a single command](
+      https://canonical.com/blog/introducing-workshop-sandboxed-development-environments) (Published: 2026-05-27)
+- [NVIDIA TITAN RTX Graphics Driver 31.0.15.1694 for Windows 10 version 1903 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-31-0-15-1694-for-Windows-10-version-1903-64-bit.shtml) (Published: 2026-05-27)
+- [IGEL Brings Now & Next Workspace & Endpoint Security Summits to Five European Cities](https://www.prnewswire.com/news-releases/igel-brings-now--next-workspace--endpoint-security-summits-to-five-european-cities-302783483.html) (Published: 2026-05-27)
+- [The pope, Sam Altman, and Nvidia's Jensen Huang have something in common: They all just said reasonable things about AI.](https://www.businessinsider.com/nvidia-jensen-huang-pope-sam-altman-ai-jobs-companies-future-2026-5) (Published: 2026-05-27)
+- [The BP Chairman Story Just Got More Complicated](https://app.moby.co/home/news/news-the-bp-chairman-story-just-got-more-complicated?utm_source=yahoo_finance&amp;utm_medium=rss) (Published: 2026-05-27)
+- [NVIDIA TITAN RTX Graphics Driver 31.0.15.1694 for Windows 10 version 1803 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/NVIDIA-TITAN-RTX-Graphics-Driver-31-0-15-1694-for-Windows-10-version-1803-64-bit.shtml) (Published: 2026-05-27)
+- [Show HN: cuSBF – Faster GPU Bloom Filter for Sequence Data](https://github.com/tdortman/cuSBF) (Published: 2026-05-27)
+- [Lenovo Yoga 7A 2-in-1 16 Review: Big-Screen OLED Creativity on a Budget](https://www.cnet.com/tech/computing/lenovo-yoga-7a-2-in-1-16-review/) (Published: 2026-05-27)
