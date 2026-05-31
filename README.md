@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-05-31 04:55:27**_
+_Last updated: **2026-05-31 08:14:27**_
 
+- [The CEO Job Is Easy. Just Ask a CEO.](https://www.pymnts.com/big-tech/2026/ceo-says-job-is-easy/) (Published: 2026-05-30)
+- [Why Building a Custom Steam Machine Beats Buying a Console](https://www.geeky-gadgets.com/custom-steam-machine-build-guide/) (Published: 2026-05-30)
+- [Apple Working To Cram Massive Gemini Model Into iPhone To Power New Siri](https://apple.slashdot.org/story/26/05/28/2242216/apple-working-to-cram-massive-gemini-model-into-iphone-to-power-new-siri) (Published: 2026-05-30)
+- [Dan Loeb calls Nvidia reasonably valued at 15x forward earnings, dismisses AI bubble talk](https://cryptobriefing.com/dan-loeb-nvidia-forward-earnings-valuation/) (Published: 2026-05-30)
+- [dgx-spark-cli 0.1.2](https://pypi.org/project/dgx-spark-cli/0.1.2/) (Published: 2026-05-30)
+- [dgx-spark-cli 0.1.1](https://pypi.org/project/dgx-spark-cli/0.1.1/) (Published: 2026-05-30)
+- [dgx-spark-cli added to PyPI](https://pypi.org/project/dgx-spark-cli/) (Published: 2026-05-30)
+- [Nvidia CEO Jensen Huang to visit South Korea: source](https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-jensen-huang-to-visit-south-korea-source/articleshow/131404262.cms) (Published: 2026-05-30)
 - [Nvidia chief executive Jensen Huang expected to visit South Korea](https://www.channelnewsasia.com/east-asia/nvidia-chief-executive-jensen-huang-expected-visit-south-korea-6151131) (Published: 2026-05-30)
 - [localbrain-rag added to PyPI](https://pypi.org/project/localbrain-rag/) (Published: 2026-05-30)
-- [Why Bitcoin Is Struggling While Stocks Keep Rising – Here’s What The Data Reveals](https://bitcoinist.com/why-bitcoin-struggling-while-stocks-keep-rising/) (Published: 2026-05-30)
-- [5 world market themes for the week ahead](https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/131403517.cms) (Published: 2026-05-30)
-- [Lenovo Legion Pro 7 with RTX 5080 and Core Ultra 9 is almost 30% off today](https://www.notebookcheck.net/Lenovo-Legion-Pro-7-with-RTX-5080-and-Core-Ultra-9-is-almost-30-off-today.1309096.0.html) (Published: 2026-05-30)
-- [Open-box Lenovo Yoga Pro 9i with 2.8K OLED, Core Ultra 9 285H, 32 GB RAM discounted to around $1,100](https://www.notebookcheck.net/Open-box-Lenovo-Yoga-Pro-9i-with-2-8K-OLED-Core-Ultra-9-285H-32-GB-RAM-discounted-to-around-1-100.1310947.0.html) (Published: 2026-05-30)
-- [At Computex, Nvidia and Taiwan's expanding role in AI infrastructure set to take centre stage](https://economictimes.indiatimes.com/tech/technology/at-computex-nvidia-and-taiwans-expanding-role-in-ai-infrastructure-set-to-take-centre-stage/articleshow/131402590.cms) (Published: 2026-05-30)
-- [Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=183450548) (Published: 2026-05-30)
-- [Crypto Giant Dethroned: Bitcoin Drops Out Of Top 10 Amid Market Shift](http://www.newsbtc.com/news/crypto-giant-dethroned-bitcoin-drops-out-of-top-10-amid-market-shift/) (Published: 2026-05-30)
-- [Google built the answer to your AI bill before you knew you had a problem](https://www.livemint.com/companies/news/google-built-the-answer-to-your-ai-bill-before-you-knew-you-had-a-problem-11780099283342.html) (Published: 2026-05-30)
