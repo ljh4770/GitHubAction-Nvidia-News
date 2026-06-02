@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-01 23:19:31**_
+_Last updated: **2026-06-02 01:40:33**_
 
-- [Why TSMC (TSM) Is Reducing Stake in Vanguard Semiconductor Stock](https://finance.yahoo.com/markets/stocks/articles/why-tsmc-tsm-reducing-stake-231634945.html) (Published: 2026-05-31)
-- [Nvidia Corp. (NVDA) Deepens Enterprise AI Adoption Through ePlus Partnership](https://finance.yahoo.com/sectors/technology/articles/nvidia-corp-nvda-deepens-enterprise-230721355.html) (Published: 2026-05-31)
-- [Steve Sosnick: Crypto ETFs are fueling performance chasing, the critical role of money flow in market dynamics, and the reliance on faith over fundamentals in the stock rally | Unchained](https://cryptobriefing.com/steve-sosnick-crypto-etfs-are-fueling-performance-chasing-the-critical-role-of-money-flow-in-market-dynamics-and-the-reliance-on-faith-over-fundamentals-in-the-stock-rally-unchained/) (Published: 2026-05-31)
-- [Exploding rockets and exploding hardware prices make for a lousy new normal](https://www.theregister.com/personal-tech/2026/06/01/exploding-rockets-and-exploding-hardware-prices-make-for-a-lousy-new-normal/5248601) (Published: 2026-05-31)
-- [Alienware shows off new curved 34-inch monitor with QD-OLED panel](https://www.notebookcheck.net/Alienware-shows-off-new-curved-34-inch-monitor-with-QD-OLED-panel.1311695.0.html) (Published: 2026-05-31)
-- [Alienware debuts 39, 34-inch OLED gaming monitors — RGB Stripe Tandem and Penta Tandem tech should boost color performance and text clarity](https://www.tomshardware.com/monitors/gaming-monitors/alienware-debuts-39-34-inch-oled-gaming-monitors-rgb-stripe-tandem-and-penta-tandem-tech-should-boost-color-performance-and-text-clarity) (Published: 2026-05-31)
-- [China’s Stealth Pipeline For NVIDIA And AMD Chips Now On The Chopping Block, As Washington Targets Foreign Subsidiaries Headquartered In Beijing](https://wccftech.com/chinas-stealth-pipeline-for-nvidia-and-amd-chips-now-on-the-chopping-block-as-washington-targets-foreign-subsidiaries-headquartered-in-beijing/) (Published: 2026-05-31)
-- [Trump Says He 'Saved' Crypto, But Did Bitcoin, Ethereum, XRP Actually Benefit?](https://finance.yahoo.com/markets/crypto/articles/trump-says-saved-crypto-did-220041192.html) (Published: 2026-05-31)
-- [gpufft 0.1.3](https://pypi.org/project/gpufft/0.1.3/) (Published: 2026-05-31)
+- [WPG says AI era will reward supply-chain ecosystems over individual firms](https://www.digitimes.com/news/a20260601PD206/wpg-ai-nvidia-supply-chain-taiwan.html) (Published: 2026-06-01)
+- [Fire TV Vs. Apple TV: Which Is Better For Your Streaming Habits?](https://www.bgr.com/2181960/fire-tv-vs-apple-tv-which-better-streaming-habits/) (Published: 2026-06-01)
+- [Dell counters the MacBook Neo with a $599 XPS 13](https://boingboing.net/2026/05/31/dell-counters-the-macbook-neo-with-a-599-xps-13.html) (Published: 2026-06-01)
+- [Global Market Today: Asian stocks count on AI boom to offset Gulf risks](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-count-on-ai-boom-to-offset-gulf-risks/articleshow/131431720.cms) (Published: 2026-06-01)
+- [Nvidia CEO Jensen Huang unveils Computex trade show in Taiwan. What to expect from AI event in Taipei?](https://economictimes.indiatimes.com/news/international/us/nvidia-ceo-jensen-huang-unveils-computex-trade-show-in-taiwan-what-to-expect-from-ai-event-in-taipei/articleshow/131431657.cms) (Published: 2026-06-01)
+- [US takes step to halt Nvidia AI chip shipments to Chinese firms outside China](https://www.channelnewsasia.com/world/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china-6153111) (Published: 2026-06-01)
+- [LG shares rally on hopes for AI, robot cooperation with Nvidia, media says](https://www.channelnewsasia.com/business/lg-shares-rally-hopes-ai-robot-cooperation-nvidia-media-says-6153106) (Published: 2026-06-01)
+- [Watch Nvidia's Computex 2026 keynote here — Jensen Huang takes the stage for Computex and GTC Taipei at 8pm PT / 11pm ET on May 31](https://slashdot.org/firehose.pl?op=view&amp;id=183500134) (Published: 2026-06-01)
+- [AI bubble debate gets real as chip stocks rally](https://economictimes.indiatimes.com/markets/us-stocks/news/ai-bubble-debate-gets-real-as-chip-stocks-rally/articleshow/131431599.cms) (Published: 2026-06-01)
+- [AMD Launches Radeon RX 9070 GRE Worldwide at $550](https://www.techpowerup.com/349546/amd-launches-radeon-rx-9070-gre-worldwide-at-usd-550) (Published: 2026-06-01)
