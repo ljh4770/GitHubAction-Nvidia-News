@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-10 19:52:38**_
+_Last updated: **2026-06-10 21:51:41**_
 
-- [Vibe Coding Is Keeping Old AMD Graphics Cards Alive on Linux](https://uk.pcmag.com/ai/165479/vibe-coding-is-keeping-old-amd-graphics-cards-alive-on-linux) (Published: 2026-06-09)
-- [Vibe Coding Is Keeping Old AMD Graphics Cards Alive on Linux](https://me.pcmag.com/en/graphics-cards/37456/vibe-coding-is-keeping-old-amd-graphics-cards-alive-on-linux) (Published: 2026-06-09)
-- [Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry](https://truthout.org/articles/googles-new-ai-fueled-search-bar-threatens-to-further-upend-journalism-industry/) (Published: 2026-06-09)
-- [China Pours More Fuel On The AI Arms Race Fire](https://dailycaller.com/2026/06/09/china-295-billion-data-centers/) (Published: 2026-06-09)
-- [The AI industry spent years chasing bigger models. Now it’s chasing efficiency](https://fortune.com/2026/06/09/ais-next-challenge-isnt-bigger-models-its-making-them-efficient-enough-to-use/) (Published: 2026-06-09)
-- [MIT’s ultrasound wristband tracks every finger movement and lets you control a robot hand in real time](https://thenextweb.com/news/mit-ultrasound-wristband-hand-tracking-robot-control/) (Published: 2026-06-09)
-- [clawmetry 0.12.495](https://pypi.org/project/clawmetry/0.12.495/) (Published: 2026-06-09)
-- [Apple’s Siri-AI, or more shouting into the void about “private” agents](https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/) (Published: 2026-06-09)
-- [Arthur Hayes Warns AI Stock Crash Could Hit Crypto Before BTC Rebounds](http://www.newsbtc.com/news/arthur-hayes-ai-stock-crash-hit-crypto/) (Published: 2026-06-09)
-- [cmcp-runtime added to PyPI](https://pypi.org/project/cmcp-runtime/) (Published: 2026-06-09)
+- [fscript 1.0.1](https://pypi.org/project/fscript/1.0.1/) (Published: 2026-06-09)
+- [I Found the Google TV Streamer 4K Down to Just $80](https://www.cnet.com/deals/google-tv-streamer-4k-deal-amazon/) (Published: 2026-06-09)
+- [clawmetry 0.12.496](https://pypi.org/project/clawmetry/0.12.496/) (Published: 2026-06-09)
+- [Nissan Turns Factory AI Into a Comeback Strategy](https://www.pymnts.com/news/artificial-intelligence/2026/nissan-turns-factory-ai-into-comeback-strategy/) (Published: 2026-06-09)
+- [AMD stock falls 10% as AI chip sector faces broad selloff](https://cryptobriefing.com/amd-stock-falls-10-percent-ai-selloff/) (Published: 2026-06-09)
+- [WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more - TechCrunch](https://slashdot.org/firehose.pl?op=view&amp;id=183721534) (Published: 2026-06-09)
+- [NASDAQ sinks 3% as tech sell-off reignites, dragging Bitcoin below $60K](https://cryptobriefing.com/nasdaq-tech-sell-off-bitcoin-drops/) (Published: 2026-06-09)
+- [YY Group (NASDAQ YYGH) Launches Commercial Humanoid Robotics Initiative to Drive AI-Driven Margin Expansion and Address Global Facility Management Labor Shortages](https://www.globenewswire.com/news-release/2026/06/09/3309337/0/en/YY-Group-NASDAQ-YYGH-Launches-Commercial-Humanoid-Robotics-Initiative-to-Drive-AI-Driven-Margin-Expansion-and-Address-Global-Facility-Management-Labor-Shortages.html) (Published: 2026-06-09)
+- [S&P, Nasdaq fall as tech shares drag markets lower and Bitcoin follows suit](https://cryptobriefing.com/sp-nasdaq-fall-tech-shares-bitcoin/) (Published: 2026-06-09)
