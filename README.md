@@ -1,14 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-12 20:05:12**_
+_Last updated: **2026-06-12 21:58:42**_
 
-- [Aston Martin Turned Its Valkyrie Le Mans Hypercar Into a Carbon Fiber Racing Simulator](https://hiconsumption.com/uncategorized/aston-martin-amr-c01-r-hypercar-edition-racing-simulator/) (Published: 2026-06-11)
-- [Aston Martin Turned Its Valkyrie Le Mans Hypercar Into a Carbon Fiber Racing Simulator](https://hiconsumption.com/motors/aston-martin-amr-c01-r-hypercar-edition-racing-simulator/) (Published: 2026-06-11)
-- [One-Click Multi-Tenant Security with  NVIDIA Quantum InfiniBand](https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/) (Published: 2026-06-11)
-- [LG Introduces UltraGear 34GX90SB-W 34-inch WQHD 240 Hz OLED Gaming Monitor](https://www.techpowerup.com/349916/lg-introduces-ultragear-34gx90sb-w-34-inch-wqhd-240-hz-oled-gaming-monitor) (Published: 2026-06-11)
-- [SpaceX cuts retail IPO allocation to low 20% range as institutional demand overwhelms offering](https://cryptobriefing.com/spacex-cuts-retail-ipo-allocation/) (Published: 2026-06-11)
-- [Wynton Hall: There Is No Finish Line in the AI Race with China](https://www.breitbart.com/tech/2026/06/11/wynton-hall-there-is-no-finish-line-in-the-ai-race-with-china/) (Published: 2026-06-11)
-- [AI at the edge: simplifying infrastructure with Cisco and Canonical](
-      https://ubuntu.com/blog/ai-at-the-edge-simplifying-infrastructure-with-cisco-and-canonical) (Published: 2026-06-11)
-- [SpaceX First-Ever Orbital Data Center Is Coming With A Powerful Payload](https://www.bgr.com/2192402/spacex-first-ever-orbital-data-center-craft-powerful-payload/) (Published: 2026-06-11)
-- [Dow jumps nearly 800 points after Trump calls off Iran strikes, chip stocks rebound](https://nypost.com/2026/06/11/business/dow-jumps-nearly-800-points-after-trump-calls-off-iran-strikes-chip-stocks-rebound/) (Published: 2026-06-11)
-- [Nvidia showcases GTC Taipei highlights and launches RTX Spark superchip](https://cryptobriefing.com/nvidia-gtc-taipei-rtx-spark-launch/) (Published: 2026-06-11)
+- [Demystifying America’s Chips War With China](https://dailycaller.com/2026/06/11/opinion-us-china-semiconductors-james-carter-timothy-maney/) (Published: 2026-06-11)
+- [NVIDIA Stockholder Meeting Set for June 24; Individuals Can Participate Online](https://nvidianews.nvidia.com/news/nvidia-stockholder-meeting-set-for-june-24-individuals-can-participate-online) (Published: 2026-06-11)
+- [NVIDIA Stockholder Meeting Set for June 24; Individuals Can Participate Online](https://www.globenewswire.com/news-release/2026/06/11/3310830/0/en/NVIDIA-Stockholder-Meeting-Set-for-June-24-Individuals-Can-Participate-Online.html) (Published: 2026-06-11)
+- [Stock Market Today: Dow, S&P 500, Nasdaq Rise; Oracle, Micron, Super Micro, Nvidia, More Movers; PPI Inflation report - Barron's](https://slashdot.org/firehose.pl?op=view&amp;id=183754440) (Published: 2026-06-11)
+- [The great AI Irony: China cracks down on Western models while US companies flock to DeepSeek](https://www.techradar.com/pro/the-great-ai-irony-china-cracks-down-on-western-models-while-us-companies-flock-to-deepseek) (Published: 2026-06-11)
+- [Stocks Jump After Post on War](https://www.newser.com/story/390896/stocks-jump-after-post-on-war.html) (Published: 2026-06-11)
+- [The $899 Desktop CNC That Impressed Asia’s Biggest Tech Expo](https://www.yankodesign.com/2026/06/11/the-899-desktop-cnc-that-impressed-asias-biggest-tech-expo/) (Published: 2026-06-11)
+- [Microsoft is now letting Nvidia GPUs run local AI features that were locked to Copilot+ PCs](https://www.techspot.com/news/112729-microsoft-now-letting-nvidia-gpus-run-local-ai.html) (Published: 2026-06-11)
+- [Talk Python to Me: #551: Stroll Down Startup Lane - 2026](https://talkpython.fm/episodes/show/551/stroll-down-startup-lane-2026) (Published: 2026-06-11)
+- [Hyperscale Data Confirms Production of First 30 Omnipresent Robotics OPR-R2 Humanoid Robots Has Begun](https://www.prnewswire.com/news-releases/hyperscale-data-confirms-production-of-first-30-omnipresent-robotics-opr-r2-humanoid-robots-has-begun-302798498.html) (Published: 2026-06-11)
