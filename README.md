@@ -1,13 +1,14 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-12 17:53:58**_
+_Last updated: **2026-06-12 20:05:12**_
 
-- [sgpustat added to PyPI](https://pypi.org/project/sgpustat/) (Published: 2026-06-11)
-- [Iran Says Musk's Holdings Are Now Legitimate Targets](https://www.newser.com/story/390880/iran-says-musks-holdings-are-now-legitimate-targets.html) (Published: 2026-06-11)
-- [BofA upgrades Intel from Sell to Buy after stock quintupled](https://cryptobriefing.com/bofa-upgrades-intel-buy-stock-quintupled/) (Published: 2026-06-11)
-- [Micron Technology, Inc. (MU) Is A Top AI Stock In Ken Griffin’s Portfolio](https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-top-173025497.html) (Published: 2026-06-11)
-- [NVIDIA Corp. (NVDA) Is A Top AI Stock In Ken Griffin’s Portfolio](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_04a5c6ac-e3b9-46e3-8ffc-3cfd4d2a8836) (Published: 2026-06-11)
-- [Iran Designates Elon Musk's Middle East SpaceX Operations as Military Targets](https://www.breitbart.com/tech/2026/06/11/iran-designates-elon-musks-middle-east-spacex-operations-as-military-targets/) (Published: 2026-06-11)
-- [Markets climb even as US and Iran exchange fire](https://www.irishtimes.com/business/2026/06/11/markets-climb-even-as-us-and-iran-exchange-fire/) (Published: 2026-06-11)
-- [Build RAG-powered AI solutions at the edge with AWS Local Zones and Outposts](https://aws.amazon.com/blogs/compute/build-rag-powered-ai-solutions-at-the-edge-with-aws-local-zones-and-outposts/) (Published: 2026-06-11)
-- [NVIDIA RTX 5000 Super GPU refreshes could arrive Q4 2026, complete with 5060 Super - but don't expect RTX 6000 until 2028](https://www.tweaktown.com/news/112146/nvidia-rtx-5000-super-gpu-refreshes-could-arrive-q4-2026-complete-with-5060-super-but-dont-expect-rtx-6000-until-2028/index.html) (Published: 2026-06-11)
-- [Why the AI capex cycle may just be beginning](https://www.globenewswire.com/news-release/2026/06/11/3310733/0/en/Why-the-AI-capex-cycle-may-just-be-beginning.html) (Published: 2026-06-11)
+- [Aston Martin Turned Its Valkyrie Le Mans Hypercar Into a Carbon Fiber Racing Simulator](https://hiconsumption.com/uncategorized/aston-martin-amr-c01-r-hypercar-edition-racing-simulator/) (Published: 2026-06-11)
+- [Aston Martin Turned Its Valkyrie Le Mans Hypercar Into a Carbon Fiber Racing Simulator](https://hiconsumption.com/motors/aston-martin-amr-c01-r-hypercar-edition-racing-simulator/) (Published: 2026-06-11)
+- [One-Click Multi-Tenant Security with  NVIDIA Quantum InfiniBand](https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/) (Published: 2026-06-11)
+- [LG Introduces UltraGear 34GX90SB-W 34-inch WQHD 240 Hz OLED Gaming Monitor](https://www.techpowerup.com/349916/lg-introduces-ultragear-34gx90sb-w-34-inch-wqhd-240-hz-oled-gaming-monitor) (Published: 2026-06-11)
+- [SpaceX cuts retail IPO allocation to low 20% range as institutional demand overwhelms offering](https://cryptobriefing.com/spacex-cuts-retail-ipo-allocation/) (Published: 2026-06-11)
+- [Wynton Hall: There Is No Finish Line in the AI Race with China](https://www.breitbart.com/tech/2026/06/11/wynton-hall-there-is-no-finish-line-in-the-ai-race-with-china/) (Published: 2026-06-11)
+- [AI at the edge: simplifying infrastructure with Cisco and Canonical](
+      https://ubuntu.com/blog/ai-at-the-edge-simplifying-infrastructure-with-cisco-and-canonical) (Published: 2026-06-11)
+- [SpaceX First-Ever Orbital Data Center Is Coming With A Powerful Payload](https://www.bgr.com/2192402/spacex-first-ever-orbital-data-center-craft-powerful-payload/) (Published: 2026-06-11)
+- [Dow jumps nearly 800 points after Trump calls off Iran strikes, chip stocks rebound](https://nypost.com/2026/06/11/business/dow-jumps-nearly-800-points-after-trump-calls-off-iran-strikes-chip-stocks-rebound/) (Published: 2026-06-11)
+- [Nvidia showcases GTC Taipei highlights and launches RTX Spark superchip](https://cryptobriefing.com/nvidia-gtc-taipei-rtx-spark-launch/) (Published: 2026-06-11)
