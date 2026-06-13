@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-13 20:55:44**_
+_Last updated: **2026-06-13 22:04:49**_
 
+- [sgemm-bi 0.1.1.post2](https://pypi.org/project/sgemm-bi/0.1.1.post2/) (Published: 2026-06-12)
+- [sgemm-bi 0.1.1.post1](https://pypi.org/project/sgemm-bi/0.1.1.post1/) (Published: 2026-06-12)
+- [SpaceX and Nvidia deepen partnership to advance space and AI initiatives](https://cryptobriefing.com/spacex-nvidia-partnership-space-ai/) (Published: 2026-06-12)
+- [SpaceX IPO makes Elon Musk world's first trillionaire](https://www.dw.com/en/elon-musk-becomes-worlds-first-trillionaire-after-spacex-ipo/a-77529579) (Published: 2026-06-12)
+- [Nvidia Blackwell achieves 20x more agents per megawatt than Hopper](https://cryptobriefing.com/nvidia-blackwell-20x-agents-per-megawatt/) (Published: 2026-06-12)
+- [NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark](https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/) (Published: 2026-06-12)
+- [10 Best Companies for Facing the Future](https://www.newser.com/story/390929/10-best-companies-for-facing-the-future.html) (Published: 2026-06-12)
+- [Nvidia CEO Jensen Huang outlines AI’s shift from retrieval to generation](https://cryptobriefing.com/nvidia-huang-ai-retrieval-to-generation/) (Published: 2026-06-12)
+- [NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark](https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/) (Published: 2026-06-12)
 - [How To Properly Stress Test Your GPU: Why FurMark Alone Is Not Enough For Modern GPUs](https://wccftech.com/how-to/how-to-properly-stress-test-your-gpu/) (Published: 2026-06-12)
-- [McDonald’s Fired Its AI. Now It’s Back With Google’s.](https://www.pymnts.com/news/artificial-intelligence/2026/mcdonalds-fired-ai-now-its-back-with-googl/) (Published: 2026-06-12)
-- [SpaceX’s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways](https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290) (Published: 2026-06-12)
-- [Rocket Lab added to Nasdaq-100 - putting it in the same club as SpaceX](https://www.nzherald.co.nz/business/rocket-lab-added-to-nasdaq-100-putting-it-in-the-same-club-as-spacex/TUPVLRZWOJH7BM7EX6W4HZNTNY/) (Published: 2026-06-12)
-- [torch-nvidia-of-sdk 5.0.3](https://pypi.org/project/torch-nvidia-of-sdk/5.0.3/) (Published: 2026-06-12)
-- [Redditor buys RTX 2080 Ti Super engineering sample on eBay, has the same number of cores as an RTX Titan but half the VRAM](https://www.tweaktown.com/news/112168/redditor-buys-rtx-2080-ti-super-engineering-sample-on-ebay-has-the-same-number-of-cores-as-an-rtx-titan-but-half-the-vram/index.html) (Published: 2026-06-12)
-- [ubuntu OS/Kernel logging - system freeze/hung](https://askubuntu.com/questions/1567677/ubuntu-os-kernel-logging-system-freeze-hung) (Published: 2026-06-12)
-- [AMD Opens Pre-Orders For The Linux-Friendly Ryzen AI Halo Developer Platform](https://www.phoronix.com/news/AMD-Ryzen-AI-Halo-Pre-Order) (Published: 2026-06-12)
-- [dgx-spark-cli 0.5.1](https://pypi.org/project/dgx-spark-cli/0.5.1/) (Published: 2026-06-12)
-- [SpaceX rented Colossus 1 to Anthropic because it couldn’t make the data centre work for Grok](https://thenextweb.com/news/spacex-colossus-1-technical-problems-rented-anthropic/) (Published: 2026-06-12)
