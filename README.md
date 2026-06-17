@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-17 11:25:46**_
+_Last updated: **2026-06-17 14:35:47**_
 
-- [Get an RTX 5090 gaming laptop for less than $3,000 — Acer's 16-inch Predator with 2TB of storage and 32GB of RAM is now $500 off](https://www.tomshardware.com/laptops/gaming-laptops/get-an-rtx-5090-gaming-laptop-for-less-than-usd3-000-acers-16-inch-predator-with-2tb-of-storage-and-32gb-of-ram-is-now-usd500-off) (Published: 2026-06-16)
-- [SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO | TechCrunch](https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/) (Published: 2026-06-16)
-- [nvidia-nat-security 1.9.0a20260616](https://pypi.org/project/nvidia-nat-security/1.9.0a20260616/) (Published: 2026-06-16)
-- [nvidia-nat-redis 1.9.0a20260616](https://pypi.org/project/nvidia-nat-redis/1.9.0a20260616/) (Published: 2026-06-16)
-- [How (And Why) AI is Eroding Democracy in the US](https://www.commondreams.org/opinion/ai-erodes-us-democracy) (Published: 2026-06-16)
-- [$4,000 AMD Ryzen AI Halo Developer Platform features 126 TOPS Ryzen AI Max+ 395 processor](https://www.cnx-software.com/2026/06/16/4000-amd-ryzen-ai-halo-developer-platform-features-126-tops-ryzen-ai-max-395-processor/) (Published: 2026-06-16)
-- [Howard Marks: Investing in AI Stocks Is ‘Closer to Speculating’ Than Analysis](https://247wallst.com/investing/2026/06/16/howard-marks-investing-in-ai-stocks-is-closer-to-speculating-than-analysis/) (Published: 2026-06-16)
-- [nvidia-nat-data-flywheel 1.9.0a20260616](https://pypi.org/project/nvidia-nat-data-flywheel/1.9.0a20260616/) (Published: 2026-06-16)
-- [Morning Bid: Central banks take the stage](https://finance.yahoo.com/news/morning-bid-central-banks-stage-104759567.html) (Published: 2026-06-16)
+- ['Godfather' of options sees SpaceX surpassing Nvidia, Tesla as early trades come in](https://www.cnbc.com/2026/06/16/godfather-of-options-sees-spacex-surpassing-nvidia-tesla-as-early-trades-come-in.html) (Published: 2026-06-16)
+- [US stocks: SpaceX vaults past Microsoft and Amazon's market value as post IPO momentum builds](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-vaults-past-microsoft-and-amazons-market-value-as-post-ipo-momentum-builds/articleshow/131774741.cms) (Published: 2026-06-16)
+- [Alibaba Debuts Suite of AI Models for Robots](https://www.pymnts.com/news/artificial-intelligence/2026/alibaba-debuts-suite-ai-models-robots/) (Published: 2026-06-16)
+- [MWC Barcelona 2026 highlights AI compute as emerging commodity](https://cryptobriefing.com/mwc-2026-ai-compute-commodity-crypto/) (Published: 2026-06-16)
+- [Musk’s Net Worth Hits $1.4 Trillion—SpaceX Passes Amazon As Fifth-Largest Company](https://www.forbes.com/sites/tylerroush/2026/06/16/musks-net-worth-hits-14-trillion-spacex-passes-amazon-as-fifth-largest-company/) (Published: 2026-06-16)
+- [Nasdaq Edges Higher to 26,762.56 as Tech Stocks Hold Steady Following US-Iran Peace Agreement](https://www.ibtimes.com.au/nasdaq-gains-us-iran-ceasefire-tech-sector-1870701) (Published: 2026-06-16)
+- [NVIDIA Releases GeForce 610.62 WHQL Game Ready Drivers](https://www.techpowerup.com/350025/nvidia-releases-geforce-610-62-whql-game-ready-drivers) (Published: 2026-06-16)
+- [The new oil? Inside the effort to turn AI computing power into a tradeable commodity](https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html) (Published: 2026-06-16)
+- [Readers’ Choice 2026: The Brands Behind the Best PC Builds](https://uk.pcmag.com/news/165630/readers-choice-2026-the-brands-behind-the-best-pc-builds) (Published: 2026-06-16)
