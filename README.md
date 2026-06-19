@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-19 11:50:27**_
+_Last updated: **2026-06-19 14:34:36**_
 
-- [Hive shares jumps 10% on $220m Canada sovereign AI infrastructure deal](https://www.coindesk.com/markets/2026/06/18/hive-shares-jumps-10-on-usd220m-canada-sovereign-ai-infrastructure-deal) (Published: 2026-06-18)
-- [HIVE Digital Technologies secures $220M AI contract with Bell Canada](https://cryptobriefing.com/hive-digital-220m-ai-contract-bell-canada/) (Published: 2026-06-18)
-- [Bosch to pay $36 million penalty for $72 million in ‘illicit’ sales to Huawei — German company sold export-controlled goods and software to banned Chinese firm between 2020 and 2024](https://www.tomshardware.com/tech-industry/bosch-to-pay-usd36-million-penalty-for-usd72-million-in-illicit-sales-to-huawei-german-company-sold-export-controlled-goods-and-software-to-banned-chinese-firm-between-2020-and-2024) (Published: 2026-06-18)
-- [nvidia-nat-security 1.8.0a20260618](https://pypi.org/project/nvidia-nat-security/1.8.0a20260618/) (Published: 2026-06-18)
-- [nvidia-nat-autogen 1.8.0a20260618](https://pypi.org/project/nvidia-nat-autogen/1.8.0a20260618/) (Published: 2026-06-18)
-- [Why the oil may start flowing through the Strait of Hormuz faster than many believe](https://www.cnbc.com/2026/06/18/why-the-oil-may-start-flowing-through-the-strait-of-hormuz-faster-than-many-believe.html) (Published: 2026-06-18)
-- [nvidia-nat-nemo-customizer 1.8.0a20260618](https://pypi.org/project/nvidia-nat-nemo-customizer/1.8.0a20260618/) (Published: 2026-06-18)
-- [nvidia-nat-s3 1.8.0a20260618](https://pypi.org/project/nvidia-nat-s3/1.8.0a20260618/) (Published: 2026-06-18)
-- [nvidia-nat-weave 1.8.0a20260618](https://pypi.org/project/nvidia-nat-weave/1.8.0a20260618/) (Published: 2026-06-18)
-- [President Trump reveals Apple-Intel domestic partnership, boosting American chip stocks](https://macdailynews.com/2026/06/18/president-trump-reveals-apple-intel-domestic-partnership-boosting-american-chip-stocks/) (Published: 2026-06-18)
+- [Intezer Launches the SOC Operating Layer, Enabling Effective Adoption of Claude, Codex, and Cursor Across Enterprise Security Operations](https://www.globenewswire.com/news-release/2026/06/18/3314331/0/en/Intezer-Launches-the-SOC-Operating-Layer-Enabling-Effective-Adoption-of-Claude-Codex-and-Cursor-Across-Enterprise-Security-Operations.html) (Published: 2026-06-18)
+- [11 Words From Nvidia CFO Colette Kress That Should Have AMD and Intel Investors Worried](https://biztoc.com/x/6c431da45b978b4d) (Published: 2026-06-18)
+- [Robinhood App Down? App Goes Down for Some Users During a High-Stakes Market Rally, Sparking User Outrage](https://www.ibtimes.com.au/robinhood-outage-disrupts-trading-major-market-rally-1870856) (Published: 2026-06-18)
+- [Semiconductor Industry to Hit USD 1.01 Trillion by 2031 with Integrated Circuits Holding 78.33% Market Share Amid Rising AI & Automotive Demand - Reports Mordor Intelligence](https://www.prnewswire.com/news-releases/semiconductor-industry-to-hit-usd-1-01-trillion-by-2031-with-integrated-circuits-holding-78-33-market-share-amid-rising-ai--automotive-demand--reports-mordor-intelligence-302804434.html) (Published: 2026-06-18)
+- [Multi-scale closed-loop tuning via spatial frequency collaborative sensitivity for rice leaf disease detection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351727) (Published: 2026-06-18)
+- [Nasdaq Climbs 217 Points as Intel-Apple Chip Deal and Iran Peace Accord Revive Tech Rally](https://www.ibtimes.com.au/nasdaq-surges-intel-apple-deal-iran-peace-agreement-1870853) (Published: 2026-06-18)
+- [Bitcoin miner HIVE inks $220 million AI GPU deal with Bell, expects $70 million annual revenue](https://biztoc.com/x/f1cfd6ca544afc0d) (Published: 2026-06-18)
+- [Baseten is raising $1.5bn at up to $13bn, betting AI’s profits lie in cheap inference](https://thenextweb.com/news/baseten-1-5bn-round-13bn-valuation-ai-inference/) (Published: 2026-06-18)
+- [llm4free added to PyPI](https://pypi.org/project/llm4free/) (Published: 2026-06-18)
