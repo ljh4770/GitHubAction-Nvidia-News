@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-20 02:28:16**_
+_Last updated: **2026-06-20 06:46:22**_
 
-- [AmazonがNVIDIA対抗AIチップ「Trainium」の外販に向け交渉開始、AWS専用から他社データセンターへ](https://news.livedoor.com/article/detail/31595807/) (Published: 2026-06-19)
-- [US tells ASML it’s concerned China may have top chip tool](https://www.moneycontrol.com/news/business/us-tells-asml-it-s-concerned-china-may-have-top-chip-tool-13953534.html) (Published: 2026-06-19)
-- [Heart First, Tools Second: How to Teach and Use Tech in Today’s World](https://www.coolcatteacher.com/heartfirst/) (Published: 2026-06-19)
-- [SpaceX shares end first week of volatile trading up 37% from IPO price](https://www.straitstimes.com/business/companies-markets/spacex-shares-end-first-week-of-volatile-trading-up-37-from-ipo-price) (Published: 2026-06-19)
-- [Amazon May Start Selling Its Custom AI Chips to Outside Companies. Should Nvidia Investors Be Worried?](https://biztoc.com/x/dcdea18b356b40f9) (Published: 2026-06-19)
-- [Deutsche Bank Points to Proven Returns on AI Investments](https://www.pymnts.com/news/artificial-intelligence/2026/deutsche-bank-points-to-proven-returns-on-ai-investments/) (Published: 2026-06-19)
-- [nemo-retriever 2026.6.19.dev126](https://pypi.org/project/nemo-retriever/2026.6.19.dev126/) (Published: 2026-06-19)
-- [nemo-retriever 2026.6.19.dev576](https://pypi.org/project/nemo-retriever/2026.6.19.dev576/) (Published: 2026-06-19)
-- [NVIDIA 699140280000 DPU Firmware 24.39.5172](https://drivers.softpedia.com/get/NETWORK-CARD/Nvidia/NVIDIA-699140280000-DPU-Firmware-24-39-5172.shtml) (Published: 2026-06-18)
-- [President Trump claims Apple has agreed to buy chips from Intel](https://siliconangle.com/2026/06/18/president-trump-claims-apple-agreed-buy-chips-intel/) (Published: 2026-06-18)
+- [QS World University Rankings 2027: From DU to Jamia, where India's top non-technical universities stand globally](https://timesofindia.indiatimes.com/education/news/qs-world-university-rankings-2027-from-du-to-jamia-where-indias-top-non-technical-universities-stand-globally/articleshow/131849689.cms) (Published: 2026-06-19)
+- [Seoul record leads most Asian markets higher, crude extends losses](https://www.digitaljournal.com/article/seoul-record-leads-most-asian-markets-higher-crude-extends-losses/) (Published: 2026-06-19)
+- [Asian shares retreat in thin holiday trading after a tech-led rally on Wall St](https://abcnews.com/Business/wireStory/asian-shares-retreat-thin-holiday-trading-after-tech-134022982) (Published: 2026-06-19)
+- [The ISA Doesn't Matter Where It Counts](https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts) (Published: 2026-06-19)
+- [The Tungsten Hexafluoride Crisis: The Coming Memory Price Explosion That Nobody Is Talking About](https://www.naturalnews.com/2026-06-19-tungsten-hexafluoride-crisis-coming-memory-cost-explosion.html) (Published: 2026-06-19)
+- [The Moonshot - by Anton Leicht - Threading the Needle](https://writing.antonleicht.me/p/the-moonshot) (Published: 2026-06-19)
+- [sleepshield added to PyPI](https://pypi.org/project/sleepshield/) (Published: 2026-06-19)
+- [SK Hynix shares gain 7% as AI chip demand sends stock to record high](https://cryptobriefing.com/sk-hynix-shares-gain-7-percent-ai-demand/) (Published: 2026-06-19)
+- [nemotron-page-elements-v3 3.0.2.dev20260619045614](https://pypi.org/project/nemotron-page-elements-v3/3.0.2.dev20260619045614/) (Published: 2026-06-19)
