@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-23 20:32:16**_
+_Last updated: **2026-06-23 22:00:49**_
 
-- [SpaceX shares drop more than 14% after rocket company discloses it may take on billions in debt](https://nypost.com/2026/06/22/business/spacex-stock-plunges-14-as-it-seeks-to-raise-debt/) (Published: 2026-06-22)
-- [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://biztoc.com/x/200d17db985b2094) (Published: 2026-06-22)
-- [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal | TechCrunch](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/) (Published: 2026-06-22)
-- [Nvidia wants to cut data center water use, but that's not the same as fixing AI's water problem | TechCrunch](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/) (Published: 2026-06-22)
-- [Elon Musk’s Net Worth Drops $350 Billion In Massive SpaceX Selloff—But He’s Still A Trillionaire](https://www.forbes.com/sites/tylerroush/2026/06/22/elon-musks-net-worth-drops-350-billion-in-massive-spacex-selloff-but-hes-still-a-trillionaire/) (Published: 2026-06-22)
-- [Inference chip startup Groq raises $650M to grow its cloud platform](https://siliconangle.com/2026/06/22/inference-chip-startup-groq-raises-650m-grow-cloud-platform/) (Published: 2026-06-22)
-- [Forget Mars, SpaceX Is Becoming a Data Center Company](https://gizmodo.com/forget-mars-spacex-is-becoming-a-data-center-company-2000775526) (Published: 2026-06-22)
-- [QQQ vs QQQM: Same Nasdaq-100 Index, One Clear Winner for Long-Term Investors](https://biztoc.com/x/151b29a943bafce8) (Published: 2026-06-22)
-- [Valve is working on Nvidia support for SteamOS, but don’t expect it soon](https://www.pcworld.com/article/3172192/valve-is-working-on-nvidia-support-for-steamos-but-dont-expect-it-soon.html) (Published: 2026-06-22)
-- [Nvidia says its new data center design will fix AI’s water problem](https://biztoc.com/x/598fc2a5e05fbfc6) (Published: 2026-06-22)
+- [Nvidia says AI's water challenge is largely solved](https://biztoc.com/x/a52203734706fefb) (Published: 2026-06-22)
+- [agentauth-receipts added to PyPI](https://pypi.org/project/agentauth-receipts/) (Published: 2026-06-22)
+- [Japan business groups visit Beijing expo featuring AI](https://japantoday.com/category/business/japan-business-groups-visit-beijing-expo-featuring-ai-amid-strained-ties) (Published: 2026-06-22)
+- [A major chip index has doubled this year despite Nvidia ranking dead last](https://biztoc.com/x/b338a01257a5e2cc) (Published: 2026-06-22)
+- [penguin-burner 0.5.2](https://pypi.org/project/penguin-burner/0.5.2/) (Published: 2026-06-22)
+- [The Average SpaceX Investor Is Now Losing – These Investors Aren’t](https://biztoc.com/x/e4df265e3c2c39ae) (Published: 2026-06-22)
+- [Gambling Creator Bluffin Bob Rejected a $30M+ Casino Deal and Never Looked Back](https://biztoc.com/x/c76d40d4f7af1110) (Published: 2026-06-22)
+- [Even Valve Knows You May Be Better Off With a Cheaper Steam Machine Alternative](https://gizmodo.com/even-valve-knows-you-may-be-better-off-with-a-cheaper-steam-machine-alternative-2000775545) (Published: 2026-06-22)
+- [Nvidia's stock struggles as Kalshi traders bet chip prices are coming down](https://biztoc.com/x/68b842b5bc7b4031) (Published: 2026-06-22)
