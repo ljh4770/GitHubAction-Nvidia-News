@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-24 21:08:52**_
+_Last updated: **2026-06-24 22:39:21**_
 
-- [whispermlx-asr-service added to PyPI](https://pypi.org/project/whispermlx-asr-service/) (Published: 2026-06-23)
-- [jaxamg added to PyPI](https://pypi.org/project/jaxamg/) (Published: 2026-06-23)
-- [Cerebras reports 92% revenue growth in chipmaker's first earnings report since IPO](https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html) (Published: 2026-06-23)
-- [Club386 is the latest victim of melted 12V-2x6 cable connectors, RTX 5090 and PSU both damaged](https://www.tweaktown.com/news/112332/club386-is-the-latest-victim-of-melted-12v-2x6-cable-connectors-rtx-5090-and-psu-both-damaged/index.html) (Published: 2026-06-23)
-- [Big Tech Stocks Take Another Beating](https://www.newser.com/story/391571/big-tech-stocks-take-another-beating.html) (Published: 2026-06-23)
-- [Cerebras shares sink on earnings debut, with margins below AI chip rivals](https://finance.yahoo.com/technology/ai/articles/cerebras-shares-sink-on-earnings-debut-with-margins-below-ai-chip-rivals-205043191.html) (Published: 2026-06-23)
-- [Cerebras shares drop on earnings debut, with margins below AI chip rivals](https://www.channelnewsasia.com/business/cerebras-shares-drop-earnings-debut-margins-below-ai-chip-rivals-6204811) (Published: 2026-06-23)
-- [Xbox announced Halo: Campaign Evolved's PC system requirements and recommended specs, and woof — I have bad news if you were hoping for a small file size](https://www.windowscentral.com/gaming/halo/xbox-announced-halo-campaign-evolveds-pc-system-requirements-and-recommended-specs) (Published: 2026-06-23)
-- [This Switch 2 bundle includes a free game during Prime Day - but it won't last long](https://www.zdnet.com/home-and-office/home-entertainment/nintendo-switch-2-choose-your-game-deal-amazon-prime-day-2026/) (Published: 2026-06-23)
+- [Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications](https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/) (Published: 2026-06-23)
+- [Cerebras CEO confirms OpenAI GPT 5.4 runs on Cerebras, plans GPT 5.5 rollout](https://cryptobriefing.com/cerebras-openai-gpt-5-4-inference/) (Published: 2026-06-23)
+- [Valve is working with Intel, AMD, and Nvidia to make SteamOS run on any PC hardware](https://www.techspot.com/news/112872-valve-working-intel-amd-nvidia-make-steamos-run.html) (Published: 2026-06-23)
+- [AI stock slump raises the question if investors are just taking profits or getting very nervous](https://wirehub.medianewsgroup.com/2026/06/23/ai-stock-slump-raises-the-question-if-investors-are-just-taking-profits-or-getting-very-nervous/) (Published: 2026-06-23)
+- [Nvidia’s Rubin AI servers cut cooling water use to near zero with liquid cooling technology](https://cryptobriefing.com/nvidia-rubin-liquid-cooling-water-reduction/) (Published: 2026-06-23)
+- [3 Stocks Nvidia Owns That You Should Consider Too](https://biztoc.com/x/e2d4861422c54773) (Published: 2026-06-23)
+- [Quanta NVIDIA GeForce RTX 3060 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 25H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-RTX-3060-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-25H2.shtml) (Published: 2026-06-23)
+- [NASDAQ 100 falls 3%, South Korea’s KOSPI plunges 10% amid AI bubble concerns](https://cryptobriefing.com/nasdaq-kospi-plunge-ai-bubble-concerns/) (Published: 2026-06-23)
+- [Cerebras delivers first earnings report as public company, stock slides despite 92% revenue growth](https://cryptobriefing.com/cerebras-first-earnings-report-stock-flat/) (Published: 2026-06-23)
+- [China International Supply Chain Expo debuts AI zone featuring Nvidia, Intel, Alibaba](https://cryptobriefing.com/china-supply-chain-expo-ai-zone-nvidia-intel/) (Published: 2026-06-23)
