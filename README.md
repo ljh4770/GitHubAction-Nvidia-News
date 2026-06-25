@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-25 01:52:13**_
+_Last updated: **2026-06-25 05:58:27**_
 
-- [AI Trade Cracks? Korea's 10% meltdown sparks debate on whether money is headed back to India](https://www.moneycontrol.com/news/business/markets/ai-trade-cracks-korea-s-10-meltdown-sparks-debate-on-whether-money-is-headed-back-to-india-13957157.html) (Published: 2026-06-24)
-- [SpaceX shares eke out a gain to snap three day losing streak](https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-eke-out-a-gain-to-snap-three-day-losing-streak/articleshow/131952468.cms) (Published: 2026-06-24)
-- [K-Drama on Tech Street: AI rout hits global markets](https://economictimes.indiatimes.com/markets/us-stocks/news/k-drama-on-tech-street-ai-rout-hits-global-markets/articleshow/131952432.cms) (Published: 2026-06-24)
-- [Anthropic’s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP](https://www.cnbc.com/2026/06/23/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says.html) (Published: 2026-06-24)
-- [GM replaces more than 1,000 workers with just 50 robots at flagship Detroit factory as furious union blasts move: 'We're disgusted'](https://www.dailymail.com/yourmoney/article-15923057/gm-replaces-workers-robots-detroit-factory.html) (Published: 2026-06-24)
-- [NASDAQ falls 2% as tech stock selloff intensifies amid rate hike fears](https://cryptobriefing.com/nasdaq-falls-tech-selloff-intensifies/) (Published: 2026-06-24)
-- [Nvidia’s AI chips surge in price on China’s black market, with B200 racks fetching 50% premiums](https://cryptobriefing.com/nvidia-ai-chips-china-black-market-price-surge/) (Published: 2026-06-24)
-- [Alphabet set to join Dow Jones Industrial Average, replacing Verizon](https://cryptobriefing.com/alphabet-joins-dow-jones-replaces-verizon/) (Published: 2026-06-24)
-- [Gold extends decline as tech-led selloff prompts investor liquidation](https://cryptobriefing.com/gold-decline-tech-selloff-investor-liquidation/) (Published: 2026-06-24)
+- [SyntheticGestalt、NVIDIA nvMolKitで4D分子基盤モデルを学習し、エージェント駆動の探索へ](https://prtimes.jp/main/html/rd/p/000000018.000123750.html) (Published: 2026-06-24)
+- [Quanta NVIDIA GeForce MX570 Graphics Driver 32.0.15.9166 for Windows 11 version 22H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-MX570-Graphics-Driver-32-0-15-9166-for-Windows-11-version-22H2.shtml) (Published: 2026-06-24)
+- [Nvidia’s banned AI chips double in price on China’s black market](https://cryptobriefing.com/nvidia-chips-double-price-china-black-market/) (Published: 2026-06-24)
+- [Oil, AI and chips: The new resource race redrawing markets and nations](https://economictimes.indiatimes.com/industry/cons-products/electronics/oil-ai-and-chips-the-new-resource-race-redrawing-markets-and-nations/articleshow/131936189.cms) (Published: 2026-06-24)
+- [Quanta NVIDIA GeForce MX570 Graphics Driver 32.0.15.9166 for Windows 11](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-MX570-Graphics-Driver-32-0-15-9166-for-Windows-11.shtml) (Published: 2026-06-24)
+- [US remains global leader in AI, but China rapidly closing gap with cheaper models: JP Morgan](https://economictimes.indiatimes.com/tech/artificial-intelligence/us-remains-global-leader-in-ai-but-china-rapidly-closing-gap-with-cheaper-models-jp-morgan/articleshow/131955990.cms) (Published: 2026-06-24)
+- [Chinese supercomputer using local processors heads TOP500 list](https://biztoc.com/x/674e958f700c6b0e) (Published: 2026-06-24)
+- [Wall Street ends lower on semiconductor selloff amid AI spending concerns](https://cryptobriefing.com/wall-street-semiconductor-selloff-ai-spending/) (Published: 2026-06-24)
+- [Quanta NVIDIA GeForce MX570 Graphics Driver 32.0.15.9166 for Windows 10 version 1809 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-GeForce-MX570-Graphics-Driver-32-0-15-9166-for-Windows-10-version-1809-64-bit.shtml) (Published: 2026-06-24)
