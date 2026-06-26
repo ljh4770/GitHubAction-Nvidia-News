@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-26 20:55:17**_
+_Last updated: **2026-06-26 22:13:24**_
 
+- [The Geopolitics of SpaceX and Elon Musk](http://foreignpolicy.com/2026/06/25/spacex-elon-musk-geopolitics-ai-x-quinn-slobodian/) (Published: 2026-06-25)
+- [OpenAI just built a chip to cut Nvidia out of one job](https://biztoc.com/x/15fbc0ed1b88b96c) (Published: 2026-06-25)
+- [Qualcomm designs China-specific data center chip to comply with US export curbs](https://cryptobriefing.com/qualcomm-china-data-center-chip-dragonfly/) (Published: 2026-06-25)
+- [Qualcomm To Design China-Specific Data Center Chip In Compliance With US Export Curbs](https://biztoc.com/x/123cc9e8fb0649e7) (Published: 2026-06-25)
+- [Migrating from Proxmox to NixOS and Incus](https://www.nijho.lt/post/proxmox-to-nixos/) (Published: 2026-06-25)
+- [Can Qualcomm actually compete with Nvidia? Inside its bold data-center gamble](https://biztoc.com/x/d29558e68e6c1dc4) (Published: 2026-06-25)
+- [Linux Foundation Launches Akrites To Coordinate AI-Driven Open Source Security](https://linux.slashdot.org/story/26/06/25/2031228/linux-foundation-launches-akrites-to-coordinate-ai-driven-open-source-security) (Published: 2026-06-25)
+- [OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models on Amazon Bedrock receive FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud) (Published: 2026-06-25)
 - [Battle of the Artificial Intelligence (AI) Computing Companies: Is AMD, Broadcom, Nvidia, or Marvell the Best Stock to Buy Now?](https://biztoc.com/x/cd8c55f8d2be16d8) (Published: 2026-06-25)
 - [Acer Nitro V 16S AI AMD Ryzen 7 260 16" Gaming Laptop w/ NVIDIA GeForce RTX 5060 for $1,100 w/ Prime + free shipping](https://www.dealnews.com/products/Acer/Acer-Nitro-V-16-S-AI-AMD-Ryzen-7-260-16-Gaming-Laptop-w-NVIDIA-Ge-Force-RTX-5060/501545.html) (Published: 2026-06-25)
-- [Michael Burry’s Palantir short position: what investors actually need to know](https://cryptobriefing.com/michael-burry-palantir-short-position/) (Published: 2026-06-25)
-- [Melius Research: “Buy the chip dip, skip hyperscalers” until AI payoff becomes clear](https://biztoc.com/x/4e97241f14893ca5) (Published: 2026-06-25)
-- [Mirendil raises $200M to speed up scientific research with AI](https://siliconangle.com/2026/06/25/mirendil-raises-200m-speed-scientific-research-ai/) (Published: 2026-06-25)
-- [Domyn plans to launch open-source frontier AI model within a year](https://cryptobriefing.com/domyn-open-source-frontier-ai-model/) (Published: 2026-06-25)
-- [JetCool Launches Turnkey Liquid-Cooled Server Solution to Accelerate Enterprise AI Adoption](https://www.prnewswire.com/news-releases/jetcool-launches-turnkey-liquid-cooled-server-solution-to-accelerate-enterprise-ai-adoption-302811212.html) (Published: 2026-06-25)
-- [US Stocks: Nasdaq, S&P end lower as tech megacap declines outweigh upbeat chip outlook](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-sp-end-lower-as-tech-megacap-declines-outweigh-upbeat-chip-outlook/articleshow/132002977.cms) (Published: 2026-06-25)
-- [Linux Foundation Launches Akrites To Coordinate AI-Driven Open Source Security](https://slashdot.org/submission/17348496/linux-foundation-launches-akrites-to-coordinate-ai-driven-open-source-security) (Published: 2026-06-25)
-- [Someone 3D Printed A Case To Build Your Own Superior Steam Machine](https://hothardware.com/news/someone-3d-printed-a-case-to-build-your-own-superior-steam-machine) (Published: 2026-06-25)
