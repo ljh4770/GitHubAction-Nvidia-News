@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-26 04:23:44**_
+_Last updated: **2026-06-26 08:06:09**_
 
-- [Inventec NVIDIA GeForce RTX 4090 Laptop Graphics Driver 32.0.15.9186 for Windows 11 version 25H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-GeForce-RTX-4090-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-11-version-25H2.shtml) (Published: 2026-06-25)
-- [Inventec NVIDIA GeForce RTX 4090 Laptop Graphics Driver 32.0.15.9186 for Windows 11](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-GeForce-RTX-4090-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-11.shtml) (Published: 2026-06-25)
-- [Nvidia and Genentech make the case for AI-driven drug discovery at BIO2026](https://cryptobriefing.com/nvidia-genentech-ai-drug-discovery-bio2026/) (Published: 2026-06-25)
-- [Inventec NVIDIA GeForce RTX 4090 Laptop Graphics Driver 32.0.15.9186 for Windows 10 version 1903 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-GeForce-RTX-4090-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-10-version-1903-64-bit.shtml) (Published: 2026-06-25)
-- [South Korea's Kospi surges 6% as chip stocks rebound. Here are two major triggers](https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-kospi-surges-6-as-chip-stocks-rebound-here-are-two-major-triggers/articleshow/131981417.cms) (Published: 2026-06-25)
-- [Inventec NVIDIA GeForce RTX 4080 Laptop Graphics Driver 32.0.15.9186 for Windows 10 version 21H2 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-GeForce-RTX-4080-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-10-version-21H2-64-bit.shtml) (Published: 2026-06-25)
-- [ASUS ROG Zephyrus Duo and Zephyurus G now officially available in PH](https://www.yugatech.com/news/asus-rog-zephyrus-duo-and-zephyurus-g-now-officially-available-in-ph/) (Published: 2026-06-25)
-- [Inventec NVIDIA GeForce RTX 4080 Laptop Graphics Driver 32.0.15.9186 for Windows 11 version 22H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-GeForce-RTX-4080-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-11-version-22H2.shtml) (Published: 2026-06-25)
-- [Nvidia CPO roadmap positions TSMC COUPE for next AI infrastructure wave](https://www.digitimes.com/news/a20260625PD213/nvidia-cpo-infrastructure-optics-roadmap-tsmc.html) (Published: 2026-06-25)
-- [Coplus developing Nvidia-backed AI headlights](https://www.digitimes.com/news/a20260625PD207/coplus-2026-development-nvidia-market.html) (Published: 2026-06-25)
+- [The CPU's growing role in agentic AI infrastructure](https://www.theregister.com/ai-and-ml/2026/06/25/the-cpus-growing-role-in-agentic-ai-infrastructure/5261720) (Published: 2026-06-25)
+- [Domino Data Lab and Appsilon Partner to Speed AI to Production for Life Sciences](https://www.prnewswire.com/news-releases/domino-data-lab-and-appsilon-partner-to-speed-ai-to-production-for-life-sciences-302809553.html) (Published: 2026-06-25)
+- [System on Module Market Size to Hit USD 6.81 Billion by 2035 | Research by SNS Insider](https://www.globenewswire.com/news-release/2026/06/25/3317303/0/en/System-on-Module-Market-Size-to-Hit-USD-6-81-Billion-by-2035-Research-by-SNS-Insider.html) (Published: 2026-06-25)
+- [SuperX AI Technology Discusses Proposed 1GW AI Computing Park with Kazakhstan Prime Minister to Explore Central Asia's Digital Infrastructure Market](https://www.prnewswire.com/news-releases/superx-ai-technology-discusses-proposed-1gw-ai-computing-park-with-kazakhstan-prime-minister-to-explore-central-asias-digital-infrastructure-market-302810457.html) (Published: 2026-06-25)
+- [Will Nvidia Continue to Dominate in AI? This One Number Offers a Strikingly Clear Answer](https://biztoc.com/x/0cb65c7fd51e149e) (Published: 2026-06-25)
+- [Nikkei marks record closing high as AI shares rally on Micron forecast](https://economictimes.indiatimes.com/markets/us-stocks/news/nikkei-marks-record-closing-high-as-ai-shares-rally-on-micron-forecast/articleshow/131986893.cms) (Published: 2026-06-25)
+- [Morgan Stanley upgrades Qualcomm to Equalweight, raises price target to $231](https://cryptobriefing.com/morgan-stanley-upgrades-qualcomm-equalweight/) (Published: 2026-06-25)
+- [Halo: Campaign Evolved system requirements revealed](https://www.gamingonlinux.com/2026/06/halo-campaign-evolved-system-requirements-revealed/) (Published: 2026-06-25)
+- [Inventec NVIDIA RTX 3500 Ada Laptop Graphics Driver 32.0.15.9186 for Windows 11 version 25H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-RTX-3500-Ada-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-11-version-25H2.shtml) (Published: 2026-06-25)
