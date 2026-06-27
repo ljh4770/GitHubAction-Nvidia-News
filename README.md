@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-27 19:56:40**_
+_Last updated: **2026-06-27 21:08:58**_
 
+- [How Databricks is turning video into searchable, actionable intelligence](https://www.databricks.com/blog/how-databricks-turning-video-searchable-actionable-intelligence) (Published: 2026-06-26)
+- [Inventec NVIDIA RTX PRO 5000 Blackwell Laptop Graphics Driver 32.0.15.9186 for Windows 10 version 21H2 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-RTX-PRO-5000-Blackwell-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-10-version-21H2-64-bit.shtml) (Published: 2026-06-26)
 - [Inventec NVIDIA RTX PRO 5000 Blackwell Laptop Graphics Driver 32.0.15.9186 for Windows 11 version 22H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-RTX-PRO-5000-Blackwell-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-11-version-22H2.shtml) (Published: 2026-06-26)
 - [Inventec NVIDIA RTX PRO 4000 Blackwell Laptop Graphics Driver 32.0.15.9186 for Windows 10 version 1903 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-RTX-PRO-4000-Blackwell-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-10-version-1903-64-bit.shtml) (Published: 2026-06-26)
 - [Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks](https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks) (Published: 2026-06-26)
@@ -9,5 +11,3 @@ _Last updated: **2026-06-27 19:56:40**_
 - [Eight new members join Princeton Board of Trustees](https://www.princeton.edu/news/2026/06/26/eight-new-members-join-princeton-board-trustees) (Published: 2026-06-26)
 - [Amazon Web Services raises GPU cloud pricing to $14.04 per hour starting July 1](https://cryptobriefing.com/aws-gpu-cloud-pricing-increase-july/) (Published: 2026-06-26)
 - [Inventec NVIDIA RTX PRO 500 Blackwell Laptop Graphics Driver 32.0.15.9186 for Windows 10 Vibranium 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-RTX-PRO-500-Blackwell-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-10-Vibranium-64-bit.shtml) (Published: 2026-06-26)
-- [Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure](https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/) (Published: 2026-06-26)
-- [Inventec NVIDIA RTX PRO 2000 Blackwell Laptop Graphics Driver 32.0.15.9186 for Windows 11 version 24H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Inventec-NVIDIA-RTX-PRO-2000-Blackwell-Laptop-Graphics-Driver-32-0-15-9186-for-Windows-11-version-24H2.shtml) (Published: 2026-06-26)
