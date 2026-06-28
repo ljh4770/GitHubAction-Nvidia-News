@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-06-28 11:20:03**_
+_Last updated: **2026-06-28 12:49:17**_
 
-- [SpaceX initial public offering returns: Will SpaceX stock hold above $135 IPO price? Elon Musk's company is trading over 5 times than that of Nvidia sales](https://economictimes.indiatimes.com/news/international/us/spacex-initial-public-offering-returns-will-spacex-stock-hold-above-135-ipo-price-elon-musks-company-is-trading-over-5-times-than-that-of-nvidia-sales/articleshow/132033331.cms) (Published: 2026-06-27)
-- [This is not what a risk-off month usually looks like: Chart of the Day](https://finance.yahoo.com/markets/article/this-is-not-what-a-risk-off-month-usually-looks-like-chart-of-the-day-110832956.html) (Published: 2026-06-27)
-- [EVGA stopped making GPUs nearly 4 years ago, and no one has filled the void they left](https://www.xda-developers.com/its-been-nearly-four-years-since-evga-stopped-making-gpus-and-im-still-not-over-it/) (Published: 2026-06-27)
-- [Beyond Nvidia: Why AI giants like OpenAI, Google and Amazon are building custom chips](https://economictimes.indiatimes.com/tech/artificial-intelligence/beyond-nvidia-why-ai-giants-like-openai-google-and-amazon-are-building-custom-chips/articleshow/132033167.cms) (Published: 2026-06-27)
-- [What could end the tech rally? Jefferies flags investment risks as China’s cheap AI models threaten US players](https://www.thehindubusinessline.com/markets/what-could-end-the-tech-rally-jefferies-flags-investment-risks-as-chinas-cheap-ai-models-threaten-us-players/article71153919.ece) (Published: 2026-06-27)
-- [Inside Claude Mythos: Why Anthropic held back its most advanced AI](https://economictimes.indiatimes.com/tech/artificial-intelligence/inside-claude-mythos-why-anthropic-held-back-its-most-advanced-ai/articleshow/132032754.cms) (Published: 2026-06-27)
-- [AI Power Stocks Could Be a Once-in-a-Generation Trade. Start With the Companies Behind Every Data Center](https://biztoc.com/x/622738a6ba6be674) (Published: 2026-06-27)
-- [nvidia-nat-memmachine 1.9.0a20260627](https://pypi.org/project/nvidia-nat-memmachine/1.9.0a20260627/) (Published: 2026-06-27)
-- [nvidia-nat-config-optimizer 1.9.0a20260627](https://pypi.org/project/nvidia-nat-config-optimizer/1.9.0a20260627/) (Published: 2026-06-27)
-- [nvidia-nat-test 1.9.0a20260627](https://pypi.org/project/nvidia-nat-test/1.9.0a20260627/) (Published: 2026-06-27)
+- [Quanta NVIDIA RTX A500 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-A500-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11.shtml) (Published: 2026-06-27)
+- [Quanta NVIDIA RTX A500 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-A500-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-64-bit.shtml) (Published: 2026-06-27)
+- [The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html) (Published: 2026-06-27)
+- [Quanta NVIDIA RTX A500 Laptop GPU Graphics Driver 32.0.15.9166 for Windows 10 Vibranium 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-A500-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-10-Vibranium-64-bit.shtml) (Published: 2026-06-27)
+- [64 With $1.1 Million in a Traditional IRA. Yield Volatility Is Back. Here’s Where I’m Allocating Capital](https://247wallst.com/investing/2026/06/27/64-with-1-1-million-in-a-traditional-ira-yield-volatility-is-back-heres-where-im-allocating-capital/) (Published: 2026-06-27)
+- [What capitalism will look like in space](https://nypost.com/2026/06/27/opinion/what-capitalism-will-look-like-in-space/) (Published: 2026-06-27)
+- [Valve Brings Official SteamOS Support to NVIDIA Desktop GPUs](https://www.geeky-gadgets.com/steam-machine-launch-june-29/) (Published: 2026-06-27)
+- [Bloodborne PS5 remaster fans shouldn't keep waiting as PS4 emulation delivers 100+ FPS on Ryzen 5 7600 and RTX 5060](https://www.notebookcheck.net/Bloodborne-PS5-remaster-fans-shouldn-t-keep-waiting-as-PS4-emulation-delivers-100-FPS-on-Ryzen-5-7600-and-RTX-5060.1329898.0.html) (Published: 2026-06-27)
+- [Nvidia invests in Generate Biomedicines, targeting $1.8T market with AI-driven drug discovery](https://cryptobriefing.com/nvidia-invests-generate-biomedicines-ai-drug-discovery/) (Published: 2026-06-27)
