@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-01 06:40:16**_
+_Last updated: **2026-07-01 10:32:17**_
 
-- [Asian shares mostly higher tracking Wall Street gains and oil stabilizes](https://abcnews.com/Business/wireStory/asian-shares-higher-tracking-wall-street-gains-oil-134332726) (Published: 2026-06-30)
-- [Using Local Coding Agents - by Sebastian Raschka, PhD](https://magazine.sebastianraschka.com/p/using-local-coding-agents) (Published: 2026-06-30)
-- [Meituan open sources LongCat-2.0, a 1.6 trillion parameter coding model trained entirely on Chinese chips](https://cryptobriefing.com/meituan-longcat-2-coding-model/) (Published: 2026-06-30)
-- [New GeForce RTX 3060 cards go on sale in Germany, with prices sitting a little too close to $400 USD](https://www.tweaktown.com/news/112400/new-geforce-rtx-3060-cards-go-on-sale-in-germany-with-prices-sitting-a-little-too-close-to-usd400/index.html) (Published: 2026-06-30)
-- [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble) (Published: 2026-06-30)
-- [Implementing Local LLM Inference in .NET Applications Using ONNX Runtime](https://www.c-sharpcorner.com/article/implementing-local-llm-inference-in-net-applications-using-onnx-runtime/) (Published: 2026-06-30)
-- [Samsung Electronics stock climbs 6% amid strong AI demand for memory chips](https://cryptobriefing.com/samsung-stock-climbs-ai-memory-demand/) (Published: 2026-06-30)
-- [Microsoft CEO Satya Nadella unveils RTX Spark Dev Box with 20 CPU cores and 128GB memory](https://cryptobriefing.com/microsoft-rtx-spark-dev-box-ai/) (Published: 2026-06-30)
-- [nemotron-page-elements-v3 3.0.2.dev20260630044233](https://pypi.org/project/nemotron-page-elements-v3/3.0.2.dev20260630044233/) (Published: 2026-06-30)
+- [Quanta NVIDIA RTX PRO 5000 Blackwell Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 25H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-PRO-5000-Blackwell-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-25H2.shtml) (Published: 2026-06-30)
+- [SpaceX (SPCX) Faces Valuation Test as Argus Initiates Coverage With Hold](https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-faces-valuation-test-102736046.html) (Published: 2026-06-30)
+- [Morgan Stanley Upgrades Qualcomm (QCOM) but Remains Cautious on AI Roadmap](https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-upgrades-qualcomm-qcom-102641898.html) (Published: 2026-06-30)
+- [Dell Technologies (DELL) Faces Valuation and Competition Concerns After Strong Rally](https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-faces-valuation-102608312.html) (Published: 2026-06-30)
+- [Nvidia (NVDA) Remains a Key Humanoid Robotics Play, Bernstein Says](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-remains-key-humanoid-102548253.html) (Published: 2026-06-30)
+- [Building tech in the world’s secret R&D hub](https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/) (Published: 2026-06-30)
+- [WeAct N006 – A compact NVIDIA Jetson Orin NX carrier board designed for robots and UAVs](https://www.cnx-software.com/2026/06/30/weact-n006-a-compact-nvidia-jetson-orin-nx-carrier-board-designed-for-robots-and-uavs/) (Published: 2026-06-30)
+- [Quanta NVIDIA RTX PRO 5000 Blackwell Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 24H2](https://drivers.softpedia.com/get/GRAPHICS-BOARD/NVIDIA/Quanta-NVIDIA-RTX-PRO-5000-Blackwell-Generation-Laptop-GPU-Graphics-Driver-32-0-15-9166-for-Windows-11-version-24H2.shtml) (Published: 2026-06-30)
+- [Mag 7 value shrinks by $2.3 trillion amid AI spending jitters — but investors are still backing chipmakers](https://biztoc.com/x/38f199942a61b517) (Published: 2026-06-30)
+- [Trump Threatens 100% Tariffs Over Digital Taxes. These 5 Tech Stocks Are Most at Risk](https://247wallst.com/investing/2026/06/30/trump-threatens-100-tariffs-over-digital-taxes-these-5-tech-stocks-are-most-at-risk/) (Published: 2026-06-30)
