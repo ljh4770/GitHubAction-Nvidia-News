@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-01 01:58:12**_
+_Last updated: **2026-07-01 06:40:16**_
 
-- [Digital Realty sets $27M/MW benchmark for AI data centers](https://cryptobriefing.com/digital-realty-27m-mw-ai-data-center-benchmark/) (Published: 2026-06-30)
-- [Taiwanese Authorities Reportedly Raid Supermicro in Move That Could Signal Big Change For AI Chip Exporters](https://gizmodo.com/taiwanese-authorities-reportedly-raid-supermicro-in-move-that-could-signal-big-change-for-ai-chip-exporters-2000779258) (Published: 2026-06-30)
-- [In an Era of AI Darwinism, ROI Now Represents Return on Intelligence](https://briansolis.com/2026/06/in-an-era-of-ai-darwinism-roi-now-represents-return-on-intelligence/) (Published: 2026-06-30)
-- [Why Won't Europe Build AI Data Centers in Iceland?](https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/) (Published: 2026-06-30)
-- [Super Micro Computer’s Taiwan offices raided in Nvidia chip smuggling probe](https://cryptobriefing.com/super-micro-computer-taiwan-raid-nvidia-chip-probe/) (Published: 2026-06-30)
-- [CNBC Daily Open: An A-grade showing for Alphabet on its Dow debut](https://www.cnbc.com/2026/06/30/cnbc-daily-open-alphabet-debuts-on-dow-with-an-a-grade-showing.html) (Published: 2026-06-30)
-- [Leading Indian brokerages gear up to offer seamless access to global stocks via GIFT City](https://economictimes.indiatimes.com/markets/stocks/news/leading-indian-brokerages-gear-up-to-offer-seamless-access-to-global-stocks-via-gift-city/articleshow/132081641.cms) (Published: 2026-06-30)
-- [SDS-YOLO: drone-based foreign object detection model for power lines using an enhanced YOLOv8n approach](https://www.nature.com/articles/s41598-026-59200-8) (Published: 2026-06-30)
-- [Hold Tight to a Real-World Anchor to Survive the Imminent Global Chaos](https://www.activistpost.com/hold-tight-to-a-real-world-anchor-to-survive-the-imminent-global-chaos/) (Published: 2026-06-30)
-- [nemo-retriever 2026.6.29.dev137](https://pypi.org/project/nemo-retriever/2026.6.29.dev137/) (Published: 2026-06-29)
+- [Asian shares mostly higher tracking Wall Street gains and oil stabilizes](https://abcnews.com/Business/wireStory/asian-shares-higher-tracking-wall-street-gains-oil-134332726) (Published: 2026-06-30)
+- [Using Local Coding Agents - by Sebastian Raschka, PhD](https://magazine.sebastianraschka.com/p/using-local-coding-agents) (Published: 2026-06-30)
+- [Meituan open sources LongCat-2.0, a 1.6 trillion parameter coding model trained entirely on Chinese chips](https://cryptobriefing.com/meituan-longcat-2-coding-model/) (Published: 2026-06-30)
+- [New GeForce RTX 3060 cards go on sale in Germany, with prices sitting a little too close to $400 USD](https://www.tweaktown.com/news/112400/new-geforce-rtx-3060-cards-go-on-sale-in-germany-with-prices-sitting-a-little-too-close-to-usd400/index.html) (Published: 2026-06-30)
+- [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble) (Published: 2026-06-30)
+- [Implementing Local LLM Inference in .NET Applications Using ONNX Runtime](https://www.c-sharpcorner.com/article/implementing-local-llm-inference-in-net-applications-using-onnx-runtime/) (Published: 2026-06-30)
+- [Samsung Electronics stock climbs 6% amid strong AI demand for memory chips](https://cryptobriefing.com/samsung-stock-climbs-ai-memory-demand/) (Published: 2026-06-30)
+- [Microsoft CEO Satya Nadella unveils RTX Spark Dev Box with 20 CPU cores and 128GB memory](https://cryptobriefing.com/microsoft-rtx-spark-dev-box-ai/) (Published: 2026-06-30)
+- [nemotron-page-elements-v3 3.0.2.dev20260630044233](https://pypi.org/project/nemotron-page-elements-v3/3.0.2.dev20260630044233/) (Published: 2026-06-30)
