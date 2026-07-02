@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-02 00:08:42**_
+_Last updated: **2026-07-02 04:19:56**_
 
-- [The AI Revolution Needs Electricity More Than Intelligence](https://oilprice.com/Energy/Energy-General/The-AI-Revolution-Needs-Electricity-More-Than-Intelligence.html) (Published: 2026-07-01)
-- [Machine Learning Engineer, LLM Inference Optimization in Sonoma](https://nlppeople.com/job/machine-learning-engineer-llm-inference-optimization-in-sonoma/) (Published: 2026-07-01)
-- [nemo-retriever 2026.6.30.dev138](https://pypi.org/project/nemo-retriever/2026.6.30.dev138/) (Published: 2026-06-30)
-- [nemo-retriever 2026.6.30.dev588](https://pypi.org/project/nemo-retriever/2026.6.30.dev588/) (Published: 2026-06-30)
-- [vision-agents-plugins-nvidia 0.6.5](https://pypi.org/project/vision-agents-plugins-nvidia/0.6.5/) (Published: 2026-06-30)
-- [NVIDIA GeForce RTX 5090D Becomes The First Blackwell GPU To Hit 4 GHz Overclock In A Spectacular Showcase By Team OGS Using GALAX HOC OC Lab Variant](https://wccftech.com/nvidia-geforce-rtx-5090d-becomes-the-first-blackwell-gpu-to-hit-4-ghz-overclock/) (Published: 2026-06-30)
-- [S&P 500, Dow Jones and Nasdaq close the first half of 2026 higher as chip stocks lead Wall Street: Here's why the US stock market ended June strong](https://economictimes.indiatimes.com/news/international/us/sp-500-dow-jones-and-nasdaq-close-the-first-half-of-2026-higher-as-chip-stocks-lead-wall-street-heres-why-the-us-stock-market-ended-june-strong/articleshow/132103287.cms) (Published: 2026-06-30)
-- [Inference chip startup Etched launches with $800M in funding](https://siliconangle.com/2026/06/30/inference-chip-startup-etched-launches-800m-funding/) (Published: 2026-06-30)
-- [NVIDIA RTX 5050 9GB may be canceled or permanently delayed, AIBs have no new information - VideoCardz.com](https://slashdot.org/firehose.pl?op=view&amp;id=184222310) (Published: 2026-06-30)
-- [Jim Cramer says the AI trade has shifted — and these stocks are leading now](https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html) (Published: 2026-06-30)
+- [Взгляд безумный, поэтому меня называют чугунный](https://www.yaplakal.com/forum28/topic3095449.html) (Published: 2026-07-01)
+- [Asian shares trade mixed as worries over Iran-US deal remain](https://www.thehindubusinessline.com/markets/asian-shares-trade-mixed-as-worries-over-iran-us-deal-remain/article71168628.ece) (Published: 2026-07-01)
+- [Etched valued at $5B for AI chip with $1B in pre-sales](https://nextbigwhat.com/etched-valued-at-5b-for-ai-chip-with-1b-in-pre-sales/) (Published: 2026-07-01)
+- [Australian musicians hate AI using their songs, but have little legal protection](https://theconversation.com/australian-musicians-hate-ai-using-their-songs-but-have-little-legal-protection-286154) (Published: 2026-07-01)
+- [audium-md added to PyPI](https://pypi.org/project/audium-md/) (Published: 2026-07-01)
+- [NVIDIA expands robotics hiring in China, opens roles in Beijing, Shanghai, and Shenzhen](http://technode.com/2026/07/01/nvidia-expands-robotics-hiring-in-china-opens-roles-in-beijing-shanghai-and-shenzhen/) (Published: 2026-07-01)
+- [Why Unusual Machines Stock Jumped Today](https://biztoc.com/x/d33f9f72bd607abe) (Published: 2026-07-01)
+- [Trump financial disclosure reveals more than $1.4 billion haul in crypto and Melania's big movie payday](https://www.dailymail.com/news/article-15943153/Trump-financial-disclosure-crypto-Melania-film.html) (Published: 2026-07-01)
+- [Asian stocks fluctuate as traders eye crucial US jobs data](https://www.digitaljournal.com/article/asian-stocks-fluctuate-as-traders-eye-crucial-us-jobs-data/) (Published: 2026-07-01)
