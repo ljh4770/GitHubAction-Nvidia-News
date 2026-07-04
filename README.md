@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-04 01:21:42**_
+_Last updated: **2026-07-04 05:00:46**_
 
-- [Anthropic reportedly in talks with Samsung to manufacture custom AI chip](https://siliconangle.com/2026/07/02/anthropic-reportedly-talks-samsung-manufacture-custom-ai-chip/) (Published: 2026-07-03)
-- [nemo-lens added to PyPI](https://pypi.org/project/nemo-lens/) (Published: 2026-07-03)
-- [Jensen Huang's iconic leather jacket is going up for auction](https://biztoc.com/x/bc7aedbf587ff67d) (Published: 2026-07-03)
-- [Jensen Huang's iconic leather jacket is going up for auction](https://www.businessinsider.com/jensen-huang-nvidia-ceo-black-leather-jacket-auction-sothebys-2026-7#article) (Published: 2026-07-03)
-- [Generalizable AI predicts immunotherapy outcomes across cancers and treatments](https://www.nature.com/articles/s41591-026-04502-7) (Published: 2026-07-03)
-- [Huawei's Ascend AI chips target South Korea in new Nvidia challenge](https://www.digitimes.com/news/a20260702PD224/huawei-ascend-chips-nvidia-market.html) (Published: 2026-07-02)
-- [Physical AI reshape IPC industry: edge adoption, new markets, and US expansion gain pace](https://www.digitimes.com/news/a20260702PD211/ipc-nvidia-adoption-expansion-demand.html) (Published: 2026-07-02)
-- [Nvidia floats double-dipping datacenter financing scheme](https://slashdot.org/firehose.pl?op=view&amp;id=184281322) (Published: 2026-07-02)
-- [AI is 'not smart' so what's next in artificial intelligence?](https://www.bbc.com/news/articles/cj6gr0xkyr3o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (Published: 2026-07-02)
-- [AI is 'not smart' so what's next in artificial intelligence?](https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o) (Published: 2026-07-02)
+- [AI bubble or boom? Why Warren Buffett called Big Short fame Michael Burry ‘Cassandra’](https://economictimes.indiatimes.com/markets/us-stocks/ai-bubble-or-boom-why-warren-buffett-called-big-short-fame-michael-burry-cassandra/articleshow/132152663.cms) (Published: 2026-07-03)
+- [We took a self-driving car on the road for 100 days to see how it handled itself – these are the mistakes it kept making](https://theconversation.com/we-took-a-self-driving-car-on-the-road-for-100-days-to-see-how-it-handled-itself-these-are-the-mistakes-it-kept-making-286265) (Published: 2026-07-03)
+- [Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it](https://biztoc.com/x/a7de9d73773ef5bd) (Published: 2026-07-03)
+- [NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications](https://www.cnx-software.com/2026/07/03/nvidia-jetson-orin-nano-nx-based-mekotronics-ai-box-targets-humanoid-robots-smart-cities-management-transportation-applications/) (Published: 2026-07-03)
+- [Who Needs a Steam Machine? SteamOS Is Valve's Real Win for PC Gamers](https://me.pcmag.com/en/operating-systems/37605/who-needs-a-steam-machine-steamos-is-valves-real-win-for-pc-gamers) (Published: 2026-07-03)
+- [NVIDIAチップ密輸容疑者の約69億円の豪邸をシンガポール警察が押収](https://news.livedoor.com/article/detail/31729822/) (Published: 2026-07-03)
+- [Trump Made 327 Stock Purchases the Day Before He Announced ‘This Is a Great Time To Buy’ and Rolled Back Tariffs](https://www.mediaite.com/politics/trump/trump-made-327-stock-purchases-the-day-before-he-announced-this-is-a-great-time-to-buy-and-rolled-back-tariffs/) (Published: 2026-07-03)
+- [Non-AI Nifty suddenly beating Nasdaq, South Korea & Taiwan bourses: Is the global tech trade finally reversing?](https://economictimes.indiatimes.com/markets/stocks/news/non-ai-nifty-suddenly-beating-nasdaq-south-korea-taiwan-bourses-is-the-global-tech-trade-finally-reversing/articleshow/132151932.cms) (Published: 2026-07-03)
+- [Trump's financial disclosure reveals 21,000 trades in 2025](https://economictimes.indiatimes.com/markets/us-stocks/news/trumps-financial-disclosure-reveals-21000-trades-in-2025/articleshow/132151853.cms) (Published: 2026-07-03)
