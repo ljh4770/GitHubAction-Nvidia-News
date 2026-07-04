@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-04 07:54:46**_
+_Last updated: **2026-07-04 10:08:06**_
 
-- [Megawatt AI Racks: Infrastructure Evolution & Wide-Bandgap Power Semiconductor Opportunities by 2030](https://www.digitimes.com/reports/item.php?id=20260626RS400) (Published: 2026-07-03)
-- [User swore hacker called General Failure had invaded his PC](https://biztoc.com/x/ef02111be91e7de0) (Published: 2026-07-03)
-- [The AI trade is losing one of its key signals](https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock) (Published: 2026-07-03)
-- [Organized crime is building an AI hardware cargo theft economy: ‘The economics have become just crazy from the criminal opportunistic perspective’](https://fortune.com/2026/07/03/organized-crime-cargo-theft-economy-ai-infrastructure-data-center-black-market/) (Published: 2026-07-03)
-- [Proton Experimental gets fixes for DEATHLOOP, DRAGON QUEST BUILDERS and more](https://www.gamingonlinux.com/2026/07/proton-experimental-gets-fixes-for-deathloop-dragon-quest-builders-and-more/) (Published: 2026-07-03)
-- [Safe havens aren't behaving like they used to. Here's what's changed](https://www.cnbc.com/2026/07/03/safe-havens-arent-behaving-like-they-used-to-heres-whats-changed.html) (Published: 2026-07-03)
-- [South Korea braces for $29 billion currency tsunami from SK Hynix’s massive ADR offering](https://cryptobriefing.com/sk-hynix-adr-offering-currency-flows/) (Published: 2026-07-03)
-- [Asian shares rally after Dow hits a record, as some AI shares bounce back](https://abcnews.com/Business/wireStory/asian-shares-rally-after-dow-hits-record-ai-134433529) (Published: 2026-07-03)
-- [The Chip War Against China is Failing](https://www.counterpunch.org/2026/07/03/the-chip-war-against-china-is-failing/) (Published: 2026-07-03)
+- [‘Don’t care’, says Donald Trump, chalking off alleged insider trading claims; $1.4 billion crypto windfall](https://economictimes.indiatimes.com/markets/stocks/news/dont-care-says-donald-trump-chalking-off-alleged-insider-trading-claims-1-4-billion-crypto-windfall/articleshow/132158603.cms) (Published: 2026-07-03)
+- [Lenovo Legion 7i Gaming Laptop Review: It Has the Looks, but Not Quite the Value](https://www.cnet.com/tech/computing/lenovos-latest-legion-7i-has-the-looks-but-not-quite-class-leading-value/) (Published: 2026-07-03)
+- [Mr. Lucky: Bay Street legend Bill Holland has donated tens of millions and raised tens more to help kids](https://financialpost.com/personal-finance/high-net-worth/mr-lucky-bay-street-legend-bill-holland-has-donated-tens-of-millions-and-raised-tens-more-to-help-kids) (Published: 2026-07-03)
+- [This laptop has an incredible touchscreen and great graphics, but an older Intel chip holds it back](https://www.makeuseof.com/acer-swift-x-14-review/) (Published: 2026-07-03)
+- [China approves Unitree’s Shanghai listing registration, valuing IPO at $619M](https://thenextweb.com/news/unitree-shanghai-ipo-approval/) (Published: 2026-07-03)
+- [Jensen Huang’s iconic signed leather jacket expected to fetch up to $60,000 in charity auction — Sotheby’s says item was worn at a Foxconn Tech Day in 2023 and the signature has been professionally authenticated](https://www.tomshardware.com/peripherals/wearable-tech/jensen-huangs-iconic-signed-leather-jacket-expected-to-fetch-up-to-usd60-000-in-charity-auction-sothebys-says-item-was-worn-at-a-foxconn-tech-day-in-2023-and-the-signature-has-been-professionally-authenticated) (Published: 2026-07-03)
+- [gpu-usage-audit 1.7.2](https://pypi.org/project/gpu-usage-audit/1.7.2/) (Published: 2026-07-03)
+- [Pharma Predictive Analytics Market Soars to $9.37 Billion by 2031 with 28.42% CAGR Growth](https://www.globenewswire.com/news-release/2026/07/03/3321731/28124/en/Pharma-Predictive-Analytics-Market-Soars-to-9-37-Billion-by-2031-with-28-42-CAGR-Growth.html) (Published: 2026-07-03)
+- ['Don’t care’, says Donald Trump, chalking off alleged insider trading claims; $1.4 billion crypto windfall](https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/dont-care-says-donald-trump-chalking-off-alleged-insider-trading-claims-1-4-billion-crypto-windfall/articleshow/132156805.cms) (Published: 2026-07-03)
+- [Jim Cramer Explains How NVIDIA Can Change “Direction of the Price”](https://biztoc.com/x/c0632b07669e5338) (Published: 2026-07-03)
