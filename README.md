@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-04 05:00:46**_
+_Last updated: **2026-07-04 07:54:46**_
 
-- [AI bubble or boom? Why Warren Buffett called Big Short fame Michael Burry ‘Cassandra’](https://economictimes.indiatimes.com/markets/us-stocks/ai-bubble-or-boom-why-warren-buffett-called-big-short-fame-michael-burry-cassandra/articleshow/132152663.cms) (Published: 2026-07-03)
-- [We took a self-driving car on the road for 100 days to see how it handled itself – these are the mistakes it kept making](https://theconversation.com/we-took-a-self-driving-car-on-the-road-for-100-days-to-see-how-it-handled-itself-these-are-the-mistakes-it-kept-making-286265) (Published: 2026-07-03)
-- [Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it](https://biztoc.com/x/a7de9d73773ef5bd) (Published: 2026-07-03)
-- [NVIDIA Jetson Orin Nano/NX-based Mekotronics AI Box targets humanoid robots, Smart Cities management, transportation applications](https://www.cnx-software.com/2026/07/03/nvidia-jetson-orin-nano-nx-based-mekotronics-ai-box-targets-humanoid-robots-smart-cities-management-transportation-applications/) (Published: 2026-07-03)
-- [Who Needs a Steam Machine? SteamOS Is Valve's Real Win for PC Gamers](https://me.pcmag.com/en/operating-systems/37605/who-needs-a-steam-machine-steamos-is-valves-real-win-for-pc-gamers) (Published: 2026-07-03)
-- [NVIDIAチップ密輸容疑者の約69億円の豪邸をシンガポール警察が押収](https://news.livedoor.com/article/detail/31729822/) (Published: 2026-07-03)
-- [Trump Made 327 Stock Purchases the Day Before He Announced ‘This Is a Great Time To Buy’ and Rolled Back Tariffs](https://www.mediaite.com/politics/trump/trump-made-327-stock-purchases-the-day-before-he-announced-this-is-a-great-time-to-buy-and-rolled-back-tariffs/) (Published: 2026-07-03)
-- [Non-AI Nifty suddenly beating Nasdaq, South Korea & Taiwan bourses: Is the global tech trade finally reversing?](https://economictimes.indiatimes.com/markets/stocks/news/non-ai-nifty-suddenly-beating-nasdaq-south-korea-taiwan-bourses-is-the-global-tech-trade-finally-reversing/articleshow/132151932.cms) (Published: 2026-07-03)
-- [Trump's financial disclosure reveals 21,000 trades in 2025](https://economictimes.indiatimes.com/markets/us-stocks/news/trumps-financial-disclosure-reveals-21000-trades-in-2025/articleshow/132151853.cms) (Published: 2026-07-03)
+- [Megawatt AI Racks: Infrastructure Evolution & Wide-Bandgap Power Semiconductor Opportunities by 2030](https://www.digitimes.com/reports/item.php?id=20260626RS400) (Published: 2026-07-03)
+- [User swore hacker called General Failure had invaded his PC](https://biztoc.com/x/ef02111be91e7de0) (Published: 2026-07-03)
+- [The AI trade is losing one of its key signals](https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock) (Published: 2026-07-03)
+- [Organized crime is building an AI hardware cargo theft economy: ‘The economics have become just crazy from the criminal opportunistic perspective’](https://fortune.com/2026/07/03/organized-crime-cargo-theft-economy-ai-infrastructure-data-center-black-market/) (Published: 2026-07-03)
+- [Proton Experimental gets fixes for DEATHLOOP, DRAGON QUEST BUILDERS and more](https://www.gamingonlinux.com/2026/07/proton-experimental-gets-fixes-for-deathloop-dragon-quest-builders-and-more/) (Published: 2026-07-03)
+- [Safe havens aren't behaving like they used to. Here's what's changed](https://www.cnbc.com/2026/07/03/safe-havens-arent-behaving-like-they-used-to-heres-whats-changed.html) (Published: 2026-07-03)
+- [South Korea braces for $29 billion currency tsunami from SK Hynix’s massive ADR offering](https://cryptobriefing.com/sk-hynix-adr-offering-currency-flows/) (Published: 2026-07-03)
+- [Asian shares rally after Dow hits a record, as some AI shares bounce back](https://abcnews.com/Business/wireStory/asian-shares-rally-after-dow-hits-record-ai-134433529) (Published: 2026-07-03)
+- [The Chip War Against China is Failing](https://www.counterpunch.org/2026/07/03/the-chip-war-against-china-is-failing/) (Published: 2026-07-03)
