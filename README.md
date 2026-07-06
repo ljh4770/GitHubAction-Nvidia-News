@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-06 01:20:16**_
+_Last updated: **2026-07-06 05:42:51**_
 
+- [Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack](https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/) (Published: 2026-07-05)
+- [Is Covista’s Expanded Advocate Health Nursing Pathway Reshaping the Long-Term Education Thesis For CVSA?](https://simplywall.st/stocks/us/consumer-services/nyse-cvsa/covista/news/is-covistas-expanded-advocate-health-nursing-pathway-reshapi) (Published: 2026-07-05)
+- [nemotron-page-elements-v3 3.0.2.dev20260705044105](https://pypi.org/project/nemotron-page-elements-v3/3.0.2.dev20260705044105/) (Published: 2026-07-05)
+- [nemotron-graphic-elements-v1 1.0.1.dev20260705044105](https://pypi.org/project/nemotron-graphic-elements-v1/1.0.1.dev20260705044105/) (Published: 2026-07-05)
+- [SK Telecom Pursues 15GW AI Data Center Buildout, Aiming to Become Asia's AI Infrastructure Hub](https://apnews.com/press-release/pr-newswire/press-release-eee5220486f58cfad953246f5aab8059) (Published: 2026-07-05)
+- ["Big Short" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?](https://biztoc.com/x/391c5386d8998af8) (Published: 2026-07-05)
+- [US companies that will define the next 250 years](https://biztoc.com/x/2d8b6756e843d835) (Published: 2026-07-05)
+- [Nvidia Stock Is Now Cheaper Than Coca-Cola. Here's the Math](https://biztoc.com/x/1cb4d2ddc73a99f4) (Published: 2026-07-05)
 - [SK Telecom Pursues 15GW AI Data Center Buildout, Aiming to Become Asia's AI Infrastructure Hub](https://www.prnewswire.com/news-releases/sk-telecom-pursues-15gw-ai-data-center-buildout-aiming-to-become-asias-ai-infrastructure-hub-302817963.html) (Published: 2026-07-05)
-- [nemo-retriever 2026.7.4.dev142](https://pypi.org/project/nemo-retriever/2026.7.4.dev142/) (Published: 2026-07-04)
-- [nemo-retriever 2026.7.4.dev592](https://pypi.org/project/nemo-retriever/2026.7.4.dev592/) (Published: 2026-07-04)
-- [Nvidia and Oracle study shows AI data centers can cut power by 30% during grid stress](https://cryptobriefing.com/nvidia-oracle-ai-data-centers-reduce-power-grid-stress/) (Published: 2026-07-04)
-- [nexyn-core added to PyPI](https://pypi.org/project/nexyn-core/) (Published: 2026-07-04)
-- [Micron breaks ground on $9B AI memory plant in Japan](https://cryptobriefing.com/micron-9b-ai-memory-plant-japan/) (Published: 2026-07-04)
-- [3 Disadvantages Of Buying An Apple TV](https://www.bgr.com/2204384/disadvantages-apple-tv/) (Published: 2026-07-04)
-- [Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?](https://biztoc.com/x/f382ee24dd97a2d7) (Published: 2026-07-04)
-- [MinebeaMitsumi bets $360 million on bearings for AI data centers](https://cryptobriefing.com/minebeamitsumi-bearings-ai-data-centers/) (Published: 2026-07-04)
-- [Jim Cramer surprises investors with his favorite stock pick](https://www.thestreet.com/investing/stocks/intc-intel-stock-is-jim-cramer-favorite) (Published: 2026-07-04)
