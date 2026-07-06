@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-06 20:29:37**_
+_Last updated: **2026-07-06 21:58:07**_
 
+- [Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=184322878) (Published: 2026-07-05)
 - [SCHD’s 6 Basis Point Fee Hides a 38% Decade-Long Performance Gap](https://247wallst.com/investing/2026/07/05/schds-6-basis-point-fee-hides-a-38-decade-long-performance-gap/) (Published: 2026-07-05)
 - [DXVK 3.0.1 brings more bug fixes for Windows games on Linux / SteamOS](https://www.gamingonlinux.com/2026/07/dxvk-3-0-1-brings-more-bug-fixes-for-windows-games-on-linux-steamos/) (Published: 2026-07-05)
 - [DXVK 3.1 brings more bug fixes for Windows games on Linux / SteamOS](https://www.gamingonlinux.com/2026/07/dxvk-3-1-brings-more-bug-fixes-for-windows-games-on-linux-steamos/) (Published: 2026-07-05)
@@ -10,4 +11,3 @@ _Last updated: **2026-07-06 20:29:37**_
 - [NVIDIA RTX 3060 12GB spotted on Newegg for $329, confirming the re-launch](https://www.tweaktown.com/news/112483/nvidia-rtx-3060-12gb-spotted-on-newegg-for-dollars329-confirming-the-re-launch/index.html) (Published: 2026-07-05)
 - [NVIDIA’s RTX 3060 12 GB Graphics Card Comeback Proves Just How Bad Things Are For The PC Gaming Market](https://wccftech.com/nvidia-rtx-3060-12-gb-graphics-card-comeback-proves-how-bad-pc-gaming-market-is/) (Published: 2026-07-05)
 - [Michael Burry’s bearish bet against memory chipmakers is starting to look less crazy](https://cryptobriefing.com/michael-burry-bearish-memory-chipmakers/) (Published: 2026-07-05)
-- [3 iShares ETFs Crushing the S&P 500 by 30 Points in 2026](https://247wallst.com/investing/2026/07/05/3-ishares-etfs-crushing-the-sp-500-by-30-points-in-2026/) (Published: 2026-07-05)
