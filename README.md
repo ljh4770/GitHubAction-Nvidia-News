@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-06 05:42:51**_
+_Last updated: **2026-07-06 09:44:46**_
 
+- [This AI Chip Stock Just Signed Massive Deals With 3 Hyperscalers, and It Still Looks Like a Great Buy Right Now (Hint: Not Nvidia or Intel)](https://biztoc.com/x/63362db5a0a786b1) (Published: 2026-07-05)
+- [5 upgrades the next NVIDIA Shield TV absolutely needs](https://www.androidauthority.com/new-nvidia-shield-tv-wishlist-2026-3680701/) (Published: 2026-07-05)
+- [HP OMEN 45L Gaming PC (Cert. Refurb): Intel Ultra 7 265K, RTX 5070 Ti, 32GB DDR5, 1TB SSD, Win 11 Pro $1899](https://slickdeals.net/f/19723374-hp-omen-45l-gaming-pc-cert-refurb-intel-ultra-7-265k-rtx-5070-ti-32gb-ddr5-1tb-ssd-win-11-pro-1899) (Published: 2026-07-05)
+- [Broadcom locks in deals with three hyperscalers, cementing its role as the AI chip maker that isn’t Nvidia](https://cryptobriefing.com/broadcom-hyperscaler-deals-ai-chip-investment/) (Published: 2026-07-05)
+- [Homelab Gets Linksys Themed Aesthetic](https://hackaday.com/2026/07/05/homelab-gets-linksys-themed-aesthetic/) (Published: 2026-07-05)
+- [Nvidia Introduces New AI Compute Model at Developer Conference](https://www.naturalnews.com/2026-07-05-nvidia-introduces-new-ai-compute-model-devcon.html) (Published: 2026-07-05)
+- [vit-curator added to PyPI](https://pypi.org/project/vit-curator/) (Published: 2026-07-05)
 - [Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack](https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/) (Published: 2026-07-05)
 - [Is Covista’s Expanded Advocate Health Nursing Pathway Reshaping the Long-Term Education Thesis For CVSA?](https://simplywall.st/stocks/us/consumer-services/nyse-cvsa/covista/news/is-covistas-expanded-advocate-health-nursing-pathway-reshapi) (Published: 2026-07-05)
-- [nemotron-page-elements-v3 3.0.2.dev20260705044105](https://pypi.org/project/nemotron-page-elements-v3/3.0.2.dev20260705044105/) (Published: 2026-07-05)
-- [nemotron-graphic-elements-v1 1.0.1.dev20260705044105](https://pypi.org/project/nemotron-graphic-elements-v1/1.0.1.dev20260705044105/) (Published: 2026-07-05)
-- [SK Telecom Pursues 15GW AI Data Center Buildout, Aiming to Become Asia's AI Infrastructure Hub](https://apnews.com/press-release/pr-newswire/press-release-eee5220486f58cfad953246f5aab8059) (Published: 2026-07-05)
-- ["Big Short" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?](https://biztoc.com/x/391c5386d8998af8) (Published: 2026-07-05)
-- [US companies that will define the next 250 years](https://biztoc.com/x/2d8b6756e843d835) (Published: 2026-07-05)
-- [Nvidia Stock Is Now Cheaper Than Coca-Cola. Here's the Math](https://biztoc.com/x/1cb4d2ddc73a99f4) (Published: 2026-07-05)
-- [SK Telecom Pursues 15GW AI Data Center Buildout, Aiming to Become Asia's AI Infrastructure Hub](https://www.prnewswire.com/news-releases/sk-telecom-pursues-15gw-ai-data-center-buildout-aiming-to-become-asias-ai-infrastructure-hub-302817963.html) (Published: 2026-07-05)
