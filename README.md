@@ -1,14 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-08 17:02:55**_
+_Last updated: **2026-07-08 18:38:46**_
 
-- [Rivian Learns the Power of the Hot Stock Force: Selling It](https://app.moby.co/home/news/news-rivian-learns-the-power-of-the-hot-stock-force-selling-it?utm_source=yahoo_finance&amp;utm_medium=rss) (Published: 2026-07-07)
-- [Nvidia Is a $4.7 Trillion Company. Here's How Close It Is to Retaking $5 Trillion](https://biztoc.com/x/070a493e14efd003) (Published: 2026-07-07)
-- [Samsung Posts Record $58 Billion Historic Quarterly Profit, Surpassing Nvidia and Apple on Memory Chip Boom](https://www.ibtimes.com.au/samsung-record-profit-memory-chip-boom-1871989) (Published: 2026-07-07)
-- [These are the 5 stock funds Americans can invest in through Trump accounts](https://www.businessinsider.com/trump-accounts-etfs-stock-funds-sp500-spym-vti-itot-ivv-2026-7#article) (Published: 2026-07-07)
-- [SpaceX’s biggest bull sees a $10.5tn valuation. A famed bear bets on a crash](https://thenextweb.com/news/spacex-10-trillion-bull-grantham-crash/) (Published: 2026-07-07)
-- [Prediction: Prime Day Success Sets Up Amazon for 33% Upside Based on Our Analysis](https://247wallst.com/investing/2026/07/07/prediction-prime-day-success-sets-up-amazon-for-33-upside-based-on-our-analysis/) (Published: 2026-07-07)
-- [Ubuntu Server: a platform made for enterprise scale](
-      https://maas.io/blog/ubuntu-server-a-platform-made-for-enterprise-scale) (Published: 2026-07-07)
-- [Turing cuts Nvidia reliance, taps AMD for 10% of AI training](https://biztoc.com/x/e3f38fe9460c9799) (Published: 2026-07-07)
-- [Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron](https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron/) (Published: 2026-07-07)
-- [Stalled AI rally has more eyeing old-guard stocks](https://financialpost.com/investing/stalled-ai-rally-has-more-eyeing-old-guard-stocks) (Published: 2026-07-07)
+- [Artificial Analysis launches Harvey LAB-AA to benchmark legal models](https://cryptobriefing.com/harvey-lab-aa-legal-ai-benchmark/) (Published: 2026-07-07)
+- [Facing US export controls, China's DeepSeek plans to make its own chips](https://slashdot.org/firehose.pl?op=view&amp;id=184346676) (Published: 2026-07-07)
+- [streamlit-ncu-rep-viewer 0.1.1](https://pypi.org/project/streamlit-ncu-rep-viewer/0.1.1/) (Published: 2026-07-07)
+- [streamlit-ncu-rep-viewer 0.1.0](https://pypi.org/project/streamlit-ncu-rep-viewer/0.1.0/) (Published: 2026-07-07)
+- [streamlit-ncu-rep-viewer added to PyPI](https://pypi.org/project/streamlit-ncu-rep-viewer/) (Published: 2026-07-07)
+- [SpaceX shares slide as it joins the tech-heavy Nasdaq-100](https://www.aljazeera.com/economy/2026/7/7/spacex-shares-slide-as-it-joins-the-tech-heavy-nasdaq-100) (Published: 2026-07-07)
+- [jaxamg 0.1.3](https://pypi.org/project/jaxamg/0.1.3/) (Published: 2026-07-07)
+- [Cramer: Samsung Is More Profitable Than Nvidia, but He Has a Warning on SK Hynix’s $28 Billion Raise](https://biztoc.com/x/55ff3836d8d765d3) (Published: 2026-07-07)
+- [Consumers Won’t Buy Robots. They’ll Rent Them](https://www.pymnts.com/news/artificial-intelligence/2026/consumers-wont-buy-robots-theyll-rent-them/) (Published: 2026-07-07)
+- [I Got Sick of Streaming Price Hikes, So I Built My Own 'Netflix' For Free](https://uk.pcmag.com/video-streaming-services/153942/i-got-sick-of-streaming-price-hikes-set-up-plex-server-build-my-own-netlfix) (Published: 2026-07-07)
