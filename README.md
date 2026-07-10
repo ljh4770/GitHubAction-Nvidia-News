@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-09 23:10:56**_
+_Last updated: **2026-07-10 00:18:50**_
 
+- [Nvidia’s PE ratio drops to 31, its lowest level in 7 years, even as stock price sits near all-time highs](https://cryptobriefing.com/nvidia-pe-ratio-drops-lowest-seven-years/) (Published: 2026-07-09)
+- [Nvidia's slide sends valuation back to pre-AI boom levels](https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-slide-sends-valuation-back-to-pre-ai-boom-levels/articleshow/132274756.cms) (Published: 2026-07-09)
+- [China's AI chip buyers turn from Nvidia to local suppliers in H20 squeeze](https://www.digitimes.com/news/a20260707VL210/china-nvidia-accelerator-infrastructure.html) (Published: 2026-07-09)
+- [ckg-nemotron-perplexity added to PyPI](https://pypi.org/project/ckg-nemotron-perplexity/) (Published: 2026-07-08)
+- [ckg-nemotron-perplexity 0.1.0](https://pypi.org/project/ckg-nemotron-perplexity/0.1.0/) (Published: 2026-07-08)
+- [nemo-retriever 2026.7.8.dev146](https://pypi.org/project/nemo-retriever/2026.7.8.dev146/) (Published: 2026-07-08)
+- [nemo-retriever 2026.7.8.dev596](https://pypi.org/project/nemo-retriever/2026.7.8.dev596/) (Published: 2026-07-08)
+- [Nvidia’s CEO Just Predicted a New Blue-Collar Millionaire Class. Here Are 5 Stocks Worth Watching](https://biztoc.com/x/a1c875f61d768a95) (Published: 2026-07-08)
 - [Nvidia Rival Positron Holds Talks to Raise Funds at $5 Billion Valuation](https://financialpost.com/pmn/business-pmn/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation) (Published: 2026-07-08)
 - [Tensordyne targets AI inference market with logarithmic math and Juniper-derived rack architecture](https://siliconangle.com/2026/07/08/logarithmic-math-accelerates-enterprise-ai-inference-raisesummit/) (Published: 2026-07-08)
-- [Lovable reportedly in talks to double its valuation to $13.2B | TechCrunch](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/) (Published: 2026-07-08)
-- [BofA calls Nvidia stock a compelling buying opportunity at seven-year low valuation](https://cryptobriefing.com/bofa-nvidia-stock-buying-opportunity/) (Published: 2026-07-08)
-- [The AI that spawned MechaHitler and deepfake porn puts on a suit to become legal advisor and Excel jockey](https://www.theregister.com/ai-and-ml/2026/07/08/the-ai-that-spawned-mechahitler-and-deepfake-porn-puts-on-a-suit-to-become-legal-advisor-and-excel-jockey/5268803) (Published: 2026-07-08)
-- [The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year's Claude Opus](https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus) (Published: 2026-07-08)
-- [The 4K-Capable Andromeda Insights Radeon RX 9070 XT Gaming PC Drops to Just $1,499 Shipped](https://www.ign.com/articles/andromeda-insights-radeon-rx-9070-xt-gaming-pc-deal-july) (Published: 2026-07-08)
-- [SK Hynix hits Nasdaq July 10. SKUU and SKDD are expected to launch on July 13.](https://www.globenewswire.com/news-release/2026/07/08/3324503/0/en/SK-Hynix-hits-Nasdaq-July-10-SKUU-and-SKDD-are-expected-to-launch-on-July-13.html) (Published: 2026-07-08)
-- [Jim Cramer sees a big risk to the bull market resurfacing — and it's not the Iran war](https://www.cnbc.com/2026/07/08/jim-cramer-risk-bull-market-resurfacing.html) (Published: 2026-07-08)
-- [Topaz Video – In Depth Review](https://www.provideocoalition.com/topaz-video-in-depth-review/) (Published: 2026-07-08)
