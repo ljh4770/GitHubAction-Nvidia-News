@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-11 21:27:47**_
+_Last updated: **2026-07-11 22:24:41**_
 
+- [US eases export controls on advanced chips and drones for UAE in major policy shift](https://cryptobriefing.com/us-eases-chip-export-controls-uae/) (Published: 2026-07-10)
+- [SK Hynix makes historic NASDAQ debut amid AI-driven demand](https://cryptobriefing.com/sk-hynix-nasdaq-debut-ai-demand/) (Published: 2026-07-10)
 - [Google Gemma team partners with Hugging Face to boost inference speed 5x](https://cryptobriefing.com/google-gemma-hugging-face-inference-speed/) (Published: 2026-07-10)
 - [mxframe 0.3.0](https://pypi.org/project/mxframe/0.3.0/) (Published: 2026-07-10)
 - [hanajit added to PyPI](https://pypi.org/project/hanajit/) (Published: 2026-07-10)
@@ -9,5 +11,3 @@ _Last updated: **2026-07-11 21:27:47**_
 - [South Korean chip giant SK hynix surges on first day of trading on Wall Street](https://www.channelnewsasia.com/world/sk-hynix-wall-street-shares-surge-6247311) (Published: 2026-07-10)
 - [Trillion-dollar South Korean chipmaker SK Hynix debuts on Nasdaq at $170 a share, signaling strong AI appetite among traders](https://nypost.com/2026/07/10/business/south-korean-chipmaker-sk-hynix-debuts-on-nasdaq-at-170-a-share/) (Published: 2026-07-10)
 - [BYD’s $10,000 Seagull EV revealed with a longer body and more upgrades](http://electrek.co/2026/07/10/byds-10k-seagull-ev-revealed-longer-body-more-upgrades/) (Published: 2026-07-10)
-- [US eases tech and military export rules for UAE, unlocking license-free AI chip sales](https://cryptobriefing.com/us-eases-export-rules-uae-ai-chips/) (Published: 2026-07-10)
-- [What is NVIDIA NemoClaw? Nemotron 3 Ultra, LangChain Deep Agents, and OpenShell explained](https://4sysops.com/archives/what-is-nvidia-nemoclaw-nemotron-3-ultra-langchain-deep-agents-and-openshell-explained/) (Published: 2026-07-10)
