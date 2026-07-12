@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-12 21:25:30**_
+_Last updated: **2026-07-12 22:23:31**_
 
 - [Another RTX 5090 power connector melted, and even ASRock TempGuard failed to save this one](https://www.tweaktown.com/news/112586/another-rtx-5090-power-connector-melted-and-even-asrock-tempguard-failed-to-save-this-one/index.html) (Published: 2026-07-11)
 - [Rumoured AMD RDNA 5 specs point to impressive performance gains but one detail raises eyebrows](https://www.notebookcheck.net/Rumoured-AMD-RDNA-5-specs-point-to-impressive-performance-gains-but-one-detail-raises-eyebrows.1340196.0.html) (Published: 2026-07-11)
