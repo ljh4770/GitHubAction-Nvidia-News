@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-15 10:09:58**_
+_Last updated: **2026-07-15 11:47:23**_
 
-- [Canadian companies eye more U.S. chip business even as trade uncertainties persist](https://financialpost.com/technology/canadian-companies-eye-more-u-s-chip-business) (Published: 2026-07-14)
-- [Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day](https://finance.yahoo.com/markets/article/micron-and-nvidia-are-powering-a-700-billion-chip-profit-boom-chart-of-the-day-100000068.html) (Published: 2026-07-14)
-- [Bahrain EDB bids to win investors despite mounting headwinds](https://fortune.com/2026/07/14/bahrain-edb-bids-win-investors-mounting-headwinds/) (Published: 2026-07-14)
-- [Google Parent Alphabet Has Abandoned Its $346 Billion Investment -- and History Points to This Decision Being a Mixed Bag](https://biztoc.com/x/e89cb1f565605007) (Published: 2026-07-14)
-- [NVIDIA Teams With US Government to Slam Shut the Backdoor Feeding Banned AI Chips Into China](https://wccftech.com/nvidia-teams-with-us-government-to-slam-shut-the-backdoor-feeding-banned-ai-chips-into-china/) (Published: 2026-07-14)
-- [A $40 billion CIO pinpoints a lesser-known ETF that offers a critical edge over the broader market](https://www.businessinsider.com/where-to-invest-top-index-funds-to-buy-etf-ai-2026-7#article) (Published: 2026-07-14)
-- [Earnings, Inflation and Iran Tensions Set the Tone for US Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures](https://investorshub.advfn.com/market-news/article/31784/earnings-inflation-and-iran-tensions-set-the-tone-for-us-markets-dow-jones-sp-nasdaq-wall-street-futures) (Published: 2026-07-14)
-- [OpenAI is breaking Silicon Valley's unwritten code. That's why Apple is so angry.](https://www.businessinsider.com/openai-breaking-silicon-valley-unspoken-rule-apple-talent-2026-7#article) (Published: 2026-07-14)
-- [CATL’s Robin Zeng Tops 2026 Forbes China Best CEOs List](https://www.forbes.com/sites/forbeschina/2026/07/14/catls-robin-zeng-tops-2026-forbes-china-best-ceos-list/) (Published: 2026-07-14)
-- [Samsung to produce custom AI chips for Anthropic: report](https://cryptobriefing.com/samsung-to-produce-custom-ai-chips-for-anthropic-report/) (Published: 2026-07-14)
+- [3 Artificial Intelligence (AI) Stocks I'd Buy to Take Advantage of a Golden Opportunity](https://biztoc.com/x/bdacbbdbc3421a89) (Published: 2026-07-14)
+- [JPMorgan Just Made $21 Billion and Still Told You to Duck](https://app.moby.co/home/news/news-jpmorgan-just-made-21-billion-and-still-told-you-to-duck?utm_source=yahoo_finance&amp;utm_medium=rss) (Published: 2026-07-14)
+- [vapoursynth-vszipcu added to PyPI](https://pypi.org/project/vapoursynth-vszipcu/) (Published: 2026-07-14)
+- [Nvidia halves Asia buyer list in China chip crackdown: Report](https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-halves-asia-buyer-list-in-china-chip-crackdown-report/articleshow/132390473.cms) (Published: 2026-07-14)
+- [Tower Semiconductor puts $3bn into Japan, and Tokyo is paying for a third of it](https://thenextweb.com/news/tower-semiconductor-3bn-japan-silicon-photonics-meti/) (Published: 2026-07-14)
+- [Nebius lands over $1B computing power deal with Reflection AI, adding to its growing backlog](https://cryptobriefing.com/nebius-reflection-ai-billion-computing-deal/) (Published: 2026-07-14)
+- [Oil prices gain and stocks are mixed as fighting in the Middle East intensifies](https://www.wsbradio.com/news/business/oil-prices-jump/SULXIXLIBYYNXNQD5VSZFPNL7Y/) (Published: 2026-07-14)
+- [Nvidia slashes list of authorized customers in Asia in a bid to reduce AI chip smuggling, report claims — company sent field inspectors, called customers](https://slashdot.org/firehose.pl?op=view&amp;id=184456796) (Published: 2026-07-14)
+- [PS5 emulator finally boots GTA V's menus](https://www.notebookcheck.net/PS5-emulator-finally-boots-GTA-V-s-menus.1342432.0.html) (Published: 2026-07-14)
