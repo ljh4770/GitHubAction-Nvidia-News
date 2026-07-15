@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-15 05:53:31**_
+_Last updated: **2026-07-15 07:59:47**_
 
-- [Oil prices jump as fighting flares in the Middle East](https://abcnews.com/US/wireStory/oil-prices-jump-fighting-flares-middle-east-ai-134735479) (Published: 2026-07-14)
-- [Oil prices jump as fighting flares in the Middle East, while AI-led retreat pulls Asian stocks lower](https://abcnews.com/Business/wireStory/oil-prices-jump-fighting-flares-middle-east-ai-134735480) (Published: 2026-07-14)
-- [Nvidia halves Asia AI chip customer list, FT reports](https://www.thehindubusinessline.com/info-tech/nvidia-halves-asia-ai-chip-customer-list-ft-reports/article71219836.ece) (Published: 2026-07-14)
-- [nemotron-page-elements-v3 3.0.2.dev20260714041737](https://pypi.org/project/nemotron-page-elements-v3/3.0.2.dev20260714041737/) (Published: 2026-07-14)
-- [ASUS ROG Flow Z13: 13.4" 2.5K 180Hz Touch, Ryzen AI Max+ 395, 64GB DDR5, 1TB $2100 + Free S&H](https://slickdeals.net/f/19754724-asus-rog-flow-z13-tablet-13-4-2-5k-180hz-touch-ryzen-ai-max-395-64gb-lpddr5-1tb-ssd-radeon-8060s-2099-99) (Published: 2026-07-14)
-- [Show HN: Self-hosting unpruned GLM-5.2 on a 4-node DGX Spark cluster](https://github.com/XanuNetworks/GLM-5.2-QuantTrio-DCP-4x-DGX-Spark) (Published: 2026-07-14)
-- [Nvidia halves Asia buyer list amid China chip crackdown](https://cryptobriefing.com/nvidia-halves-asia-buyer-list-china-chip-crackdown/) (Published: 2026-07-14)
-- [TSMC rides AI boom to fifth straight quarter of record profit](https://cryptobriefing.com/tsmc-ai-boom-record-profit/) (Published: 2026-07-14)
-- [Google reportedly ramps up TPU push to court Nvidia-backed cloud providers](https://www.digitimes.com/news/a20260714VL207/google-tpu-nvidia-adoption-infrastructure.html) (Published: 2026-07-14)
+- [Inventec NVIDIA GeForce RTX 2070 with Max-Q Design Graphics Driver 32.0.15.9595 for Windows 10 version 21H2 64-bit](https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/Inventec-NVIDIA-GeForce-RTX-2070-with-Max-Q-Design-Graphics-Driver-32-0-15-9595-for-Windows-10-version-21H2-64-bit.shtml) (Published: 2026-07-14)
+- [Nvidia cuts list of approved Asian chip buyers by more than half to prevent diversion to China](https://www.digitimes.com/news/a20260714VL218/nvidia-chips-taiwan.html) (Published: 2026-07-14)
+- [TSMC and ASML earnings loom large as tech stocks nurse wounds from June selloff](https://cryptobriefing.com/tsmc-asml-earnings-tech-selloff/) (Published: 2026-07-14)
+- [Meet DeepSeek's Liang Wenfeng, the Chinese entrepreneur who is now world's richest AI founder, surpassing Anthropic's Dario Amodei](https://economictimes.indiatimes.com/news/new-updates/meet-deepseeks-liang-wenfeng-the-chinese-entrepreneur-who-is-now-worlds-richest-ai-founder-surpassing-anthropics-dario-amodei/articleshow/132383937.cms) (Published: 2026-07-14)
+- [Samsung reportedly in talks for possible US share sale](https://cryptobriefing.com/samsung-us-share-sale-talks/) (Published: 2026-07-14)
+- [Nvidia builds a white list: more than half of its Asian customers are off it](https://thenextweb.com/news/nvidia-halves-asia-buyer-list-china-crackdown/) (Published: 2026-07-14)
+- [The Anatomy of an Instruction Pipeline Hazard](https://hiraditya.github.io/posts/hardware-hazards-b200/) (Published: 2026-07-14)
+- [Jane Goodall Institute USA and FormationQ Launch First-of-its-kind Quantum Computing Research Programme to Explore the Ecological Roots of War and Peace](https://www.prnewswire.com/news-releases/jane-goodall-institute-usa-and-formationq-launch-first-of-its-kind-quantum-computing-research-programme-to-explore-the-ecological-roots-of-war-and-peace-302824400.html) (Published: 2026-07-14)
+- [Jane Goodall Institute USA and FormationQ Launch First-of-its-kind Quantum Computing Research Programme to Explore the Ecological Roots of War and Peace](https://www.prnewswire.com/news-releases/jane-goodall-institute-usa-and-formationq-launch-first-of-its-kind-quantum-computing-research-programme-to-explore-the-ecological-roots-of-war-and-peace-302824359.html) (Published: 2026-07-14)
+- [nim-claude-proxy 0.3.3](https://pypi.org/project/nim-claude-proxy/0.3.3/) (Published: 2026-07-14)
