@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-16 08:29:42**_
+_Last updated: **2026-07-16 10:29:37**_
 
-- [Intel will make the majority of its next-gen Nova Lake-S CPUs in-house as 18A process yields improve](https://www.tweaktown.com/news/112632/intel-will-make-the-majority-of-its-next-gen-nova-lake-s-cpus-in-house-as-18a-process-yields-improve/index.html) (Published: 2026-07-15)
-- [US licenses widen Nvidia H200 access in China, but shipments remain minimal](https://www.digitimes.com/news/a20260715VL221/nvidia-shipments-exports-chips-beijing.html) (Published: 2026-07-15)
-- [NVIDIA Announces Gears Of War-Inspired RTX 5080 Founders Edition Giveaway](https://wccftech.com/nvidia-announces-gears-of-war-inspired-rtx-5080-founders-edition-giveaway/) (Published: 2026-07-15)
-- [SK Hynix Stock Surges Almost 9% in Seoul, Tracking US Tech Rally on Cooling Inflation, AI Chip Demand](https://www.ibtimes.com.au/sk-hynix-shares-surge-ai-chip-demand-us-listing-1872307) (Published: 2026-07-15)
-- [US-China tech rivalry explained: Why the AI and chip war matters](https://economictimes.indiatimes.com/news/international/business/us-china-tech-rivalry-explained-ai-chip-war-semiconductor-race-global-impact/articleshow/132408652.cms) (Published: 2026-07-15)
-- [Valve adds a "Great on Machine" section to the Steam Machine library](https://www.gamingonlinux.com/2026/07/valve-adds-a-great-on-machine-section-to-the-steam-machine-library/) (Published: 2026-07-15)
-- [Nokia defines the next era of radio with the industry’s first AI-native RAN platform](https://www.globenewswire.com/news-release/2026/07/15/3327480/0/en/Nokia-defines-the-next-era-of-radio-with-the-industry-s-first-AI-native-RAN-platform.html) (Published: 2026-07-15)
-- [Show HN: TormentNexus – Open-source AI control plane with 26K+ MCP tools](https://github.com/MDMAtk/TormentNexus) (Published: 2026-07-15)
-- [Lightweight Mechrevo gaming laptop launches with 240Hz OLED and RTX 5060](https://www.notebookcheck.net/Lightweight-Mechrevo-gaming-laptop-launches-with-240Hz-OLED-and-RTX-5060.1343333.0.html) (Published: 2026-07-15)
-- [AI chip selloff erases over $1 trillion as custom silicon threatens Nvidia’s dominance](https://cryptobriefing.com/ai-chip-selloff-trillion-custom-silicon-nvidia/) (Published: 2026-07-15)
+- [AI chip spending to hit $1.6T by 2030, boosting Nvidia, AMD, TSMC](https://cryptobriefing.com/ai-chip-spending-to-hit-16t-by-2030-boosting-nvidia-amd-tsmc/) (Published: 2026-07-15)
+- [Equinix targets hyperscale and enterprise AI demand with infrastructure investments](https://cryptobriefing.com/equinix-hyperscale-enterprise-ai-infrastructure/) (Published: 2026-07-15)
+- [The only Rahu temple in India is in Uttarakhand and almost nobody knows](https://timesofindia.indiatimes.com/city/dehradun/the-only-rahu-temple-in-india-is-in-uttarakhand-and-almost-nobody-knows/articleshow/132413154.cms) (Published: 2026-07-15)
+- [Is Silo Pharma, Inc. (SILO) Stock an AI Opportunity After NVIDIA Partnership Boosts QwikAgents Platform?](https://biztoc.com/x/86a3efa2e8919989) (Published: 2026-07-15)
+- [Following his uncle’s death, Omar Abdullah says Delhi protest programme is on, party seeks meeting with President Droupadi Murmu](https://timesofindia.indiatimes.com/city/srinagar/following-his-uncles-death-jk-cm-omar-abdullah-says-delhi-protest-programme-is-on-party-seeks-meeting-with-president-droupadi-murmu/articleshow/132412855.cms) (Published: 2026-07-15)
+- [NVIDIA and SEGA collaborate to bring Virtua Fighter and more SEGA games to RTX Spark](https://www.tweaktown.com/news/112635/nvidia-and-sega-collaborate-to-bring-virtua-fighter-and-more-sega-games-to-rtx-spark/index.html) (Published: 2026-07-15)
+- [sparkfit 0.4.0](https://pypi.org/project/sparkfit/0.4.0/) (Published: 2026-07-15)
+- [sparkfit added to PyPI](https://pypi.org/project/sparkfit/) (Published: 2026-07-15)
+- [Canadian startup that raised US$75 billion wants to show chip companies can build in Canada](https://financialpost.com/technology/canadian-startup-wants-to-show-chip-companies-can-build-in-canada) (Published: 2026-07-15)
