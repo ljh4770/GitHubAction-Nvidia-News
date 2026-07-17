@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-17 10:39:27**_
+_Last updated: **2026-07-17 11:57:21**_
 
-- [Chip giant TSMC pledges another $100bn to expand US production](https://biztoc.com/x/b5d5e4ce0193e711) (Published: 2026-07-16)
-- [Japan is building a 140MW AI factory for robots, and Nvidia is supplying all of it](https://thenextweb.com/news/japan-noetra-nvidia-rubin-ai-factory-frontia/) (Published: 2026-07-16)
-- [nvprobe 0.5.10](https://pypi.org/project/nvprobe/0.5.10/) (Published: 2026-07-16)
-- [TSMC to invest another $100 billion in US as Q2 profit blows past forecasts](https://biztoc.com/x/b847dd96cd878c78) (Published: 2026-07-16)
-- [nvprobe 0.5.9](https://pypi.org/project/nvprobe/0.5.9/) (Published: 2026-07-16)
-- [BingX Accelerates Multi-Asset Expansion with Strong Q2 Growth](https://www.globenewswire.com/news-release/2026/07/16/3328304/0/en/BingX-Accelerates-Multi-Asset-Expansion-with-Strong-Q2-Growth.html) (Published: 2026-07-16)
-- [$3.2 trillion rotation from chips to the 'Magnificent 7' has left the S&P 500 going nowhere: Chart of the Day](https://biztoc.com/x/fedbc12d29d4cf88) (Published: 2026-07-16)
-- [nvprobe 0.5.8](https://pypi.org/project/nvprobe/0.5.8/) (Published: 2026-07-16)
-- [Global Market: TSMC to invest additional $100 billion in Arizona, raises capex on booming AI demand](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-to-invest-additional-100-billion-in-arizona-raises-capex-on-booming-ai-demand/articleshow/132435792.cms) (Published: 2026-07-16)
-- [Trump promoted companies on Truth Social days after buying their stocks | CNN](https://www.cnn.com/2026/07/16/us/trump-stock-sales-truth-social-invs-vis) (Published: 2026-07-16)
+- [TSMC posts record 77% profit jump as AI demand surges, but chip stocks shrug](https://cryptobriefing.com/tsmc-record-profit-chip-stocks-ai/) (Published: 2026-07-16)
+- [Japan to buy Nvidia Rubin chips to build an AI for robots](https://biztoc.com/x/f397e11d7328a1e0) (Published: 2026-07-16)
+- [TSMC’s AI run: How high can the world’s most important chipmaker go?](https://cryptobriefing.com/tsmc-ai-revenue-growth-semiconductor-crypto/) (Published: 2026-07-16)
+- [videosdk-plugins-nvidia 1.0.25](https://pypi.org/project/videosdk-plugins-nvidia/1.0.25/) (Published: 2026-07-16)
+- [Othor AI raises ₹60 lakh in bridge round ahead of seed funding](https://www.thehindubusinessline.com/info-tech/othor-ai-raises-60-lakh-in-bridge-round-ahead-of-seed-funding/article71229474.ece) (Published: 2026-07-16)
+- [Nvidia unveils new AI model and expands Japan’s physical AI ecosystem](https://biztoc.com/x/bdc55b136fd2a8b5) (Published: 2026-07-16)
+- [Nvidia unveils new AI model and expands Japan’s physical AI ecosystem](https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html) (Published: 2026-07-16)
+- [TSMC boosts U.S. infrastructure spending by $100-billion](https://biztoc.com/x/12bbe875f8fb8ff1) (Published: 2026-07-16)
+- [U.S. International Trade Commission Votes to Institute Second Investigation Into Samsung](https://www.prnewswire.com/news-releases/us-international-trade-commission-votes-to-institute-second-investigation-into-samsung-302827022.html) (Published: 2026-07-16)
