@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-18 00:53:35**_
+_Last updated: **2026-07-18 03:51:12**_
 
+- [TSMC Just Announced Fantastic News for Nvidia Shareholders - The Motley Fool](https://slashdot.org/firehose.pl?op=view&amp;id=184487350) (Published: 2026-07-17)
+- [TSMC Just Announced Fantastic News for Nvidia Shareholders](https://biztoc.com/x/8a841b136e09a9ff) (Published: 2026-07-17)
+- [Tokyo, Taipei lead Asia market rout as AI worries hammer tech](https://www.straitstimes.com/business/companies-markets/tokyo-taipei-lead-asia-market-rout-as-ai-worries-hammer-tech) (Published: 2026-07-17)
+- [qwen-asr-dgxspark 0.1.1](https://pypi.org/project/qwen-asr-dgxspark/0.1.1/) (Published: 2026-07-17)
+- [Tokyo, Taipei lead tech losses as Asian markets suffer again](https://www.digitaljournal.com/article/tokyo-taipei-lead-tech-losses-as-asian-markets-suffer-again/) (Published: 2026-07-17)
+- [Japan steps up sovereign AI ambitions as Noetra launches multimodal AI project, plans infrastructure of 27,500 Nvidia Rubin GPUs](https://www.digitimes.com/news/a20260717PR204/japan-ai-development-infrastructure.html) (Published: 2026-07-17)
+- [Tata Group resorts to older tech to launch its chip foray](https://economictimes.indiatimes.com/industry/cons-products/electronics/tata-group-resorts-to-older-tech-to-launch-its-chip-foray/articleshow/132450832.cms) (Published: 2026-07-17)
+- [Fujitsu and leading Japanese robotics companies to use Nvidia technology in ‘physical AI’](https://biztoc.com/x/8eaff41f94d20270) (Published: 2026-07-17)
+- [Show HN: NexSub – 100% offline real-time translation tool using local Whisper](https://steelsoft.site/software/NexSub_home.html) (Published: 2026-07-17)
 - [Amazon’s chip business secures $225B in commitments as Trainium demand outpaces supply](https://cryptobriefing.com/amazon-trainium-chip-225-billion-commitments/) (Published: 2026-07-17)
-- [C-DAC anchors India’s bid for Nvidia-like artificial intelligence chip](https://www.livemint.com/companies/news/cdac-anchors-india-s-bid-for-nvidia-like-artificial-intelligence-chip-11784206912955.html) (Published: 2026-07-17)
-- [Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data](https://github.com/Robbyant/lingbot-map) (Published: 2026-07-17)
-- [The $1,000 Hidden Tax on Every $10,000 Invested in This NVIDIA ETF](https://biztoc.com/x/93a702f09c6ab208) (Published: 2026-07-17)
-- [Agentic AI, Red Hat OpenShift, and NVIDIA: Shifting to precision security](https://www.redhat.com/en/blog/agentic-ai-red-hat-openshift-and-nvidia-shifting-precision-security) (Published: 2026-07-17)
-- [SOFC gains traction in AI data centers, opening three paths for Taiwan suppliers](https://www.digitimes.com/news/a20260714PD225/fuel-cell-demand-energy-storage-capacity-taiwan-technology.html) (Published: 2026-07-16)
-- [Chinese filing suggests DeepSeek valuation of $52B as AI startup eyes even larger raise](https://cryptobriefing.com/deepseek-valuation-52-billion-chinese-filing-2/) (Published: 2026-07-16)
-- [nemo-retriever 2026.7.16.dev604](https://pypi.org/project/nemo-retriever/2026.7.16.dev604/) (Published: 2026-07-16)
-- [Report: Trump Praised Firms After Buying Stock](https://www.newser.com/story/392964/report-trump-praised-firms-after-buying-stock.html) (Published: 2026-07-16)
-- [The 4 Layers Of Brain Behind One Of Europe’s Leading Humanoid Robots](https://www.forbes.com/sites/johnkoetsier/2026/07/16/the-4-layers-of-brain-behind-one-of-europes-leading-humanoid-robots/) (Published: 2026-07-16)
