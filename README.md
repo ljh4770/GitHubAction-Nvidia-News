@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-19 14:06:07**_
+_Last updated: **2026-07-19 15:11:36**_
 
+- [Forget EWZ. Franklin’s Brazil Twin Charges Two-Thirds Less, and It’s Up 30% This Year](https://247wallst.com/investing/2026/07/18/forget-ewz-franklins-brazil-twin-charges-two-thirds-less-and-its-up-30-this-year/) (Published: 2026-07-18)
+- [Nvidia publishes first N1X GPU drivers for Windows 11 Arm RTX Spark PCs](https://4sysops.com/archives/nvidia-publishes-first-n1x-gpu-drivers-for-windows-11-arm-rtx-spark-pcs/) (Published: 2026-07-18)
+- [DXVK 3.0.2 brings bug fixes for Dying Light: The Beast, Halo and more on Linux / SteamOS](https://www.gamingonlinux.com/2026/07/dxvk-3-0-2-brings-bug-fixes-for-dying-light-the-beast-halo-and-more-on-linux-steamos/) (Published: 2026-07-18)
+- [CONTROL Resonant – Everything We Know About Remedy’s Manhattan-based First Action RPG Featuring Dylan Faden](https://wccftech.com/roundup/control-resonant-everything-we-know-manhattan-action-rpg-dylan-faden/) (Published: 2026-07-18)
+- [Chinese Startup Moonshot AI Releases Kimi K3, World's Largest Open-Source Model, Rattling Global Markets](https://www.ibtimes.com.au/moonshot-ai-unveils-kimi-k3-largest-open-source-model-1872529) (Published: 2026-07-18)
+- [A Chinese Pink Floyd fan is giving Claude and Chat their own DeepSeek moment — an AI model just as good and half the price](https://fortune.com/2026/07/18/yang-zhilin-moonshot-kimi-k3-carnegie-mellon/) (Published: 2026-07-18)
+- [Show HN: TPU-accelerated quantum circuit simulation in Jax](https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX) (Published: 2026-07-18)
+- [Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve](https://247wallst.com/investing/2026/07/18/price-prediction-tesla-poised-for-12-rally-as-profit-margins-improve/) (Published: 2026-07-18)
+- [PNY NVIDIA GeForce RTX 5070 OC Triple Fan PCIe 5.0 12GB GDDR7 Gaming Graphics Card for $522 (6 replies)](https://slickdeals.net/f/19777020-pny-nvidia-geforce-rtx-5070-oc-triple-fan-pcie-5-0-12gb-gddr7-gaming-graphics-card-for-522) (Published: 2026-07-18)
 - [ASRock Challenger Arc B570 10GB GDDR6 PCI Express 4.0 x8 ATX Graphics Card B570 CL 10GO $229.99 (6 replies)](https://slickdeals.net/f/19776951-asrock-challenger-arc-b570-10gb-gddr6-pci-express-4-0-x8-atx-graphics-card-b570-cl-10go-229-99) (Published: 2026-07-18)
-- [ptyolox-garage added to PyPI](https://pypi.org/project/ptyolox-garage/) (Published: 2026-07-18)
-- [Big Tech earnings season and the capex spiral](https://www.businessinsider.com/big-tech-spending-capex-earnings-season-memory-prices-ai-2026-7#article) (Published: 2026-07-18)
-- [Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing — 3GB GDDR7 module costs triple the price of 2GB](https://slashdot.org/firehose.pl?op=view&amp;id=184503208) (Published: 2026-07-18)
-- [Robinhood Chain sees 85% of trading in memecoins two weeks post-launch](https://cryptobriefing.com/robinhood-chain-memecoins-85-percent-trading-launch/) (Published: 2026-07-18)
-- [Nvidia RTX 50 Super GPUs are reportedly ready, but stuck in limbo due to excessive GDDR7 pricing — 3GB GDDR7 module costs triple the price of 2GB](https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb) (Published: 2026-07-18)
-- [OpenEvidence reportedly eyes $200M raise at $20B valuation, signaling AI healthcare’s breakneck growth](https://cryptobriefing.com/openevidence-200m-raise-20b-valuation/) (Published: 2026-07-18)
-- [Nvidia CEO Jensen Huang’s trademark leather jacket raises nearly $1 Million at charity auction — bidding makes $60,000 valuation look like pocket c](https://slashdot.org/firehose.pl?op=view&amp;id=184503074) (Published: 2026-07-18)
-- [Nvidia CEO Jensen Huang’s trademark leather jacket raises nearly $1 Million at charity auction — bidding makes $60,000 valuation look like pocket change](https://www.tomshardware.com/peripherals/wearable-tech/nvidia-ceo-jensen-huangs-trademark-leather-jacket-raises-nearly-usd1-million-at-charity-auction-bidding-makes-usd60-000-valuation-look-like-pocket-change) (Published: 2026-07-18)
-- [I Keep Buying Nvidia Because Bears Keep Shouting This False Narrative](https://biztoc.com/x/cab84e5222c75f21) (Published: 2026-07-18)
