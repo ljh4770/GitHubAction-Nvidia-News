@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-21 21:47:53**_
+_Last updated: **2026-07-21 22:40:04**_
 
+- [Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks](https://biztoc.com/x/4838c2b9c61b9c6f) (Published: 2026-07-20)
+- [NVIDIA’s Synthetic Video Detector Spots Fake News & AI-Generated Content With 92% Accuracy, Analyzing 1080p Footage In Just 22ms - Wccftech](https://slashdot.org/firehose.pl?op=view&amp;id=184533944) (Published: 2026-07-20)
+- [AMD’s Helios bets big on open AI racks to challenge Nvidia](https://4sysops.com/archives/amds-helios-bets-big-on-open-ai-racks-to-challenge-nvidia/) (Published: 2026-07-20)
+- [vox-parakeet 0.2.34](https://pypi.org/project/vox-parakeet/0.2.34/) (Published: 2026-07-20)
+- [Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market](https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html) (Published: 2026-07-20)
+- [vox-parakeet 0.2.33](https://pypi.org/project/vox-parakeet/0.2.33/) (Published: 2026-07-20)
+- [Purpose Investments Inc. Announces July 2026 Distributions](https://financialpost.com/globe-newswire/purpose-investments-inc-announces-july-2026-distributions) (Published: 2026-07-20)
+- [Purpose Investments Inc. Announces July 2026 Distributions](https://www.globenewswire.com/news-release/2026/07/20/3330155/0/en/Purpose-Investments-Inc-Announces-July-2026-Distributions.html) (Published: 2026-07-20)
+- [Bank of America doubles down on Microsoft stock ahead of earnings](https://biztoc.com/x/828ea2b6e33a3b0d) (Published: 2026-07-20)
 - [How to Pick the Perfect GIGABYTE Gaming Monitor](https://www.cnet.com/paid-content/how-to-pick-the-perfect-gigabyte-gaming-monitor/) (Published: 2026-07-20)
-- [Nvidia Turns to a Japanese Giant to Solve the Power Botteneck. What That Means for NVDA Stock](https://biztoc.com/x/9fc3a93bacf33968) (Published: 2026-07-20)
-- [3 Reasons I’m Buying Amazon Over and Over Until Late 2026](https://biztoc.com/x/d97b5a4528f84d7d) (Published: 2026-07-20)
-- [Jensen Huang's staggering $4 trillion bet shifts Nvidia](https://biztoc.com/x/7e04035508462384) (Published: 2026-07-20)
-- [Google is working on a new AI chip designed to make Gemini more efficient | TechCrunch](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/) (Published: 2026-07-20)
-- [Nvidia Might Not Have Existed If Not For This $5 Million Investment From Sega](https://www.bgr.com/2216198/nvidia-5-million-investment-sega/) (Published: 2026-07-20)
-- [US Stocks Rebound From Selloff as Nvidia, Other Chipmakers Rise - Bloomberg.com](https://slashdot.org/firehose.pl?op=view&amp;id=184530530) (Published: 2026-07-20)
-- [clawmetry 0.12.563](https://pypi.org/project/clawmetry/0.12.563/) (Published: 2026-07-20)
-- [AMC Entertainment Surges Almost 27%](https://www.newser.com/story/393173/amc-entertainment-surges-almost-27.html) (Published: 2026-07-20)
-- [Jensen Huang's staggering $4 trillion bet shifts Nvidia](https://www.thestreet.com/investing/nvidia-huang-4-trillion-data-center-forecast) (Published: 2026-07-20)
