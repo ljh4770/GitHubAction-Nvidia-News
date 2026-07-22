@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-22 21:52:49**_
+_Last updated: **2026-07-22 22:42:27**_
 
+- [Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems](https://blogs.nvidia.com/blog/wistron-manufacturing-texas/) (Published: 2026-07-21)
+- [Asian Stocks Set for Gains as Chipmakers Rebound: Markets Wrap](https://financialpost.com/pmn/business-pmn/asian-stocks-set-for-gains-as-chipmakers-rebound-markets-wrap) (Published: 2026-07-21)
+- [I tested the System76 Thelio Mira: it's the custom Linux desktop of my dreams](https://www.zdnet.com/article/system76-thelio-mira-custom-linux-desktop-review/) (Published: 2026-07-21)
+- [Supermicro stock jumps on gross margin raise amid record $60 billion backlog](https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html) (Published: 2026-07-21)
+- [Leaving Apple, Intel, and Nvidia in the dust? Huawei could join Samsung as the only tech firms producing its own CPUs, SSDs, and DRAM](https://www.techradar.com/pro/leaving-apple-intel-and-nvidia-in-the-dust-huawei-could-join-samsung-as-the-only-tech-firms-producing-its-own-cpus-ssds-and-dram) (Published: 2026-07-21)
+- [Trump’s China Threats Don’t Match His China Policy](http://foreignpolicy.com/2026/07/21/china-trump-election-interference-2020-republicans/) (Published: 2026-07-21)
+- [Homatics Box R 4K Plus TV Box AndroidTV 14 Amlogic S905X4 Kodi / Plex Client US$138.75 (~A$198.19) @ AliExpress](https://www.ozbargain.com.au/node/968650) (Published: 2026-07-21)
+- [Nvidia Just Plowed Nearly $4 Billion Into a Company That's Reshaping the Cloud Industry, Increasing Its Stake by 18-Fold. Investors Should Be Paying Attention](https://biztoc.com/x/3f14ab7d799e147a) (Published: 2026-07-21)
+- [Nvidia CEO doubles down on SF arts with blockbuster $75 million donation to Vanderbilt](https://biztoc.com/x/8c5e81147d6c9b7a) (Published: 2026-07-21)
 - [Nvidia's deepfake detector reaches up to 94% accuracy](https://www.notebookcheck.net/Nvidia-s-deepfake-detector-reaches-up-to-94-accuracy.1348022.0.html) (Published: 2026-07-21)
-- [AMD capitalizes on AI momentum with systems strategy for open-source and hybrid technologies](https://siliconangle.com/2026/07/21/server-processor-amd-ai-momentum-amdadvancingai/) (Published: 2026-07-21)
-- [Daily Digest: Nvidia CEO donates $75M to Vanderbilt's S.F. campus, Anthropic's $1.5 billion copyright settlement approved](https://biztoc.com/x/822711c4f6adb48e) (Published: 2026-07-21)
-- [Car ends up on top of patrol vehicle after police chase](https://www.bleepingcomputer.com/forums/t/817419/car-ends-up-on-top-of-patrol-vehicle-after-police-chase/) (Published: 2026-07-21)
-- [US Treasury Chief Threatens Sanctions on Chinese AI Labs Over ‘IP Theft’ Concerns](https://gizmodo.com/us-treasury-chief-threatens-sanctions-on-chinese-ai-labs-over-ip-theft-concerns-2000788553) (Published: 2026-07-21)
-- [US-China AI Showdown Now Scheduled For September As China’s Zhipu Starts Gunning For Full-Stack AI Infrastructure, Including ASICs And A 1GW Data Center](https://wccftech.com/us-china-ai-showdown-now-scheduled-for-september-as-chinas-zhipu-starts-gunning-for-full-stack-ai-infrastructure-including-asics-and-a-1gw-data-center/) (Published: 2026-07-21)
-- [I use two apps to run local AI, and each one does something better](https://www.xda-developers.com/two-apps-to-run-local-ai-where-each-one-does-something-better/) (Published: 2026-07-21)
-- [Energy IPOs Are Booming Thanks to AI’s Insatiable Thirst for Power](https://oilprice.com/Energy/Energy-General/Energy-IPOs-Are-Booming-Thanks-to-AIs-Insatiable-Thirst-for-Power.html) (Published: 2026-07-21)
-- [Oklo, X-Energy Join Trump Effort to Speed New Nuclear Reactors for AI](https://financialpost.com/pmn/business-pmn/oklo-x-energy-join-trump-effort-to-speed-new-nuclear-reactors-for-ai) (Published: 2026-07-21)
-- [5 Semiconductor Stocks To Buy And 1 To Ignore](https://www.forbes.com/sites/investor-hub/article/semiconductor-stocks-to-buy-and-ignore/) (Published: 2026-07-21)
