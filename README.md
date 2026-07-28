@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-28 06:44:34**_
+_Last updated: **2026-07-28 09:27:38**_
 
-- [South Korea's KOSPI Rallies Again as Nvidia's Multibillion-Dollar Deals Lift Samsung, SK Hynix This Week](https://www.ibtimes.com.au/south-korea-stock-market-ai-chip-boom-1872983) (Published: 2026-07-27)
-- [TensorWave targets focused AI cloud strategy to deliver better customer experience](https://siliconangle.com/2026/07/27/ai-cloud-strategy-amdadvancingai/) (Published: 2026-07-27)
-- [Explained: Why CXMT’s blockbuster IPO is a milestone for China’s semiconductor ambitions](https://www.thehindubusinessline.com/markets/stock-markets/explained-why-cxmts-blockbuster-ipo-is-a-milestone-for-chinas-semiconductor-ambitions/article71271630.ece) (Published: 2026-07-27)
-- [Nvidia's Vera CPU targets go beyond Intel and AMD](https://www.digitimes.com/news/a20260727PD218/nvidia-cpu-intel-amd-xeon.html) (Published: 2026-07-27)
-- [Nvidia Takes Unusual Role in Huge Ohio AI Project](https://www.newser.com/story/393531/nvidia-takes-unusual-role-in-huge-ohio-ai-project.html) (Published: 2026-07-27)
-- [Big Techâs $1.65 Trillion in Off-Balance-Sheet AI Debt: A Closer Look at the Hidden Leverage](https://www.naturalnews.com/2026-07-27-big-tech-off-balance-sheet-ai-debt.html) (Published: 2026-07-27)
-- [Chinese AI startup Moonshot dispute puts US-China AI cooperation at risk](https://www.digitimes.com/news/a20260724VL221.html) (Published: 2026-07-27)
-- [ckg-nvidia-nemoclaw 0.6.1](https://pypi.org/project/ckg-nvidia-nemoclaw/0.6.1/) (Published: 2026-07-27)
-- [Nvidia In Talks With OpenAI to Guarantee $250 Billion Financing For Data Center](https://slashdot.org/submission/17349318/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center) (Published: 2026-07-27)
+- [Marvel Tokon: Fighting Souls open beta beaten and bashed by PC performance issues, Arc System Works "apologise for the impact this has had on your experience"](https://www.rockpapershotgun.com/marvel-tokon-fighting-souls-open-beta-beaten-and-bashed-by-pc-performance-issues-arc-system-works-apologise-for-the-impact-this-has-had-on-your-experience) (Published: 2026-07-27)
+- [Nvidia launches new security initiative for open-source AI](https://biztoc.com/x/77fb3a5b66682fec) (Published: 2026-07-27)
+- [LG receives Nvidia certification for cooling unit](https://biztoc.com/x/de1d65f8a5affcc0) (Published: 2026-07-27)
+- [Sam Altman says one of his biggest fears is that a small number of companies will control AI: 'That'd be very, very bad'](https://www.businessinsider.com/openai-sam-altman-ai-authoritarianism-open-source-export-controls-anthropic-2026-7) (Published: 2026-07-27)
+- [Sam Altman says one of his biggest fears is that a small number of companies will control AI: 'That'd be very, very bad'](https://www.businessinsider.com/openai-sam-altman-ai-authoritarianism-open-source-export-controls-anthropic-2026-7#article) (Published: 2026-07-27)
+- [Trump administration launches global partnership for 6G development, aiming to counter China’s telecom influence](https://cryptobriefing.com/trump-6g-global-partnership-china/) (Published: 2026-07-27)
+- [Open Secure AI Alliance launches to defend open-source software from AI-accelerated attacks](https://cryptobriefing.com/open-secure-ai-alliance-akrites-linux-foundation-launch/) (Published: 2026-07-27)
+- [SK Group, Nvidia sign $500bn deal for AI infrastructure](https://biztoc.com/x/25687af9fff177db) (Published: 2026-07-27)
+- [Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security](https://blogs.nvidia.com/blog/open-secure-ai-alliance/) (Published: 2026-07-27)
+- [Six Agent Harness Capabilities for Higher Model Performance](https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance/) (Published: 2026-07-27)
