@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-29 20:53:55**_
+_Last updated: **2026-07-29 21:56:17**_
 
-- [Dario Amodei Says He’s Not Against Open Models, He’s Against Selling Chips to China](https://gizmodo.com/dario-amodei-says-hes-not-against-open-models-hes-against-selling-chips-to-china-2000791895) (Published: 2026-07-28)
-- [genblaze-nvidia 0.3.3](https://pypi.org/project/genblaze-nvidia/0.3.3/) (Published: 2026-07-28)
-- [Developing Healthcare Robotics with GPU-Native Medical Physics Simulation](https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation/) (Published: 2026-07-28)
-- [Apple shares hit new all-time closing and intraday highs](https://macdailynews.com/2026/07/28/apple-shares-hit-new-all-time-closing-and-intraday-highs-260728/) (Published: 2026-07-28)
-- [Samsung S95H 4K OLED (HDR) UHD Smart TVs: Up to $200 off + free Philips Hue Starter Kit + free shipping](https://www.dealnews.com/Samsung-S95-H-4-K-OLED-HDR-UHD-Smart-TVs-Up-to-200-off-free-Philips-Hue-Starter-Kit-free-shipping/21938669.html) (Published: 2026-07-28)
-- [skillfrisk added to PyPI](https://pypi.org/project/skillfrisk/) (Published: 2026-07-28)
-- [Paramount Merger Gets Further Delayed, And Things Could Get Expensive](http://www.techdirt.com/2026/07/28/paramount-merger-gets-further-delayed-and-things-could-get-expensive/) (Published: 2026-07-28)
-- [Daily Digest: Layoffs roll through Uber and Intel, Nvidia bets on OpenAI co-founder's new startup](https://biztoc.com/x/cf1c5720fe2c1d4c) (Published: 2026-07-28)
-- [Nvidia’s Jensen Huang says AI is killing tasks, not jobs—and the white-collar bloodbath narrative gets the future of work ‘exactly backwards’](https://fortune.com/2026/07/28/nvidia-jensen-huang-ai-killing-tasks-not-jobs/) (Published: 2026-07-28)
+- [Apple hits $5T market value for first time](https://www.anews.com.tr/business/2026/07/28/apple-hits-5t-market-value-for-first-time) (Published: 2026-07-28)
+- [Apple surpasses Nvidia as world’s most valuable company](https://cryptobriefing.com/apple-surpasses-nvidia-as-worlds-most-valuable-company/) (Published: 2026-07-28)
+- [I undervolt every graphics card I own, and I genuinely can't understand why more people don't](https://www.xda-developers.com/i-undervolt-every-gpu-but-more-people-dont/) (Published: 2026-07-28)
+- [Rescued by the AI Boom, Japan’s Kioxia Faces a Capex Race](https://financialpost.com/pmn/business-pmn/rescued-by-the-ai-boom-japans-kioxia-faces-a-capex-race) (Published: 2026-07-28)
+- [Anthropic’s Amodei defends open-weight stance following critique from Palantir’s Karp](https://biztoc.com/x/ea32289608cd85ad) (Published: 2026-07-28)
+- [Apple is the most valuable company in the world, again](https://www.techspot.com/news/113270-apple-most-valuable-company-world-again.html) (Published: 2026-07-28)
+- [Did This Guy Find a Surface Laptop Ultra Prototype on the Side of the Road? Maybe. Here Are Some Benchmarks](https://uk.pcmag.com/laptops/166427/did-this-guy-find-a-surface-laptop-ultra-prototype-on-the-side-of-the-road-maybe-here-are-some-bench) (Published: 2026-07-28)
+- [clawmetry 0.12.581](https://pypi.org/project/clawmetry/0.12.581/) (Published: 2026-07-28)
+- [The Middle Market CFO’s Guide to Big Tech’s Open-Weight AI Debate](https://www.pymnts.com/news/artificial-intelligence/2026/the-middle-market-cfos-guide-to-big-techs-open-weight-ai-debate/) (Published: 2026-07-28)
+- [TSMC and Tencent break into the top 100 of the Fortune Global 500 list, as Asia rides the AI boom](https://fortune.com/2026/07/28/asia-global-500-tsmc-tencent-wistron-sk-hynix-chery-daikin-coupang/) (Published: 2026-07-28)
