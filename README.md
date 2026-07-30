@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-30 03:22:05**_
+_Last updated: **2026-07-30 06:03:33**_
 
-- [ASX 200 Surges to Five-Month High as Rio Tinto Earnings and Wall Street Defensive Rotation Fuel Rally](https://www.ibtimes.com.au/australian-stock-market-five-month-high-defensive-stocks-1873167) (Published: 2026-07-29)
-- [SK Hynix's record profit misses forecasts; shares slump 10% despite robust AI chip demand](https://economictimes.indiatimes.com/tech/technology/sk-hynixs-record-profit-misses-forecasts-shares-slump-10-despite-robust-ai-chip-demand/articleshow/132698456.cms) (Published: 2026-07-29)
-- [Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit](https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html) (Published: 2026-07-29)
-- [Nvidia And OpenAI Discussing $500 Billion Data Center—Here’s What We Know](https://biztoc.com/x/f5cb79ec10d07362) (Published: 2026-07-29)
-- [Tech employees call for US-backed global effort to manage risks of advanced AI](https://economictimes.indiatimes.com/tech/artificial-intelligence/tech-employees-call-for-us-backed-global-effort-to-manage-risks-of-advanced-ai/articleshow/132697696.cms) (Published: 2026-07-29)
-- [Scoop: Nvidia's Jensen Huang meets Lutnick amid China scrutiny](https://biztoc.com/x/34fabf1b8340c453) (Published: 2026-07-29)
-- [Massive Data Center Project Could Cost $500B](https://biztoc.com/x/30ec08a7bc866cc0) (Published: 2026-07-29)
-- [Global Mofy Reports 49.4% YoY Revenue Increase for the Six Months Ended March 31, 2026, Driven by Virtual Tech Growth and New AI Digital Asset Business](https://www.globenewswire.com/news-release/2026/07/29/3334926/0/en/Global-Mofy-Reports-49-4-YoY-Revenue-Increase-for-the-Six-Months-Ended-March-31-2026-Driven-by-Virtual-Tech-Growth-and-New-AI-Digital-Asset-Business.html) (Published: 2026-07-29)
-- [Atomberg’s fundraise plans; Neocloud firms eye India capacity](https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/atombergs-fundraise-plans-neocloud-firms-eye-india-capacity/articleshow/132697214.cms) (Published: 2026-07-29)
-- [NVIDIA CEO to meet with Sen. Cruz on AI](https://www.nextgov.com/artificial-intelligence/2026/07/nvidia-ceo-meet-sen-cruz-ai/415074/) (Published: 2026-07-29)
+- [Silicon Valley Startups Urge Trump to Avoid Ban on Chinese AI Models](https://www.naturalnews.com/2026-07-29-silicon-valley-startups-trump-avoid-chinese-ai-ban.html) (Published: 2026-07-29)
+- [Chinese Memory Chip Maker CXMT Delivers Blockbuster IPO](https://www.naturalnews.com/2026-07-29-chinese-chip-maker-cxmt-delivers-blockbuster-ipo.html) (Published: 2026-07-29)
+- [Why the Korean Stock Market Crash Is a Warning We Should All Heed](https://www.naturalnews.com/2026-07-29-korean-stock-market-crash-is-a-warning.html) (Published: 2026-07-29)
+- [US bans foreign-made humanoid robots, targeting China](https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366) (Published: 2026-07-29)
+- [Scale and onshoring shielded us from geopolitical shocks: Birla](https://timesofindia.indiatimes.com/city/chennai/scale-and-onshoring-shielded-us-from-geopolitical-shocks-birla/articleshow/132701710.cms) (Published: 2026-07-29)
+- [Apple crosses $5 trillion market cap on Tuesday trading, becomes second company to achieve milestone](https://economictimes.indiatimes.com/tech/technology/apple-crosses-usd-5-trillion-market-cap-on-tuesday-trading-becomes-second-company-to-achieve-milestone/articleshow/132701734.cms) (Published: 2026-07-29)
+- [US FCC Blacklists Foreign Robots on Huawei List as Surveillance Fears Grow – Striking NVIDIA Partner Unitree As Well](https://wccftech.com/fcc-blacklists-foreign-robots-on-huawei-list-as-surveillance-fears-grow-striking-nvidia-partner-unitree-as-well/) (Published: 2026-07-29)
+- [clawmetry 0.12.585](https://pypi.org/project/clawmetry/0.12.585/) (Published: 2026-07-29)
+- [India's MSMEs make steady digital gains, finds Vi Business MSME Growth Insights Study, 2026](https://timesofindia.indiatimes.com/business/indias-msmes-make-steady-digital-gains-finds-vi-business-msme-growth-insights-study-2026/articleshow/132683028.cms) (Published: 2026-07-29)
