@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-07-31 10:15:21**_
+_Last updated: **2026-07-31 12:20:24**_
 
-- [The Asus ROG NUC is a Steam Machine for the big kids, with their big wallets](https://www.gamesradar.com/hardware/desktop-pc/asus-rog-nuc-review/) (Published: 2026-07-30)
-- [Shadow AI Doubles to 43% of Breaches as AI-Driven Attacks Add $1 Million Per Incident](https://forkast.news/shadow-ai-doubles-to-43-of-breaches-as-ai-driven-attacks-add-1-million-per-incident/) (Published: 2026-07-30)
-- [China’s Coal Prices Surge as Scorching Heat Drives Power Demand](https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Prices-Surge-as-Scorching-Heat-Drives-Power-Demand.html) (Published: 2026-07-30)
-- [Fusion energy firm raises $1 billion](https://www.straitstimes.com/business/temasek-backed-fusion-energy-firm-raises-a-further-1-3-billion) (Published: 2026-07-30)
-- [Asus releases 16-inch gaming laptop with 165 Hz OLED display and RTX 5070](https://www.notebookcheck.net/Asus-releases-16-inch-gaming-laptop-with-165-Hz-OLED-display-and-RTX-5070.1354373.0.html) (Published: 2026-07-30)
-- [Tech enthusiast finds RTX Spark-powered Microsoft Surface Laptop Ultra, delivers first 'review'](https://www.tweaktown.com/news/112921/tech-enthusiast-finds-rtx-spark-powered-microsoft-surface-laptop-ultra-delivers-first-review/index.html) (Published: 2026-07-30)
-- [Samsung sees chip shortage extending to 2028, touts long-term supply deals](https://economictimes.indiatimes.com/tech/artificial-intelligence/samsung-sees-chip-shortage-extending-to-2028-touts-long-term-supply-deals/articleshow/132733605.cms) (Published: 2026-07-30)
-- [Korea's 18.4GW Alliance Wants to Sell Intelligence… | AI in Asia](https://aiinasia.com/business/korea-aidc-alliance-18gw-intelligence-exports-business-deep-dive-2026-07-30) (Published: 2026-07-30)
-- [Silent Hill: Townfall PC Requirements Land Two Months Out, Targeting RTX 3080 for 4K but Only at 30 FPS](https://wccftech.com/silent-hill-townfall-pc-requirements-rtx-3080-4k-30fps/) (Published: 2026-07-30)
+- [BNB Chain hits all-time high for tokenized stocks with $15B in cumulative trading volume](https://cryptobriefing.com/bnb-chain-tokenized-stocks-15b-volume-ath/) (Published: 2026-07-30)
+- [Here Are Wednesday’s Top Wall Street Analyst Research Calls: Bloom Energy, Dave, Fiverr, Humana, Las Vegas Sands, Lemonade, Procter & Gamble, SK hynix, Wix.com, and More](https://247wallst.com/investing/2026/07/30/here-are-wednesdays-top-wall-street-analyst-research-calls-bloom-energy-dave-fiverr-humana-las-vegas-sands-lemonade-procter-gamble-sk-hynix-wix-com-and-more/) (Published: 2026-07-30)
+- [Hyundai Motor Group Appoints Junghyun Kwon as Head of Autonomous Driving Development Center](https://cleantechnica.com/2026/07/30/hyundai-motor-group-appoints-junghyun-kwon-as-head-of-autonomous-driving-development-center/) (Published: 2026-07-30)
+- [Meta Is Spending Whatever It Takes to Win AI — And That’s What Worries Investors](https://247wallst.com/investing/2026/07/30/meta-is-spending-whatever-it-takes-to-win-ai-and-thats-what-worries-investors/) (Published: 2026-07-30)
+- [Save $651 on HP’s RTX 5070Ti OMEN gaming desktop with 32GB RAM while it’s down to its lowest price at Walmart](http://9to5toys.com/2026/07/30/hp-rtx-5070ti-omen-gaming-desktop-with-32gb-ram-lowest-price/) (Published: 2026-07-30)
+- [Nvidia GPUs see yet another price hike of up to 30 percent, as the generative AI hardware crisis worsens](https://www.eurogamer.net/nvidia-gpu-price-rise-30-percent) (Published: 2026-07-30)
+- [European Union aims for seven AI gigafactories with €10 billion plan in race with US, China](https://economictimes.indiatimes.com/tech/artificial-intelligence/european-union-aims-for-seven-ai-gigafactories-with-10-billion-plan-in-race-with-us-china/articleshow/132738473.cms) (Published: 2026-07-30)
+- [Gigabyte Aero X16 Ryzen AI 7 350 16" Laptop PC w/ RTX 5060 & 32GB RAM for $1,200 + free shipping](https://www.dealnews.com/products/Gigabyte/Gigabyte-Aero-X16-Ryzen-AI-7-350-16-Laptop-PC-w-RTX-5060-32-GB-RAM/512835.html) (Published: 2026-07-30)
+- [AI Big Short? Why rising credit default swaps are spooking investors and how is it similar to 2008 housing crisis](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-big-short-why-rising-credit-default-swaps-are-spooking-investors-and-how-is-it-similar-to-2008-housing-crisis/articleshow/132738317.cms) (Published: 2026-07-30)
+- [EU aims for seven AI gigafactories with €10 billion plan in race with US, China](https://finance.yahoo.com/technology/ai/articles/eu-aims-seven-ai-gigafactories-112825098.html) (Published: 2026-07-30)
