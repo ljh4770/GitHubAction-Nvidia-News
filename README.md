@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-01 14:49:09**_
+_Last updated: **2026-08-01 15:46:38**_
 
-- [The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments](https://247wallst.com/investing/2026/07/31/the-2-3-trillion-reason-amazon-alphabet-and-microsoft-may-still-be-the-smartest-ai-investments/) (Published: 2026-07-31)
-- [nimcode 0.5.3](https://pypi.org/project/nimcode/0.5.3/) (Published: 2026-07-31)
-- [Intel seizes opportunity as TSMC faces AI chip packaging constraints](https://cryptobriefing.com/intel-emib-tsmc-packaging-constraints/) (Published: 2026-07-31)
-- [The chips that wire GPUs together are the new prize. Xsight raised $300m to sell an open one.](https://thenextweb.com/news/xsight-labs-300-million-2-8-billion-open-networking-chips-nvidia/) (Published: 2026-07-31)
-- [AMD Stock Is Up Big, and Wall Street Is Underestimating It](https://247wallst.com/investing/2026/07/31/amd-stock-is-up-big-and-wall-street-is-underestimating-it/) (Published: 2026-07-31)
-- [Nvidia regains title of largest company in the world](https://cryptobriefing.com/nvidia-regains-largest-company-title/) (Published: 2026-07-31)
-- [Nvidia’s AMD Paradox is Exactly Why I Keep Buying](https://biztoc.com/x/ac46583bf2f6969d) (Published: 2026-07-31)
-- [Study Finds That A $1.2 Million Retirement and a $4 Million Retirement Look Almost Identical In Terms Of Spending](https://247wallst.com/investing/2026/07/31/study-finds-that-a-1-2-million-retirement-and-a-4-million-retirement-look-almost-identical-in-terms-of-spending/) (Published: 2026-07-31)
-- [Apple faces $460B market-cap decline amid broader market pressure](https://cryptobriefing.com/apple-market-cap-decline-crypto-impact/) (Published: 2026-07-31)
-- [What Meta Now Has to Prove Following Its Earnings Release](https://247wallst.com/investing/2026/07/31/what-meta-now-has-to-prove-following-its-earnings-release/) (Published: 2026-07-31)
+- [Microsoft is Still Down 7% This Year: It Could Soar 93% From Today](https://247wallst.com/investing/2026/07/31/microsoft-is-still-down-7-this-year-it-could-soar-93-from-today/) (Published: 2026-07-31)
+- [Moonshot partners with Alibaba to access 20,000 Nvidia chips as AI arms race heats up](https://cryptobriefing.com/moonshot-alibaba-nvidia-chips-deal/) (Published: 2026-07-31)
+- [Samsung expects memory shortage to worsen through 2027 and last until 2028 | TechCrunch](https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/) (Published: 2026-07-31)
+- [A Turnaround Is Brewing At Starbucks. Here’s Where It’ll End The Year](https://247wallst.com/investing/2026/07/31/a-turnaround-is-brewing-at-starbucks-heres-where-itll-end-the-year/) (Published: 2026-07-31)
+- [Jensen Huang says this is the greatest time in history to start a business—and his advice is to stop overthinking it: ‘How hard can it be?’](https://fortune.com/2026/07/31/nvidia-ceo-jensen-huang-greatest-time-to-start-business-advice-for-aspiring-gen-z-entrepreneurs/) (Published: 2026-07-31)
+- [Rivian Sinks 8% Despite Q2 Beat and Raised Guidance; Lucid Falls 6%](https://247wallst.com/investing/2026/07/31/rivian-sinks-8-despite-q2-beat-and-raised-guidance-lucid-falls-6/) (Published: 2026-07-31)
+- [NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek](https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/) (Published: 2026-07-31)
+- [Moonshot has Nvidia chip cluster from Alibaba computing deal, Bloomberg News reports](https://www.channelnewsasia.com/business/moonshot-has-nvidia-chip-cluster-alibaba-computing-deal-bloomberg-news-reports-6291621) (Published: 2026-07-31)
+- [Tom’s Hardware’s 30th Anniversary — From DIP switches and Intel feuds to 30 years of unbiased testing](https://www.tomshardware.com/pc-components/toms-hardwares-30th-anniversary-from-dip-switches-and-intel-feuds-to-30-years-of-unbiased-testing) (Published: 2026-07-31)
