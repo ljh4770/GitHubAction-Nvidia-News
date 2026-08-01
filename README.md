@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-01 15:46:38**_
+_Last updated: **2026-08-01 16:41:08**_
 
-- [Microsoft is Still Down 7% This Year: It Could Soar 93% From Today](https://247wallst.com/investing/2026/07/31/microsoft-is-still-down-7-this-year-it-could-soar-93-from-today/) (Published: 2026-07-31)
-- [Moonshot partners with Alibaba to access 20,000 Nvidia chips as AI arms race heats up](https://cryptobriefing.com/moonshot-alibaba-nvidia-chips-deal/) (Published: 2026-07-31)
-- [Samsung expects memory shortage to worsen through 2027 and last until 2028 | TechCrunch](https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/) (Published: 2026-07-31)
-- [A Turnaround Is Brewing At Starbucks. Here’s Where It’ll End The Year](https://247wallst.com/investing/2026/07/31/a-turnaround-is-brewing-at-starbucks-heres-where-itll-end-the-year/) (Published: 2026-07-31)
-- [Jensen Huang says this is the greatest time in history to start a business—and his advice is to stop overthinking it: ‘How hard can it be?’](https://fortune.com/2026/07/31/nvidia-ceo-jensen-huang-greatest-time-to-start-business-advice-for-aspiring-gen-z-entrepreneurs/) (Published: 2026-07-31)
-- [Rivian Sinks 8% Despite Q2 Beat and Raised Guidance; Lucid Falls 6%](https://247wallst.com/investing/2026/07/31/rivian-sinks-8-despite-q2-beat-and-raised-guidance-lucid-falls-6/) (Published: 2026-07-31)
-- [NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek](https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek/) (Published: 2026-07-31)
-- [Moonshot has Nvidia chip cluster from Alibaba computing deal, Bloomberg News reports](https://www.channelnewsasia.com/business/moonshot-has-nvidia-chip-cluster-alibaba-computing-deal-bloomberg-news-reports-6291621) (Published: 2026-07-31)
-- [Tom’s Hardware’s 30th Anniversary — From DIP switches and Intel feuds to 30 years of unbiased testing](https://www.tomshardware.com/pc-components/toms-hardwares-30th-anniversary-from-dip-switches-and-intel-feuds-to-30-years-of-unbiased-testing) (Published: 2026-07-31)
+- [Michael Burry Sends Fresh Warning on Nvidia and Micron Stocks](https://biztoc.com/x/a5e028e39f20db94) (Published: 2026-07-31)
+- [AMD CEO doubles down on AI and the stock market](https://biztoc.com/x/480585fc72104e6e) (Published: 2026-07-31)
+- [3 big market moves sparked by Citadel’s deal with Situational Awareness](https://www.businessinsider.com/leopold-aschenbrenner-hedge-fund-portfolio-tech-stocks-up-nvda-amd-2026-7#article) (Published: 2026-07-31)
+- [Stadia was some of the most fun I’ve had gaming, but it was right to disappear](http://9to5google.com/2026/07/31/stadia/) (Published: 2026-07-31)
+- [Meta vs. Microsoft: Two AI Spenders, Two Very Different Verdicts From Wall Street](https://247wallst.com/investing/2026/07/31/meta-vs-microsoft-two-ai-spenders-two-very-different-verdicts-from-wall-street/) (Published: 2026-07-31)
+- [flux-cli-ai added to PyPI](https://pypi.org/project/flux-cli-ai/) (Published: 2026-07-31)
+- [Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral](https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans) (Published: 2026-07-31)
+- [After a nearly 1,000% surge, the AI debt orgy can’t last forever, while hidden borrowing has exploded to $1.65 trillion](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/) (Published: 2026-07-31)
+- [First RX 9050 Tests Suggest It's Much Slower Than RTX 5050](https://uk.pcmag.com/graphics-cards/166487/first-rx-9050-tests-suggest-its-much-slower-than-rtx-5050) (Published: 2026-07-31)
+- [Jensen Huang says this is the greatest time in history to start a business—and his advice is to stop overthinking it: ‘How hard can it be?’](https://biztoc.com/x/48b0ee293d9f057d) (Published: 2026-07-31)
