@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-04 19:57:29**_
+_Last updated: **2026-08-04 21:17:25**_
 
+- [Samsung’s discounted smart monitor is $349.99, its lowest price yet](https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale) (Published: 2026-08-03)
+- [nvidia-tao-automl 7.1.0](https://pypi.org/project/nvidia-tao-automl/7.1.0/) (Published: 2026-08-03)
+- [Pulsing Neon shader by CHIDWI](https://assetstore.unity.com/packages/vfx/shaders/pulsing-neon-shader-386242) (Published: 2026-08-03)
+- [runtime-experiment-harness added to PyPI](https://pypi.org/project/runtime-experiment-harness/) (Published: 2026-08-03)
+- [Alibaba debuts Qwen3.8-Max model with 2.4T parameters](https://siliconangle.com/2026/08/03/alibaba-debuts-qwen3-8-max-model-2-4t-parameters/) (Published: 2026-08-03)
+- [onsemi Reports Second Quarter 2026 Results](https://www.globenewswire.com/news-release/2026/08/03/3337876/0/en/onsemi-Reports-Second-Quarter-2026-Results.html) (Published: 2026-08-03)
 - [(PR) Stormcraft PC Launches Valkyrie Series Gaming Desktops](https://www.techpowerup.com/351330/stormcraft-pc-launches-valkyrie-series-gaming-desktops) (Published: 2026-08-03)
 - [anwer added to PyPI](https://pypi.org/project/anwer/) (Published: 2026-08-03)
 - [Per-chip VRAM temperature monitoring arrives on AMD Navi GPUs with new HWiNFO64 pre-release version](https://www.tweaktown.com/news/112980/per-chip-vram-temperature-monitoring-arrives-on-amd-navi-gpus-with-new-hwinfo64-pre-release-version/index.html) (Published: 2026-08-03)
 - [Conflow Power Group Receives Frost & Sullivan's 2026 Global Company of the Year for Excellence in Smart Urban Infrastructure Leadership](https://www.prnewswire.com/news-releases/conflow-power-group-receives-frost--sullivans-2026-global-company-of-the-year-for-excellence-in-smart-urban-infrastructure-leadership-302841444.html) (Published: 2026-08-03)
-- [clawmetry 0.12.649](https://pypi.org/project/clawmetry/0.12.649/) (Published: 2026-08-03)
-- [Sequoia leads $1B funding round for Valar Atomics to scale nuclear reactor production](https://cryptobriefing.com/sequoia-valar-atomics-billion-funding-nuclear/) (Published: 2026-08-03)
-- [The Alienware RTX 5090 Gaming PC Drops to $4,780, Nearly the Same Price as Buying the GPU By Itself](https://www.ign.com/articles/dell-alienware-area-51-intel-edition-rtx-5090-gaming-pc-deal-july-2026) (Published: 2026-08-03)
-- [NVIDIA Stock Reverses Early Loss and Jumps 3.1%](https://biztoc.com/x/f2140000ecf8f5c9) (Published: 2026-08-03)
-- [NVIDIA GeForce RTX 50 Series Faces 30% Price Increase in South Korea](https://www.techpowerup.com/351329/nvidia-geforce-rtx-50-series-faces-30-price-increase-in-south-korea) (Published: 2026-08-03)
-- [You Hit Micron’s Bear Thesis Every Time ChatGPT Says ‘Start a New Chat.’ Burry’s MU Short Might Be Onto the Same Thing](https://biztoc.com/x/f9ecba52d2260917) (Published: 2026-08-03)
