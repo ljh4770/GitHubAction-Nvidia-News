@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-08 22:47:19**_
+_Last updated: **2026-08-08 23:12:12**_
 
 - [livekit-plugins-nvidia 1.6.9](https://pypi.org/project/livekit-plugins-nvidia/1.6.9/) (Published: 2026-08-07)
 - [SpaceX 10GW in 2027 – Why It’s Real, Will Drive $500B ARR for SpaceX, and Why Microsoft Will Be the Largest Offtaker - SemiAnalysis](https://slashdot.org/firehose.pl?op=view&amp;id=184894254) (Published: 2026-08-07)
