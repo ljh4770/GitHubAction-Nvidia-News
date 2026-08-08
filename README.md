@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-08 16:03:20**_
+_Last updated: **2026-08-08 16:47:54**_
 
+- [Acer Nitro 60 Gaming Desktop (Cert. Refurb): Ryzen 9 7900, RTX 5070 Ti, 32GB DDR5, 2TB SSD, 850W $1859.99](https://slickdeals.net/f/19854168-acer-nitro-60-gaming-desktop-cert-refurb-ryzen-9-7900-rtx-5070-ti-32gb-ddr5-2tb-ssd-850w-1859-99) (Published: 2026-08-07)
+- [Acer Predator Helios AI (Cert. Refurb): 16" QHD+ 240Hz OLED, Intel Ultra 9 275HX, RTX 5090, 32GB DDR5, 2TB SSD $2789.99](https://slickdeals.net/f/19854159-acer-predator-helios-ai-cert-refurb-16-qhd-240hz-oled-intel-ultra-9-275hx-rtx-5090-32gb-ddr5-2tb-ssd-2789-99) (Published: 2026-08-07)
+- [How does a digital assistant enhance city services? Follow Amarillo’s journey](https://biztoc.com/x/3e67ceed6b9b5cba) (Published: 2026-08-07)
+- [The Hugging Face hack is now a PR crisis that’s costing OpenAI millions](https://fortune.com/2026/08/07/the-hugging-face-hack-is-now-a-pr-crisis-thats-costing-openai-millions/) (Published: 2026-08-07)
+- [warpSPH 0.5.0](https://pypi.org/project/warpsph/0.5.0/) (Published: 2026-08-07)
+- [Nvidia considers reducing memory in next-gen Rubin Ultra GPU](https://cryptobriefing.com/nvidia-rubin-ultra-gpu-memory-reduction/) (Published: 2026-08-07)
+- [Bybit Dual Asset Integrates Four New xStocks, Expanding Use Cases for Tokenized Equities on Bybit](https://www.prnewswire.com/news-releases/bybit-dual-asset-integrates-four-new-xstocks-expanding-use-cases-for-tokenized-equities-on-bybit-302846199.html) (Published: 2026-08-07)
 - [What to Look for in a Laptop for Photography in 2026](https://fstoppers.com/education/what-look-laptop-photography-2026-903587) (Published: 2026-08-07)
 - [warpSPHPlotting added to PyPI](https://pypi.org/project/warpsphplotting/) (Published: 2026-08-07)
 - [warpSPHCore 0.5.0](https://pypi.org/project/warpsphcore/0.5.0/) (Published: 2026-08-07)
-- [warpSPHCore added to PyPI](https://pypi.org/project/warpsphcore/) (Published: 2026-08-07)
-- [Meet the Low-Cost Vanguard ETF That Just Gained 11% Over 4 Days, Thanks to a Combined 33% Weighting in Nvidia, Microsoft, Micron, and Broadcom. Here's Why It's Still a Top Buy Now](https://biztoc.com/x/425d9d9289f1f5f8) (Published: 2026-08-07)
-- [Redditor gets sick of waiting for Nvidia and makes a tool to protect RTX 5090 GPUs from melting their power cables](https://www.techradar.com/computing/gpu/redditor-gets-sick-of-waiting-for-nvidia-and-makes-a-tool-to-protect-rtx-5090-gpus-from-melting-their-power-cables) (Published: 2026-08-07)
-- [Microsoft’s AI chips drive 40% efficiency gains, says Nadella](https://cryptobriefing.com/microsoft-ai-chips-efficiency-gains-nadella/) (Published: 2026-08-07)
-- [Moonshot’s AI model escapes testing environment, researchers say](https://cryptobriefing.com/moonshot-ai-model-escapes-testing-environment/) (Published: 2026-08-07)
-- [CoreWeave Locks In Solidigm SSD Supply as Flash Allocation Becomes an AI Cloud Problem](https://www.storagereview.com/news/coreweave-locks-in-solidigm-ssd-supply-as-flash-allocation-becomes-an-ai-cloud-problem) (Published: 2026-08-07)
-- [Amazon cracks down on 'CPU waste' among engineers as agentic AI crunch intensifies — CPU demand makes low-utilization EC2 instances a hot commodity](https://www.tomshardware.com/pc-components/cpus/amazon-cracks-down-on-cpu-waste-among-engineers-as-agentic-ai-crunch-intensifies-cpu-demand-makes-low-utilization-ec2-instances-a-hot-commodity) (Published: 2026-08-07)
