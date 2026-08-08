@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-08 19:03:20**_
+_Last updated: **2026-08-08 19:38:46**_
 
+- [Certified Refurb: Acer Nitro 60 PC: Ryzen 9 7900, RTX 5070 Ti, 32GB RAM, 2TB SSD $1860 + Free S&H](https://slickdeals.net/f/19854168-certified-refurb-acer-nitro-60-pc-ryzen-9-7900-rtx-5070-ti-32gb-ram-2tb-ssd-1860-free-s-h) (Published: 2026-08-07)
 - [Samsung continues to lead the global DRAM market in Q2 2026](https://www.gsmarena.com/samsung_continues_to_lead_the_global_dram_market_in_q2_2026-news-74058.php) (Published: 2026-08-07)
 - [Cory Doctorow thinks Australia should be worried about digital sovereignty](https://www.abc.net.au/news/2026-08-08/cory-doctorow-on-the-ai-bubble-and-inevitability/106982988) (Published: 2026-08-07)
 - [ASUS Launches $3,117 ROG NUC 16 With RTX 5070 Ti And 32GB RAM](https://hothardware.com/news/asus-rog-nuc-16-rtx-5070-ti-32gb-ram) (Published: 2026-08-07)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-08 19:03:20**_
 - [Nvidia RTX Spark's 18-core config surfaces on Geekbench](https://www.notebookcheck.net/Nvidia-RTX-Spark-s-18-core-config-surfaces-on-Geekbench.1362992.0.html) (Published: 2026-08-07)
 - [SK Hynix considers options for Chongqing facility, seeks investor for $3B China operation](https://cryptobriefing.com/sk-hynix-chongqing-facility-investor/) (Published: 2026-08-07)
 - [Spotify and Pinterest Delivered the Growth. Investors Wanted More](https://247wallst.com/investing/2026/08/07/spotify-and-pinterest-delivered-the-growth-investors-wanted-more/) (Published: 2026-08-07)
-- [AdvanSix Inc. Q2 2026 Earnings Call Summary](https://biztoc.com/x/97529f2acc699966) (Published: 2026-08-07)
