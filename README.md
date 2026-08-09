@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-09 14:18:05**_
+_Last updated: **2026-08-09 14:56:10**_
 
+- [xerv-crayon 5.7.1](https://pypi.org/project/xerv-crayon/5.7.1/) (Published: 2026-08-08)
+- [Firebird opens region’s largest AI Factory in Armenia, backed by Nvidia chipsets](https://biztoc.com/x/6c1ba64951d1e8fa) (Published: 2026-08-08)
+- [The Architecture of Failure: Why DEF CON 34 Shattered the AI Agent Security Narrative](https://forkast.news/the-architecture-of-failure-why-def-con-34-shattered-the-ai-agent-security-narrative/) (Published: 2026-08-08)
+- [SK Hynix is spending $38 billion to build two new chip fabs](https://www.techspot.com/news/113403-sk-hynix-spending-38-billion-build-two-new.html) (Published: 2026-08-08)
+- [AI’s Biggest Opportunity by 2027: NVIDIA vs. Micron](https://biztoc.com/x/50ec8d9a5030c11a) (Published: 2026-08-08)
+- [eBay Slid This Past Month: Why a Leading Analyst Expects 32% Growth Ahead Anyway](https://247wallst.com/investing/2026/08/08/ebay-slid-this-past-month-why-a-leading-analyst-expects-32-growth-ahead-anyway/) (Published: 2026-08-08)
+- [clawmetry 0.12.665](https://pypi.org/project/clawmetry/0.12.665/) (Published: 2026-08-08)
+- [Here’s why Apple is skipping its M6 Pro and M6 Max chips to accelerate M7 launch](https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/) (Published: 2026-08-08)
 - [California may win chip race while losing productivity one - Asia Times](https://asiatimes.com/2026/08/california-may-win-chip-race-while-losing-productivity-one/) (Published: 2026-08-08)
 - [Broadcom Vs. Nvidia: The Real Challenger and Champion Story in Chips](https://biztoc.com/x/14d8819f7bc29bb4) (Published: 2026-08-08)
-- [verdikt-eval added to PyPI](https://pypi.org/project/verdikt-eval/) (Published: 2026-08-08)
-- [This ‘hidden’ career path is in dire need of more workers—and it can pay Gen Z over $300,000 with no degree required](https://fortune.com/article/hidden-career-path-aviation-maintenance-technicians-six-figure-salaries-gen-z-job-shortage-airport-airline-workers/) (Published: 2026-08-08)
-- [Broadcom Vs. Nvidia: The Real Challenger and Champion Story in Chips](https://247wallst.com/investing/2026/08/08/broadcom-vs-nvidia-the-real-challenger-and-champion-story-in-chips/) (Published: 2026-08-08)
-- [Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031](https://247wallst.com/investing/2026/08/08/advanced-micro-devices-amd-price-prediction-how-much-a-5000-investment-could-be-worth-by-2031/) (Published: 2026-08-08)
-- [Linux gaming's stuttering problem isn't Proton and a new kernel patch could reveal what it actually is](https://www.xda-developers.com/linux-gamings-frame-timing-problem-was-always-the-driver-not-proton-and-amd-just-proved-it/) (Published: 2026-08-08)
-- [The RAM crisis just hit a new low — here's my advice on what to do based on 30 years of writing about GPUs, memory and PC components](https://www.techradar.com/computing/memory/the-ram-crisis-just-hit-a-new-low-heres-my-advice-on-what-to-do-based-on-30-years-of-writing-about-gpus-memory-and-pc-components) (Published: 2026-08-08)
-- [ByteDance reportedly plans 10 trillion total-parameter model with 30,000 GPUs](https://cryptobriefing.com/bytedance-10-trillion-parameter-model/) (Published: 2026-08-08)
-- [Armenia just opened the region’s biggest AI factory. It exists because Washington signed a licence.](https://thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy) (Published: 2026-08-08)
