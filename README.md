@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-09 16:00:54**_
+_Last updated: **2026-08-09 16:47:38**_
 
+- [Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock](https://biztoc.com/x/1c860f960350e8b4) (Published: 2026-08-08)
+- [Alphabet CEO Sundar Pichai signals increased AI infrastructure spending, with ripple effects for Nvidia and Broadcom](https://cryptobriefing.com/alphabet-ai-infrastructure-spending-nvidia-broadcom/) (Published: 2026-08-08)
 - [Forecasting the AI bubble: When scarcity turns to surplus](https://siliconangle.com/2026/08/08/forecasting-ai-bubble-scarcity-turns-surplus/) (Published: 2026-08-08)
 - [5 Streaming Devices Cheaper Than The Roku Ultra (After The Price Hike)](https://www.bgr.com/2228651/streaming-devices-cheaper-roku-ultra-price-hike/) (Published: 2026-08-08)
 - [xerv-crayon 5.7.6](https://pypi.org/project/xerv-crayon/5.7.6/) (Published: 2026-08-08)
@@ -9,5 +11,3 @@ _Last updated: **2026-08-09 16:00:54**_
 - [xerv-crayon 5.7.5](https://pypi.org/project/xerv-crayon/5.7.5/) (Published: 2026-08-08)
 - [clawmetry 0.12.666](https://pypi.org/project/clawmetry/0.12.666/) (Published: 2026-08-08)
 - [xerv-crayon 5.7.4](https://pypi.org/project/xerv-crayon/5.7.4/) (Published: 2026-08-08)
-- [xerv-crayon 5.7.3](https://pypi.org/project/xerv-crayon/5.7.3/) (Published: 2026-08-08)
-- [xerv-crayon 5.7.2](https://pypi.org/project/xerv-crayon/5.7.2/) (Published: 2026-08-08)
