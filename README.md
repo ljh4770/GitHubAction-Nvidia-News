@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-09 20:53:44**_
+_Last updated: **2026-08-09 21:27:04**_
 
+- [Nvidia’s $3 Billion Bet on Lancium Signals the Compute Landlord Thesis Has Reached the Power Layer](https://forkast.news/nvidias-3-billion-bet-on-lancium-signals-the-compute-landlord-thesis-has-reached-the-power-layer/) (Published: 2026-08-08)
 - [Buys Taalas: Is AI Inference the Next Battleground With Nvidia?](https://biztoc.com/x/80ddc5de4e5be0fa) (Published: 2026-08-08)
 - [AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?](https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-taalas-ai-194609482.html) (Published: 2026-08-08)
 - [uni-db-cuda 3.3.0](https://pypi.org/project/uni-db-cuda/3.3.0/) (Published: 2026-08-08)
@@ -9,4 +10,3 @@ _Last updated: **2026-08-09 20:53:44**_
 - [South Korean retail investors buy $4.6B in US stocks as domestic market craters](https://cryptobriefing.com/south-korean-retail-investors-us-stocks/) (Published: 2026-08-08)
 - [Show HN: parakeet-tdt-0.6B v2 in the browser via WebGPU](https://parakeet.narcotic.sh/) (Published: 2026-08-08)
 - [VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index](https://247wallst.com/investing/2026/08/08/voo-is-about-to-become-the-first-1-trillion-etf-and-spy-holders-are-paying-3x-more-for-the-same-index/) (Published: 2026-08-08)
-- [torchsympy added to PyPI](https://pypi.org/project/torchsympy/) (Published: 2026-08-08)
