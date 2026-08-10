@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-10 21:36:41**_
+_Last updated: **2026-08-10 22:17:43**_
 
+- [clawmetry 0.12.673](https://pypi.org/project/clawmetry/0.12.673/) (Published: 2026-08-09)
 - [clawmetry 0.12.672](https://pypi.org/project/clawmetry/0.12.672/) (Published: 2026-08-09)
 - [clawmetry 0.12.671](https://pypi.org/project/clawmetry/0.12.671/) (Published: 2026-08-09)
 - [clawmetry 0.12.670](https://pypi.org/project/clawmetry/0.12.670/) (Published: 2026-08-09)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-10 21:36:41**_
 - [Ornith 9B gave my 16GB laptop near-35B answers, and it reads images too](https://www.makeuseof.com/ornith-9b-gave-16gb-laptop-near-35b-answers-reads-images/) (Published: 2026-08-09)
 - [Show HN: See how long it takes ChatGPT Sol 5.6 to send a byte across the LAN](https://robss2020.github.io/sol-vnc-elapsed/) (Published: 2026-08-09)
 - [Washington Just Committed $17.5 Billion to New Reactors. Uranium Funds Missed the Memo](https://247wallst.com/investing/2026/08/09/washington-just-committed-17-5-billion-to-new-reactors-uranium-funds-missed-the-memo/) (Published: 2026-08-09)
-- [Giant U.S. company cancels major employment perk for new staff](https://www.thestreet.com/employment/pwc-cancels-employment-perk-internship-disney-world) (Published: 2026-08-09)
