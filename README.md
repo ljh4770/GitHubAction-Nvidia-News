@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-09 23:42:48**_
+_Last updated: **2026-08-10 00:36:15**_
 
+- [nemo-retriever 2026.8.8.dev177](https://pypi.org/project/nemo-retriever/2026.8.8.dev177/) (Published: 2026-08-08)
 - [nemo-retriever 2026.8.8.dev627](https://pypi.org/project/nemo-retriever/2026.8.8.dev627/) (Published: 2026-08-08)
 - [Nvidia vs. Navitas Semiconductor: Here's What Their Revenue Trends Tell Investors About These Artificial Intelligence Companies](https://biztoc.com/x/6ef08023841aca0d) (Published: 2026-08-08)
 - [Oklo Q2 Earnings Call Highlights](https://www.marketbeat.com/instant-alerts/oklo-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-08-08)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-09 23:42:48**_
 - [AMD just made bold move to challenge Nvidia](https://biztoc.com/x/36b78e029fa09665) (Published: 2026-08-08)
 - [perfx added to PyPI](https://pypi.org/project/perfx/) (Published: 2026-08-08)
 - [AMD just made bold move to challenge Nvidia](https://www.thestreet.com/investing/stocks/amd-acquires-taalas-ai-inference-chips-nvidia-amd) (Published: 2026-08-08)
-- [Firebird Opens the Region's Largest AI Factory and Announces Global Expansion](https://www.prnewswire.com/news-releases/firebird-opens-the-regions-largest-ai-factory-and-announces-global-expansion-302846589.html) (Published: 2026-08-08)
