@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-11 00:35:19**_
+_Last updated: **2026-08-11 02:48:29**_
 
+- [Sony and TSMC plan 2029 mass production of next-gen image sensors](https://cryptobriefing.com/sony-tsmc-2029-image-sensors-joint-venture/) (Published: 2026-08-10)
+- [Weekly news roundup: AI infrastructure race spans HBM, DRAM, EMIB, optical transceivers and next-gen lithography](https://www.digitimes.com/news/a20260810VL200/weekly-news-roundup-asml-dram-hbm-infrastructure-packaging.html) (Published: 2026-08-10)
 - [Mark Cuban compares Nvidia to dot-com IPO machine, warning of AI sector fragility](https://cryptobriefing.com/mark-cuban-nvidia-dot-com-ai-stocks/) (Published: 2026-08-10)
 - [siliconscavenger 0.7.0](https://pypi.org/project/siliconscavenger/0.7.0/) (Published: 2026-08-09)
 - [siliconscavenger added to PyPI](https://pypi.org/project/siliconscavenger/) (Published: 2026-08-09)
@@ -9,5 +11,3 @@ _Last updated: **2026-08-11 00:35:19**_
 - [clawmetry 0.12.675](https://pypi.org/project/clawmetry/0.12.675/) (Published: 2026-08-09)
 - [clawmetry 0.12.674](https://pypi.org/project/clawmetry/0.12.674/) (Published: 2026-08-09)
 - [clawmetry 0.12.673](https://pypi.org/project/clawmetry/0.12.673/) (Published: 2026-08-09)
-- [clawmetry 0.12.672](https://pypi.org/project/clawmetry/0.12.672/) (Published: 2026-08-09)
-- [clawmetry 0.12.671](https://pypi.org/project/clawmetry/0.12.671/) (Published: 2026-08-09)
