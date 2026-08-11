@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-11 09:36:49**_
+_Last updated: **2026-08-11 10:31:14**_
 
-- [Anthropic Locks In $10B European Compute Bet With a Seven-Month-Old Startup](https://forkast.news/anthropic-locks-in-10b-european-compute-bet-with-a-seven-month-old-startup/) (Published: 2026-08-10)
-- [Firmus raises $2bn to accelerate Project Southgate rollout](https://biztoc.com/x/eafdb30398f862d8) (Published: 2026-08-10)
-- [NVIDIA and AMD’s China Market Share to Drop to 10% by 2026 as Domestic Chips Seize 90%, Says Report](https://wccftech.com/nvidia-and-amds-china-market-share-to-drop-to-10-by-2026-as-domestic-chips-seize-90-says-report/) (Published: 2026-08-10)
-- [26 more games join GeForce NOW during August 2026](https://www.gamingonlinux.com/2026/08/26-more-games-join-geforce-now-during-august-2026/) (Published: 2026-08-10)
-- [Lenovo releases new laptop with Core Ultra 7 251HX, 32 GB RAM and 2.5K 240 Hz display](https://www.notebookcheck.net/Lenovo-releases-new-laptop-with-Core-Ultra-7-251HX-32-GB-RAM-and-2-5K-240-Hz-display.1364383.0.html) (Published: 2026-08-10)
-- [Sovereign AI Infrastructure Market Till 2040 Now Available — Forecasts Growth from $24.8B to $301.6B, Profiles NVIDIA, Microsoft, AWS, and 15 Other Key Players](https://www.globenewswire.com/news-release/2026/08/10/3341578/28124/en/sovereign-ai-infrastructure-market-till-2040-now-available-forecasts-growth-from-24-8b-to-301-6b-profiles-nvidia-microsoft-aws-and-15-other-key-players.html) (Published: 2026-08-10)
-- [AGON by AOC Unveils New Gaming Monitors Built for Triple Refresh Rate Performance](https://en.antaranews.com/news/426355/agon-by-aoc-unveils-new-gaming-monitors-built-for-triple-refresh-rate-performance) (Published: 2026-08-10)
-- [warp-nn 0.3.1](https://pypi.org/project/warp-nn/0.3.1/) (Published: 2026-08-10)
-- [Samsung HBM4 Memory Reportedly Achieves the “Golden Yield” of 80% As It Aims To Challenge SK Hynix’s “AI DRAM” Dominance](https://wccftech.com/samsung-hbm4-memory-achieves-the-golden-yield-of-80-percent/) (Published: 2026-08-10)
+- [Wall Street hits record highs as July payrolls ease rate fears](https://cryptobriefing.com/wall-street-record-highs-july-payrolls-rate-fears/) (Published: 2026-08-10)
+- [World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand](https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html) (Published: 2026-08-10)
+- [Key Republican urges US to block advanced chips to China](https://cryptobriefing.com/republican-urges-us-block-advanced-chips-china/) (Published: 2026-08-10)
+- [Why AI giants split over open-model restrictions amid distillation claims](https://www.business-standard.com/technology/artificial-intelligence/kimi-k3-sandbox-escape-open-ai-models-debate-126081001025_1.html) (Published: 2026-08-10)
+- [Mark Zuckerberg criticizes closed AI rivals as Meta returns to open models](https://cryptobriefing.com/zuckerberg-criticizes-closed-ai-meta-open-models/) (Published: 2026-08-10)
+- [Chinese AI drives price competition among US labs](https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-drives-price-competition-among-us-labs/articleshow/133092300.cms) (Published: 2026-08-10)
+- [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) (Published: 2026-08-10)
+- [Key Republican urges US to stop any advanced chips from reaching sanctioned Chinese firms](https://finance.yahoo.com/news/key-republican-urges-us-stop-100512891.html) (Published: 2026-08-10)
+- [What Does the Humbling of Leopold Aschenbrenner Mean for the A.I. Bubble?](https://www.newyorker.com/news/the-financial-page/what-does-the-humbling-of-leopold-aschenbrenner-mean-for-the-ai-bubble) (Published: 2026-08-10)
+- [Elon Musk vs Michael Burry: World's richest man says AI internet traffic will outpace humans, market expert asks who is paying](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/elon-musk-vs-michael-burry-worlds-richest-man-says-ai-internet-traffic-will-outpace-humans-market-expert-asks-who-is-paying/articleshow/133094560.cms) (Published: 2026-08-10)
