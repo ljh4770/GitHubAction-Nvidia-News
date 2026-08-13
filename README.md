@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-13 20:20:57**_
+_Last updated: **2026-08-13 21:09:26**_
 
+- [AI Stocks Stop S&P 500's Slide](https://www.newser.com/story/394556/ai-stocks-stop-sp-500s-slide.html) (Published: 2026-08-12)
+- [DeepSeek Targets Agentic Coding Market With New Team](https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-targets-agentic-coding-market-with-new-team/) (Published: 2026-08-12)
+- [Michael Burry Drops Stark Take on Nvidia Stock](https://biztoc.com/x/2598529dd3617c58) (Published: 2026-08-12)
+- [Why CAVA Group Stock Popped Today](https://biztoc.com/x/d8187fa6af773f2a) (Published: 2026-08-12)
+- [CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks](https://biztoc.com/x/3c2ea188e2f1d3a1) (Published: 2026-08-12)
+- [Coherent reports Q4 earnings with $2B revenue, guides Q1 at roughly $2B](https://cryptobriefing.com/coherent-q4-earnings-2b-revenue/) (Published: 2026-08-12)
+- [Tech Giants Want To Treat Rogue AI Like Plane Crashes](https://dailycaller.com/2026/08/12/nvidia-ai-agents-black-boxes-aviation-accidents) (Published: 2026-08-12)
+- [clawmetry 0.12.690](https://pypi.org/project/clawmetry/0.12.690/) (Published: 2026-08-12)
 - [Cerebras raises full-year outlook, but stock drops after second earnings report following IPO](https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html) (Published: 2026-08-12)
 - [gpumetric 0.1.0](https://pypi.org/project/gpumetric/0.1.0/) (Published: 2026-08-12)
-- [Cerebras raises annual targets on strong AI chip demand](https://www.channelnewsasia.com/business/cerebras-raises-annual-targets-strong-ai-chip-demand-6315786) (Published: 2026-08-12)
-- [Cerebras raises annual targets on strong AI chip demand](https://www.livemint.com/companies/cerebras-raises-annual-targets-on-strong-ai-chip-demand-11786565219479.html) (Published: 2026-08-12)
-- [This 2020 Nvidia chip is still going strong. That matters for the AI boom](https://biztoc.com/x/17d02d27115399a4) (Published: 2026-08-12)
-- [MSI Cyborg 13th-Gen i5 15.6" Laptop w/ NVIDIA GeForce RTX 5050 for $899 + free shipping](https://www.dealnews.com/MSI-Cyborg-13-th-Gen-i5-15-6-Laptop-w-NVIDIA-Ge-Force-RTX-5050-for-899-free-shipping/22013089.html) (Published: 2026-08-12)
-- [This 2020 Nvidia chip is still going strong. That matters for the AI boom.](https://www.businessinsider.com/coreweave-deal-challenges-nvidia-ai-chip-obsolescence-fears-2026-8#article) (Published: 2026-08-12)
-- [Investors question data center loan valuations after Nvidia financing](https://cryptobriefing.com/nvidia-data-center-loan-valuations-questioned/) (Published: 2026-08-12)
-- [CNBC Daily Open: Chips, ships and a sliding yen - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=184941494) (Published: 2026-08-12)
-- [Goldman Sachs part of consortium giving over $500B to NVIDIA](https://cryptobriefing.com/goldman-sachs-part-of-consortium-giving-over-500b-to-nvidia/) (Published: 2026-08-12)
