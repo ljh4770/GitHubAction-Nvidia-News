@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-13 19:41:27**_
+_Last updated: **2026-08-13 20:20:57**_
 
+- [Cerebras raises full-year outlook, but stock drops after second earnings report following IPO](https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html) (Published: 2026-08-12)
+- [gpumetric 0.1.0](https://pypi.org/project/gpumetric/0.1.0/) (Published: 2026-08-12)
+- [Cerebras raises annual targets on strong AI chip demand](https://www.channelnewsasia.com/business/cerebras-raises-annual-targets-strong-ai-chip-demand-6315786) (Published: 2026-08-12)
+- [Cerebras raises annual targets on strong AI chip demand](https://www.livemint.com/companies/cerebras-raises-annual-targets-on-strong-ai-chip-demand-11786565219479.html) (Published: 2026-08-12)
+- [This 2020 Nvidia chip is still going strong. That matters for the AI boom](https://biztoc.com/x/17d02d27115399a4) (Published: 2026-08-12)
+- [MSI Cyborg 13th-Gen i5 15.6" Laptop w/ NVIDIA GeForce RTX 5050 for $899 + free shipping](https://www.dealnews.com/MSI-Cyborg-13-th-Gen-i5-15-6-Laptop-w-NVIDIA-Ge-Force-RTX-5050-for-899-free-shipping/22013089.html) (Published: 2026-08-12)
+- [This 2020 Nvidia chip is still going strong. That matters for the AI boom.](https://www.businessinsider.com/coreweave-deal-challenges-nvidia-ai-chip-obsolescence-fears-2026-8#article) (Published: 2026-08-12)
 - [Investors question data center loan valuations after Nvidia financing](https://cryptobriefing.com/nvidia-data-center-loan-valuations-questioned/) (Published: 2026-08-12)
 - [CNBC Daily Open: Chips, ships and a sliding yen - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=184941494) (Published: 2026-08-12)
 - [Goldman Sachs part of consortium giving over $500B to NVIDIA](https://cryptobriefing.com/goldman-sachs-part-of-consortium-giving-over-500b-to-nvidia/) (Published: 2026-08-12)
-- [Norway’s Wealth Fund Nets Record Profits of $184 Billion This Year](https://biztoc.com/x/2c5fd3b98777635f) (Published: 2026-08-12)
-- [Nvidia's latest solution to soaring enterprise AI costs is...a router?](https://www.theregister.com/ai-and-ml/2026/08/12/nvidias-latest-solution-for-soaring-enterprise-costs-nemo-switchyard-software-router/5286911) (Published: 2026-08-12)
-- [Saturn Cloud Integrates NVIDIA DSX OS Into Its AI Token Factory Platform](https://www.prnewswire.com/news-releases/saturn-cloud-integrates-nvidia-dsx-os-into-its-ai-token-factory-platform-302850047.html) (Published: 2026-08-12)
-- [CloudSEK Identifies More than 2,500 Organisations Potentially Impacted by AI Supply Chain Exposure Affecting 434,000 Software Pipelines](https://www.prnewswire.com/news-releases/cloudsek-identifies-more-than-2-500-organisations-potentially-impacted-by-ai-supply-chain-exposure-affecting-434-000-software-pipelines-302849949.html) (Published: 2026-08-12)
-- [Alphabet’s stock slips as Nvidia unveils $500B financing deal that threatens Google’s custom chip business](https://cryptobriefing.com/alphabet-stock-nvidia-500b-financing-deal/) (Published: 2026-08-12)
-- [Costco Intel Gaming Desktop & Laptop Deals: Up to $700 off + free shipping](https://www.dealnews.com/Costco-Intel-Gaming-Desktop-Laptop-Deals-Up-to-700-off-free-shipping/22012980.html) (Published: 2026-08-12)
-- [Which GIGABYTE AI Gaming Laptop Should You Buy in 2026?](https://www.cnet.com/paid-content/which-gigabyte-ai-gaming-laptop-should-you-buy-in-2026/) (Published: 2026-08-12)
