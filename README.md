@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-14 20:03:36**_
+_Last updated: **2026-08-14 20:39:58**_
 
+- [Tech ETFs drive record monthly trading volume, reaching 10% share](https://cryptobriefing.com/tech-etfs-record-trading-volume/) (Published: 2026-08-13)
+- [Amazon Is the Only $3 Trillion Company That Has Never Paid a Dividend](https://biztoc.com/x/35bd97f006acd0b5) (Published: 2026-08-13)
 - [NVIDIA GeForce NOW is high-end gaming everywhere without a headache [Video]](http://9to5google.com/2026/08/13/nvidia-geforce-now-high-end-gaming-everywhere-without-headache-video/) (Published: 2026-08-13)
 - [Brookfield Corp. says it can manage the risks of financing Nvidia’s soaring growth](https://biztoc.com/x/31ea261d4efa6b0f) (Published: 2026-08-13)
 - [Brookfield Corp. says it can manage the risks of financing Nvidia’s soaring growth](https://www.theglobeandmail.com/business/article-brookfield-corp-says-it-can-manage-the-risks-of-financing-nvidias/) (Published: 2026-08-13)
@@ -9,5 +11,3 @@ _Last updated: **2026-08-14 20:03:36**_
 - [Nvidia Stock Gains While Norway Fund Reveals Top Holding](https://biztoc.com/x/ffbda13140fe0e35) (Published: 2026-08-13)
 - [CodeRabbit Raises $143 Million at $1.5 Billion Valuation to Govern AI-Generated Code](https://www.pymnts.com/news/artificial-intelligence/2026/coderabbit-raises-143-million-at-1-5-billion-valuation-to-govern-ai-generated-code/) (Published: 2026-08-13)
 - [Trump Administration May Include Open Models in Secretive AI Framework](https://gizmodo.com/trump-administration-may-include-open-models-in-secretive-ai-framework-2000798303) (Published: 2026-08-13)
-- [MSI Cyborg Core 5 210H 15.6" Laptop w/ NVIDIA GeForce RTX 5060 for $949 + free shipping](https://www.dealnews.com/products/MSI/MSI-Cyborg-Core-5-210-H-15-6-Laptop-w-NVIDIA-Ge-Force-RTX-5060/518373.html) (Published: 2026-08-13)
-- [Jane Street Lease Backs $2.25 Billion of Green Data-Center Bonds](https://financialpost.com/pmn/business-pmn/jane-street-lease-backs-2-25-billion-of-green-data-center-bonds) (Published: 2026-08-13)
