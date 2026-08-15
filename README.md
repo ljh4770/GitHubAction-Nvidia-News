@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-15 18:00:30**_
+_Last updated: **2026-08-15 18:40:43**_
 
+- [Michael Burry closes short position in Tesla stock after riding a 20% drop](https://cryptobriefing.com/michael-burry-closes-tesla-short-position/) (Published: 2026-08-14)
+- [Nvidia’s $500 billion plan envelops Wall Street in its AI frenzy](https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-500-billion-plan-envelops-wall-street-in-its-ai-frenzy/articleshow/133249552.cms) (Published: 2026-08-14)
+- [Best Laptops for Local AI in 2026: Lab-Tested Leaderboard](https://www.storagereview.com/best/laptops-local-ai) (Published: 2026-08-14)
+- [Russian missile uses Nvidia AI chip to help target Ukraine](https://biztoc.com/x/ac0b89559b4bb12a) (Published: 2026-08-14)
+- [Semiconductor stocks poised for best August in over 20 years](https://cryptobriefing.com/semiconductor-stocks-best-august-20-years/) (Published: 2026-08-14)
+- [LG Partner Store : 77" G6 LG OLED evo AI 4K Smart TV 2026+ 27" LG UltraGear OLED Monitor ($849 Value) + $200 Fanatics eGift + $300 Rinse Credit + Free Installation $3065.09 (6 replies)](https://slickdeals.net/f/19879626-lg-partner-store-77-g6-lg-oled-evo-ai-4k-smart-tv-2026-27-lg-ultragear-oled-monitor-849-value-200-fanatics-egift-300-rinse-credit-free-installation-3065-09) (Published: 2026-08-14)
+- [Acer Predator Orion 6000 Gaming Desktop, Intel Core Ultra 7 265KF, NVIDIA GeForce RTX 5070 Ti, 32GB DDR5, 1TB PCIe 4.0 SSD, PO6-605-UR15W $2099 (5 replies)](https://slickdeals.net/f/19879587-acer-predator-orion-6000-gaming-desktop-intel-core-ultra-7-265kf-nvidia-geforce-rtx-5070-ti-32gb-ddr5-1tb-pcie-4-0-ssd-po6-605-ur15w-2099) (Published: 2026-08-14)
 - [Certified Refurb - Lenovo Legion 5 Gen 10, AMD Ryzen 7 260, RTX 5060, 32GB DDR5, 1TB SSD, 15.1" WQXGA OLED $1283.3 (0 replies)](https://slickdeals.net/f/19879578-certified-refurb-lenovo-legion-5-gen-10-amd-ryzen-7-260-rtx-5060-32gb-ddr5-1tb-ssd-15-1-wqxga-oled-1283-3) (Published: 2026-08-14)
 - [Why defensibility is the hook for VC data center investments](https://biztoc.com/x/b1690ad5e8ed12a9) (Published: 2026-08-14)
 - [Goldman Sachs Takes On Nvidia's Biggest AI Challenge](https://biztoc.com/x/ac99dd5d2cbee987) (Published: 2026-08-14)
-- [Nvidia, Nancy Pelosi, Cathie Wood Strike Gold With Databricks' $190 Billion Valuation](https://biztoc.com/x/f36b24e6710b06d4) (Published: 2026-08-14)
-- [Range Rover Maker JLR’s Luxury Engine Starts Sputtering](https://app.moby.co/home/news/news-range-rover-maker-jlrs-luxury-engine-starts-sputtering?utm_source=yahoo_finance&amp;utm_medium=rss) (Published: 2026-08-14)
-- [Why defensibility is the hook for VC data center investments](https://pitchbook.com/news/articles/why-defensibility-is-the-hook-for-vc-data-center-investments) (Published: 2026-08-14)
-- [Russian missile uses Nvidia AI chip to help target Ukraine](https://slashdot.org/firehose.pl?op=view&amp;id=184974425) (Published: 2026-08-14)
-- [A Top Analyst Says SanDisk Could Buy Back $100 Billion in Stock. If He Is Right, Memory Investors Are Badly Underpricing SNDK Stock](https://247wallst.com/investing/2026/08/14/a-top-analyst-says-sandisk-could-buy-back-100-billion-in-stock-if-he-is-right-memory-investors-are-badly-underpricing-sndk-stock/) (Published: 2026-08-14)
-- [Adobe Stock Eyes Rebound. Is This a Golden AI Opportunity?](https://247wallst.com/investing/2026/08/14/adobe-stock-eyes-redbound-is-this-a-golden-ai-opportunity/) (Published: 2026-08-14)
-- [CSP Inc. Q3 2026 Earnings Call Summary](https://biztoc.com/x/907e9082f281325d) (Published: 2026-08-14)
