@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-15 06:00:55**_
+_Last updated: **2026-08-15 06:52:45**_
 
+- [Goldman Sachs is courting investors on Nvidia’s $500bn AI-compute financing deal](https://thenextweb.com/news/goldman-nvidia-500bn-financing-role) (Published: 2026-08-14)
+- [Istanbul to host GITEX Ai Türkiye in September](https://www.hurriyetdailynews.com/istanbul-to-host-gitex-ai-turkiye-in-september-225606) (Published: 2026-08-14)
+- [​Why did Cerebras Systems stock fall despite higher 2026 guidance?](https://m.economictimes.com/markets/us-stocks/news/why-did-cerebras-systems-stock-fall-despite-higher-2026-guidance/cerebras-stock-tumbles-after-earnings/slideshow/133231594.cms) (Published: 2026-08-14)
+- [Intel CEO Teases Possible Return to Memory Business](https://me.pcmag.com/en/components/37832/intel-ceo-teases-possible-return-to-memory-business) (Published: 2026-08-14)
+- [Nvidia Raises RTX Pro 6000 Blackwell Price to $16,000, More Than Double Its Launch Price](https://www.ghacks.net/2026/08/14/nvidia-raises-rtx-pro-6000-blackwell-price-to-16000-more-than-double-its-launch-price/) (Published: 2026-08-14)
+- [LG to Unveil Its Next-Gen Humanoid Robot, Built on NVIDIA Isaac GR00T](https://www.prnewswire.com/news-releases/lg-to-unveil-its-next-gen-humanoid-robot-built-on-nvidia-isaac-gr00t-302851652.html) (Published: 2026-08-14)
+- [Michael Burry doubles down on Nvidia short after $500B chip deal he calls a 'Wall Street stunt' with 'shades of Enron' - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=184968403) (Published: 2026-08-14)
+- [OpenAI’s new Ultrafast mode runs GPT-5.6 Sol 14 times faster, on Cerebras chips](https://thenextweb.com/news/openais-new-ultrafast-mode-runs-gpt-5-6-sol-14-times-faster-on-cerebras-chips) (Published: 2026-08-14)
 - [China's hottest AI chip stock is now one of the world's most valuable chipmakers — rivaling Intel](https://www.businessinsider.com/cxmt-stock-price-market-cap-intel-tencent-ai-chips-2026-8#article) (Published: 2026-08-14)
-- [vs-liif added to PyPI](https://pypi.org/project/vs-liif/) (Published: 2026-08-14)
-- [Meta Open-Sources Muse Glimmer: A 30B Local Agentic Model Optimised for On-Device Execution](https://www.infoq.com/news/2026/08/meta-muse-glimmer/) (Published: 2026-08-14)
-- [California Advances Bill to Expand Antitrust Enforcement Law](https://www.insurancejournal.com/news/west/2026/08/14/881530.htm) (Published: 2026-08-14)
-- [AMD reportedly to issue up to US$5B in bonds amid tech debt sale wave](https://www.digitimes.com/news/a20260814VL221/amd-nvidia-data-center-sales-demand.html) (Published: 2026-08-14)
-- [gsj-harness-rollout-server 0.1.0](https://pypi.org/project/gsj-harness-rollout-server/0.1.0/) (Published: 2026-08-14)
-- [gsj-harness-rollout-server added to PyPI](https://pypi.org/project/gsj-harness-rollout-server/) (Published: 2026-08-14)
-- [agentrust-trace-adapters added to PyPI](https://pypi.org/project/agentrust-trace-adapters/) (Published: 2026-08-14)
-- [Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say](https://biztoc.com/x/fc0e9203eb0ea8d2) (Published: 2026-08-14)
-- [Goldman Sachs taps investors for Nvidia’s $500 billion AI financing push](https://economictimes.indiatimes.com/news/international/business/goldman-sachs-taps-investors-for-nvidias-500-billion-ai-financing-push/articleshow/133228728.cms) (Published: 2026-08-14)
