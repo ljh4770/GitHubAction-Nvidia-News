@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-15 07:23:44**_
+_Last updated: **2026-08-15 07:50:57**_
 
+- [The First Year of World Models: When AI's Supply-Side Revolution Moves from Generation to Understanding the Physical World](https://www.prnewswire.com/news-releases/the-first-year-of-world-models-when-ais-supply-side-revolution-moves-from-generation-to-understanding-the-physical-world-302851691.html) (Published: 2026-08-14)
 - [DeepSeek launches V4 Pro at prices up to 14 times higher than V4 Flash](https://www.thehindubusinessline.com/info-tech/deepseek-launches-v4-pro-at-prices-up-to-14-times-higher-than-v4-flash/article71344436.ece) (Published: 2026-08-14)
 - [Airbnb CEO Brian Chesky says AI writes 60% of its code—and sustaining ‘founder mode’ is the key to winning in the age of AI](https://fortune.com/2026/08/14/airbnb-ceo-brian-chesky-founder-mode-ai-writes-60-percent-of-code/) (Published: 2026-08-14)
 - [Goldman Sachs is courting investors on Nvidia’s $500bn AI-compute financing deal](https://thenextweb.com/news/goldman-nvidia-500bn-financing-role) (Published: 2026-08-14)
@@ -9,4 +10,3 @@ _Last updated: **2026-08-15 07:23:44**_
 - [Intel CEO Teases Possible Return to Memory Business](https://me.pcmag.com/en/components/37832/intel-ceo-teases-possible-return-to-memory-business) (Published: 2026-08-14)
 - [Nvidia Raises RTX Pro 6000 Blackwell Price to $16,000, More Than Double Its Launch Price](https://www.ghacks.net/2026/08/14/nvidia-raises-rtx-pro-6000-blackwell-price-to-16000-more-than-double-its-launch-price/) (Published: 2026-08-14)
 - [LG to Unveil Its Next-Gen Humanoid Robot, Built on NVIDIA Isaac GR00T](https://www.prnewswire.com/news-releases/lg-to-unveil-its-next-gen-humanoid-robot-built-on-nvidia-isaac-gr00t-302851652.html) (Published: 2026-08-14)
-- [Michael Burry doubles down on Nvidia short after $500B chip deal he calls a 'Wall Street stunt' with 'shades of Enron' - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=184968403) (Published: 2026-08-14)
