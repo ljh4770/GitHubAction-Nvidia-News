@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-15 13:00:30**_
+_Last updated: **2026-08-15 13:36:56**_
 
+- [Topaz Gigapixel Pro v1.3.4 (x64) + Fix](https://post.rlsbb.cc/topaz-gigapixel-pro-v1-3-4-x64-fix/) (Published: 2026-08-14)
+- [BITS Pilani campuses clock 3.46% increase in placements](https://www.thehindubusinessline.com/news/education/bits-pilani-campuses-clock-346-increase-in-placements/article71345526.ece) (Published: 2026-08-14)
+- [AI Investment Boom Comes With Rising Borrowing And Leverage](https://biztoc.com/x/c5692d4819ce13a5) (Published: 2026-08-14)
+- [Security updates for Friday](https://lwn.net/Articles/1088919/) (Published: 2026-08-14)
+- [LG Teams With NVIDIA For AI Factory Transformation And GR00T Humanoid](https://hothardware.com/news/lg-teams-nvidia-ai-factory-transformation-gr00t-humanoid) (Published: 2026-08-14)
+- [Insilico Medicine Introduces Biological Age into Virtual Cell Research: Launches Virtual Aging Cell Webpage and Previews Multi-Agent Driven VAC Generation Platform](https://www.prnewswire.com/news-releases/insilico-medicine-introduces-biological-age-into-virtual-cell-research-launches-virtual-aging-cell-webpage-and-previews-multi-agent-driven-vac-generation-platform-302851856.html) (Published: 2026-08-14)
+- [Meta gives up control of Chinese AI startup Manus after eight months](https://www.computerworld.com/article/4209728/meta-gives-up-control-of-chinese-ai-startup-manus-after-eight-months.html) (Published: 2026-08-14)
+- [NVIDIA Invested $2 Billion in Marvell. Which Stock Is the Better Buy in August?](https://biztoc.com/x/0a8c751f5f30a3f4) (Published: 2026-08-14)
+- [China Fears Affect Nividia and AMD in Very Different Ways](https://biztoc.com/x/3cbfaafa2ca6c99c) (Published: 2026-08-14)
 - [Movavi Video Editor 26.21.3](https://post.rlsbb.cc/movavi-video-editor-26-21-3/) (Published: 2026-08-14)
-- [Phantom Blade Zero can run on old GPUs, but you'll need way more for ray tracing](https://www.techspot.com/news/113479-phantom-blade-zero-can-run-old-gpus-but.html) (Published: 2026-08-14)
-- [DeepSeek launches V4 Pro at prices up to 14 times higher than V4 Flash](https://www.business-standard.com/world-news/deepseek-launches-v4-pro-at-prices-up-to-14-times-higher-than-v4-flash-126081401577_1.html) (Published: 2026-08-14)
-- [Goldman in talks with investors on Nvidia financing deal after landing prized role](https://economictimes.indiatimes.com/tech/technology/goldman-in-talks-with-investors-on-nvidia-financing-deal-after-landing-prized-role/articleshow/133241463.cms) (Published: 2026-08-14)
-- [Ukraine Finds Nvidia AI Chip in New Russian Missile](https://slashdot.org/submission/17349857/ukraine-finds-nvidia-ai-chip-in-new-russian-missile) (Published: 2026-08-14)
-- [NVIDIA’s Optics Partners Crush CPO Delay Rumors, With Coherent’s Scale-Out Revenue Starting Late 2026](https://wccftech.com/nvidia-optics-partners-crush-cpo-delay-rumors-with-coherents-scale-out-revenue-starting-late-2026/) (Published: 2026-08-14)
-- [I skipped the AI cloud subscription by running a local LLM directly on my Android phone](https://www.androidpolice.com/skipped-ai-cloud-subscription-by-running-local-llm-on-android-phone/) (Published: 2026-08-14)
-- [GIGABYTE AERO X16 Drops to $1,099 With an RTX 5060 and Copilot+ PC Hardware](https://the-gadgeteer.com/2026/08/14/gigabyte-aero-x16-gaming-laptop/) (Published: 2026-08-14)
-- [Show HN: Sktstreamer for smooth video with latency on slow mobile networks](https://github.com/sktguha/sktstreamer) (Published: 2026-08-14)
-- [Epic Games Store is going to support Linux 'soon' — and that's great news for Steam Deck owners](https://www.techradar.com/gaming/pc-gaming/epic-games-store-is-going-to-support-linux-soon-and-thats-great-news-for-steam-deck-owners) (Published: 2026-08-14)
