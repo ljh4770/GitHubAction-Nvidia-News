@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-15 07:50:57**_
+_Last updated: **2026-08-15 08:13:13**_
 
 - [The First Year of World Models: When AI's Supply-Side Revolution Moves from Generation to Understanding the Physical World](https://www.prnewswire.com/news-releases/the-first-year-of-world-models-when-ais-supply-side-revolution-moves-from-generation-to-understanding-the-physical-world-302851691.html) (Published: 2026-08-14)
 - [DeepSeek launches V4 Pro at prices up to 14 times higher than V4 Flash](https://www.thehindubusinessline.com/info-tech/deepseek-launches-v4-pro-at-prices-up-to-14-times-higher-than-v4-flash/article71344436.ece) (Published: 2026-08-14)
