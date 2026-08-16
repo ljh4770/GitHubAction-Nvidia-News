@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-16 19:44:48**_
+_Last updated: **2026-08-16 19:58:15**_
 
 - [Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says](https://www.channelnewsasia.com/business/nvidia-eyes-investing-3-billion-in-sb-energy-under-openai-data-center-deal-information-says-6321736) (Published: 2026-08-15)
 - [Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports](https://www.channelnewsasia.com/business/nvidia-in-talks-invest-3-billion-in-sb-energy-part-openai-data-center-deal-information-reports-6321736) (Published: 2026-08-15)
