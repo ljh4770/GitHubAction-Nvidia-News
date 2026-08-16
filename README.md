@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-16 21:33:37**_
+_Last updated: **2026-08-16 21:51:34**_
 
+- [Palantir makes its case against frontier AI with 93% revenue growth as ammunition](https://cryptobriefing.com/palantir-case-against-frontier-ai/) (Published: 2026-08-15)
+- [Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA)](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-went-wrong-213604620.html) (Published: 2026-08-15)
+- [Jim Cramer Said Domino’s Was Better Than Papa John’s International, Inc. (NASDAQ:PZZA) – But Is He Right?](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-domino-better-213509638.html) (Published: 2026-08-15)
 - [clawmetry 0.12.711](https://pypi.org/project/clawmetry/0.12.711/) (Published: 2026-08-15)
 - [Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html) (Published: 2026-08-15)
 - [How Larry Ellison Dropped From World's 2nd-Richest To No. 8 In Just 2 Months](https://developers.slashdot.org/story/26/08/15/2047249/how-larry-ellison-dropped-from-worlds-2nd-richest-to-no-8-in-just-2-months) (Published: 2026-08-15)
@@ -8,6 +11,3 @@ _Last updated: **2026-08-16 21:33:37**_
 - [Nvidia mulls $3B investment in SB Energy in OpenAI data center deal: Report](https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html) (Published: 2026-08-15)
 - [These 3 ETFs Pay More Than a Rental Property With No Tenants, No Repairs, and No Mortgage](https://247wallst.com/investing/2026/08/15/these-3-etfs-pay-more-than-a-rental-property-with-no-tenants-no-repairs-and-no-mortgage/) (Published: 2026-08-15)
 - [How a 66-Year-Old Built a $4,600 Monthly Paycheck From Just Two Funds: SCHD and JEPI](https://247wallst.com/personal-finance/2026/08/15/how-a-66-year-old-built-a-4600-monthly-paycheck-from-just-two-funds-schd-and-jepi/) (Published: 2026-08-15)
-- [Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://biztoc.com/x/e92959ce7439c43a) (Published: 2026-08-15)
-- [Nvidia has $21 billion SpaceX stake, $30 billion in Intel shares](https://biztoc.com/x/4fc410db655a469c) (Published: 2026-08-15)
-- [Reality’s rNVDA token sees $18M market cap increase on Arbitrum One](https://cryptobriefing.com/rnvda-token-market-cap-arbitrum-one/) (Published: 2026-08-15)
