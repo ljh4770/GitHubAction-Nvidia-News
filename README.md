@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-16 05:53:45**_
+_Last updated: **2026-08-16 06:31:42**_
 
+- [Chinese AI Models Outperform Restricted U.S. Systems in Bitcoin Security Work, Developers Say](https://www.naturalnews.com/2026-08-15-chinese-models-outperform-us-systems-bitcoin-security.html) (Published: 2026-08-15)
 - [Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings](https://economictimes.indiatimes.com/markets/us-stocks/news/institutional-investors-reveal-cautious-approach-to-tech-favorites-in-us-quarterly-13f-filings/articleshow/133256229.cms) (Published: 2026-08-15)
 - [Did Nvidia’s Jensen Huang just make the AI buildout too big to fail?](https://siliconangle.com/2026/08/15/nvidias-jensen-huang-just-make-ai-buildout-big-fail/) (Published: 2026-08-15)
 - [3thfloor added to PyPI](https://pypi.org/project/3thfloor/) (Published: 2026-08-15)
@@ -9,5 +10,4 @@ _Last updated: **2026-08-16 05:53:45**_
 - [Why tech bosses keep sharing their manifestos about AI - BBC](https://slashdot.org/firehose.pl?op=view&amp;id=184980160) (Published: 2026-08-15)
 - [Show HN: Dictata – Local Whisper dictation with LLM cleanup](https://github.com/AntoineChatry/Dictata) (Published: 2026-08-15)
 - [Jim Cramer Reviews NVIDIA (NVDA) and Data Center Demand](https://biztoc.com/x/9d5817b4b67e0863) (Published: 2026-08-15)
-- [Nvidia may reduce OpenAI data center backing to $120B](https://biztoc.com/x/2f1bbc71f770156d) (Published: 2026-08-15)
-- [Nvidia Uses $500 Billion Financing Initiative to Dispel AI Bubble Fears](https://biztoc.com/x/0f6adac218085f17) (Published: 2026-08-15)
+- [Vistra (VST) Is Not Just a Power Producer, But an AI Infrastructure Bet](https://finance.yahoo.com/energy/articles/vistra-vst-not-just-power-002658669.html) (Published: 2026-08-15)
