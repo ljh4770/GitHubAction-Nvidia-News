@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-16 06:31:42**_
+_Last updated: **2026-08-16 07:11:32**_
 
 - [Chinese AI Models Outperform Restricted U.S. Systems in Bitcoin Security Work, Developers Say](https://www.naturalnews.com/2026-08-15-chinese-models-outperform-us-systems-bitcoin-security.html) (Published: 2026-08-15)
 - [Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings](https://economictimes.indiatimes.com/markets/us-stocks/news/institutional-investors-reveal-cautious-approach-to-tech-favorites-in-us-quarterly-13f-filings/articleshow/133256229.cms) (Published: 2026-08-15)
