@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-16 07:45:29**_
+_Last updated: **2026-08-16 08:10:06**_
 
 - [Alienware 15: 15.3" FHD+ IPS 165Hz, Ryzen 7 260, RTX 5060, 16GB DDR5, 512GB $1199.99 (0 replies)](https://slickdeals.net/f/19881768-alienware-15-15-3-fhd-ips-165hz-ryzen-7-260-rtx-5060-16gb-ddr5-512gb-1199-99) (Published: 2026-08-15)
 - [Chinese AI Models Outperform Restricted U.S. Systems in Bitcoin Security Work, Developers Say](https://www.naturalnews.com/2026-08-15-chinese-models-outperform-us-systems-bitcoin-security.html) (Published: 2026-08-15)
