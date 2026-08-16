@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-16 22:09:53**_
+_Last updated: **2026-08-16 22:35:57**_
 
 - [clawmetry 0.12.712](https://pypi.org/project/clawmetry/0.12.712/) (Published: 2026-08-15)
 - [Palantir makes its case against frontier AI with 93% revenue growth as ammunition](https://cryptobriefing.com/palantir-case-against-frontier-ai/) (Published: 2026-08-15)
