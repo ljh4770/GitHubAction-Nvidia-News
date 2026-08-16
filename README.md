@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-16 17:41:29**_
+_Last updated: **2026-08-16 17:56:17**_
 
+- [elfes added to PyPI](https://pypi.org/project/elfes/) (Published: 2026-08-15)
 - [LG’s humanoid robot arrives in 2027, running Nvidia’s Isaac GR00T](https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot) (Published: 2026-08-15)
 - [Which Nvidia GPU Is Equivalent To The Xbox Series X?](https://www.bgr.com/2233582/nvidia-gpu-equivalent-to-xbox-series-x/) (Published: 2026-08-15)
 - [5 Monthly Dividend ETFs Paying 7 to 14 Percent to Ride Into 2027](https://247wallst.com/investing/2026/08/15/5-monthly-dividend-etfs-paying-7-to-14-percent-to-ride-into-2027/) (Published: 2026-08-15)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-16 17:41:29**_
 - [actuate-ai added to PyPI](https://pypi.org/project/actuate-ai/) (Published: 2026-08-15)
 - [How Artificial Intelligence Is Rewriting the Workplace](https://newsonjapan.com/article/150375.php) (Published: 2026-08-15)
 - [clawmetry 0.12.710](https://pypi.org/project/clawmetry/0.12.710/) (Published: 2026-08-15)
-- [AMD raises $4.75bn in its biggest ever bond sale](https://thenextweb.com/news/amd-4-75-billion-bond-sale-anthropic-ai-debt) (Published: 2026-08-15)
