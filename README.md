@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-16 21:10:12**_
+_Last updated: **2026-08-16 21:33:37**_
 
+- [clawmetry 0.12.711](https://pypi.org/project/clawmetry/0.12.711/) (Published: 2026-08-15)
+- [Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html) (Published: 2026-08-15)
 - [How Larry Ellison Dropped From World's 2nd-Richest To No. 8 In Just 2 Months](https://developers.slashdot.org/story/26/08/15/2047249/how-larry-ellison-dropped-from-worlds-2nd-richest-to-no-8-in-just-2-months) (Published: 2026-08-15)
 - [Nvidia may invest up to $3B in SoftBank's SB Energy](https://biztoc.com/x/d6eea46fe283e7cb) (Published: 2026-08-15)
 - [Nvidia mulls $3B investment in SB Energy in OpenAI data center deal: Report](https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html) (Published: 2026-08-15)
@@ -9,5 +11,3 @@ _Last updated: **2026-08-16 21:10:12**_
 - [Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies](https://biztoc.com/x/e92959ce7439c43a) (Published: 2026-08-15)
 - [Nvidia has $21 billion SpaceX stake, $30 billion in Intel shares](https://biztoc.com/x/4fc410db655a469c) (Published: 2026-08-15)
 - [Reality’s rNVDA token sees $18M market cap increase on Arbitrum One](https://cryptobriefing.com/rnvda-token-market-cap-arbitrum-one/) (Published: 2026-08-15)
-- [Nvidia leads retail investor demand with $27B in purchases over the past year](https://cryptobriefing.com/nvidia-leads-retail-investor-demand-27b/) (Published: 2026-08-15)
-- [Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says](https://www.channelnewsasia.com/business/nvidia-eyes-investing-3-billion-in-sb-energy-under-openai-data-center-deal-information-says-6321736) (Published: 2026-08-15)
