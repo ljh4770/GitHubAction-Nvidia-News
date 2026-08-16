@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-16 20:51:28**_
+_Last updated: **2026-08-16 21:10:12**_
 
 - [How Larry Ellison Dropped From World's 2nd-Richest To No. 8 In Just 2 Months](https://developers.slashdot.org/story/26/08/15/2047249/how-larry-ellison-dropped-from-worlds-2nd-richest-to-no-8-in-just-2-months) (Published: 2026-08-15)
 - [Nvidia may invest up to $3B in SoftBank's SB Energy](https://biztoc.com/x/d6eea46fe283e7cb) (Published: 2026-08-15)
