@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-17 02:32:25**_
+_Last updated: **2026-08-17 03:29:20**_
 
 - [Bond traders agonise over $70 bn of shadow credit backstops for AI firms](https://www.business-standard.com/world-news/bond-traders-agonise-over-70-bn-of-shadow-credit-backstops-for-ai-firms-126081600051_1.html) (Published: 2026-08-16)
 - [Nvidia eyes investing $3 billion in SB Energy under OpenAI data centre deal](https://www.business-standard.com/technology/tech-news/nvidia-eyes-investing-3-billion-in-sb-energy-under-openai-data-centre-deal-126081600049_1.html) (Published: 2026-08-16)
