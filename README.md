@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-17 13:00:37**_
+_Last updated: **2026-08-17 13:47:19**_
 
+- [‘Godfather of AI’ says billionaires like Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-big-tech-replacing-workers/) (Published: 2026-08-16)
 - [$199: Samsung 32” Odyssey G5 G50F Series QHD Gaming Monitor 180Hz (LS32FG502ENXZA) at Amazon](https://slickdeals.net/f/19884627-199-samsung-32-odyssey-g5-g50f-series-qhd-gaming-monitor-180hz-ls32fg502enxza-at-amazon) (Published: 2026-08-16)
 - [HP Omen Nvidia RTX 5090 GPU, 32GB RAM, 1 TB NVME - for AMD 9800X3D CPU is $4120 for AMD 9700X is $3942 (2 replies)](https://slickdeals.net/f/19884579-hp-omen-nvidia-rtx-5090-gpu-32gb-ram-1-tb-nvme-for-amd-9800x3d-cpu-is-4120-for-amd-9700x-is-3942) (Published: 2026-08-16)
 - [Which Nvidia GPU Is Equivalent To The PlayStation 5?](https://www.bgr.com/2233620/nvidia-gpu-equivalent-to-playstation-5/) (Published: 2026-08-16)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-17 13:00:37**_
 - [The AI boom has echoes of Enron — but that might be okay, a tech guru says](https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8#article) (Published: 2026-08-16)
 - [AI Offline Music Generator v2.1.4 Pre-Cracked](https://post.rlsbb.cc/ai-offline-music-generator-v2-1-4-pre-cracked/) (Published: 2026-08-16)
 - [nexusai-client added to PyPI](https://pypi.org/project/nexusai-client/) (Published: 2026-08-16)
-- [US Tech Advisor David Sacks Calls The Biggest Risk To NVIDIA’s $500 Billion AI Financing Plan A ‘Dark GPU’ Glut](https://wccftech.com/us-tech-advisor-david-sacks-calls-the-biggest-risk-to-nvidias-500-billion-ai-financing-plan-a-dark-gpu-glut/) (Published: 2026-08-16)
