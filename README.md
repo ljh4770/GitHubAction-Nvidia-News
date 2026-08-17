@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-17 09:51:15**_
+_Last updated: **2026-08-17 10:20:07**_
 
 - [nexusai-client added to PyPI](https://pypi.org/project/nexusai-client/) (Published: 2026-08-16)
 - [US Tech Advisor David Sacks Calls The Biggest Risk To NVIDIA’s $500 Billion AI Financing Plan A ‘Dark GPU’ Glut](https://wccftech.com/us-tech-advisor-david-sacks-calls-the-biggest-risk-to-nvidias-500-billion-ai-financing-plan-a-dark-gpu-glut/) (Published: 2026-08-16)
