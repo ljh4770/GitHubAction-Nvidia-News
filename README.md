@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-17 20:08:57**_
+_Last updated: **2026-08-17 20:42:18**_
 
+- [Robinhood Chain sees nasty retrace with only 5 tokens above $10M market cap](https://cryptobriefing.com/robinhood-chain-retrace-five-tokens/) (Published: 2026-08-16)
+- [NVIDIA’s $3 Billion Bet on the Power Behind AI](https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html) (Published: 2026-08-16)
 - [Data Centers Spread Across Japan](https://newsonjapan.com/article/150389.php) (Published: 2026-08-16)
 - [Meta’s custom silicon poses challenge to Nvidia’s AI dominance](https://cryptobriefing.com/meta-custom-silicon-nvidia-ai-challenge/) (Published: 2026-08-16)
 - [Kioxia showcases the world’s fastest SSD with mind-blowing 10M IOPS and a staggering 50 DWPD endurance](https://www.techradar.com/pro/kioxia-showcases-the-worlds-fastest-ssd-with-mind-blowing-10m-iops-and-a-staggering-50-dwpd-endurance) (Published: 2026-08-16)
@@ -9,5 +11,3 @@ _Last updated: **2026-08-17 20:08:57**_
 - [Nvidia H100 GPU rental costs surge 50% in six months as AI demand outpaces supply](https://cryptobriefing.com/nvidia-h100-gpu-rental-costs-surge/) (Published: 2026-08-16)
 - [Stanley Druckenmiller builds $120 million bet on major tech stock](https://www.thestreet.com/investing/stocks/stanley-druckenmiller-alphabet-stock-q2-bet-googl) (Published: 2026-08-16)
 - [Beijing seeks to remove Nvidia, but Chinese AI developers lack alternatives](https://cryptobriefing.com/beijing-bans-nvidia-china-ai-chip-alternatives/) (Published: 2026-08-16)
-- [Tokenized stocks reach 1.4M holders, up 448% in six months](https://cryptobriefing.com/tokenized-stocks-1-4m-holders-growth/) (Published: 2026-08-16)
-- [Investing $500 a Month Into These 3 ETFs Could Retire You a Millionaire](https://247wallst.com/investing/2026/08/16/investing-500-a-month-into-these-3-etfs-could-retire-you-a-millionaire/) (Published: 2026-08-16)
