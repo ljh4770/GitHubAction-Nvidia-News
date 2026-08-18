@@ -1,6 +1,9 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-18 11:40:30**_
+_Last updated: **2026-08-18 12:00:22**_
 
+- [Public Wi-Fi just got riskier. Follow these 4 security tips](https://www.pcworld.com/article/3212076/public-wi-fi-just-got-riskier-follow-these-4-security-tips.html) (Published: 2026-08-17)
+- [Micron stock heats up again, crossing $1,000](https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html) (Published: 2026-08-17)
+- [Nvidia cuts OpenAI Ohio data center guarantee to $120 billion](https://qz.com/nvidia-openai-ohio-data-center-backstop-081726) (Published: 2026-08-17)
 - [Wispr achieves $2B valuation with AI dictation software that started as an Iron Man fantasy](https://cryptobriefing.com/wispr-2b-valuation-dictation-software/) (Published: 2026-08-17)
 - [HIVE Digital Technologies lands $350M GPU cloud contract, deploys 2,016 Nvidia Blackwell chips in Q4](https://cryptobriefing.com/hive-digital-technologies-nvidia-gpu-cloud-contract/) (Published: 2026-08-17)
 - [GoldenEye 007 for N64 has been '100% decompiled' — success of half-decade project opens up possibilities for complex mods and ports](https://www.tomshardware.com/video-games/retro-gaming/goldeneye-007-for-n64-has-been-100-percent-decompiled-success-of-half-decade-project-opens-up-possibilities-for-complex-mods-and-ports) (Published: 2026-08-17)
@@ -8,6 +11,3 @@ _Last updated: **2026-08-18 11:40:30**_
 - [Sam Altman says four years is too long for college as AI tears up the traditional career path](https://www.techspot.com/news/113505-sam-altman-four-years-long-college-ai-tears.html) (Published: 2026-08-17)
 - [Best Buy reportedly 'fixes' 64 GB gaming laptop by removing half its RAM](https://www.notebookcheck.net/Best-Buy-reportedly-fixes-64-GB-gaming-laptop-by-removing-half-its-RAM.1370440.0.html) (Published: 2026-08-17)
 - [Cathie Wood Pouring Cash Into Least Loved Mag 7 Stock, Buying An Estimated 450,000 Shares In 45 Days](https://247wallst.com/investing/2026/08/17/cathie-wood-pouring-cash-into-least-loved-mag-7-stock-buying-an-estimated-450000-shares-in-45-days/) (Published: 2026-08-17)
-- [Why AI stocks could crash even if AI succeeds: ECB explains the risk](https://www.business-standard.com/world-news/why-ai-stocks-could-crash-even-if-ai-succeeds-ecb-explains-the-risk-european-central-bank-126081700867_1.html) (Published: 2026-08-17)
-- [4 Vanguard ETFs That Belong in Every Portfolio in August](https://247wallst.com/investing/2026/08/17/4-vanguard-etfs-that-belong-in-every-portfolio-in-august/) (Published: 2026-08-17)
-- [PC Partner warns of rising GPU prices and budget card shortages — analyst suggests makers are hiking prices beyond memory costs](https://www.tomshardware.com/tech-industry/pc-partner-warns-of-rising-gpu-prices-and-budget-card-shortages-analyst-suggests-makers-are-hiking-prices-beyond-memory-costs) (Published: 2026-08-17)
