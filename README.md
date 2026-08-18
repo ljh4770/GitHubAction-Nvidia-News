@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-18 02:19:21**_
+_Last updated: **2026-08-18 03:12:27**_
 
 - [SK Hynix stock trades at 5 times earnings despite 257% revenue growth](https://cryptobriefing.com/sk-hynix-5x-earnings-257-revenue-growth/) (Published: 2026-08-17)
 - [Weekly news roundup: AI expansion fuels supernodes, post-HBM memory, liquid cooling and supply-chain shifts](https://www.digitimes.com/news/a20260817VL202/weekly-news-roundup-capacity-demand-expansion-liquid-cooling-revenue.html) (Published: 2026-08-17)
