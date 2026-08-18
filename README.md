@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-18 12:00:22**_
+_Last updated: **2026-08-18 13:01:25**_
 
-- [Public Wi-Fi just got riskier. Follow these 4 security tips](https://www.pcworld.com/article/3212076/public-wi-fi-just-got-riskier-follow-these-4-security-tips.html) (Published: 2026-08-17)
-- [Micron stock heats up again, crossing $1,000](https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html) (Published: 2026-08-17)
-- [Nvidia cuts OpenAI Ohio data center guarantee to $120 billion](https://qz.com/nvidia-openai-ohio-data-center-backstop-081726) (Published: 2026-08-17)
-- [Wispr achieves $2B valuation with AI dictation software that started as an Iron Man fantasy](https://cryptobriefing.com/wispr-2b-valuation-dictation-software/) (Published: 2026-08-17)
-- [HIVE Digital Technologies lands $350M GPU cloud contract, deploys 2,016 Nvidia Blackwell chips in Q4](https://cryptobriefing.com/hive-digital-technologies-nvidia-gpu-cloud-contract/) (Published: 2026-08-17)
-- [GoldenEye 007 for N64 has been '100% decompiled' — success of half-decade project opens up possibilities for complex mods and ports](https://www.tomshardware.com/video-games/retro-gaming/goldeneye-007-for-n64-has-been-100-percent-decompiled-success-of-half-decade-project-opens-up-possibilities-for-complex-mods-and-ports) (Published: 2026-08-17)
-- [AI data center optical interconnect market to hit $144 billion by 2030, an over ten-fold increase from 2024 figures, according to new projections — silicon photonics expected to account for nearly two-thirds of revenue, driven by co-packaged optics](https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics) (Published: 2026-08-17)
-- [Sam Altman says four years is too long for college as AI tears up the traditional career path](https://www.techspot.com/news/113505-sam-altman-four-years-long-college-ai-tears.html) (Published: 2026-08-17)
-- [Best Buy reportedly 'fixes' 64 GB gaming laptop by removing half its RAM](https://www.notebookcheck.net/Best-Buy-reportedly-fixes-64-GB-gaming-laptop-by-removing-half-its-RAM.1370440.0.html) (Published: 2026-08-17)
-- [Cathie Wood Pouring Cash Into Least Loved Mag 7 Stock, Buying An Estimated 450,000 Shares In 45 Days](https://247wallst.com/investing/2026/08/17/cathie-wood-pouring-cash-into-least-loved-mag-7-stock-buying-an-estimated-450000-shares-in-45-days/) (Published: 2026-08-17)
+- [Groq raises $650M to scale AI inference cloud after Nvidia licensing deal](https://cryptobriefing.com/groq-raises-650m-after-nvidia-talent-loss/) (Published: 2026-08-17)
+- [OpenAI Locks In Lease for Huge Data Center in Ohio With Backing From Nvidia](https://biztoc.com/x/0483e30ecc7d47fe) (Published: 2026-08-17)
+- [Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Revealed](https://biztoc.com/x/c4ed83f5d29f5298) (Published: 2026-08-17)
+- [Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Revealed](https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/) (Published: 2026-08-17)
+- [Nvidia invests up to $3B to support OpenAI’s Ohio AI campus](https://cryptobriefing.com/nvidia-invests-billions-openai-ohio-ai-campus/) (Published: 2026-08-17)
+- [Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center](https://www.channelnewsasia.com/business/nvidia-provide-up-105-billion-guarantee-openais-ohio-data-center-6323971) (Published: 2026-08-17)
+- [Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal](https://www.channelnewsasia.com/business/nvidia-invest-15-billion-in-sb-energy-under-openai-data-center-deal-6323971) (Published: 2026-08-17)
+- [Canna-Global Acquisition announces initial partial liquidating distribution](https://www.thefly.com/cngl) (Published: 2026-08-17)
+- [55 With Less Than $250,000 Saved? These 3 ETFs Are Built for Catching Up](https://247wallst.com/investing/2026/08/17/55-with-less-than-250000-saved-these-3-etfs-are-built-for-catching-up/) (Published: 2026-08-17)
