@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-19 19:34:52**_
+_Last updated: **2026-08-19 19:55:18**_
 
 - [Nasdaq leads US stocks lower as chip sector sells off](https://cryptobriefing.com/nasdaq-chip-sector-sell-off/) (Published: 2026-08-18)
 - [M37Labs Launches Saransh, the First in a New Family of Sovereign Small Language Models](https://www.thehindubusinessline.com/brandhub/pr-release/m37labs-launches-saransh-the-first-in-a-new-family-of-sovereign-small-language-models/article71359996.ece) (Published: 2026-08-18)
