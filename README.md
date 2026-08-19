@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-19 11:39:06**_
+_Last updated: **2026-08-19 11:56:03**_
 
+- [History Says Nvidia Is Going to Disappoint Wall Street After Aug. 26](https://biztoc.com/x/409515b949b19f66) (Published: 2026-08-18)
+- [Overclocker updates Hydra overclocking tool with VRAM and power limit controls for RTX 50-series GPUs — new update gives up to +3000 MHz memory offset](https://www.tomshardware.com/pc-components/gpus/famed-overclocker-1usmus-updates-hydra-overclocking-tool-with-up-to-3000-mhz-memory-offset-new-update-gives-vram-and-power-limit-controls-to-rtx-50-series-gpus) (Published: 2026-08-18)
 - [FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI](https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854023.html) (Published: 2026-08-18)
 - [FORT Robotics to Go Public via Business Combination with Newbury Street II Acquisition Corp to Advance the Safety of Physical AI](https://www.prnewswire.com/news-releases/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp-to-advance-the-safety-of-physical-ai-302854036.html) (Published: 2026-08-18)
 - [Jerry Buss Prepaid His Estate Taxes. It Wasn’t Enough to Save His Legacy As Family Fights For Future Of Lakers](https://247wallst.com/investing/2026/08/18/jerry-buss-prepaid-his-estate-taxes-it-wasnt-enough-to-save-his-legacy-as-family-fights-for-future-of-lakers/) (Published: 2026-08-18)
@@ -9,5 +11,3 @@ _Last updated: **2026-08-19 11:39:06**_
 - [Leaker warns fans about fake PS6 price rumors and leaks](https://www.notebookcheck.net/Leaker-warns-fans-about-fake-Sony-PS6-price-rumors-and-leaks.1371466.0.html) (Published: 2026-08-18)
 - [Nvidia partners with financial giants to mobilize $500B for AI projects](https://cryptobriefing.com/nvidia-partners-with-financial-giants-to-mobilize-500b-for-ai-projects/) (Published: 2026-08-18)
 - [Reddit Fell Almost 30% This Year: 80% Gains Are In Store According to Wall Street Pros](https://247wallst.com/investing/2026/08/18/reddit-fell-almost-30-this-year-80-gains-are-in-store-according-to-wall-street-pros/) (Published: 2026-08-18)
-- [3 Growth Stocks That Could Make You Rich by 2030](https://247wallst.com/investing/2026/08/18/3-growth-stocks-that-could-make-you-rich-by-2030/) (Published: 2026-08-18)
-- [5 Dependable Dividend Stocks to Buy in August](https://247wallst.com/investing/2026/08/18/5-dependable-dividend-stocks-to-buy-in-august/) (Published: 2026-08-18)
