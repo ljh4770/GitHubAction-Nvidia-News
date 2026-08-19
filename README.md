@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-19 17:55:39**_
+_Last updated: **2026-08-19 18:35:44**_
 
+- [Dear Nvidia Stock Fans, Mark Your Calendars for August 26](https://biztoc.com/x/fca6dd932f44b539) (Published: 2026-08-18)
+- [Baidu’s revenue falls for a fifth quarter as ads keep sliding](https://thenextweb.com/news/baidu-q2-2026-earnings-revenue-fifth-drop-ai-cloud) (Published: 2026-08-18)
+- [Morgan Stanley Raises Alarm Bells: DDR4 Prices Will Jump By 50% In Q3, As Memory Makers Starve Legacy DRAM To Feed HBM](https://wccftech.com/morgan-stanley-raises-alarm-bells-ddr4-prices-will-jump-by-50-in-q3-as-memory-makers-starve-legacy-dram-to-feed-hbm/) (Published: 2026-08-18)
+- [Stock Alert: BofA Calls Nvidia Valuation 'Compelling' Ahead of Earnings](https://biztoc.com/x/a4789e2d59b4e8b6) (Published: 2026-08-18)
+- [General counsel pay hit record high in 2025](https://www.abajournal.com/news/article/gc-pay-hits-record-high-in-2025) (Published: 2026-08-18)
+- [He Runs a $251 Billion Company and Responds to Emails with Just 2 Letters: ‘I Value Efficiency’](https://www.entrepreneur.com/business-news/siemens-ceo-roland-busch-often-responds-to-emails-with-just-2-letters) (Published: 2026-08-18)
+- [Show HN: Craton Bolt – A Pure Rust, JIT-Compiled GPU SQL Engine](https://github.com/craton-co/craton-bolt) (Published: 2026-08-18)
+- [OpenAI data center deal with Nvidia comes in $145 billion lower than reported—signaling concerns of artificial demand for chips](https://biztoc.com/x/d44df37008fcca1c) (Published: 2026-08-18)
 - [Globant Appoints Sarab Narang as CEO of Glob.AI, its new AI-native tech services model](https://www.prnewswire.co.uk/news-releases/globant-appoints-sarab-narang-as-ceo-of-globai-its-new-ai-native-tech-services-model-302854415.html) (Published: 2026-08-18)
-- [Globant Appoints Sarab Narang as CEO of Glob.AI, its new AI-native tech services model](https://www.prnewswire.com/news-releases/globant-appoints-sarab-narang-as-ceo-of-globai-its-new-ai-native-tech-services-model-302854415.html) (Published: 2026-08-18)
-- [Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout](https://biztoc.com/x/aa90a8a3c23491e2) (Published: 2026-08-18)
-- [Fabrinet Drops After Earnings Dragging Down Peers Like Marvell and Amphenol](https://247wallst.com/investing/2026/08/18/fabrinet-drops-after-earnings-dragging-down-peers-like-marvell-and-amphenol/) (Published: 2026-08-18)
-- [Globant Appoints Sarab Narang as CEO of Glob.AI, its new AI-native tech services model](https://www.prnewswire.com/news-releases/globant-appoints-sarab-narang-as-ceo-of-globai-its-new-ai-native-tech-services-model-302854411.html) (Published: 2026-08-18)
-- [What Would Have to Happen for XRP to Hit $5?](https://247wallst.com/investing/cryptocurrency/2026/08/18/what-would-have-to-happen-for-xrp-to-hit-5/) (Published: 2026-08-18)
-- [Curaleaf’s Hostile Bid For Aurora Is Official](https://app.moby.co/home/news/news-curaleafs-hostile-bid-for-aurora-is-official?utm_source=yahoo_finance&amp;utm_medium=rss) (Published: 2026-08-18)
-- [Rocket Companies Slips as Mortgage Stocks Struggle: Can RKT Catch Up With UWM and Radian?](https://247wallst.com/investing/2026/08/18/rocket-companies-slips-as-mortgage-stocks-struggle-can-rkt-catch-up-with-uwm-and-radian/) (Published: 2026-08-18)
-- [ARM Stock: The $2 Billion AI Signal Investors Shouldn’t Ignore](https://247wallst.com/investing/2026/08/18/arm-stock-the-2-billion-ai-signal-investors-shouldnt-ignore/) (Published: 2026-08-18)
-- [Here’s the case for Nvidia’s stock to climb 55% from here, according to BofA](https://biztoc.com/x/3716ebaee717a0de) (Published: 2026-08-18)
