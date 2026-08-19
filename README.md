@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-19 05:58:59**_
+_Last updated: **2026-08-19 06:57:26**_
 
+- [Nvidia to provide $105bn guarantee for OpenAI data centre](https://www.rte.ie/news/business/2026/0818/1588314-nvidia-to-provide-105bn-guarantee-for-openai-data-centre/) (Published: 2026-08-18)
+- [OpenAI to lease massive new AI data center in US, backed by Nvidia](https://www.hurriyetdailynews.com/openai-to-lease-massive-new-ai-data-center-in-us-backed-by-nvidia-225752) (Published: 2026-08-18)
+- [Minisforum MS02 Ultra Fits an NVIDIA RTX 4060 in 4.8L](https://www.geeky-gadgets.com/ms02-ultra-mini-pc-desktop-gpu/) (Published: 2026-08-18)
+- [Unitree and its dancing robots waltz towards record IPO listing in China](https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk) (Published: 2026-08-18)
+- [At Beijing AI-themed bar, DeepSeek tokens come with the pints](https://economictimes.indiatimes.com/tech/artificial-intelligence/at-beijing-ai-themed-bar-deepseek-tokens-come-with-the-pints/articleshow/133313982.cms) (Published: 2026-08-18)
+- [5-star analyst sets alarming SpaceX stock price target](https://biztoc.com/x/942a5517e3eb4d38) (Published: 2026-08-18)
+- [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html) (Published: 2026-08-18)
+- [APPLE-SA-08-17-2026-2 iOS 18.7.10 and iPadOS 18.7.10](https://seclists.org/fulldisclosure/2026/Aug/42) (Published: 2026-08-18)
+- [Nvidia Scales Back $250 Billion Guarantee for OpenAI Data Center, Sources Say](https://www.naturalnews.com/2026-08-18-nvidia-scales-back-guarantee-for-openai-data-center.html) (Published: 2026-08-18)
 - [cutile-gpt 0.2.1](https://pypi.org/project/cutile-gpt/0.2.1/) (Published: 2026-08-18)
-- [Cerebras Stock Outlook: Can CBRS extend its rally?](https://m.economictimes.com/markets/us-stocks/news/cerebras-stock-outlook-can-cbrs-extend-its-rally/cerebras-stock-jumps-15/slideshow/133313722.cms) (Published: 2026-08-18)
-- [Xiaomi Gaming Monitor G25i 2026 Pushes 240Hz Into a 24.5-Inch Full HD Screen](https://the-gadgeteer.com/2026/08/18/xiaomi-gaming-monitor-g25i-2026-pushes-240hz-into-a-24-5-inch-full-hd-screen/) (Published: 2026-08-18)
-- [株式会社BackCastと株式会社ORENDA WORLD、地方創生に向けた包括連携協定を締結](https://prtimes.jp/main/html/rd/p/000000112.000101429.html) (Published: 2026-08-18)
-- [OpenAI announces massive data center in Ohio with Nvidia guarantee - Axios](https://slashdot.org/firehose.pl?op=view&amp;id=185032028) (Published: 2026-08-18)
-- [Nvidia swaps credit support for exclusive chip sales in OpenAI's Ohio data center campus](https://www.digitimes.com/news/a20260818VL211/nvidia-openai-data-center-sales-chips.html) (Published: 2026-08-18)
-- [Superhealth appoints Dunzo cofounder Dalvir Singh Suri as head of operations](https://economictimes.indiatimes.com/tech/startups/superhealth-appoints-dunzo-cofounder-dalvir-singh-suri-as-head-of-operations/articleshow/133311323.cms) (Published: 2026-08-18)
-- [Nvidia vs Broadcom: Dueling AI financing bets, Contrasting risks](https://www.digitimes.com/news/a20260818PD211/nvidia-financing-broadcom-chips-funding.html) (Published: 2026-08-18)
-- [Stocks fall, oil gains on West Asia uncertainty: Markets wrap](https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates) (Published: 2026-08-18)
-- [China's Horizon Robotics sets J7 against Nvidia, Tesla](https://www.digitimes.com/news/a20260818VL205/horizon-robotics-nvidia-tesla-automotive-production.html) (Published: 2026-08-18)
