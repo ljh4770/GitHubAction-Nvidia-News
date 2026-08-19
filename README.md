@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-19 08:57:53**_
+_Last updated: **2026-08-19 09:39:39**_
 
+- [Beyond Venture Capital: Why family offices are becoming AI’s most influential investors](https://thenextweb.com/news/family-offices-ai-investment) (Published: 2026-08-18)
+- [US AI infrastructure company Groq raises $350m Series A at $3.5bn valuation](https://biztoc.com/x/729ba3532928909e) (Published: 2026-08-18)
+- [A $21 Billion ‘Kids in Chips’ Startup Is Scooping Up Nvidia Talent](https://biztoc.com/x/07cb8236e6b63038) (Published: 2026-08-18)
+- [OpenAI announces massive data center in Ohio with Nvidia guarantee](https://biztoc.com/x/8e0ce63f7beb3e3f) (Published: 2026-08-18)
+- [Nvidia crypto mining GPUs hacked to restore locked-away VRAM — software mod unlocks 64GB of VRAM on $250 CMP 170HX](https://slashdot.org/firehose.pl?op=view&amp;id=185035438) (Published: 2026-08-18)
+- [Nvidia crypto mining GPUs hacked to restore locked-away VRAM — software mod unlocks 64GB of VRAM on $250 CMP 170HX](https://www.tomshardware.com/pc-components/gpus/nvidia-crypto-mining-gpus-hacked-to-restore-locked-away-vram-in-order-to-feed-ai-boom-software-mod-unlocks-64gb-of-vram-on-usd250-cmp-170hx) (Published: 2026-08-18)
+- [Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq](https://investorshub.advfn.com/market-news/article/34481/wall-street-futures-fall-as-middle-east-risks-oil-prices-and-canada-tariffs-take-focus-dow-jones-sp-nasdaq) (Published: 2026-08-18)
+- [Meta braces for federal child privacy trial in California](https://fortune.com/2026/08/18/meta-braces-for-federal-child-privacy-trial-in-california/) (Published: 2026-08-18)
+- [The Powerful Chinese Model Experts Warned About—and Waited for—Is Here](https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/) (Published: 2026-08-18)
 - [Dimitra Simeonidou: Embedding AI into telecom networks](https://www.telecomtv.com/content/ai/dimitra-simeonidou-embedding-ai-into-telecom-networks-56091/) (Published: 2026-08-18)
-- [Acer Nitro 60 | RTX 5070 i7-14700F 14th Gen 32GB 1TB SSD Win11 Desktop Refurb 2025 $1321.52](https://slickdeals.net/f/19892232-acer-nitro-60-rtx-5070-i7-14700f-14th-gen-32gb-1tb-ssd-win11-desktop-refurb-2025-1321-52) (Published: 2026-08-18)
-- [LG Electronics boosts robotics partnership with Nvidia](https://biztoc.com/x/8df5e465bf4a8d99) (Published: 2026-08-18)
-- [clawmetry 0.12.735](https://pypi.org/project/clawmetry/0.12.735/) (Published: 2026-08-18)
-- [LG ELECTRONICS ACCELERATES ROBOTICS COLLABORATION WITH NVIDIA](https://www.prnewswire.com/news-releases/lg-electronics-accelerates-robotics-collaboration-with-nvidia-302853855.html) (Published: 2026-08-18)
-- [SK hynix's No. 2 customer closes in on Nvidia in 1H26 sales](https://www.digitimes.com/news/a20260818VL214/sales-nvidia-revenue-2026-technology.html) (Published: 2026-08-18)
-- [Asus lifts server outlook, Supermicro orders hit record highs as Nvidia gears up to beat guidance](https://www.digitimes.com/news/a20260818PD218/nvidia-asus-guidance-supermicro-outlook.html) (Published: 2026-08-18)
-- [Castrol ON PG25 cooling fluids validated for NVIDIA AI factory and data centre infrastructure](https://www.prnewswire.com/news-releases/castrol-on-pg25-cooling-fluids-validated-for-nvidia-ai-factory-and-data-centre-infrastructure-302852773.html) (Published: 2026-08-18)
-- [Nvidia to provide $105bn guarantee for OpenAI data centre](https://www.rte.ie/news/business/2026/0818/1588314-nvidia-to-provide-105bn-guarantee-for-openai-data-centre/) (Published: 2026-08-18)
-- [OpenAI to lease massive new AI data center in US, backed by Nvidia](https://www.hurriyetdailynews.com/openai-to-lease-massive-new-ai-data-center-in-us-backed-by-nvidia-225752) (Published: 2026-08-18)
