@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-20 21:59:34**_
+_Last updated: **2026-08-20 22:35:48**_
 
+- [Lenovo Legion 5 - i9 14900HX RTX5070 OLED *Refubished* $1255 (4 replies)](https://slickdeals.net/f/19899030-lenovo-legion-5-i9-14900hx-rtx5070-oled-refubished-1255) (Published: 2026-08-19)
+- [XStocks tokenized equities hit $186M AUM, with Ethereum’s STRCx leading by market cap](https://cryptobriefing.com/xstocks-tokenized-equities-solana-strcx-ethereum/) (Published: 2026-08-19)
+- [Developing NVIDIA Holoscan applications with CLI, skills, and AI coding agents](https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/) (Published: 2026-08-19)
+- [Lenovo releases new budget gaming laptop internationally with Nvidia GeForce RTX 5060 and 144 Hz display](https://www.notebookcheck.net/Lenovo-releases-new-budget-gaming-laptop-internationally-with-Nvidia-GeForce-RTX-5060-and-144-Hz-display.1372947.0.html) (Published: 2026-08-19)
+- [TSMC’s Arizona Fab Crosses 4% of Group Sales as Orders Reshape US Chip Economics](https://wccftech.com/tsmcs-arizona-fab-crosses-4-of-group-sales-as-orders-reshape-us-chip-economics/) (Published: 2026-08-19)
+- [Stifel Has Message For Nvidia Investors Before Earnings](https://biztoc.com/x/3af14f5a8b9beb9f) (Published: 2026-08-19)
+- [nemo-retriever 26.8rc8](https://pypi.org/project/nemo-retriever/26.8rc8/) (Published: 2026-08-19)
+- [How Will Data Centers Affect Ohio’s Elections?](https://www.dailysignal.com/2026/08/19/data-centers-impact-ohio-elections/) (Published: 2026-08-19)
 - [awdk added to PyPI](https://pypi.org/project/awdk/) (Published: 2026-08-19)
 - [Fractile in talks for $6.5B valuation, a sixfold jump from its May round](https://cryptobriefing.com/fractile-valuation-sixfold-jump-anthropic/) (Published: 2026-08-19)
-- [The AI inference race moves beyond GPUs to reshape data center infrastructure](https://siliconangle.com/2026/08/19/ai-inference-infrastructure-requires-full-stack-coordination-supermicroopenstoragesummit/) (Published: 2026-08-19)
-- [Cerebras CS-4 Generates In 1 Second What A GPU Rack Needs 30 Seconds For, Powered By 4-Trillion-Transistor WSE-3 Turbo](https://wccftech.com/cerebras-cs-4-generates-in-1-second-what-a-gpu-rack-needs-30-seconds-for-powered-by-4-trillion-transistor-wse-3-turbo/) (Published: 2026-08-19)
-- [Alan Wake 2 gets long-awaited FSR 4 frame generation features in new PC update](https://www.notebookcheck.net/Alan-Wake-2-gets-long-awaited-FSR-4-frame-generation-features-in-new-PC-update.1373445.0.html) (Published: 2026-08-19)
-- [U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices](https://biztoc.com/x/6ffd52e853d7daac) (Published: 2026-08-19)
-- [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/) (Published: 2026-08-19)
-- [European Central Bank Warns That AI Crash Is Looming](https://futurism.com/future-society/european-central-bank-economy-ai-investment-crash) (Published: 2026-08-19)
-- [Are You Sure You Want a Car With a Giant Touch Screen?](https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/) (Published: 2026-08-19)
-- [Cerebras targets 20x more AI throughput with CS-4 server rack](https://4sysops.com/archives/cerebras-targets-20x-more-ai-throughput-with-cs-4-server-rack/) (Published: 2026-08-19)
