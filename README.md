@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-20 06:19:19**_
+_Last updated: **2026-08-20 07:11:34**_
 
+- [Nvidia H200 chips reach China as imports remain limited](https://www.digitimes.com/news/a20260819VL212/nvidia-bytedance-chips-tencent-beijing.html) (Published: 2026-08-19)
+- [Ethereum’s 12-GPU proving problem just got a 4-GPU answer](https://cryptoslate.com/ethereums-12-gpu-proving-problem-just-got-a-4-gpu-answer/) (Published: 2026-08-19)
+- [QC Ware Announces 2026 Q2B Copenhagen Conference Focused on the Roadmap to Quantum Value in Europe and Beyond](https://www.prnewswire.com/news-releases/qc-ware-announces-2026-q2b-copenhagen-conference-focused-on-the-roadmap-to-quantum-value-in-europe-and-beyond-302854133.html) (Published: 2026-08-19)
+- [Nvidia H200 chips reach China in small shipments: FT](https://economictimes.indiatimes.com/tech/technology/nvidia-h200-chips-reach-china-in-small-shipments-ft/articleshow/133340366.cms) (Published: 2026-08-19)
+- [China’s humanoid-maker Unitree surges more than 600% on Shanghai debut](https://www.nzherald.co.nz/business/chinas-humanoid-maker-unitree-surges-more-than-600-on-shanghai-debut/2ERDHVB2RJC4BDCM4S7XH47M44/) (Published: 2026-08-19)
+- [China allows limited Nvidia H200 shipments: Why is Beijing easing curbs?](https://www.business-standard.com/world-news/china-allows-limited-nvidia-h200-shipments-why-is-beijing-easing-curbs-126081900438_1.html) (Published: 2026-08-19)
+- [Shares fall in Asia, with Kospi down 5.7%, while oil prices jump](https://abcnews.com/Business/wireStory/shares-fall-asia-kospi-57-oil-prices-jump-135759997) (Published: 2026-08-19)
+- [Nifty trades below 24,100 level; consumer durables shares underpressure](https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-100-level-consumer-durables-shares-underpressure-126081900401_1.html) (Published: 2026-08-19)
 - [Baidu says Chinese buyers want local AI chips due to ‘supply chain’ issues](https://slashdot.org/firehose.pl?op=view&amp;id=185048268) (Published: 2026-08-19)
-- [Nvidia Stock Won't Be Overvalued by 2028: My Case for Buying NVDA Today](https://biztoc.com/x/4e159877204a20cf) (Published: 2026-08-19)
-- [Wall Street Retreats as AI Stocks Slip and Treasury Yields Remain Elevated](https://www.business-standard.com/markets/capital-market-news/wall-street-retreats-as-ai-stocks-slip-and-treasury-yields-remain-elevated-126081900365_1.html) (Published: 2026-08-19)
-- [2026 Volvo EX90 launching in Malaysia soon – EV SUV updated with 800V tech; 680 PS, 350 kW DC; CKD?](https://paultan.org/2026/08/19/2026-volvo-ex90-launching-in-malaysia-soon/) (Published: 2026-08-19)
-- [Cerebras launches new server chip and system designed to speed AI chatbots](https://economictimes.indiatimes.com/tech/technology/cerebras-launches-new-server-chip-and-system-designed-to-speed-ai-chatbots/articleshow/133338367.cms) (Published: 2026-08-19)
-- [Cerebras launches new server chip, system designed to speed AI chatbots](https://www.business-standard.com/technology/tech-news/cerebras-launches-new-server-chip-system-designed-to-speed-ai-chatbots-126081900266_1.html) (Published: 2026-08-19)
-- [Humanoid-maker Unitree surges more than 600% on Shanghai debut](https://economictimes.indiatimes.com/tech/artificial-intelligence/humanoid-maker-unitree-surges-more-than-600-on-shanghai-debut/articleshow/133337374.cms) (Published: 2026-08-19)
-- [Market opens lower amid weak global cues](https://www.business-standard.com/markets/capital-market-news/market-opens-lower-amid-weak-global-cues-126081900236_1.html) (Published: 2026-08-19)
-- [Asian shares slide, South Korea's Kospi down 5.2% as AI stocks fall](https://www.business-standard.com/markets/news/asian-shares-slide-south-korea-s-kospi-down-5-2-as-ai-stocks-fall-126081900137_1.html) (Published: 2026-08-19)
-- [Baidu says Chinese buyers want local AI chips due to ‘supply chain’ issues](https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377) (Published: 2026-08-19)
