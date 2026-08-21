@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-21 09:51:06**_
+_Last updated: **2026-08-21 10:17:43**_
 
-- [How to use your TV as a PC monitor in 3 simple steps (and without buying anything)](https://www.zdnet.com/home-and-office/home-entertainment/how-to-use-your-tv-as-a-pc-monitor/) (Published: 2026-08-20)
-- [turboocr-engine-cpu 4.0.0a7](https://pypi.org/project/turboocr-engine-cpu/4.0.0a7/) (Published: 2026-08-20)
-- [MI-07: Tom Barrett Scrambles to Bury His Data Center Past](https://prospect.org/?p=143174) (Published: 2026-08-20)
-- [Sharp China: Wang Yi Visits South Korea; Remembering Zhu Rongji; US-China Ahead of Xi's Visit; How China Monitors Foreigners](https://sinocism.com/p/sharp-china-wang-yi-visits-south) (Published: 2026-08-20)
-- [Amazon can’t quit Bezos’ drone dream](https://fortune.com/2026/08/20/amazon-cant-quit-bezos-drone-dream/) (Published: 2026-08-20)
-- [Callosum raises $100m to make AI workloads cheaper, with the British state on the cap table](https://thenextweb.com/news/callosum-100m-round-uk-sovereign-ai) (Published: 2026-08-20)
-- [Billionaire Stanley Druckenmiller May Have Just Repeated His "Big Mistake" With Nvidia -- This Time With a Chip Stock That Rose 300% in the First Half of 2026](https://biztoc.com/x/b0cf9f933a0323f0) (Published: 2026-08-20)
-- [From AI strategy to enterprise execution: The leaders shaping India’s AI transformation](https://economictimes.indiatimes.com/industry/services/education/from-ai-strategy-to-enterprise-execution-the-leaders-shaping-indias-ai-transformation/articleshow/133370822.cms) (Published: 2026-08-20)
-- [Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says](https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html) (Published: 2026-08-20)
-- [Samsung Foundry Prepares Price Hikes After Massive Demand Spike](https://www.techpowerup.com/351742/samsung-foundry-prepares-price-hikes-after-massive-demand-spike) (Published: 2026-08-20)
+- [Bitdeer locks in $400M five-year offtake deal for AI cloud facility in Malaysia](https://cryptobriefing.com/bitdeer-400m-ai-cloud-offtake-deal/) (Published: 2026-08-20)
+- [Gains in AI company stakes juice second-quarter earnings for S&P 500](https://finance.yahoo.com/markets/stocks/articles/gains-in-ai-company-stakes-juice-second-quarter-earnings-for-sp-500-100419261.html) (Published: 2026-08-20)
+- [L&T wins up to ₹5,000-crore order for Dubai's Al Maktoum International Airport](https://www.thehindubusinessline.com/companies/lt-wins-up-to-5000-crore-order-for-dubais-al-maktoum-international-airport/article71368381.ece) (Published: 2026-08-20)
+- [Congress councillor attacked, runs into MCD chairman’s office; chair thrown, property damaged](https://timesofindia.indiatimes.com/city/delhi/congress-councillor-attacked-runs-into-mcd-chairmans-office-chair-thrown-property-damaged/articleshow/133372834.cms) (Published: 2026-08-20)
+- [Indian-origin man, woman arrested in Canada over alleged $6,000 extortion during date](https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-man-woman-arrested-in-canada-over-alleged-6000-extortion-during-date/articleshow/133372877.cms) (Published: 2026-08-20)
+- [Expired curd, milk, food packed in newspapers found at Karnataka railway stations](https://timesofindia.indiatimes.com/city/bengaluru/expired-curd-milk-food-packed-in-newspapers-found-at-karnataka-railway-stations/articleshow/133373008.cms) (Published: 2026-08-20)
+- [‘Liquor bottles inside vehicle’: Minor rams speeding car into 2 women near Mumbai; 1 killed](https://timesofindia.indiatimes.com/city/thane/liquor-bottles-inside-vehicle-minor-rams-speeding-car-into-2-women-near-mumbai-1-killed/articleshow/133372828.cms) (Published: 2026-08-20)
+- ['My best shot': Nasa astronaut shares image of 2025 Maha Kumbh taken from space](https://timesofindia.indiatimes.com/science/my-best-shot-nasa-astronaut-shares-image-of-2025-maha-kumbh-taken-from-space/articleshow/133372831.cms) (Published: 2026-08-20)
+- [Maharashtra NEET UG 2026 CAP Round 1 counselling schedule revised; registration opens today](https://timesofindia.indiatimes.com/education/news/maharashtra-neet-ug-2026-cap-round-1-counselling-schedule-revised-registration-opens-today/articleshow/133372976.cms) (Published: 2026-08-20)
