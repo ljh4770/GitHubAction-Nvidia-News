@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-21 23:25:39**_
+_Last updated: **2026-08-21 23:48:42**_
 
+- [clawmetry 0.12.749](https://pypi.org/project/clawmetry/0.12.749/) (Published: 2026-08-20)
 - [clawmetry 0.12.748](https://pypi.org/project/clawmetry/0.12.748/) (Published: 2026-08-20)
 - [clawmetry 0.12.746](https://pypi.org/project/clawmetry/0.12.746/) (Published: 2026-08-20)
 - [PlayStation 5 Getting Intriguing Adventure Game Surprisingly Soon](https://www.playstationlifestyle.net/2026/08/20/honeycomb-the-world-beyond-september-2026-release-date/) (Published: 2026-08-20)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-21 23:25:39**_
 - [Column: Is 800V really 'high voltage'? —AI data centers revive an old power debate](https://www.digitimes.com/news/a20260820PD211/data-transmission-technology-data-center-cables.html) (Published: 2026-08-20)
 - [RoboStore pivots to domestic robot production amid US ban on Chinese imports](https://cryptobriefing.com/robostore-domestic-robot-production-us-ban/) (Published: 2026-08-20)
 - [NVIDIA Adds GeForce NOW Support for Firefox Browser](https://www.techpowerup.com/351778/nvidia-adds-geforce-now-support-for-firefox-browser) (Published: 2026-08-20)
-- [clawmetry 0.12.741](https://pypi.org/project/clawmetry/0.12.741/) (Published: 2026-08-20)
