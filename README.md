@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-21 12:15:25**_
+_Last updated: **2026-08-21 13:14:20**_
 
-- [Walmart reports rare comparable sales miss, shares fall](https://www.rte.ie/news/business/2026/0820/1588654-walmart-quarterly-results/) (Published: 2026-08-20)
-- [The $1 Trillion Stock Wall Street Says Could Grow Earnings 107% a Year](https://247wallst.com/investing/2026/08/20/the-1-trillion-stock-wall-street-says-could-grow-earnings-107-a-year/) (Published: 2026-08-20)
-- [Here Are Thursday’s Top Wall Street Analyst Research Calls: Alphabet, Analog Devices, Crown Castle, Ebay, EPR Properties, Etsy, Merck & Co., Shopify, TJX Companies, and More](https://247wallst.com/investing/2026/08/20/here-are-thursdays-top-wall-street-analyst-research-calls-alphabet-analog-devices-crown-castle-ebay-epr-properties-etsy-merck-co-shopify-tjx-companies-and-more/) (Published: 2026-08-20)
-- [Here’s Why Intuit Could Deliver an Upside Surprise For Investors on August 25th](https://247wallst.com/investing/2026/08/20/heres-why-intuit-could-deliver-an-upside-surprise-for-investors-on-august-25th/) (Published: 2026-08-20)
-- [penguin-burner 0.7.9](https://pypi.org/project/penguin-burner/0.7.9/) (Published: 2026-08-20)
-- [Qwen 3.8-27B Outperforms Meta’s Muse Glimmer in Local AI Tests](https://www.geeky-gadgets.com/serve-qwen-3-8-27b-fast/) (Published: 2026-08-20)
-- [ABS Cyclone Aqua Intel Core 5 120 Arc A580 Gaming Desktop PC for $730 + free shipping](https://www.dealnews.com/ABS-Cyclone-Aqua-Intel-Core-5-120-Arc-A580-Gaming-Desktop-PC-for-730-free-shipping/22064920.html) (Published: 2026-08-20)
-- [AMD bets on affordable AI chips amid financing challenges](https://cryptobriefing.com/amd-taalas-acquisition-ai-inference-chips/) (Published: 2026-08-20)
-- [Windows Can Purposely Delete The dGPU Driver If A Gaming Laptop Has Exclusively Switched To “Eco” Mode For Several Days; OS Treats It As An Unplugged USB](https://wccftech.com/windows-deletes-dgpu-driver-gaming-laptop-eco-mode/) (Published: 2026-08-20)
-- [Sharon AI Successfully Delivers AI Cloud Deployment for Global Technology Customer](https://www.prnewswire.com/news-releases/sharon-ai-successfully-delivers-ai-cloud-deployment-for-global-technology-customer-302856338.html) (Published: 2026-08-20)
+- [Cloudera Anywhere Cloud Launches: One Control Plane for AI and Data Across Public, Sovereign, and On-Prem Environments](https://www.storagereview.com/news/cloudera-anywhere-cloud-launches-one-control-plane-for-ai-and-data-across-public-sovereign-and-on-prem-environments) (Published: 2026-08-20)
+- [Zayo Stays Ahead of AI Infrastructure Demand Through Long-Term Fiber Supply Agreement with Corning](https://financialpost.com/pmn/business-wire-news-releases-pmn/zayo-stays-ahead-of-ai-infrastructure-demand-through-long-term-fiber-supply-agreement-with-corning) (Published: 2026-08-20)
+- [SK Hynix to pay 60% of bonuses in stock instead of cash](https://cryptobriefing.com/sk-hynix-stock-bonuses-cash/) (Published: 2026-08-20)
+- [3 Stocks That Win If the US-Canada Tariff Pause Becomes a Deal](https://247wallst.com/investing/2026/08/20/3-stocks-that-win-if-the-us-canada-tariff-pause-becomes-a-deal/) (Published: 2026-08-20)
+- [Private Credit Is Wall Street’s Favorite Trade and These 3 ETFs Hand Regular Investors Up to 11 Percent](https://247wallst.com/investing/2026/08/20/private-credit-is-wall-streets-favorite-trade-and-these-3-etfs-hand-regular-investors-up-to-11-percent/) (Published: 2026-08-20)
+- [iQIYI Is Betting Big on AI as Its Core Business Comes Under Pressure](https://247wallst.com/investing/2026/08/20/iqiyi-is-betting-big-on-ai-as-its-core-business-comes-under-pressure/) (Published: 2026-08-20)
+- [One new option listing and two option delistings on August 20th](https://www.thefly.com/btln) (Published: 2026-08-20)
+- [Bybit Launches AI Future City Campaign Connecting AI Market Themes With TradFi Perpetuals](https://www.prnewswire.com/news-releases/bybit-launches-ai-future-city-campaign-connecting-ai-market-themes-with-tradfi-perpetuals-302856402.html) (Published: 2026-08-20)
+- [DCAI and Corti Launch Sovereign AI Control Layer for European Enterprises - Trifork First to Adopt as Implementation Partner](https://www.prnewswire.com/news-releases/dcai-and-corti-launch-sovereign-ai-control-layer-for-european-enterprises---trifork-first-to-adopt-as-implementation-partner-302856390.html) (Published: 2026-08-20)
