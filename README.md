@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-20 23:54:49**_
+_Last updated: **2026-08-21 01:12:48**_
 
+- [nemo-retriever 26.8rc9](https://pypi.org/project/nemo-retriever/26.8rc9/) (Published: 2026-08-20)
+- [Nvidia Weighs Investment in Round Valuing Mercor at $20 Billion](https://biztoc.com/x/c36fd1c4f60ae24c) (Published: 2026-08-20)
+- [Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding](https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/) (Published: 2026-08-20)
+- [Cathie Wood’s Ark Invest buys 78,756 shares of Cerebras](https://cryptobriefing.com/ark-invest-buys-cerebras-shares-2/) (Published: 2026-08-20)
+- [Why AI infrastructure must be built in the open](https://www.redhat.com/en/blog/why-ai-infrastructure-must-be-built-open) (Published: 2026-08-20)
 - [AMD inches closer to its goal of making AI suck less ... energy](https://www.theregister.com/systems/2026/08/20/amd-inches-closer-to-its-goal-of-making-ai-suck-less-energy/5289990) (Published: 2026-08-19)
 - [SOXL Turns Every 1% Nvidia Move Into 3%. Here’s What $10,000 Did in the Last 12 Months](https://biztoc.com/x/203b3bbe0a24b46b) (Published: 2026-08-19)
 - [Nvidia Weighs Investment in Round Valuing Mercor at $20 Billion](https://www.pymnts.com/news/investment-tracker/2026/nvidia-weighs-investment-in-round-valuing-mercor-at-20-billion/) (Published: 2026-08-19)
 - [megatron-fsdp 0.6.0](https://pypi.org/project/megatron-fsdp/0.6.0/) (Published: 2026-08-19)
-- [Louis Navellier sets eye-opening Nvidia stock price target for rest of this year](https://biztoc.com/x/dafed1d6461aae60) (Published: 2026-08-19)
-- [Wang Yi in South Korea; Unitree IPO; PRC tells EU to pound sand over JD.com; H200 purchases; Youth unemployment rises](https://sinocism.com/p/wang-yi-in-south-korea-unitree-ipo) (Published: 2026-08-19)
-- [SerpApi Surpasses 1.5 Million Activated User Accounts, Empowering Developers Everywhere with Structured Access to the World's Search Data](https://www.prnewswire.com/news-releases/serpapi-surpasses-1-5-million-activated-user-accounts-empowering-developers-everywhere-with-structured-access-to-the-worlds-search-data-302855745.html) (Published: 2026-08-19)
-- [Stripe buys AI model router OpenRouter in reported $7.5B deal](https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/) (Published: 2026-08-19)
-- [Lenovo Legion 5 - i9 14900HX RTX5070 OLED *Refubished* $1255 (4 replies)](https://slickdeals.net/f/19899030-lenovo-legion-5-i9-14900hx-rtx5070-oled-refubished-1255) (Published: 2026-08-19)
-- [XStocks tokenized equities hit $186M AUM, with Ethereum’s STRCx leading by market cap](https://cryptobriefing.com/xstocks-tokenized-equities-solana-strcx-ethereum/) (Published: 2026-08-19)
