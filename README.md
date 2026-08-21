@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-21 13:14:20**_
+_Last updated: **2026-08-21 13:59:50**_
 
-- [Cloudera Anywhere Cloud Launches: One Control Plane for AI and Data Across Public, Sovereign, and On-Prem Environments](https://www.storagereview.com/news/cloudera-anywhere-cloud-launches-one-control-plane-for-ai-and-data-across-public-sovereign-and-on-prem-environments) (Published: 2026-08-20)
-- [Zayo Stays Ahead of AI Infrastructure Demand Through Long-Term Fiber Supply Agreement with Corning](https://financialpost.com/pmn/business-wire-news-releases-pmn/zayo-stays-ahead-of-ai-infrastructure-demand-through-long-term-fiber-supply-agreement-with-corning) (Published: 2026-08-20)
-- [SK Hynix to pay 60% of bonuses in stock instead of cash](https://cryptobriefing.com/sk-hynix-stock-bonuses-cash/) (Published: 2026-08-20)
-- [3 Stocks That Win If the US-Canada Tariff Pause Becomes a Deal](https://247wallst.com/investing/2026/08/20/3-stocks-that-win-if-the-us-canada-tariff-pause-becomes-a-deal/) (Published: 2026-08-20)
-- [Private Credit Is Wall Street’s Favorite Trade and These 3 ETFs Hand Regular Investors Up to 11 Percent](https://247wallst.com/investing/2026/08/20/private-credit-is-wall-streets-favorite-trade-and-these-3-etfs-hand-regular-investors-up-to-11-percent/) (Published: 2026-08-20)
-- [iQIYI Is Betting Big on AI as Its Core Business Comes Under Pressure](https://247wallst.com/investing/2026/08/20/iqiyi-is-betting-big-on-ai-as-its-core-business-comes-under-pressure/) (Published: 2026-08-20)
-- [One new option listing and two option delistings on August 20th](https://www.thefly.com/btln) (Published: 2026-08-20)
-- [Bybit Launches AI Future City Campaign Connecting AI Market Themes With TradFi Perpetuals](https://www.prnewswire.com/news-releases/bybit-launches-ai-future-city-campaign-connecting-ai-market-themes-with-tradfi-perpetuals-302856402.html) (Published: 2026-08-20)
-- [DCAI and Corti Launch Sovereign AI Control Layer for European Enterprises - Trifork First to Adopt as Implementation Partner](https://www.prnewswire.com/news-releases/dcai-and-corti-launch-sovereign-ai-control-layer-for-european-enterprises---trifork-first-to-adopt-as-implementation-partner-302856390.html) (Published: 2026-08-20)
+- [Waymo lifts the lid on the ‘brain’ powering its robotaxis](https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers) (Published: 2026-08-20)
+- [CoreWeave Lands Multibillion-Dollar Hudson River Deal as Wall Street Races for Nvidia Chips](https://www.benzinga.com/markets/prediction-markets/26/08/61329962/coreweave-hudson-river-ai-deal?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral) (Published: 2026-08-20)
+- [I was there for the dot-com burst. Here's how the AI bubble will pop.](https://www.businessinsider.com/ai-bubble-burst-stock-market-crash-boom-dotcom-financial-crisis-2026-8#article) (Published: 2026-08-20)
+- [I was there for the dot-com burst. Here's how the AI bubble will pop.](https://www.businessinsider.com/ai-bubble-burst-stock-market-crash-boom-dotcom-financial-crisis-2026-8) (Published: 2026-08-20)
+- [L&T wins up to ₹5,000-crore order for Dubai's Al Maktoum International Airport](https://www.thehindubusinessline.com/economy/logistics/lt-wins-up-to-5000-crore-order-for-dubais-al-maktoum-international-airport/article71368381.ece) (Published: 2026-08-20)
+- [White House tech strategy leaves open-weight AI off its critical list](https://thenextweb.com/news/white-house-strategy-open-weight-ai-critical-technology-list) (Published: 2026-08-20)
+- [Prediction: Micron Stock Could Go Parabolic After Aug. 26](https://biztoc.com/x/103806c6b7245f2c) (Published: 2026-08-20)
+- [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146) (Published: 2026-08-20)
+- [Azio AI Holdings Announces Atlas One, a 500+ Acre Site Designed for Up to 500 MW of Behind‐the‐Meter Power](https://financialpost.com/globe-newswire/azio-ai-holdings-announces-atlas-one-a-500-acre-site-designed-for-up-to-500-mw-of-behind‐the‐meter-power) (Published: 2026-08-20)
+- [Zayo deepens fiber ties with Corning amid AI infrastructure demand surge](https://cryptobriefing.com/zayo-corning-fiber-supply-ai-demand/) (Published: 2026-08-20)
