@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-21 21:43:30**_
+_Last updated: **2026-08-21 22:01:01**_
 
 - [NVIDIA Adds GeForce NOW Support for Firefox Browser](https://www.techpowerup.com/351778/nvidia-adds-geforce-now-support-for-firefox-browser) (Published: 2026-08-20)
 - [clawmetry 0.12.741](https://pypi.org/project/clawmetry/0.12.741/) (Published: 2026-08-20)
