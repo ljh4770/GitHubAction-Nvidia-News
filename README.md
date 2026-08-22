@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-22 22:06:47**_
+_Last updated: **2026-08-22 22:35:41**_
 
+- [Inside Jason Kelce’s Potty Humor Marketing Ploy Against AI Data Centers](https://www.cnet.com/tech/services-and-software/jason-kelce-liquid-death-marketing-stunt-ai-data-centers/) (Published: 2026-08-21)
 - [Finovate Global Germany: Spend Management, Embedded Finance, and Instant Payments](https://finovate.com/finovate-global-germany-spend-management-embedded-finance-and-instant-payments/) (Published: 2026-08-21)
 - [Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch](https://slashdot.org/firehose.pl?op=view&amp;id=185090904) (Published: 2026-08-21)
 - [Methoryn 0.1.60](https://pypi.org/project/methoryn/0.1.60/) (Published: 2026-08-21)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-22 22:06:47**_
 - [Proton 11.0-2 is out with lots of gaming fixes for Linux / SteamOS, Steam Deck, Steam Machine](https://www.gamingonlinux.com/2026/08/proton-11-0-2-is-out-with-lots-of-gaming-fixes-for-linux-steamos-steam-deck-steam-machine/) (Published: 2026-08-21)
 - [Methoryn 0.1.59](https://pypi.org/project/methoryn/0.1.59/) (Published: 2026-08-21)
 - [nvidia-kvcr added to PyPI](https://pypi.org/project/nvidia-kvcr/) (Published: 2026-08-21)
-- [Anthropic plans to build in-house AI chips as compute costs hit $19B](https://cryptobriefing.com/anthropic-in-house-silicon-custom-chip-team/) (Published: 2026-08-21)
