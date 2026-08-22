@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-22 05:48:53**_
+_Last updated: **2026-08-22 06:15:04**_
 
+- [Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation](https://biztoc.com/x/22ccb648ecb63c1c) (Published: 2026-08-21)
 - [His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years](https://biztoc.com/x/84f600788c60b612) (Published: 2026-08-21)
 - [His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.](https://www.businessinsider.com/robotics-chatgpt-moment-will-take-years-unitree-ceo-2026-8) (Published: 2026-08-21)
 - [His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.](https://www.businessinsider.com/robotics-chatgpt-moment-will-take-years-unitree-ceo-2026-8#article) (Published: 2026-08-21)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-22 05:48:53**_
 - [Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training](https://cryptobriefing.com/tech-giants-lawsuit-ai-voice-training-bipa/) (Published: 2026-08-21)
 - [Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity](https://biztoc.com/x/dcfea2d6fdb3da3e) (Published: 2026-08-21)
 - [Workplace mood-monitoring tech may not be something to smile about](https://www.irishtimes.com/business/work/2026/08/21/workplace-mood-monitoring-tech-may-not-be-something-to-smile-about/) (Published: 2026-08-21)
-- [clawmetry 0.12.750](https://pypi.org/project/clawmetry/0.12.750/) (Published: 2026-08-21)
