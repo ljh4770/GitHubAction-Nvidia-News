@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-22 07:02:41**_
+_Last updated: **2026-08-22 07:39:19**_
 
+- [Lenovo intros new 16-inch ThinkPad in the US with Intel Panther Lake, 64GB LPCAMM2 RAM, and up to RTX 5070 12GB](https://www.notebookcheck.net/Lenovo-intros-new-16-inch-ThinkPad-in-the-US-with-Intel-Panther-Lake-64GB-LPCAMM2-RAM-and-up-to-RTX-5070-12GB.1373800.0.html) (Published: 2026-08-21)
 - [LG 27GX790A-B 27-inch Ultragear OLED QHD 1440p 480Hz Gaming Monitor $467.97](https://slickdeals.net/f/19905216-lg-27gx790a-b-27-inch-ultragear-oled-qhd-1440p-480hz-gaming-monitor-467-97) (Published: 2026-08-21)
 - [Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation](https://biztoc.com/x/22ccb648ecb63c1c) (Published: 2026-08-21)
 - [His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years](https://biztoc.com/x/84f600788c60b612) (Published: 2026-08-21)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-22 07:02:41**_
 - [specfix added to PyPI](https://pypi.org/project/specfix/) (Published: 2026-08-21)
 - [Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins](https://www.theregister.com/off-prem/2026/08/21/alibaba-cloud-plans-to-use-fewer-western-chips-to-boost-its-already-huge-ai-margins/5290815) (Published: 2026-08-21)
 - [Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training](https://cryptobriefing.com/tech-giants-lawsuit-ai-voice-training-bipa/) (Published: 2026-08-21)
-- [Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity](https://biztoc.com/x/dcfea2d6fdb3da3e) (Published: 2026-08-21)
