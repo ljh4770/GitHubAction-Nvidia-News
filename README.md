@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-22 21:50:11**_
+_Last updated: **2026-08-22 22:06:47**_
 
+- [Finovate Global Germany: Spend Management, Embedded Finance, and Instant Payments](https://finovate.com/finovate-global-germany-spend-management-embedded-finance-and-instant-payments/) (Published: 2026-08-21)
+- [Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch](https://slashdot.org/firehose.pl?op=view&amp;id=185090904) (Published: 2026-08-21)
 - [Methoryn 0.1.60](https://pypi.org/project/methoryn/0.1.60/) (Published: 2026-08-21)
 - [Nvidia posts longest losing streak in nearly five years](https://cryptobriefing.com/nvidia-longest-losing-streak-five-years/) (Published: 2026-08-21)
 - [brainpatch added to PyPI](https://pypi.org/project/brainpatch/) (Published: 2026-08-21)
@@ -9,5 +11,3 @@ _Last updated: **2026-08-22 21:50:11**_
 - [Methoryn 0.1.59](https://pypi.org/project/methoryn/0.1.59/) (Published: 2026-08-21)
 - [nvidia-kvcr added to PyPI](https://pypi.org/project/nvidia-kvcr/) (Published: 2026-08-21)
 - [Anthropic plans to build in-house AI chips as compute costs hit $19B](https://cryptobriefing.com/anthropic-in-house-silicon-custom-chip-team/) (Published: 2026-08-21)
-- [Young Americans don’t trust tech titan ‘super villians’ — and it could be fueling socialism: poll](https://nypost.com/2026/08/21/us-news/young-americans-dont-trust-tech-titans-and-it-could-be-fueling-socialism-poll/) (Published: 2026-08-21)
-- [Anthropic hires Google chip veteran to advance hardware efforts](https://cryptobriefing.com/anthropic-hires-google-chip-veteran-silicon-team/) (Published: 2026-08-21)
