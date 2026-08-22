@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-22 11:52:52**_
+_Last updated: **2026-08-22 12:24:37**_
 
+- [Supermicro fires several employees following investigation into $2.5 billion China AI chip smuggling — claims that senior management had no knowledge of illicit transactions](https://www.tomshardware.com/tech-industry/big-tech/supermicro-fires-several-employees-following-investigation-into-usd2-5-billion-china-ai-chip-smuggling-claims-that-senior-management-had-no-knowledge-of-illicit-transactions) (Published: 2026-08-21)
+- [1 Veteran Analyst Sees Nvidia Delivering Its Biggest Revenue Beat Ever on Aug. 26](https://biztoc.com/x/16fe42a1c9c1665f) (Published: 2026-08-21)
+- [Broadcom seeks more than $60bn in debt to fund AI chips for Anthropic](https://thenextweb.com/news/broadcom-60bn-ai-chip-debt-anthropic) (Published: 2026-08-21)
+- [Here Are Friday’s Top Wall Street Analyst Research Calls: Broadcom, Equifax, Hubbell, Marvell Technology, NVIDIA, SpaceX, Portland General Electric, Taylor Devices, Teradyne, and More](https://biztoc.com/x/160cfe6c68449859) (Published: 2026-08-21)
+- [Something Big Could Happen To NVIDIA Stock on August 26](https://biztoc.com/x/109d77fa7c41acdc) (Published: 2026-08-21)
+- [Nvidia Vs Micron: Among The Best-Positioned AI Plays as Treasury Yields Spook The Market](https://biztoc.com/x/ea464dccc77b4b90) (Published: 2026-08-21)
+- [Huge $770 discount drops HP’s OMEN 16 OLED gaming laptop to its lowest price for Best Buy’s 60th Anniversary sale](http://9to5toys.com/2026/08/21/huge-770-discount-hp-omen-16-oled-gaming-laptop-to-its-lowest-price/) (Published: 2026-08-21)
+- [Nvidia pays Poolside $6bn to license its model factory and hire 109 staff](https://thenextweb.com/news/nvidia-poolside-6bn-model-factory-licence) (Published: 2026-08-21)
+- [Nvidia denies report it will ship Groq-based LPUs to China by year-end — says there is 'no China-specific LPU product in our roadmap'](https://slashdot.org/firehose.pl?op=view&amp;id=185083068) (Published: 2026-08-21)
 - [NVIDIA Reportedly Locks Multi-Year DRAM Deals With SK hynix and Micron as Memory Shortage Stretches to 2028](https://wccftech.com/nvidia-reportedly-locks-multi-year-dram-deals-with-sk-hynix-and-micron-as-memory-shortage-stretches-to-2028/) (Published: 2026-08-21)
-- [H200 AI GPUs finally reach China under case-by-case import licenses, but it's already too late for Nvidia — homemade chips corner the China market as country seeks semiconductor independence](https://www.tomshardware.com/pc-components/gpus/china-approves-first-nvidia-h200-deliveries-to-bytedance-and-tencent-under-case-by-case-import-licenses) (Published: 2026-08-21)
-- [AOC Launches Four Budget Gaming Monitors, Boasting HD, QHD, And WQHD Resolutions With Up To 260 Hz](https://wccftech.com/aoc-launches-four-budget-gaming-monitors-boasting-hd-qhd-and-wqhd-resolutions-with-up-to-260-hz/) (Published: 2026-08-21)
-- [Nvidia denies report it will ship Groq-based LPUs to China by year-end — says there is 'no China-specific LPU product in our roadmap'](https://www.tomshardware.com/tech-industry/semiconductors/nvidia-denies-report-it-will-ship-groq-based-lpus-to-china-by-year-end) (Published: 2026-08-21)
-- [Sandisk's new $2,200 NAS SSD lets you fill the drive every day for five years — 7.68TB M.2 flaunts eye-popping 14,000 TBW rating](https://www.tomshardware.com/pc-components/ssds/sandisks-new-nas-ssd-lets-you-fill-the-drive-every-day-for-five-years-7-68tb-m-2-flaunts-eye-popping-14-000-tbw-rating) (Published: 2026-08-21)
-- [Anthropic Develops Custom AI Chips to Cut NVIDIA Reliance](https://www.geeky-gadgets.com/anthropic-custom-ai-chips/) (Published: 2026-08-21)
-- [Top 5 ROG Gaming Laptops You Should Have on Your Radar](https://www.iphoneincanada.ca/2026/08/21/top-5-rog-gaming-laptops-you-should-have-on-your-radar/) (Published: 2026-08-21)
-- [Nvidia earnings could revive stalling stock market if trends break](https://cryptobriefing.com/nvidia-earnings-august-2026-stock-market-impact/) (Published: 2026-08-21)
-- [No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know](https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html) (Published: 2026-08-21)
-- [MSI MPG 322UR QD-OLED X24 Gaming Monitor Review – Viewing Experience That Will Blow You Away](https://wccftech.com/review/msi-mpg-322ur-qd-oled-x24-gaming-monitor-review/) (Published: 2026-08-21)
