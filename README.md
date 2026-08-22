@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-21 23:48:42**_
+_Last updated: **2026-08-22 00:23:39**_
 
+- [Why Walmart Stock Fell Today](https://biztoc.com/x/d2f21868a8fdddeb) (Published: 2026-08-21)
+- [NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents](https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/) (Published: 2026-08-21)
+- [Nvidia pays $6B to license AI models from Poolside, invests $1B in the startup](https://cryptobriefing.com/nvidia-6b-poolside-ai-licensing-deal/) (Published: 2026-08-21)
+- [A Federal Judge Ruled Judges Are Immune Even If AI Wrote Their Rulings](https://startupfortune.com/a-federal-judge-ruled-judges-are-immune-even-if-ai-wrote-their-rulings/) (Published: 2026-08-21)
+- [Merge tag 'vfio-v7.3-rc1' of https://github.com/awilliam/linux-vfio](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a625b2a387628df94e385faf5c81bf252f304ed9) (Published: 2026-08-20)
 - [clawmetry 0.12.749](https://pypi.org/project/clawmetry/0.12.749/) (Published: 2026-08-20)
 - [clawmetry 0.12.748](https://pypi.org/project/clawmetry/0.12.748/) (Published: 2026-08-20)
 - [clawmetry 0.12.746](https://pypi.org/project/clawmetry/0.12.746/) (Published: 2026-08-20)
 - [PlayStation 5 Getting Intriguing Adventure Game Surprisingly Soon](https://www.playstationlifestyle.net/2026/08/20/honeycomb-the-world-beyond-september-2026-release-date/) (Published: 2026-08-20)
 - [Why Memory Performance Is More Important Than Ever In Modern Computing](https://wccftech.com/why-memory-performance-is-more-important-than-ever-in-modern-computing/) (Published: 2026-08-20)
-- [Groq’s $350M mega-round and ITC Vegas 2026](https://www.cbinsights.com/research/newsletter-august-20/) (Published: 2026-08-20)
-- [This Bitcoin miner just signed a $350 million AI deal, but it needs $185 million to make it work](https://cryptoslate.com/this-bitcoin-miner-just-signed-a-350-million-ai-deal-but-it-needs-185-million-to-make-it-work/) (Published: 2026-08-20)
-- [Column: Is 800V really 'high voltage'? —AI data centers revive an old power debate](https://www.digitimes.com/news/a20260820PD211/data-transmission-technology-data-center-cables.html) (Published: 2026-08-20)
-- [RoboStore pivots to domestic robot production amid US ban on Chinese imports](https://cryptobriefing.com/robostore-domestic-robot-production-us-ban/) (Published: 2026-08-20)
-- [NVIDIA Adds GeForce NOW Support for Firefox Browser](https://www.techpowerup.com/351778/nvidia-adds-geforce-now-support-for-firefox-browser) (Published: 2026-08-20)
