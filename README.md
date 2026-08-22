@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-22 16:43:40**_
+_Last updated: **2026-08-22 17:01:33**_
 
+- [Cramer Targets Stanley Black & Decker as the Pick-and-Shovel Play on Home Renovation Boom](https://247wallst.com/investing/2026/08/21/cramer-targets-stanley-black-decker-as-the-pick-and-shovel-play-on-home-renovation-boom/) (Published: 2026-08-21)
+- [Broadcom’s AI Boom: Is a 2x Stock Gain Still Within Reach?](https://247wallst.com/investing/2026/08/21/broadcoms-ai-boom-is-a-2x-stock-gain-still-within-reach/) (Published: 2026-08-21)
+- [These 2 High-Yield Stocks Could Thrive If the Fed Starts Hiking Rates Again](https://247wallst.com/investing/2026/08/21/these-2-high-yield-stocks-could-thrive-if-the-fed-starts-hiking-rates-again/) (Published: 2026-08-21)
+- [2026.34: App Snore](https://stratechery.com/2026/app-snore/) (Published: 2026-08-21)
+- [Originally $1,000 LG OLED 480Hz UltraGear gaming monitor just hit a new $468 all-time low](http://9to5toys.com/2026/08/21/lg-oled-480hz-ultragear-gaming-monitor-just-hit-a-new-468-all-time-low/) (Published: 2026-08-21)
+- [Why is the DOJ investigating Andreessen Horowitz’s board seats? | TechCrunch](https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/) (Published: 2026-08-21)
+- [Irish shares rise on Friday but still behind on the week](https://www.irishtimes.com/business/2026/08/21/irish-shares-rise-on-friday-but-still-behind-on-the-week/) (Published: 2026-08-21)
+- [Six Days Before Nvidia Reports, a Billionaire Says AI Adds ‘Literally Zero’](https://biztoc.com/x/768a22b70c7f182e) (Published: 2026-08-21)
+- [Six Days Before Nvidia Reports, a Billionaire Says AI Adds ‘Literally Zero’](https://247wallst.com/investing/2026/08/21/six-days-before-nvidia-reports-a-billionaire-says-ai-adds-literally-zero/) (Published: 2026-08-21)
 - [NVIDIA Built Its AVO Coding Agent To Optimize CUDA GPU Kernels, And It Just Achieved A 100% Score On A Public Test Without Receiving Any Prior Instruction](https://wccftech.com/nvidia-built-its-avo-coding-agent-to-optimize-cuda-gpu-kernels-and-it-just-achieved-a-100-score-on-a-public-test-without-receiving-any-prior-instruction/) (Published: 2026-08-21)
-- [AI Chip Titan Nvidia Headlines Earnings Calendar; Salesforce, Intuit Also On Deck](https://biztoc.com/x/01dfda57d2eb49ec) (Published: 2026-08-21)
-- [Wall Street Says Nebius Group ARR Can 10X in 4 Years](https://247wallst.com/investing/2026/08/21/wall-street-says-nebius-group-arr-can-10x-in-4-years/) (Published: 2026-08-21)
-- [One Wall Street Analyst Thinks SoFi Stock Could Jump 20%. Here’s Why.](https://247wallst.com/investing/2026/08/21/one-wall-street-analyst-thinks-sofi-stock-could-jump-20-heres-why/) (Published: 2026-08-21)
-- [Samsung Electronics expects shareholder returns up to $80 billion this year](https://www.business-standard.com/world-news/samsung-electronics-expects-shareholder-returns-up-to-80-billion-this-year-126082101182_1.html) (Published: 2026-08-21)
-- [GPU-Accelerated Clustering for Financial Instruments at Scale](https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/) (Published: 2026-08-21)
-- [A Jensen Huang double-signed workstation Blackwell GPU sold for over $57,000](https://biztoc.com/x/6b47c92aeb6535d3) (Published: 2026-08-21)
-- [Global stocks close out a tough week as bond yields, oil stay high](https://finance.yahoo.com/news/asia-shares-downbeat-week-bond-012255911.html) (Published: 2026-08-21)
-- [What happens when a GPU reads memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory) (Published: 2026-08-21)
-- [CleanSpark Sinks 6% Even as Bitcoin Jumps 7%, MARA Holds Flat as Traders Weigh Tensions Among AI Miners](https://247wallst.com/investing/2026/08/21/cleanspark-sinks-6-even-as-bitcoin-jumps-7-mara-holds-flat-as-traders-weigh-tensions-among-ai-miners/) (Published: 2026-08-21)
