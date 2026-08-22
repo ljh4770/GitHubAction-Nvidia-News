@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-22 06:15:04**_
+_Last updated: **2026-08-22 07:02:41**_
 
+- [LG 27GX790A-B 27-inch Ultragear OLED QHD 1440p 480Hz Gaming Monitor $467.97](https://slickdeals.net/f/19905216-lg-27gx790a-b-27-inch-ultragear-oled-qhd-1440p-480hz-gaming-monitor-467-97) (Published: 2026-08-21)
 - [Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation](https://biztoc.com/x/22ccb648ecb63c1c) (Published: 2026-08-21)
 - [His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years](https://biztoc.com/x/84f600788c60b612) (Published: 2026-08-21)
 - [His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.](https://www.businessinsider.com/robotics-chatgpt-moment-will-take-years-unitree-ceo-2026-8) (Published: 2026-08-21)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-22 06:15:04**_
 - [Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins](https://www.theregister.com/off-prem/2026/08/21/alibaba-cloud-plans-to-use-fewer-western-chips-to-boost-its-already-huge-ai-margins/5290815) (Published: 2026-08-21)
 - [Apple, Amazon, Meta, Microsoft, Nvidia, and Samsung face class action suits over AI voice training](https://cryptobriefing.com/tech-giants-lawsuit-ai-voice-training-bipa/) (Published: 2026-08-21)
 - [Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity](https://biztoc.com/x/dcfea2d6fdb3da3e) (Published: 2026-08-21)
-- [Workplace mood-monitoring tech may not be something to smile about](https://www.irishtimes.com/business/work/2026/08/21/workplace-mood-monitoring-tech-may-not-be-something-to-smile-about/) (Published: 2026-08-21)
