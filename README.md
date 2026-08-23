@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-23 04:57:42**_
+_Last updated: **2026-08-23 05:34:29**_
 
 - [As Nvidia prepares to report earnings, growth-rate must slow down sooner or later](https://www.irishtimes.com/your-money/2026/08/22/as-nvidia-prepares-to-report-earnings-growth-rate-must-slow-down-sooner-or-later/) (Published: 2026-08-22)
 - [How AI Is Splitting the Right](https://www.theamericanconservative.com/how-ai-is-splitting-the-right/) (Published: 2026-08-22)
