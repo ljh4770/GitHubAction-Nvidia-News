@@ -1,6 +1,8 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-23 09:57:04**_
+_Last updated: **2026-08-23 10:28:21**_
 
+- [semantic-harness added to PyPI](https://pypi.org/project/semantic-harness/) (Published: 2026-08-22)
+- [clawmetry 0.12.752](https://pypi.org/project/clawmetry/0.12.752/) (Published: 2026-08-22)
 - [Every S&P 500 Index Fund Owner Holds More Nvidia Than Apple](https://biztoc.com/x/cf1d7b169ef41d46) (Published: 2026-08-22)
 - [The veteran Fortune 500 CEO who turned an 80-year-old AC company into an AI darling](https://biztoc.com/x/777bebc945da1826) (Published: 2026-08-22)
 - [Vertiv’s David Cote transforms AC maker into AI powerhouse worth over $100B](https://cryptobriefing.com/vertiv-cote-ai-data-center-powerhouse/) (Published: 2026-08-22)
@@ -9,5 +11,3 @@ _Last updated: **2026-08-23 09:57:04**_
 - [The veteran Fortune 500 CEO who turned an 80-year-old AC company into an AI darling](https://fortune.com/article/dave-cote-vertiv-stock-performance-ai-boom/) (Published: 2026-08-22)
 - [Nvidia invests in data center developer Cloverleaf Infrastructure](https://economictimes.indiatimes.com/tech/technology/nvidia-invests-in-data-center-developer-cloverleaf-infrastructure/articleshow/133419940.cms) (Published: 2026-08-22)
 - [How to watch Match of the Day online from anywhere — free Premier League highlights for 2026/27](https://www.techradar.com/how-to-watch/match-of-the-day-free-online-from-anywhere) (Published: 2026-08-22)
-- [免刷 BIOS！超頻工具 HYDRA 2.3B Pro 解鎖 RTX 50 系列顯卡 125% 功耗牆與 36Gbps 顯存上限](https://www.kocpc.com.tw/archives/666082) (Published: 2026-08-22)
-- [AMD Investors Must Be Ready For Major News On Aug. 26](https://biztoc.com/x/f8564501ef7e1dca) (Published: 2026-08-22)
