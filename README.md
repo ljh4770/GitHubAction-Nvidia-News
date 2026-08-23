@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-23 09:01:17**_
+_Last updated: **2026-08-23 09:36:40**_
 
 - [Every S&P 500 Index Fund Owner Holds More Nvidia Than Apple](https://biztoc.com/x/cf1d7b169ef41d46) (Published: 2026-08-22)
 - [The veteran Fortune 500 CEO who turned an 80-year-old AC company into an AI darling](https://biztoc.com/x/777bebc945da1826) (Published: 2026-08-22)
