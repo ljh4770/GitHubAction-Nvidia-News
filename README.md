@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-23 22:32:07**_
+_Last updated: **2026-08-23 22:53:03**_
 
 - [clawmetry 0.12.758](https://pypi.org/project/clawmetry/0.12.758/) (Published: 2026-08-22)
 - [The VRAM question finally has a real answer — and it's not what GPU marketing suggests](https://www.makeuseof.com/vram-question-finally-has-real-answer-its-not-what-gpu-marketing-suggests/) (Published: 2026-08-22)
