@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-24 22:43:08**_
+_Last updated: **2026-08-24 23:02:59**_
 
+- [Nvidia says it’s raising some prices more than 15%](https://biztoc.com/x/1d108edc014599e8) (Published: 2026-08-23)
 - [Goldman Sachs spots huge twist ahead of Nvidia’s earnings](https://biztoc.com/x/e08275295fd67be6) (Published: 2026-08-23)
 - [Dark-Moon v1.3.1](https://kitploit.com/en/posts/github-ascit31-dark-moon-v131) (Published: 2026-08-23)
 - [Goldman Sachs spots huge twist ahead of Nvidia’s earnings](https://www.thestreet.com/investing/goldman-sachs-reiterates-buy-nvidia-ahead-of-q2-fy27-earnings) (Published: 2026-08-23)
@@ -10,4 +11,3 @@ _Last updated: **2026-08-24 22:43:08**_
 - [Stock market today: Live updates](https://www.cnbc.com/2026/08/23/stock-market-today-live-updates.html) (Published: 2026-08-23)
 - [lowkey v0.5.229](https://kitploit.com/en/posts/github-inceptionstack-lowkey-v05229) (Published: 2026-08-23)
 - [clawmetry 0.12.763](https://pypi.org/project/clawmetry/0.12.763/) (Published: 2026-08-23)
-- [Sam Altman says he's worried about AI being controlled by a few powerful players](https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8#article) (Published: 2026-08-23)
