@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-24 20:49:46**_
+_Last updated: **2026-08-24 21:14:56**_
 
 - [Nvidia customers notified about AI-related price hikes](https://www.itnews.com.au/news/nvidia-customers-notified-about-ai-related-price-hikes-628364?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+) (Published: 2026-08-23)
 - [Nvidia customers notified about AI-related price hikes](https://www.itnews.com.au/news/nvidia-customers-notified-about-ai-related-price-hikes-628364?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed) (Published: 2026-08-23)
