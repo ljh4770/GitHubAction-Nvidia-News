@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-24 11:05:55**_
+_Last updated: **2026-08-24 11:40:14**_
 
+- [clawmetry 0.12.761](https://pypi.org/project/clawmetry/0.12.761/) (Published: 2026-08-23)
 - [Asus ROG Strix XG32UQWMS 4K OLED gaming monitor review: Fast and flexible performance](https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-strix-xg32uqwms-32-inch-4k-oled-gaming-monitor-review) (Published: 2026-08-23)
 - [Lenovo Yoga Pro 9i Gen 11 Aura Edition Review: A Slick Creator's Laptop at a Steep Price](https://me.pcmag.com/en/laptops/37865/lenovo-yoga-pro-9i-gen-11-aura-edition-review-a-slick-creators-laptop-at-a-steep-price) (Published: 2026-08-23)
 - [Lenovo Yoga Pro 9i Gen 11 Aura Edition Review: A Slick Creator's Laptop at a Steep Price](https://uk.pcmag.com/laptops/166866/lenovo-yoga-pro-9i-gen-11-aura-edition-review-a-slick-creators-laptop-at-a-steep-price) (Published: 2026-08-23)
@@ -9,4 +10,3 @@ _Last updated: **2026-08-24 11:05:55**_
 - [The Dawn of a New Cold War](https://theintercept.com/2026/08/23/trump-china-ai-chips-rare-earth/) (Published: 2026-08-23)
 - [Nvidia earnings and Jackson Hole: What to watch this week](https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html) (Published: 2026-08-23)
 - [Enthusiast mods GTX 1080 Ti with a dual-tower CPU cooler, sees up to 32°C reduction in temps — Mod yields 30W power savings and 9% higher FPS](https://www.tomshardware.com/pc-components/gpus/enthusiast-mods-gtx-1080-ti-with-a-dual-tower-cpu-cooler-sees-up-to-32-c-reduction-in-temps-mod-yields-30w-power-savings-and-9-percent-higher-fps) (Published: 2026-08-23)
-- [mVolt+ Pushes RTX 5090 To 700W Without Shunt Modding, Nearly 21% Above NVIDIA’s Rated 575W TDP](https://wccftech.com/mvolt-pushes-rtx-5090-to-700w-without-shunt-modding-nearly-21-above-nvidias-rated-575w-tdp/) (Published: 2026-08-23)
