@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-25 19:00:21**_
+_Last updated: **2026-08-25 19:38:43**_
 
-- [Nvidia Senior Manager Linked To Supermicro Scheme Smuggling AI Servers To China](https://slashdot.org/story/26/08/24/1844211/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china) (Published: 2026-08-24)
-- [Analyst rethinks Nvidia stock ahead of earnings - thestreet.com](https://slashdot.org/firehose.pl?op=view&amp;id=185134090) (Published: 2026-08-24)
-- [Drone Steered by Nvidia Tech Killed 3 Ukrainian Civilians](https://www.newser.com/story/395194/drone-steered-by-nvidia-tech-killed-3-ukrainian-civilians.html) (Published: 2026-08-24)
-- [Nvidia’s real contribution to US GDP is being hidden by an accounting quirk](https://cryptobriefing.com/nvidia-gdp-contribution-understated-supply-chain/) (Published: 2026-08-24)
-- [Nvidia senior manager caught up in alleged AI chip smuggling to China — faces up to 5 years in prison](https://www.notebookcheck.net/Nvidia-senior-manager-caught-up-in-alleged-AI-chip-smuggling-to-China-faces-up-to-5-years-in-prison.1377269.0.html) (Published: 2026-08-24)
-- [Nvidia senior manager caught up in alleged AI chip smuggling to China — seek 5 years](https://www.notebookcheck.net/Nvidia-senior-manager-caught-up-in-alleged-AI-chip-smuggling-to-China-seek-5-years.1377269.0.html) (Published: 2026-08-24)
-- [Nvidia Senior Manager Linked to Supermicro Scheme Smuggling AI Servers to China](https://slashdot.org/submission/17350174/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china) (Published: 2026-08-24)
-- [CME Group builds marketplace to hedge AI risks with GPU futures contracts](https://cryptobriefing.com/cme-group-gpu-compute-futures-ai-risks/) (Published: 2026-08-24)
-- [Nvidia Makes Another Big AI Bet](https://biztoc.com/x/60616773d9d1725c) (Published: 2026-08-24)
-- [Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT](https://www.lpulite.com) (Published: 2026-08-24)
+- [American Savings Bank files registration statement with the OCC for proposed IPO](https://www.thefly.com/asbh) (Published: 2026-08-24)
+- [Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff](https://www.yahoo.com/news/us/articles/taiwan-charges-9-over-illegal-193342149.html) (Published: 2026-08-24)
+- [clawmetry 0.12.765](https://pypi.org/project/clawmetry/0.12.765/) (Published: 2026-08-24)
+- [Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?](https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html) (Published: 2026-08-24)
+- [SpaceX is hiring a natural gas trader for its rockets and chips](https://thenextweb.com/news/spacex-natural-gas-trading-team-starship-chip-fab) (Published: 2026-08-24)
+- [MSI XpertStation WS300 Review: 748GB of Coherent Memory and 20 PetaFLOPS on a Desk](https://www.storagereview.com/review/msi-xpertstation-ws300-review-748gb-of-coherent-memory-and-20-petaflops-on-a-desk) (Published: 2026-08-24)
+- [Nvidia customers face 15% AI price shock](https://biztoc.com/x/41283bd5af443587) (Published: 2026-08-24)
+- [Coinbase tokenized stocks go live on Base with Chainlink price feeds](https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base) (Published: 2026-08-24)
+- [Trump’s Latest Financial Disclosure Reveal Dubiously Timed Stock Sales](https://newrepublic.com/post/214653/trump-financial-disclosure-stock-sales) (Published: 2026-08-24)
