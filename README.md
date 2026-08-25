@@ -1,5 +1,5 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-25 21:37:07**_
+_Last updated: **2026-08-25 21:57:49**_
 
 - [Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=185135978) (Published: 2026-08-24)
 - [Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers](https://freerepublic.com/focus/f-chat/4392984/posts) (Published: 2026-08-24)
