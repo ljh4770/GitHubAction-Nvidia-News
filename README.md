@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-25 00:37:00**_
+_Last updated: **2026-08-25 02:07:04**_
 
+- [August 2026 Short Term Project Updates](https://www.clojuriststogether.org/news/august-2026-short-term-project-updates/) (Published: 2026-08-24)
+- [Sam Altman voices fears that control of AI could be centered in too few hands](https://siliconangle.com/2026/08/23/sam-altman-voices-fears-that-control-of-ai-could-be-centered-in-too-few-hands/) (Published: 2026-08-24)
+- [nanostream-od added to PyPI](https://pypi.org/project/nanostream-od/) (Published: 2026-08-24)
+- [gpumetric 0.1.2](https://pypi.org/project/gpumetric/0.1.2/) (Published: 2026-08-24)
+- [Shares flat in Asia before Iran sanctions news, Nvidia results](https://biztoc.com/x/2beff30d991a4470) (Published: 2026-08-24)
+- [Wall Street Is Counting on Nvidia to Keep the AI Party Going](https://biztoc.com/x/7ae66b81483657da) (Published: 2026-08-24)
+- [Global Market Today: Asian stocks dip with AI in focus, oil declines](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-dip-with-ai-in-focus-oil-declines/articleshow/133448923.cms) (Published: 2026-08-24)
 - [Why Adaptive Mindsets Outperform Static Processes](https://www.forbes.com/sites/stevedenning/2026/08/23/why-adaptive-mindsets-outperform-static-processes/) (Published: 2026-08-24)
 - [This Week in AI Progress – On the Way to Another 100X in 22 Months](https://www.nextbigfuture.com/2026/08/this-week-in-ai-progress-on-the-way-to-another-100x-in-22-months.html) (Published: 2026-08-24)
 - [cudaq-docs-mcp 0.1.3](https://pypi.org/project/cudaq-docs-mcp/0.1.3/) (Published: 2026-08-24)
-- [Hugging Face: A Failed Chatbot That Is Potentially Worth $13 Billion](https://www.c-sharpcorner.com/news/hugging-face-a-failed-chatbot-that-is-potentially-worth-13-billion) (Published: 2026-08-24)
-- [AI compute race heads toward space as MediaTek executive says 1 million H100s will be mid-tier by 2030](https://www.digitimes.com/news/a20260821PD234/mediatek-digitimes-data-infrastructure-2030.html) (Published: 2026-08-23)
-- [nemo-retriever 2026.8.23.dev192](https://pypi.org/project/nemo-retriever/2026.8.23.dev192/) (Published: 2026-08-23)
-- [Anthropic makes quiet move Nvidia investors must consider](https://biztoc.com/x/4fbca8f6d235854c) (Published: 2026-08-23)
-- [Fabrinet Just Lost Billions in Market Value Due to Nvidia. Here’s Why the Reaction Is Overdone](https://biztoc.com/x/a3f605a3601f7bfd) (Published: 2026-08-23)
-- [nemo-retriever 2026.8.23.dev642](https://pypi.org/project/nemo-retriever/2026.8.23.dev642/) (Published: 2026-08-23)
-- [The AI Debt Boom Is Helping Push Everyone’s Cost of Capital Higher](https://247wallst.com/investing/2026/08/23/the-ai-debt-boom-is-helping-push-everyones-cost-of-capital-higher/) (Published: 2026-08-23)
