@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-26 05:00:09**_
+_Last updated: **2026-08-26 05:42:13**_
 
+- [Asia-Pacific mostly up, earnings in focus](https://biztoc.com/x/6c7f7302a0681771) (Published: 2026-08-25)
+- [Global Market: Nikkei drops as Japanese chip stocks track US tech selloff](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-drops-as-japanese-chip-stocks-track-us-tech-selloff/articleshow/133494573.cms) (Published: 2026-08-25)
+- [Asian shares are mixed as US ups economic pressure on Iran](https://apnews.com/article/stocks-markets-futures-nvidia-bonds-oil-f17fc8cfc61f40114eb7246701b4695d) (Published: 2026-08-25)
+- [SpaceX claims it will put a Vera Rubin NVL72 rack-scale system into orbit next year](https://www.theregister.com/off-prem/2026/08/25/spacex-claims-it-will-put-a-vera-rubin-nvl72-rack-scale-system-into-orbit-next-year/5292067) (Published: 2026-08-25)
+- [openvox added to PyPI](https://pypi.org/project/openvox/) (Published: 2026-08-25)
+- [Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock? - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=185141822) (Published: 2026-08-25)
+- [Nvidia shares set for US$280 billion price swing after earnings, options show](https://www.channelnewsasia.com/business/nvidia-shares-set-us280-billion-price-swing-after-earnings-options-show-6339321) (Published: 2026-08-25)
 - [ED raids 8 locations in fake call centre case, Mohali premises linked to fraud](https://timesofindia.indiatimes.com/city/chandigarh/ed-raids-8-locations-in-fake-call-centre-case-mohali-premises-linked-to-fraud/articleshow/133492871.cms) (Published: 2026-08-25)
 - [AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch](https://biztoc.com/x/c6c4d875cab6d7d1) (Published: 2026-08-25)
-- [Ghaziabad robbery: 2 held after gunfight, Rs 5 lakh of looted Rs 25 lakh recovered](https://timesofindia.indiatimes.com/city/ghaziabad/ghaziabad-robbery-2-held-after-gunfight-rs-5-lakh-of-looted-rs-25-lakh-recovered/articleshow/133491784.cms) (Published: 2026-08-25)
-- [Morning Bid: Waiting on Nvidia for next leg of AI rally](https://biztoc.com/x/c801deb5143a5936) (Published: 2026-08-25)
-- [Undertrial accused found with woman in room during surprise inspection at Mandya hospital](https://timesofindia.indiatimes.com/city/mysuru/undertrial-accused-found-with-woman-in-room-during-surprise-inspection-at-mandya-hospital/articleshow/133492431.cms) (Published: 2026-08-25)
-- [How to Control Automatic Driver Installation in Windows 10 and 11](https://helpdeskgeek.com/control-automatic-driver-installation-windows-10-11/#article) (Published: 2026-08-25)
-- [Six months into war, Trump faces falling support as Americans lose confidence in his presidency](https://timesofindia.indiatimes.com/world/us/six-months-into-war-trump-faces-falling-support-as-americans-lose-confidence-in-his-presidency/articleshow/133492583.cms) (Published: 2026-08-25)
-- [Zoho founder Sridhar Vembu on workplace culture: Why taking initiative may matter more than following orders](https://timesofindia.indiatimes.com/education/news/zoho-founder-sridhar-vembu-on-workplace-culture-why-taking-initiative-may-matter-more-than-following-orders/articleshow/133492220.cms) (Published: 2026-08-25)
-- [‘US not in economic position to further restrict, no one buys their bombast’: Iran](https://timesofindia.indiatimes.com/world/middle-east/us-not-in-economic-position-to-further-restrict-no-one-buys-their-bombast-iran/articleshow/133489820.cms) (Published: 2026-08-25)
-- [In 2007, scientists used NASA satellite measurements to reveal 14 areas of moving water beneath West Antarctica; one hidden lake had drained about 2 cubic kilometres in three years](https://timesofindia.indiatimes.com/science/in-2007-scientists-used-nasa-satellite-measurements-to-reveal-14-areas-of-moving-water-beneath-west-antarctica-one-hidden-lake-had-drained-about-2-cubic-kilometres-in-three-years/articleshow/133491906.cms) (Published: 2026-08-25)
