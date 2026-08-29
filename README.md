@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-29 02:26:04**_
+_Last updated: **2026-08-29 09:17:32**_
 
-- [Stock Market LIVE: GIFT Nifty signals tepid open; Asia mkts mixed; US Fed Chair's speech in focus](https://www.business-standard.com/markets/news/stock-market-live-august-28-nse-bse-sensex-today-nifty50-gift-nifty-tempsens-instruments-share-price-126082800087_1.html) (Published: 2026-08-28)
-- [Shares turn cautious ahead of Warsh speech; FX, bonds hold breath](https://biztoc.com/x/ddebab13ccc4f2be) (Published: 2026-08-28)
-- [Anthropic planned, then abandoned $7 billion purchase of MatX](https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-planned-then-abandoned-7-billion-purchase-of-matx/articleshow/133581322.cms) (Published: 2026-08-28)
-- [nemo-retriever 2026.8.28.dev196](https://pypi.org/project/nemo-retriever/2026.8.28.dev196/) (Published: 2026-08-28)
-- [Positive opening seen amid lacklustre mood in Indian stocks](https://www.thehindubusinessline.com/markets/positive-opening-seen-amid-lacklustre-mood-in-indian-stocks/article71398969.ece) (Published: 2026-08-28)
-- [Shares turn cautious ahead of Warsh's Jackson Hole debut; FX, bonds hold breath](https://www.channelnewsasia.com/business/shares-turn-cautious-ahead-warshs-jackson-hole-debut-fx-bonds-hold-breath-6346686) (Published: 2026-08-28)
-- [Nvidia Just Guided for 70% Revenue Growth in Fiscal Year 2028. Here's What That Means for AI Stocks](https://biztoc.com/x/355780b8ad8f565b) (Published: 2026-08-28)
-- [NVDA Q2 Deep Dive: AI Infrastructure Demand and Supply Constraints Drive Results](https://biztoc.com/x/2b9ace7b23be1cf5) (Published: 2026-08-28)
-- [Nvidia Insists It Can Keep Printing Money to Fund the AI Boom](https://biztoc.com/x/a70841e769440a95) (Published: 2026-08-28)
-- [CNBC Daily Open: Tariffs in spotlight — and Trump has a new name for a lake](https://biztoc.com/x/300487ac29c5b7de) (Published: 2026-08-28)
+- [Big Tech market power will cause UK to lose AI race, think tank warns](https://www.theregister.com/ai-and-ml/2026/08/28/big-tech-market-power-will-cause-uk-to-lose-ai-race-think-tank-warns/5292918) (Published: 2026-08-28)
+- [Nvidia and Cerebras are selling performance their customers will (probably) never see](https://slashdot.org/firehose.pl?op=view&amp;id=185243446) (Published: 2026-08-28)
+- [Fed, BOJ, AI Boom and Elections: What markets are watching next](https://economictimes.indiatimes.com/markets/us-stocks/news/fed-boj-ai-boom-and-elections-what-markets-are-watching-next/articleshow/133587880.cms) (Published: 2026-08-28)
+- [AI data center 800VDC power architecture takes shape; future hurdles require balancing multiple key factors](https://www.digitimes.com/reports/item.php?id=20260819RS400) (Published: 2026-08-28)
+- [Russia’s Sberbank sees more rate cuts, higher growth this year despite Ukrainian attacks](https://biztoc.com/x/7d8ddb659d595833) (Published: 2026-08-28)
+- [NVIDIA Recommended Driver version 595.99.02 out now for Linux](https://www.gamingonlinux.com/2026/08/nvidia-recommended-driver-version-595-99-02-out-now-for-linux/) (Published: 2026-08-28)
+- [Warsh, Nvidia And oil In focus - what’s moving markets](https://biztoc.com/x/63a3e1de808f7617) (Published: 2026-08-28)
+- [Sensex, Nifty trade marginally higher; European mrkt advance](https://www.business-standard.com/markets/capital-market-news/sensex-nifty-trade-marginally-higher-european-mrkt-advance-126082800589_1.html) (Published: 2026-08-28)
+- [Nvidia ships first H200 chips to China, but expects no data-centre revenue from them](https://thenextweb.com/news/nvidia-h200-china-zero-revenue-guidance-europe-gigafactories) (Published: 2026-08-28)
