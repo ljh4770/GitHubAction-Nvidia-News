@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-08-31 01:41:05**_
+_Last updated: **2026-08-31 07:40:47**_
 
-- ['This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking - Push Square](https://slashdot.org/firehose.pl?op=view&amp;id=185288140) (Published: 2026-08-30)
-- [Lenovo Pro 9i Aura Edition review: Impressive creator-grade power that doesn't come cheap](https://www.xda-developers.com/lenovo-pro-9i-review/) (Published: 2026-08-30)
-- [Articles On: China, AI, Cybersecurity, Chinese Hackers, Robotics, Semiconductors, and U.S.-China Tech Competition](https://www.hoover.org/research/articles-china-ai-cybersecurity-chinese-hackers-robotics-semiconductors-and-us-china-tech) (Published: 2026-08-30)
-- [MSI intros new workstation PC with an incredible 496 GB of RAM and 72-core CPU](https://www.notebookcheck.net/MSI-intros-new-workstation-PC-with-an-incredible-496-GB-of-RAM-and-72-core-CPU.1382589.0.html) (Published: 2026-08-29)
-- [clawmetry 0.12.791](https://pypi.org/project/clawmetry/0.12.791/) (Published: 2026-08-29)
-- [nemo-retriever 2026.8.29.dev198](https://pypi.org/project/nemo-retriever/2026.8.29.dev198/) (Published: 2026-08-29)
-- [nemo-retriever 2026.8.29.dev648](https://pypi.org/project/nemo-retriever/2026.8.29.dev648/) (Published: 2026-08-29)
-- [clawmetry 0.12.790](https://pypi.org/project/clawmetry/0.12.790/) (Published: 2026-08-29)
-- [Premium: The Hater's Guide To Circular Financing (Part One)](https://biztoc.com/x/0102edd810757038) (Published: 2026-08-29)
-- [NVIDIA DLSS 5 Neural Rendering In 10 Modern Games – The Best Unofficial DLSS 5 ON vs OFF Comparisons So Far](https://wccftech.com/nvidia-dlss-5-neural-rendering-in-10-modern-games-the-best-unofficial-dlss-5-on-vs-off-comparisons-so-far/) (Published: 2026-08-29)
+- [Xcena and Samsung's Near Memory Compute CXL Device](https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs) (Published: 2026-08-30)
+- [mxfp6-sm120 added to PyPI](https://pypi.org/project/mxfp6-sm120/) (Published: 2026-08-30)
+- [ggmlc added to PyPI](https://pypi.org/project/ggmlc/) (Published: 2026-08-30)
+- [I threw every creative AI tool that I could think of at the Acer Nitro V 16 AI, and this is what happened](https://www.creativebloq.com/tech/laptops/i-threw-every-creative-ai-tool-that-i-could-think-of-at-the-acer-nitro-v-16-ai-and-this-is-what-happened) (Published: 2026-08-30)
+- [How to watch Vigil season 3 online from anywhere – it's *FREE*](https://www.techradar.com/how-to-watch-vigil-season-3-free) (Published: 2026-08-30)
+- [The Most Active Stocks Today Include Tesla, Nvidia, and Apple: Here's My Contrarian Take on All Three](https://biztoc.com/x/2a184d4f7f14efe1) (Published: 2026-08-30)
+- [4.9-magnitude earthquake hits Afghanistan near Hindu Kush](https://timesofindia.indiatimes.com/world/south-asia/4-9-magnitude-earthquake-hits-afghanistan-near-hindu-kush/articleshow/133623211.cms) (Published: 2026-08-30)
+- [Unidentified bodies to be buried early: How Nepal will preserve an identification trail alive](https://timesofindia.indiatimes.com/world/south-asia/early-burial-preserved-dna-how-nepal-plans-to-identify-unnamed-disaster-victims/articleshow/133622688.cms) (Published: 2026-08-30)
+- [‘Take it as a joke’: Shiv Sena leader backs Samay Raina amid Bihar, Kashmir row](https://timesofindia.indiatimes.com/city/mumbai/take-it-as-a-joke-shiv-sena-leader-backs-samay-raina-amid-bihar-kashmir-row/articleshow/133622875.cms) (Published: 2026-08-30)
