@@ -1,13 +1,11 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-03 05:15:27**_
+_Last updated: **2026-09-03 09:55:08**_
 
-- [US Urges Hands-Off Approach to AI Regulation at G20 Tech Meeting](https://www.insurancejournal.com/news/national/2026/09/02/883611.htm) (Published: 2026-09-02)
-- [autoware-lanelet2-to-clipgt added to PyPI](https://pypi.org/project/autoware-lanelet2-to-clipgt/) (Published: 2026-09-02)
-- [South Korea’s $1T AI investment boosts Nvidia, leaves Hynix behind](https://cryptobriefing.com/south-koreas-1t-ai-investment-boosts-nvidia-leaves-hynix-behind/) (Published: 2026-09-02)
-- [DLSS 5 Officially Lands Sept. 3 With NBA 2K27, Boasts 5x Efficiency Gain](https://me.pcmag.com/en/pc-games/37915/dlss-5-officially-lands-sept-3-with-nba-2k27-boasts-5x-efficiency-gain) (Published: 2026-09-02)
-- [GIGABYTE AERO X16 1WH 16" WQXGA Ryzen AI 7 16GB RAM 1TB RTX 5070 Copilot+ Laptop - Lunar White $2063](https://www.ozbargain.com.au/node/973601) (Published: 2026-09-02)
-- [Dell stock surges on record orders for AI servers - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=185359936) (Published: 2026-09-02)
-- [Fei-Fei Li’s World Labs debuts Atlas, a world model showcase for advanced spatial intelligence](https://siliconangle.com/2026/09/01/fei-fei-lis-world-labs-debuts-atlas-a-world-model-showcase-for-advanced-spatial-intelligence/) (Published: 2026-09-02)
-- [「NVIDIA vs Google、そして次の勝者は誰か」と題して、クリーンエネルギー研究所 代表 阪口 幸雄氏によるセミナーを2026年10月9日(金)に開催!!](https://prtimes.jp/main/html/rd/p/000004631.000032407.html) (Published: 2026-09-02)
-- [CoreWeave’s interest expense reaches $640M, up 2.4 times year-over-year](https://cryptobriefing.com/coreweave-interest-expense-640-million-q2-2026/) (Published: 2026-09-02)
-- [Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom](https://economictimes.indiatimes.com/tech/artificial-intelligence/not-just-nvidia-these-power-and-cooling-firms-are-riding-the-trillion-dollar-data-centre-boom/articleshow/133695423.cms) (Published: 2026-09-02)
+- [Acer Showcases Design Powered by NVIDIA RTX Spark™ at IFA 2026](https://www.prnewswire.com/news-releases/acer-showcases-design-powered-by-nvidia-rtx-spark-at-ifa-2026-302867385.html) (Published: 2026-09-02)
+- [gsj-harness-rollout-server 0.1.6](https://pypi.org/project/gsj-harness-rollout-server/0.1.6/) (Published: 2026-09-02)
+- [Acer launches new compact desktop PC globally with 128 GB RAM and Nvidia RTX Spark](https://www.notebookcheck.net/Acer-launches-new-compact-desktop-PC-globally-with-128-GB-RAM-and-Nvidia-RTX-Spark.1385337.0.html) (Published: 2026-09-02)
+- [Saudi fires up Gulf AI race with $15 billion tech deals at LEAP](https://fortune.com/2026/09/02/saudi-fires-up-gulf-ai-race-with-15-billion-tech-deals-at-leap/) (Published: 2026-09-02)
+- [CAPCOM Finally Fixes Dragon’s Dogma 2 Biggest Flaw, As Patch 3.2 Brings Significant Performance Improvements On PC and Consoles](https://wccftech.com/capcom-finally-fixes-dragons-dogma-2-patch-3-2-performance/) (Published: 2026-09-02)
+- [Leading AI-Ready Container Images and Platforms for Enterprise AI](https://cloudtweaks.com/2026/09/ai-container-images-for-enterprise-ai/) (Published: 2026-09-02)
+- [Acer launches seven new gaming monitors across Nitro and Predator families — tri-mode panels, QD-OLEDs, Mini LEDs, 1,000 Hz, and more](https://www.tomshardware.com/monitors/gaming-monitors/acer-launches-seven-new-gaming-monitors-across-nitro-and-predator-families-tri-mode-panels-qd-oleds-mini-leds-1-000-hz-and-more) (Published: 2026-09-02)
+- [Acer unveils tiny Panther Lake workstation with 96 GB RAM and OCuLink](https://www.notebookcheck.net/Acer-unveils-tiny-Panther-Lake-workstation-with-96-GB-RAM-and-OCuLink.1385689.0.html) (Published: 2026-09-02)
