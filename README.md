@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-04 21:44:16**_
+_Last updated: **2026-09-04 23:23:10**_
 
-- [clawmetry 0.12.807](https://pypi.org/project/clawmetry/0.12.807/) (Published: 2026-09-03)
-- [Direxion files for Trillions ETF to track equities over $1T, including 2x leveraged version](https://cryptobriefing.com/direxion-trillions-etf-leveraged-mega-cap/) (Published: 2026-09-03)
-- [Nvidia launches free tool that links idle computers into a personal AI data center - The Verge](https://slashdot.org/firehose.pl?op=view&amp;id=185413412) (Published: 2026-09-03)
-- [Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion](https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion) (Published: 2026-09-03)
-- [Retired Before Nvidia Made Everyone Rich? These 3 ETFs Put the Next Wave in Your IRA Without Betting the Nest Egg](https://biztoc.com/x/69ea2b914acddcc5) (Published: 2026-09-03)
-- [Nvidia CEO and Hugging Face CEO discuss Nvidia’s $12.93 billion acquisition](https://4sysops.com/archives/nvidia-ceo-and-hugging-face-ceo-discuss-nvidias-12-93-billion-acquisition/) (Published: 2026-09-03)
-- [Hugging Face, the French start-up that became AI’s warehouse](https://www.nzherald.co.nz/technology/hugging-face-the-french-start-up-that-became-ais-warehouse/LODSKZDCXFFWJNGDWYNDLHTXBE/) (Published: 2026-09-03)
-- [Nvidia’s $22 billion Hugging Face deal is a bargain hedge](https://www.bloomberg.com/opinion/articles/2026-09-03/nvidia-s-13-billion-hugging-face-deal-is-a-bargain-hedge) (Published: 2026-09-03)
-- [Why Clément Delangue Sold Hugging Face to Nvidia After Turning It Down](https://biztoc.com/x/3708728f1ed476cc) (Published: 2026-09-03)
+- [Ugreen Just Put a Price Tag on the Subscription-Free Smart Home – and It Starts at $899](https://forkast.news/ugreen-just-put-a-price-tag-on-the-subscription-free-smart-home-and-it-starts-at-899/) (Published: 2026-09-03)
+- [We Just Got Our First Real Look at AI PCs With Nvidia’s RTX Spark ‘Superchip’ - WIRED](https://slashdot.org/firehose.pl?op=view&amp;id=185414564) (Published: 2026-09-03)
+- [Hugging Face is too important to fall into Nvidia's hands](https://biztoc.com/x/a1b4126b56309dd6) (Published: 2026-09-03)
+- [How to Carry User Identity Across Federated Kubernetes and AI Platforms](https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/) (Published: 2026-09-03)
+- [Nvidia-Backed Japanese Startup Pushes Ahead in Physical AI](https://newsonjapan.com/article/150618.php) (Published: 2026-09-03)
+- [Hugging Face CEO says 'planets aligned' for Nvidia deal, aims to reach 100M users](https://slashdot.org/firehose.pl?op=view&amp;id=185414116) (Published: 2026-09-03)
+- [OpenAI launches GPT-6 Astra as the start of what it hopes will be its "AGI era"](https://www.xda-developers.com/openai-launches-gpt-6-astra-as-the-start-of-what-it-hopes-will-be-its-agi-era/) (Published: 2026-09-03)
+- [Longevity tech’s credibility problem and the Apple mafia](https://www.cbinsights.com/research/newsletter-september-3-2026/) (Published: 2026-09-03)
+- [clawmetry 0.12.809](https://pypi.org/project/clawmetry/0.12.809/) (Published: 2026-09-03)
+- [Wall Street sees nearly 40% upside for one AI chip giant](https://biztoc.com/x/5217fa069d0e4f7c) (Published: 2026-09-03)
