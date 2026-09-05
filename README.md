@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-05 22:02:53**_
+_Last updated: **2026-09-05 23:49:14**_
 
+- [clawmetry 0.12.813](https://pypi.org/project/clawmetry/0.12.813/) (Published: 2026-09-04)
+- [DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon](https://slashdot.org/firehose.pl?op=view&amp;id=185434266) (Published: 2026-09-04)
+- [AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?](https://biztoc.com/x/6ec97e0726c69cf6) (Published: 2026-09-04)
+- [Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?](https://biztoc.com/x/73d4780c826da28f) (Published: 2026-09-04)
+- [DLSS 5 officially launches inside NBA 2K27, limited to RTX 50-series GPUs for now — Nvidia promises to bring neutral rendering tech to RTX 40-series soon](https://www.tomshardware.com/pc-components/gpus/dlss-5-officially-launches-inside-nba-2k27-limited-to-rtx-50-series-gpus-for-now-nvidia-promises-to-bring-neutral-rendering-tech-to-rtx-40-series-soon) (Published: 2026-09-04)
+- [clawmetry 0.12.812](https://pypi.org/project/clawmetry/0.12.812/) (Published: 2026-09-04)
+- [Dell Technologies delivers world’s first Nvidia Vera Rubin NVL72 racks to CoreWeave](https://cryptobriefing.com/dell-nvidia-vera-rubin-nvl72-coreweave/) (Published: 2026-09-04)
+- [Jim Cramer flagged one stock quietly concentrating portfolios](https://biztoc.com/x/86e76124c09e9d36) (Published: 2026-09-04)
+- [clawmetry 0.12.811](https://pypi.org/project/clawmetry/0.12.811/) (Published: 2026-09-04)
 - [Can China’s chip ambitions reshape the global tech landscape?](https://www.channelnewsasia.com/interactive/china-chip-ambitions-semiconductor-duv-euv/) (Published: 2026-09-04)
-- [TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI](https://decrypt.co/377489/tiktok-bytedance-loan-ai) (Published: 2026-09-04)
-- [clawmetry 0.12.810](https://pypi.org/project/clawmetry/0.12.810/) (Published: 2026-09-04)
-- [Perplexity builds custom serving infrastructure to make AI search faster and cheaper](https://cryptobriefing.com/perplexity-custom-ai-serving-infrastructure/) (Published: 2026-09-04)
-- [GitHub unveils AI coding router with frontier-level quality](https://cryptobriefing.com/github-hydrafusion-ai-coding-router/) (Published: 2026-09-04)
-- [AI compute provider Nscale is looking for $3.5B in pre-IPO financing | TechCrunch](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/) (Published: 2026-09-04)
-- [HP’s latest OmniBooks get RTX Spark, 128 GB LPDDR5X RAM and 3K OLED displays](https://www.notebookcheck.net/HP-s-latest-OmniBooks-get-RTX-Spark-128-GB-LPDDR5X-RAM-and-3K-OLED-displays.1388848.0.html) (Published: 2026-09-04)
-- [Stocks Fall After Jobs Report Adds to Interest Rate Concerns](https://www.newser.com/story/395928/stocks-fall-after-jobs-report-adds-to-interest-rate-concerns.html) (Published: 2026-09-04)
-- [Dell Refurbished Hot Deals: Up to 51% off + free shipping](https://www.dealnews.com/Dell-Refurbished-Hot-Deals-Up-to-51-off-free-shipping/22142868.html) (Published: 2026-09-04)
-- [Nscale seeks $3.5B in financing ahead of planned US IPO](https://cryptobriefing.com/nscale-seeks-billions-financing-ahead-ipo/) (Published: 2026-09-04)
