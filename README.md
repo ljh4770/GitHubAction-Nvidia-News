@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-13 18:47:51**_
+_Last updated: **2026-09-13 21:09:12**_
 
-- [Nvidia may bankroll Anthropic's massive IPO](https://biztoc.com/x/b411704b894e51d7) (Published: 2026-09-12)
-- [Larry Ellison cancels plan to sell Oracle stock](https://www.channelnewsasia.com/business/larry-ellison-cancels-plan-sell-oracle-stock-6380631) (Published: 2026-09-12)
-- [Second-Gen Single-Rack AWS Outposts Puts 2,688 vCPUs and 100TB of EBS in One 42U Rack](https://www.storagereview.com/news/second-gen-single-rack-aws-outposts-puts-2688-vcpus-and-100tb-of-ebs-in-one-42u-rack) (Published: 2026-09-12)
-- [Better AI Chip Stock: Broadcom vs. Nvidia](https://biztoc.com/x/cdc4258111e05a3f) (Published: 2026-09-12)
-- [Analyst sets jaw-dropping Nvidia price target](https://biztoc.com/x/ccdbf40d03a44cc2) (Published: 2026-09-12)
-- [Base records $100M in daily DEX trading volume for tokenized stocks](https://cryptobriefing.com/base-100m-dex-tokenized-stocks/) (Published: 2026-09-12)
-- [Remedy details ray and path tracing hardware specs for Control Resonant ahead of launch](https://www.notebookcheck.net/Remedy-details-ray-and-path-tracing-hardware-specs-for-Control-Resonant-ahead-of-launch.1397889.0.html) (Published: 2026-09-12)
-- [Show HN: Fugu Max and Fugu Ultra v2: Orchestrating the Pareto Frontier](https://sakana.ai/fugu-max-release/) (Published: 2026-09-12)
-- [Prediction: Nvidia Stock Could Be Worth This Much by January 2028](https://biztoc.com/x/8701833eb5177bca) (Published: 2026-09-12)
-- [Analyst sets jaw-dropping Nvidia price target](https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_478bf8d9-e8f1-4350-a526-c59cd7387e86) (Published: 2026-09-12)
+- [Elon Musk commits SpaceX exclusively to Nvidia hardware, sending AMD shares tumbling](https://cryptobriefing.com/spacex-musk-nvidia-ai-infrastructure/) (Published: 2026-09-12)
+- [Nvidia in talks to invest in Anthropic’s mega IPO](https://www.gulf-times.com/article/733103/business/nvidia-in-talks-to-invest-in-anthropics-mega-ipo) (Published: 2026-09-12)
+- [5 Disadvantages Of AMD X3D Processors You Should Know About](https://www.bgr.com/2253104/amd-x3d-processors-disadvantages-you-should-know/) (Published: 2026-09-12)
+- [clawmetry 0.12.875](https://pypi.org/project/clawmetry/0.12.875/) (Published: 2026-09-12)
+- [Cohere $2B-$3B at $20B Valuation: The Sovereign AI Lab Raises a Late-Stage Round Outside the US-China Axis](https://forkast.news/cohere-2b-3b-at-20b-valuation-the-sovereign-ai-lab-raises-a-late-stage-round-outside-the-us-china-axis/) (Published: 2026-09-12)
+- [The Exit Path for AI Labs Is Bifurcating Again: $80B in Acquisitions vs. a Stalled IPO Pipeline](https://forkast.news/the-exit-path-for-ai-labs-is-bifurcating-again-80b-in-acquisitions-vs-a-stalled-ipo-pipeline/) (Published: 2026-09-12)
+- [Anthropic in talks with Nvidia as anchor investor for potential $2 trillion IPO](https://cryptobriefing.com/anthropic-nvidia-record-ipo-talks/) (Published: 2026-09-12)
+- [Coinbase aims to replicate USDC success with tokenized stocks](https://cryptobriefing.com/coinbase-tokenized-stocks-usdc-playbook/) (Published: 2026-09-12)
+- [Nvidia is giving away an RTX 5090](https://www.notebookcheck.net/Nvidia-is-giving-away-an-RTX-5090.1397293.0.html) (Published: 2026-09-12)
