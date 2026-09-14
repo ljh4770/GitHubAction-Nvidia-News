@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-14 01:03:23**_
+_Last updated: **2026-09-14 06:09:23**_
 
+- [This AOC QD-OLED Monitor Targets Competitive Gamers Who Don’t Want 4K](https://the-gadgeteer.com/2026/09/13/aoc-agon-pro-ag276qzd2-280hz-qd-oled-gaming-monitor/) (Published: 2026-09-13)
+- [New CG software you may have missed: 13 September 2026](https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-13-september-2026/) (Published: 2026-09-13)
+- [Hormuz Crossings Fall to Seven as More Ships Sail Without Tracking](https://www.naturalnews.com/2026-09-13-hormuz-crossings-fall-ships-sail-without-tracking.html) (Published: 2026-09-13)
+- [NVIDIA Drivers Not Installing on Windows 11: 7 Fixes That Work](https://helpdeskgeek.com/nvidia-drivers-not-installing-windows-11/#article) (Published: 2026-09-13)
+- [John Ternus inherits Tim Cook’s Apple, but not his valuation](https://www.irishtimes.com/your-money/2026/09/13/john-ternus-inherits-tim-cooks-apple-but-not-his-valuation/) (Published: 2026-09-13)
+- [Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Looks Like](https://biztoc.com/x/7365cb92438a576f) (Published: 2026-09-13)
+- [Nvidia Rtx 5090 96GB Listing Tops Alibaba Under $4,000 - El-Balad.com](https://www.el-balad.com/17050544) (Published: 2026-09-13)
+- [AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo) (Published: 2026-09-13)
+- [Win a One-of-a-Kind Diablo-Inspired Horadric Cube PC or World of Warcraft Dark Portal Custom PC from BlizzCon 2026 + Gigabyte](https://www.ozbargain.com.au/node/974861) (Published: 2026-09-13)
 - [Roxy Jacenko cuts ties with Australia for good as she settles into Singapore - as husband Oliver Curtis builds $1.25 billion AI fortune](https://www.dailymail.com/tvshowbiz/article-16126753/Roxy-Jacenko-cuts-ties-Australia.html) (Published: 2026-09-13)
-- [Hyundai pushes in-house autonomy to 2029, leans on Nvidia from 2028](https://economictimes.indiatimes.com/news/international/business/hyundai-pushes-in-house-autonomy-to-2029-leans-on-nvidia-from-2028/articleshow/134168640.cms) (Published: 2026-09-13)
-- [Hyundai targets Tesla FSD with Artria AI autonomous driving by 2029](https://www.koreajoongangdaily.com/business/hyundai-bets-slow-and-steady-will-win-selfdriving-race-expects-to-overtake-tesla-in-five-years/12871125) (Published: 2026-09-13)
-- [Hyundai Motor to roll out in-house driver-assist system in 2029](https://www.channelnewsasia.com/business/hyundai-motor-roll-out-in-house-driver-assist-system-in-2029-6380911) (Published: 2026-09-13)
-- [Hyundai Motor Group Accelerates Autonomous Driving Innovation with AI-Powered Data Flywheel](https://www.prnewswire.com/news-releases/hyundai-motor-group-accelerates-autonomous-driving-innovation-with-ai-powered-data-flywheel-302876366.html) (Published: 2026-09-13)
-- [nemo-retriever 2026.9.12.dev213](https://pypi.org/project/nemo-retriever/2026.9.12.dev213/) (Published: 2026-09-12)
-- [nemo-retriever 2026.9.12.dev662](https://pypi.org/project/nemo-retriever/2026.9.12.dev662/) (Published: 2026-09-12)
-- [Not Nvidia. Not Micron. This Dirt Cheap “Magnificent Seven” Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case](https://biztoc.com/x/4018d357f393f721) (Published: 2026-09-12)
-- [’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage](https://biztoc.com/x/6047367398c20edc) (Published: 2026-09-12)
-- [Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html) (Published: 2026-09-12)
