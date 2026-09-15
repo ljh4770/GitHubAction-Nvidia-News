@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-15 21:37:17**_
+_Last updated: **2026-09-15 23:41:39**_
 
-- [Show HN: VideoHighlighter – offline self-hosted video analyzer](https://github.com/Aseiel/VideoHighlighter) (Published: 2026-09-14)
-- [Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’](https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html) (Published: 2026-09-14)
-- [Pinterest Boosts AI-Powered Search Speed Sevenfold With Nvidia Tech](https://biztoc.com/x/4001cb7ef99ab5fc) (Published: 2026-09-14)
-- [Wall Street ends down, calls for AI slowdown pummel chipmakers](https://lufkindailynews.com/news_reuters/business/wall-street-ends-down-calls-for-ai-slowdown-pummel-chipmakers/article_53eefe50-8f73-5cc8-8805-edb706159931.html) (Published: 2026-09-14)
-- [OpenAI’s Sam Altman Warns Humans Could Lose Control of AI](https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai) (Published: 2026-09-14)
-- [Trump’s Voter Fraud Quest Is Turning Illegal, Whistleblower Says](https://newrepublic.com/post/215404/trump-voter-fraud-quest-turning-illegal-whistleblower-report) (Published: 2026-09-14)
-- [Trump Calls AI Warnings a ‘Hoax’](https://politicalwire.com/2026/09/14/trump-calls-ai-warnings-a-hoax/) (Published: 2026-09-14)
-- [NVIDIA's RTX 5090 cards are ending up in AI servers in bulk instead of gaming PCs](https://www.tweaktown.com/news/113534/nvidias-rtx-5090-cards-are-ending-up-in-ai-servers-in-bulk-instead-of-gaming-pcs/index.html) (Published: 2026-09-14)
-- [Nvidia ranks No. 1 on TIME’s 2026 World’s Best Companies list for the second year running](https://cryptobriefing.com/nvidia-time-worlds-best-companies-2026/) (Published: 2026-09-14)
+- [Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom](https://biztoc.com/x/986cc9e4080d681c) (Published: 2026-09-14)
+- [Nvidia, MediaTek deepen 20-year chip ties](https://www.digitimes.com/news/a20260914PD229/nvidia-mediatek-market-chipset-gpu.html) (Published: 2026-09-14)
+- [nemo-retriever 2026.9.14.dev664](https://pypi.org/project/nemo-retriever/2026.9.14.dev664/) (Published: 2026-09-14)
+- [Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom](https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html) (Published: 2026-09-14)
+- [DOF Reality 3-Axis Pro Motion Simulator at No Reserve](https://bringatrailer.com/listing/traction-motion-simulator/) (Published: 2026-09-14)
+- [Trump calls Nvidia CEO to talk AI — and gets put on speakerphone in all-hands meeting](https://www.nbcnews.com/politics/donald-trump/nvidia-ceo-jensen-huang-ai-speakerphone-all-hands-meeting-rcna597761) (Published: 2026-09-14)
+- [Nvidia CEO Jensen Huang tells Trump he won’t slow AI development](https://cryptobriefing.com/nvidia-huang-trump-ai-development/) (Published: 2026-09-14)
+- [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) (Published: 2026-09-14)
+- [Temporal Raises $550M at $12.55B Valuation, Signaling Durable Execution as Core Agent Infrastructure](https://forkast.news/temporal-raises-550m-at-12-55b-valuation-signaling-durable-execution-as-core-agent-infrastructure/) (Published: 2026-09-14)
+- [Software reliability specialist Temporal valued at $12.55B in $550M round](https://siliconangle.com/2026/09/14/software-reliability-specialist-temporal-valued-at-12-55b-in-550m-round/) (Published: 2026-09-14)
