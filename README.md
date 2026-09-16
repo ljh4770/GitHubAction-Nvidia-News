@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-16 20:01:52**_
+_Last updated: **2026-09-16 22:52:28**_
 
-- [Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice'](https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html) (Published: 2026-09-15)
-- [OpenAI, Anthropic, Google to create an AI standards body](https://www.rte.ie/news/2026/0915/1591694-openai-anthropic-google-to-create-an-ai-standards-body/) (Published: 2026-09-15)
-- [Nvidia could ride a $3.2 trillion semiconductor boom](https://biztoc.com/x/b9378be08d7610a7) (Published: 2026-09-15)
-- [Prediction: Nvidia's $108 Billion Q3 Guide Will Look Conservative by December](https://biztoc.com/x/33ee6b6f0228a989) (Published: 2026-09-15)
-- [Elon Musk lives in Airstream trailer to oversee xAI’s Memphis expansion](https://cryptobriefing.com/musk-airstream-trailer-xai-memphis-expansion/) (Published: 2026-09-15)
-- [The Mac mini Form Factor is So Perfect, Literally Everyone is Copying It](https://www.yankodesign.com/2026/09/15/the-mac-mini-form-factor-is-so-perfect-literally-everyone-is-copying-it/) (Published: 2026-09-15)
-- [AWS says it can't restore service to Bahrain, UAE facilities 6 months after Iran strikes](https://www.cnbc.com/2026/09/15/aws-cant-restore-service-to-bahrain-uae-6-months-after-iran-strikes.html) (Published: 2026-09-15)
-- [Nvidia CEO Asks Trump To Reassure Everyone That AI Isn’t A World-Ending House Of Cards As AI Stock Prices Fall: ‘It’s All A Hoax, The Data Centers Are Great’](https://kotaku.com/nvidia-ceo-asks-trump-to-reassure-everyone-that-ai-isnt-a-world-ending-house-of-cards-as-ai-stock-prices-fall-its-all-a-hoax-the-data-centers-are-great-2000734601) (Published: 2026-09-15)
-- [Siri AI vs. Gemini: Two Trust Architectures, One Question About Who Sees Your Data](https://forkast.news/siri-ai-vs-gemini-two-trust-architectures-one-question-about-who-sees-your-data/) (Published: 2026-09-15)
+- [Nvidia and Anthropic CEOs diverge on AI safety at Dreamforce: Huang says fast vs. pacing is 'false choice' - CNBC](https://slashdot.org/firehose.pl?op=view&amp;id=185664244) (Published: 2026-09-15)
+- [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/) (Published: 2026-09-15)
+- [AI leaders call for regulations, Trump dismisses 'hoaxes'](https://www.dw.com/en/ai-leaders-call-for-regulations-trump-dismisses-hoaxes/a-79284638) (Published: 2026-09-15)
+- [Factory Raises $200M as It Builds Agents Across the Software Lifecycle](https://devops.com/factory-raises-200m-as-it-builds-agents-across-the-software-lifecycle/) (Published: 2026-09-15)
+- [Microsoft will hold a Windows and Surface event on October 7](https://slashdot.org/firehose.pl?op=view&amp;id=185664130) (Published: 2026-09-15)
+- [iBUYPOWER Element Gaming PC Desktop â Intel Core Ultra 7 265F â NVIDIA GeForce RTX 5060 Ti 8GB â 32GB DDR5 RAM â 2TB NVMe SSD $1399.99 (9 replies)](https://slickdeals.net/f/20020254-ibuypower-element-gaming-pc-desktop-intel-core-ultra-7-265f-nvidia-geforce-rtx-5060-ti-8gb-32gb-ddr5-ram-2tb-nvme-ssd-1399-99) (Published: 2026-09-15)
+- [‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce](https://blogs.nvidia.com/blog/jensen-huang-dreamforce/) (Published: 2026-09-15)
+- [Nvidia boss says AI 'doesn't need new laws' as safety concerns grow](https://biztoc.com/x/774f73ded1086c95) (Published: 2026-09-15)
+- [Satya Nadella says there’s one ‘common sense’ rule AI companies need to follow](https://www.businessinsider.com/satya-nadella-says-one-rule-ai-companies-need-to-follow-2026-9#article) (Published: 2026-09-15)
