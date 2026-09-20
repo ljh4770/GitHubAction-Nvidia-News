@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-20 19:21:13**_
+_Last updated: **2026-09-20 21:41:04**_
 
+- [BNY Sees Cross-Selling and AI Investments Fueling Its Next Growth Phase](https://www.marketbeat.com/instant-alerts/event-bny-sees-cross-selling-and-ai-investments-fueling-its-next-growth-phase-2026-09-19/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-09-19)
+- [Trump's surprise 'AI Force' leaves tech industry searching for answers](https://www.yahoo.com/news/politics/articles/tech-industry-scratches-head-over-203942505.html) (Published: 2026-09-19)
+- [Coinbase’s tokenized stocks exceed $1B in DEX trading volume within first month](https://cryptobriefing.com/coinbase-tokenized-stocks-billion-dex-volume/) (Published: 2026-09-19)
+- [Beware The Beware-ers: Tech Lords Sounding Alarm On Their Own Tech Have Lots To Gain From Latest 180](https://dailycaller.com/2026/09/19/dario-amodei-sam-altman-elon-musk-mark-zuckerberg-jensen-huang-artificial-intelligence) (Published: 2026-09-19)
+- [Equinix Sees AI Driving Data Center Demand, Interconnection Growth](https://www.marketbeat.com/instant-alerts/event-equinix-sees-ai-driving-data-center-demand-interconnection-growth-2026-09-19/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-09-19)
+- [Trump suggests rebranding AI with a new name, says he’s also creating an AI Force | TechCrunch](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) (Published: 2026-09-19)
+- [Trump says he will create ‘AI Force’ with new ‘AI czar’](https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar) (Published: 2026-09-19)
+- [Three Frontier Labs Are Building a FINRA-Style Safety Body. History Suggests It Won’t Be a Brake.](https://forkast.news/three-frontier-labs-are-building-a-finra-style-safety-body-history-suggests-it-wont-be-a-brake/) (Published: 2026-09-19)
 - [Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing technology](https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688) (Published: 2026-09-19)
 - [Forget Buying All Seven: The "Magnificent Seven" Stock Most Likely to Double by 2028](https://biztoc.com/x/314238280e12b91a) (Published: 2026-09-19)
-- [Waiting for Compute Because They Have To Not Because OpenAI Wants to](https://www.nextbigfuture.com/2026/09/waiting-for-compute-because-they-have-to-not-because-openai-wants-to.html) (Published: 2026-09-19)
-- [Thinner Gaming Laptop Designs Can Hit Combined 215W Power Limits Through Experimental Utility While Approaching Thermal Throttling Ceiling And Jet-Like Fan Noise](https://wccftech.com/thinner-gaming-laptops-215w-power-limits-thermal-throttling-fan-noise/) (Published: 2026-09-19)
-- [Bank of Nova Scotia Sees Commercial Growth as Digital, Fee Strategy Gains Traction](https://www.marketbeat.com/instant-alerts/event-bank-of-nova-scotia-sees-commercial-growth-as-digital-fee-strategy-gains-traction-2026-09-19/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-09-19)
-- [China’s hackers are hiding in plain sight](https://www.theblaze.com/columns/opinion/chinas-hackers-are-hiding-in-plain-sight) (Published: 2026-09-19)
-- [Trump announces a new 'AI Force,' but says he will not 'stifle' AI](https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026#article) (Published: 2026-09-19)
-- [VideoProc Converter AI 8.12](https://post.rlsbb.cc/videoproc-converter-ai-8-12-2/) (Published: 2026-09-19)
-- [Kalshi joins Coinbase with filing for US stock perpetual futures](https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures) (Published: 2026-09-19)
-- [CrowdStrike CEO sends strong six-word message on AI cyber safety](https://www.thestreet.com/investing/stocks/crwd-crowdstrike-ceo-ai-safety-genie-out-of-the-bottle) (Published: 2026-09-19)
