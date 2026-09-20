@@ -1,13 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-20 21:41:04**_
+_Last updated: **2026-09-20 23:33:14**_
 
+- [Bank of America survey shows semiconductors remain top crowded trade for fourth straight month](https://cryptobriefing.com/bofa-survey-semiconductors-crowded-trade/) (Published: 2026-09-19)
+- [DGRW Pays Dividends Every Month. Its Biggest Stocks Look Nothing Like a High-Yield ETF](https://247wallst.com/investing/etf/2026/09/19/dgrw-pays-dividends-every-month-its-biggest-stocks-look-nothing-like-a-high-yield-etf/) (Published: 2026-09-19)
+- [America has more 401(k) millionaires than ever before. But if you've been left behind, these are the secrets to transforming your wealth](https://www.dailymail.com/yourmoney/article-16130651/america-401k-millionaires-wealth-secrets.html) (Published: 2026-09-19)
+- [Gen Z are investing like Boomers – with some surprising portfolio decisions](https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of/) (Published: 2026-09-19)
+- [Show HN: Detecting Volumetric DDoS via Covariance Manifold Topology Collapse](https://github.com/PJHkorea/homeostasis-ingress-firewall) (Published: 2026-09-19)
+- [Cardinal Health Targets 13%-15% EPS Growth as Specialty Momentum Builds](https://www.marketbeat.com/instant-alerts/event-cardinal-health-targets-13-15-eps-growth-as-specialty-momentum-builds-2026-09-19/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-09-19)
+- [pfcuda added to PyPI](https://pypi.org/project/pfcuda/) (Published: 2026-09-19)
+- [AP Technology SummaryBrief at 4:15 p.m. EDT](https://www.hastingstribune.com/ap/business/ap-technology-summarybrief-at-4-15-p-m-edt/article_6259b23e-9725-5adb-a21a-1f0020d3e292.html) (Published: 2026-09-19)
+- [nvsh 0.17.0](https://pypi.org/project/nvsh/0.17.0/) (Published: 2026-09-19)
 - [BNY Sees Cross-Selling and AI Investments Fueling Its Next Growth Phase](https://www.marketbeat.com/instant-alerts/event-bny-sees-cross-selling-and-ai-investments-fueling-its-next-growth-phase-2026-09-19/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-09-19)
-- [Trump's surprise 'AI Force' leaves tech industry searching for answers](https://www.yahoo.com/news/politics/articles/tech-industry-scratches-head-over-203942505.html) (Published: 2026-09-19)
-- [Coinbase’s tokenized stocks exceed $1B in DEX trading volume within first month](https://cryptobriefing.com/coinbase-tokenized-stocks-billion-dex-volume/) (Published: 2026-09-19)
-- [Beware The Beware-ers: Tech Lords Sounding Alarm On Their Own Tech Have Lots To Gain From Latest 180](https://dailycaller.com/2026/09/19/dario-amodei-sam-altman-elon-musk-mark-zuckerberg-jensen-huang-artificial-intelligence) (Published: 2026-09-19)
-- [Equinix Sees AI Driving Data Center Demand, Interconnection Growth](https://www.marketbeat.com/instant-alerts/event-equinix-sees-ai-driving-data-center-demand-interconnection-growth-2026-09-19/?utm_source=yahoofinance&amp;utm_medium=yahoofinance) (Published: 2026-09-19)
-- [Trump suggests rebranding AI with a new name, says he’s also creating an AI Force | TechCrunch](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) (Published: 2026-09-19)
-- [Trump says he will create ‘AI Force’ with new ‘AI czar’](https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar) (Published: 2026-09-19)
-- [Three Frontier Labs Are Building a FINRA-Style Safety Body. History Suggests It Won’t Be a Brake.](https://forkast.news/three-frontier-labs-are-building-a-finra-style-safety-body-history-suggests-it-wont-be-a-brake/) (Published: 2026-09-19)
-- [Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing technology](https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688) (Published: 2026-09-19)
-- [Forget Buying All Seven: The "Magnificent Seven" Stock Most Likely to Double by 2028](https://biztoc.com/x/314238280e12b91a) (Published: 2026-09-19)
