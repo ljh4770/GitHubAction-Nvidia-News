@@ -1,6 +1,7 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-21 01:34:29**_
+_Last updated: **2026-09-21 07:06:09**_
 
+- [New CG software you may have missed: 20 September 2026](https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-20-september-2026/) (Published: 2026-09-20)
 - [Kalshi files for perpetual futures tied to US stocks, joins Coinbase in race to bring crypto-native trading to equities](https://cryptobriefing.com/kalshi-coinbase-stock-perpetual-futures/) (Published: 2026-09-20)
 - [Semiconductor Stocks to Buy and Hold Through 2030](https://biztoc.com/x/12af6a99236c22e2) (Published: 2026-09-20)
 - [ALEXANDRA SHULMAN'S NOTEBOOK: My mother's spirit speaks, to say 'hands off my jewels'!](https://www.dailymail.com/news/article-16145213/ALEXANDRA-SHULMANS-NOTEBOOK-mothers.html) (Published: 2026-09-20)
@@ -10,4 +11,3 @@ _Last updated: **2026-09-21 01:34:29**_
 - [nemo-retriever 2026.9.19.dev220](https://pypi.org/project/nemo-retriever/2026.9.19.dev220/) (Published: 2026-09-19)
 - [nemo-retriever 2026.9.19.dev669](https://pypi.org/project/nemo-retriever/2026.9.19.dev669/) (Published: 2026-09-19)
 - [Bank of America survey shows semiconductors remain top crowded trade for fourth straight month](https://cryptobriefing.com/bofa-survey-semiconductors-crowded-trade/) (Published: 2026-09-19)
-- [DGRW Pays Dividends Every Month. Its Biggest Stocks Look Nothing Like a High-Yield ETF](https://247wallst.com/investing/etf/2026/09/19/dgrw-pays-dividends-every-month-its-biggest-stocks-look-nothing-like-a-high-yield-etf/) (Published: 2026-09-19)
