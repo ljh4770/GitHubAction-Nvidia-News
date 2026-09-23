@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-23 18:52:28**_
+_Last updated: **2026-09-23 21:54:59**_
 
-- [APPLE-SA-09-14-2026-5 macOS Sequoia 15.8](https://seclists.org/fulldisclosure/2026/Sep/57) (Published: 2026-09-22)
-- [APPLE-SA-09-14-2026-4 macOS Tahoe 26.7](https://seclists.org/fulldisclosure/2026/Sep/56) (Published: 2026-09-22)
-- [APPLE-SA-09-14-2026-3 macOS Golden Gate 27](https://seclists.org/fulldisclosure/2026/Sep/55) (Published: 2026-09-22)
-- [Russia-Ukraine war is accelerating the dangerous race toward fully autonomous drones](https://theconversation.com/russia-ukraine-war-is-accelerating-the-dangerous-race-toward-fully-autonomous-drones-290877) (Published: 2026-09-22)
-- [mojolearn 0.8.14](https://pypi.org/project/mojolearn/0.8.14/) (Published: 2026-09-22)
-- [A16z is challenging Silicon Valley's love for drop-outs by launching a school | TechCrunch](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/) (Published: 2026-09-22)
-- [bengo added to PyPI](https://pypi.org/project/bengo/) (Published: 2026-09-22)
-- [3 Big Tech Stocks With the Most Upside Right Now](https://biztoc.com/x/584f0a228d20a1b7) (Published: 2026-09-22)
-- [Today’s Top Deals: Hogwarts Legacy for Switch, GeForce RTX 5070 GPU, and Optoma 4K Projector](https://www.ign.com/articles/best-deals-for-september-22-2026) (Published: 2026-09-22)
-- [Is NVIDIA Funding Its Own Stock Rally?](https://biztoc.com/x/cf8d2a925c8f6cfa) (Published: 2026-09-22)
+- [US equity mutual funds record largest underweight in AI equities](https://cryptobriefing.com/us-mutual-funds-underweight-ai-equities/) (Published: 2026-09-22)
+- [Apple poised to join Nvidia in exclusive $5T club](https://cryptobriefing.com/apple-nvidia-5-trillion-market-cap/) (Published: 2026-09-22)
+- [Andreessen Horowitz launches AI school as college alternative](https://www.cbsnews.com/news/andreessen-horowitz-ai-school-college-alternative/) (Published: 2026-09-22)
+- [Wall Street’s GPU Futures Push Stalls at the CFTC](https://www.theinformation.com/articles/wall-streets-gpu-futures-push-stalls-cftc) (Published: 2026-09-22)
+- [AI execs to brief UN Security Council on Wednesday](https://abcnews.com/Politics/ai-ceos-brief-security-council-wednesday/story?id=136661028) (Published: 2026-09-22)
+- [GPU-Z adds support for RTX 50 series hotspot sensor and unreleased RTX 4070 10GB](https://www.tweaktown.com/news/113711/gpu-z-adds-support-for-rtx-50-series-hotspot-sensor-and-unreleased-rtx-4070-10gb/index.html) (Published: 2026-09-22)
+- [The AI boom runs on tens of millions of workers nobody has figured out how to pay, Papaya Global wants to fix that.](https://thenextweb.com/news/papaya-global-ai-workforce-infrastructure-payroll) (Published: 2026-09-22)
+- [Andreessen Horowitz Wants Teens to Skip College for Its New Academy Instead](https://gizmodo.com/andreessen-horowitz-wants-teens-to-skip-college-for-its-new-academy-instead-2000815660) (Published: 2026-09-22)
+- [A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours](https://biztoc.com/x/71f78a36547e5261) (Published: 2026-09-22)
