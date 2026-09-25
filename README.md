@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-25 19:02:06**_
+_Last updated: **2026-09-25 22:13:51**_
 
-- [Trump, Xi thrust fierce U.S.-China AI rivalry into spotlight](https://financialpost.com/technology/tech-news/trump-xi-u-s-china-ai-rivalry) (Published: 2026-09-24)
-- [Meet Feather, the startup building the 'Android of robotics' for developers | TechCrunch](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/) (Published: 2026-09-24)
-- [Can You Be a Boglehead Tech Investor?](https://awealthofcommonsense.com/2026/09/can-you-be-a-boglehead-tech-investor/) (Published: 2026-09-24)
-- [Vancouver AI Company Alebex Ranks 8th in International Speech-to-Text Benchmark](https://financialpost.com/globe-newswire/vancouver-ai-company-alebex-ranks-8th-in-international-speech-to-text-benchmark) (Published: 2026-09-24)
-- [Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal](https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale) (Published: 2026-09-24)
-- [Nscale wants a $35 billion valuation. Nvidia is helping foot the bill](https://biztoc.com/x/8167683fc14c5cb1) (Published: 2026-09-24)
-- [Trump’s dinner for Xi Jinping looks more like a Silicon Valley Summit, but China CEO's are missing; here's the guest list](https://economictimes.indiatimes.com/news/international/us/trumps-dinner-for-xi-jinping-looks-more-like-a-silicon-valley-summit-but-china-ceos-are-missing-heres-the-guest-list/articleshow/134467886.cms) (Published: 2026-09-24)
-- [ssh-keyup 1.4.0](https://pypi.org/project/ssh-keyup/1.4.0/) (Published: 2026-09-24)
-- [Solidigm D5-P5430 30.72TB E3.S Review: Gen4 QLC for Mixed Workloads](https://www.storagereview.com/review/solidigm-d5-p5430-30-72tb-review) (Published: 2026-09-24)
-- [Jensen Huang talks about AI and climate change like a supervillain](https://biztoc.com/x/472e96ad6390976c) (Published: 2026-09-24)
+- [Google's TPUs to catch some rays in orbit next week](https://www.theregister.com/systems/2026/09/24/googles-tpus-to-catch-some-rays-in-orbit-next-week/5298990) (Published: 2026-09-24)
+- [LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff](https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff) (Published: 2026-09-24)
+- [experts4bit-qlora 0.37.4](https://pypi.org/project/experts4bit-qlora/0.37.4/) (Published: 2026-09-24)
+- [Nvidia CEO Doesn’t Care That Kids Are Forgetting Basic Math Because Of AI: ‘I Actually Don’t Know My Address’](https://kotaku.com/nvidia-ceo-doesnt-care-that-kids-are-forgetting-basic-math-because-of-ai-i-actually-dont-know-my-address-2000737092) (Published: 2026-09-24)
+- [Incredible oscilloscope packs an Nvidia T1000 GPU, 12-core AMD EPYC CPU, 96GB RAM, and 1.6TB NVMe SSD — the 38Kg Tektronix DPO can run Windows 10 and features a 15.6-inch Full HD display](https://www.techradar.com/pro/incredible-oscilloscope-packs-an-nvidia-t1000-gpu-12-core-amd-epyc-cpu-96gb-ram-and-1-6tb-nvme-ssd-the-38kg-tektronix-dpo-can-run-windows-10-and-features-a-15-6-inch-full-hd-display) (Published: 2026-09-24)
+- [Trump's state dinner for Xi to feature sea bass and a long list of tech titans](https://www.ksat.com/news/politics/2026/09/24/trumps-state-dinner-for-xi-to-feature-sea-bass-and-a-long-list-of-tech-titans/) (Published: 2026-09-24)
+- [Why Semiconductor Investors Are Rotating From SMH’s Nvidia Concentration to PSI’s Equal-Weight Approach](https://biztoc.com/x/12e18c2638c5f362) (Published: 2026-09-24)
+- [pykatai added to PyPI](https://pypi.org/project/pykatai/) (Published: 2026-09-24)
+- [Trump's state dinner for Xi features sea bass and a long list of tech titans](https://www.yahoo.com/news/politics/articles/trumps-state-dinner-xi-feature-203656437.html) (Published: 2026-09-24)
