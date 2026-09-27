@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-27 12:55:57**_
+_Last updated: **2026-09-27 17:34:37**_
 
-- [Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand](https://slashdot.org/firehose.pl?op=view&amp;id=185868268) (Published: 2026-09-26)
-- [The calculus of altitude](https://timesofindia.indiatimes.com/toi-blogs/roots-identity/the-calculus-of-altitude/articleshow/134504527.cms) (Published: 2026-09-26)
-- [Three gangsters shot in Amritsar police encounter, 5 pistols recovered](https://timesofindia.indiatimes.com/city/amritsar/three-gangsters-shot-in-amritsar-police-encounter-5-pistols-recovered/articleshow/134504433.cms) (Published: 2026-09-26)
-- [Slow walk to eternity](https://timesofindia.indiatimes.com/toi-blogs/roots-identity/slow-walk-to-eternity/articleshow/134504447.cms) (Published: 2026-09-26)
-- [Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand](https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out) (Published: 2026-09-26)
-- [Madhubani court officials, lawyers sensitised on workplace harassment](https://timesofindia.indiatimes.com/city/patna/madhubani-court-officials-lawyers-sensitised-on-workplace-harassment/articleshow/134504512.cms) (Published: 2026-09-26)
-- [In 1984, Gene Simmons paid about $1.35 million for a Beverly Hills estate; after nearly four decades, a $16 million sale and a 3,000-sq-ft rebuild, the former KISS home sold again for $28 million in 2025](https://timesofindia.indiatimes.com/real-estate/news/in-1984-gene-simmons-paid-about-1-35-million-for-a-beverly-hills-estate-after-nearly-four-decades-a-16-million-sale-and-a-3000-sq-ft-rebuild-the-former-kiss-home-sold-again-for-28-million-in-2025/articleshow/134503007.cms) (Published: 2026-09-26)
-- [4,400 crashes, 2,396 deaths: Road fatalities rise despite dip in accidents in Lucknow division](https://timesofindia.indiatimes.com/city/lucknow/road-deaths-rise-despite-even-as-crashes-dip-lucknow-kheri-emerge-as-concern-areas/articleshow/134504310.cms) (Published: 2026-09-26)
-- [Jharkhand govt opposing Mining Bill to protect illegal mining, says Annpurna; Congress hits back](https://timesofindia.indiatimes.com/city/ranchi/jharkhand-govt-opposing-mining-bill-to-protect-illegal-mining-says-annpurna-congress-hits-back/articleshow/134504515.cms) (Published: 2026-09-26)
-- [Meghalaya steps up Aadhaar enrolment, biometric updates](https://timesofindia.indiatimes.com/city/guwahati/meghalaya-steps-up-aadhaar-enrolment-biometric-updates/articleshow/134504462.cms) (Published: 2026-09-26)
+- [Apple And Nvidia Tokenized Stocks Can Now Back USDC Loans On Aave](http://www.newsbtc.com/news/defi/apple-and-nvidia-tokenized-stocks-can-now-back-usdc-loans-on-aave/) (Published: 2026-09-26)
+- [skillmeld added to PyPI](https://pypi.org/project/skillmeld/) (Published: 2026-09-26)
+- [Elon Musk predicts China will resolve AI chip shortage in 2-3 years](https://cryptobriefing.com/musk-predicts-china-ai-chip-shortage-resolved/) (Published: 2026-09-26)
+- [China’s Chip Industry Is On The Rise](https://dailycaller.com/2026/09/26/china-chip-industry-rise-artificial-intelligence-huawei) (Published: 2026-09-26)
+- [Westwood Holdings CEO Brian Casey on Y'all Street and an ETF tracking the AI power ecosystem](https://www.cnbc.com/2026/09/26/westwood-holdings-ceo-on-yall-street-etf-tracking-ai-power-ecosystem.html) (Published: 2026-09-26)
+- [Eye-watering cost of Lauren Sanchez's diamond necklace revealed after wowing at state dinner](https://www.dailymail.com/lifestyle/fashion/article-16161311/lauren-sanchez-diamond-necklace-cost-state-dinner-xi-jinping.html) (Published: 2026-09-26)
+- [Rogue OpenAI agents targeted three separate US government websites | CNN Business](https://www.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites) (Published: 2026-09-26)
+- [jetson-containers-agent 0.10.0](https://pypi.org/project/jetson-containers-agent/0.10.0/) (Published: 2026-09-26)
+- [CoreWeave’s next test: From GPU scarcity to a durable AI cloud](https://siliconangle.com/2026/09/26/coreweaves-next-test-from-gpu-scarcity-to-a-durable-ai-cloud/) (Published: 2026-09-26)
