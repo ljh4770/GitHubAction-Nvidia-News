@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-09-28 07:38:43**_
+_Last updated: **2026-09-28 15:58:03**_
 
-- [Innocn E49M1R ultrawide monitor review](https://www.techradar.com/pro/innocn-e49m1r-ultrawide-monitor-review) (Published: 2026-09-27)
-- [How to watch Eva Longoria: Searching for France from anywhere – it's *FREE*](https://www.techradar.com/how-to-watch/eva-longoria-searching-for-france-free) (Published: 2026-09-27)
-- [Acer Nitro 85 Desktop: Ryzen 7 8700F, RTX 5070, 16GB DDR5, 1TB SSD $1399 + Free S&H](https://slickdeals.net/f/20057829-acer-nitro-85-desktop-ryzen-7-8700f-rtx-5070-16gb-ddr5-1tb-ssd-1399-free-s-h) (Published: 2026-09-27)
-- [Anthropic CEO Amodei: Poorly Managed AI Could Pose “Risk to Humanity”](https://www.naturalnews.com/2026-09-27-amodei-poorly-managed-ai-pose-risk-humanity.html) (Published: 2026-09-27)
-- [OpenAI Discloses Rogue AI Incidents Targeting Government, Education Websites](https://www.naturalnews.com/2026-09-27-openai-discloses-rogue-ai-incidents-targeting-government.html) (Published: 2026-09-27)
-- [Kevin Durant started with a $100,000 investment in this AI startup eight years ago; Nvidia’s $12.9 billion deal could make his stake worth $60 million](https://economictimes.indiatimes.com/news/international/us/kevin-durant-started-with-a-100000-investment-in-this-ai-startup-eight-years-ago-nvidias-12-9-billion-deal-could-make-his-stake-worth-60-million/articleshow/134515296.cms) (Published: 2026-09-27)
-- [GitHub - SkyeShark/eidoverse-video: Video-production toolkit for AI agents: Deno + WebGPU + three.js/TSL render engine with VRM character locomotion, simulations, effects, and a full audio pipeline — real-time GPU rendering with minimal CPU · GitHub](https://github.com/SkyeShark/eidoverse-video) (Published: 2026-09-27)
-- [MSI NVIDIA GeForce RTX 5080 16G VENTUS $1299.99 (4 replies)](https://slickdeals.net/f/20065719-msi-nvidia-geforce-rtx-5080-16g-ventus-1299-99) (Published: 2026-09-27)
-- [Nvidia's push for personal AI computers points to a broader shift toward on-premise compute](https://www.digitimes.com/news/a20260924PD208/nvidia-data.html) (Published: 2026-09-27)
+- [Grab this 14-inch compact gaming laptop powerhouse for $1000 off](https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy) (Published: 2026-09-27)
+- [China Weighs Allowing Purchases of New Nvidia Chips by ByteDance, Alibaba](https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba) (Published: 2026-09-27)
+- [TakeMe2Space to take data centres to space](https://www.thehindubusinessline.com/info-tech/takeme2space-to-take-data-centres-to-space/article71516553.ece) (Published: 2026-09-27)
+- [Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead](https://slashdot.org/firehose.pl?op=view&amp;id=185878646) (Published: 2026-09-27)
+- [Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth](https://biztoc.com/x/53f47aac9c77ee3f) (Published: 2026-09-27)
+- [LAPD to place all-purpose, AI-augmented readers on street lights (This week in AI)](https://www.superpunch.net/2026/09/this-week-in-ai.html) (Published: 2026-09-27)
+- [Micron could surpass Nvidia as top driver of S&P 500 profit growth](https://cryptobriefing.com/micron-surpass-nvidia-sp500-profit-growth/) (Published: 2026-09-27)
+- [Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead](https://www.tomshardware.com/pc-components/gpus/thieves-steal-nvidia-labeled-trailers-expecting-massive-ai-gpu-payday-but-score-40-000-pounds-of-sand-instead-crooks-duped-by-20-tons-of-ballast-sand) (Published: 2026-09-27)
+- [This wireless eGPU claims to deliver RTX 5090-like performance over Wi-Fi](https://www.techspot.com/news/114000-wireless-egpu-claims-deliver-rtx-5090-performance-over.html) (Published: 2026-09-27)
+- [ai-infradr added to PyPI](https://pypi.org/project/ai-infradr/) (Published: 2026-09-27)
