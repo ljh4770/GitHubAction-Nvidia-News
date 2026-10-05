@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-10-04 23:01:42**_
+_Last updated: **2026-10-05 01:51:47**_
 
+- [Got $1,000? 2 Growth Stocks Securing Every AI Data Center](https://biztoc.com/x/a9c8e0533a27e6da) (Published: 2026-10-04)
+- [nemo-retriever 2026.10.4.dev234](https://pypi.org/project/nemo-retriever/2026.10.4.dev234/) (Published: 2026-10-04)
+- [diescope added to PyPI](https://pypi.org/project/diescope/) (Published: 2026-10-04)
+- [nemo-retriever 2026.10.4.dev683](https://pypi.org/project/nemo-retriever/2026.10.4.dev683/) (Published: 2026-10-04)
+- [US Super Intelligence Force gets 120 days to report on AI risks](https://cryptobriefing.com/super-intelligence-force-ai-risks-report/) (Published: 2026-10-04)
+- [Articles On: AI, Nvidia, Tech Competition, AI Safety, Robotics, Innovation, U.S.-China Relations, and Technology Policy](https://www.hoover.org/research/articles-ai-nvidia-tech-competition-ai-safety-robotics-innovation-us-china-relations-and) (Published: 2026-10-04)
+- [Articles On: China, U.S.-China Trade, Tariffs, Chinese Automakers, Electric Vehicles, EU-China Relations, Critical Minerals, Chinese Industry, Technology, and Global Competition](https://www.hoover.org/research/articles-china-us-china-trade-tariffs-chinese-automakers-electric-vehicles-eu-china) (Published: 2026-10-04)
+- [experts4bit-qlora 0.43.0](https://pypi.org/project/experts4bit-qlora/0.43.0/) (Published: 2026-10-03)
 - [Modder Solders Dual 8-Pin Board to RTX 5090's 16-Pin Header, Wires Stay Below 40°C](https://www.techpowerup.com/353370/modder-solders-dual-8-pin-board-to-rtx-5090s-16-pin-header-wires-stay-below-40-c) (Published: 2026-10-03)
-- [AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer](https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080) (Published: 2026-10-03)
-- [mcp-etf-holdings added to PyPI](https://pypi.org/project/mcp-etf-holdings/) (Published: 2026-10-03)
-- [Data Center Comeback: Real Recovery or Just a Supply Squeeze?](https://biztoc.com/x/3c782f3d82c9dbd6) (Published: 2026-10-03)
-- [As public fears of AI grow, Trump digs in on safeguards](https://kuwaittimes.com/article/50867/business/as-public-fears-of-ai-grow-trump-digs-in-on-safeguards/) (Published: 2026-10-03)
-- [Broadcom to lend Anthropic up to $42bn to lease its chips](https://www.gulf-times.com/article/734706/business/broadcom-to-lend-anthropic-up-to-42bn-to-lease-its-chips) (Published: 2026-10-03)
-- [9 insights from ‘Private Tech Trailblazers’: Vertical AI becomes the growth engine](https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/) (Published: 2026-10-03)
-- [Gigabyte Aorus GeForce RTX 5080 Infinity 16G Review: A Soaring Spitfire of a Gaming Card](https://uk.pcmag.com/graphics-cards/167642/gigabyte-aorus-geforce-rtx-5080-infinity-16g-review-a-soaring-spitfire-of-a-gaming-card) (Published: 2026-10-03)
-- [US charges California man with smuggling $300mn of AI servers to China](https://thenextweb.com/news/greg-lui-earthmade-ai-server-smuggling-china) (Published: 2026-10-03)
