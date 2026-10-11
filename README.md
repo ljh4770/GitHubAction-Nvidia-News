@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-10-11 09:35:08**_
+_Last updated: **2026-10-11 15:56:55**_
 
-- [GMKtec EVO-X3 “AMD Ryzen AI MAX+ 395” Mini PC Review: Enhanced Cooling In A Local AI Powerhouse](https://wccftech.com/review/gmktec-evo-x3-amd-ryzen-ai-max-395-mini-pc-review/) (Published: 2026-10-10)
-- [freelm 0.5.0](https://pypi.org/project/freelm/0.5.0/) (Published: 2026-10-10)
-- [nemo-fabric-adapter-catalog 0.5.0a20261010](https://pypi.org/project/nemo-fabric-adapter-catalog/0.5.0a20261010/) (Published: 2026-10-10)
-- [nemo-fabric-adapters-openhands 0.5.0a20261010](https://pypi.org/project/nemo-fabric-adapters-openhands/0.5.0a20261010/) (Published: 2026-10-10)
-- [nemo-fabric-collector 0.5.0a20261010](https://pypi.org/project/nemo-fabric-collector/0.5.0a20261010/) (Published: 2026-10-10)
-- [In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety](https://abcnews.com/US/wireStory/silicon-valley-ai-founders-cheer-trumps-calls-industry-137154175) (Published: 2026-10-10)
-- [imx-camera-toolkit 0.8.2](https://pypi.org/project/imx-camera-toolkit/0.8.2/) (Published: 2026-10-10)
-- [Google expands access to AI detector for images, videos](https://punchng.com/google-expands-access-to-ai-detector-for-images-videos/) (Published: 2026-10-10)
-- [NVIDIA Reportedly Axes RTX 5090 Production, Diverting GB202 Chips To PRO Cards As Gamers Get An RTX 5080 24 GB](https://wccftech.com/nvidia-axes-rtx-5090-production-gamers-get-rtx-5080-24-gb/) (Published: 2026-10-10)
+- [Super Micro smuggling co-conspirator pleads guilty to sending AI chips to China](https://www.tomshardware.com/tech-industry/artificial-intelligence/super-micro-smuggling-co-conspirator-pleads-guilty-to-sending-ai-chips-to-china-broker-admits-breaking-export-control-rules-as-company-co-founder-denies-charges) (Published: 2026-10-10)
+- [This week on Tom's Hardware Premium: October 10, 2026](https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more) (Published: 2026-10-10)
+- [Jim Cramer makes major SpaceX call tied to Nvidia](https://biztoc.com/x/f31523201aaf43b5) (Published: 2026-10-10)
+- [mojolearn-nvidia 0.8.38](https://pypi.org/project/mojolearn-nvidia/0.8.38/) (Published: 2026-10-10)
+- [fastsar 0.1.1](https://pypi.org/project/fastsar/0.1.1/) (Published: 2026-10-10)
+- [AMD Hikes GDDR6 Prices For Partners Starting October 1st, While NVIDIA Reportedly Holds Off On GDDR7](https://wccftech.com/amd-reportedly-raised-gddr6-memory-prices-for-its-partners/) (Published: 2026-10-10)
+- [GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes](https://www.theinformation.com/articles/gpus-wine-cellar-techies-hoarding-ai-compute-homes) (Published: 2026-10-10)
+- [GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes](https://info-reader-production.herokuapp.com/articles/gpus-wine-cellar-techies-hoarding-ai-compute-homes) (Published: 2026-10-10)
+- [trimscript added to PyPI](https://pypi.org/project/trimscript/) (Published: 2026-10-10)
+- [Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle](https://biztoc.com/x/d8bcbf17dcd5c8c1) (Published: 2026-10-10)
