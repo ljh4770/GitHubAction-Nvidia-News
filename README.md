@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-10-14 05:04:02**_
+_Last updated: **2026-10-14 10:06:05**_
 
-- [The Desperate Hunt for AI Computing Power Is Upending Silicon Valley](https://freerepublic.com/focus/f-chat/4398980/posts) (Published: 2026-10-13)
-- [From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA](https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/) (Published: 2026-10-13)
-- [Microsoft Reveals Maia 300 AI Chip As It Works to Reduce Dependence On Nvidia](https://slashdot.org/submission/17351456/microsoft-reveals-maia-300-ai-chip-as-it-works-to-reduce-dependence-on-nvidia) (Published: 2026-10-13)
-- [Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=186291386) (Published: 2026-10-13)
-- [Nvidia and Cisco unveil new optics design to help scale AI factories](https://www.digitimes.com/news/a20261013PR201/nvidia-cisco-optics-design-infrastructure.html) (Published: 2026-10-13)
-- [alethex added to PyPI](https://pypi.org/project/alethex/) (Published: 2026-10-13)
-- [Nvidia's China AI-chip share falls as Huawei closes gap, report finds](https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap-report-finds/articleshow/134907732.cms) (Published: 2026-10-13)
-- [Ad Tech Briefing: Zeta goes big as Apple casts a shadow over Advertising Week](http://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/) (Published: 2026-10-13)
-- [Microsoft Now Has 3 Generations of Its Own AI Chips. Nvidia Is Still the Chip Stock to Buy](https://biztoc.com/x/5951a5e9dd8840f4) (Published: 2026-10-13)
-- [Chip stocks slide as fears mount over AI investment scale](https://cryptobriefing.com/chip-stocks-slide-ai-investment-fears/) (Published: 2026-10-13)
+- [Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania](https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania) (Published: 2026-10-13)
+- [Scientists call for international body to oversee advanced AI](https://www.channelnewsasia.com/business/scientists-call-international-body-oversee-advanced-ai-6455556) (Published: 2026-10-13)
+- [Joe Oliver: AI could help with productivity, if we let it](https://financialpost.com/opinion/ai-help-productivity-if-we-let-it) (Published: 2026-10-13)
+- [Axera Claims AX8860 AI Chip Can Beat the DGX Spark in AI LLMs by 25%, Offering 273 GB/s Bandwidth, 128 GB LP5X Memory, All at 40W While A 4-Module PCIe Card Pumps Out Over 1000 TOPs](https://wccftech.com/axera-ax8860-ai-chip-beat-dgx-spark-ai-llms-128-gb-memory-40w-less-cost/) (Published: 2026-10-13)
+- [Op-Ed: AI energy efficiency: Software can save billions?](https://www.digitaljournal.com/article/op-ed-ai-energy-efficiency-software-can-save-billions/) (Published: 2026-10-13)
+- [Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer](https://biztoc.com/x/beb91813db3f5780) (Published: 2026-10-13)
+- [Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip](https://biztoc.com/x/78e3467c3848e03a) (Published: 2026-10-13)
+- [IMF finds over half of tokenized US stock trading happens after Wall Street closes](https://cryptoslate.com/imf-finds-over-half-of-tokenized-us-stock-trading-happens-after-wall-street-closes/) (Published: 2026-10-13)
+- [mojolearn 0.8.43](https://pypi.org/project/mojolearn/0.8.43/) (Published: 2026-10-13)
