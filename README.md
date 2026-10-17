@@ -1,13 +1,11 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-10-17 13:00:57**_
+_Last updated: **2026-10-17 16:18:32**_
 
-- [Heather Cox Richardson: Incompetence + Corruption at a Historic High](https://dianeravitch.net/2026/10/16/heather-cox-richardson-incompetence-corruption-at-a-historic-high/) (Published: 2026-10-16)
-- [Microsoft Surface Laptop Ultra Review: The First Real AI PC](https://www.wired.com/review/microsoft-surface-laptop-ultra/) (Published: 2026-10-16)
-- [What is Meta’s Muse Spark Open and what can it do?](https://economictimes.indiatimes.com/tech/technology/what-is-metas-muse-spark-open-and-what-can-it-do/articleshow/134995861.cms) (Published: 2026-10-16)
-- [indextts25-inference added to PyPI](https://pypi.org/project/indextts25-inference/) (Published: 2026-10-16)
-- [NetworkNews Audio Announces Audio Press Release (APR) Discussing AI Factories That Turn Power into Usable Compute Output](https://financialpost.com/globe-newswire/networknews-audio-announces-audio-press-release-apr-discussing-ai-factories-that-turn-power-into-usable-compute-output) (Published: 2026-10-16)
-- [Googlebooks are as poorly timed as Valve’s Steam Machine, and may suffer a similar fate](https://www.tomshardware.com/laptops/googlebooks-are-as-poorly-timed-as-valves-steam-machine-and-may-suffer-a-similar-fate) (Published: 2026-10-16)
-- [CoreWeave Founders Cashed Out $3.3 Billion Before The Meltdown](https://biztoc.com/x/f0e3fdf188cebc5d) (Published: 2026-10-16)
-- [This Week in AI: New models, security lapses and a market reckoning](https://www.forbesindia.com/article/business/artificial-intelligence/this-week-in-ai-new-models-security-lapses-and-a-market-reckoning/2999578/1) (Published: 2026-10-16)
-- [Anthropic’s IPO could be the biggest ever. Your AI budget helps explain why](https://fortune.com/2026/10/16/anthropics-ipo-could-be-the-biggest-ever-your-ai-budget-helps-explain-why/) (Published: 2026-10-16)
-- [Want your AI chats to stay private? Brave TEEs up end-to-end encryption](https://www.theregister.com/ai-and-ml/2026/10/16/want-your-ai-chats-to-stay-private-brave-tees-up-end-to-end-encryption/5303462) (Published: 2026-10-16)
+- [Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners](https://www.insurancejournal.com/news/southcentral/2026/10/16/889240.htm) (Published: 2026-10-16)
+- [nvidia-agent-hardener 0.0.16](https://pypi.org/project/nvidia-agent-hardener/0.0.16/) (Published: 2026-10-16)
+- [Wondershare UniConverter 18 Advances AI-Powered Media Processing with Intelligent Automation and Enhanced Creative Tools](https://www.prnewswire.com/news-releases/wondershare-uniconverter-18-advances-ai-powered-media-processing-with-intelligent-automation-and-enhanced-creative-tools-302911243.html) (Published: 2026-10-16)
+- [Elorian launches Glimpse, an AI model built to reason in pictures](https://cryptobriefing.com/elorian-launches-glimpse-visual-reasoning-ai/) (Published: 2026-10-16)
+- [CoreWeave stock wipeout exposes divide between AI fear and greed](https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed/articleshow/134998742.cms) (Published: 2026-10-16)
+- [Managing open-weight model risk in enterprise deployments](https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/) (Published: 2026-10-16)
+- [Broadcom CEO Hock Tan strikes a cautious tone on AI as Nvidia’s Jensen Huang stays bullish](https://cryptobriefing.com/broadcom-hock-tan-nvidia-huang-ai-outlook/) (Published: 2026-10-16)
+- [Surface Laptop Ultra Review : 10 Things to Know About Microsoft's $2,599 RTX Spark Laptop Before You Buy It](https://www.ibtimes.com.au/microsoft-surface-laptop-ultra-review-rtx-spark-1876911) (Published: 2026-10-16)
