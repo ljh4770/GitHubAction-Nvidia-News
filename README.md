@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-10-22 17:56:58**_
+_Last updated: **2026-10-22 21:21:33**_
 
-- [Era4 ties financial sovereignty to Britain’s AI infrastructure](https://siliconangle.com/2026/10/21/era4-ties-financial-sovereignty-britains-ai-infrastructure-hpesovereignai/) (Published: 2026-10-21)
-- [Nvidia’s Jensen Huang joined on stage by robot ducks as he hails Europe’s AI potential](https://nypost.com/2026/10/21/business/nvidias-jensen-huang-joined-on-stage-by-robot-ducks-as-he-hails-europes-ai-potential/) (Published: 2026-10-21)
-- [Nvidia's Huang hails Europe's AI potential, flanked by robot ducks - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=186397414) (Published: 2026-10-21)
-- [(PR) NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout](https://www.techpowerup.com/353982/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout) (Published: 2026-10-21)
-- [VideoProc Converter AI 8.13](https://post.rlsbb.cc/videoproc-converter-ai-8-13/) (Published: 2026-10-21)
-- [Microsoft and Alphabet object to blockchain versions of their shares—but their veto only goes so far](https://fortune.com/2026/10/21/microsoft-alphabet-object-blockchain-versions-shares-veto/) (Published: 2026-10-21)
-- [Model Moats: The Vanishing Weight and the Price of the Watt](https://forkast.news/model-moats-the-vanishing-weight-and-the-price-of-the-watt/) (Published: 2026-10-21)
-- [AI rivals are thirsty for SpaceX's compute, Elon Musk says](https://www.businessinsider.com/ai-rivals-spacex-compute-elon-musk-earnings-call-2026-10#article) (Published: 2026-10-21)
-- [The Cheapest NVIDIA Has Looked All Month: What the Price Target Says](https://biztoc.com/x/4d16dc3511fae8ab) (Published: 2026-10-21)
+- [greenray-aio 0.5.0](https://pypi.org/project/greenray-aio/0.5.0/) (Published: 2026-10-21)
+- [greenray-aio added to PyPI](https://pypi.org/project/greenray-aio/) (Published: 2026-10-21)
+- [CoreWeave’s market confidence erodes as bond yields spike and stock sinks](https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html) (Published: 2026-10-21)
+- [Intel will be the next trillion-dollar semiconductor company, says Maverick Capital's cohead](https://www.businessinsider.com/maverick-david-tykocinski-intel-investment-pitch-stock-2026-10#article) (Published: 2026-10-21)
+- [Apple shares hit new all-time closing high](https://macdailynews.com/2026/10/21/apple-shares-hit-new-all-time-closing-high-36/) (Published: 2026-10-21)
+- [revolta 0.1.1](https://pypi.org/project/revolta/0.1.1/) (Published: 2026-10-21)
+- [revolta added to PyPI](https://pypi.org/project/revolta/) (Published: 2026-10-21)
+- [$4,000 in These 4 Non-Nvidia Chip Stocks Could Be Worth This Much by 2030](https://biztoc.com/x/7ba9919d8a3fd86c) (Published: 2026-10-21)
+- [Nvidia turns the AI factory into a product, and agents into the workload](https://siliconangle.com/2026/10/21/nvidia-turns-the-ai-factory-into-a-product-and-agents-into-the-workload/) (Published: 2026-10-21)
+- [Billionaires fleeing California could turn a $30 billion tax windfall into a $39 billion loss, Stanford economists warn](https://fortune.com/2026/10/21/california-billionaire-tax-prop-40-stanford-study-39-billion-loss/) (Published: 2026-10-21)
