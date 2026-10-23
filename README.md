@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-10-23 18:34:38**_
+_Last updated: **2026-10-23 21:38:02**_
 
-- [Steep bill for AI buildout punishes Meta, other tech favorites](https://www.channelnewsasia.com/business/steep-bill-ai-buildout-punishes-meta-other-tech-favorites-6484166) (Published: 2026-10-22)
-- [AI debt and French bonds face a stress test — why it may not be over](https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html) (Published: 2026-10-22)
-- [Google Deepmind Employees Resign in Protest over AI Deal with Trump's Pentagon](https://www.breitbart.com/tech/2026/10/22/google-deepmind-employees-resign-in-protest-over-ai-deal-with-trumps-pentagon/) (Published: 2026-10-22)
-- [Brad Bird to Receive Lifetime Achievement Award at 2026 Infinity Festival](https://www.thewrap.com/creative-content/movies/infinity-festival-2026-brad-bird-travis-knight-tangles/) (Published: 2026-10-22)
-- [Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs](https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs) (Published: 2026-10-22)
-- [The Ghosts of Bubbles Past](https://dailyreckoning.com/post/the-ghosts-of-bubbles-past) (Published: 2026-10-22)
-- [Atari VCS is nearing the end of the road — can homebrew keep console alive?](https://www.notebookcheck.net/Atari-VCS-is-nearing-the-end-of-the-road-can-homebrew-keep-console-alive.1431377.0.html) (Published: 2026-10-22)
-- [Does The ASUS T1 GeForce RTX 5060 Ti 8GB OC Edition Have Game?](https://pcper.com/2026/10/does-the-asus-t1-geforce-rtx-5060-ti-8gb-oc-edition-have-game/) (Published: 2026-10-22)
-- [Merge tag 'soc-drivers-7.4' of git://git.kernel.org/pub/scm/linux/kernel/git/soc/soc](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2e51c645fee243dbcb5cee3eb063b5713317444c) (Published: 2026-10-22)
-- [Valley National Bancorp Q3 2026 Earnings Call Summary](https://biztoc.com/x/4f1f29b1c15e0fa0) (Published: 2026-10-22)
+- [greenray-aio 0.9.1](https://pypi.org/project/greenray-aio/0.9.1/) (Published: 2026-10-22)
+- [greenray-aio 0.9.0](https://pypi.org/project/greenray-aio/0.9.0/) (Published: 2026-10-22)
+- [greenray-aio 0.8.0](https://pypi.org/project/greenray-aio/0.8.0/) (Published: 2026-10-22)
+- [The AI’t Just Predict Equipment Failures—It Decides What Happens Nexts $1 Trillion Pace: What Has to Go Right](https://www.nextbigfuture.com/2026/10/elons-1-trillion-pace-what-has-to-go-right.html) (Published: 2026-10-22)
+- [Left 4 Dead 2 Remake Officially Unveiled By NVIDIA](https://screenrant.com/left-4-dead-2-remake-rtx-nvidia-trailer/) (Published: 2026-10-22)
+- [Apple shares hit new all-time intraday and closing highs](https://macdailynews.com/2026/10/22/apple-shares-hit-new-all-time-intraday-and-closing-highs-261022/) (Published: 2026-10-22)
+- [Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election](https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html) (Published: 2026-10-22)
+- [SpaceX works with Apollo, Nvidia on new Grok partnership program](https://financialpost.com/technology/spacex-works-with-apollo-nvidia-grok-partnership-program) (Published: 2026-10-22)
+- [Meta struck an unusual deal to keep Mark Zuckerberg from leaving California](https://finance.yahoo.com/technology/articles/meta-struck-deal-keep-mark-204441885.html) (Published: 2026-10-22)
