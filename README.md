@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-10-24 09:00:08**_
+_Last updated: **2026-10-24 13:14:29**_
 
-- [nemo-fabric-adapters-openhands 0.6.0a20261023](https://pypi.org/project/nemo-fabric-adapters-openhands/0.6.0a20261023/) (Published: 2026-10-23)
-- [nemo-fabric-collector 0.6.0a20261023](https://pypi.org/project/nemo-fabric-collector/0.6.0a20261023/) (Published: 2026-10-23)
-- [Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans](https://biztoc.com/x/ee298380e368e61e) (Published: 2026-10-23)
-- [METRO Redux’s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA’s Neural Rendering Gives Old Characters New Life](https://wccftech.com/metro-redux-next-gen-update-dlss-5-neural-rendering-character-upgrade/) (Published: 2026-10-23)
-- [ppg-bench added to PyPI](https://pypi.org/project/ppg-bench/) (Published: 2026-10-23)
-- [NVIDIA GeForce RTX 5080 & RTX 5070 Ti 16 GB Graphics Cards Witness A Huge Price Increase of Up to $300, As Market Prepares For An Even More Expensive 24 GB 5080](https://wccftech.com/nvidia-geforce-rtx-5080-rtx-5070-ti-16-gb-huge-price-increase-24-gb-5080-inbound/) (Published: 2026-10-23)
-- [Show HN: A dating SIM where 1k people run on models built from survey data](https://sexandthecity.fun) (Published: 2026-10-23)
-- [Nvidia CEO Jensen Huang visits Kazakhstan to discuss AI hub plans](https://cryptobriefing.com/nvidia-jensen-huang-kazakhstan-ai-hub/) (Published: 2026-10-23)
-- [Vampir global launch set for October 27](https://www.notebookcheck.net/Vampir-global-launch-set-for-October-27.1432098.0.html) (Published: 2026-10-23)
-- [Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans](https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html) (Published: 2026-10-23)
+- [ASRock Challenger Arc B580 12GB Graphics Card for $315 + free shipping](https://www.dealnews.com/ASRock-Challenger-Arc-B580-12-GB-Graphics-Card-for-315-free-shipping/22307793.html) (Published: 2026-10-23)
+- [Security updates for Friday](https://lwn.net/Articles/1102546/) (Published: 2026-10-23)
+- [Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network](https://slashdot.org/firehose.pl?op=view&amp;id=186426092) (Published: 2026-10-23)
+- [mujoco-warp-pbr 0.1.0](https://pypi.org/project/mujoco-warp-pbr/) (Published: 2026-10-23)
+- [Nvidia CEO Jensen Huang calls for US to keep attracting top tech talent](https://cryptobriefing.com/nvidia-jensen-huang-us-tech-talent-immigration/) (Published: 2026-10-23)
+- [Trump Leveraged FCC ‘Investigation’ Into Dish CEO Charlie Ergen To Get Him To Donate To Ballroom](https://slashdot.org/firehose.pl?op=view&amp;id=186425984) (Published: 2026-10-23)
+- [Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network](https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor) (Published: 2026-10-23)
+- [Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness](https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness) (Published: 2026-10-23)
+- [Higgsfield Extends Series B With New Investment From TCV and NVIDIA](https://www.prnewswire.com/news-releases/higgsfield-extends-series-b-with-new-investment-from-tcv-and-nvidia-302918071.html) (Published: 2026-10-23)
