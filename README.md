@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-11-01 14:26:33**_
+_Last updated: **2026-11-01 19:03:46**_
 
-- [Pillion rider dies after car hits bike from behind](https://timesofindia.indiatimes.com/city/mangaluru/pillion-rider-dies-after-car-hits-bike-from-behind/articleshow/135403749.cms) (Published: 2026-10-31)
-- [PM Narendra Modi showcases Kevadia's Vaman Vriksha Vatika, Rainforest; highlights skywalk, Statue of Unity views](https://timesofindia.indiatimes.com/city/vadodara/pm-narendra-modi-showcases-kevadias-vaman-vriksha-vatika-rainforest-highlights-skywalk-statue-of-unity-views/articleshow/135402929.cms) (Published: 2026-10-31)
-- [From asses to masses, Republicans wonder if Trump can still deliver wins](https://timesofindia.indiatimes.com/world/us/from-asses-to-masses-republicans-wonder-if-trump-can-still-deliver-wins/articleshow/135403383.cms) (Published: 2026-10-31)
-- [ED issues provisional attachment order worth Rs 427.2 crore in Ponzi scheme](https://timesofindia.indiatimes.com/city/mangaluru/ed-issues-provisional-attachment-order-worth-rs-427-2-crore-in-ponzi-scheme/articleshow/135403674.cms) (Published: 2026-10-31)
-- [Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors](https://biztoc.com/x/1222c61f5edee704) (Published: 2026-10-31)
-- [This Week’s Awesome Tech Stories From Around the Web (Through October 31)](https://singularityhub.com/2026/10/31/this-weeks-awesome-tech-stories-from-around-the-web-through-october-31-2/#article) (Published: 2026-10-31)
-- [Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips](https://biztoc.com/x/b308c600bd4bf0fa) (Published: 2026-10-31)
-- [Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs](https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent) (Published: 2026-10-31)
-- [a2api added to PyPI](https://pypi.org/project/a2api/) (Published: 2026-10-31)
-- [This week in Tom's Hardware Premium: October 31, 2026 — Vera CPUs available on Oracle clusters, building an agentic CPU benchmark and a primer to LLMs](https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-october-31-2026-vera-cpus-available-on-oracle-clusters-building-an-agentic-cpu-benchmark-and-a-primer-to-llms) (Published: 2026-10-31)
+- [torch-friends added to PyPI](https://pypi.org/project/torch-friends/) (Published: 2026-10-31)
+- [Microsoft's DirectX Raytracing Trick Could Slash VRAM Use By Up To 90%](https://hothardware.com/news/microsoft-dxr-clas-ptlas-indrect-rtas) (Published: 2026-10-31)
+- [Nvidia denies report that its CEO was allegedly targeted in Chinese spy plot - ABC News](https://biztoc.com/x/7e555231b14a4ef4) (Published: 2026-10-31)
+- [Politicians Attack Data Centers While Profiting from their Construction](https://www.motherjones.com/politics/2026/10/politicians-investments-ai-data-centers/) (Published: 2026-10-31)
+- [AI Agents Take the Search for Alien Life to a Whole New Level](https://incrediblethings.com/ai-powered-search-for-extraterrestrial-intelligence/) (Published: 2026-10-31)
+- [The RAM crisis feels relentless, but Black Friday could come to your rescue](https://www.techradar.com/computing/memory/the-ram-crisis-has-become-a-monster-heres-why-black-friday-is-your-best-chance-of-slaying-the-beast-and-what-pc-bargains-you-should-look-for) (Published: 2026-10-31)
+- [OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements](https://www.infoq.com/news/2026/10/openbsd-8-released/) (Published: 2026-10-31)
+- [Microsoft just gave Nvidia shareholders a reason to pay attention](https://biztoc.com/x/86aa0f40dc07d667) (Published: 2026-10-31)
+- [vllm-thermald 0.1.0](https://pypi.org/project/vllm-thermald/0.1.0/) (Published: 2026-10-31)
