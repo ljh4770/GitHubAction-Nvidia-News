@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-11-08 08:52:44**_
+_Last updated: **2026-11-08 15:41:49**_
 
-- [nemo-fabric-collector 0.7.0a20261107](https://pypi.org/project/nemo-fabric-collector/0.7.0a20261107/) (Published: 2026-11-07)
-- [nemo-fabric-evidence 0.7.0a20261107](https://pypi.org/project/nemo-fabric-evidence/0.7.0a20261107/) (Published: 2026-11-07)
-- [Nvidia vs Intel: Which Chip Stock Is Riskier as AI Selloff Hits Both and Nvidia's Nov. 17 Earnings Test Looms](https://www.ibtimes.com.au/nvidia-intel-different-risks-tech-selloff-1878081) (Published: 2026-11-07)
-- [Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas](https://biztoc.com/x/695ed25ad681ccb8) (Published: 2026-11-07)
-- [Nvidia may face a more hostile post-election Washington: Report](https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report) (Published: 2026-11-07)
-- [AI’s power needs outpace data center growth, impacting Oklo and NuScale Power](https://cryptobriefing.com/ais-power-needs-outpace-data-center-growth-impacting-oklo-and-nuscale-power/) (Published: 2026-11-07)
-- [Tech billionaire allegedly had 'romantic relationship' with suspected Chinese spy, who the US believes could put Nvidia boss at risk of honey trap, report claims](https://www.dailymail.com/news/article-16273589/Tech-billionaire-Jensen-Huang-romantic-relationship-Alice-Huang-Chinese-spy-Nvidia-boss.html) (Published: 2026-11-07)
-- [Nasdaq futures rise after steep AI selloff as chip stocks stabilize](https://www.mvariety.com/business/business_news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize/article_6206b3d4-dcc0-4ee2-9578-38a52d754b09.html) (Published: 2026-11-07)
-- [Cosa sappiamo su Mistral Large 4?](https://www.infodata.ilsole24ore.com/2026/11/07/cosa-sappiamo-su-mistral-large-4/) (Published: 2026-11-07)
+- [TSMC Jumped 6% on a Report It Could Make Memory Chips for Nvidia](https://biztoc.com/x/391dba18e47787dc) (Published: 2026-11-07)
+- [Jensen Huang Had A "Romantic Relationship" With An Alleged Chinese Spy: Reports](https://biztoc.com/x/7464a2366fba9115) (Published: 2026-11-07)
+- [clawmetry 0.12.942](https://pypi.org/project/clawmetry/0.12.942/) (Published: 2026-11-07)
+- [Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash) (Published: 2026-11-07)
+- [A Clemson student turned a Reachy Mini into a multilingual conference assistant](https://the-gadgeteer.com/2026/11/07/reachy-mini-conference-assistant-clemson-student/) (Published: 2026-11-07)
+- [Tech Stock Sell-Off 'Golden Buying Opportunity,' Says Dan Ives](https://biztoc.com/x/cad5ae446fc8aacd) (Published: 2026-11-07)
+- [US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation — spy suspect linked to company accused of smuggli](https://slashdot.org/firehose.pl?op=view&amp;id=186636379) (Published: 2026-11-07)
+- [US intelligence believes Jensen Huang had romantic relationship with Chinese spy in honeypot operation — spy suspect linked to company accused of smuggling $2 billion in AI chips](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips) (Published: 2026-11-07)
+- [How Much Would It Cost To Build A Gaming PC In 2006 Vs. 2026?](https://www.bgr.com/2296945/how-much-would-it-cost-build-gaming-pc-2006-vs-2026/) (Published: 2026-11-07)
+- [Nvidia pitches “inference network” across Brightspeed facilities, Vera Rubin servers by Q1 2027](https://cryptobriefing.com/nvidia-pitches-inference-network-across-brightspeed-facilities-vera-rubin/) (Published: 2026-11-07)
