@@ -1,12 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-11-08 02:00:02**_
+_Last updated: **2026-11-08 08:52:44**_
 
-- [Nvidia reportedly tells data center customers to trim exposure to the Chinese market](https://www.techradar.com/pro/nvidia-reportedly-tells-data-center-customers-to-trim-exposure-to-the-chinese-market) (Published: 2026-11-07)
-- [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree) (Published: 2026-11-07)
-- [nbxtensor 0.0.4](https://pypi.org/project/nbxtensor/0.0.4/) (Published: 2026-11-07)
-- [4 Keys To Building A Quiet PC](https://www.bgr.com/2304112/keys-building-quiet-pc/) (Published: 2026-11-07)
-- [Audi is testing humanoid robots to sort car parts at Ingolstadt](https://the-gadgeteer.com/2026/11/06/audi-is-testing-humanoid-robots-to-sort-car-parts-at-ingolstadt/) (Published: 2026-11-07)
-- [Show HN: Goethe – The infrastructure for self-hosted AI](https://github.com/meshapplied/Goethe) (Published: 2026-11-07)
-- [Nasdaq, S&P 500, Russell 2000 jump, Dow Jones down at US Stock Market, check top performing Wall Street stocks](https://economictimes.indiatimes.com/news/international/us/nasdaq-sp-500-russell-2000-jump-dow-jones-down-at-us-stock-market-check-top-performing-wall-street-stocks/articleshow/135623512.cms) (Published: 2026-11-07)
-- [Thinking Machines launches Inkling 2 Small with near-frontier performance on enterprise benchmarks](https://venturebeat.com/technology/thinking-machines-launches-inkling-2-small-with-near-frontier-performance-on-enterprise-benchmarks) (Published: 2026-11-06)
-- [OpenAI reportedly raises $11B in new funding at $1.25T valuation](https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/) (Published: 2026-11-06)
+- [nemo-fabric-collector 0.7.0a20261107](https://pypi.org/project/nemo-fabric-collector/0.7.0a20261107/) (Published: 2026-11-07)
+- [nemo-fabric-evidence 0.7.0a20261107](https://pypi.org/project/nemo-fabric-evidence/0.7.0a20261107/) (Published: 2026-11-07)
+- [Nvidia vs Intel: Which Chip Stock Is Riskier as AI Selloff Hits Both and Nvidia's Nov. 17 Earnings Test Looms](https://www.ibtimes.com.au/nvidia-intel-different-risks-tech-selloff-1878081) (Published: 2026-11-07)
+- [Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas](https://biztoc.com/x/695ed25ad681ccb8) (Published: 2026-11-07)
+- [Nvidia may face a more hostile post-election Washington: Report](https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report) (Published: 2026-11-07)
+- [AI’s power needs outpace data center growth, impacting Oklo and NuScale Power](https://cryptobriefing.com/ais-power-needs-outpace-data-center-growth-impacting-oklo-and-nuscale-power/) (Published: 2026-11-07)
+- [Tech billionaire allegedly had 'romantic relationship' with suspected Chinese spy, who the US believes could put Nvidia boss at risk of honey trap, report claims](https://www.dailymail.com/news/article-16273589/Tech-billionaire-Jensen-Huang-romantic-relationship-Alice-Huang-Chinese-spy-Nvidia-boss.html) (Published: 2026-11-07)
+- [Nasdaq futures rise after steep AI selloff as chip stocks stabilize](https://www.mvariety.com/business/business_news/nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks-stabilize/article_6206b3d4-dcc0-4ee2-9578-38a52d754b09.html) (Published: 2026-11-07)
+- [Cosa sappiamo su Mistral Large 4?](https://www.infodata.ilsole24ore.com/2026/11/07/cosa-sappiamo-su-mistral-large-4/) (Published: 2026-11-07)
