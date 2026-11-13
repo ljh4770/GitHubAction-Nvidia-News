@@ -1,12 +1,13 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-11-13 10:46:02**_
+_Last updated: **2026-11-13 18:07:42**_
 
-- [Nvidia stock claws back 6% from its low but still trades 5% under its last close](https://cryptobriefing.com/nvidia-stock-rebounds-huang-firing-bets/) (Published: 2026-11-12)
-- [Megaspeed, chip firm at center of Nvidia scandal, pledges to cooperate with U.S. investigation](https://www.nbcnews.com/tech/tech-news/megaspeed-statement-nvidia-jensen-huang-alice-us-exports-chips-china-rcna608939) (Published: 2026-11-12)
-- [Nvidia’s Board Is Reportedly Weighing Jensen Huang’s Removal After a Second Relationship, This Time with an Executive Who Reports to Him](https://thoughtcatalog.com/january-nelson/2026/11/nvidias-board-is-reportedly-weighing-jensen-huangs-removal-after-a-second-relationship-this-time-with-an-executive-who-reports-to-him/) (Published: 2026-11-12)
-- [‘A dark day for Nvidia’: Here’s what analysts are saying as markets brace for news on Huang's fate](https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html) (Published: 2026-11-12)
-- [Nvidia scandal: Singapore firm probes possible US chip export violations](https://punchng.com/nvidia-scandal-singapore-firm-probes-possible-us-chip-export-violations/) (Published: 2026-11-12)
-- [Nvidia Perpetuals Fall 10% as Board Reportedly Weighs Ousting Huang](https://bitcoinfoundation.org/news/companies/nvidia-perpetuals-fall-10-as-board-reportedly-weighs-ousting-huang/) (Published: 2026-11-12)
-- [Asian shares mostly slip as Nvidia’s troubles weigh on AI stocks, despite a rally on Wall St - AP News](https://slashdot.org/firehose.pl?op=view&amp;id=186697228) (Published: 2026-11-12)
-- [Jensen Huang’s 33-Year Reign as Nvidia CEO Ends Amid Affair Reports](https://www.adweek.com/media/jensen-huangs-33-year-reign-as-nvidia-ceo-ends-amid-affair-reports/) (Published: 2026-11-12)
-- [Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM](https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules) (Published: 2026-11-12)
+- [The Technofeudalist Nightmare of K-12 Curricula](https://www.newyorker.com/culture/progress-report/the-technofeudalist-nightmare-of-k-12-curricula) (Published: 2026-11-12)
+- [Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting](https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang) (Published: 2026-11-12)
+- [Best Buy Black Friday Windows Laptop Deals for From $400 + free shipping](https://www.dealnews.com/Best-Buy-Black-Friday-Windows-Laptop-Deals-for-From-400-free-shipping/22384768.html) (Published: 2026-11-12)
+- [yapocis 1.2.0](https://pypi.org/project/yapocis/) (Published: 2026-11-12)
+- [Apex Compute Shows Off Its DLSS Alternative, And It Works on AMD Cards](https://uk.pcmag.com/graphics-cards/168367/apex-compute-shows-off-its-dlss-alternative-and-it-works-on-amd-cards) (Published: 2026-11-12)
+- [Institutional ownership of Nvidia falls 46.01% quarter over quarter to 23.7%](https://cryptobriefing.com/institutional-ownership-of-nvidia-falls-4601-quarter-over-quarter-to-237/) (Published: 2026-11-12)
+- [Alice Huang’s China links: Firms related to her promised Nvidia Blackwell chips to DeepSeek despite US ban, report says](https://www.livemint.com/companies/people/alice-huang-s-china-links-firms-related-to-her-promised-nvidia-blackwell-chips-to-deepseek-despite-us-ban-report-says-11794505719511.html) (Published: 2026-11-12)
+- [Nvidia next CEO: Who’s Jay Puri? Harvard alumnus Indian-origin techie grad to succeed Jensen Huang? Strongest candidate](https://www.livemint.com/companies/people/nvidia-next-ceo-who-s-jay-puri-harvard-alumnus-indian-origin-techie-grad-to-succeed-jensen-huang-strongest-candidate-11794504108122.html) (Published: 2026-11-12)
+- [Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets](https://biztoc.com/x/8a46a6c4402f196d) (Published: 2026-11-12)
+- [Inside Jensen Huang’s luxury homes: From a $185,000 San Jose house to a $38 million San Francisco mansion – How the Nvidia billionaire built his property portfolio](https://economictimes.indiatimes.com/news/international/us/inside-jensen-huangs-luxury-homes-from-a-185000-san-jose-house-to-a-38-million-san-francisco-mansion-how-the-nvidia-billionaire-built-his-property-portfolio/articleshow/135773968.cms) (Published: 2026-11-12)
