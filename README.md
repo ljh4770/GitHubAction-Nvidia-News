@@ -1,13 +1,12 @@
 # Latest NVIDIA News (top 10)
-_Last updated: **2026-11-13 02:57:35**_
+_Last updated: **2026-11-13 10:46:02**_
 
-- [The Don ties in spotlight...](https://www.yahoo.com/news/politics/articles/trumps-ties-nvidia-ceo-jensen-020132818.html) (Published: 2026-11-12)
-- [Alleged Chinese Spy at Center of Firestorm Is in Beijing...](https://www.afr.com/world/asia/suspected-chinese-spy-at-centre-of-nvidia-firestorm-living-in-beijing-20261112-p61dmu) (Published: 2026-11-12)
-- [House Republicans push for Nvidia's Jensen Huang to testify, float subpoena over spy allegations](https://economictimes.indiatimes.com/tech/artificial-intelligence/house-republicans-push-for-nvidias-jensen-huang-to-testify-float-subpoena-over-spy-allegations/articleshow/135753113.cms) (Published: 2026-11-12)
-- [Commerce Department Finalizing Long-Awaited AI Remote Access Rule](https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule) (Published: 2026-11-12)
-- [Commerce Department Finalizing Long-Awaited AI Remote Access Rule](https://info-reader-production.herokuapp.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule) (Published: 2026-11-12)
-- [Anthropic IPO draws multiple times the available orders: Why Wall Street sees it as a test of the AI boom](https://www.livemint.com/companies/news/anthropic-ipo-draws-multiple-times-the-available-orders-why-wall-street-sees-it-as-a-test-of-the-ai-boom-11794451339447.html) (Published: 2026-11-12)
-- [Asian stocks fragile, Nvidia plummets as board to decide CEO's fate](https://www.business-standard.com/markets/news/asian-stocks-fragile-nvidia-plummets-as-board-to-decide-ceo-s-fate-126111200065_1.html) (Published: 2026-11-12)
-- [How Megaspeed built a network in Singapore and Malaysia to move $7.5 billion of Nvidia chips to Chinese companies](https://fortune.com/2026/11/11/megaspeed-nvidia-chips-china-singapore-malaysia/) (Published: 2026-11-12)
-- [Wall St futures fall as Nvidia slides on report of possible CEO ouster](https://biztoc.com/x/03c30c9c163015fd) (Published: 2026-11-12)
-- [Here's What a $10,000 Investment in Nvidia Could Be Worth if Jensen Huang Is Removed as CEO, According to Wall Street Analyst Dan Ives](https://biztoc.com/x/f7be741bc7ab2f99) (Published: 2026-11-12)
+- [Nvidia stock claws back 6% from its low but still trades 5% under its last close](https://cryptobriefing.com/nvidia-stock-rebounds-huang-firing-bets/) (Published: 2026-11-12)
+- [Megaspeed, chip firm at center of Nvidia scandal, pledges to cooperate with U.S. investigation](https://www.nbcnews.com/tech/tech-news/megaspeed-statement-nvidia-jensen-huang-alice-us-exports-chips-china-rcna608939) (Published: 2026-11-12)
+- [Nvidia’s Board Is Reportedly Weighing Jensen Huang’s Removal After a Second Relationship, This Time with an Executive Who Reports to Him](https://thoughtcatalog.com/january-nelson/2026/11/nvidias-board-is-reportedly-weighing-jensen-huangs-removal-after-a-second-relationship-this-time-with-an-executive-who-reports-to-him/) (Published: 2026-11-12)
+- [‘A dark day for Nvidia’: Here’s what analysts are saying as markets brace for news on Huang's fate](https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html) (Published: 2026-11-12)
+- [Nvidia scandal: Singapore firm probes possible US chip export violations](https://punchng.com/nvidia-scandal-singapore-firm-probes-possible-us-chip-export-violations/) (Published: 2026-11-12)
+- [Nvidia Perpetuals Fall 10% as Board Reportedly Weighs Ousting Huang](https://bitcoinfoundation.org/news/companies/nvidia-perpetuals-fall-10-as-board-reportedly-weighs-ousting-huang/) (Published: 2026-11-12)
+- [Asian shares mostly slip as Nvidia’s troubles weigh on AI stocks, despite a rally on Wall St - AP News](https://slashdot.org/firehose.pl?op=view&amp;id=186697228) (Published: 2026-11-12)
+- [Jensen Huang’s 33-Year Reign as Nvidia CEO Ends Amid Affair Reports](https://www.adweek.com/media/jensen-huangs-33-year-reign-as-nvidia-ceo-ends-amid-affair-reports/) (Published: 2026-11-12)
+- [Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM](https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules) (Published: 2026-11-12)
